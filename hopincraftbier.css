@@ -1,1 +1,11 @@
 /* HopInCraftbier custom css */
+#tile-slider-wACrSp {
+    div.ins-tile__wrap {
+        max-width:86%;
+        border-radius: 22px;
+        div.ins-tile__body {
+            height:0;
+            min-height: 0;
+        }
+    }
+}
