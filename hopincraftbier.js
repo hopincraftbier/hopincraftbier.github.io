@@ -1,4 +1,4 @@
-console.log("HopInCraftbier custom js");
+console.log("HopInCraftbier custom js v2");
 /* Get the header element and it's position */
 const headerDiv = document.querySelector("#tile-header-fcHJMd");
 
