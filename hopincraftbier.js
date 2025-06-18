@@ -4,7 +4,7 @@ const headerDiv = document.querySelector("#tile-header-fcHJMd");
 
 if (headerDiv) {
   console.log(headerDiv);
-  const pos = "-" + document.querySelector(".ins-tile--header.ins-tile--left-logo-detailed .ins-header__row:nth-child(1)").offsetHeight + "px";
+  const pos = "-" + document.querySelector(".ins-tile--header .ins-header__row:nth-child(1)").offsetHeight + "px";
   let prevScrollPos = window.scrollY;
   let headerBottom = headerDiv.offsetTop + headerDiv.offsetHeight;
 
