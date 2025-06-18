@@ -1,5 +1,5 @@
 /* HopInCraftbier custom css */
-#tile-product-details, #tile-image-text-JSvjVt, #tile-text-QTyC9X, #tile-text-b2c9Gv {
+#tile-product-details {
     background-color: #F9F9F9;
 }
 #tile-product-details div.ins-tile__wrap {
@@ -91,10 +91,10 @@ div.ins-tile__product-image:hover {
     margin-top: 0;
 }
 #tile-feature-list-qNFye5 {
-    margin-top: -60px;
-}
-#tile-feature-list-qNFye5 div.ins-tile__wrap {
-    margin-bottom: 0;
+    margin-top: -50px;
+    div.ins-tile__wrap {
+        margin-bottom: 0;
+    }
 }
 #tile-text-foXha9 div.ins-tile__wrap {
     margin-bottom: 0;
@@ -106,10 +106,10 @@ div.ins-tile__product-image:hover {
     margin-bottom: 20px;
 }
 #tile-feature-list-zk8ghR {
-    margin-top: -60px;
-}
-#tile-feature-list-zk8ghR div.ins-tile__wrap {
-    margin-bottom: 20px;
+    margin-top: -50px;
+    div.ins-tile__wrap {
+        margin-bottom: 20px;
+    }
 }
 /* == end privacy page == */
 
@@ -131,8 +131,18 @@ div.ec-cart.ec-cart--empty {
 }
 div.ec-cart {
     background-color: #E6E9EB !important;
-    div.ec-cart-discount-group button {
-        background-color: #E6E9EB !important;
+    div.ec-cart-discount-group {
+        button {
+            background-color: #E6E9EB !important;
+        }
+        /*.ec-cart-discount-group__coupon .ec-cart-coupon__wrap:first-child:before {*/
+        /*    content: 'Couponcode\a';*/
+        /*    white-space: pre;*/
+        /*}*/
+        /*.ec-cart-discount-group__giftcard .ec-cart-coupon__wrap:first-child:before {*/
+        /*    content: 'Cadeaubon\a';*/
+        /*    white-space: pre;*/
+        /*}*/
     }
     input, textarea {
         background-color: rgb(230, 233, 235, 70%) !important;
