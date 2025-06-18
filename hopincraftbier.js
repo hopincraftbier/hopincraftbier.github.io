@@ -1,11 +1,19 @@
-console.log("HopInCraftbier custom js v2");
+console.log("HopInCraftbier custom js v3");
 /* Get the header element and it's position */
 const headerDiv = document.querySelector("#tile-header-fcHJMd");
 
 if (headerDiv) {
-  const pos = "-" + document.querySelector(".ins-tile--header .ins-header__row:nth-child(1)").offsetHeight + "px";
+  let announcementsHeight = 0;
+  const announcementDivs = document.querySelectorAll('.ins-tile--announcement-bar');
+  if (announcementDivs) {
+    announcementDivs.forEach(function (d) {
+      announcementsHeight += d.offsetHeight;
+    });
+  }
+
+  const pos = "-" + (announcementsHeight + document.querySelector(".ins-tile--header .ins-header__row:nth-child(1)").offsetHeight) + "px";
   let prevScrollPos = window.scrollY;
-  let headerBottom = headerDiv.offsetTop + headerDiv.offsetHeight;
+  let headerBottom = headerDiv.offsetTop + headerDiv.offsetHeight + announcementsHeight;
 
   window.onscroll = function () {
     let currentScrollPos = window.scrollY;
