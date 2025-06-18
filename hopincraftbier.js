@@ -2,14 +2,15 @@ console.log("HopInCraftbier custom js v2");
 /* Get the header element and it's position */
 const headerDiv = document.querySelector("#tile-header-fcHJMd");
 
-console.log(headerDiv);
 if (headerDiv) {
+  console.log(headerDiv);
   const pos = "-" + document.querySelector(".ins-tile--header.ins-tile--left-logo-detailed .ins-header__row:nth-child(1)").offsetHeight + "px";
   let prevScrollPos = window.scrollY;
   let headerBottom = headerDiv.offsetTop + headerDiv.offsetHeight;
 
   window.onscroll = function () {
     let currentScrollPos = window.scrollY;
+    console.log(prevScrollPos + " - " + currentScrollPos + " - " + headerBottom);
     if (Math.abs(prevScrollPos - currentScrollPos) <= 5) return;
 
     /* if we're scrolling up, or we haven't passed the header,
