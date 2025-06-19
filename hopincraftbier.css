@@ -377,7 +377,7 @@ div.ins-tile__product-item--small.ins-tile__product-item.ins-tile__item:nth-chil
     div.ec-store__content-wrapper div.product-details {
         display: block;
         div.product-details__gallery {
-            margin-bottom: 15px;
+            margin-bottom: 15px !important;
         }
     }
 }
