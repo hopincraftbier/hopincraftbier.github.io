@@ -4,10 +4,15 @@
 }
 #tile-product-details div.ins-tile__wrap {
     margin-top: 30px;
+    min-width: 100%
+}
+
+.ec-size .ec-store .breadcrumbs__link.ec-link a {
+    font-size: 14px;
 }
 div.details-gallery__image-wrapper-inner {
-    border-radius: 20px;
-    border: 2px solid darkgray;
+    border-radius: 8px;
+    border: 1px solid #419488;
 }
 /* breadcrumb */
 div.ec-breadcrumbs a:nth-child(3) {
