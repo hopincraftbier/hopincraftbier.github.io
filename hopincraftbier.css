@@ -15,6 +15,9 @@ div.details-gallery__image-wrapper-inner {
     border: 1px solid #419488;
 }
 /* breadcrumb */
+a.breadcrumbs__link {
+    font-size: 14px;
+}
 div.ec-breadcrumbs a:nth-child(3) {
     display: none;
 }
@@ -232,6 +235,7 @@ div.ecwid-paymentMultiSafepay img {
 }
 .ec-size.ec-size--m .ec-store .product-details--layout-sidebar-right .product-details__description {
     width: 100%;
+    max-width: 65%;
 }
 
 /* discount table */
