@@ -143,10 +143,21 @@ div.ec-cart.ec-cart--empty {
 div.ec-cart {
     div.ec-cart__discount--focus div.ec-cart-discount-group {
         div.ec-cart-discount-group__coupon:before {
-            content: 'Coupon code';
+            content: 'Kortingscode / Coupon code';
         }
         div.ec-cart-discount-group__giftcard:before {
             content: 'Cadeaubon / Gift card code';
+        }
+    }
+    div.ec-cart-discount-group {
+        div.ec-cart-coupon__input div.form-control {
+            border-radius: 8px;
+            input.form-control__text {
+                border-radius: 8px;
+            }
+        }
+        div.ec-cart-coupon__buttons button.form-control__button {
+            border-radius: 8px;
         }
     }
     /*div.ec-cart-discount-group {*/
