@@ -134,33 +134,43 @@ div.ins-tile__product-image:hover {
 /* == end delivery == */
 
 /* == start cart == */
+div.ecwid-checkout-notice > div {
+    margin: auto;
+}
 div.ec-cart.ec-cart--empty {
     background-color: #f9f9f9 !important;
 }
 div.ec-cart {
-    background-color: #E6E9EB !important;
-    div.ec-cart-discount-group {
-        button {
-            background-color: #E6E9EB !important;
+    div.ec-cart__discount--focus div.ec-cart-discount-group {
+        div.ec-cart-discount-group__coupon:before {
+            content: 'Coupon code';
         }
-        /*.ec-cart-discount-group__coupon .ec-cart-coupon__wrap:first-child:before {*/
-        /*    content: 'Couponcode\a';*/
-        /*    white-space: pre;*/
-        /*}*/
-        /*.ec-cart-discount-group__giftcard .ec-cart-coupon__wrap:first-child:before {*/
-        /*    content: 'Cadeaubon\a';*/
-        /*    white-space: pre;*/
-        /*}*/
+        div.ec-cart-discount-group__giftcard:before {
+            content: 'Cadeaubon / Gift card code';
+        }
     }
+    /*div.ec-cart-discount-group {*/
+    /*    button {*/
+    /*        background-color: #F0F0F0 !important;*/
+    /*    }*/
+    /*}*/
     input, textarea {
         background-color: rgb(230, 233, 235, 70%) !important;
     }
     div.ec-cart__sidebar {
-        border-right: 1px solid #f9f9f9 !important;
+        background-color: #F0F0F0;
+        border-radius: 8px;
+        border: 1px solid #419488;
+        margin-right: 10px;
+        box-shadow: 2px 4px 3px rgba(0, 0, 0, 0.2);
         padding: 24px;
     }
     div.ec-cart__body {
-        border-left: 1px solid #f9f9f9 !important;
+        background-color: #F0F0F0;
+        border-radius: 8px;
+        border: 1px solid #419488;
+        margin-left: 10px;
+        box-shadow: 2px 4px 3px rgba(0, 0, 0, 0.2);
         padding: 24px;
     }
 }
