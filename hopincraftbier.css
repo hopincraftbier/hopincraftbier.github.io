@@ -172,8 +172,7 @@ div.ec-store__content-wrapper div.product-details {
         width: 100% !important;
         box-shadow: 0 0 20px 5px rgba(0, 0, 0, 0.1);
         border-radius: 8px;
-        padding-top:20px;
-        padding-bottom:20px;
+        padding: 20px 15px;
         margin-bottom: 0 !important;
     }
     div.product-details__sidebar {
