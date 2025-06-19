@@ -146,19 +146,17 @@ div.ec-cart {
         background-color: rgb(230, 233, 235, 70%) !important;
     }
     div.ec-cart__sidebar {
-        background-color: #F0F0F0;
+        background-color: #F9F9F9;
         border-radius: 8px;
-        border: 1px solid #419488;
         margin-right: 10px;
-        box-shadow: 2px 4px 3px rgba(0, 0, 0, 0.2);
+        box-shadow: 0 0 20px 5px rgba(0, 0, 0, 0.1);
         padding: 24px;
     }
     div.ec-cart__body {
-        background-color: #F0F0F0;
+        background-color: #F9F9F9;
         border-radius: 8px;
-        border: 1px solid #419488;
         margin-left: 10px;
-        box-shadow: 2px 4px 3px rgba(0, 0, 0, 0.2);
+        box-shadow: 0 0 20px 5px rgba(0, 0, 0, 0.1);
         padding: 24px;
     }
 }
