@@ -151,13 +151,13 @@ div.ec-cart {
     }
     div.ec-cart-discount-group {
         div.ec-cart-coupon__input div.form-control {
-            border-radius: 8px;
+            border-radius: 5px !important;
             input.form-control__text {
-                border-radius: 8px;
+                border-radius: 5px !important;
             }
         }
         div.ec-cart-coupon__buttons button.form-control__button {
-            border-radius: 8px;
+            border-radius: 5px;
         }
     }
     /*div.ec-cart-discount-group {*/
