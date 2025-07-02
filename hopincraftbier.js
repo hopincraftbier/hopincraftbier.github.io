@@ -31,27 +31,27 @@ if (headerDiv) {
     prevScrollPos = currentScrollPos;
   }
 }
-var cartTotalMo = new MutationObserver(function(ms) {
-  ms.forEach(function (m) {
-
-    const cartTotal = document.querySelector("span.ec-cart-summary__total");
-    if (cartTotal) {
-      const totalBody = cartTotal.parentElement.parentElement.parentElement;
-      let parts = cartTotal.textContent?.split(' ');
-      if (parts.length >= 2) {
-        let total = Number(parts[1].replace(',', '.'));
-        if (total < 50) {
-          let pickupOnly = 'Enkel ophalen.'
-          if ('EN' === document.querySelector('a.ins-header__language-link--active').textContent.trim()) {
-            pickupOnly = 'Pickup only.';
-          }
-          totalBody.insertAdjacentHTML('beforebegin', '<p style="color:red;"><strong>' + pickupOnly + '</strong></p>');
-        }
-      }
-    }
-  })
-});
-cartTotalMo.observe(document, {
-  childList: true,
-  subtree: true
-});
+// var cartTotalMo = new MutationObserver(function(ms) {
+//   ms.forEach(function (m) {
+//
+//     const cartTotal = document.querySelector("span.ec-cart-summary__total");
+//     if (cartTotal) {
+//       const totalBody = cartTotal.parentElement.parentElement.parentElement;
+//       let parts = cartTotal.textContent?.split(' ');
+//       if (parts.length >= 2) {
+//         let total = Number(parts[1].replace(',', '.'));
+//         if (total < 50) {
+//           let pickupOnly = 'Enkel ophalen.'
+//           if ('EN' === document.querySelector('a.ins-header__language-link--active').textContent.trim()) {
+//             pickupOnly = 'Pickup only.';
+//           }
+//           totalBody.insertAdjacentHTML('beforebegin', '<p style="color:red;"><strong>' + pickupOnly + '</strong></p>');
+//         }
+//       }
+//     }
+//   })
+// });
+// cartTotalMo.observe(document, {
+//   childList: true,
+//   subtree: true
+// });
