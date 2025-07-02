@@ -37,20 +37,17 @@ var cartTotalMo = new MutationObserver(function(ms) {
       if (m.addedNodes[i].nodeType == Node.ELEMENT_NODE) {
         if (typeof m.addedNodes[i].className == "string") {
           var className = m.addedNodes[i].className;
-          console.log('here 0:' + className);
           if (className.indexOf('ec-store__cart-page') >= 0) {
-            console.log('here 1');
             const cartTotal = document.querySelector("span.ec-cart-summary__total");
-            console.log('here 2:'+cartTotal);
             if (cartTotal) {
               const totalBody = cartTotal.parentElement.parentElement.parentElement;
               let parts = cartTotal.textContent?.split(' ');
               if (parts.length >= 2) {
                 let total = Number(parts[1].replace(',', '.'));
                 if (total < 50) {
-                  let pickupOnly = 'Enkel ophalen.'
+                  let pickupOnly = 'Enkel ophalen (totaal lager dan € 50).'
                   if ('EN' === document.querySelector('a.ins-header__language-link--active').textContent.trim()) {
-                    pickupOnly = 'Pickup only.';
+                    pickupOnly = 'Pickup only (total lower than € 50).';
                   }
                   totalBody.insertAdjacentHTML('beforebegin', '<p style="color:red;"><strong>' + pickupOnly + '</strong></p>');
                 }
