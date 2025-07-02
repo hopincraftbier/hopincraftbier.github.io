@@ -51,7 +51,7 @@ var cartTotalMo = new MutationObserver(function(ms) {
     }
   })
 });
-cartTotalMo.observe(document.querySelector("table.ec-cart-summary--group-view"), {
+cartTotalMo.observe(document.querySelector("div.ecwid-productBrowser-CartPage"), {
   childList: true,
   subtree: true
 });
