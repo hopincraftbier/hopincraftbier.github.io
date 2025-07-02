@@ -37,6 +37,7 @@ var cartTotalMo = new MutationObserver(function(ms) {
       if (m.addedNodes[i].nodeType == Node.ELEMENT_NODE) {
         if (typeof m.addedNodes[i].className == "string") {
           var className = m.addedNodes[i].className;
+          console.log('here 0:' + className);
           if (className.indexOf('ec-cart-summary__total') >= 0) {
             console.log('here 1');
             const cartTotal = document.querySelector("span.ec-cart-summary__total");
