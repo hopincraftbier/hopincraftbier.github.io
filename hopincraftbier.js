@@ -37,6 +37,13 @@ var cartTotalMo = new MutationObserver(function(ms) {
       if (m.addedNodes[i].nodeType == Node.ELEMENT_NODE) {
         if (typeof m.addedNodes[i].className == "string") {
           var className = m.addedNodes[i].className;
+          if (className.indexOf('ecwid-checkout-notice') >= 0) {
+            if ('EN' === document.querySelector('a.ins-header__language-link--active').textContent.trim()) {
+              document.querySelector('span.adb_nl').style.display = 'none';
+            } else {
+              document.querySelector('span.adb_en').style.display = 'none';
+            }
+          }
           if (className.indexOf('ec-store__cart-page') >= 0) {
             const cartTotal = document.querySelector("span.ec-cart-summary__total");
             if (cartTotal) {
