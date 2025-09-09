@@ -116,7 +116,6 @@ function processStock() {
     }
   }
   if (document.querySelector('span.details-product-purchase__in-stock-qty')) {
-    console.log('--- 1');
     document.querySelector('span.details-product-purchase__in-stock-qty').style.display = 'none';
   }
 }
