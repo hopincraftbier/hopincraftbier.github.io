@@ -112,8 +112,15 @@ div.ec-store__category-page--176888061 div.grid-category__title-inner {
 }
 /* == end delivery == */
 
-div.ec-related-products div.grid-product__wrap-inner {
-    border-radius: 8px !important;
+div.ec-related-products {
+    div.grid-product__wrap-inner {
+        border-radius: 8px !important;
+        background-color: #d9d7b466 !important;
+    }
+    div.grid-product__image-wrap {
+        border-radius: 8px !important;
+        background-color: #f9f9f9;
+    }
 }
 
 /* == start cart == */
