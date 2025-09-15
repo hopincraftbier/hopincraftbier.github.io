@@ -116,19 +116,15 @@ div.ec-store__category-page--176888061 div.grid-category__title-inner {
 div.ecwid-checkout-notice > div {
     margin: auto;
 }
-#tile-product-details:has(div.ecwid-productBrowser-CartPage) {
+#tile-product-details:has(div.ecwid-productBrowser-CartPage),
+#tile-product-details:has(div.ec-store__checkout-page),
+#tile-product-details:has(div.ec-store__confirmation-page) {
     background-color: #f7f5c666;
     div.ecwid-productBrowser-CartPage {
         background-color: transparent;
     }
     div.ec-cart.ec-cart--empty {
         background-color: transparent !important;
-    }
-}
-#tile-product-details:has(div.ec-store__checkout-page) {
-    background-color: #f7f5c666;
-    div.ecwid-productBrowser {
-        background-color: transparent;
     }
 }
 div.ec-cart {
@@ -210,7 +206,6 @@ label.ec-radiogroup__item--PayPal div.ec-radiogroup__info div.ec-cart-accept__ic
 div.ec-cart-accept__icons div.ecwid-paymentMultiSafepay::before {
     content: "";
     background-size: 450px 51px;
-//    display: inline-block;
     width: 450px;
     height: 51px;
     background-image: url("https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4916197480.png");
