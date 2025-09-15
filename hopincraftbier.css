@@ -118,13 +118,19 @@ div.ecwid-checkout-notice > div {
 }
 #tile-product-details:has(div.ecwid-productBrowser-CartPage),
 #tile-product-details:has(div.ec-store__checkout-page),
-#tile-product-details:has(div.ec-store__confirmation-page) {
+#tile-product-details:has(div.ec-store__confirmation-page),
+#tile-product-details:has(div.ecwid-productBrowser-ProductPage) {
     background-color: #f7f5c666;
-    div.ecwid-productBrowser-CartPage {
+    div.ecwid-productBrowser {
         background-color: transparent;
     }
     div.ec-cart.ec-cart--empty {
         background-color: transparent !important;
+    }
+    div.ecwid-productBrowser-ProductPage div.product-details {
+        div.product-details__gallery, div.product-details__description, div.product-details__sidebar {
+            background-color: white;
+        }
     }
 }
 div.ec-cart {
