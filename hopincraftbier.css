@@ -151,6 +151,15 @@ div.ecwid-checkout-notice > div {
         .ec-filter__items:not(.ec-filter__items--full-height)::after {
             background-image: none;
         }
+        div.grid-category div.grid-category__card {
+            div.grid-category__shadow {
+                border-radius: 8px !important;
+            }
+            div.grid-category__bg {
+                border-radius: 8px !important;
+                background-color: #f9f9f9;
+            }
+        }
     }
 }
 div.ec-cart {
