@@ -21,28 +21,20 @@ div.ec-breadcrumbs span:nth-child(4) {
     display: none;
 }
 /* == start recently visited products ==*/
-#rvp-products {
-    font-family: system-ui, Ubuntu;
-    font-size: 14px;
-}
 #rvp-products #rvp-products-wrapper #recently-viewed-list {
+    .recently-viewed__name, .recently-viewed__price {
+        font-family: system-ui, Ubuntu;
+        font-size: 14px !important;
+        font-weight: bold !important;
+        color: #191919 !important;
+    }
     .recently-viewed:hover {
-        background-color: rgba(0, 0, 0, 0.04);
-        box-shadow: 0 5px 20px 0 rgba(0, 0, 0, 0.1);
-    }
-
-    .recently-viewed__name {
-        font-size: 14px;
-        min-height: 26px;
-    }
-
-    .recently-viewed__price {
-        font-size: 14px;
-        color: #191919;
+        background-color: rgba(0, 0, 0, 0.04) !important;
+        box-shadow: 0 5px 20px 0 rgba(0, 0, 0, 0.1) !important;
     }
 
     .recently-viewed .recently-viewed__thumb {
-        height: 100px;
+        height: 100px !important;
     }
 }
 /* == end recently visited products ==*/
