@@ -125,6 +125,9 @@ div.ecwid-checkout-notice > div {
         background-color: #f7f5c600 !important;
     }
 }
+#tile-product-details:has(div.ec-store__checkout-page) {
+    background-color: #f7f5c666;
+}
 div.ec-cart {
     div.ec-cart__discount--focus div.ec-cart-discount-group {
         div.ec-cart-discount-group__coupon:before {
