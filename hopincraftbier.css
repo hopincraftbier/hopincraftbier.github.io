@@ -123,7 +123,9 @@ div.ecwid-checkout-notice > div {
 #tile-product-details:has(div.ec-store__checkout-page),
 #tile-product-details:has(div.ec-store__confirmation-page),
 #tile-product-details:has(div.ecwid-productBrowser-ProductPage),
-#tile-product-details:has(div.ecwid-productBrowser-CategoryPage) {
+#tile-product-details:has(div.ecwid-productBrowser-CategoryPage),
+#tile-product-details:has(div.ecwid-productBrowser-AccountRootPage),
+#tile-product-details:has(div.ecwid-productBrowser-SearchPage) {
     background-color: #f7f5c666;
     div.ecwid-productBrowser {
         background-color: transparent;
@@ -136,7 +138,7 @@ div.ecwid-checkout-notice > div {
             background-color: white;
         }
     }
-    div.ecwid-productBrowser-CategoryPage {
+    div.ecwid-productBrowser-CategoryPage,div.ecwid-productBrowser-SearchPage {
         div.grid-product__wrap-inner {
             border-radius: 8px !important;
             background-color: #d9d7b466 !important;
