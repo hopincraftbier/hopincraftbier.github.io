@@ -116,8 +116,14 @@ div.ec-store__category-page--176888061 div.grid-category__title-inner {
 div.ecwid-checkout-notice > div {
     margin: auto;
 }
-div.ec-cart.ec-cart--empty {
-    background-color: #f9f9f9 !important;
+#tile-product-details:has(div.ecwid-productBrowser-CartPage) {
+    background-color: #f7f5c666;
+    div.ecwid-productBrowser-CartPage {
+        background-color: #f7f5c600;
+    }
+    div.ec-cart.ec-cart--empty {
+        background-color: #f7f5c600 !important;
+    }
 }
 div.ec-cart {
     div.ec-cart__discount--focus div.ec-cart-discount-group {
