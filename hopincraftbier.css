@@ -80,33 +80,30 @@ div.ec-store__category-page--176888061 div.grid-category__title-inner {
 .ins-tile--feature-list.ins-tile--accordion .ins-tile__wrap {
     margin-top: 0;
 }
-#tile-feature-list-qNFye5 {
-    margin-top: -50px;
-    div.ins-tile__wrap {
-        margin-bottom: 0;
-    }
-}
 #tile-text-foXha9 div.ins-tile__wrap {
     margin-bottom: 0;
 }
 #tile-feature-list-PfAaRA div.ins-tile__wrap {
     margin-bottom: 20px;
 }
-#tile-feature-list-6cpbDx div.ins-tile__wrap {
-    margin-bottom: 20px;
-}
-#tile-feature-list-zk8ghR {
-    margin-top: -50px;
+#tile-image-text-JSvjVt, #tile-text-QTyC9X, #text-b2c9Gv {
     div.ins-tile__wrap {
-        margin-bottom: 20px;
+        margin-top: 2%;
+    }
+}
+#tile-feature-list-zk8ghR, #tile-feature-list-6cpbDx {
+    div.ins-tile__wrap {
+        margin-bottom: 2%;
+    }
+}
+#tile-feature-list-qNFye5 {
+    div.ins-tile__wrap {
+        margin-bottom: 0;
     }
 }
 /* == end privacy page == */
 
 /* == start delivery == */
-#tile-text-b2c9Gv div.ins-tile__wrap {
-    margin-bottom: 20px;
-}
 #tile-location-aAsHPC div.ins-tile__wrap {
     margin-top: 20px;
 }
