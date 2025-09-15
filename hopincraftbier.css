@@ -119,14 +119,17 @@ div.ecwid-checkout-notice > div {
 #tile-product-details:has(div.ecwid-productBrowser-CartPage) {
     background-color: #f7f5c666;
     div.ecwid-productBrowser-CartPage {
-        background-color: #f7f5c600;
+        background-color: transparent;
     }
     div.ec-cart.ec-cart--empty {
-        background-color: #f7f5c600 !important;
+        background-color: transparent !important;
     }
 }
 #tile-product-details:has(div.ec-store__checkout-page) {
     background-color: #f7f5c666;
+    div.ecwid-productBrowser {
+        background-color: transparent;
+    }
 }
 div.ec-cart {
     div.ec-cart__discount--focus div.ec-cart-discount-group {
