@@ -113,7 +113,7 @@ div.ec-store__category-page--176888061 div.grid-category__title-inner {
 /* == end delivery == */
 
 div.ec-related-products div.grid-product__wrap-inner {
-    border-radius: 8px;
+    border-radius: 8px !important;
 }
 
 /* == start cart == */
