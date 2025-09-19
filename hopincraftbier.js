@@ -40,6 +40,7 @@ if (headerDiv) {
   var priceO = new MutationObserver(function(ms) {
     ms.forEach(function (m) {
       addCouponInfo(false);
+      addDivToImageWrapper();
       soonLabel();
       processAttributes();
       processStock();
@@ -53,6 +54,7 @@ if (headerDiv) {
           const className = m.addedNodes[i].className;
           if (className.indexOf('ec-store ec-store__product-page') >= 0) {
             addCouponInfo(true);
+            addDivToImageWrapper();
             soonLabel();
             processAttributes();
             processExpectedLabels();
@@ -227,4 +229,11 @@ function addCouponInfo(initial) {
 
 function calcDiscount(num, custDisc) {
   return Math.round(((num * (100-custDisc) / 100) + Number.EPSILON) * 100) / 100;
+}
+
+function addDivToImageWrapper() {
+  var iw = document.querySelector('div.details-gallery__main-image-wrapper');
+  if (iw) {
+    iw.insertAdjacentHTML('beforeend', '<div class="glow-wrap"><i class="glow"></i></div>');
+  }
 }
