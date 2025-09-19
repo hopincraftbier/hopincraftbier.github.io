@@ -49,7 +49,7 @@ if (headerDiv) {
   var cartTotalMo = new MutationObserver(function(ms) {
   ms.forEach(function (m) {
     for (var i = 0; i < m.addedNodes.length; i++) {
-      if (m.addedNodes[i].nodeType == Node.ELEMENT_NODE) {
+      if (m.addedNodes[i].nodeType === Node.ELEMENT_NODE) {
         if (typeof m.addedNodes[i].className == "string") {
           const className = m.addedNodes[i].className;
           if (className.indexOf('ec-store ec-store__product-page') >= 0) {
