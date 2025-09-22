@@ -27,6 +27,13 @@ div.pager__body {
         padding-bottom: 1px;
     }
 }
+@media screen and (max-width: 555px) {
+    div.pager__body {
+        .pager__button {
+            border: 0;
+        }
+    }
+}
 
 /* breadcrumb */
 .ec-size .ec-store div.product-details__navigation {
