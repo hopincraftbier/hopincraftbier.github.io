@@ -31,6 +31,8 @@ div.pager__body {
     div.pager__body {
         .pager__button {
             border: 0;
+            padding-top: 0 !important;
+            padding-bottom: 0 !important;
         }
     }
 }
