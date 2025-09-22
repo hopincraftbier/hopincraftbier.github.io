@@ -10,17 +10,17 @@ div.pager__body {
         border-radius: 6px;
         box-shadow: 5px 5px 20px 0 rgba(0, 0, 0, 0.1) !important;
         border: 1px solid lightgray;
+        margin-left: 2px;
+        margin-right: 2px;
     }
     .pager__number--current {
         background-color: #f7f5c6 !important;
     }
     .pager__button--prev {
         padding-right: 10px !important;
-        margin-right: 0 !important;
     }
     .pager__button--next {
         padding-left: 10px !important;
-        margin-left: 0 !important;
     }
 }
 
