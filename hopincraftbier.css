@@ -18,9 +18,13 @@ div.pager__body {
     }
     .pager__button--prev {
         padding-right: 10px !important;
+        padding-top: 1px;
+        padding-bottom: 1px;
     }
     .pager__button--next {
         padding-left: 10px !important;
+        padding-top: 1px;
+        padding-bottom: 1px;
     }
 }
 
