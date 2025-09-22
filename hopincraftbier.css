@@ -3,6 +3,24 @@
     margin-top: 30px;
     min-width: 80%
 }
+/* pagination */
+div.pager__body {
+    .pager__number {
+        background-color: white;
+        border-radius: 6px;
+        box-shadow: 5px 5px 20px 0 rgba(0, 0, 0, 0.1) !important;
+        border: 1px solid lightgray;
+    }
+    .pager__number--current {
+        background-color: #f7f5c6 !important;
+    }
+    .pager__button--prev {
+        padding-right: 10px;
+    }
+    .pager__button--next {
+        padding-left: 10px;
+    }
+}
 
 /* breadcrumb */
 .ec-size .ec-store div.product-details__navigation {
