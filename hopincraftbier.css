@@ -5,6 +5,9 @@
 }
 
 /* breadcrumb */
+.ec-size .ec-store div.product-details__navigation {
+    box-shadow: 5px 5px 15px 0 rgba(0, 0, 0, 0.1);
+}
 .ec-size .ec-store div.ec-breadcrumbs {
     .breadcrumbs__link::before, .breadcrumbs__link::after {
         content: "";
@@ -16,6 +19,7 @@
         z-index: -1;
         border-left: 1px solid lightgray;
         border-right: 1px solid lightgray;
+        box-shadow: 5px 5px 15px 0 rgba(0, 0, 0, 0.1);
     }
 
     .breadcrumbs__link::before {
