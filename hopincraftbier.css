@@ -71,12 +71,6 @@ div.pager__body {
         border-bottom: 1px solid lightgray;
     }
 
-    .breadcrumbs__link {
-        display: inline-block;
-        position: relative;
-        font-size: 14px;
-    }
-
     .breadcrumbs__link:last-child a {
         cursor: default;
     }
@@ -96,6 +90,8 @@ div.pager__body {
         padding: 0 20px;
         color: black;
         text-decoration: none;
+        font-size: 14px;
+        margin-right: 2px;
     }
 
     .breadcrumbs__delimiter {
