@@ -8,14 +8,64 @@
     font-size: 14px;
 }
 /* breadcrumb */
-.ec-size .ec-store .ec-link.breadcrumbs__link {
-    font-size: 14px;
-}
-div.ec-breadcrumbs a:nth-child(3) {
-    display: none;
-}
-div.ec-breadcrumbs span:nth-child(4) {
-    display: none;
+.ec-size .ec-store div.ec-breadcrumbs {
+    .breadcrumbs__link::before, .breadcrumbs__link::after {
+        content: "";
+        position: absolute;
+        left: 0;
+        height: 50%;
+        width: 100%;
+        background: #f7f5c6;
+        z-index: -1;
+        border-left: 1px solid lightgray;
+        border-right: 1px solid lightgray;
+    }
+
+    .breadcrumbs__link::before {
+        top: 0;
+        transform: skew(20deg);
+        border-top: 1px solid lightgray;
+    }
+
+    .breadcrumbs__link::after {
+        bottom: 0;
+        transform: skew(-20deg);
+        border-bottom: 1px solid lightgray;
+    }
+
+    .breadcrumbs__link {
+        display: inline-block;
+        position: relative;
+        font-size: 14px;
+    }
+
+    .breadcrumbs__link:last-child a {
+        cursor: default;
+    }
+
+    .breadcrumbs__link:last-child::before, .breadcrumbs__link:last-child::after {
+        background: white;
+    }
+
+    .breadcrumbs__link:not(:last-child):hover::before, .breadcrumbs__link:not(:last-child):hover::after {
+        background: white;
+    }
+
+    a.breadcrumbs__link {
+        display: inline-block;
+        position: relative;
+        line-height: 2.5;
+        padding: 0 20px;
+        color: black;
+        text-decoration: none;
+    }
+
+    .breadcrumbs__delimiter {
+        display: none;
+    }
+    a:nth-child(3) {
+        display: none !important;
+    }
 }
 /* == start recently visited products ==*/
 #rvp-products #rvp-products-wrapper #recently-viewed-list {
@@ -388,7 +438,7 @@ div.ins-tile__product-item--small.ins-tile__product-item.ins-tile__item:nth-chil
 .dtooltip .dtooltiptext {
     visibility: hidden;
     width: 240px;
-    background-color: black !important;
+    background-color: rgba(0, 0, 0, 0.7) !important;
     color: #fff;
     text-align: center;
     border-radius: 6px;
@@ -396,6 +446,7 @@ div.ins-tile__product-item--small.ins-tile__product-item.ins-tile__item:nth-chil
     margin:15px;
     position: absolute;
     z-index: 1;
+    box-shadow: 0 5px 20px 0 black !important;
 }
 .dtooltip:hover .dtooltiptext {
     visibility: visible;
