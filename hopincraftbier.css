@@ -30,9 +30,13 @@ div.pager__body {
 @media screen and (max-width: 555px) {
     div.pager__body {
         .pager__button {
-            border: 0;
-            padding-top: 0 !important;
-            padding-bottom: 0 !important;
+            min-height: 28.4px;
+        }
+        .pager__button--prev {
+            padding-right: 3px !important;
+        }
+        .pager__button--next {
+            padding-left: 3px !important;
         }
     }
 }
