@@ -5,7 +5,7 @@
 }
 /* pagination */
 div.pager__body {
-    .pager__number {
+    .pager__number, pager__button {
         background-color: white;
         border-radius: 6px;
         box-shadow: 5px 5px 20px 0 rgba(0, 0, 0, 0.1) !important;
@@ -15,10 +15,10 @@ div.pager__body {
         background-color: #f7f5c6 !important;
     }
     .pager__button--prev {
-        padding-right: 10px;
+        padding-right: 10px !important;
     }
     .pager__button--next {
-        padding-left: 10px;
+        padding-left: 10px !important;
     }
 }
 
