@@ -534,3 +534,32 @@ div.details-product-price-compare__container {
 .ec-size:not(.ec-size--s) .ec-store.ec-store__account-page .ec-cart-step--bag,.ec-size:not(.ec-size--s) .ec-store.ec-store__account-page .ec-cart-step--favorites {
     display:block;
 }
+@keyframes keyframes-floating-img {
+    0% {
+        transform: translate(-2%, 2%) scaleY(0.95) rotate(-5deg);
+    }
+
+    50% {
+        transform: translate(2%, -2%) scaleY(1) rotate(5deg);
+    }
+
+    100% {
+        transform: translate(-2%, 2%) scaleY(0.95) rotate(-5deg);
+    }
+}
+@keyframes keyframes-floating-light {
+    0% {
+        transform: rotate(-5deg) translateY(-5%);
+        opacity: 0.5;
+    }
+
+    50% {
+        transform: rotate(5deg) translateY(5%);
+        opacity: 1;
+    }
+
+    100% {
+        transform: rotate(-5deg) translateY(-5%);
+        opacity: 0.5;
+    }
+}
