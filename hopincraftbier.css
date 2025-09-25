@@ -1,4 +1,4 @@
-/* HopInCraftbier custom css v3.03 */
+/* HopInCraftbier custom css v3.04 */
 #tile-product-details div.ins-tile__wrap {
     margin-top: 30px;
     min-width: 80%
@@ -142,8 +142,7 @@ div.ec-store__category-page--176888061 div.grid-category__title-inner {
         float: left;
         position: relative;
         min-height: 1px;
-        padding-right: 15px;
-        padding-left: 15px;
+        padding: 15px;
         box-sizing: border-box;
         color: rgb(51, 51, 51);
         display: block;
@@ -159,6 +158,7 @@ div.ec-store__category-page--176888061 div.grid-category__title-inner {
 
         .grid-product__wrap {
             padding: 0;
+            height: 100%;
         }
 
         .grid-product__wrap-inner {
