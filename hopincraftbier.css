@@ -1,4 +1,4 @@
-/* HopInCraftbier custom css v3.02 */
+/* HopInCraftbier custom css v3.03 */
 #tile-product-details div.ins-tile__wrap {
     margin-top: 30px;
     min-width: 80%
@@ -136,107 +136,109 @@ div.ec-store__category-page--176888061 div.grid-category__title-inner {
 .ec-size .ec-store .grid__products .grid-product:nth-child(n + 1) {
     width: 25% !important;
 }
-.ec-size .ec-store .grid__products.new .grid-product {
-    float: left;
-    position: relative;
-    min-height: 1px;
-    padding-right: 15px;
-    padding-left: 15px;
-    box-sizing: border-box;
-    color: rgb(51, 51, 51);
-    display: block;
-    font-family: Muli, sans-serif;
-    font-size: 14px;
-    line-height: 20px;
-    text-size-adjust: 100%;
-    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
-
-    .grid-product__shadow {
-        display: none;
-    }
-
-    .grid-product__wrap {
-        padding: 0;
-    }
-
-    .grid-product__wrap-inner {
-        background: #fff;
-        padding: 15px;
-        border-radius: 6px;
-        box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
+.ec-size .ec-store .grid__products.new {
+    flex: 1 1 auto;
+    .grid-product {
+        float: left;
         position: relative;
-        margin: 20px auto;
-    }
+        min-height: 1px;
+        padding-right: 15px;
+        padding-left: 15px;
+        box-sizing: border-box;
+        color: rgb(51, 51, 51);
+        display: block;
+        font-family: Muli, sans-serif;
+        font-size: 14px;
+        line-height: 20px;
+        text-size-adjust: 100%;
+        -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 
-    .grid-product__image-wrap {
-        position: absolute;
-        width: 90%;
-        transition: all 0.2s ease-in-out;
-        top: 0;
-    }
+        .grid-product__shadow {
+            display: none;
+        }
 
-    .grid-product__image-wrap img {
-        width: 100%;
-        height: auto;
-        transition: all 0.2s ease-in-out;
-        border-radius: 6px;
-        background: lightgray;
-        margin: 0 !important;
-        padding-top: 12.5%;
-        padding-bottom: 25%;
-        margin-bottom: 12.5% !important;
-    }
+        .grid-product__wrap {
+            padding: 0;
+        }
 
-    .grid-product__wrap-inner:hover .grid-product__image-wrap {
-        top: -40px;
-    }
+        .grid-product__wrap-inner {
+            background: #fff;
+            padding: 15px;
+            border-radius: 6px;
+            box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
+            position: relative;
+            margin: 20px auto;
+        }
 
-    .grid-product__wrap-inner:hover .grid-product__image-wrap img {
-        box-shadow: 0 19px 38px rgba(0, 0, 0, 0.30), 0 15px 12px rgba(0, 0, 0, 0.22);
-    }
+        .grid-product__image-wrap {
+            position: absolute;
+            transition: all 0.2s ease-in-out;
+            top: 0;
+        }
 
-    .grid-product__hover-wrap {
-        padding-top: 150%;
-    }
+        .grid-product__image-wrap img {
+            width: 100%;
+            height: auto;
+            transition: all 0.2s ease-in-out;
+            border-radius: 6px;
+            background: lightgray;
+            margin: 0 !important;
+            padding-top: 12.5%;
+            padding-bottom: 25%;
+            margin-bottom: 12.5% !important;
+        }
 
-    .grid-product__subtitle {
-        text-align: center;
-        font-size: 12px;
-        font-weight: bold;
-        transition: all 0.2s ease-in-out;
-    }
+        .grid-product__wrap-inner:hover .grid-product__image-wrap {
+            top: -40px;
+        }
 
-    .grid-product__subtitle > * {
-        position: absolute;
-        left: 15%;
-        transform: translate(0%, -300%);
-        -webkit-transform: translate(0%, -300%);
-        -moz-transform: translate(0%, -300%);
-        -ms-transform: translate(0%, -300%);
-        -o-transform: translate(0%, -300%);
-        -khtml-transform: translate(0%, -300%);
-    }
+        .grid-product__wrap-inner:hover .grid-product__image-wrap img {
+            box-shadow: 0 19px 38px rgba(0, 0, 0, 0.30), 0 15px 12px rgba(0, 0, 0, 0.22);
+        }
 
-    .grid-product__subtitle > div {
-        padding: 12px 0;
-        border: 1px solid #313131;
-        background: #212121;
-        color: #fff;
-        box-shadow: 0 19px 38px rgba(0, 0, 0, 0.30), 0 15px 12px rgba(0, 0, 0, 0.22);
-        border-radius: 27px;
-        transition: all 0.05s ease-in-out;
-        width: 70%;
-    }
+        .grid-product__hover-wrap {
+            padding-top: 150%;
+        }
 
-    .grid-product__wrap-inner:hover .grid-product__subtitle {
-        margin-top: 0;
-    }
+        .grid-product__subtitle {
+            text-align: center;
+            font-size: 12px;
+            font-weight: bold;
+            transition: all 0.2s ease-in-out;
+        }
 
-    .grid-product__wrap-inner:hover .grid-product__subtitle > div {
-        border-color: #ddd;
-        box-shadow: none;
-        padding: 11px 0;
-        width: 70%;
+        .grid-product__subtitle > * {
+            position: absolute;
+            left: 15%;
+            transform: translate(0%, -300%);
+            -webkit-transform: translate(0%, -300%);
+            -moz-transform: translate(0%, -300%);
+            -ms-transform: translate(0%, -300%);
+            -o-transform: translate(0%, -300%);
+            -khtml-transform: translate(0%, -300%);
+        }
+
+        .grid-product__subtitle > div {
+            padding: 12px 0;
+            border: 1px solid #313131;
+            background: #212121;
+            color: #fff;
+            box-shadow: 0 19px 38px rgba(0, 0, 0, 0.30), 0 15px 12px rgba(0, 0, 0, 0.22);
+            border-radius: 27px;
+            transition: all 0.05s ease-in-out;
+            width: 70%;
+        }
+
+        .grid-product__wrap-inner:hover .grid-product__subtitle {
+            margin-top: 0;
+        }
+
+        .grid-product__wrap-inner:hover .grid-product__subtitle > div {
+            border-color: #ddd;
+            box-shadow: none;
+            padding: 11px 0;
+            width: 70%;
+        }
     }
 }
 
