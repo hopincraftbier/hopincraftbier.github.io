@@ -1,4 +1,4 @@
-console.log("HopInCraftbier custom js v4.43");
+console.log("HopInCraftbier custom js v4.44");
 /* Get the header element and it's position */
 document.txtNl1 = '<div id="discountContainer"><div class="dtooltip"><p class="hover question">Kortingscoupon</p><p class="dtooltiptext">Afhankelijk van de gekozen betaling en levering, kunt u een kortingscoupon krijgen die te gebruiken is bij een volgende bestelling. Voor dit bier ziet u de bedragen in deze tabel</p></div><table class="discount-table"><thead><tr class="first_header"><th></th><th colspan="2">Manier van levering</th></tr><tr><th>Manier van betaling</th><th>Afhaling</th><th>Levering</th></tr></thead><tbody><tr><td class="header">Betalen bij afhaling</td><td>€ ';
 document.txtNl2 = '</td><td> - </td></tr><tr><td class="header">Overschrijving</td><td>€ ';
@@ -45,6 +45,11 @@ if (headerDiv) {
       processStock();
     })
   });
+  const subtitleO = new MutationObserver(function(ms) {
+    ms.forEach(function (m) {
+      console.log('subtitleO: ' + m);
+    })
+  });
   var cartTotalMo = new MutationObserver(function(ms) {
   ms.forEach(function (m) {
     for (var i = 0; i < m.addedNodes.length; i++) {
@@ -70,6 +75,10 @@ if (headerDiv) {
             processExpectedLabels();
             processAttributes();
             processStock();
+            subtitle0.observe(document.querySelector('div.grid__wrap-inner'), {
+              childList: true,
+              subtree: true
+            });
           } else if (className.indexOf('ec-related-products')) {
             processExpectedLabels();
             processAttributes();
