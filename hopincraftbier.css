@@ -1,4 +1,4 @@
-/* HopInCraftbier custom css v3.11 */
+/* HopInCraftbier custom css v3.12 */
 #tile-product-details div.ins-tile__wrap {
     margin-top: 30px;
     min-width: 80%
@@ -132,11 +132,11 @@ div.pager__body {
 div.ec-store__category-page--176888061 div.grid-category__title-inner {
     color: black;
 }
-/* default to 4 rows in grid */
+/* default to 4 cols in grid */
 .ec-size .ec-store .grid__products .grid-product:nth-child(n + 1) {
     width: 25% !important;
 }
-.ec-size .ec-store .grid__products.new {
+.ec-size .ec-store .grid__products {
     flex: 1 1 auto;
 
     .grid-product__button {
@@ -359,14 +359,14 @@ div.ecwid-checkout-notice > div {
         }
     }
     div.ecwid-productBrowser-CategoryPage,div.ecwid-productBrowser-SearchPage {
-        div.grid-product__wrap-inner {
-            border-radius: 8px !important;
-            background-color: #d9d7b466 !important;
-            .grid-product__image {
-                border-radius: 8px !important;
-                background-color: #f9f9f9;
-            }
-        }
+        /*div.grid-product__wrap-inner {*/
+        /*    border-radius: 8px !important;*/
+        /*    background-color: #d9d7b466 !important;*/
+        /*    .grid-product__image {*/
+        /*        border-radius: 8px !important;*/
+        /*        background-color: #f9f9f9;*/
+        /*    }*/
+        /*}*/
         .ec-filter {
             border-bottom: lightgray solid 1px;
         }

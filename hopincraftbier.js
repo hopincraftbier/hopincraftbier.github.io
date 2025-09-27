@@ -58,6 +58,7 @@ if (headerDiv) {
             processAttributes();
             processExpectedLabels();
             processStock();
+            moveSubtitle();
             priceO.observe(document.querySelector('div.product-details__product-price.ec-price-item'), {
               childList: true,
               subtree: true
