@@ -1,4 +1,4 @@
-console.log("HopInCraftbier custom js v4.48");
+console.log("HopInCraftbier custom js v4.50");
 /* Get the header element and it's position */
 document.txtNl1 = '<div id="discountContainer"><div class="dtooltip"><p class="hover question">Kortingscoupon</p><p class="dtooltiptext">Afhankelijk van de gekozen betaling en levering, kunt u een kortingscoupon krijgen die te gebruiken is bij een volgende bestelling. Voor dit bier ziet u de bedragen in deze tabel</p></div><table class="discount-table"><thead><tr class="first_header"><th></th><th colspan="2">Manier van levering</th></tr><tr><th>Manier van betaling</th><th>Afhaling</th><th>Levering</th></tr></thead><tbody><tr><td class="header">Betalen bij afhaling</td><td>€ ';
 document.txtNl2 = '</td><td> - </td></tr><tr><td class="header">Overschrijving</td><td>€ ';
@@ -45,19 +45,13 @@ if (headerDiv) {
       processStock();
     })
   });
-  const subtitleO = new MutationObserver(function(ms) {
-    ms.forEach(function (m) {
-      console.log('subtitleO: ' + m);
-    })
-  });
   var cartTotalMo = new MutationObserver(function(ms) {
   ms.forEach(function (m) {
     for (var i = 0; i < m.addedNodes.length; i++) {
-      console.log('mo: ' + m.addedNodes[i]);
       if (m.addedNodes[i].nodeType === Node.ELEMENT_NODE) {
         if (typeof m.addedNodes[i].className == "string") {
           const className = m.addedNodes[i].className;
-          console.log('-> ' + className);
+          // console.log('-> ' + className);
           if (className.indexOf('ec-store ec-store__product-page') >= 0) {
             addCouponInfo(true);
             soonLabel();
@@ -113,6 +107,7 @@ cartTotalMo.observe(document, {
 });
 
 function processStock() {
+  console.log('processStock');
   const x = document.querySelector('.details-product-purchase__place span');
   if (x) {
     const y = x.textContent?.split(':');
@@ -131,6 +126,7 @@ function processStock() {
 }
 
 function processAttributes() {
+  console.log('processAttributes');
   var preOrderTxt = "";
   document.querySelectorAll('span.details-product-attribute__title').forEach(function (p) {
     if (p.textContent.startsWith('hide_')) {
@@ -157,6 +153,7 @@ function processAttributes() {
   }
 }
 function soonLabel() {
+  console.log('soonLabel');
   var notSoldOut = false;
   var preorderSoldOut = false;
   var verwachtTxt = '';
@@ -207,6 +204,7 @@ function processExpectedLabels() {
 }
 
 function addCouponInfo(initial) {
+  console.log('addCouponInfo');
   const attrValSelector = '.ec-store.ec-store__product-page .details-product-attribute:nth-child($) .details-product-attribute__value';
   if (!initial) {
     var dc = document.querySelector('#discountContainer');
