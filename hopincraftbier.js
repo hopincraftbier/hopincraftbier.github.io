@@ -1,4 +1,4 @@
-console.log("HopInCraftbier custom js v4.47");
+console.log("HopInCraftbier custom js v4.48");
 /* Get the header element and it's position */
 document.txtNl1 = '<div id="discountContainer"><div class="dtooltip"><p class="hover question">Kortingscoupon</p><p class="dtooltiptext">Afhankelijk van de gekozen betaling en levering, kunt u een kortingscoupon krijgen die te gebruiken is bij een volgende bestelling. Voor dit bier ziet u de bedragen in deze tabel</p></div><table class="discount-table"><thead><tr class="first_header"><th></th><th colspan="2">Manier van levering</th></tr><tr><th>Manier van betaling</th><th>Afhaling</th><th>Levering</th></tr></thead><tbody><tr><td class="header">Betalen bij afhaling</td><td>€ ';
 document.txtNl2 = '</td><td> - </td></tr><tr><td class="header">Overschrijving</td><td>€ ';
@@ -73,22 +73,10 @@ if (headerDiv) {
           } else if (className.indexOf('ec-store ec-store__category-page') >= 0) {
             processExpectedLabels();
             moveSubtitle();
-            // subtitleO.observe(document.querySelector('div.ec-store__category-page'), {
-            //   childList: true,
-            //   subtree: true
-            // });
           } else if (className.indexOf('ec-store ec-store__search-page') >= 0) {
             processExpectedLabels();
-            subtitleO.observe(document.querySelector('div.ec-store__search-page'), {
-              childList: true,
-              subtree: true
-            });
           } else if (className.indexOf('ec-related-products') >= 0) {
             processExpectedLabels();
-            subtitleO.observe(document.querySelector('.ec-related-products'), {
-              childList: true,
-              subtree: true
-            });
           }
           if (className.indexOf('ecwid-checkout-notice') >= 0) {
             if ('EN' === document.querySelector('a.ins-header__language-link--active').textContent.trim()) {
@@ -204,8 +192,8 @@ function soonLabel() {
 }
 
 function processExpectedLabels() {
+  console.log('processExpectedLabels');
   document.querySelectorAll('div.grid-product__wrap-inner').forEach(function (p) {
-    console.log('processExpectedLabels');
     var lint = p.querySelector('div.label__text')?.textContent;
     if (lint === 'Sold out' || lint === 'Uitverkocht') return;
     var buyNowEl = p.querySelector('div.grid-product__button.grid-product__buy-now');
@@ -251,11 +239,10 @@ function addCouponInfo(initial) {
 function moveSubtitle() {
   console.log('moveSubtitle');
   document.querySelectorAll('div.grid-product__wrap-inner div.grid-product__subtitle').forEach(function (p) {
-    console.log('moveSubtitle.p:' + p);
-    // var imgWrapElement = p.parentElement.querySelector('div.grid-product__image-wrap');
-    // if (imgWrapElement) {
-    //   imgWrapElement.parentElement.insertBefore(p, imgWrapElement.lastChild.nextSibling);
-    // }
+    var imgWrapElement = p.parentElement.querySelector('div.grid-product__image-wrap');
+    if (imgWrapElement) {
+      imgWrapElement.parentElement.insertBefore(p, imgWrapElement.lastChild.nextSibling);
+    }
   });
 }
 
