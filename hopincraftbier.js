@@ -61,13 +61,13 @@ if (headerDiv) {
               childList: true,
               subtree: true
             });
-          } else if (className.indexOf('ec-store ec-store__category-page') >= 0) {
+          } else if (className.indexOf('ec-store ec-store__category-page') >= 0 ||
+            className.indexOf('ec-store ec-store__search-page') >= 0) {
             moveSubtitle();
             processExpectedLabels();
             processAttributes();
             processStock();
-          } else if (className.indexOf('ec-store ec-store__search-page') >= 0 ||
-            className.indexOf('ec-related-products')) {
+          } else if (className.indexOf('ec-related-products')) {
             processExpectedLabels();
             processAttributes();
             processStock();

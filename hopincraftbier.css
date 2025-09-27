@@ -136,15 +136,15 @@ div.ec-store__category-page--176888061 div.grid-category__title-inner {
 .ec-size .ec-store .grid__products .grid-product:nth-child(n + 1) {
     width: 25% !important;
 }
-.ec-size .ec-store .grid__products.new {
+.ec-size .ec-store .grid__products {
     flex: 1 1 auto;
 
     .grid-product__button {
         .form-control__button {
-            padding: 0.8em 1.2em;
+            padding: 0.6em 2em;
             font-size: 14px;
             letter-spacing: 2.5px;
-            font-weight: 500;
+            font-weight: 700;
             color: #000;
             background-color: #fff;
             border: 1px solid lightgray;
@@ -359,29 +359,29 @@ div.ecwid-checkout-notice > div {
         }
     }
     div.ecwid-productBrowser-CategoryPage,div.ecwid-productBrowser-SearchPage {
-        div.grid-product__wrap-inner {
-            border-radius: 8px !important;
-            background-color: #d9d7b466 !important;
-            .grid-product__image {
-                border-radius: 8px !important;
-                background-color: #f9f9f9;
-            }
-        }
+        /*div.grid-product__wrap-inner {*/
+        /*    border-radius: 8px !important;*/
+        /*    background-color: #d9d7b466 !important;*/
+        /*    .grid-product__image {*/
+        /*        border-radius: 8px !important;*/
+        /*        background-color: #f9f9f9;*/
+        /*    }*/
+        /*}*/
         .ec-filter {
             border-bottom: lightgray solid 1px;
         }
         .ec-filter__items:not(.ec-filter__items--full-height)::after {
             background-image: none;
         }
-        div.grid-category div.grid-category__card {
-            div.grid-category__shadow {
-                border-radius: 8px !important;
-            }
-            div.grid-category__bg {
-                border-radius: 8px !important;
-                background-color: #f9f9f9;
-            }
-        }
+        /*div.grid-category div.grid-category__card {*/
+        /*    div.grid-category__shadow {*/
+        /*        border-radius: 8px !important;*/
+        /*    }*/
+        /*    div.grid-category__bg {*/
+        /*        border-radius: 8px !important;*/
+        /*        background-color: #f9f9f9;*/
+        /*    }*/
+        /*}*/
     }
 }
 div.ec-cart {
