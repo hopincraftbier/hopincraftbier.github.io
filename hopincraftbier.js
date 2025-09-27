@@ -51,7 +51,7 @@ if (headerDiv) {
       if (m.addedNodes[i].nodeType === Node.ELEMENT_NODE) {
         if (typeof m.addedNodes[i].className == "string") {
           const className = m.addedNodes[i].className;
-          // console.log('-> ' + className);
+          console.log('-> ' + className);
           if (className.indexOf('ec-store ec-store__product-page') >= 0) {
             addCouponInfo(true);
             soonLabel();
