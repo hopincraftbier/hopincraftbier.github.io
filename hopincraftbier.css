@@ -1,4 +1,4 @@
-/* HopInCraftbier custom css v3.14 */
+/* HopInCraftbier custom css v3.15 */
 #tile-product-details div.ins-tile__wrap {
     margin-top: 30px;
     min-width: 80%
@@ -154,7 +154,7 @@ div.ec-store__category-page--176888061 div.grid-category__title-inner {
             background-color: #fff;
             border: 1px solid lightgray;
             border-radius: 15px;
-            box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.1);
+            box-shadow: 0 8px 15px rgba(0, 0, 0, 0.1);
             transition: all 0.3s ease 0s;
             cursor: pointer;
             outline: none;
@@ -194,7 +194,7 @@ div.ec-store__category-page--176888061 div.grid-category__title-inner {
             background-color: #fff !important;
             /*padding: 15px;*/
             border-radius: 6px;
-            box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
+            box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24) !important;
             position: relative;
             margin: 20px auto;
         }
@@ -225,13 +225,12 @@ div.ec-store__category-page--176888061 div.grid-category__title-inner {
         }
 
         .grid-product__wrap-inner:hover .grid-product__image-wrap {
-            top: -40px;
+            top: -30px;
         }
 
         .grid-product__wrap-inner:hover .grid-product__image-wrap img {
-            /*box-shadow: 0 19px 38px rgba(0, 0, 0, 0.30), 0 15px 12px rgba(0, 0, 0, 0.22);*/
-            box-shadow: 0 30px 20px rgba(0, 0, 0, 0.5);
-            transform: scale(1.01) !important;
+            box-shadow: 0 20px 20px rgba(0, 0, 0, 0.5);
+            transform: scale(1.02) !important;
         }
 
         .grid-product__hover-wrap {
@@ -261,7 +260,7 @@ div.ec-store__category-page--176888061 div.grid-category__title-inner {
             border: 1px solid #313131;
             background: #212121;
             color: #fff;
-            box-shadow: 0 19px 38px rgba(0, 0, 0, 0.30), 0 15px 12px rgba(0, 0, 0, 0.22);
+            box-shadow: 0 10px 20px rgba(0, 0, 0, 0.30), 0 10px 10px rgba(0, 0, 0, 0.22);
             border-radius: 27px;
             transition: all 0.05s ease-in-out;
             width: 70%;
@@ -282,9 +281,6 @@ div.ec-store__category-page--176888061 div.grid-category__title-inner {
 
 .ec-size .ec-store .grid__categories .grid-category:nth-child(n + 1) {
     width: 20% !important;
-}
-.ec-size .ec-store .grid__products:not(.new) div.grid-product__wrap-inner:hover img.grid-product__picture {
-    transform: scale(1.02) !important;
 }
 /* == end product - category page == */
 /* == start privacy & alg vwd page == */
@@ -328,17 +324,6 @@ div.ec-store__category-page--176888061 div.grid-category__title-inner {
     margin-bottom: 20px;
 }
 /* == end delivery == */
-
-div.ec-related-products {
-    div.grid-product__wrap-inner {
-        border-radius: 8px !important;
-        background-color: #d9d7b466 !important;
-    }
-    div.grid-product__image-wrap {
-        border-radius: 8px !important;
-        background-color: #f9f9f9;
-    }
-}
 
 /* == start cart == */
 div.ecwid-checkout-notice > div {
