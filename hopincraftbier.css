@@ -1,4 +1,4 @@
-/* HopInCraftbier custom css v3.06 */
+/* HopInCraftbier custom css v3.07 */
 #tile-product-details div.ins-tile__wrap {
     margin-top: 30px;
     min-width: 80%
@@ -138,6 +138,30 @@ div.ec-store__category-page--176888061 div.grid-category__title-inner {
 }
 .ec-size .ec-store .grid__products.new {
     flex: 1 1 auto;
+
+    .grid-product__button {
+        .form-control__button {
+            padding: 0.8em 1.2em;
+            font-size: 14px;
+            letter-spacing: 2.5px;
+            font-weight: 500;
+            color: #000;
+            background-color: #fff;
+            border: 1px solid lightgray;
+            border-radius: 15px;
+            box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.1);
+            transition: all 0.3s ease 0s;
+            cursor: pointer;
+            outline: none;
+        }
+        .form-control__button:hover {
+            box-shadow: 0 5px 10px rgba(0, 0, 0, 0.4);
+            transform: translateY(-7px);
+        }
+        .form-control__button:active {
+            transform: translateY(-1px);
+        }
+    }
     .grid-product {
         float: left;
         position: relative;
