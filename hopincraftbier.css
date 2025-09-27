@@ -1,4 +1,4 @@
-/* HopInCraftbier custom css v3.16 */
+/* HopInCraftbier custom css v3.17 */
 #tile-product-details div.ins-tile__wrap {
     margin-top: 30px;
     min-width: 80%
@@ -145,6 +145,10 @@ div.ec-store__category-page--176888061 div.grid-category__title-inner {
     }
 
     .grid-product__button {
+        padding-bottom: 0.7em !important;
+        padding-top: 0.5em !important;
+        margin: auto;
+
         .form-control__button {
             padding: 0.6em 2em;
             font-size: 14px;
@@ -182,7 +186,7 @@ div.ec-store__category-page--176888061 div.grid-category__title-inner {
         -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 
         .grid-product__shadow {
-            display: none;
+            display: none !important;
         }
 
         .grid-product__wrap {
@@ -192,7 +196,6 @@ div.ec-store__category-page--176888061 div.grid-category__title-inner {
 
         .grid-product__wrap-inner {
             background-color: #fff !important;
-            /*padding: 15px;*/
             border-radius: 6px;
             box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24) !important;
             position: relative;
@@ -353,29 +356,12 @@ div.ecwid-checkout-notice > div {
         }
     }
     div.ecwid-productBrowser-CategoryPage,div.ecwid-productBrowser-SearchPage {
-        /*div.grid-product__wrap-inner {*/
-        /*    border-radius: 8px !important;*/
-        /*    background-color: #d9d7b466 !important;*/
-        /*    .grid-product__image {*/
-        /*        border-radius: 8px !important;*/
-        /*        background-color: #f9f9f9;*/
-        /*    }*/
-        /*}*/
         .ec-filter {
             border-bottom: lightgray solid 1px;
         }
         .ec-filter__items:not(.ec-filter__items--full-height)::after {
             background-image: none;
         }
-        /*div.grid-category div.grid-category__card {*/
-        /*    div.grid-category__shadow {*/
-        /*        border-radius: 8px !important;*/
-        /*    }*/
-        /*    div.grid-category__bg {*/
-        /*        border-radius: 8px !important;*/
-        /*        background-color: #f9f9f9;*/
-        /*    }*/
-        /*}*/
     }
 }
 div.ec-cart {
