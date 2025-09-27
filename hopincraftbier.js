@@ -1,4 +1,4 @@
-console.log("HopInCraftbier custom js v4.33");
+console.log("HopInCraftbier custom js v4.34");
 /* Get the header element and it's position */
 document.txtNl1 = '<div id="discountContainer"><div class="dtooltip"><p class="hover question">Kortingscoupon</p><p class="dtooltiptext">Afhankelijk van de gekozen betaling en levering, kunt u een kortingscoupon krijgen die te gebruiken is bij een volgende bestelling. Voor dit bier ziet u de bedragen in deze tabel</p></div><table class="discount-table"><thead><tr class="first_header"><th></th><th colspan="2">Manier van levering</th></tr><tr><th>Manier van betaling</th><th>Afhaling</th><th>Levering</th></tr></thead><tbody><tr><td class="header">Betalen bij afhaling</td><td>€ ';
 document.txtNl2 = '</td><td> - </td></tr><tr><td class="header">Overschrijving</td><td>€ ';
@@ -73,7 +73,7 @@ if (headerDiv) {
             processExpectedLabels();
             processAttributes();
             processStock();
-            subtitleO.observe(document.querySelector('div.grid-product__wrap-inner div.grid-product__subtitle'), {
+            subtitleO.observe(document.querySelector('div.grid__wrap-inner'), {
               childList: true,
               subtree: true
             });
