@@ -1,4 +1,4 @@
-console.log("HopInCraftbier custom js v4.32");
+console.log("HopInCraftbier custom js v4.33");
 /* Get the header element and it's position */
 document.txtNl1 = '<div id="discountContainer"><div class="dtooltip"><p class="hover question">Kortingscoupon</p><p class="dtooltiptext">Afhankelijk van de gekozen betaling en levering, kunt u een kortingscoupon krijgen die te gebruiken is bij een volgende bestelling. Voor dit bier ziet u de bedragen in deze tabel</p></div><table class="discount-table"><thead><tr class="first_header"><th></th><th colspan="2">Manier van levering</th></tr><tr><th>Manier van betaling</th><th>Afhaling</th><th>Levering</th></tr></thead><tbody><tr><td class="header">Betalen bij afhaling</td><td>€ ';
 document.txtNl2 = '</td><td> - </td></tr><tr><td class="header">Overschrijving</td><td>€ ';
@@ -37,7 +37,7 @@ if (headerDiv) {
     prevScrollPos = currentScrollPos;
   }
 }
-  var priceO = new MutationObserver(function(ms) {
+  const priceO = new MutationObserver(function(ms) {
     ms.forEach(function (m) {
       addCouponInfo(false);
       soonLabel();
@@ -45,8 +45,9 @@ if (headerDiv) {
       processStock();
     })
   });
-  var subtitleO = new MutationObserver(function(ms) {
+  const subtitleO = new MutationObserver(function(ms) {
     ms.forEach(function (m) {
+      console.log('subtitle: ' + m);
       moveSubtitle();
     })
   });
@@ -56,7 +57,7 @@ if (headerDiv) {
       if (m.addedNodes[i].nodeType === Node.ELEMENT_NODE) {
         if (typeof m.addedNodes[i].className == "string") {
           const className = m.addedNodes[i].className;
-          console.log('-> className');
+          console.log('-> ' + className);
           if (className.indexOf('ec-store ec-store__product-page') >= 0) {
             addCouponInfo(true);
             soonLabel();
