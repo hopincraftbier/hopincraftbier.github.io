@@ -1,4 +1,4 @@
-console.log("HopInCraftbier custom js v4.54");
+console.log("HopInCraftbier custom js v4.55");
 /* Get the header element and it's position */
 document.txtNl1 = '<div id="discountContainer"><div class="dtooltip"><p class="hover question">Kortingscoupon</p><p class="dtooltiptext">Afhankelijk van de gekozen betaling en levering, kunt u een kortingscoupon krijgen die te gebruiken is bij een volgende bestelling. Voor dit bier ziet u de bedragen in deze tabel</p></div><table class="discount-table"><thead><tr class="first_header"><th></th><th colspan="2">Manier van levering</th></tr><tr><th>Manier van betaling</th><th>Afhaling</th><th>Levering</th></tr></thead><tbody><tr><td class="header">Betalen bij afhaling</td><td>€ ';
 document.txtNl2 = '</td><td> - </td></tr><tr><td class="header">Overschrijving</td><td>€ ';
@@ -15,6 +15,10 @@ document.txtEn5 = '</td><td>€ 0</td></tr></tbody></table></div></div>';
 const headerDiv = document.querySelector("#tile-header-fcHJMd");
 
 if (headerDiv) {
+  if (window.location.href.endsWith('/products')) {
+    window.location.replace(window.location.href + '/alle-bieren');
+  }
+
   let announcementsHeight = 0;
 
   const pos = "-" + (announcementsHeight + document.querySelector(".ins-tile--header .ins-header__row:nth-child(1)").offsetHeight) + "px";
@@ -51,7 +55,7 @@ if (headerDiv) {
       if (m.addedNodes[i].nodeType === Node.ELEMENT_NODE) {
         if (typeof m.addedNodes[i].className == "string") {
           const className = m.addedNodes[i].className;
-          console.log('-> ' + className);
+          // console.log('-> ' + className);
           if (className.indexOf('ec-store ec-store__product-page') >= 0) {
             addCouponInfo(true);
             soonLabel();
