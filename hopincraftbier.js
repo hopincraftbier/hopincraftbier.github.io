@@ -1,4 +1,4 @@
-console.log("HopInCraftbier custom js v4.55");
+console.log("HopInCraftbier custom js v4.56");
 /* Get the header element and it's position */
 document.txtNl1 = '<div id="discountContainer"><div class="dtooltip"><p class="hover question">Kortingscoupon</p><p class="dtooltiptext">Afhankelijk van de gekozen betaling en levering, kunt u een kortingscoupon krijgen die te gebruiken is bij een volgende bestelling. Voor dit bier ziet u de bedragen in deze tabel</p></div><table class="discount-table"><thead><tr class="first_header"><th></th><th colspan="2">Manier van levering</th></tr><tr><th>Manier van betaling</th><th>Afhaling</th><th>Levering</th></tr></thead><tbody><tr><td class="header">Betalen bij afhaling</td><td>€ ';
 document.txtNl2 = '</td><td> - </td></tr><tr><td class="header">Overschrijving</td><td>€ ';
@@ -15,9 +15,7 @@ document.txtEn5 = '</td><td>€ 0</td></tr></tbody></table></div></div>';
 const headerDiv = document.querySelector("#tile-header-fcHJMd");
 
 if (headerDiv) {
-  if (window.location.href.endsWith('/products')) {
-    window.location.replace(window.location.href + '/alle-bieren');
-  }
+  redirectWhenNeeded();
 
   let announcementsHeight = 0;
 
@@ -50,7 +48,8 @@ if (headerDiv) {
     })
   });
   var cartTotalMo = new MutationObserver(function(ms) {
-  ms.forEach(function (m) {
+    redirectWhenNeeded();
+    ms.forEach(function (m) {
     for (var i = 0; i < m.addedNodes.length; i++) {
       if (m.addedNodes[i].nodeType === Node.ELEMENT_NODE) {
         if (typeof m.addedNodes[i].className == "string") {
@@ -252,4 +251,13 @@ function moveSubtitle() {
 
 function calcDiscount(num, custDisc) {
   return Math.round(((num * (100-custDisc) / 100) + Number.EPSILON) * 100) / 100;
+}
+
+function redirectWhenNeeded() {
+  console.log('loc: ' + window.location.href);
+  if (window.location.href.endsWith('/products')) {
+    let newLoc = window.location.href + '/alle-bieren';
+    console.log('new loc: ' + newLoc);
+    window.location.replace(newLoc);
+  }
 }
