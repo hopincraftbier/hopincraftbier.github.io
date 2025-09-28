@@ -1,4 +1,4 @@
-/* HopInCraftbier custom css v3.17 */
+/* HopInCraftbier custom css v3.18 */
 #tile-product-details div.ins-tile__wrap {
     margin-top: 30px;
     min-width: 80%
@@ -92,6 +92,7 @@ div.pager__body {
         text-decoration: none;
         font-size: 14px;
         margin-right: 2px;
+        z-index: 0;
     }
 
     .breadcrumbs__delimiter {
