@@ -1,4 +1,4 @@
-/* HopInCraftbier custom css v3.18 */
+/* HopInCraftbier custom css v3.19 */
 #tile-product-details div.ins-tile__wrap {
     margin-top: 30px;
     min-width: 80%
@@ -140,38 +140,6 @@ div.ec-store__category-page--176888061 div.grid-category__title-inner {
 .ec-size .ec-store .grid__products {
     flex: 1 1 auto;
 
-    .grid-product__price-value {
-        font-size: 16px;
-        font-weight: 600;
-    }
-
-    .grid-product__button {
-        padding-bottom: 0.7em !important;
-        padding-top: 0.5em !important;
-        margin: auto;
-
-        .form-control__button {
-            padding: 0.6em 2em;
-            font-size: 14px;
-            letter-spacing: 2.5px;
-            font-weight: 700;
-            color: #000;
-            background-color: #fff;
-            border: 1px solid lightgray;
-            border-radius: 15px;
-            box-shadow: 0 8px 15px rgba(0, 0, 0, 0.1);
-            transition: all 0.3s ease 0s;
-            cursor: pointer;
-            outline: none;
-        }
-        .form-control__button:hover {
-            box-shadow: 0 5px 10px rgba(0, 0, 0, 0.4);
-            transform: translateY(-7px);
-        }
-        .form-control__button:active {
-            transform: translateY(-1px);
-        }
-    }
     .grid-product {
         float: left;
         position: relative;
@@ -185,6 +153,50 @@ div.ec-store__category-page--176888061 div.grid-category__title-inner {
         line-height: 20px;
         text-size-adjust: 100%;
         -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+
+        .grid-product__price {
+            .grid-product__textblock.grid-product__price-label {
+                display: inline-block !important;
+                font-family: 'Bangers', system-ui;
+                font-weight: 400;
+                color: red;
+                letter-spacing: 1px;
+                font-size: 16px;
+                transform: translateY(5px) rotate(-25deg);
+                padding-left: 15px !important;
+            }
+            .grid-product__price-value {
+                font-size: 16px;
+                font-weight: 600;
+            }
+        }
+        .grid-product__button {
+            padding-bottom: 0.7em !important;
+            padding-top: 0.5em !important;
+            margin: auto;
+
+            .form-control__button {
+                padding: 0.6em 2em;
+                font-size: 14px;
+                letter-spacing: 2.5px;
+                font-weight: 700;
+                color: #000;
+                background-color: #fff;
+                border: 1px solid lightgray;
+                border-radius: 15px;
+                box-shadow: 0 8px 15px rgba(0, 0, 0, 0.1);
+                transition: all 0.3s ease 0s;
+                cursor: pointer;
+                outline: none;
+            }
+            .form-control__button:hover {
+                box-shadow: 0 5px 10px rgba(0, 0, 0, 0.4);
+                transform: translateY(-7px);
+            }
+            .form-control__button:active {
+                transform: translateY(-1px);
+            }
+        }
 
         .grid-product__shadow {
             display: none !important;
