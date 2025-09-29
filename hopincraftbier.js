@@ -12,6 +12,19 @@ document.txtEn3 = '</td><td>€ ';
 document.txtEn4 = '</td></tr><tr><td class="header">Online payment</td><td>€ ';
 document.txtEn5 = '</td><td>€ 0</td></tr></tbody></table></div></div>';
 
+try {
+    window.ec = window.ec || Object();
+    window.ec.storefront = window.ec.storefront || Object();
+
+// Add design config
+    window.ec.storefront.shopping_cart_show_weight = true;
+
+// Apply design configs
+    Ecwid.refreshConfig && Ecwid.refreshConfig();
+} catch (error) {
+    console.log(error);
+}
+
 const headerDiv = document.querySelector("#tile-header-fcHJMd");
 
 if (headerDiv) {
