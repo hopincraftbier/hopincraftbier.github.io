@@ -518,7 +518,7 @@ div.ecwid-paymentMultiSafepay img {
     }
     .details-product-attribute .details-product-attribute__title {
         font-size: 14px;
-        min-width: 15%;
+        min-width: 25%;
         display: flex;
         justify-content: flex-start;
         font-weight: 700;
@@ -649,7 +649,7 @@ div.details-product-price-compare__container {
         width: 33% !important;
     }
     .ec-store.ec-store__product-page .details-product-attribute .details-product-attribute__title {
-        min-width: 20%;
+        min-width: 30%;
     }
     div.ec-store__content-wrapper div.product-details {
         grid-gap: 25px;
