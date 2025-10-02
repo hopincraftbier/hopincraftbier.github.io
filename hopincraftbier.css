@@ -422,6 +422,7 @@ div.ec-cart-step--address {
     }
     div#deliveryInfoOnSection {
         margin-top: 0.5em;
+        font-size: 16px;
     }
 }
 #tile-product-details:has(div.ecwid-productBrowser-CartPage),

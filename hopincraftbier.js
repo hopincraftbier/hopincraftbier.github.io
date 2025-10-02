@@ -291,6 +291,7 @@ function redirectWhenNeeded() {
 }
 
 function addDeliveryInfoWhenNeeded() {
+    console.log('addDeliveryInfoWhenNeeded');
     const deliveryNotice = document.querySelector('div.ec-cart-step--address .ecwid-checkout-notice');
     if (deliveryNotice && !document.querySelector('#deliveryInfoOnSection')) {
         if ('EN' === document.querySelector('a.ins-header__language-link--active').textContent.trim()) {
