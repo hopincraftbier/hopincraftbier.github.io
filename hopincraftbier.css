@@ -138,7 +138,7 @@ div.pager__body {
 .ec-size.ec-size--l .ec-store .ec-filters--inline .ec-filter__name {
     font-size: 14px;
 }
-.ec-size.ec-size--l .ec-store .ec-filters .ec-filters__wrap-inner {
+.ec-size.ec-size--l .ec-store .ec-filters .ec-filter {
     font-size: 14px;
     border: 1px solid lightgray;
     background: white;
@@ -155,12 +155,12 @@ div.pager__body {
             padding-top: 5px;
             margin-bottom: 0;
         }
-        .ec-filter__head {
-            padding-right: 10px;
-            background: rgb(247, 245, 198, 0.4);
-            padding-left: 10px;
-            border-radius: 5px 5px 0 0;
-        }
+    }
+    .ec-filter__head {
+        padding-right: 10px;
+        background: rgb(247, 245, 198, 0.4);
+        padding-left: 10px;
+        border-radius: 5px 5px 0 0;
     }
 }
 
