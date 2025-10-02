@@ -140,7 +140,7 @@ cartTotalMo.observe(document, {
 });
 
 function processStock() {
-  console.log('processStock');
+//  console.log('processStock');
   const x = document.querySelector('.details-product-purchase__place span');
   if (x) {
     const y = x.textContent?.split(':');
@@ -159,8 +159,12 @@ function processStock() {
 }
 
 function processAttributes() {
-  console.log('processAttributes');
+//  console.log('processAttributes');
   var preOrderTxt = "";
+    let lng = "";
+    if ('EN' === document.querySelector('a.ins-header__language-link--active').textContent.trim()) {
+        lng = '/en';
+    }
   document.querySelectorAll('span.details-product-attribute__title').forEach(function (p) {
     if (p.textContent.startsWith('hide_')) {
       if (p.textContent.trim() === 'hide_preorder:') {
@@ -175,6 +179,25 @@ function processAttributes() {
         }
       }
       p.parentElement.style.display = 'none';
+    } else {
+        const attribute = p.textContent.trim();
+        if (attribute === 'Brouwerij:' || attribute === 'Brewery:') {
+            const element = p.parentElement.getElementsByClassName('details-product-attribute__value').item(0);
+            let content = element.textContent.trim();
+            const link = lng + '/products/' + content.toLowerCase().replaceAll('.', '').replaceAll(' ', '-');
+            element.innerHTML = '<a href="' + link + '" target="_blank">' + content + '</a>';
+        } else if (attribute === 'Type:') {
+            const element = p.parentElement.getElementsByClassName('details-product-attribute__value').item(0);
+            let content = element.textContent.trim();
+            const link = lng + '/products/alle-bieren?attribute_Type=' + content.replaceAll(' ', '+');
+            element.innerHTML = '<a href="' + link + '" target="_blank">' + content + '</a>';
+        } else if (attribute === 'Land:' || attribute === 'Country:') {
+            // /alle-bieren?attribute_Land
+            const element = p.parentElement.getElementsByClassName('details-product-attribute__value').item(0);
+            let content = element.textContent.trim();
+            const link = lng + '/products/alle-bieren?attribute_Land=' + content.replaceAll(' ', '+');
+            element.innerHTML = '<a href="' + link + '" target="_blank">' + content + '</a>';
+        }
     }
   });
   if (preOrderTxt !== "" && document.querySelector('div.form-control--primary button.form-control__button span.form-control__button-text')) {
@@ -186,7 +209,7 @@ function processAttributes() {
   }
 }
 function soonLabel() {
-  console.log('soonLabel');
+//  console.log('soonLabel');
   var notSoldOut = false;
   var preorderSoldOut = false;
   var verwachtTxt = '';
@@ -222,7 +245,7 @@ function soonLabel() {
 }
 
 function processExpectedLabels() {
-  console.log('processExpectedLabels');
+//  console.log('processExpectedLabels');
   document.querySelectorAll('div.grid-product__wrap-inner').forEach(function (p) {
     var lint = p.querySelector('div.label__text')?.textContent;
     if (lint === 'Sold out' || lint === 'Uitverkocht') return;
@@ -237,7 +260,7 @@ function processExpectedLabels() {
 }
 
 function addCouponInfo(initial) {
-  console.log('addCouponInfo');
+//  console.log('addCouponInfo');
   const attrValSelector = '.ec-store.ec-store__product-page .details-product-attribute:nth-child($) .details-product-attribute__value';
   if (!initial) {
     var dc = document.querySelector('#discountContainer');
@@ -269,7 +292,7 @@ function addCouponInfo(initial) {
 
 function moveSubtitle() {
   redirectWhenNeeded();
-  console.log('moveSubtitle');
+//  console.log('moveSubtitle');
   document.querySelectorAll('div.grid-product__wrap-inner div.grid-product__subtitle').forEach(function (p) {
     var imgWrapElement = p.parentElement.querySelector('div.grid-product__image-wrap');
     if (imgWrapElement) {
@@ -283,7 +306,7 @@ function calcDiscount(num, custDisc) {
 }
 
 function redirectWhenNeeded() {
-  console.log('redirectWhenNeeded');
+//  console.log('redirectWhenNeeded');
   if (window.location.href.endsWith('/products')) {
     let newLoc = window.location.href + '/alle-bieren';
     window.location.replace(newLoc);
@@ -291,7 +314,7 @@ function redirectWhenNeeded() {
 }
 
 function addDeliveryInfoWhenNeeded() {
-    console.log('addDeliveryInfoWhenNeeded');
+//    console.log('addDeliveryInfoWhenNeeded');
     const deliveryNotice = document.querySelector('div.ec-cart-step--address .ecwid-checkout-notice');
     if (deliveryNotice && !document.querySelector('#deliveryInfoOnSection')) {
         if ('EN' === document.querySelector('a.ins-header__language-link--active').textContent.trim()) {
@@ -299,5 +322,7 @@ function addDeliveryInfoWhenNeeded() {
         } else {
             deliveryNotice.insertAdjacentHTML('beforeend', '<div id="deliveryInfoOnSection">Bekijk de <a class="ec-link" target="_blank" href="/delivery-info#feature-list-fjNnsD-FLT23">leveringsinformatie</a><br></div>');
         }
+        location.href = "#";
+        location.href = "#deliveryInfoOnSection";
     }
 }
