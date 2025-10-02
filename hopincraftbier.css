@@ -135,10 +135,35 @@ div.pager__body {
     text-align: left;
     padding-top: 40px;
 }
-.ec-size.ec-size--l .ec-store .ec-filters--inline .ec-filter__name,
-.ec-size.ec-size--l .ec-store .ec-filters {
+.ec-size.ec-size--l .ec-store .ec-filters--inline .ec-filter__name {
     font-size: 14px;
 }
+.ec-size.ec-size--l .ec-store .ec-filters {
+    font-size: 14px;
+    border: 1px solid lightgray;
+    background: white;
+    border-radius: 5px;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24) !important;
+    margin-bottom: 5px;
+
+    .ec-filters__body {
+        padding-left: 10px !important;
+        padding-top: 5px !important;
+
+        .ec-filter__items-inner {
+            padding-right: 10px;
+            padding-top: 5px;
+            margin-bottom: 0;
+        }
+        .ec-filter__head {
+            padding-right: 10px;
+            background: rgb(247, 245, 198, 0.4);
+            padding-left: 10px;
+            border-radius: 5px 5px 0 0;
+        }
+    }
+}
+
 /* beerstijl cat */
 div.ec-store__category-page--176888061 div.grid-category__title-inner {
     color: black;
@@ -154,7 +179,7 @@ div.ec-store__category-page--176888061 div.grid-category__title-inner {
         float: left;
         position: relative;
         min-height: 1px;
-        padding: 15px;
+        padding: 0 12px 25px 13px;
         box-sizing: border-box;
         color: rgb(51, 51, 51);
         display: block;

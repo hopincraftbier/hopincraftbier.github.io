@@ -17,7 +17,11 @@ try {
     window.ec.storefront = window.ec.storefront || Object();
 
 // Add design config
-    window.ec.storefront.shopping_cart_show_weight = true;
+    window.ec.storefront.shopping_cart_show_weight = false;
+
+    // to try
+    // window.ec.storefront.product_filters_orientation = 'HORIZONTAL';
+    // product_details_additional_images_has_shadow = true;
 
 // Apply design configs
     Ecwid.refreshConfig && Ecwid.refreshConfig();
