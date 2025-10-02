@@ -414,6 +414,15 @@ div.ec-store__category-page--176888061 div.grid-category__title-inner {
 /* == start cart == */
 div.ecwid-checkout-notice > div {
     margin: auto;
+    font-size: 14px;
+}
+div.ec-cart-step--address {
+    div.ecwid-checkout-notice {
+        margin-bottom: 0.5em !important;
+    }
+    div#deliveryInfoOnSection {
+        margin-top: 0.5em;
+    }
 }
 #tile-product-details:has(div.ecwid-productBrowser-CartPage),
 #tile-product-details:has(div.ec-store__checkout-page),

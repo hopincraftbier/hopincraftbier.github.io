@@ -33,6 +33,7 @@ const headerDiv = document.querySelector("#tile-header-fcHJMd");
 
 if (headerDiv) {
   redirectWhenNeeded();
+  addDeliveryInfoWhenNeeded();
 
   let announcementsHeight = 0;
 
@@ -94,8 +95,9 @@ if (headerDiv) {
           } else if (className.indexOf('ec-related-products') >= 0) {
             processExpectedLabels();
           }
+          const lngTxt = document.querySelector('a.ins-header__language-link--active').textContent.trim();
           if (className.indexOf('ecwid-checkout-notice') >= 0) {
-            if ('EN' === document.querySelector('a.ins-header__language-link--active').textContent.trim()) {
+            if ('EN' === lngTxt) {
               document.querySelector('span.adb_nl').style.display = 'none';
             } else {
               document.querySelector('span.adb_en').style.display = 'none';
@@ -110,12 +112,21 @@ if (headerDiv) {
                 let total = Number(parts[1].replace(',', '.'));
                 if (total < 50) {
                   let pickupOnly = 'Enkel ophalen (totaal lager dan € 50).'
-                  if ('EN' === document.querySelector('a.ins-header__language-link--active').textContent.trim()) {
+                  if ('EN' === lngTxt) {
                     pickupOnly = 'Pickup only (total lower than € 50).';
                   }
                   totalBody.insertAdjacentHTML('beforebegin', '<p style="color:red;"><strong>' + pickupOnly + '</strong></p>');
                 }
               }
+            }
+            // show link to shipping cost
+            const cartSidebar = document.querySelector('div.ec-cart__sidebar-inner');
+            if (cartSidebar && !document.querySelector('#deliveryInfoSidebar')) {
+                if ('EN' === lngTxt) {
+                    cartSidebar.lastChild.insertAdjacentHTML('beforebegin', '<div id="deliveryInfoSidebar">View the <a class="ec-link" target="_blank" href="/delivery-info#feature-list-fjNnsD-FLT23">delivery information</a><br></div>');
+                } else {
+                    cartSidebar.lastChild.insertAdjacentHTML('beforebegin', '<div id="deliveryInfoSidebar">Bekijk de <a class="ec-link" target="_blank" href="/delivery-info#feature-list-fjNnsD-FLT23">leveringsinformatie</a><br></div>');
+                }
             }
           }
         }
@@ -277,4 +288,15 @@ function redirectWhenNeeded() {
     let newLoc = window.location.href + '/alle-bieren';
     window.location.replace(newLoc);
   }
+}
+
+function addDeliveryInfoWhenNeeded() {
+    const deliveryNotice = document.querySelector('div.ec-cart-step--address .ecwid-checkout-notice');
+    if (deliveryNotice && !document.querySelector('#deliveryInfoOnSection')) {
+        if ('EN' === document.querySelector('a.ins-header__language-link--active').textContent.trim()) {
+            deliveryNotice.insertAdjacentHTML('beforeend', '<div id="deliveryInfoOnSection">View the <a class="ec-link" target="_blank" href="/delivery-info#feature-list-fjNnsD-FLT23">delivery information</a><br></div>');
+        } else {
+            deliveryNotice.insertAdjacentHTML('beforeend', '<div id="deliveryInfoOnSection">Bekijk de <a class="ec-link" target="_blank" href="/delivery-info#feature-list-fjNnsD-FLT23">leveringsinformatie</a><br></div>');
+        }
+    }
 }
