@@ -33,7 +33,6 @@ const headerDiv = document.querySelector("#tile-header-fcHJMd");
 
 if (headerDiv) {
   redirectWhenNeeded();
-  addDeliveryInfoWhenNeeded();
 
   let announcementsHeight = 0;
 
@@ -67,6 +66,7 @@ if (headerDiv) {
   });
   var cartTotalMo = new MutationObserver(function(ms) {
     redirectWhenNeeded();
+    addDeliveryInfoWhenNeeded();
     ms.forEach(function (m) {
     for (var i = 0; i < m.addedNodes.length; i++) {
       if (m.addedNodes[i].nodeType === Node.ELEMENT_NODE) {
