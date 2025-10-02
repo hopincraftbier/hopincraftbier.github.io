@@ -152,6 +152,9 @@ div.pager__body {
         .ec-openable-block--opened {
             margin-top: 5px;
         }
+        .form-control__placeholder-inner {
+            font-size: 14px;
+        }
 
         .ec-filter__items:not(.ec-filter__items--full-height)::after {
             background-image: none;
@@ -164,7 +167,7 @@ div.pager__body {
     }
     .ec-filter__head {
         padding-right: 10px;
-        background: rgb(247, 245, 198, 0.4);
+        background: rgb(247, 245, 198, 0.6);
         padding-left: 10px;
         border-radius: 5px 5px 0 0;
         border-bottom: 1px solid lightgray;
