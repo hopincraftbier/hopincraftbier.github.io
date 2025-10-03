@@ -310,6 +310,8 @@ div.ec-store__category-page--176888061 div.grid-category__title-inner {
 
         .grid-product__wrap-inner:hover .grid-product__image-wrap img {
             box-shadow: 0 20px 20px rgba(0, 0, 0, 0.5);
+            border: 1px solid lightgray;
+            background: white;
             transform: scale(1.02) !important;
             -webkit-transform: scale(1.02) !important;
             -moz-transform: scale(1.02) !important;
@@ -442,6 +444,7 @@ div.ec-cart-step--address {
     div.ecwid-productBrowser-ProductPage div.product-details {
         div.product-details__gallery, div.product-details__description, div.product-details__sidebar {
             background-color: white;
+            border: 1px solid lightgray;
         }
     }
 }
