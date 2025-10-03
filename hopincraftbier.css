@@ -137,6 +137,7 @@ div.pager__body {
 }
 .ec-size.ec-size--l .ec-store .ec-filters--inline .ec-filter__name {
     font-size: 14px;
+    padding: 5px;
 }
 
 .ec-size.ec-size--l .ec-store .ec-filters .ec-filter {
@@ -167,7 +168,7 @@ div.pager__body {
     }
     .ec-filter__head {
         padding-right: 10px;
-        background: rgb(247, 245, 198, 0.6);
+        background: #F9F6EE;
         padding-left: 10px;
         border-radius: 5px 5px 0 0;
         border-bottom: 1px solid lightgray;
