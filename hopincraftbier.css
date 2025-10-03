@@ -1,4 +1,4 @@
-/* HopInCraftbier custom css v3.19 */
+/* HopInCraftbier custom css v3.50 */
 #tile-product-details div.ins-tile__wrap {
     margin-top: 30px;
     min-width: 80%
@@ -175,10 +175,6 @@ div.pager__body {
     }
 }
 
-/* beerstijl cat */
-div.ec-store__category-page--176888061 div.grid-category__title-inner {
-    color: black;
-}
 /* default to 4 cols in grid */
 .ec-size .ec-store .grid__products .grid-product:nth-child(n + 1) {
     width: 25% !important;
@@ -464,8 +460,24 @@ div.ec-cart-step--address {
             }
             div.grid-category__wrap-inner {
                 box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24) !important;
-                .grid-category__title::before {
-                    color: black;
+                .grid-category__title-inner {
+                    font-family: 'Bangers', Ubuntu, system-ui;
+                    letter-spacing: 2px;
+                    z-index: 0;
+                    color: white !important;
+                    position: absolute;
+                    left: 0;
+                    width: 100%;
+                    font-size: 18px;
+                }
+                .grid-category__title-inner::before {
+                    content: attr(title);
+                    -webkit-text-stroke: 0.15em black;
+                    position: absolute;
+                    z-index: -1;
+                    left: 0;
+                    padding: 0 5px;
+                    width: 100%;
                 }
             }
         }
