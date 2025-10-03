@@ -363,14 +363,20 @@ div.pager__body {
         }
     }
 }
-.ec-size .ec-store.ec-store__favorites-page .grid__products {
-    .grid-product__subtitle > * {
-        transform: translate(0%, -175%);
-        -webkit-transform: translate(0%, -175%);
-        -moz-transform: translate(0%, -175%);
-        -ms-transform: translate(0%, -175%);
-        -o-transform: translate(0%, -175%);
-        -khtml-transform: translate(0%, -175%);
+.ec-size .ec-store.ec-store__favorites-page {
+    .grid__products {
+        .grid-product:nth-child(n + 1) {
+            width: 20% !important;
+        }
+
+        .grid-product__subtitle > * {
+            transform: translate(0%, -175%);
+            -webkit-transform: translate(0%, -175%);
+            -moz-transform: translate(0%, -175%);
+            -ms-transform: translate(0%, -175%);
+            -o-transform: translate(0%, -175%);
+            -khtml-transform: translate(0%, -175%);
+        }
     }
 }
 
@@ -730,8 +736,9 @@ div.details-product-price-compare__container {
     .ec-size .ec-store .grid__products .grid-product:nth-child(n + 1) {
         width: 33% !important;
     }
+    .ec-size .ec-store.ec-store__favorites-page .grid__products .grid-product:nth-child(n + 1),
     .ec-size .ec-store .grid__categories .grid-category:nth-child(n + 1) {
-        width: 33% !important;
+        width: 25% !important;
     }
     .ec-store.ec-store__product-page .details-product-attribute .details-product-attribute__title {
         min-width: 30%;
@@ -750,8 +757,9 @@ div.details-product-price-compare__container {
     .ec-size .ec-store .grid__products .grid-product:nth-child(n + 1) {
         width: 50% !important;
     }
+    .ec-size .ec-store.ec-store__favorites-page .grid__products .grid-product:nth-child(n + 1),
     .ec-size .ec-store .grid__categories .grid-category:nth-child(n + 1) {
-        width: 50% !important;
+        width: 33% !important;
     }
     div.ec-store__content-wrapper div.product-details {
         grid-gap: 20px;
@@ -775,6 +783,10 @@ div.details-product-price-compare__container {
 @media screen and (max-width: 615px) {
     .ec-store.ec-store__product-page .details-product-attribute .details-product-attribute__title {
         min-width: 35%;
+    }
+    .ec-size .ec-store.ec-store__favorites-page .grid__products .grid-product:nth-child(n + 1),
+    .ec-size .ec-store .grid__categories .grid-category:nth-child(n + 1) {
+        width: 50% !important;
     }
 }
 @media screen and (max-width: 555px) {
