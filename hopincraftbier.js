@@ -88,6 +88,7 @@ if (headerDiv) {
           } else if (className.indexOf('grid__wrap-inner') >= 0) {
             moveSubtitle();
           } else if (className.indexOf('ec-store ec-store__category-page') >= 0 ||
+            className.indexOf('ec-store ec-store__favorites-page') >= 0 ||
             (className.indexOf('grid-product') >= 0 && className.indexOf('grid-product__subtitle') < 0)) {
             processExpectedLabels();
             addTitleAttribute();
