@@ -1,4 +1,5 @@
 console.log("HopInCraftbier custom js v4.60");
+let debug = false;
 /* Get the header element and it's position */
 document.txtNl1 = '<div id="discountContainer"><div class="dtooltip"><p class="hover question">Kortingscoupon</p><p class="dtooltiptext">Afhankelijk van de gekozen betaling en levering, kunt u een kortingscoupon krijgen die te gebruiken is bij een volgende bestelling. Voor dit bier ziet u de bedragen in deze tabel</p></div><table class="discount-table"><thead><tr class="first_header"><th></th><th colspan="2">Manier van levering</th></tr><tr><th>Manier van betaling</th><th>Afhaling</th><th>Levering</th></tr></thead><tbody><tr><td class="header">Betalen bij afhaling</td><td>€ ';
 document.txtNl2 = '</td><td> - </td></tr><tr><td class="header">Overschrijving</td><td>€ ';
@@ -26,7 +27,7 @@ try {
 // Apply design configs
     Ecwid.refreshConfig && Ecwid.refreshConfig();
 } catch (error) {
-    console.log(error);
+    log(error);
 }
 
 const headerDiv = document.querySelector("#tile-header-fcHJMd");
@@ -72,7 +73,7 @@ if (headerDiv) {
       if (m.addedNodes[i].nodeType === Node.ELEMENT_NODE) {
         if (typeof m.addedNodes[i].className == "string") {
           const className = m.addedNodes[i].className;
-          // console.log('-> ' + className);
+          log('added node classname: ' + className);
           if (className.indexOf('ec-store ec-store__product-page') >= 0) {
             addCouponInfo(true);
             soonLabel();
@@ -141,7 +142,7 @@ cartTotalMo.observe(document, {
 });
 
 function processStock() {
-//  console.log('processStock');
+  log('processStock');
   const x = document.querySelector('.details-product-purchase__place span');
   if (x) {
     const y = x.textContent?.split(':');
@@ -160,7 +161,7 @@ function processStock() {
 }
 
 function processAttributes() {
-//  console.log('processAttributes');
+  log('processAttributes');
   var preOrderTxt = "";
     let lng = "";
     if ('EN' === document.querySelector('a.ins-header__language-link--active').textContent.trim()) {
@@ -210,7 +211,7 @@ function processAttributes() {
   }
 }
 function soonLabel() {
-//  console.log('soonLabel');
+  log('soonLabel');
   var notSoldOut = false;
   var preorderSoldOut = false;
   var verwachtTxt = '';
@@ -246,7 +247,7 @@ function soonLabel() {
 }
 
 function processExpectedLabels() {
-//  console.log('processExpectedLabels');
+  log('processExpectedLabels');
   document.querySelectorAll('div.grid-product__wrap-inner').forEach(function (p) {
     var lint = p.querySelector('div.label__text')?.textContent;
     if (lint === 'Sold out' || lint === 'Uitverkocht') return;
@@ -261,7 +262,7 @@ function processExpectedLabels() {
 }
 
 function addCouponInfo(initial) {
-//  console.log('addCouponInfo');
+  log('addCouponInfo');
   const attrValSelector = '.ec-store.ec-store__product-page .details-product-attribute:nth-child($) .details-product-attribute__value';
   if (!initial) {
     var dc = document.querySelector('#discountContainer');
@@ -293,7 +294,7 @@ function addCouponInfo(initial) {
 
 function moveSubtitle() {
   redirectWhenNeeded();
-//  console.log('moveSubtitle');
+  log('moveSubtitle');
   document.querySelectorAll('div.grid-product__wrap-inner div.grid-product__subtitle').forEach(function (p) {
     var imgWrapElement = p.parentElement.querySelector('div.grid-product__image-wrap');
     if (imgWrapElement) {
@@ -307,7 +308,7 @@ function calcDiscount(num, custDisc) {
 }
 
 function redirectWhenNeeded() {
-//  console.log('redirectWhenNeeded');
+  log('redirectWhenNeeded');
   if (window.location.href.endsWith('/products')) {
     let newLoc = window.location.href + '/alle-bieren';
     window.location.replace(newLoc);
@@ -315,7 +316,7 @@ function redirectWhenNeeded() {
 }
 
 function addDeliveryInfoWhenNeeded() {
-//    console.log('addDeliveryInfoWhenNeeded');
+    log('addDeliveryInfoWhenNeeded');
     const deliveryNotice = document.querySelector('div.ec-cart-step--address .ecwid-checkout-notice');
     if (deliveryNotice && !document.querySelector('#deliveryInfoOnSection')) {
         if ('EN' === document.querySelector('a.ins-header__language-link--active').textContent.trim()) {
@@ -329,9 +330,15 @@ function addDeliveryInfoWhenNeeded() {
 }
 
 function addTitleAttribute() {
-   console.log('addTitleAttribute');
+   log('addTitleAttribute');
     document.querySelectorAll('.grid__categories .grid-category__title-inner').forEach(function (p) {
         const txt = p.textContent.trim();
         p.setAttribute("title", txt);
     });
+}
+
+function log(txt) {
+    if (debug) {
+        console.log(txt);
+    }
 }
