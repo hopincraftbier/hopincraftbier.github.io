@@ -457,9 +457,6 @@ div.ec-cart-step--address {
             border: 1px solid lightgray;
         }
         div.grid__categories div.grid-category {
-            .grid-category__bg-image {
-                position: relative;
-            }
             .grid-category__bg-image::before {
                 position: absolute;
                 top: 0;
