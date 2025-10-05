@@ -556,6 +556,25 @@ div.ec-store__content-wrapper div.product-details {
         .details-gallery__scroll {
             padding-top: 0;
         }
+        .details-gallery__main-image-wrapper::before {
+            position: absolute;
+            top: 0;
+            left: -75%;
+            z-index: 2;
+            display: block;
+            content: '';
+            width: 50%;
+            height: 100%;
+            background: -webkit-linear-gradient(left, rgba(255, 255, 255, 0) 0%, rgba(255, 255, 255, .3) 100%);
+            background: linear-gradient(to right, rgba(255, 255, 255, 0) 0%, rgba(255, 255, 255, .3) 100%);
+            -webkit-transform: skewX(-25deg);
+            transform: skewX(-25deg);
+        }
+        .details-gallery__image-wrapper-inner:hover .details-gallery__main-image-wrapper::before {
+            -webkit-animation: shine .75s;
+            animation: shine .75s;
+        }
+
     }
     div.product-details__sidebar {
         grid-column: 3;
