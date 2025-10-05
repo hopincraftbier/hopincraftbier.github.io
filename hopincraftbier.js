@@ -107,21 +107,6 @@ if (headerDiv) {
             }
           }
           if (className.indexOf('ec-store__cart-page') >= 0) {
-            const cartTotal = document.querySelector("span.ec-cart-summary__total");
-            if (cartTotal) {
-              const totalBody = cartTotal.parentElement.parentElement.parentElement;
-              let parts = cartTotal.textContent?.split(' ');
-              if (parts.length >= 2) {
-                let total = Number(parts[1].replace(',', '.'));
-                if (total < 50) {
-                  let pickupOnly = 'Enkel ophalen (totaal lager dan € 50).'
-                  if ('EN' === lngTxt) {
-                    pickupOnly = 'Pickup only (total lower than € 50).';
-                  }
-                  totalBody.insertAdjacentHTML('beforebegin', '<p style="color:red;"><strong>' + pickupOnly + '</strong></p>');
-                }
-              }
-            }
             // show link to shipping cost
             const cartSidebar = document.querySelector('div.ec-cart__sidebar-inner');
             if (cartSidebar && !document.querySelector('#deliveryInfoSidebar')) {
