@@ -474,7 +474,7 @@ div.ec-cart-step--address {
                 -webkit-transform: skewX(-25deg);
                 transform: skewX(-25deg);
             }
-            .grid-category__bg-image:hover::before {
+            .grid-category__wrap-inner:hover .grid-category__bg-image::before {
                 -webkit-animation: shine .75s;
                 animation: shine .75s;
             }
