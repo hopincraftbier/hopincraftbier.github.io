@@ -457,10 +457,10 @@ div.ec-cart-step--address {
             border: 1px solid lightgray;
         }
         div.grid__categories div.grid-category {
-            .grid-category__picture {
+            .grid-category__bg-image {
                 position: relative;
             }
-            .grid-category__picture::before {
+            .grid-category__bg-image::before {
                 position: absolute;
                 top: 0;
                 left: -75%;
@@ -474,7 +474,7 @@ div.ec-cart-step--address {
                 -webkit-transform: skewX(-25deg);
                 transform: skewX(-25deg);
             }
-            .grid-category__picture:hover::before {
+            .grid-category__bg-image:hover::before {
                 -webkit-animation: shine .75s;
                 animation: shine .75s;
             }
