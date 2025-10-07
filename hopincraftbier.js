@@ -97,6 +97,8 @@ if (headerDiv) {
             processExpectedLabels();
           } else if (className.indexOf('ec-related-products') >= 0) {
             processExpectedLabels();
+          } else if (className.indexOf('details-product-purchase__place') >= 0) {
+            processStock();
           }
           const lngTxt = document.querySelector('a.ins-header__language-link--active').textContent.trim();
           if (className.indexOf('ecwid-checkout-notice') >= 0) {
