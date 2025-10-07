@@ -426,6 +426,11 @@ div.ec-cart-step--address {
         font-size: 16px;
     }
 }
+div.ec-cart-step--delivery {
+    .ec-radiogroup__item--disabled {
+        display:none !important;
+    }
+}
 #tile-product-details:has(div.ecwid-productBrowser-CartPage),
 #tile-product-details:has(div.ec-store__checkout-page),
 #tile-product-details:has(div.ec-store__confirmation-page),
