@@ -322,15 +322,24 @@ function redirectWhenNeeded() {
 
 function addDeliveryInfoWhenNeeded() {
     log('addDeliveryInfoWhenNeeded');
-    const deliveryNotice = document.querySelector('div.ec-cart-step--address .ecwid-checkout-notice');
-    if (deliveryNotice && !document.querySelector('#deliveryInfoOnSection')) {
+    let sectionId = "deliveryInfoOnSection";
+    let deliveryNotice = document.querySelector('div.ec-cart-step--address .ecwid-checkout-notice');
+    let section = document.querySelector('#' + sectionId + '1');
+    if (!deliveryNotice) {
+        deliveryNotice = document.querySelector('div.ec-cart-step--delivery .ecwid-checkout-notice');
+        section = document.querySelector('#' + sectionId + '2');
+        sectionId = sectionId + '2'
+    } else {
+        sectionId = sectionId + '1'
+    }
+    if (deliveryNotice && !section) {
         if ('EN' === document.querySelector('a.ins-header__language-link--active').textContent.trim()) {
-            deliveryNotice.insertAdjacentHTML('beforeend', '<div id="deliveryInfoOnSection">View the <a class="ec-link" target="_blank" href="/delivery-info#feature-list-fjNnsD-FLT23">delivery information</a><br></div>');
+            deliveryNotice.insertAdjacentHTML('beforeend', '<div id="' + sectionId + '">View the <a class="ec-link" target="_blank" href="/delivery-info#feature-list-fjNnsD-FLT23">delivery information</a><br></div>');
         } else {
-            deliveryNotice.insertAdjacentHTML('beforeend', '<div id="deliveryInfoOnSection">Bekijk de <a class="ec-link" target="_blank" href="/delivery-info#feature-list-fjNnsD-FLT23">leveringsinformatie</a><br></div>');
+            deliveryNotice.insertAdjacentHTML('beforeend', '<div id="' + sectionId + '">Bekijk de <a class="ec-link" target="_blank" href="/delivery-info#feature-list-fjNnsD-FLT23">leveringsinformatie</a><br></div>');
         }
         location.href = "#";
-        location.href = "#deliveryInfoOnSection";
+        location.href = "#" + sectionId;
     }
 }
 

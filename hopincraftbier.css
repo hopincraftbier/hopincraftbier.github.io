@@ -417,7 +417,7 @@ div.ecwid-checkout-notice > div {
     margin: auto;
     font-size: 14px;
 }
-div.ec-cart-step--address {
+div.ec-cart-step--address, div.ec-cart-step--delivery {
     div.ecwid-checkout-notice {
         margin-bottom: 0.5em !important;
     }
@@ -425,8 +425,6 @@ div.ec-cart-step--address {
         margin-top: 0.5em;
         font-size: 16px;
     }
-}
-div.ec-cart-step--delivery {
     .ec-radiogroup__item--disabled {
         display:none !important;
     }
