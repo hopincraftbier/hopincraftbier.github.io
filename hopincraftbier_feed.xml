@@ -3,7 +3,7 @@
 <feed>
   <title>Hop In Craftbier</title>
   <link>https://hopincraftbier.be/products&lt;/link&gt;</link>
-  <description>Google Products feed</description>
+  <description>Hop In Craftbier Products feed</description>
   <item>
     <id>6127069_1</id>
     <ecommerce_id>787452692</ecommerce_id>
@@ -5121,5 +5121,5 @@
     <date_best_before>2027-01-21</date_best_before>
     <untappd_id>6149227</untappd_id>
   </item>
-  <timestamp>1759934144</timestamp>
+  <timestamp>1759934944</timestamp>
 </feed>
