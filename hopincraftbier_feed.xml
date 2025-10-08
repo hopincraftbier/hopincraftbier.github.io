@@ -15,6 +15,7 @@
     <beer_description>X Anniversary 6/10 Quadrupel BBA - sixth in a series of anniversary beers. Quadrupel, brewed with extract of 30° Plato, features a milt profile composed of Pilsner and caramel malts. Fermented with a Belgian yeast strain, it offers aromas of dark fruits and subtle spicy notes. Aged for 18 months in Jack Daniel's barrels, it was infused before bottling with almonds, hazelnuts, and pecans. The result is a Quadrupel characterized by caramel and toasted flavors, complemented by notes of dried dark fruits. Barrel aging adds layers of vanilla, coconut, and refined alcohol warmth, while the nut blend creates an intriguing and harmonious finish. -</beer_description>
     <beer_style>Belgian Quadrupel</beer_style>
     <beer_abv>10%</beer_abv>
+    <beer_volume>330 ml</beer_volume>
     <beer_package>bottle</beer_package>
     <brewery_country>Poland</brewery_country>
     <date_best_before>2027-01-10</date_best_before>
@@ -31,6 +32,7 @@
     <beer_description>Saturated in Citra, Mosaic and Idaho 7 this 6% London Fog IPA is brimming with fruit bubblegum flavours of mango, orange peel, pineapple and ripe flat peaches. Beak - Parade</beer_description>
     <beer_style>IPA - New England / Hazy</beer_style>
     <beer_abv>6%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
     <beer_package>can</beer_package>
     <untappd_id>3820116</untappd_id>
   </item>
@@ -45,6 +47,7 @@
     <beer_description>Three of our dankest hops combine in this sticky, hazy, full-throttle DIPA. Showcasing the best of Nelson Sauvin, Mosaic and Enigma for notes of resin, cedar and flinty white wine. Beak - Canna</beer_description>
     <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
     <beer_abv>8%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
     <beer_package>can</beer_package>
     <untappd_id>6406071</untappd_id>
   </item>
@@ -59,6 +62,7 @@
     <beer_description>We decided that this barleywine was worth a re-brew, especially since it has such a badass label. The brew team has gone to great lengths to take this beer to the next level, and we KNOW you're all going to love it! Think you're not a barleywine fan? Think again! Full, semi-sweet, and chewy body with a sticky texture offering malt driven notes of honey, toffee, and stone fruit with just enough bitterness for balance. Adroit Theory - Cold Woods (Ghost COLD WOODS)</beer_description>
     <beer_style>Barleywine - English</beer_style>
     <beer_abv>12%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>United States</brewery_country>
     <untappd_id>6320572</untappd_id>
@@ -74,6 +78,7 @@
     <beer_description>9th edition of their cyclical, annual beer. A strong Imperial Stout with deep and intense aromas of dark chocolate, coffee and roasted malt which creates a truly decadent taste experience. Nepo Brewing - D-Tonacja 9th Edition</beer_description>
     <beer_style>Stout - Imperial / Double</beer_style>
     <beer_abv>12.5%</beer_abv>
+    <beer_volume>500 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>Poland</brewery_country>
     <date_best_before>2027-06-04</date_best_before>
@@ -90,6 +95,7 @@
     <beer_description>Double smoked bock is a beer brewed with unique dark, smoked and caramel malts. Nepo Brewing - Doppel Rauchbock</beer_description>
     <beer_style>Rauchbier</beer_style>
     <beer_abv>6.8%</beer_abv>
+    <beer_volume>500 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>Poland</brewery_country>
     <date_best_before>2026-04-10</date_best_before>
@@ -106,6 +112,7 @@
     <beer_description>This beer is brewed with a classic "holy trinity" blend of modern hops: Citra, Nelson Sauvin, and Motueka. Expect a soft, full, and hazy body that delivers a massive and multi-layered explosion of flavour. The profile is an intense wave of juicy tropical fruit (passionfruit), bright citrus (lime, grapefruit), and elegant white wine grape. Nepo Brewing - Crazy Lines Series: Avalanche</beer_description>
     <beer_style>IPA - Triple New England / Hazy</beer_style>
     <beer_abv>8.5%</beer_abv>
+    <beer_volume>500 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>Poland</brewery_country>
     <date_best_before>2026-08-04</date_best_before>
@@ -122,6 +129,7 @@
     <beer_description>A hearty and refreshing beer where hops take center stage. Tropical fruits, citrus, and resin notes meet a distinct bitterness to create an intense, new wave character. Nepo Brewing - Crazy Lines Series: Polar Shift</beer_description>
     <beer_style>IPA - Cold</beer_style>
     <beer_abv>6.6%</beer_abv>
+    <beer_volume>500 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>Poland</brewery_country>
     <date_best_before>2026-08-16</date_best_before>
@@ -138,6 +146,7 @@
     <beer_description>Beer brewed in collaboration with their friends from the US, Yakima Chief Hops. A unique single hop created to commemorate the renaming of HBC 1019, debuting as Dolcita. This beer is an explosion of aromas of spicy fruit, tropical, and citrus notes, enriched with a delicate, sweet aromatic layer. Juicy, smooth, and full-bodied. A perfect example of how a single hop can shape the entire character of a beer. Nepo Brewing - Dolcita</beer_description>
     <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
     <beer_abv>7.1%</beer_abv>
+    <beer_volume>500 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>Poland</brewery_country>
     <date_best_before>2026-09-01</date_best_before>
@@ -154,6 +163,7 @@
     <beer_description>Inspired by the extraordinary nature of the Barycza Valley and the picturesque Milicki Ponds, they created a beer that captures the lightness and freshness of this place. It's Session Hazy IPA – hazy, juicy hops, and easy to drink, perfect for discovering new flavors in good company. Nepo Brewing - Discover the Barycz Valley</beer_description>
     <beer_style>IPA - Session</beer_style>
     <beer_abv>5.5%</beer_abv>
+    <beer_volume>500 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>Poland</brewery_country>
     <date_best_before>2026-07-10</date_best_before>
@@ -170,6 +180,7 @@
     <beer_description>Neipa hopped with the HBC 630 variety Nepo Brewing - Crazy Lines Series: Fun</beer_description>
     <beer_style>IPA - New England / Hazy</beer_style>
     <beer_abv>6.4%</beer_abv>
+    <beer_volume>500 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>Poland</brewery_country>
     <date_best_before>2026-07-09</date_best_before>
@@ -187,6 +198,7 @@
     <beer_description>The Tired Hands Brewing Company pack consists of: - DDH Alien Church (Citra &amp; Galaxy) - Milkshake IPA (Strawberry) - Refreshing</beer_description>
     <beer_style>IPA</beer_style>
     <beer_abv>7 - 8%</beer_abv>
+    <beer_volume>3x473 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>United States</brewery_country>
     <date_canned>2025-04-16</date_canned>
@@ -206,6 +218,7 @@
     <beer_description>The Ārpus Brewing pack consists of: - Ārpus X Brasserie Popihn Imperial Cascadian Dark Ale - TDH Riwaka X Galaxy DIPA - Ārpus X Factory Quintuple Dry Hopped Motueka X Nelson Sauvin QIPA Arpus Brewing Co. - Arpus Brewing Co. - IPA Pack</beer_description>
     <beer_style>IPA</beer_style>
     <beer_abv>8 - 10.5%</beer_abv>
+    <beer_volume>3x440 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>Latvia</brewery_country>
     <date_best_before>2026-02-28</date_best_before>
@@ -225,6 +238,7 @@
     <beer_description>The DankHouse Brewing Company pack consists of: - Granny's Candy Bowl - Deady Bears - Dank Hunt</beer_description>
     <beer_style>Sour - IPA</beer_style>
     <beer_abv>6 - 10%</beer_abv>
+    <beer_volume>3x473 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>United States</brewery_country>
     <date_canned>2025-03-20</date_canned>
@@ -244,6 +258,7 @@
     <beer_description>The Wood Brothers Brewing pack consists of: - Neca-Tron (2025) - Thistle Dew - Holy Hazel - Blind Fog</beer_description>
     <beer_style>IPA</beer_style>
     <beer_abv>6.5 - 9%</beer_abv>
+    <beer_volume>4x473 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>Canada</brewery_country>
     <date_canned>2025-03-26</date_canned>
@@ -263,6 +278,7 @@
     <beer_description>The Tin Barn Brewing pack consists of: - Orange Party - Citra Kong - Barn Snake</beer_description>
     <beer_style>IPA</beer_style>
     <beer_abv>7.7 - 9.4%</beer_abv>
+    <beer_volume>3x473 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>United States</brewery_country>
     <date_canned>2025-03-07</date_canned>
@@ -281,6 +297,7 @@
     <beer_description>Citra, Peacharine and Nelson Sauvin Imperial IPA. Azvex Brewing Company - Drake Passage</beer_description>
     <beer_style>IPA - Imperial / Double</beer_style>
     <beer_abv>8%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>England</brewery_country>
     <date_best_before>2026-03-11</date_best_before>
@@ -297,6 +314,7 @@
     <beer_description>Mosaic, Nelson Sauvin, Waimea &amp; Peacharine Azvex Brewing Company - Mariana's Web</beer_description>
     <beer_style>IPA - New England / Hazy</beer_style>
     <beer_abv>6.4%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>England</brewery_country>
     <date_best_before>2026-04-30</date_best_before>
@@ -314,6 +332,7 @@
     <beer_description>The Hoof Hearted Brewing pack consists of: - South of Eleven (2025) - Wet When Slippery (Pineapple &amp; Mango) - Cowboy Konkey Dong (2025)</beer_description>
     <beer_style>IPA</beer_style>
     <beer_abv>8 - 10.2%</beer_abv>
+    <beer_volume>3x473 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>United States</brewery_country>
     <date_canned>2025-03-04</date_canned>
@@ -332,6 +351,7 @@
     <beer_description>Our classic Mosaic focused Imperial IPA containing our hand selected Mosaic, Mosaic Cryo and Mosaic Incognito. Notes of blueberry, mango and orange. Other Half Brewing Co. - Double Mosaic Dream</beer_description>
     <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
     <beer_abv>8.5%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>United States</brewery_country>
     <date_canned>2025-04-22</date_canned>
@@ -348,6 +368,7 @@
     <beer_description>Here is the third and last birthday collab with the one and only Ophiussa Brewing ! After 2 collabs at his place, the wonderful Setubal, and several meetings with Daniel, one of the nicest guys we met in the beer industry, it was time to get a return collab ! We decided to brew the “biggest” beer of these 3 releases and show you one more time our shared passion for saturated and hazy beer. Polyghost is a Triple New England IPA bursting at 9,2% and saturated with Nectaron, Citra, CRYO Citra, Strata and GCX Strata… This TIPA will let shine wonderful pineapple and peach flavors, citrus-like notes followed by very dank flavors, strawberry, melon and some funky bubblegum. Hops : Nectaron, Citra, CRYO Citra, Strata &amp; GCX Strata Norm Brewing - Polyghost</beer_description>
     <beer_style>IPA - Triple New England / Hazy</beer_style>
     <beer_abv>9.2%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>Belgium</brewery_country>
     <date_best_before>05/2026</date_best_before>
@@ -364,6 +385,7 @@
     <beer_description>Bouncy, bumpy, shaky, that’s what we love when meeting our favorite and the loveliest hooligans ever ! We used what we love the most, NZ hops, a bit of science, high hop charges, love and everything in a sticky Double Hazy IPA. A hint of science during the whirpool with a charge of YCH 702 / Dynaboost Mosaic to start with what we are excepting from a DIPA, tropics, mango and guava. Then to give some more complexity, we massively dry hopped with Waimea and Nectaron to bring bright citrus, pomelo, stone &amp; tropical fruits, peachy and apricoty like notes before going to a slight piney finish. Norm Brewing - Bouncy Ride</beer_description>
     <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
     <beer_abv>8%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>Belgium</brewery_country>
     <date_best_before>05/2026</date_best_before>
@@ -380,6 +402,7 @@
     <beer_description>If there's something strange… In your neighborhood… Who you gonna call ? Coastbusters is our collab with our friends from Schwarze Rose (Main, Germany). The idea was to be in the middle of the two coasts. West coast-ish grain bill and water, East coast-ish yeast and hops. No big haze, not really crystal clear… Precisely what we wanted ! Speaking about hops, we selected Amarillo and Simcoe for a west side touch and Rakau and Eclipse for the east side. It’s a pacific hops tour and already sounds like your new favorite pacific IPA (if it’s really existing?!). Norm Brewing - Coastbusters</beer_description>
     <beer_style>IPA - American</beer_style>
     <beer_abv>6.6%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>Belgium</brewery_country>
     <date_best_before>05/2026</date_best_before>
@@ -396,6 +419,7 @@
     <beer_description>West Coast IPA DDH that combines tradition and modernity with 'old school' hops, Centennial and Chinook, which bring their resinous and racy aroma, and Citra for a very fruity explosiveness! Collab' with the Burgundy brewery Independent Beer Co. Fauve - Roulez Jeunesse</beer_description>
     <beer_style>IPA - American</beer_style>
     <beer_abv>6.3%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>France</brewery_country>
     <date_best_before>2026-05-19</date_best_before>
@@ -412,6 +436,7 @@
     <beer_description>A double NEIPA DDH, in collaboration with the German brewery Sudden Death. Powerful and juicy, it's brewed with three characterful hops: Mosaic, Nelson Sauvin, and Sabro, for an explosion of tropical flavors, freshness, and roundness. A beer that proves that, even after the shock, we can always come back stronger. And that the best response to sudden death... is rebirth. Fauve - Renaitre De Ses Cendres</beer_description>
     <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
     <beer_abv>8%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>France</brewery_country>
     <date_best_before>2026-04-03</date_best_before>
@@ -428,6 +453,7 @@
     <beer_description>We blended some of our finest barrels of Imperial Stout aged in rum barrels (which had previously contained Oloroso) to create this unique blend. For even more tropical indulgence, we added a coconut finish. The aging lasted 18 months in rum barrels. A rare beer, of which only 1,646 cans were produced! Fauve - Revelateur D'Ombres</beer_description>
     <beer_style>Stout - Imperial / Double</beer_style>
     <beer_abv>12%</beer_abv>
+    <beer_volume>330 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>France</brewery_country>
     <date_best_before>2030-06-13</date_best_before>
@@ -444,6 +470,7 @@
     <beer_description>This daring blend is a blend of several Imperial Stout barrels: Peated Whiskey barrels and barrels that previously contained Hot Sauce. After blending, we finished with cocoa nibs. In short, here's an unusual mix combining smoky, spicy, and cocoa flavors...in an IS barrel-aged version! Fauve - Chambre Noire</beer_description>
     <beer_style>Stout - Imperial / Double</beer_style>
     <beer_abv>12%</beer_abv>
+    <beer_volume>330 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>France</brewery_country>
     <date_best_before>2027-06-19</date_best_before>
@@ -460,6 +487,7 @@
     <beer_description>This NEIPA DDH is the result of a collaboration with Brasserie du Bas-Canada. These Quebec hop stars crossed the Atlantic with their own Citra in their suitcases, which we married with ours, adding Motueka and Simcoe. It's an aromatic bomb, juicy as can be, and resolutely transatlantic. We hope you find it as harmonious as a legendary Celine Dion / JJG duet. Fauve - J'irai Ou Tu Iras</beer_description>
     <beer_style>IPA - New England / Hazy</beer_style>
     <beer_abv>6.5%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>France</brewery_country>
     <date_best_before>2026-04-25</date_best_before>
@@ -476,6 +504,7 @@
     <beer_description>brewed w/ cryo mosaic &amp; super sauvin (NZ), dry hopped w/ krush, nelson sauvin (NZ), and sabro HOMES Brewery - TERNION</beer_description>
     <beer_style>IPA - Triple</beer_style>
     <beer_abv>10%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>United States</brewery_country>
     <untappd_id>6377695</untappd_id>
@@ -491,6 +520,7 @@
     <beer_description>Imperial stout aged in bourbon barrels with vanilla beans. This storied beer was named for a festival-goer’s mishap: in need of a display bottle of stout while pouring at a beer festival, Lauren filled a bomber with diluted sumi ink that she had at home and put a cap and label on it. After the festival was over, the fascimile had disappeared. Whomever took the bottle was, sadly, in for a disappointment! Grimm Artisanal Ales - Sumi Ink</beer_description>
     <beer_style>Stout - Imperial / Double</beer_style>
     <beer_abv>13%</beer_abv>
+    <beer_volume>500 ml</beer_volume>
     <beer_package>bottle</beer_package>
     <brewery_country>United States</brewery_country>
     <untappd_id>6154310</untappd_id>
@@ -506,6 +536,7 @@
     <beer_description>Finback Brewery - Living Large</beer_description>
     <beer_style>IPA - Triple New England / Hazy</beer_style>
     <beer_abv>10%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>United States</brewery_country>
     <untappd_id>6376660</untappd_id>
@@ -521,6 +552,7 @@
     <beer_description>The biggest beer of our Nelson Oat Cream IPA Series is 11.9% ABV but drinks (relatively) easy. A super-sized dry-hop of Nelson Sauvin and Cryo Nelson Sauvin hops give this beer big, dank, tropical stone fruit notes. Fine Balance Brewing - Quad Nelson &amp; Cream</beer_description>
     <beer_style>IPA - Quadruple</beer_style>
     <beer_abv>11.9%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>Canada</brewery_country>
     <date_canned>07/2025</date_canned>
@@ -537,6 +569,7 @@
     <beer_description>The third release in our Nelson Oat Cream IPA Series features a large dry-hop of Nelson Sauvin, Peacharine, and Riwaka hops. Expect big citrus, grapefruit, and passionfruit notes in a smooth, creamy, easy-drinking body. Fine Balance Brewing - Triple Nelson &amp; Cream</beer_description>
     <beer_style>IPA - Triple New England / Hazy</beer_style>
     <beer_abv>10%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>Canada</brewery_country>
     <date_canned>07/2025</date_canned>
@@ -553,6 +586,7 @@
     <beer_description>Triple IPA - Superdelic, Nelson Sauvin, Citra, Citra Incognito Messorem - Temporalis #0039</beer_description>
     <beer_style>IPA - Triple New England / Hazy</beer_style>
     <beer_abv>10%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>Canada</brewery_country>
     <date_canned>2025-07-17</date_canned>
@@ -569,6 +603,7 @@
     <beer_description>Hazy &amp; smooth...a little boozy. Well balanced... Adroit Theory - Evangelion III [Sachiel] (Ghost Sachiel)</beer_description>
     <beer_style>IPA - Triple New England / Hazy</beer_style>
     <beer_abv>10%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>United States</brewery_country>
     <untappd_id>6364829</untappd_id>
@@ -584,6 +619,7 @@
     <beer_description>The first in our quadruple Nelson Oat Cream IPA Series, Nelson &amp; Cream IPA was dry-hopped with Nelson Sauvin and Nelson Sauvin Hyperboost from Yakima Valley. Expect a smooth, creamy mouthfleel, with big tropical stone fruit flavours. Fine Balance Brewing - Nelson &amp; Cream</beer_description>
     <beer_style>IPA - New England / Hazy</beer_style>
     <beer_abv>6.5%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>Canada</brewery_country>
     <date_canned>07/2025</date_canned>
@@ -600,6 +636,7 @@
     <beer_description>The second in our Nelson Oat Cream IPA Series, this DIPA was dry-hopped with Nelson Sauvin, Motueka &amp; Mosaic. Expect notes of over-ripe tropical fruit, pineapple, and mango with a sightly dank finish and piney finish. Fine Balance Brewing - Double Nelson &amp; Cream</beer_description>
     <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
     <beer_abv>8%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>Canada</brewery_country>
     <date_canned>07/2025</date_canned>
@@ -616,6 +653,7 @@
     <beer_description>A tenth anniversary beer. Hazy, juicy, strong citrus. Citra, Mosaic, Motueka &amp; Peacharine. Hop Butcher For The World - A Toast To Ten</beer_description>
     <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
     <beer_abv>7.5%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>United States</brewery_country>
     <date_canned>2025-07-21</date_canned>
@@ -633,6 +671,7 @@
     <beer_description>The Third Moon Brewing pack contains: - Double Winterseed (DIPA) - Bell Tree (2025) (TIPA) - Separation Rage (2025) (QIPA)</beer_description>
     <beer_style>IPA</beer_style>
     <beer_abv>8 - 11.9%</beer_abv>
+    <beer_volume>3x473 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>Canada</brewery_country>
     <beer_package_count>3</beer_package_count>
@@ -651,6 +690,7 @@
     <beer_description>The Third Moon Brewing pack contains: - Double Winterseed (DIPA) - Bell Tree (2025) (TIPA) - Separation Rage (2025) (QIPA) - From Underneath (2025) (Porter) - Dead Don't Die (2025) (Stout)</beer_description>
     <beer_style>IPA - Porter - Stout</beer_style>
     <beer_abv>8 - 11.9%</beer_abv>
+    <beer_volume>5x473 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>Canada</brewery_country>
     <beer_package_count>5</beer_package_count>
@@ -668,6 +708,7 @@
     <beer_description>An aluminum green capsule of good times with Amarillo and our hand-selected Motueka, Citra and Mosaic. Other Half Brewing Co. - All Green Everything</beer_description>
     <beer_style>IPA - Triple New England / Hazy</beer_style>
     <beer_abv>10.5%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>United States</brewery_country>
     <date_canned>2025-05-29</date_canned>
@@ -684,6 +725,7 @@
     <beer_description>Oats, a hint of milk sugar and tons of Citra combine to make Citra hop candy. Other Half Brewing Co. - Triple Citra Daydream</beer_description>
     <beer_style>IPA - Triple New England / Hazy</beer_style>
     <beer_abv>10.5%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>United States</brewery_country>
     <date_canned>2025-05-16</date_canned>
@@ -700,6 +742,7 @@
     <beer_description>For all those heroes out there holding it down for their team, this new drop designed by our friends @morningbreathinc is for you. This one has Mosaic, Mosaic Incognito, Citra, Motueka and Citra and Mosaic Cryo. Other Half Brewing Co. - Hand Truck Heroes</beer_description>
     <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
     <beer_abv>8.2%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>United States</brewery_country>
     <date_canned>2025-06-06</date_canned>
@@ -716,6 +759,7 @@
     <beer_description>Imperial Stout Aged 25 Months in Bourbon Barrels with Blueberries, Vanilla, and Cloud Cover Coffee Other Half Brewing Co. - BA Daybreak Speedway</beer_description>
     <beer_style>Stout - Imperial / Double Pastry</beer_style>
     <beer_abv>12.5%</beer_abv>
+    <beer_volume>500 ml</beer_volume>
     <beer_package>bottle</beer_package>
     <brewery_country>United States</brewery_country>
     <date_best_before>2026-03-01</date_best_before>
@@ -732,6 +776,7 @@
     <beer_description>Players 1 (Batch 2) is an American Imperial Stout brewed with Madagascar vanilla beans, Fiji cacao nibs, toasted coconut, and Mostra Coffee ghost bear espresso. No lactose was harmed in this beers creation. It pours jet black with a beautiful deep tan head. The dynamics of the relative adjunct strength shift as the beer warms and time lengthens. Batch 2 has the same creamy flavor of some of our favorite things: coffee at first and then a transformation to chocolate brownie batter sprinkled with toasted coconut flakes followed by notes of vanilla-marshmallow to balance it out. Equilibrium Brewery - Players 1 - Batch 2</beer_description>
     <beer_style>Stout - Pastry</beer_style>
     <beer_abv>11%</beer_abv>
+    <beer_volume>500 ml</beer_volume>
     <beer_package>bottle</beer_package>
     <brewery_country>United States</brewery_country>
     <untappd_id>4185018</untappd_id>
@@ -747,6 +792,7 @@
     <beer_description>2-Year Reserve Bourbon County Brand Stout was aged 24 months in 11-year-old 25th Anniversary Knob Creek barrels. The barrels of this once in a lifetime bourbon delivered an oak-forward intensity accented with subtle hazelnut and chocolate notes that complimented the flavors inherent in Original Bourbon County Stout. 2-Year Reserve is incredibly special, and we’re excited to share this variant with you all. Goose Island Beer Co. - 2 Year Reserve Bourbon County Brand Stout (2019)</beer_description>
     <beer_style>Stout - Imperial / Double</beer_style>
     <beer_abv>14.9%</beer_abv>
+    <beer_volume>500 ml</beer_volume>
     <beer_package>bottle</beer_package>
     <brewery_country>United States</brewery_country>
     <untappd_id>3496008</untappd_id>
@@ -762,6 +808,7 @@
     <beer_description>DDH DIPA with Enigma, Citra, Hallertau Blanc and Mosaic hops. Finback Brewery - Frothy</beer_description>
     <beer_style>IPA - Imperial / Double</beer_style>
     <beer_abv>8.4%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>United States</brewery_country>
     <untappd_id>4166507</untappd_id>
@@ -777,6 +824,7 @@
     <beer_description>NO PEACH OR PASSIONFRUIT ADDED! Inspired by the peach and nectarine groves blossoming around Penedès, where the fruit swells day by day. Imagine biting into the juiciest peach ever — dripping down your arms and ruining your t-shirt, but you don’t care. Fermented with White Labs’ London Fog yeast, this brew naturally develops bright passionfruit notes, blending into the ultimate fruit salad with a raspberry drizzle on top. Garage Beer Co. - Georgia Gold</beer_description>
     <beer_style>IPA - American</beer_style>
     <beer_abv>6.5%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>Spain</brewery_country>
     <date_canned>2025-07-02</date_canned>
@@ -793,6 +841,7 @@
     <beer_description>City Cake is back! ? Our annual Peanut &amp; Vanilla Imperial Stout, brewed especially for the city's holiday. And as always, it has a good portion of roasted peanuts, delicate vanilla, a pinch of salt for the perfect balance and our love. It is rich, deep, a little sweet, a little salty - just like Kyiv itself, a city with character. Varvar Brew - City Cake 2025</beer_description>
     <beer_style>Stout - Imperial / Double Pastry</beer_style>
     <beer_abv>11%</beer_abv>
+    <beer_volume>330 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>Ukraine</brewery_country>
     <date_canned>2025-05-19</date_canned>
@@ -809,6 +858,7 @@
     <beer_description>To ol - Tres Hekse</beer_description>
     <beer_style>IPA - Triple New England / Hazy</beer_style>
     <beer_abv>10%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>Denmark</brewery_country>
     <date_best_before>2026-07-01</date_best_before>
@@ -825,6 +875,7 @@
     <beer_description>DIPA ELABORADA CON CITRA, STRATA Y MOSAIC (T90 Y SPECTRUM) PARA LOGRAR SABORES A PIÑA Garage Beer Co. - CROWNS</beer_description>
     <beer_style>IPA - Imperial / Double</beer_style>
     <beer_abv>8.5%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>Spain</brewery_country>
     <date_canned>2025-07-08</date_canned>
@@ -841,6 +892,7 @@
     <beer_description>WEST COAST IPA ELABORADA CON CITRA T90 Y SPECTRUM, MOSAIC SPECTRUM, SIMCOE Y COLUMBUS PARA CONSEGUIR SABORES A PIEL DE CÍTRICOS Y PINO Garage Beer Co. - NEEDLES</beer_description>
     <beer_style>IPA - American</beer_style>
     <beer_abv>7%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>Spain</brewery_country>
     <date_canned>2025-07-03</date_canned>
@@ -858,6 +910,7 @@
     <beer_description>This sour pack contains: - Elmeleven - Planet 2 (PULP) - Elmeleven - Starfield Project (PULP • w. Vault City) - Sudden Death Brewing Co. - Doggo´s Delight - Browar Stu Mostów - X Anniversary 5/10 Pastry Sour</beer_description>
     <beer_style>Sour</beer_style>
     <beer_abv>5 - 6%</beer_abv>
+    <beer_volume>4x440 ml</beer_volume>
     <beer_package>can</beer_package>
     <date_best_before>2025-08-10</date_best_before>
     <beer_package_count>4</beer_package_count>
@@ -876,6 +929,7 @@
     <beer_description>De FUERST WIACEK Berlin pack contains: - Fat Cats In Top Hats (2025) - Chin Music (2025) - Shalala - Melody - Soft Focus FUERST WIACEK Berlin - Melody</beer_description>
     <beer_style>IPA - New England / Hazy</beer_style>
     <beer_abv>6.2 - 6.8%</beer_abv>
+    <beer_volume>5x440 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>Germany</brewery_country>
     <date_best_before>2025-12-31</date_best_before>
@@ -894,6 +948,7 @@
     <beer_description>Double mash Imperial Stout brewed with maple syrup. Aged for 15 months in Bourbon barrels with vanilla sticks and infused coffee, then conditioned with Madagascar vanilla beans and barrel aged coffee. Brasseria Della Fonte - Solitude, Silence And Darkness 2025</beer_description>
     <beer_style>Stout - Coffee</beer_style>
     <beer_abv>12%</beer_abv>
+    <beer_volume>500 ml</beer_volume>
     <beer_package>bottle</beer_package>
     <brewery_country>Italy</brewery_country>
     <date_canned>2025-02-15</date_canned>
@@ -910,6 +965,7 @@
     <beer_description>An 8% DIPA that lets NZH-101 off the leash! Lime, lemonade, dank. A thing of beauty. FLUX is a really special three beer collaboration with Track. Brewing Co. We have combined our hoppy knowledge to create levels of saturation, flavours and aromatics bordering on the insane! Each beer in the series is an absolute monster with a different New Zealand hop leading the charge: Nelson Sauvin, Nectaron and NZH-101. Verdant Brewing Co - Flux: Phase 3</beer_description>
     <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
     <beer_abv>8%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>England</brewery_country>
     <date_best_before>2026-01-18</date_best_before>
@@ -926,6 +982,7 @@
     <beer_description>THE DON. 30g/l dry hop. This is it. This is it turned up to 11. This is peak Citra and Galaxy. Gigantic in every way. Verdant Brewing Co - The Don</beer_description>
     <beer_style>IPA - Triple New England / Hazy</beer_style>
     <beer_abv>10%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>England</brewery_country>
     <date_best_before>2026-01-05</date_best_before>
@@ -942,6 +999,7 @@
     <beer_description>A Triple Dry-hopped No Dextrose DIPA version of 'Even Sharks Need Water'. Simples. Verdant Brewing Co - Whale Sharks</beer_description>
     <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
     <beer_abv>8.4%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>England</brewery_country>
     <date_best_before>2025-12-26</date_best_before>
@@ -958,6 +1016,7 @@
     <beer_description>Double IPA aux houblons Nelson Sauvin et Motueka Brasserie du Bas-Canada - Heliades</beer_description>
     <beer_style>IPA - Imperial / Double</beer_style>
     <beer_abv>8.2%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>Canada</brewery_country>
     <date_canned>2025-07-30</date_canned>
@@ -974,6 +1033,7 @@
     <beer_description>Going back to the inception of Bourbon County Stout, the 30th Anniversary Stout is aged from a blend of Jim Beam barrels from their Small Batch Bourbon Collection barrels. Each of the remarkable bourbon barrels offer characteristics unique to each bourbon's distinct nuances. Barrels: 36% Booker's 33% Knob Creek, 17% Basil Hayden, 14% Baker's Goose Island Beer Co. - Bourbon County Brand 30th Anniversary Reserve Stout (2022)</beer_description>
     <beer_style>Stout - Imperial / Double</beer_style>
     <beer_abv>14.4%</beer_abv>
+    <beer_volume>500 ml</beer_volume>
     <beer_package>bottle</beer_package>
     <brewery_country>United States</brewery_country>
     <date_best_before>2027-07-27</date_best_before>
@@ -990,6 +1050,7 @@
     <beer_description>Dry hopped with Anchovy, Nelson Sauvin, Nectaron, and Maui Nelson Hop Kief. DankHouse Brewing Company - Mutant Turtle Pizza</beer_description>
     <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
     <beer_abv>8.5%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>United States</brewery_country>
     <date_canned>2025-07-31</date_canned>
@@ -1006,6 +1067,7 @@
     <beer_description>It's happened to all of us. A home run with a little too much arm juice that sends the ball flying off a flat roof. A drive after a visit to the bar that sends the ball into the 6th-floor pond. A wrist shot in the cafeteria that sends the foosball ball too close to a lifeguard. That's kind of where this beer gets its name from. We were at Messorem's, playing a quick game of impromptu deck hockey, when a slightly imprecise slap shot made the ball disappear under the barrels. There's no more magic in the name than that. But in the beer, there... phew! It's heavy! We blended two Barley Wines. One aged 16 months in St. Augustine bourbon barrels and another aged 18 months in Ninkasi French whiskey barrels. Then conditioned with Madagascar vanilla to round out its already very sweet side! It's sick! A beautiful and minimal acidity on the tip of the tongue followed by the light sparkle of carbonation. Chocolatey aromas of caramel brownies, figs, dates, rub shoulders with the woody presence of whiskey and bourbon. Finesse, suppleness, delicacy under an untimely invigorating heat. We may never have found the ball, but we found you a damn good beer! CHEERS! Brasserie Sir John Brewing Co. - Balle Perdue</beer_description>
     <beer_style>Barleywine - Other</beer_style>
     <beer_abv>11.9%</beer_abv>
+    <beer_volume>500 ml</beer_volume>
     <beer_package>bottle</beer_package>
     <brewery_country>Canada</brewery_country>
     <untappd_id>6299087</untappd_id>
@@ -1021,6 +1083,7 @@
     <beer_description>Triple IPA - Motueka, Citra, Vic Secret, Citra Incognito Messorem - Temporalis #0037</beer_description>
     <beer_style>IPA - Triple New England / Hazy</beer_style>
     <beer_abv>10%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>Canada</brewery_country>
     <date_canned>2025-06-17</date_canned>
@@ -1037,6 +1100,7 @@
     <beer_description>Vertige est brassée avec une combinaison de houblons néo-zélandais (Nelson Sauvin et Motueka) et américain (Citra). C'est la jonction de trois houblons que nous aimons particulièrement pour leurs caractères uniques. Brasserie du Bas-Canada - Vertige</beer_description>
     <beer_style>IPA - Triple</beer_style>
     <beer_abv>10%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>Canada</brewery_country>
     <date_canned>2025-07-30</date_canned>
@@ -1053,6 +1117,7 @@
     <beer_description>Dry hopped with Vera, Anchovy, and Citra. DankHouse Brewing Company - Chasing Trees: Strain 24</beer_description>
     <beer_style>IPA - New England / Hazy</beer_style>
     <beer_abv>7%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>United States</brewery_country>
     <date_canned>2025-07-13</date_canned>
@@ -1069,6 +1134,7 @@
     <beer_description>double dry hopped with Mosaic, Amarillo, Citra, Belma, Blanc, El Dorado, Waimea, Idaho 7 and Nelson Finback Brewery - High-Low</beer_description>
     <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
     <beer_abv>8.4%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>United States</brewery_country>
     <date_canned>2025-07-11</date_canned>
@@ -1085,6 +1151,7 @@
     <beer_description>Citra-Hopped India Pale Ale Brewed With Blood Orange Hop Butcher For The World - Aspect of Leo</beer_description>
     <beer_style>IPA - New England / Hazy</beer_style>
     <beer_abv>6.5%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>United States</brewery_country>
     <date_canned>2025-07-14</date_canned>
@@ -1101,6 +1168,7 @@
     <beer_description>In the words of the great Rza.......Hoppy Hoppy Hoppy, Digi Digi Digi. You're a** will be stuck on this beer like a Victoria Secret wedgie. We dry hopped this one with Citra, Strata, and Nectaron. DankHouse Brewing Company - Digi Digi Digi</beer_description>
     <beer_style>IPA - Triple New England / Hazy</beer_style>
     <beer_abv>10%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>United States</brewery_country>
     <date_canned>2025-07-25</date_canned>
@@ -1117,6 +1185,7 @@
     <beer_description>Transient Artisan Ales - Kentuckley (2024)</beer_description>
     <beer_style>Stout - Imperial / Double</beer_style>
     <beer_abv>14.5%</beer_abv>
+    <beer_volume>500 ml</beer_volume>
     <beer_package>bottle</beer_package>
     <brewery_country>United States</brewery_country>
     <untappd_id>5853339</untappd_id>
@@ -1132,6 +1201,7 @@
     <beer_description>Imperial Stout w/Banana, Coffee, Chocolate, Pineapple and Coconut Commonwealth Brewing Company - Dirty Monkey</beer_description>
     <beer_style>Stout - Imperial / Double Coffee</beer_style>
     <beer_abv>12%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>United States</brewery_country>
     <untappd_id>6331773</untappd_id>
@@ -1147,6 +1217,7 @@
     <beer_description>DIPA dry hopped with Citra, Mosaic, Nelson and Belma. Finback Brewery - Cats Are People Too</beer_description>
     <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
     <beer_abv>9%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>United States</brewery_country>
     <date_canned>2025-06-11</date_canned>
@@ -1163,6 +1234,7 @@
     <beer_description>Triple Stars is filled with raw wheat, malted wheat, and flaked wheat which makes it ethereal and soft. It’s triple-dry hopped with Strata, Vic Secret, and Citra hops. If you know these hops, you know this beer is ultra juicy, full of orange juice, mango and grapefruit essence. This beer is super phosphorescent (minus the radiation...) and ultra bright. It’s velvety and full and bursting with flavor. PS: The label of only one can is upside down attached. Perhaps a collector's item? Please, specifically ask for it if you want this one. Celestial Beerworks - Triple Stars</beer_description>
     <beer_style>IPA - Triple New England / Hazy</beer_style>
     <beer_abv>10%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>United States</brewery_country>
     <untappd_id>3040198</untappd_id>
@@ -1178,6 +1250,7 @@
     <beer_description>Double Stars approaches the traditional malt base with a slight twist. Instead of using just oats and wheat, we focused on 3 kinds of wheat to give the beer more of a velvety and fluffy body. It’s brewed with malted wheat, raw wheat, and flaked wheat. Hopped with delightful amounts of Idaho 7 and Vic Secret, this beer has a complex aroma of dank pineapple and mango that explodes out of your glass. This 8% banger is slightly viscous with loads of body and softness. Double Stars is full of passionfruit, mango flesh and ripe pineapple, and is as juicy as can be. Celestial Beerworks - Double Stars</beer_description>
     <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
     <beer_abv>8%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>United States</brewery_country>
     <untappd_id>3012849</untappd_id>
@@ -1193,6 +1266,7 @@
     <beer_description>Citra, Waimea &amp; Mosaic-hopped Triple India Pale Ale Hop Butcher For The World - Cosmic Mountain</beer_description>
     <beer_style>IPA - Triple New England / Hazy</beer_style>
     <beer_abv>10.5%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>United States</brewery_country>
     <date_canned>2025-07-21</date_canned>
@@ -1209,6 +1283,7 @@
     <beer_description>This first collaboration with the beautiful gang from All My Friends, in Prince Edward County, Ontario, is truly silly! A finish just sweet enough to camouflage the bitterness and highlight the alcohol that comes to play with your jowls. It's green, but balanced, saturated in hops, but with a thiccccc mouthfeel. With Nelson Sauvin Bliss, Nelson Sauvin Cryo, Citra, Citra Dynaboost and Peacharine hops, in addition to a late variant of Nelson Sauvin that provides different notes - more towards grapefruit and guava than the traditional winey notes - we have a gigantic hop bomb, perfect to accompany you in your misfortunes with friends. Wishing you as much fun as we had with the gang from All My Friends. Cheers! Brasserie Sir John Brewing Co. - Serpentin</beer_description>
     <beer_style>IPA - Imperial / Double</beer_style>
     <beer_abv>8.3%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>Canada</brewery_country>
     <date_canned>2025-06-23</date_canned>
@@ -1225,6 +1300,7 @@
     <beer_description>Finback Brewery - Maniac Brainiac</beer_description>
     <beer_style>IPA - New England / Hazy</beer_style>
     <beer_abv>6.5%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>United States</brewery_country>
     <date_canned>2025-06-18</date_canned>
@@ -1241,6 +1317,7 @@
     <beer_description>Hops: Citra Cryo • El Dorado • Galaxy Tasting Notes: Honey Dew • Red Grapefruit • Blood Orange Outer Range Brewing Co. - Super Ultra Mega Classic</beer_description>
     <beer_style>IPA - Triple New England / Hazy</beer_style>
     <beer_abv>10.5%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>France</brewery_country>
     <date_best_before>2026-02-16</date_best_before>
@@ -1257,6 +1334,7 @@
     <beer_description>Colombus, Nelson Sauvin &amp; Citra Outer Range Brewing Co. - Belay</beer_description>
     <beer_style>IPA - New England / Hazy</beer_style>
     <beer_abv>7.2%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>France</brewery_country>
     <date_best_before>2026-05-05</date_best_before>
@@ -1273,6 +1351,7 @@
     <beer_description>Hops: 100% Citra HyperBoost Tasting Notes: Grapefruit • Tangerine • Apricot Outer Range Brewing Co. - In the Steep HyperBoost</beer_description>
     <beer_style>IPA - New England / Hazy</beer_style>
     <beer_abv>6.7%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>France</brewery_country>
     <date_best_before>2026-04-21</date_best_before>
@@ -1289,6 +1368,7 @@
     <beer_description>DIPA. Hops: Nelson, Citra, Simcoe. Tasting Notes: Hint of Pine, Passion Fruit, Guava. ABV: 7.5% Outer Range Brewing Co. - Out of the Woods</beer_description>
     <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
     <beer_abv>7.5%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>France</brewery_country>
     <date_best_before>2026-05-11</date_best_before>
@@ -1305,6 +1385,7 @@
     <beer_description>Hops: Strata • Krush Tasting Notes: Peach • Strawberry • Pine ABV: 6.5% Outer Range Brewing Co. - Crux</beer_description>
     <beer_style>IPA - American</beer_style>
     <beer_abv>6.5%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>France</brewery_country>
     <date_best_before>2026-04-28</date_best_before>
@@ -1321,6 +1402,7 @@
     <beer_description>Buck Yeah IPA Hops: Strata • Tettnanger Tasting Notes: Grapefruit • Melon • White Peppercorn ABV: 7.2% Outer Range Brewing Co. - Buck Yeah</beer_description>
     <beer_style>IPA - New England / Hazy</beer_style>
     <beer_abv>7.2%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>France</brewery_country>
     <date_best_before>2026-06-18</date_best_before>
@@ -1337,6 +1419,7 @@
     <beer_description>Hops: Nelson + Superdelic + Citra - Revenant Brewing Project - Ponder</beer_description>
     <beer_style>IPA - Triple New England / Hazy</beer_style>
     <beer_abv>9.7%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>Finland</brewery_country>
     <date_best_before>Eind 04/2026</date_best_before>
@@ -1353,6 +1436,7 @@
     <beer_description>A monumental hop combo in a world filled with haze. Hops: Nelson and Nelson Cryo, Citra and Citra Cryo, Galaxy. Over 40 grams per litre of them all combined in this exploration of the OBELISK. - Revenant Brewing Project - Obelisk</beer_description>
     <beer_style>IPA - Double New England / Hazy</beer_style>
     <beer_abv>8.4%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>Finland</brewery_country>
     <date_best_before>Eind 01/2026</date_best_before>
@@ -1369,6 +1453,7 @@
     <beer_description>Hops: Nelson - Revenant Brewing Project - Linger</beer_description>
     <beer_style>IPA - New England / Hazy</beer_style>
     <beer_abv>7%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>Finland</brewery_country>
     <date_best_before>Eind 04/2026</date_best_before>
@@ -1385,6 +1470,7 @@
     <beer_description>Hops: Motueka &amp; Southern Cross</beer_description>
     <beer_style>IPA - New England / Hazy</beer_style>
     <beer_abv>6.8%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>Finland</brewery_country>
     <date_best_before>Eind 04/2026</date_best_before>
@@ -1402,6 +1488,7 @@
     <beer_description>The Sudden Death Brewing Co. pack contains: - Doggo´s Delight - Shedding Skin - I See You - Dread Moon Cove</beer_description>
     <beer_style>Sour - IPA - Stout</beer_style>
     <beer_abv>6 - 12%</beer_abv>
+    <beer_volume>4x440 ml</beer_volume>
     <beer_package>blik</beer_package>
     <brewery_country>Germany</brewery_country>
     <date_best_before>2026-02-05</date_best_before>
@@ -1421,6 +1508,7 @@
     <beer_description>The Moersleutel Craft Brewery Stout pack contains: - Pastry Factory: Pecan Pie - The 4 Elements: Fire - Extravagant: Extra Mash Extra Coconut</beer_description>
     <beer_style>Stout</beer_style>
     <beer_abv>10 - 12%</beer_abv>
+    <beer_volume>3x440 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>The Netherlands</brewery_country>
     <date_best_before>2027-05-12</date_best_before>
@@ -1440,6 +1528,7 @@
     <beer_description>The Oso Brew Co pack contains: - Blame Culture - 60KG Cashmere - 60KG Strata</beer_description>
     <beer_style>IPA - New England / Hazy</beer_style>
     <beer_abv>6 - 6.8%</beer_abv>
+    <beer_volume>3x440 ml</beer_volume>
     <beer_package>blik</beer_package>
     <brewery_country>Spain</brewery_country>
     <date_best_before>2026-01-20</date_best_before>
@@ -1459,6 +1548,7 @@
     <beer_description>The Põhjala Cellar Series Pack contains: - Evening Colours - More Than Amber - Faraway Friends - Kurg</beer_description>
     <beer_style>Porter &amp; Stout - Imperial / Double</beer_style>
     <beer_abv>11.5 - 13.6%</beer_abv>
+    <beer_volume>4x330 ml</beer_volume>
     <beer_package>fles</beer_package>
     <brewery_country>Estonia</brewery_country>
     <date_best_before>2028-10-30</date_best_before>
@@ -1478,6 +1568,7 @@
     <beer_description>The Siren Craft Brew pack contains: - Death By Caribbean Chocolate Christmas Cake - Death By C.C.C 2024 - Caribbean Chocolate Cake (2024) - Caribbean Chocolate Cake: Rocky Road Brownie - Caribbean Chocolate Cake: Chocolate Orange Tiramisu</beer_description>
     <beer_style>Stout - Imperial / Double</beer_style>
     <beer_abv>7.4 - 12.2%</beer_abv>
+    <beer_volume>5x330 ml</beer_volume>
     <beer_package>blik</beer_package>
     <brewery_country>United Kingdom</brewery_country>
     <date_best_before>2025-10-09</date_best_before>
@@ -1496,6 +1587,7 @@
     <beer_description>Quelques brasseries sont sélectionnées pour tester les nouveaux produits de houblon de Yakima Chief et il nous fait grand plaisir d'en faire partie! Cette triple NEIPA intègre le YCH803 Citra, un nouvel extrait très aromatique de houblon. Combiné avec du Nelson Sauvin, du Krush et du citra conventionnel;, ce mélange regorge de fruits tropicaux et représente un pas vers le futur des bières houblonnées! Noctem Artisans Brasseurs - Hops Fwd</beer_description>
     <beer_style>IPA - Triple New England / Hazy</beer_style>
     <beer_abv>10%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>Canada</brewery_country>
     <date_canned>2025-05-26</date_canned>
@@ -1512,6 +1604,7 @@
     <beer_description>Hawaiian tropical vibes District 96 Beer Factory - Big Pharma</beer_description>
     <beer_style>IPA - Triple New England / Hazy</beer_style>
     <beer_abv>11%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>United States</brewery_country>
     <untappd_id>6248577</untappd_id>
@@ -1527,6 +1620,7 @@
     <beer_description>Hopped with Enigma and Vic secret. Orange, berry, and tropical fruits. District 96 Beer Factory - Trade War</beer_description>
     <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
     <beer_abv>8.5%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>United States</brewery_country>
     <untappd_id>2906239</untappd_id>
@@ -1542,6 +1636,7 @@
     <beer_description>Strata CGX &amp; Citra SOMA Beer - Grit</beer_description>
     <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
     <beer_abv>8%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>Spain</brewery_country>
     <date_best_before>2025-12-20</date_best_before>
@@ -1558,6 +1653,7 @@
     <beer_description>Nectaron &amp; Riwaka SOMA Beer - Turbo</beer_description>
     <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
     <beer_abv>8%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>Spain</brewery_country>
     <date_best_before>2025-12-16</date_best_before>
@@ -1574,6 +1670,7 @@
     <beer_description>Citra &amp; Wai-iti SOMA Beer - Mirage</beer_description>
     <beer_style>IPA - New England / Hazy</beer_style>
     <beer_abv>7%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>Spain</brewery_country>
     <date_best_before>2025-12-04</date_best_before>
@@ -1590,6 +1687,7 @@
     <beer_description>Idaho 7 CGX, Citra &amp; Krush SOMA Beer - Hologram</beer_description>
     <beer_style>IPA - Triple New England / Hazy</beer_style>
     <beer_abv>10%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>Spain</brewery_country>
     <date_best_before>2025-12-19</date_best_before>
@@ -1606,6 +1704,7 @@
     <beer_description>Nelson CGX, Citra &amp; Rakau SOMA Beer - Ghost</beer_description>
     <beer_style>IPA - New England / Hazy</beer_style>
     <beer_abv>6.5%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>Spain</brewery_country>
     <date_best_before>2025-12-09</date_best_before>
@@ -1622,6 +1721,7 @@
     <beer_description>The Mind of Annapurna BA, is a imperial Chai Latté Milk Stout aged for 2 years in 2nd fill Buffalo Trace Bourbon Barrels. 2nd fill in this case means a Bourbon finished on a Bourbon barrel. So 2 times filled with a Bourbon before our stout. The taste of the spices in the beer is more round, some vanilla and barrel notes and a nice bourbon flavour. Galea Craft Beers - The Mind of Annapurna Bourbon Barrel Aged</beer_description>
     <beer_style>Stout - Imperial / Double Milk</beer_style>
     <beer_abv>12.5%</beer_abv>
+    <beer_volume>330 ml</beer_volume>
     <beer_package>bottle</beer_package>
     <brewery_country>Belgium</brewery_country>
     <date_canned>2025-01-25</date_canned>
@@ -1638,6 +1738,7 @@
     <beer_description>This Barrel aged Tiramisu stout was created for the wedding of Caitlin and Robin. Aged for 1,5 years on a Jamaican Rum barrel and 2 Bourbon Barrels. Brewed with typical Boudoir cookies and coffeebeans, infused with homemade Amaretto. Galea Craft Beers - A Deathless Song</beer_description>
     <beer_style>Stout - Imperial / Double</beer_style>
     <beer_abv>11.5%</beer_abv>
+    <beer_volume>330 ml</beer_volume>
     <beer_package>bottle</beer_package>
     <brewery_country>Belgium</brewery_country>
     <date_canned>2025-04-24</date_canned>
@@ -1654,6 +1755,7 @@
     <beer_description>with YCH 701 HyperBoost Stigbergets Bryggeri - MEGA MUFFIN</beer_description>
     <beer_style>IPA - New England / Hazy</beer_style>
     <beer_abv>7.5%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>Sweden</brewery_country>
     <date_best_before>2026-05-22</date_best_before>
@@ -1670,6 +1772,7 @@
     <beer_description>Let’s do a pelican but call it EL CAPITANO. The captain of all DIPA. Stigbergets Bryggeri - EL CAPITANO</beer_description>
     <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
     <beer_abv>8.3%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>Sweden</brewery_country>
     <date_best_before>2026-05-27</date_best_before>
@@ -1686,6 +1789,7 @@
     <beer_description>After receiving some freshly emptied bourbon barrels direct from Balcones Distillery in Texas we were itching to brew something big, dark and ridiculous. The obvious answer was to give our friend Henok from Omnipollo a ring and ask if he fancied helping us conjure something up. After almost 2 years of aging we decided it was time to take out the beer and lightly enhance it with coconut, hazelnut and vanilla so as to not get too much in the way of the barrel character. Stigbergets Bryggeri - TOP PICK</beer_description>
     <beer_style>Stout - Russian Imperial</beer_style>
     <beer_abv>15%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>Sweden</brewery_country>
     <date_best_before>2035-02-26</date_best_before>
@@ -1702,6 +1806,7 @@
     <beer_description>A Hazy IPA with Citra, Rakau &amp; Bru-1 'Meadows is dry hopped with an interesting hop combo of Citra, Rakau and Bru-1. Loads of fruitiness from Citra and Bru-1 with Rakau bringing that NZ funk and dankness with some sweet stone fruit notes.' Head Brewer Jirka Ordén Factory Brewing - Meadows</beer_description>
     <beer_style>IPA - New England / Hazy</beer_style>
     <beer_abv>7.3%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>Finland</brewery_country>
     <untappd_id>6289690</untappd_id>
@@ -1718,6 +1823,7 @@
     <beer_description>The 9 Year Anniversary Set consists of: - Confronting Suitors - Return To Ithaca - Calypso's Temptation - Helios' Island - Scylla And Charybdis - Siren Encounter - Journey To Hades - Circes' Enchantment - Cyclops Escape</beer_description>
     <beer_style>Various</beer_style>
     <beer_abv>6 - 14%</beer_abv>
+    <beer_volume>9x440ml</beer_volume>
     <beer_package>blik</beer_package>
     <brewery_country>The Netherlands</brewery_country>
     <date_best_before>2026-05-06</date_best_before>
@@ -1736,6 +1842,7 @@
     <beer_description>This beer is the crown jewel of Moersleutel’s 9th anniversary series, the ultimate expression of luxury and complexity. We’ve pulled out all the stops for this non-adjunct barrel-aged stout. This beer has aged on two exceptional barrels. The first, originally used not for spirits but for high grade maple syrup, imparts a deep, salty sweetness that’s truly one of a kind. In contrast, the spicy, lightly smoky character of Sazerac Rye bourbon barrels adds depth. Together, they create a beer that’s both robust and refined, with a layered complexity that keeps surprising. Just as Odysseus returned to confront the suitors, this stout marks the grand finale of our 9-year brewing journey: powerful, intense, and unmistakably Moersleutel. Expect rich notes of salty maple, spicy rye whiskey, smoky oak, and a full-bodied finish that lingers. An epic finale to an epic anniversary celebration. Cheers Sleutelaars! Moersleutel Craft Brewery - 9 Years: Helios' Island</beer_description>
     <beer_style>Stout - Imperial / Double</beer_style>
     <beer_abv>11%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>The Netherlands</brewery_country>
     <date_best_before>2028-04-15</date_best_before>
@@ -1752,6 +1859,7 @@
     <beer_description>A stout that takes you to the legendary island of Helios, where alluring flavors captivate you. This 11% mega stout combines tonka, muscovado, vanilla, and Colombian coffee and cacao for a rich, layered experience. With muscovado from Barbados, adding rich molasses, toffee, and lightly smoky notes, along with deep flavors of cacao, coffee, and caramel, this beer is full and complex. The Colombian cacao contributes hints of cocoa, citrus, dried fruit, and walnuts, while the coffee brings honeyed aromas and a touch of red berries. Tonka and vanilla add a subtle creaminess that perfectly balances the smoky and earthy notes. Seductive flavors that would even distract Odysseus from his quest. Moersleutel Craft Brewery - 9 Years: Helios' Island</beer_description>
     <beer_style>Stout - Imperial / Double Pastry</beer_style>
     <beer_abv>11%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>The Netherlands</brewery_country>
     <date_best_before>2026-05-06</date_best_before>
@@ -1768,6 +1876,7 @@
     <beer_description>Everything about this beer is luxurious – from the carefully selected whiskey barrels to the rare vanilla. Seductive, extravagant, and irresistible. This stout was aged in three American whiskey barrels: Weller Wheated (sweet and smooth), Sazerac Rye (spicy, lightly smoky), and Heaven Hill (reliable and well-balanced). To complete the temptation, we added vanilla from Madagascar, Papua New Guinea, and rare beans from the Comoros Islands – offering rich, pastry-like depth with a hint of tobacco. Layers of creamy vanilla, warm whiskey notes, oak, and spice make this beer both complex and captivating. This stout is like Calypso herself: luxurious, enchanting, and nearly impossible to resist. Moersleutel Craft Brewery - 9 Years: Calypsos Temptation</beer_description>
     <beer_style>Stout - Imperial / Double Pastry</beer_style>
     <beer_abv>14%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>The Netherlands</brewery_country>
     <date_best_before>2028-04-22</date_best_before>
@@ -1784,6 +1893,7 @@
     <beer_description>How would it feel, if you were playing the guitar at your mom's bedroom, and Cannibal Corpse invited you to share the stage? This huge DIPA, is the result of our collaboration with our favourite brewing company, the mighty Adroit Theory. And this, also is, a great proof that sometimes dreams come true. Or nightmares, in this case! Brewed and released, back to back, with NECROSYNTH Hazy QIPA. Adroit Theory - NECROPUNK (Ghost NECROPUNK)</beer_description>
     <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
     <beer_abv>8.1%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>United States</brewery_country>
     <untappd_id>5571412</untappd_id>
@@ -1799,6 +1909,7 @@
     <beer_description>A stout that challenges you, just like the legendary sea monsters Scylla and Charybdis. This rich 11% stout delivers an irresistible combination of peanuts, cacao, and nougat – inspired by a famous candy bar, but even better. With 300 kg of peanuts and 60 kg of Bolivian cacao, known for its natural nutty flavor, you get a deep and rich foundation. Bold roasted coffee adds earthy depth, while vanilla rounds everything out with a smooth, creamy finish. Complex and full of character, yet always perfectly balanced. A stout so captivating, even the raging sea monsters pause to enjoy this treat. Moersleutel Craft Brewery - 9 Years: Scylla And Charybdis</beer_description>
     <beer_style>Stout - Imperial / Double Pastry</beer_style>
     <beer_abv>11%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>The Netherlands</brewery_country>
     <date_best_before>2027-04-29</date_best_before>
@@ -1815,6 +1926,7 @@
     <beer_description>A trip to the underworld has never been this tropical. Journey to Hades is a bold TIPA bursting with flavors of passionfruit, lemon zest, and tangerine. Brewed with Riwaka in T90, Cryo, and Amplifire Oil, plus Idaho-7 and Citra in T90, Cryo, and hop oil extract form. Riwaka stands out with its intense passionfruit and citrus punch – truly breathtaking. The Amplifire Oil is made from ultra-fresh Riwaka hops, processed into oil the same day they're picked. You can’t get any fresher than that. Double mashed and packed with character. Over the top? Absolutely. But above all: seriously delicious. Moersleutel Craft Brewery - 9 Years: Journey To Hades</beer_description>
     <beer_style>IPA - Triple</beer_style>
     <beer_abv>9%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>The Netherlands</brewery_country>
     <date_best_before>2026-05-28</date_best_before>
@@ -1831,6 +1943,7 @@
     <beer_description>Coming home after a long journey – that feeling is captured in every sip of this quadrupel. Layered with notes of raisins, dried fruit, and smooth caramel—a beer steeped in warmth and memory. What sets it apart is its nuanced oak treatment: spirals, cubes, and a touch of liquid tannins lend soft vanilla, gentle spice, and refined wood tones that elevate without overpowering. Brewed with barley, rye, wheat, and spelt, it boasts a full, rounded body and a deeply expressive malt character. A beer full of stories—complex, comforting, and unforgettable Moersleutel Craft Brewery - 9 Years: Return To Ithaca</beer_description>
     <beer_style>Belgian Quadrupel</beer_style>
     <beer_abv>11%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>The Netherlands</brewery_country>
     <date_best_before>2028-05-01</date_best_before>
@@ -1847,6 +1960,7 @@
     <beer_description>DIPA - Citra, Galaxy, Strata, El Dorado Messorem - Ces Viperes</beer_description>
     <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
     <beer_abv>9.1%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>Canada</brewery_country>
     <date_canned>2025-06-02</date_canned>
@@ -1863,6 +1977,7 @@
     <beer_description>This bourbon barrel aged Barleywine style ale was brewed with Maris Otter, Munich, brown sugar, and lots of caramel malt. Ten malts, a long boil, and barrel aging came together to create a complex Barleywine with notes of rich caramel, oolong tea, bruleed sugar, and well-aged spirit. This vintage of Endolith was aged in a blend of Baker's and Maker's casks for 24 months that lent a supple mouthfeel from their inclusion of rye and wheat. Jackie Os Brewery - Endolith (2025)</beer_description>
     <beer_style>Barleywine - English</beer_style>
     <beer_abv>13.3%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>United States</brewery_country>
     <date_canned>2025-06-13</date_canned>
@@ -1879,6 +1994,7 @@
     <beer_description>Hoof Hearted Brewing - Everybody Wants Some!! 3X (Citra)</beer_description>
     <beer_style>IPA - Triple New England / Hazy</beer_style>
     <beer_abv>9.2%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>United States</brewery_country>
     <date_canned>2025-06-04</date_canned>
@@ -1895,6 +2011,7 @@
     <beer_description>A triple IPA, and the next edition to this year’s Anniversary Series! The blend of Emerald Spire, Vic Secret, Simcoe, Krush and Galaxy hops for this special release offers pithy notes of ripe mango, juicy grape and saturated citrus fruits. It’s bold in flavor, while still being super drinkable. Long Live Beerworks - 5 Lives</beer_description>
     <beer_style>IPA - Triple</beer_style>
     <beer_abv>10%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>United States</brewery_country>
     <date_canned>2025-05-14</date_canned>
@@ -1911,6 +2028,7 @@
     <beer_description>The team at Slake have become more than just good neighbours and friends—they’re true companions. Always up for a hang or a good chat, we love bouncing ideas around, lending a hand, sharing ingredients, dropping off kegs, or cracking open fresh cans for a taste test. Where would we be without them? Still brewing beer—but it’d be a lot less fun. Feral is a testament to the fearless ingredient experimentation both our breweries live for. This Nelson-3-ways IPA pours a pale straw yellow with a milky haze and a cap of lingering white bubbles. It bursts with unexpected orange on the nose and palate—bright citrus, pithy spice, and just a touch of white grape. Soft and juicy upfront, finishing ultra clean. All My Friends Beer Co. - Feral</beer_description>
     <beer_style>IPA - New England / Hazy</beer_style>
     <beer_abv>7%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>Canada</brewery_country>
     <untappd_id>6263452</untappd_id>
@@ -1926,6 +2044,7 @@
     <beer_description>So we took Photo Bombs base and yeast with MOAB hop profile and created MOAPB. This juice crusher has notes of papayas, pineapple juice, peach nechtor and mangos. District 96 Beer Factory - Mother of All Photo Bombs</beer_description>
     <beer_style>IPA - Imperial / Double</beer_style>
     <beer_abv>8%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>United States</brewery_country>
     <untappd_id>2986552</untappd_id>
@@ -1941,6 +2060,7 @@
     <beer_description>We teamed up with our best buds @bolerosnort 18 months ago to make this decadent imperial pastry stout. We then rested it in Heaven Hill barrels for 17 months, then conditioned this in our lil spin bot over hundreds of pounds of Thai bananas and monkey rolls. Bring napkins. Imprint Beer Co. - BA Sticky Situation</beer_description>
     <beer_style>Stout - Pastry</beer_style>
     <beer_abv>13.5%</beer_abv>
+    <beer_volume>500 ml</beer_volume>
     <beer_package>bottle</beer_package>
     <brewery_country>United States</brewery_country>
     <untappd_id>6277002</untappd_id>
@@ -1956,6 +2076,7 @@
     <beer_description>Double Stack is our Imperial Breakfast Stout aged on whole bean coffee from Portland's Coava Coffee and maple syrup. Great Notion Brewing - Double Stack</beer_description>
     <beer_style>Stout - Imperial / Double Coffee</beer_style>
     <beer_abv>11%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>United States</brewery_country>
     <untappd_id>1298579</untappd_id>
@@ -1971,6 +2092,7 @@
     <beer_description>It’s safe to say our love for the guys over at Third Moon cannot be overstated. Not only are they amazing at making great beer but they are some of the best humans we have met during our journey as a brewery. Sancticide is another great beer brewed between friends. Santicide was brewed with pale colour and thick haze in mind. Pouring extremely pale yellow, with a thick creamy haze. This DIPA boasts a nose of lime, melon, and tropical citrus. So so silky smooth with a luscious full mouthfeel carrying flavours of key lime pie, papaya, mango, and zesty citrus. Delicious and so easy to drink with a dry clean finish. All My Friends Beer Co. - Sancticide</beer_description>
     <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
     <beer_abv>8.2%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>Canada</brewery_country>
     <untappd_id>6263449</untappd_id>
@@ -1986,6 +2108,7 @@
     <beer_description>Double IPA double dry-hopped w/ Simcoe, Citra, Galaxy, Azacca + Kohatu. 8.5% Long Live Beerworks - DDH Black Cat Sees All</beer_description>
     <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
     <beer_abv>8.5%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>United States</brewery_country>
     <date_canned>2025-05-30</date_canned>
@@ -2002,6 +2125,7 @@
     <beer_description>After a 3-year hiatus, we are releasing the 12-part COBRA series. For the 9th release in the series, we focus on the brilliant yet evil: DR. MINDBENDER. A long standing ally to COBRA, his scientific intellect has unleashed countless destructive inventions. Packed with loads + loads of flaked oats, flaked wheat, and spelt for that nice pillowy soft malt body you love from us. Juicy aromatics of fruitiness and forward hop notes of Orange Citrus + Tropical Aromas dominate. A flash of dankness on the back end before finishing with mild bitterness for balance. Double Dry-Hopped | Citra | Mosaic | El Dorado Adroit Theory - RAGE (Ghost RAGE)</beer_description>
     <beer_style>IPA - Triple New England / Hazy</beer_style>
     <beer_abv>10%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>United States</brewery_country>
     <untappd_id>6273097</untappd_id>
@@ -2017,6 +2141,7 @@
     <beer_description>We say this is our "flagship Hazy Triple IPA", but we actually haven't made this since May 2023. We figured we needed to bring it back, and give it a special treatment. We love the classic BLACK label, but we have this WHITE variant that is a nice twist.⁠ ⁠ We gave this one the same hop saturation that we did for our Anniversary Version of EBK. Absolutely loaded with hop aroma, flavor + intensity. Opaque, pillowy + semi-sweet body; intensely juicy citrus flavor + aromas. ⁠ Double Dry-Hopped | Citra | El Dorado | Galaxy Adroit Theory - Now I Am Death, Destroyer of Worlds (Ghost DESTROYER)</beer_description>
     <beer_style>IPA - Triple New England / Hazy</beer_style>
     <beer_abv>10%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>United States</brewery_country>
     <untappd_id>6307962</untappd_id>
@@ -2032,6 +2157,7 @@
     <beer_description>Strawberry, Chocolate, and Fluff - series inspired by AJ Baa Baa Brewhouse - Neo-baa-litan (Chocolate)</beer_description>
     <beer_style>Sour - Fruited</beer_style>
     <beer_abv>5.51%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>United States</brewery_country>
     <untappd_id>4201496</untappd_id>
@@ -2047,6 +2173,7 @@
     <beer_description>Berliner-style weisse beer with watermelon and pomegranate. Energy City Brewing - Bistro Cabana Watermelon &amp; Pomegranate</beer_description>
     <beer_style>Sour - Fruited Berliner Weisse</beer_style>
     <beer_abv>6.5%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>United States</brewery_country>
     <date_best_before>2026-11-16</date_best_before>
@@ -2063,6 +2190,7 @@
     <beer_description>Noctem Artisans Brasseurs - Oban</beer_description>
     <beer_style>IPA - Triple New England / Hazy</beer_style>
     <beer_abv>10%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>Canada</brewery_country>
     <date_canned>2025-05-20</date_canned>
@@ -2079,6 +2207,7 @@
     <beer_description>Forteresse est une New England Quadruple IPA brassée en collaboration avec nos amis de chez Bière Boréale. Intensément houblonnée, elle met en valeur une sélection exceptionnelle de houblons issus de Freestyle Hops et de Jackson Hop Farm : Peacharine, Nelson Sauvin, Motueka SubZero Hop Kief (Freestyle) et ID-158 Pink (Jackson). Cette combinaison déploie des arômes éclatants de sauvignon blanc, de nectarine et d’agrumes, portés par une texture soyeuse. Une bière puissante, dont la douceur veloutée masque habilement son haut taux d’alcool. Nano Cinco - Forteresse</beer_description>
     <beer_style>IPA - Quadruple</beer_style>
     <beer_abv>11%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>Canada</brewery_country>
     <untappd_id>6280321</untappd_id>
@@ -2094,6 +2223,7 @@
     <beer_description>Château est une New England Double IPA brassée en collaboration avec nos amis Ontarien Third Moon. Une explosion tropicale signée 100 % Freestyle Hops : NZ Cascade, Peacharine, Rakau, Motueka SubZero Hop Kief et NZ Cascade Hop Kief. Ce cocktail d'houblons libère des notes vibrantes d’agrumes, de fruits tropicaux et de pêche bien mûre, soutenues par une texture onctueuse et une amertume douce. Le genre de DIPA qu'on aime, puissante et veloutée. Santé ! Nano Cinco - Chateau</beer_description>
     <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
     <beer_abv>8%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>Canada</brewery_country>
     <untappd_id>6280326</untappd_id>
@@ -2109,6 +2239,7 @@
     <beer_description>Berliner style weisse beer with peaches, strawberries, rhubarb, cinnamon &amp; vanilla. Energy City Brewing - Bistro Peach Strawberry Rhubarb Cobbler</beer_description>
     <beer_style>Sour - Fruited Berliner Weisse</beer_style>
     <beer_abv>6.5%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>United States</brewery_country>
     <date_best_before>2026-10-24</date_best_before>
@@ -2125,6 +2256,7 @@
     <beer_description>IPA double dry-hopped w/ Mosaic + Citra. 6% Long Live Beerworks - DDH Attitude</beer_description>
     <beer_style>IPA - New England / Hazy</beer_style>
     <beer_abv>6%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>United States</brewery_country>
     <date_canned>2025-05-15</date_canned>
@@ -2141,6 +2273,7 @@
     <beer_description>This was aged in some very unique 12-year-old Wild Turkey barrels for 12 months and 5 days. The bourbon from these barrels is a rare Japanese-only release and one of the few 12-year-old Wild Turkeys ever made. Barreled Souls Brewing Company - 12yr Wild Turkey BA Dark Matter (2025)</beer_description>
     <beer_style>Stout - Imperial / Double</beer_style>
     <beer_abv>15.3%</beer_abv>
+    <beer_volume>500 ml</beer_volume>
     <beer_package>bottle</beer_package>
     <brewery_country>United States</brewery_country>
     <date_canned>2025-04-07</date_canned>
@@ -2157,6 +2290,7 @@
     <beer_description>Northeast QIPA. DDH With Citra, Citra And More Citra.Exploding With White Peach, Pineapples, Snake Fruit And Cotton Candy. District 96 Beer Factory - Nuclear Option</beer_description>
     <beer_style>IPA - Quadruple</beer_style>
     <beer_abv>14%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>United States</brewery_country>
     <untappd_id>2776624</untappd_id>
@@ -2172,6 +2306,7 @@
     <beer_description>GONUTS is our first of many TIPAs to come, and we’re beyond stoked to have brewed it with the undisputed kings of IPA—Badlands Brewing. Crack the can and you're hit with a blast of dank tropical fruit punch on the nose. The mouthfeel is lusciously smooth, delivering wave after wave of sweet mango nectar, ripe orange, strawberry, and guava. The smoothness here can't be overstated—extremely drinkable, dangerously so. It all wraps up with a squeaky clean finish that leaves you reaching for more All My Friends Beer Co. - Gonuts</beer_description>
     <beer_style>IPA - Triple New England / Hazy</beer_style>
     <beer_abv>10%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>Canada</brewery_country>
     <untappd_id>6263451</untappd_id>
@@ -2187,6 +2322,7 @@
     <beer_description>India Pale Ale Brewed with citra hops. DDH with Citra and Mosaic hops. Fermented with hazy chico yeast. Anchorage Brewing Company - Headless</beer_description>
     <beer_style>IPA - New England / Hazy</beer_style>
     <beer_abv>6.2%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>United States</brewery_country>
     <date_canned>2025-04-25</date_canned>
@@ -2203,6 +2339,7 @@
     <beer_description>Triple IPA aux houblons Riwaka, Rakau, Motueka &amp; Nelson Sauvin Brasserie du Bas-Canada - Turbinis</beer_description>
     <beer_style>IPA - Triple</beer_style>
     <beer_abv>10%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>Canada</brewery_country>
     <date_canned>2025-05-01</date_canned>
@@ -2220,6 +2357,7 @@
     <beer_description>Dark, deep, and irresistibly tempting. Siren Encounter is a rich English stout at 8%, triple mashed for maximum body. Brewed with only English ingredients: Bramling Cross hops for an earthy berry note, a range of warm, chocolate malts, and classic Fullers yeast for a smooth, silky mouthfeel. High mash temperatures and slow fermentation keep the beer full-bodied without being overly sweet. Packed with flavors of chocolate, toast, and a hint of berry. Full of character, layered, and surprisingly drinkable. Singing sirens? Odysseus tied himself down. You just take another sip. Moersleutel Craft Brewery - 9 Years: Siren Encounter</beer_description>
     <beer_style>Stout - English</beer_style>
     <beer_abv>8%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>The Netherlands</brewery_country>
     <date_best_before>2028-03-28</date_best_before>
@@ -2236,6 +2374,7 @@
     <beer_description>Enchanting, fruity, and full of character. Bursting with pink grapefruit, lollipop, and watermelon, this brew features Talus, Mosaic, Nelson Sauvin, and Superdelic hops. Citrus and red fruit take the lead, with a sweet candy twist. Talus brings bright grapefruit, tropical notes, and hints of rose and pine, while Superdelic layers in bold, candy-like flavors. For a final hit of aroma, Hyperboost—a concentrated hop oil from cutting-edge supercritical extraction—is added post-centrifuge for an extra punch of pungent hop aroma. Smooth, juicy, and spellbinding—let every sip cast its charm. Moersleutel Craft Brewery - 9 Years: Circe's Enchantment</beer_description>
     <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
     <beer_abv>7.5%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>The Netherlands</brewery_country>
     <date_best_before>2026-05-15</date_best_before>
@@ -2252,6 +2391,7 @@
     <beer_description>Cyclops Escape kicks off our new 9 Year Anniversary series with a tropical New England IPA bursting with peach, pear, and juicy stone fruit. Dry-hopped with Peacharine, El Dorado (T90 + Cryo), Citra (Dynaboost + Cryo), and Nelson Sauvin. Expect a vibrant fruit bomb—ripe peach, crisp pear, and a touch of watermelon on a soft, smooth body. Dangerously drinkable. The Cyclops is loose. Escape now—eight more adventures await. Moersleutel Craft Brewery - 9 Years: Cyclops Escape</beer_description>
     <beer_style>IPA - New England / Hazy</beer_style>
     <beer_abv>6%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>The Netherlands</brewery_country>
     <date_best_before>2026-05-13</date_best_before>
@@ -2269,6 +2409,7 @@
     <beer_description>De Garage Beer Co. pack consists of: - Nawi - Leo - Zambo</beer_description>
     <beer_style>IPA</beer_style>
     <beer_abv>6 - 8%</beer_abv>
+    <beer_volume>3x440 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>Spain</brewery_country>
     <date_best_before>2025-08-13</date_best_before>
@@ -2287,6 +2428,7 @@
     <beer_description>6th anniversary Sazerac Rye BA imperial stout - 12 months. Brewed and cared for at Bere a la Cluj. Blackout Brewing - Bearface Whisky BA - Too Much Bliss</beer_description>
     <beer_style>Stout - Imperial / Double</beer_style>
     <beer_abv>12%</beer_abv>
+    <beer_volume>330 ml</beer_volume>
     <beer_package>bottle</beer_package>
     <brewery_country>Romania</brewery_country>
     <date_best_before>2027-04-06</date_best_before>
@@ -2303,6 +2445,7 @@
     <beer_description>Baklava inspired strong ale with walnuts, almonds, honey and vanilla. Aged for 16 months in a single barrel. Blackout Brewing - Memnu - Barton 1792 BA</beer_description>
     <beer_style>Strong Ale - Other</beer_style>
     <beer_abv>12%</beer_abv>
+    <beer_volume>330 ml</beer_volume>
     <beer_package>bottle</beer_package>
     <brewery_country>Romania</brewery_country>
     <date_best_before>2027-12-30</date_best_before>
@@ -2319,6 +2462,7 @@
     <beer_description>Coffee and Dulce de Leche. Aged in Canadian Whisky barrels from Bearface Distillery. Brewed and cared for at Bere a la Cluj. Blackout Brewing - Bearface Whisky BA - Too Much Bliss</beer_description>
     <beer_style>Stout - Imperial / Double Milk</beer_style>
     <beer_abv>13%</beer_abv>
+    <beer_volume>330 ml</beer_volume>
     <beer_package>bottle</beer_package>
     <brewery_country>Romania</brewery_country>
     <date_best_before>2026-12-30</date_best_before>
@@ -2336,6 +2480,7 @@
     <beer_description>Methodically blow your mind. Understanding Whole Systems is an IPA of substance and curiosity, an exploration of taste through the prism of Citra hops and a complete presentation London Fog yeast. Soft and hazy, complex and full. We enjoy drinking whilst reading entries from Pressure Drop’s own catalog, printed on the label. Stay Hungry. Stay Foolish. Pressure Drop Brewing - Understanding Whole Systems</beer_description>
     <beer_style>IPA - New England / Hazy</beer_style>
     <beer_abv>7.4%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>England</brewery_country>
     <date_best_before>2025-10-09</date_best_before>
@@ -2353,6 +2498,7 @@
     <beer_description>DIPA version of King Queen Knave Citra, Simcoe and Mosaic hops Pressure Drop Brewing - Even More King Queen Knave</beer_description>
     <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
     <beer_abv>8.2%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>England</brewery_country>
     <date_best_before>2025-09-20</date_best_before>
@@ -2369,6 +2515,7 @@
     <beer_description>This Hazy DIPA is bursting with fruity aromas: stone fruits like mango and apricot, grapefruit and passionfruit, some dankness, and a touch of funk and earthiness. The malt base features more wheat than we usually use, and we also used a new yeast with this one. So lots of new things going on, we hope you enjoy this experiment. Head Brewer Jirka Ordén Factory Brewing - Taste No Evil</beer_description>
     <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
     <beer_abv>8%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>Finland</brewery_country>
     <date_best_before>01/2026</date_best_before>
@@ -2385,6 +2532,7 @@
     <beer_description>A Hazy DIPA with Nelson Sauvin hops. Reflections is a Hazy DIPA brewed with Nelson Sauvin hops. Five different lots of Nelson from Freestyle Hops and Clayton Hops creates a beautifully complex hop profile using just one variety. I get loads of grapefruit, gooseberries, white wine, passion fruit and some white pepper notes. Head Brewer Jirka Ordén Factory Brewing - Reflections</beer_description>
     <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
     <beer_abv>8%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>Finland</brewery_country>
     <date_best_before>01/2026</date_best_before>
@@ -2401,6 +2549,7 @@
     <beer_description>A Hazy IPA with Citra, Motueka &amp; NZ Cascade. We brewed Alchemy some months ago, a collab with Track Brewing. With The Alchemist, I continued with the same base but added NZ Cascade to bring a bit of difference to an already great recipe. Super soft mouthfeel with our banging hop saturation. Citra, Motueka, and NZ Cascade bring all the best fresh, bright fruits to the table. Creamy lime, juicy mango, and refreshing grapefruit are the main aromas I find here. Head Brewer Jirka Ordén Factory Brewing - The Alchemist</beer_description>
     <beer_style>IPA - New England / Hazy</beer_style>
     <beer_abv>7.3%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>Finland</brewery_country>
     <date_best_before>12/2025</date_best_before>
@@ -2417,6 +2566,7 @@
     <beer_description>A Hazy Triple IPA with Citra, Galaxy &amp; Vic Secret. When my current colleague Pontus and I were homebrewing, we brewed a banger of a 'House-NEIPA' called Candydate — at least we thought it was amazing back then! So here’s Candydate, brought back with the same hop combo and soul, but a refined malt base, updated to today’s standards. Head Brewer Jirka Ordén Factory Brewing - Candydate</beer_description>
     <beer_style>IPA - Triple New England / Hazy</beer_style>
     <beer_abv>10%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>Finland</brewery_country>
     <date_best_before>01/2026</date_best_before>
@@ -2433,6 +2583,7 @@
     <beer_description>DIPA hopped with Galaxy, Cascade and Columbus Vitamin Sea Brewing - Double Spring</beer_description>
     <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
     <beer_abv>8%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>United States</brewery_country>
     <date_canned>2025-04-17</date_canned>
@@ -2449,6 +2600,7 @@
     <beer_description>Double IPA with Simcoe, Sabro, and El Dorado. Willibald Farm Brewery - Prickle Kitty</beer_description>
     <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
     <beer_abv>8.3%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>Canada</brewery_country>
     <date_canned>D1625</date_canned>
@@ -2465,6 +2617,7 @@
     <beer_description>Stout impérial vieilli en barrique de whisky rye ayant contenu du sirop d'érable, puis conditionné sur de la vanille du Mexique. Une bière particulièrement riche et sirupeuse aux notes de sirop d'érable, de vanille, de cacao et de spiritueux. Nano Cinco - Hello My Name Is - Vanille</beer_description>
     <beer_style>Stout - Imperial / Double</beer_style>
     <beer_abv>11.9%</beer_abv>
+    <beer_volume>500 ml</beer_volume>
     <beer_package>bottle</beer_package>
     <brewery_country>Canada</brewery_country>
     <untappd_id>6092135</untappd_id>
@@ -2480,6 +2633,7 @@
     <beer_description>Seven malts were used to create deep flavors of coffee, chocolate, caramel, and molasses. A hint of bitterness and herbal character from carefully selected European and American hops help support the monolithic maltiness. This special batch was aged in bourbon barrels and conditioned on Malagasy vanilla beans and whole Thunderkiss espresso beans. This year’s vintage of Vanilla Coffee Bourbon Barrel Dark Apparition was aged in select Wild Turkey, Knob Creek and Willett barrels ranging from 13 to 26 months and conditioned on the Thuderkiss Espresso Blend and a blend of Tahitian and Madagascar vanilla beans. Jackie O’s Brewery - Vanilla Coffee Bourbon Barrel Dark Apparition (2025)</beer_description>
     <beer_style>Stout - Russian Imperial</beer_style>
     <beer_abv>14.6%</beer_abv>
+    <beer_volume>355 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>United States</brewery_country>
     <date_canned>2025-02-27</date_canned>
@@ -2496,6 +2650,7 @@
     <beer_description>Cinnamon sugar with a warm, soft, and doughy center, make Churros the perfect inspiration for our newest dessert-inspired stout. Churro Puffs take our base imperial stout recipe and add toasted almond, marshmallow, and a light addition of cinnamon. Pitch black with a frothy cap, we get aromas of early mornings at the bake shop, chocolate-covered almond bars, and a touch of sweet cinnamon. A rich and velvety brownie batter-like foundation is laced with flavors of toasted almond, marshmallow-stuffed cinnamon donut holes, and sugar cookie dough. The balanced addition of cinnamon complements the flavors, gently checking all the boxes for liquid culinary bliss. Equilibrium Brewery - Churro Puffs</beer_description>
     <beer_style>Stout - Imperial / Double Pastry</beer_style>
     <beer_abv>11%</beer_abv>
+    <beer_volume>500 ml</beer_volume>
     <beer_package>bottle</beer_package>
     <brewery_country>United States</brewery_country>
     <untappd_id>5342038</untappd_id>
@@ -2511,6 +2666,7 @@
     <beer_description>Double IPA - Citra, Citra Cryo, Citra Dynaboost, Citra Hyperboost, Motueka Messorem - Des Bonnes Gouttes</beer_description>
     <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
     <beer_abv>8%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>Canada</brewery_country>
     <date_best_before>2026-04-14</date_best_before>
@@ -2527,6 +2683,7 @@
     <beer_description>DDH Alien Church is the intensely amplified &amp; totally fuzzed out iteration of our Reptoid Alien with Photosynthesizing Tongue Oat IPA. Brewed with the same fluffy malted oats as always, and hopped, again as always! super aggressively with Cascade and Columbus. Dry hopped first with the same huge dose of the choicest Citra, Mosaic, and Chinook we’ve come to love and then blasted over the skull with the heaviest of hands with a mountain of even more Citra and additional tropical &amp; punchy &amp; hyper fresh Galaxy for the secondary dry hopping. We hope you enjoy this one as much as you’ve come to enjoy Alien Church over the last several years =) Tired Hands Brewing Company - DDH Alien Church (Citra &amp; Galaxy)</beer_description>
     <beer_style>IPA - New England / Hazy</beer_style>
     <beer_abv>7%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>United States</brewery_country>
     <date_canned>2025-04-30</date_canned>
@@ -2543,6 +2700,7 @@
     <beer_description>Bourbon barrel-aged imperial stout with cocoa powder, powdered sugar, vanilla, and milk sugar Nothing says Mardi Gras like a chocolate-covered beignet, which is exactly what we set out to recreate with this Fat Twosday descendant. This blend of top-shelf imperial stouts—Black Tuesday with just the right blend of imperial milk stouts—was treated with cocoa powder and powdered sugar with a touch of vanilla and milk sugar for sweetness. The Bruery - Pass A Good Time</beer_description>
     <beer_style>Stout - Imperial / Double</beer_style>
     <beer_abv>16.7%</beer_abv>
+    <beer_volume>750 ml</beer_volume>
     <beer_package>bottle</beer_package>
     <brewery_country>United States</brewery_country>
     <untappd_id>5699491</untappd_id>
@@ -2558,6 +2716,7 @@
     <beer_description>Hazy IPA hopped with Galaxy and Mosaic Vitamin Sea Brewing - Due North</beer_description>
     <beer_style>IPA - New England / Hazy</beer_style>
     <beer_abv>7.6%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>United States</brewery_country>
     <date_canned>2025-04-17</date_canned>
@@ -2574,6 +2733,7 @@
     <beer_description>In collaboration with Incandescent Brewing. A DIPA hopped with Citra Incognito, Krush, Citra, Motueka, and Strata Quantum Brite. Spyglass Brewing Company - Kung Fu Time Bomb</beer_description>
     <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
     <beer_abv>8%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>United States</brewery_country>
     <date_canned>2025-04-09</date_canned>
@@ -2590,6 +2750,7 @@
     <beer_description>Bain d'agrumes est une New England IPA dans laquelle nous avons poussé l’expérience Citra à fond : Citra T90 en pellets (Coleman Agriculture) Citra Dynaboost (Yakima Chief) à chaud Citra Spectrum (John I. Haas) à froid Et pour encore plus de peps, on a ajouté à chaud des écorces d’orange amère et des tranches d’orange sanguine. Résultat ? Une bombe d’agrumes ultra juteuse, avec des notes éclatantes de citron, de pamplemousse et surtout des notes explosives d'orange. Un vrai jus d’orange houblonné ! Nano Cinco - Bain D'agrumes</beer_description>
     <beer_style>IPA - New England / Hazy</beer_style>
     <beer_abv>6.8%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>Canada</brewery_country>
     <untappd_id>6237648</untappd_id>
@@ -2605,6 +2766,7 @@
     <beer_description>Black Maple features a diverse grist of barley, wheat, chocolate malt, caramel malt, and a pinch of smoked malt. Locally harvested maple syrup was added in the boil kettle before aging in bourbon barrels. A long time brewery favorite! This batch aged in bourbon barrels for 24 months and was conditioned on an extra addition of local maple syrup post barrels. Jackie O’s Brewery - Bourbon Barrel Black Maple (2025)</beer_description>
     <beer_style>Porter - Imperial / Double</beer_style>
     <beer_abv>12.8%</beer_abv>
+    <beer_volume>355 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>United States</brewery_country>
     <date_canned>2025-01-23</date_canned>
@@ -2621,6 +2783,7 @@
     <beer_description>Billions of Peaches Braaaaaaaains is loaded up with three commas worth of peaches, more peaches, a few more peaches, apricot and some more apricot. Then we hit it with our double secret smoothie treatment of sea salt, lactose and vanilla beans. Drekker Brewing Company - Braaaaaaaains - Billions of Peaches</beer_description>
     <beer_style>Sour - Smoothie / Pastry</beer_style>
     <beer_abv>6.5%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>United States</brewery_country>
     <untappd_id>6222118</untappd_id>
@@ -2636,6 +2799,7 @@
     <beer_description>DIPA Citra, Nelson Sauvin, Simcoe BreWskey - INVOCATION</beer_description>
     <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
     <beer_abv>8.2%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>Canada</brewery_country>
     <untappd_id>5787651</untappd_id>
@@ -2651,6 +2815,7 @@
     <beer_description>Hazy IPA w/ Motueka, Waimea &amp; Riwaka Bright and juicy, brimming with fresh mango, lychee, nectarine and white gummy bears with a lush, creamy mouthfeel. Counterpart Brewing - The World Is Mine</beer_description>
     <beer_style>IPA - New England / Hazy</beer_style>
     <beer_abv>6.5%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>Canada</brewery_country>
     <date_canned>2025-04-16</date_canned>
@@ -2667,6 +2832,7 @@
     <beer_description>Brownies, Cacao, Terpenes - Collab with Third Moon All My Friends Beer Co. - SEVER</beer_description>
     <beer_style>Stout - Pastry</beer_style>
     <beer_abv>7.5%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>Canada</brewery_country>
     <date_canned>2025-04-14</date_canned>
@@ -2683,6 +2849,7 @@
     <beer_description>Because Beer is Better with Friends, Be Kind, Rewind is a collab with our Carolina friends Leah &amp; JT of @replaybrewing &amp; Carly &amp; Nick of @funguysbrewing . This Triple New England was hopped with Citra, Nectaron and HBC 638. We timed this release so that we could have it ready to pour along side our friends at @yah_brew_mountjoy 90’s inspired beer fest this weekend, Fresh Brews in Pennsylvania. . Tin Barn Brewing - Be Kind, Rewind</beer_description>
     <beer_style>IPA - Triple New England / Hazy</beer_style>
     <beer_abv>9.5%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>United States</brewery_country>
     <untappd_id>6242680</untappd_id>
@@ -2698,6 +2865,7 @@
     <beer_description>Super fluffy and creamy DIPA hopped with Citra, Motueka and Galaxy. Spyglass Brewing Company - Aspect Oriented</beer_description>
     <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
     <beer_abv>8.3%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>United States</brewery_country>
     <date_canned>2025-04-24</date_canned>
@@ -2714,6 +2882,7 @@
     <beer_description>Introducing the newest in our Baby Animal Series - Baby G.O.A.T! This single New England IPA was hopped with Citra, Bru-1, and Motueka to create a juicy pineapple bomb that is the Greatest of All Time! Tin Barn Brewing - Baby G.O.A.T.</beer_description>
     <beer_style>IPA - New England / Hazy</beer_style>
     <beer_abv>7.2%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>United States</brewery_country>
     <untappd_id>6242674</untappd_id>
@@ -2729,6 +2898,7 @@
     <beer_description>Voici notre dernière triple NEIPA intensément houblonnée aux cultivars Nectaron, Nelson Sauvin Cryo, Nelson Sauvin Subzero Hop Kief et Citra. Une bombe tropicale avec des notes de fruit de la passion, de nectarine bien mûre et une pointe de sauvignon blanc. Le tout porté par une texture soyeuse et une finale fraîche qui en redemande malgré son pourcentage élevé Nano Cinco - Patron</beer_description>
     <beer_style>IPA - Triple New England / Hazy</beer_style>
     <beer_abv>9.6%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>Canada</brewery_country>
     <untappd_id>6231524</untappd_id>
@@ -2745,6 +2915,7 @@
     <beer_description>This Fruited Smoothie Sour was brewed in collaboration with Yah Brew. We blended Banana, Strawberry, Cantaloupe, and marshmallow to form just one of this monster’s many heads. A little taste of 90’s nostalgia while you keep your eyes peeled for even more flavor combinations. Mortalis Brewing Company - Hydra | Push Pop</beer_description>
     <beer_style>Sour - Smoothie / Pastry</beer_style>
     <beer_abv>7%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>United States</brewery_country>
     <untappd_id>6210906</untappd_id>
@@ -2760,6 +2931,7 @@
     <beer_description>Imperial Stout brewed with honey and lactose and aged in bourbon barrels Jackie O’s Brewery - Abandon The Halogens (2022)</beer_description>
     <beer_style>Stout - Imperial / Double Milk</beer_style>
     <beer_abv>13.8%</beer_abv>
+    <beer_volume>375 ml</beer_volume>
     <beer_package>bottle</beer_package>
     <brewery_country>United States</brewery_country>
     <untappd_id>4990447</untappd_id>
@@ -2775,6 +2947,7 @@
     <beer_description>NEW ENGLAND IPA AU MIEL. HOUBLONS: CITRA, CASCADE NZ, MOTUEKA &amp; PACIFICA Le Ketch - Dock 111 - Citra, Cascade NZ, Motueka &amp; Pacifica</beer_description>
     <beer_style>IPA - New England / Hazy</beer_style>
     <beer_abv>6.5%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>Canada</brewery_country>
     <date_canned>2025-04-07</date_canned>
@@ -2791,6 +2964,7 @@
     <beer_description>In a galaxy not so far away, the haze is thick, and the juice awakens in the power of our new collaboration with @greatnotion. The Juice Awakens (DIPA) is the beginning of a delicious rebellion using an incredible blend of some of our favorite hop varieties with a hop bill of Citra Incognito, Citra Lupomax, Citra, Strata, Eclipse, and Krush. Bursting with navel orange and lemon-lime spritz aromas, expect a tropical flavor force of pineapple, orange, and ruby red grapefruit with assorted tropical berry Pez, dank candied orange peel, and saturated mango key lime smoothie. A textured mouthfeel loaded with rainbow melon builds up with a force of hoppiness and a custard-like finish. Equilibrium Brewery - The Juice Awakens</beer_description>
     <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
     <beer_abv>8.2%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>United States</brewery_country>
     <date_canned>2025-05-01</date_canned>
@@ -2807,6 +2981,7 @@
     <beer_description>We love science and we have been feverishly working in the lab to bring you our most recent achievements. We started with the Straight Outta Middletown grain bill, supersized the citra portion, applied our latest and greatest technology (think of the EQ juice in raining belma and last batch of MC²) and ended up with January Fluctuation on steroids with the most amount of EQ juice to date. Straight Outta The Laboratory pours a hazy bright tangerine and has aromas of freshly squeezed citrus, lime, grapefruit, and a tropical character that makes actual tropical fruit green with envy. The flavor is explosive with notes of bright tropical orange juice, mango smoothie, and dank grass. It’s resinous and chewy with an escalating brightness and a just a touch of residual sweetness balanced by a soft bitterness. We are particularly proud of this beer as it’s the culmination of months and months of hard work (since January Fluctuation). Equilibrium Brewery - Straight Outta The Laboratory</beer_description>
     <beer_style>IPA - Triple</beer_style>
     <beer_abv>10.2%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>United States</brewery_country>
     <untappd_id>2879668</untappd_id>
@@ -2822,6 +2997,7 @@
     <beer_description>We have never brewed a Quadruple Hazy before, but when our new friends from P.I.G.S. Brew Co. flew over from Greece we figured we should brew something epic! And what is more epic than a 11.5% Quadruple Hazy. Answer. Nothing! BOOM. Fellow metalheads collaborating on a HEAVY beer that checks all boxes! A two-part collaboration with sister-beer NECROPUNK. Adroit Theory - NECROSYNTH (Ghost NECROSYNTH)</beer_description>
     <beer_style>IPA - Quadruple</beer_style>
     <beer_abv>11.5%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>United States</brewery_country>
     <untappd_id>5571398</untappd_id>
@@ -2837,6 +3013,7 @@
     <beer_description>Anchorage Brewing Company - Oh No</beer_description>
     <beer_style>IPA - Triple New England / Hazy</beer_style>
     <beer_abv>9.42%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>United States</brewery_country>
     <date_canned>2025-04-24</date_canned>
@@ -2853,6 +3030,7 @@
     <beer_description>Citra, Superdelic, Terpenes - Collab with Blood Brothers All My Friends Beer Co. - BB Kush - 2025</beer_description>
     <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
     <beer_abv>8.2%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>Canada</brewery_country>
     <date_canned>2025-04-14</date_canned>
@@ -2869,6 +3047,7 @@
     <beer_description>This DIPA is brewed with pilsner malt, flaked oats, and an absurd amount of unmalted wheat. Hopped aggressively in the kettle with the favorites Citra and Mosaic. Then we double dry hopped this murky DIPA with almost all Nelson. We are tasting white grape juice, fresh Georgia peaches, and frothy cream. The Drowned Lands Brewery - Tillage</beer_description>
     <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
     <beer_abv>8%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>United States</brewery_country>
     <untappd_id>4486704</untappd_id>
@@ -2884,6 +3063,7 @@
     <beer_description>Double Bourbon Barrel-Aged Barleywine Ale Double Double Mash is a double barrel-aged barleywine ale that packs double the indulgence. Aged first in Buffalo Trace bourbon barrels, then Heaven Hill bourbon barrels for another year, it offers rich aromas of oak, vanilla and fig. The velvety caramel toast and fig jam flavors mingle with charred vanilla notes. The journey concludes with a mildly sweet and clean finish, a testament to refined craftsmanship. The Bruery - Double Double Mash</beer_description>
     <beer_style>Barleywine - American</beer_style>
     <beer_abv>15.7%</beer_abv>
+    <beer_volume>375 ml</beer_volume>
     <beer_package>bottle</beer_package>
     <brewery_country>United States</brewery_country>
     <untappd_id>5850335</untappd_id>
@@ -2899,6 +3079,7 @@
     <beer_description>Our flagship Hazy IPA. This one has intense aromas of tropical fruits, citrus, passionfruit and peach flavors. This combination of hops has a flavor profile bursting with ripe pineapple, mango, and papaya along with a bright citrus punch from the Citra hops. Vitamin Sea Brewing - Just Another T-Shirt Shop</beer_description>
     <beer_style>IPA - New England / Hazy</beer_style>
     <beer_abv>6.8%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>United States</brewery_country>
     <date_canned>2025-05-01</date_canned>
@@ -2915,6 +3096,7 @@
     <beer_description>Double Barrel-Aged Imperial Stout finished in Bourbon Maple Syrup Barrels The Bruery - Heavenly Blis</beer_description>
     <beer_style>Stout - Imperial / Double</beer_style>
     <beer_abv>20.5%</beer_abv>
+    <beer_volume>750 ml</beer_volume>
     <beer_package>bottle</beer_package>
     <brewery_country>United States</brewery_country>
     <untappd_id>5965255</untappd_id>
@@ -2930,6 +3112,7 @@
     <beer_description>Hazy Triple IPA w/ Freestyle Mega Terps: Motueka, Southern Cross, Rakau &amp; Phantasm brewed in collaboration w/ Blood Brothers Brewing A full creamy mouthfeel and juice-like sweetness carrying a melange of guava, lychee, lemon candy, nectarine, papaya and sauvignon blanc. Counterpart Brewing - Shoot To Thrill</beer_description>
     <beer_style>IPA - Triple New England / Hazy</beer_style>
     <beer_abv>10%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>Canada</brewery_country>
     <date_canned>2025-04-30</date_canned>
@@ -2946,6 +3129,7 @@
     <beer_description>Brewed in collaboration with Great Notion Deep in the dark lab, two legendary forces collide to study all things science. Whether it’s mass-energy equivalence of a neutron star, trying to survive another council meeting on Coruscant, or creating the newest IPA, MC3PO is there. With a space-time-bending mix of hops to keep the droid in you satisfied, MC3PO starts off with a 2-row and white wheat base before a Mosaic Incognito, Mosaic Lupomax, Mosaic, Strata, and Amarillo hop bill to keep all your taste bud circuits firing. Smooth and bright flavors of pineapple and mango meet bright citrus with a touch of lime and a complex, dank earthiness and a touch of resinous bitterness. Equilibrium Brewery - MC3PO</beer_description>
     <beer_style>IPA - New England / Hazy</beer_style>
     <beer_abv>6.7%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>United States</brewery_country>
     <date_canned>2025-04-29</date_canned>
@@ -2962,6 +3146,7 @@
     <beer_description>IPA - Motueka, Riwaka, Citra Dynaboost Messorem - Demoliri 0001</beer_description>
     <beer_style>IPA - New England / Hazy</beer_style>
     <beer_abv>7%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>Canada</brewery_country>
     <date_best_before>2026-04-11</date_best_before>
@@ -2978,6 +3163,7 @@
     <beer_description>Citra, Motueka, Rakau, Terpenes - Collab with BAOS Podcast All My Friends Beer Co. - Chemistry</beer_description>
     <beer_style>IPA - New England / Hazy</beer_style>
     <beer_abv>6.5%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>Canada</brewery_country>
     <date_canned>2025-04-14</date_canned>
@@ -2994,6 +3180,7 @@
     <beer_description>We originally made this beer in the spring of 2021 + to say it was highly sought after would be, well, an understatement. A continuation of our recent concepts in Confessions, this one is as perfect a stout as we can craft. This high gravity stout is masterfully crafted to balance aromas and flavors of dark chocolate, caramel, and coffee with a subtle underlying booziness. Full bodied and slightly roasty.⁠ Adroit Theory - All That I Have Learned (Ghost 1587)</beer_description>
     <beer_style>Stout - Russian Imperial</beer_style>
     <beer_abv>16.66%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>United States</brewery_country>
     <untappd_id>5919609</untappd_id>
@@ -3009,6 +3196,7 @@
     <beer_description>This hazy beast of a Double New England IPA is double dry-hopped with an unruly dose of Mosaic and Citra. This juicy titan unleashes an explosive bouquet of mango, candied orange peel, and dank tropical haze to tame the monster within. It’s dangerously drinkable — unleash with caution. Tin Barn Brewing - Mosaic Monster</beer_description>
     <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
     <beer_abv>8.4%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>United States</brewery_country>
     <untappd_id>6257025</untappd_id>
@@ -3024,6 +3212,7 @@
     <beer_description>Refreshing is our late summer months, forget-about-the-impending-cold, always refreshing Thirst Quencher Double IPA! Brewed with heaps of malted oats and intensely refreshingly hopped and dry hopped with Galaxy, Citra, and Lemondrop! Lots of key lime, drippy sweet mango, and kalamansi gumballs in this batch. It’s just real pungent, drippy sappy juicy, and well... Refreshing! 8.0% abv. Tired Hands Brewing Company - Refreshing</beer_description>
     <beer_style>IPA - Imperial / Double</beer_style>
     <beer_abv>8%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>United States</brewery_country>
     <date_canned>2025-04-22</date_canned>
@@ -3040,6 +3229,7 @@
     <beer_description>Bomb! is an imperial stout aged on Spaceship Earth espresso beans, chocolate, vanilla beans, and ancho chile peppers. All the flavors meld to create a truly unique beer. The peppers add just the right amount of heat to complement the intense coffee and chocolate flavors. Prairie Artisan Ales - Bomb!</beer_description>
     <beer_style>Stout - Imperial / Double Coffee</beer_style>
     <beer_abv>13%</beer_abv>
+    <beer_volume>355 ml</beer_volume>
     <beer_package>bottle</beer_package>
     <brewery_country>United States</brewery_country>
     <date_canned>2024-12-24</date_canned>
@@ -3056,6 +3246,7 @@
     <beer_description>Citra, Lorien &amp; Sabro-hopped Double India Pale Ale Hop Butcher For The World - Aspect of Taurus</beer_description>
     <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
     <beer_abv>8%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>United States</brewery_country>
     <date_canned>2025-04-21</date_canned>
@@ -3072,6 +3263,7 @@
     <beer_description>TRIPLE NEW ENGLAND IPA AU MIEL. HOUBLONS: NELSON SAUVIN, CITRA &amp; SOUTHERN CROSS Le Ketch - Dock 73 - NELSON SAUVIN, CITRA &amp; SOUTHERN CROSS (2025)</beer_description>
     <beer_style>IPA - Triple New England / Hazy</beer_style>
     <beer_abv>10%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>Canada</brewery_country>
     <date_canned>2025-04-07</date_canned>
@@ -3088,6 +3280,7 @@
     <beer_description>This Fruited Sour blends apricot, mango, and raspberry to form just one of this monster’s many heads. Keep your eyes peeled for even more flavor combinations. Mortalis Brewing Company - Hydra | Apricot + Mango + Raspberry</beer_description>
     <beer_style>Sour - Smoothie / Pastry</beer_style>
     <beer_abv>7%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>United States</brewery_country>
     <untappd_id>3523256</untappd_id>
@@ -3103,6 +3296,7 @@
     <beer_description>Dora is our exploratory series of beers where we mess around with anything/everything from ingredients to process. For this version of Dora we decided we wanted to try a new blend of pale oats and wheat than we typically use. Hopped exclusively with Citra, we taste huge pineapple, papaya and mixed citrus Badlands Brewing Company - Dora #79</beer_description>
     <beer_style>IPA - American</beer_style>
     <beer_abv>6.5%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>Canada</brewery_country>
     <date_canned>2025-04-09</date_canned>
@@ -3119,6 +3313,7 @@
     <beer_description>IPA brewed in continuation with our anniversary (aka this year’s “Anniversary Series”). 7.5% Long Live Beerworks - 6 Lives</beer_description>
     <beer_style>IPA - New England / Hazy</beer_style>
     <beer_abv>7.5%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>United States</brewery_country>
     <date_canned>2025-04-14</date_canned>
@@ -3135,6 +3330,7 @@
     <beer_description>Hazy Double IPA w/ Motueka, Rakau, Peacharine &amp; Southern Cross SubZero Hop Kief A full pillowy mouthfeel delivering a wave of fresh peach, lychee, orange, guava, nectarine and lime zest. Counterpart Brewing - Double Drip (Motueka, Rakau, Peacharine, Southern Cross Hop Kief)</beer_description>
     <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
     <beer_abv>8.2%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>Canada</brewery_country>
     <date_canned>2025-04-02</date_canned>
@@ -3151,6 +3347,7 @@
     <beer_description>Double Barrel Aged Barleywine collaboration with More Brewing Goose Island Beer Co. - Tusk &amp; Feather</beer_description>
     <beer_style>Barleywine - Other</beer_style>
     <beer_abv>15.4%</beer_abv>
+    <beer_volume>500 ml</beer_volume>
     <beer_package>bottle</beer_package>
     <brewery_country>United States</brewery_country>
     <date_best_before>2029-02-06</date_best_before>
@@ -3167,6 +3364,7 @@
     <beer_description>The return of one of our all time favorite hop blends! SenseScape is a made up word that we think does a good job of encompassing the entirety of your various senses. Smell, see, taste, feel. The ultimate package for perceiving the world around you. This beer was designed to satiate all of them at once, which is why we hopped it with arguably our favorite blend of hops: Citra, Galaxy, and Nelson Sauvin. Built on a cloud like malt base, we taste notes of papaya, tangerine flesh, candied peaches and rich tropical fruit. Badlands Brewing Company - Sensescape (2025)</beer_description>
     <beer_style>IPA - American</beer_style>
     <beer_abv>8.2%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>Canada</brewery_country>
     <date_canned>2025-04-30</date_canned>
@@ -3183,6 +3381,7 @@
     <beer_description>In the mash, a nice blend of wheat and oats creates a silky body with subtle sweetness. The yeast imparts a delicate fruitiness that perfectly complements the complex hop profile. Utilizing a touch of Phantasm powder on the hot side, and dry-hopped with an all-New Zealand blend of Peacharine, Nectaron, and The Bruce, this beer bursts with vibrant tropical notes. Expect juicy peach and apricot, followed by hints of pineapple and citrus zest, with an intense expression of passionfruit and a crisp, clean finish. Foam Brewers - Bizarre Celebrations: Cloud 9</beer_description>
     <beer_style>IPA - Imperial / Double</beer_style>
     <beer_abv>9%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>United States</brewery_country>
     <date_canned>2025-04-22</date_canned>
@@ -3199,6 +3398,7 @@
     <beer_description>India Pale Ale aux houblons Sabro &amp; Citra Brasserie du Bas-Canada - Bank Hotel</beer_description>
     <beer_style>IPA - American</beer_style>
     <beer_abv>7.1%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>Canada</brewery_country>
     <date_canned>2025-04-30</date_canned>
@@ -3215,6 +3415,7 @@
     <beer_description>Brewed at Tired Hands Brewing Company, an IPA brewed with oats and lactose sugar. Fermented atop strawberries (a high pectin fruit) and vanilla beans. Hopped intensely with Mosaic and Citra. We also added wheat flour and 50 lbs of local apples (a high pectin fruit) to the boil. Brewed in collaboration with Omnipollo. Tired Hands Brewing Company - Milkshake IPA (Strawberry)</beer_description>
     <beer_style>IPA - Milkshake</beer_style>
     <beer_abv>7.2%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>United States</brewery_country>
     <date_canned>2025-04-16</date_canned>
@@ -3231,6 +3432,7 @@
     <beer_description>Triple IPA brewed with pilsner malt, malted white wheat, flaked and malted oats. Hopped solely with Mosaic through the whirlpool and dry hop at the same rate as Terra Citra. We're tasting dank blueberries, drippy, overripe peach, spicy dried orange rind, papaya, mango, and a big ol' mouthful of zebra stripe gum. The Drowned Lands Brewery - Terra Mosaic</beer_description>
     <beer_style>IPA - Triple New England / Hazy</beer_style>
     <beer_abv>10.5%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>United States</brewery_country>
     <untappd_id>4400900</untappd_id>
@@ -3246,6 +3448,7 @@
     <beer_description>Sour ale with Skittles Prairie Artisan Ales - Tiny Esses</beer_description>
     <beer_style>Sour - Other</beer_style>
     <beer_abv>5.9%</beer_abv>
+    <beer_volume>355 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>United States</brewery_country>
     <date_canned>2025-03-18</date_canned>
@@ -3262,6 +3465,7 @@
     <beer_description>Cinco est une Double New England IPA houblonnée aux variétés Nelson Sauvin, HBC 1019 et Peacharine. Elle offre un corps soyeux et une explosion d’arômes de pêche, de nectarine et de fruits à noyau bien mûrs. Cinco, ce n’est pas seulement le nom de la bière, c’est aussi celui du chien de Mathieu, maître brasseur et co-fondateur de la brasserie. C’est lui, Cinco, qui a inspiré le nom même de la brasserie il y a de cela quasiment 10 ans, alors que nous n'étions qu'une gang d'amis à brasser de la bière pour la plaisir dans l'appartement de Mathieu. Un nom qui est resté! Un compagnon fidèle, curieux et qui était toujours dans nos pattes pendant les brassins Nano Cinco - Cinco</beer_description>
     <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
     <beer_abv>8.2%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>Canada</brewery_country>
     <untappd_id>6241284</untappd_id>
@@ -3277,6 +3481,7 @@
     <beer_description>DOUBLE NEW ENGLAND IPA AU MIEL. HOUBLONS: PEACHARINE, GALAXY &amp; NELSON SAUVIN Le Ketch - Dock 72 - Peacharine, Galaxy &amp; Nelson Sauvin (2025)</beer_description>
     <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
     <beer_abv>8%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>Canada</brewery_country>
     <date_canned>2027-10-22</date_canned>
@@ -3293,6 +3498,7 @@
     <beer_description>Cette Brownie Pastry Stout a été brassée avec du chocolat, noix de Grenoble, vanille et noix de coco. BreWskey - COCO PALMER HOUSE</beer_description>
     <beer_style>Stout - Imperial / Double Pastry</beer_style>
     <beer_abv>11.9%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>Canada</brewery_country>
     <untappd_id>4739060</untappd_id>
@@ -3308,6 +3514,7 @@
     <beer_description>TIPA collab Freestyle Hops x Eggers Hops x NZ Hops. Eggers Nelson Sauvin, Eggers Rakau, NZ Rakau, NZ Superdelic, Freestyle Motueka, Freestyle Motueka Hop Kief BreWskey - NZ GOLD</beer_description>
     <beer_style>IPA - Triple New England / Hazy</beer_style>
     <beer_abv>10%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>Canada</brewery_country>
     <untappd_id>6067723</untappd_id>
@@ -3323,6 +3530,7 @@
     <beer_description>This variant of Gypsy Outpost celebrates the delicious flavors within our favorite Girl Scout Cookie. We brew a thick, rich, chocolaty base beer before conditioning upon heaps of toasted coconut, vanilla beans, cocoa nibs and cinnamon. Sip this pastry porter with your friends reminiscing about youthful adventures in the deep woods. Humble Forager Brewery - Gypsy Outpost - Coconut, Vanilla Beans, Cocoa Nibs and Cinnamon</beer_description>
     <beer_style>Porter - Imperial / Double</beer_style>
     <beer_abv>12%</beer_abv>
+    <beer_volume>355 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>United States</brewery_country>
     <untappd_id>3484014</untappd_id>
@@ -3338,6 +3546,7 @@
     <beer_description>This Double IPA is part of our exploration series. Too often, we become complacent and forget to push the boundaries and search the unending hop combinations to find a stroke of genius. Time to get back to class! This version features Freestyle Nelson and Freestyle Nelson Subzero Hop Kief. Cheers! Mortalis Brewing Company - Strange Philosophies 112</beer_description>
     <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
     <beer_abv>8%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>United States</brewery_country>
     <untappd_id>6047751</untappd_id>
@@ -3353,6 +3562,7 @@
     <beer_description>Dry hopped IPA with Citra, Motueka &amp; Galaxy. FUERST WIACEK Berlin - Melody</beer_description>
     <beer_style>IPA - New England / Hazy</beer_style>
     <beer_abv>6.2%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>Germany</brewery_country>
     <date_best_before>2026-01-22</date_best_before>
@@ -3370,6 +3580,7 @@
     <beer_description>Now with even more ACE in your Space. lACEd gets the double dry hop treatment with more Citra and Galaxy to trash your tastebuds. Other Half Brewing Co. - lACEd In Space</beer_description>
     <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
     <beer_abv>8.5%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>United States</brewery_country>
     <date_canned>2025-03-13</date_canned>
@@ -3388,6 +3599,7 @@
     <beer_description>Hop Duos is the intersection of two great hops, in this case our hand selected Nelson Sauvin and Mosaic. This series is about finding hop combinations that bring out greatness in each other to make top notch IPA's. New world fruity white wine notes, blueberry and tropical fruit character come together with this fun combo. Other Half Brewing Co. - Hop Duos! - Nelson + Mosaic</beer_description>
     <beer_style>IPA - New England / Hazy</beer_style>
     <beer_abv>6.5%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>United States</brewery_country>
     <date_canned>2025-03-25</date_canned>
@@ -3405,6 +3617,7 @@
     <beer_description>Another in our series of labels with the talented folks @morningbreath is hopped with a terpy mix of Citra, Citra Incognito, Chinook, Simcoe, Enigma and Sabro Cryo. Soft, fruity and dank. Other Half Brewing Co. - Juice Collector</beer_description>
     <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
     <beer_abv>8.2%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>United States</brewery_country>
     <date_canned>2025-03-06</date_canned>
@@ -3422,6 +3635,7 @@
     <beer_description>Dream in Green is brewed with a bunch of oats and a hint of lactose before we hop it heavily with Citra, Motueka, Wai-iti. Other Half Brewing Co. - Dream In Green</beer_description>
     <beer_style>IPA - New England / Hazy</beer_style>
     <beer_abv>6.2%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>United States</brewery_country>
     <date_canned>2025-03-21</date_canned>
@@ -3439,6 +3653,7 @@
     <beer_description>Stacked up with Citra, Strata, Comet, and Eclipse. Comet was originally bred and released in the 60's but didn't make the cut for the American style light lagers of the time. But it's big on zesty citrus character and pineapple. Eclipse is a new Australian variety that has a lot of sweet orange and fruit flavors. Other Half Brewing Co. - Gouda</beer_description>
     <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
     <beer_abv>8%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>United States</brewery_country>
     <date_canned>2025-03-13</date_canned>
@@ -3456,6 +3671,7 @@
     <beer_description>Big peachy, pineapple vibes with an undercurrent of delicious tropical fruit punch with a little dankness to pull it all together. Other Half Brewing Co. - Big Nectaron Vibes</beer_description>
     <beer_style>IPA - New England / Hazy</beer_style>
     <beer_abv>6.5%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>United States</brewery_country>
     <date_canned>2025-03-11</date_canned>
@@ -3473,6 +3689,7 @@
     <beer_description>Just your usual dairy-free cheese-less beer with a blend of Citra, Ekuanot, Kohatu and Wai-iti on a base of 2-row, oats and wheat. Other Half Brewing Co. - Cheddar</beer_description>
     <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
     <beer_abv>7.9%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>United States</brewery_country>
     <date_canned>2025-03-27</date_canned>
@@ -3490,6 +3707,7 @@
     <beer_description>This Stacks version has the usually grain bill but has the Mosaic, Citra, and El Dorado swapped out for a decidedly more southern affair of Nelson Sauvin, Motueka and Riwaka, all from NZ. Other Half Brewing Co. - Stacks On Stacks: Southern Hemisphere</beer_description>
     <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
     <beer_abv>8.5%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>United States</brewery_country>
     <date_canned>2025-03-20</date_canned>
@@ -3507,6 +3725,7 @@
     <beer_description>That secondary can be a beast right? Back at it with the crew over @morningbreathinc on this juice bomb of a DIPA with our hand selected lots of Citra, Citra Incognito, Strata, Nelson Sauvin, and Mosaic. Other Half Brewing Co. - Ticker Shock</beer_description>
     <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
     <beer_abv>8.5%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>United States</brewery_country>
     <date_canned>2025-03-10</date_canned>
@@ -3524,6 +3743,7 @@
     <beer_description>Imperial Oat Cream IPA with our hand selected Nelson Sauvin hops with a huge amount of oats and a hint of lactose. Other Half Brewing Co. - Double Nelson Daydream</beer_description>
     <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
     <beer_abv>8.5%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>United States</brewery_country>
     <date_canned>2025-04-01</date_canned>
@@ -3540,6 +3760,7 @@
     <beer_description>This Double IPA features YCH Simcoe hops, along with Simcoe Cryo and Hyperboost, as well as El Dorado T90. - Sudden Death Brewing Co. - I See You</beer_description>
     <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
     <beer_abv>8%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>Germany</brewery_country>
     <date_best_before>2026-04-14</date_best_before>
@@ -3556,6 +3777,7 @@
     <beer_description>The creamy, fruity Pastry Sour of your dreams: Joe from Vault City came along and Doggo's Delight was brewed. Loaded with blueberry juice and puree, banana puree, and peanut powder. The deep blue of the blueberries gives the beer a beautiful color and the peanut flavor is reminiscent of the best peanut butter and jelly sandwich you've ever had. - Sudden Death Brewing Co. - Doggo s Delight</beer_description>
     <beer_style>Sour - Fruited</beer_style>
     <beer_abv>6%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>Germany</brewery_country>
     <date_best_before>2026-04-10</date_best_before>
@@ -3572,6 +3794,7 @@
     <beer_description>Dread Moon Cove bathed in a whopping 7 kg of Madagascan and Tahitian vanilla and played with raw and toasted coconut. The result is an intense and well-rounded stout where every addition is noticeable, helping to make the beer our best stout yet! Enjoy! - Sudden Death Brewing Co. - Dread Moon Cove</beer_description>
     <beer_style>Stout - Imperial / Double</beer_style>
     <beer_abv>12%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>Germany</brewery_country>
     <date_best_before>2026-04-15</date_best_before>
@@ -3588,6 +3811,7 @@
     <beer_description>DDH IPA – Dry hopped with Citra, Krush &amp; Nelson Sauvin. Canned On: 01. Apr. 2025 - FUERST WIACEK Berlin - Shalala</beer_description>
     <beer_style>IPA - New England / Hazy</beer_style>
     <beer_abv>6.8%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>Germany</brewery_country>
     <date_best_before>2025-12-31</date_best_before>
@@ -3604,6 +3828,7 @@
     <beer_description>DDH IPA – Dry hopped with Mosaic &amp; Talus. - FUERST WIACEK Berlin - Chin Music 2025</beer_description>
     <beer_style>IPA - New England / Hazy</beer_style>
     <beer_abv>6.8%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>Germany</brewery_country>
     <date_best_before>2026-01-07</date_best_before>
@@ -3621,6 +3846,7 @@
     <beer_description>OH LAWD HE BACK AGAIN! Our lovable absolute unit returns with our latest exploration into complete absurdity. This chonky boi is diggin’ deep within the darkest corners of the freezer, scoopin’ up gobs of dark cherry and decadent dark chocolate. Cue the intensified heavy breathing. *CONTAINS LACTOSE - Drekker Brewing Company - CHONK: Dark Cherry</beer_description>
     <beer_style>Sour - Smoothie / Pastry</beer_style>
     <beer_abv>6.6%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>United States</brewery_country>
     <untappd_id>6189849</untappd_id>
@@ -3636,6 +3862,7 @@
     <beer_description>DDH DIPA – Dry hopped with Galaxy &amp; Simcoe. - FUERST WIACEK Berlin - Feral (2025)</beer_description>
     <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
     <beer_abv>8%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>Germany</brewery_country>
     <date_best_before>2026-01-07</date_best_before>
@@ -3652,6 +3879,7 @@
     <beer_description>IPA – Dry hopped with Citra, Mosaic &amp; Galaxy. - FUERST WIACEK Berlin - Soft Focus</beer_description>
     <beer_style>IPA - New England / Hazy</beer_style>
     <beer_abv>6.2%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>Germany</brewery_country>
     <date_best_before>2026-01-07</date_best_before>
@@ -3668,6 +3896,7 @@
     <beer_description>DDH IPA - Dry hopped with Mosaic &amp; HBC 630 - FUERST WIACEK Berlin - Fat Cats In Top Hats (2025)</beer_description>
     <beer_style>IPA - New England / Hazy</beer_style>
     <beer_abv>6.8%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>Germany</brewery_country>
     <date_best_before>2025-12-31</date_best_before>
@@ -3684,6 +3913,7 @@
     <beer_description>Enjoy juicy Hazy IPA and discover beer Europe with us! We will take you to interesting and less obvious places that we came across while traveling around the Old Continent. You will find their list under the top layer of the label. Greece is associated with sunny holidays. Which does not mean that you have to take a vacation from craft beer! - PINTA - Discovery Europe: Greece</beer_description>
     <beer_style>IPA - New England / Hazy</beer_style>
     <beer_abv>6.5%</beer_abv>
+    <beer_volume>500 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>Poland</brewery_country>
     <date_best_before>2025-12-24</date_best_before>
@@ -3700,6 +3930,7 @@
     <beer_description>Imperial Stout w/ Coconut, Coffee, Coca Nibs and Vanilla. Aged for 20-28 months in Barbados Rum, Marsala &amp; Heaven Hill Bourbon Barrels. Adjuncts breakdown: - Raw and roasted Coconut chips from Sri Lanka, - Single Origin Coffee beans from Brazil, - Hispaniola and Bolivia Cocoa Beans, - Vanilla pods from Madagascar &amp; Uganda. Barrels breakdown: 60% Heaven Hill 20% Barbados Rum 20% Marsala - PINTA Barrel Brewing - Affection (2025)</beer_description>
     <beer_style>Stout - Imperial / Double</beer_style>
     <beer_abv>12%</beer_abv>
+    <beer_volume>330 ml</beer_volume>
     <beer_package>bottle</beer_package>
     <brewery_country>Poland</brewery_country>
     <date_best_before>2030-03-01</date_best_before>
@@ -3716,6 +3947,7 @@
     <beer_description>Imperial Stout w/ Vanilla, Coconut and Barrel Aged Coffe. Aged for 20-30 months in Wild Turkey and Heaven Hill Bourbon Barrels &amp; Rittenhouse Rye Whisky Barrels. Adjuncts breakdown: - Vanilla pods from Madagascar &amp; Uganda, - Raw and roasted Coconut chips from Sri Lanka, - Barrel Aged Coffee beans from Columbia. Barrels breakdown: 40% Heaven Hill 40% Wild Turkey 20% Rittenhouse Rye - PINTA Barrel Brewing - Liberty (2025)</beer_description>
     <beer_style>Stout - Imperial / Double</beer_style>
     <beer_abv>12%</beer_abv>
+    <beer_volume>330 ml</beer_volume>
     <beer_package>bottle</beer_package>
     <brewery_country>Poland</brewery_country>
     <date_best_before>2030-03-01</date_best_before>
@@ -3732,6 +3964,7 @@
     <beer_description>DEAD VIOLET BOURBON BARREL AGED IMPERIAL STOUT WITH CANADIAN MAPLE SYRUP, BLUEBERRIES AND VANILLA BEANS FROM UGANDA. BLEND OF STOUTS AGED FOR 2 &amp; 3 YEARS IN PAPPY VAN WINKLE, BLANTONS AND WELLER BARRELS 12%ABV COLLABORATION WITH FORAGER FROM USA - Seven Island Brewery - Dead Violet</beer_description>
     <beer_style>Stout - Imperial / Double</beer_style>
     <beer_abv>12%</beer_abv>
+    <beer_volume>500 ml</beer_volume>
     <beer_package>bottle</beer_package>
     <brewery_country>Greece</brewery_country>
     <date_best_before>2032-02-28</date_best_before>
@@ -3748,6 +3981,7 @@
     <beer_description>- Arpus Brewing Co. - Arpus X Brasserie Popihn Imperial Cascadian Dark Ale</beer_description>
     <beer_style>IPA - Imperial / Double Black</beer_style>
     <beer_abv>8%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>Latvia</brewery_country>
     <date_best_before>2026-03-31</date_best_before>
@@ -3765,6 +3999,7 @@
     <beer_description>DEAD CRIMSON BOURBON BARREL AGED IMPERIAL STOUT WITH CANADIAN MAPLE SYRUP, HONDURAS COFFEE BEANS AND VANILLA BEANS FROM UGANDA BLEND OF STOUTS AGED FOR 2 &amp; 3 YEARS IN PAPPY VAN WINKLE, BLANTONS AND WELLER BARRELS COLLABORATION WITH RESIDENT CULTURE FROM USA - Seven Island Brewery - Dead Crimson</beer_description>
     <beer_style>Stout - Imperial / Double</beer_style>
     <beer_abv>12%</beer_abv>
+    <beer_volume>500 ml</beer_volume>
     <beer_package>bottle</beer_package>
     <brewery_country>Greece</brewery_country>
     <date_best_before>2032-02-28</date_best_before>
@@ -3781,6 +4016,7 @@
     <beer_description>DEAD IVORY BOURBON BARREL AGED IMPERIAL STOUT WITH CANADIAN MAPLE SYRUP,PEANUT BUTTER AND VANILLA BEANS FROM UGANDA. BLEND OF STOUTS AGED FOR 2 &amp; 3 YEARS IN PAPPY VAN WINKLE, BLANTONS AND WELLER BARRELS COLLABORATION WITH MESOREM FROM CANADA - Seven Island Brewery - Dead Ivory</beer_description>
     <beer_style>Stout - Imperial / Double</beer_style>
     <beer_abv>12%</beer_abv>
+    <beer_volume>500 ml</beer_volume>
     <beer_package>bottle</beer_package>
     <brewery_country>Greece</brewery_country>
     <date_best_before>2032-02-28</date_best_before>
@@ -3797,6 +4033,7 @@
     <beer_description>Imperial Stout w/ Cocoa Nibs &amp; Almonds. Aged for 22-33 months in Heaven Hill Bourbon, Calvados and Banyuls Barrels. Adjuncts breakdown: - Bolivia and Hispaniola Cocoa Beans, - Freshly roasted Almonds. Barrels breakdown: 70% Heaven Hill 15% Banyuls 15% Calvados - PINTA Barrel Brewing - Reputation (2025)</beer_description>
     <beer_style>Stout - Imperial / Double</beer_style>
     <beer_abv>14%</beer_abv>
+    <beer_volume>330 ml</beer_volume>
     <beer_package>bottle</beer_package>
     <brewery_country>Poland</brewery_country>
     <date_best_before>2030-03-01</date_best_before>
@@ -3813,6 +4050,7 @@
     <beer_description>8 YEARS ANNIVERSARY NEMESIS Bourbon barrel aged imperial stout with Canadian maple syrup, hazelnut and vanilla beans from Uganda. Blend of stouts aged for 2 &amp; 3 years in Pappy van Winkle, Blantons and Weller barrels - Seven Island Brewery - Nemesis-8 Years Anniversary</beer_description>
     <beer_style>Stout - Imperial / Double</beer_style>
     <beer_abv>12%</beer_abv>
+    <beer_volume>500 ml</beer_volume>
     <beer_package>bottle</beer_package>
     <brewery_country>Greece</brewery_country>
     <date_best_before>2032-02-28</date_best_before>
@@ -3830,6 +4068,7 @@
     <beer_description>Death By C.C.C is the epitome of the Caribbean Chocolate Cake series. The 2024 edition is the richest, thickest, most indulgent so far, with aromatic Amburana wood and silky vanilla. -</beer_description>
     <beer_style>Stout - Imperial / Double Milk</beer_style>
     <beer_abv>12.2%</beer_abv>
+    <beer_volume>330 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>United Kingdom</brewery_country>
     <date_best_before>2027-10-14</date_best_before>
@@ -3846,6 +4085,7 @@
     <beer_description>Citra, El Dorado, Simcoe - White Dog Brewery - Not Afraid of Storms</beer_description>
     <beer_style>IPA - New England / Hazy</beer_style>
     <beer_abv>6.4%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>The Netherlands</brewery_country>
     <date_best_before>2026-01-03</date_best_before>
@@ -3862,6 +4102,7 @@
     <beer_description>Back to our 2016 roots, this 2024 batch is aged in Tennessee Whiskey barrels. No spices, just the barrels, malt, and hops. Aged for 2 years. -</beer_description>
     <beer_style>Stout - Russian Imperial</beer_style>
     <beer_abv>11.3%</beer_abv>
+    <beer_volume>330 ml</beer_volume>
     <beer_package>bottle</beer_package>
     <brewery_country>Hungary</brewery_country>
     <date_best_before>2031-07-12</date_best_before>
@@ -3878,6 +4119,7 @@
     <beer_description>Extravagant – brewed with maximum intensity. An abundance of roasted and raw coconut flakes creates a creamy coconut milk experience with hints of pastry. A generous 3 kg of Mexican vanilla imparts a rich ice cream-like character. Brewed with rye, wheat, and Munich malts in a robust triple mash. -</beer_description>
     <beer_style>Stout - Imperial / Double Pastry</beer_style>
     <beer_abv>12%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>The Netherlands</brewery_country>
     <date_best_before>2027-05-12</date_best_before>
@@ -3894,6 +4136,7 @@
     <beer_description>The idea of our brewer Kristóf Pető. The base is an Imperial Stout, whose distinctive chocolate notes pair well with any chocolate-inspired addition, and now it’s been given a generous amount of crushed hazelnuts and caramel. The beer itself was aged in Bourbon barrels to give the base flavors a touch of whiskey and barrel-aged finesse. -</beer_description>
     <beer_style>Stout - Imperial / Double Pastry</beer_style>
     <beer_abv>11.8%</beer_abv>
+    <beer_volume>330 ml</beer_volume>
     <beer_package>bottle</beer_package>
     <brewery_country>Hungary</brewery_country>
     <date_best_before>2031-07-12</date_best_before>
@@ -3911,6 +4154,7 @@
     <beer_description>A very special festive surprise from the Siren brew team, Death By CCC is getting the Christmas cake treatment! We've spun the decadent base beer with orange zest, tonka bean, almond extract and a blend of warming spices. Strictly limited edition. -</beer_description>
     <beer_style>Stout - Imperial / Double</beer_style>
     <beer_abv>12.2%</beer_abv>
+    <beer_volume>330 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>United Kingdom</brewery_country>
     <date_best_before>2025-11-08</date_best_before>
@@ -3927,6 +4171,7 @@
     <beer_description>Shedding Skin DDH India Pale Ale - 6,0% Bold, smooth, and flavourful, this hazy single was double dry hopped with Mosaic (DynaBoost, T-90), Chinook. Berries, kush, pine. - Sudden Death Brewing Co. - Shedding Skin</beer_description>
     <beer_style>IPA - New England / Hazy</beer_style>
     <beer_abv>6%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>Germany</brewery_country>
     <date_best_before>2026-02-05</date_best_before>
@@ -3943,6 +4188,7 @@
     <beer_description>Barrels: 8 months of aging in Rye Whiskey and Bourbon barrels Finish: Papuan Vanilla Pods, Candied Corsican Clementines &amp; Cocoa -</beer_description>
     <beer_style>Stout - Imperial / Double</beer_style>
     <beer_abv>10%</beer_abv>
+    <beer_volume>330 ml</beer_volume>
     <beer_package>bottle</beer_package>
     <brewery_country>France</brewery_country>
     <date_best_before>02/2028</date_best_before>
@@ -3960,6 +4206,7 @@
     <beer_description>X Anniversary 5/10 Pastry Sour - fifth in a series of anniversary beers brewed in collaboration with friends from Tripping Animals. Loaded with mango and blueberry, balanced by cherry and orange, this beer offers a broad spectrum of fruitiness. The addition of marshmallow and vanilla rounds out the sweetness of this vibrant composition. Using the classic kettle souring method, also favored by the collaborators, it is fermented with a traditional fruity yeast strain. Result is a nectar with a high sweetness and plenty of fun in every sip. -</beer_description>
     <beer_style>Sour - Smoothie / Pastry</beer_style>
     <beer_abv>5.5%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>Poland</brewery_country>
     <date_best_before>2025-08-10</date_best_before>
@@ -3977,6 +4224,7 @@
     <beer_description>Double Winterseed is an 8% Double IPA brewed with oats and hopped with Mosaic and Talus. We love to end the winter with this recipe but have only done the single IPA version before today. We've doubled down on the Mosaic and Talus hops to bring you the DIPA version for the first time ever and it is tasting fantastic! We get notes of creamy tangerine in this crusher. - Third Moon Brewing Company - Double Winterseed</beer_description>
     <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
     <beer_abv>8%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>Canada</brewery_country>
     <date_canned>2025-03-12</date_canned>
@@ -3994,6 +4242,7 @@
     <beer_description>The heart of the Caribbean Chocolate Cake series. Our favourite stout, originally brewed in collaboration with Cigar City Brewing, showcases hand-roasted cacao nibs harmonised by Cypress wood spirals. -</beer_description>
     <beer_style>Stout - Imperial / Double Milk</beer_style>
     <beer_abv>7.4%</beer_abv>
+    <beer_volume>330 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>United Kingdom</brewery_country>
     <date_best_before>2025-10-09</date_best_before>
@@ -4011,6 +4260,7 @@
     <beer_description>A Caribbean Chocolate Cake special inspired by rich, decadent tiramasu. Picture biscuits doused in espresso and orange liqueur, cream and marscapone whipped with melted chocolate, topped by a generous dusting of cocoa powder. -</beer_description>
     <beer_style>Stout - Imperial / Double White / Golden</beer_style>
     <beer_abv>8.4%</beer_abv>
+    <beer_volume>330 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>United Kingdom</brewery_country>
     <date_best_before>2025-10-28</date_best_before>
@@ -4028,6 +4278,7 @@
     <beer_description>This barrel-aged imperial stout is in honour of the night two of our standout dark beers first met. After 13 months maturing in Port Wine barrels, Original Sin and Konrad's stout were united to create a symphony of dark chocolate, velvety cacao, ripe cherries, and whispers of oak, all wrapped in a beautifully smooth body. -</beer_description>
     <beer_style>Stout - Imperial / Double</beer_style>
     <beer_abv>12.6%</beer_abv>
+    <beer_volume>375 ml</beer_volume>
     <beer_package>bottle</beer_package>
     <brewery_country>Norway</brewery_country>
     <date_best_before>2029-12-14</date_best_before>
@@ -4044,6 +4295,7 @@
     <beer_description>Citra, Mosaic, HBC586 (krush) - White Dog Brewery - Razor Thin Margins</beer_description>
     <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
     <beer_abv>7.4%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>The Netherlands</brewery_country>
     <date_best_before>2026-01-03</date_best_before>
@@ -4061,6 +4313,7 @@
     <beer_description>Rocky Road is the influence for this fun and flavourful Caribbean Chocolate Cake. It's dense and fudgy, with sprinklings of marshmallows, honeycomb and biscuits. Made with the help of our special guests, Vault City. NOT SUITABLE FOR VEGETARIANS -</beer_description>
     <beer_style>Stout - Imperial / Double Milk</beer_style>
     <beer_abv>7.8%</beer_abv>
+    <beer_volume>330 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>United Kingdom</brewery_country>
     <date_best_before>2025-10-28</date_best_before>
@@ -4078,6 +4331,7 @@
     <beer_description>Faire le Vide. Prendre une grande respire. Souffer un peu. C'est l'idée de cette belle double IPA brassée en collaboration avec Hops Connect Canada et houblonnée à 100% avec leur variété de Galaxy. Sous sa belle robe jaune, de doux esters de fruits de la passion, d'ananas mûrs et de goyaves se suivent et se délient sur votre palais en une relaxante danse. Laissez-vous bercer par cette belle DIPA bien onctueuse et vous aurez vous aussi droit au repos du vide. - Brasserie Sir John Brewing Co. - Faire Le Vide</beer_description>
     <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
     <beer_abv>8.5%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>Canada</brewery_country>
     <date_canned>2025-03-31</date_canned>
@@ -4095,6 +4349,7 @@
     <beer_description>If crafting hazy IPAs were martial arts, our latest collab with @NorthPark represents a twirling 360 drop kick. Presenting: Ghost-Fu! Over the years we’ve become good friends, hanging out at beer fests across the globe, and now we’ve finally teamed up with these IPA legends to brew a rad West Coast DIPA using some of the processes and procedures they do in San Diego! North Park’s Hop-Fu! is their quintessential West Coast IPA that we’ve used as a starting point for Ghost-Fu! Dosed heavily with Simcoe Dynaboost and dry-hopped with Citra, Mosaic, and Amarillo, it packs the familiar juicy punch of Ghost in the Machine but isn’t hazy and drinks smooth for a Double IPA. Hii-yah! - Parish Brewing Co. - Ghost-Fu!</beer_description>
     <beer_style>IPA - Imperial / Double</beer_style>
     <beer_abv>8%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>United States</brewery_country>
     <date_canned>2025-03-28</date_canned>
@@ -4112,6 +4367,7 @@
     <beer_description>West coast IPA. Cascade, Centennial ans Simcoe hops. - Wood Brothers Brewing Co. - Thistle Dew</beer_description>
     <beer_style>IPA - American</beer_style>
     <beer_abv>7.5%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>Canada</brewery_country>
     <untappd_id>6208805</untappd_id>
@@ -4127,6 +4383,7 @@
     <beer_description>Our new Single Hop NEIPA series focuses on single-varietal varieties. In this edition, 60kg of dry-hopped Strata delivers an explosion of stone fruit, grapefruit, and a touch of fresh herbs. It's all rounded out by a silky, crisp body. -</beer_description>
     <beer_style>IPA - New England / Hazy</beer_style>
     <beer_abv>6.8%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>Spain</brewery_country>
     <date_best_before>2026-02-24</date_best_before>
@@ -4143,6 +4400,7 @@
     <beer_description>In 1977, a pastry chef from Brittany, Henri le Roux, came up with the idea of making caramel with the addition of local sea salt. And it was just an insight. Judge for yourself, could we resist and not combine two wonderful flavors? Velvet imperial stout, chocolate notes, a little coffee and biscuit plus delicious salted caramel? -</beer_description>
     <beer_style>Stout - Imperial / Double</beer_style>
     <beer_abv>8.4%</beer_abv>
+    <beer_volume>330 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>Ukraine</brewery_country>
     <date_canned>2025-01-24</date_canned>
@@ -4160,6 +4418,7 @@
     <beer_description>This hazy has a beautiful complexity to it as a result of the vibrant blend of Mosaic, Eclipse and Idaho 7. Mosaic delivers a mango and pine one-two which is brightened up by the orange zest of Eclispe while Idaho 7 ties it all together with juicy pineapple and apricot with a hint of lemon. At an easier 6% abv, this is an incredibly drinkable IPA that delivers a hit for all of those hop addicts. -</beer_description>
     <beer_style>IPA - New England / Hazy</beer_style>
     <beer_abv>6%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>Spain</brewery_country>
     <date_best_before>2025-08-13</date_best_before>
@@ -4176,6 +4435,7 @@
     <beer_description>Our new Single Hop NEIPA series focuses on single-varietal wines. In this edition, 60kg of dry-hopped Cashmere delivers a burst of melon and citrus with a smooth coconut finish. It's all rounded out by a silky, fresh body. -</beer_description>
     <beer_style>IPA - New England / Hazy</beer_style>
     <beer_abv>6.8%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>Spain</brewery_country>
     <date_best_before>2026-01-20</date_best_before>
@@ -4193,6 +4453,7 @@
     <beer_description>Our second collab with the Sisters A. Chocolate brand: a rich double milk stout with strawberries, organic vanilla and Peruvian cacaovella. This is a smooth, delicate and creamy chocolate stout, with notes of ripe berries. -</beer_description>
     <beer_style>Stout - Imperial / Double Milk</beer_style>
     <beer_abv>7%</beer_abv>
+    <beer_volume>330 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>Ukraine</brewery_country>
     <date_canned>2025-02-03</date_canned>
@@ -4209,6 +4470,7 @@
     <beer_description>NEIPA is bursting with tropical flavors, the result of a thorough dry-hop blend of Galaxy, Mosaic, and Ekuanot hops. Highlighting notes of passion fruit, pineapple, and citrus, it offers a smooth, refreshing, and easy-drinking experience, perfect for guilt-free enjoyment. -</beer_description>
     <beer_style>IPA - New England / Hazy</beer_style>
     <beer_abv>6%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>Spain</brewery_country>
     <date_best_before>2026-01-20</date_best_before>
@@ -4225,6 +4487,7 @@
     <beer_description>Mixed-fermented rye ale, continuation of the cask series. Half of the Amalgam blend. Released in 2024. -</beer_description>
     <beer_style>Sour - Other</beer_style>
     <beer_abv>7.8%</beer_abv>
+    <beer_volume>375 ml</beer_volume>
     <beer_package>bottle</beer_package>
     <brewery_country>Ukraine</brewery_country>
     <date_best_before>2027-08-27</date_best_before>
@@ -4241,6 +4504,7 @@
     <beer_description>The pineapple is one of the most elbow-throwing fruits in the world when it comes to assertive flavours and acidity. It doesn’t wait in line, ask for directions, or care what you think. In fact, pineapples are kind of assholes. If you’ve ever experienced the joys of carving one up, you understand even better. Our challenge with this blend was to crush the spirit of the pineapple in order to have it behave like a decent member of fruit society. Balance was the goal of this blend. Fruiting rates are not one size-fits-all, so an understanding of the target pineapple profile was key for us. Despite the general constitution of the pineapple it does have many great qualities. The flavour comes from the chemical compound Ethyl Butyrate, which is a commonly occurring ester in nature. Bright like the sun, it’s best enjoyed in pleasurable doses, as over indulging burns. We feel the intensity and level we achieved in this blend is on the mark. In the end, we made a new friend in pineapple. -</beer_description>
     <beer_style>Sour - Fruited</beer_style>
     <beer_abv>7.1%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>Canada</brewery_country>
     <date_best_before>2042-12-31</date_best_before>
@@ -4257,6 +4521,7 @@
     <beer_description>Fire is a non-adjunct stout we’re particularly proud of, brewed in collaboration with Crisp Malt. We were given the privilege of using two of their heritage malts in this 100% English stout. Chevallier® Heritage Malt, grown since 1820 and the dominant barley in England until the 1920s, is the backbone of many Victorian ales. It brings deep flavours, robust maltiness and a rich marmalade-like character. Then there’s Plumage Archer® Malt, the first commercially produced crossbred barley, which had a similar impact on brewing as Chevallier. For years they stood side by side, each adding their own nuance to 20th century British beers. Our brewers love the subtle flavour and clean finish of Plumage Archer. In this brew, both malts are used in equal parts. We’ve also added Bramling Cross hops, which give notes of blackberry, spice and wood, and East Kent Goldings hops, which are earthy and slightly bitter, but also have a hint of honey. This beer is quadruple mashed to extract the most flavour from these special ingredients. The result? Clean, thick and robust. Cheers! -</beer_description>
     <beer_style>Stout - Imperial / Double</beer_style>
     <beer_abv>12%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>The Netherlands</brewery_country>
     <date_best_before>2027-10-22</date_best_before>
@@ -4273,6 +4538,7 @@
     <beer_description>Imperial Stout aged in Bourbon barrels for 17 months and conditioned on coconut flakes. -</beer_description>
     <beer_style>Stout - Imperial / Double</beer_style>
     <beer_abv>11.8%</beer_abv>
+    <beer_volume>375 ml</beer_volume>
     <beer_package>bottle</beer_package>
     <brewery_country>Denmark</brewery_country>
     <date_best_before>10/2028</date_best_before>
@@ -4289,6 +4555,7 @@
     <beer_description>A colossal rye whisky barrel aged imperial stout brewed with vanilla pods and coconut sugar. Made in collaboration with our friends from Lervig. -</beer_description>
     <beer_style>Stout - Imperial / Double</beer_style>
     <beer_abv>13.4%</beer_abv>
+    <beer_volume>330 ml</beer_volume>
     <beer_package>bottle</beer_package>
     <brewery_country>Estonia</brewery_country>
     <date_best_before>2029-02-20</date_best_before>
@@ -4305,6 +4572,7 @@
     <beer_description>A bold a brooding imperial stout aged in alder wood smoked whisky barrels. -</beer_description>
     <beer_style>Stout - Imperial / Double</beer_style>
     <beer_abv>13.6%</beer_abv>
+    <beer_volume>330 ml</beer_volume>
     <beer_package>bottle</beer_package>
     <brewery_country>Estonia</brewery_country>
     <date_best_before>2029-01-27</date_best_before>
@@ -4321,6 +4589,7 @@
     <beer_description>Een rijke en fluweelzachte imperial porter, twee jaar gerijpt op cognacvaten. -</beer_description>
     <beer_style>Porter - Imperial / Double</beer_style>
     <beer_abv>13%</beer_abv>
+    <beer_volume>330 ml</beer_volume>
     <beer_package>bottle</beer_package>
     <brewery_country>Estonia</brewery_country>
     <date_best_before>2028-10-30</date_best_before>
@@ -4337,6 +4606,7 @@
     <beer_description>A vinous imperial Baltic porter aged in Tawny port wine casks for 22 months. -</beer_description>
     <beer_style>Porter - Imperial / Double Baltic</beer_style>
     <beer_abv>11.5%</beer_abv>
+    <beer_volume>330 ml</beer_volume>
     <beer_package>bottle</beer_package>
     <brewery_country>Estonia</brewery_country>
     <date_best_before>2028-12-17</date_best_before>
@@ -4353,6 +4623,7 @@
     <beer_description>A hoppy ale brewed with Citra, Nelson, Riwaka, Motueka and hundreds of hand cut Ugandan vanilla beans. -</beer_description>
     <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
     <beer_abv>8.3%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>Sweden</brewery_country>
     <date_best_before>2026-01-03</date_best_before>
@@ -4369,6 +4640,7 @@
     <beer_description>Coffee imperial Stout Bourbon barrel aged -</beer_description>
     <beer_style>Stout - Imperial / Double Coffee</beer_style>
     <beer_abv>10.5%</beer_abv>
+    <beer_volume>330 ml</beer_volume>
     <beer_package>bottle</beer_package>
     <brewery_country>Spain</brewery_country>
     <date_best_before>2029-07-10</date_best_before>
@@ -4385,6 +4657,7 @@
     <beer_description>DIPA with Mosaic BBC and Amarillo BBC.</beer_description>
     <beer_style>IPA - Imperial / Double</beer_style>
     <beer_abv>8%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>Denmark</brewery_country>
     <date_best_before>2026-01-28</date_best_before>
@@ -4401,6 +4674,7 @@
     <beer_description>Strawberry Banana Raspberry Thickshake PULP! We’re back with a new thickshake! Continuing with creamy and sweet banana, we paired this one with the freshest strawberries and raspberries. Pours thick and creamy as you would except! Loads and loads of banana from start to finish with bright strawberries merged seamlessly throughout… we added a dose of raspberries to provide some tangyness and complexity to the mix. They also provide a beautiful color. Very cool combination of flavors if you ask us, subtle and gentle in company, but also very powerful! Flip can to mix, this beer contains high levels of fruit that may settle in the can! After mixing, let the can rest for a few minutes to avoid foaming from the can. Store cold! This beer is vegan. -</beer_description>
     <beer_style>Sour - Smoothie / Pastry</beer_style>
     <beer_abv>5%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>Sweden</brewery_country>
     <date_best_before>2027-01-01</date_best_before>
@@ -4417,6 +4691,7 @@
     <beer_description>Imperial Stout with Salted Caramel -</beer_description>
     <beer_style>Stout - Imperial / Double</beer_style>
     <beer_abv>13%</beer_abv>
+    <beer_volume>330 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>Spain</brewery_country>
     <date_best_before>2030-01-30</date_best_before>
@@ -4433,6 +4708,7 @@
     <beer_description>Hazy Double IPA hopped with Riwaka and Galaxy -</beer_description>
     <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
     <beer_abv>8%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>Latvia</brewery_country>
     <date_best_before>2026-02-28</date_best_before>
@@ -4449,6 +4725,7 @@
     <beer_description>Raspberry Whipped Cream And Honey Cranachan PULP! Collaboration with our great buddies from Vault City Brewing in Edinburgh! Flip can to mix, this beer contains high levels of fruit that may settle in the can! After mixing, let the can rest for a few minutes to avoid foaming from the can. Store cold! This beer is NOT vegan. -</beer_description>
     <beer_style>Sour - Smoothie / Pastry</beer_style>
     <beer_abv>5%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>Sweden</brewery_country>
     <date_best_before>2027-03-01</date_best_before>
@@ -4465,6 +4742,7 @@
     <beer_description>A black barley wine aged in bourbon barrels. Brewed in collaboration with Alive Brewing. -</beer_description>
     <beer_style>Barleywine - Other</beer_style>
     <beer_abv>14.8%</beer_abv>
+    <beer_volume>330 ml</beer_volume>
     <beer_package>bottle</beer_package>
     <brewery_country>Estonia</brewery_country>
     <date_best_before>2030-02-19</date_best_before>
@@ -4481,6 +4759,7 @@
     <beer_description>This Quadruple IPA is an absolute hop bomb, packed with five rounds of dry hopping for maximum aroma and flavor. Motueka brings bright lime zest and tropical fruit, while Nelson Sauvin delivers intense white grape, gooseberry, and dank complexity. Thick, juicy, and bursting with hops – this is big, bold, and unforgettable! -</beer_description>
     <beer_style>IPA - Quadruple</beer_style>
     <beer_abv>10.5%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>Latvia</brewery_country>
     <date_best_before>2026-02-28</date_best_before>
@@ -4497,6 +4776,7 @@
     <beer_description>Game over. OMNIPOLLO®️ x ALESMITH®️ x SIERRA NEVADA®️ x FIRESTONE WALKER®️ x CELLARMAKER®️ x HOP BUTCHER FOR THE WORLD®️ x ELECTRIC BREWING®️ x WILLOW PARK BREWING®️ THREE TIMES THREE™️ DOUBLE IPA (8,2%). We made it 7 friends this time + fun fact: brewed with whole citra, simcoe Dynaboost and T90 Nelson. -</beer_description>
     <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
     <beer_abv>8.2%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>Sweden</brewery_country>
     <date_best_before>2025-12-10</date_best_before>
@@ -4514,6 +4794,7 @@
     <beer_description>American Barleywine ale aged in used bourbon barrels. This one was aged 1 year in barrels. -</beer_description>
     <beer_style>Barleywine - American</beer_style>
     <beer_abv>13.7%</beer_abv>
+    <beer_volume>355 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>United States</brewery_country>
     <date_canned>2025-02-13</date_canned>
@@ -4531,6 +4812,7 @@
     <beer_description>New England IPA that highlights a trio of varieties that have helped cement the style in the brewing world: Citra, Mosaic and Simcoe, with a touch of Idaho 7. The concept was to use the Holy Trinity of hops of American origin, use them in different forms and work with modern hopping techniques. The result is an explosive NEIPA saturated with hops, yet retaining its juicy and balanced appearance. We note grapefruit, orange juice, bubble gum and tropical fruits, balanced by a resinous and slightly « dank » side. -</beer_description>
     <beer_style>IPA - New England / Hazy</beer_style>
     <beer_abv>7%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>Canada</brewery_country>
     <untappd_id>6189429</untappd_id>
@@ -4547,6 +4829,7 @@
     <beer_description>Brewed with Citra, Citra Incognito and Galaxy hops. -</beer_description>
     <beer_style>IPA - Triple New England / Hazy</beer_style>
     <beer_abv>9%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>Canada</brewery_country>
     <date_canned>2025-04-02</date_canned>
@@ -4564,6 +4847,7 @@
     <beer_description>A Sour Ale with papayas, pistachio nuts, raspberries, and vanilla soft serve. -</beer_description>
     <beer_style>Sour - Fruited</beer_style>
     <beer_abv>6.2%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>United States</brewery_country>
     <date_canned>2025-03-20</date_canned>
@@ -4581,6 +4865,7 @@
     <beer_description>Brewed with Nectaron and Riwaka -</beer_description>
     <beer_style>IPA - New England / Hazy</beer_style>
     <beer_abv>6.5%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>Canada</brewery_country>
     <date_canned>2025-03-26</date_canned>
@@ -4598,6 +4883,7 @@
     <beer_description>Steak and Eggs is an Unfiltered New Zealand DIPA brewed with a protein-rich base of flaked oats, flaked wheat, and white wheat. Being a medium-rare member of NZ Hops 'Bract Brewer Program,' we hopped this juicy steak exclusively with NZ-101. These trials help shape the future of commercial hop production in New Zealand. Think hearty breakfast from Denny's, Cracker Barrel, and Bob Evans. -</beer_description>
     <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
     <beer_abv>8%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>United States</brewery_country>
     <untappd_id>5391734</untappd_id>
@@ -4614,6 +4900,7 @@
     <beer_description>'Moist Green Organic' is an Unfiltered double dry-hopped IPA brewed with a delicate base of flaked oats, white wheat, honey malt, and a heavy whirlpool addition of Kohatu. With multiple dry hop additions of Motueka, Riwaka, Waimea, and Ekuanot, I can smell the colors outside on my lawn. 'I get so overwhelmed by olfactory hues.' Think tropical green starburst, orange skittles, and fresh squeezed clementine juice. -</beer_description>
     <beer_style>IPA - New England / Hazy</beer_style>
     <beer_abv>7.4%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>United States</brewery_country>
     <untappd_id>4785691</untappd_id>
@@ -4630,6 +4917,7 @@
     <beer_description>American Barleywine ale aged in used bourbon barrels. This one was aged 4 years in barrels. -</beer_description>
     <beer_style>Barleywine - American</beer_style>
     <beer_abv>14.5%</beer_abv>
+    <beer_volume>355 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>United States</brewery_country>
     <date_canned>2025-02-11</date_canned>
@@ -4647,6 +4935,7 @@
     <beer_description>This signature DIPA of ours features Mosaic, Strata, and El Dorado in the dry hop and pours pale gold with heavy haze. The aroma features big melon vibes on the nose, honeydew, cantaloupe, strawberry, wild flowers, rose water, fresh cut grass, and a hint of orange. The flavor follows the aroma with melon, strawberry, and flowers. -</beer_description>
     <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
     <beer_abv>8.5%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>United States</brewery_country>
     <date_canned>2025-03-24</date_canned>
@@ -4664,6 +4953,7 @@
     <beer_description>Mr. Drekker welcomes a brand new 100% Mosaic Double IPA that's just exploding with flavor. Built on a base of Golden Promise, oats, &amp; spelt, with huge bursts of mango, citrus &amp; stone fruit, this one is locked and loaded with enough Mosaic to doom us all. So, uhh, sorry, but what a way to go! -</beer_description>
     <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
     <beer_abv>8.3%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>United States</brewery_country>
     <untappd_id>3620252</untappd_id>
@@ -4680,6 +4970,7 @@
     <beer_description>A New England style Double IPA hopped with Citra and Rakau hops. -</beer_description>
     <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
     <beer_abv>8.3%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>United States</brewery_country>
     <date_canned>2025-04-07</date_canned>
@@ -4697,6 +4988,7 @@
     <beer_description>Citra, HBC 586, NZ Cascade and NZ Cascade Hop Kief -</beer_description>
     <beer_style>IPA - New England / Hazy</beer_style>
     <beer_abv>7%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>Canada</brewery_country>
     <date_canned>2025-03-26</date_canned>
@@ -4714,6 +5006,7 @@
     <beer_description>Dry hopped with Riwaka, Motueka, Nelson Sauvin, and Riwaka Hop Kief. -</beer_description>
     <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
     <beer_abv>8.5%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>United States</brewery_country>
     <date_canned>2025-03-20</date_canned>
@@ -4731,6 +5024,7 @@
     <beer_description>Sour IPA with raw wheat, malted oat, milk sugar, mango purée and vanilla beans. -</beer_description>
     <beer_style>IPA - Sour</beer_style>
     <beer_abv>6%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>United States</brewery_country>
     <date_canned>2025-03-18</date_canned>
@@ -4748,6 +5042,7 @@
     <beer_description>We dry hopped this one with Citra, Maui Nelson, and Nectaron. -</beer_description>
     <beer_style>IPA - Triple New England / Hazy</beer_style>
     <beer_abv>10%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>United States</brewery_country>
     <date_canned>2025-03-24</date_canned>
@@ -4765,6 +5060,7 @@
     <beer_description>Imperial Stout with Cacao Nibs, Roasted Peanuts, Sea Salt, and Coffee. We’ve transformed our classic Speedway Stout into a decadent peanut butter cup-inspired treat. Roasted peanuts blend with rich chocolate malts, bold coffee, and Dominican cacao nibs. The result is a perfect balance of salty, roasty peanuts and rich, decadent chocolate. Subtle sweetness, warming alcohol, and smooth chocolate create a well-rounded sip. -</beer_description>
     <beer_style>Stout - Imperial / Double Coffee</beer_style>
     <beer_abv>12%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>United States</brewery_country>
     <date_canned>2025-03-03</date_canned>
@@ -4782,6 +5078,7 @@
     <beer_description>This Barrel-Aged blend of Speedway Stout and Beer Geek Vanilla Shake has been aged in Premium Bourbon barrels with the addition of locally roasted coffee and three varieties of vanilla beans. Each sip transports your taste buds to a world of silky smoothness, where the bold flavors of coffee and vanilla dance harmoniously with the subtle hints of sweet bourbon. Mikkeller collab. -</beer_description>
     <beer_style>Stout - Imperial / Double Coffee</beer_style>
     <beer_abv>14%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>United States</brewery_country>
     <date_canned>2024-03-08</date_canned>
@@ -4799,6 +5096,7 @@
     <beer_description>DIPA brewed with Citra, Motueka &amp; Nelson Sauvin hops -</beer_description>
     <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
     <beer_abv>8%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>Canada</brewery_country>
     <date_canned>2025-04-02</date_canned>
@@ -4816,6 +5114,7 @@
     <beer_description>We fruited this thing with Strawberry, Raspberry, Blackberry, and Cherry. -</beer_description>
     <beer_style>Sour - Fruited</beer_style>
     <beer_abv>6%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>United States</brewery_country>
     <date_canned>2025-03-24</date_canned>
@@ -4833,6 +5132,7 @@
     <beer_description>American Barleywine ale aged in used bourbon barrels. This one was aged 3 years in barrels. -</beer_description>
     <beer_style>Barleywine - American</beer_style>
     <beer_abv>14%</beer_abv>
+    <beer_volume>355 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>United States</brewery_country>
     <date_canned>2025-02-11</date_canned>
@@ -4850,6 +5150,7 @@
     <beer_description>American Barleywine ale aged in used bourbon barrels. This one was aged 2 years in barrels. -</beer_description>
     <beer_style>Barleywine - American</beer_style>
     <beer_abv>14%</beer_abv>
+    <beer_volume>355 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>United States</brewery_country>
     <date_canned>2025-02-13</date_canned>
@@ -4867,6 +5168,7 @@
     <beer_description>From Underneath is our 10% ABV chocolate porter which is brewed with a rich blend of chocolate &amp; brown malts and an excessive amount of the finest chocolate we can source. Expect a medium-bodied beer that has huge notes of milk and baker's chocolate with some light cold brewed coffee on the finish. - 4.21 / 117</beer_description>
     <beer_style>Porter - Imperial / Double</beer_style>
     <beer_abv>10%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>Canada</brewery_country>
     <untappd_id>6197367</untappd_id>
@@ -4883,6 +5185,7 @@
     <beer_description>Brewed with Citra, Galaxy, El Dorado, Nectaron &amp; Nelson Sauvin hops - Hoof Hearted Brewing - South of Eleven (2025)</beer_description>
     <beer_style>IPA - Triple New England / Hazy</beer_style>
     <beer_abv>10.2%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>United States</brewery_country>
     <date_canned>2025-03-04</date_canned>
@@ -4900,6 +5203,7 @@
     <beer_description>Double IPA - Galaxy - Messorem - One Hunna : Galaxy</beer_description>
     <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
     <beer_abv>8%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>Canada</brewery_country>
     <date_canned>2025-03-18</date_canned>
@@ -4917,6 +5221,7 @@
     <beer_description>Double IPA with Citra, Amarillo, El Dorado, Motueka, &amp; Simcoe Hops -</beer_description>
     <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
     <beer_abv>8%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>United States</brewery_country>
     <date_canned>2025-03-18</date_canned>
@@ -4934,6 +5239,7 @@
     <beer_description>Separation Rage is an 11.9% Hazy Quadruple IPA brewed with oats and hopped with Citra, Mosaic and Galaxy! This Quad version of our beloved Separation Anxiety makes its return after an almost 2 year hiatus and it is drinking incredibly nice! It's soft and tropical with a full body and is completely saturated with notes of nectarine, mango and canned pineapple. -</beer_description>
     <beer_style>IPA - Quadruple</beer_style>
     <beer_abv>11.9%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>Canada</brewery_country>
     <untappd_id>6204443</untappd_id>
@@ -4950,6 +5256,7 @@
     <beer_description>Window of Opportunity pours a thiccc midnight black with a creamy mocha head. Aromas of Nutella and Fluff lead into big flavors of Hershey syrup, coconut snowballs, vanilla caramel macchiato, and graham crackers. This beer is the liquid version of Mallomar dipped in sweet coconut flakes with a silky decadent finish. -</beer_description>
     <beer_style>Stout - Imperial / Double Pastry</beer_style>
     <beer_abv>11%</beer_abv>
+    <beer_volume>500 ml</beer_volume>
     <beer_package>bottle</beer_package>
     <brewery_country>United States</brewery_country>
     <untappd_id>4485711</untappd_id>
@@ -4966,6 +5273,7 @@
     <beer_description>Welcome to the future. Our collective human consciousness, or Ghost in the Machine, has gained a tolerance for hops beyond what mankind has ever known before. This double India Pale Ale is the necessary outcome. Brewed with obscene quantities of hand-selected Citra hops from our favorite farm in Yakima Valley, WA. Expect pungent grapefruit aromas and flavors, tropical fruit, and less harsh bitterness than most DIPAs. -</beer_description>
     <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
     <beer_abv>8%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>United States</brewery_country>
     <date_canned>2025-03-27</date_canned>
@@ -4983,6 +5291,7 @@
     <beer_description>This hazy, juice-packed New England IPA was hopped with Citra, Alora, and Superdelic. It bursts with zesty orange and ripe tropical fruit like a cannonball into a glass of fresh juice. Jump in—the party’s just getting started! ? - 4.01 / 20</beer_description>
     <beer_style>IPA - New England / Hazy</beer_style>
     <beer_abv>7.7%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>United States</brewery_country>
     <date_canned>2025-03-07</date_canned>
@@ -5000,6 +5309,7 @@
     <beer_description>Citra Kong is the beast of the jungle, a Double New England IPA packed with ferocious flavor. Double dry hopped with Citra and Nectaron, it unleashes a wild burst of tropical fruit—mango, pineapple, and zesty citrus—through a thick, hazy pour. Its pillowy-soft mouthfeel belies the beastly hop intensity that follows, leaving a roaring finish that echoes like a king in the canopy. Drink with caution—Citra Kong reigns supreme. -</beer_description>
     <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
     <beer_abv>8.6%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>United States</brewery_country>
     <date_canned>2025-03-27</date_canned>
@@ -5017,6 +5327,7 @@
     <beer_description>Once more into the Snake Den with our good friends @district96beer , we have crafted Barn Snake - a creamy, hazy concoction that slithers across your taste buds with flavors of extreme citrus. Strong, punchy notes of tropical passionfruit, grapefruit, lemon and orange from the super combination of Simcoe, Riwaka and Citra. A slight touch of dank earthy funk finishes it off. It’s a triple New England IPA, so sssssssip it sssssslowly… -</beer_description>
     <beer_style>IPA - Triple New England / Hazy</beer_style>
     <beer_abv>9.4%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>United States</brewery_country>
     <date_canned>2025-03-20</date_canned>
@@ -5034,6 +5345,7 @@
     <beer_description>We are happy to introduce Cosmic Proportions, a collaboration with Modist Brewing. Cosmic Proportions is our first beer with Omega Yeast's Cosmic Punch yeast, a thiolized strain that features vibrant grapefruit, passion fruit, and guava notes through biotransformation. Cosmic Proportions uses Nelson and Citra in the whirlpool, with a Nelson, Citra, and HBC 586 combination in the dry hop. A hazy yellow pour opens up with aromas of freeze-squeezed OJ, tropical fruit skittles, and lime wedges. Flavors of guava, passionfruit, assorted citrus, mango, green grape, and lime come together in a super pillowy texture with a pop of « EQ juice » and a balanced finish. -</beer_description>
     <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
     <beer_abv>8%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>United States</brewery_country>
     <untappd_id>5263247</untappd_id>
@@ -5050,6 +5362,7 @@
     <beer_description>Bell Tree is a 10.5% Triple IPA we brewed in collaboration with our friends @bellwoodsbeer. We teamed up with the legends at Bellwoods to make a fun riff on each other's Triple IPA and used some hops we're both loving. Bell Tree is brewed with a hefty dose of oats and hopped with an excessive amount of Riwaka, Citra and Loral. A silky melange of citrus, vanilla and berries sits atop an underlying creamsicle base. -</beer_description>
     <beer_style>IPA - Triple New England / Hazy</beer_style>
     <beer_abv>10.5%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>Canada</brewery_country>
     <untappd_id>6213701</untappd_id>
@@ -5066,6 +5379,7 @@
     <beer_description>IPA - Mosaic, Galaxy, Nectaron, Citra, Citra Incognito - Messorem - Ruse Et Entete</beer_description>
     <beer_style>IPA - New England / Hazy</beer_style>
     <beer_abv>7%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>Canada</brewery_country>
     <date_canned>2025-03-31</date_canned>
@@ -5083,6 +5397,7 @@
     <beer_description>Everyone knows, of course, the famous song by Queen and the Starman, David Bowie. Few people know that they were all very close to a certain Sir John who, at the time, was only at the stage of refining his IPA recipes. This beautiful IPA, far from its British counterparts, is typical of big American juices. Hopped with NelSon Sauvin, Nelson Sauvin Cryo, Rakau, Cascade NZ and Hopkief from Southern Cross, it has also been boosted with a nice dose of honey during the boil to add roundness and creaminess to this beautiful hop bomb. So, do like Ziggy and put on your éclair or do like Freddy and don your best mustache and party on! -</beer_description>
     <beer_style>IPA - New England / Hazy</beer_style>
     <beer_abv>7%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>Canada</brewery_country>
     <date_canned>2025-03-17</date_canned>
@@ -5100,6 +5415,7 @@
     <beer_description>Wet When Slippery DIPA with Pineapple &amp; Mango. -</beer_description>
     <beer_style>IPA - Imperial / Double</beer_style>
     <beer_abv>9%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>United States</brewery_country>
     <date_canned>2025-03-25</date_canned>
@@ -5116,10 +5432,11 @@
     <beer_description>Rich, indulgent stout with flavors of pecan, maple, and coffee. We used Ethiopian coffee with light roast to let the pecan and maple syrup shine. Blended with three grades of maple syrup, each adding its own depth of sweetness, and toasted pecans for a bold, aromatic finish. This stout is perfectly balanced, with the coffee providing just enough floral notes to complement the rich, nutty profile. Cheers -</beer_description>
     <beer_style>Stout - Imperial / Double Pastry</beer_style>
     <beer_abv>10%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>The Netherlands</brewery_country>
     <date_best_before>2027-01-21</date_best_before>
     <untappd_id>6149227</untappd_id>
   </item>
-  <timestamp>1759934944</timestamp>
+  <timestamp>1759952103</timestamp>
 </feed>
