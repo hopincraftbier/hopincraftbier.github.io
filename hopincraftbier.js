@@ -31,6 +31,24 @@ try {
 }
 
 const headerDiv = document.querySelector("#tile-header-fcHJMd");
+document.addEventListener("visibilitychange", (event) => {
+    if (document.visibilityState === "visible") {
+        redirectWhenNeeded();
+        addDeliveryInfoWhenNeeded();
+        processExpectedLabels();
+        moveSubtitle();
+        addTitleAttribute();
+        if (document.querySelector('.ec-store.ec-store__product-page')) {
+            addCouponInfo();
+            soonLabel();
+            processAttributes();
+            processStock();
+        }
+        if (document.querySelector('.details-product-purchase__place')) {
+            processStock();
+        }
+    }
+});
 
 if (headerDiv) {
   redirectWhenNeeded();
@@ -59,7 +77,7 @@ if (headerDiv) {
 }
   const priceO = new MutationObserver(function(ms) {
     ms.forEach(function (m) {
-      addCouponInfo(false);
+      addCouponInfo();
       soonLabel();
       processAttributes();
       processStock();
@@ -79,7 +97,7 @@ if (headerDiv) {
           const className = m.addedNodes[i].className;
           log('added node classname: ' + className);
           if (className.indexOf('ec-store ec-store__product-page') >= 0) {
-            addCouponInfo(true);
+            addCouponInfo();
             soonLabel();
             processAttributes();
             processStock();
@@ -87,10 +105,6 @@ if (headerDiv) {
               childList: true,
               subtree: true
             });
-          } else if (className.indexOf('ec-store ec-store__category-page') >= 0 ||
-            className.indexOf('ec-store ec-store__favorites-page') >= 0 ||
-            (className.indexOf('grid-product') >= 0 && className.indexOf('grid-product__subtitle') < 0)) {
-            //addTitleAttribute();
           } else if (className.indexOf('details-product-purchase__place') >= 0) {
             processStock();
           }
@@ -266,13 +280,11 @@ function processExpectedLabels() {
   });
 }
 
-function addCouponInfo(initial) {
+function addCouponInfo() {
   log('addCouponInfo');
   const attrValSelector = '.ec-store.ec-store__product-page .details-product-attribute:nth-child($) .details-product-attribute__value';
-  if (!initial) {
-    var dc = document.querySelector('#discountContainer');
-    if (dc) dc.remove();
-  }
+  var dc = document.querySelector('#discountContainer');
+  if (dc) dc.remove();
   var c1E = document.querySelector(attrValSelector.replace('$', '1'));
   if (!c1E) return;
 
