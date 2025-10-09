@@ -198,6 +198,7 @@ div.pager__body {
 
         .grid-product__price {
             align-items: center;
+            margin-bottom: 10px;
             .grid-product__textblock.grid-product__price-label {
                 display: inline-block !important;
                 font-family: 'Bangers', system-ui;
