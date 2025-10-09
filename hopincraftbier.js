@@ -204,7 +204,10 @@ function processAttributes() {
     }
   });
   if (untappdAttrValueEl) {
-      let content = untappdAttrValueEl.textContent.trim() + ' (ratings: ' + untappdRatingVal + ', dd: ' + untappdDateVal + ')';
+      let content = untappdAttrValueEl.textContent.trim();
+      if (untappdRatingVal) {
+          content += ' (ratings: ' + untappdRatingVal + ', dd: ' + untappdDateVal + ')';
+      }
       untappdAttrValueEl.textContent = content;
   }
   if (preOrderTxt !== "" && document.querySelector('div.form-control--primary button.form-control__button span.form-control__button-text')) {
