@@ -69,6 +69,7 @@ if (headerDiv) {
     redirectWhenNeeded();
     addDeliveryInfoWhenNeeded();
     processExpectedLabels();
+    moveSubtitle();
     ms.forEach(function (m) {
     for (var i = 0; i < m.addedNodes.length; i++) {
       if (m.addedNodes[i].nodeType === Node.ELEMENT_NODE) {
@@ -80,18 +81,17 @@ if (headerDiv) {
             soonLabel();
             processAttributes();
             processStock();
-            moveSubtitle();
             priceO.observe(document.querySelector('div.product-details__product-price.ec-price-item'), {
               childList: true,
               subtree: true
             });
           } else if (className.indexOf('grid__wrap-inner') >= 0) {
-            moveSubtitle();
+            // moveSubtitle();
           } else if (className.indexOf('ec-store ec-store__category-page') >= 0 ||
             className.indexOf('ec-store ec-store__favorites-page') >= 0 ||
             (className.indexOf('grid-product') >= 0 && className.indexOf('grid-product__subtitle') < 0)) {
             addTitleAttribute();
-            moveSubtitle();
+            // moveSubtitle();
           } else if (className.indexOf('details-product-purchase__place') >= 0) {
             processStock();
           }
@@ -299,7 +299,6 @@ function addCouponInfo(initial) {
 }
 
 function moveSubtitle() {
-  redirectWhenNeeded();
   log('moveSubtitle');
   document.querySelectorAll('div.grid-product__wrap-inner > div.grid-product__subtitle').forEach(function (p) {
     var imgWrapElement = p.parentElement.querySelector('div.grid-product__image-wrap');
