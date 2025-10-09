@@ -68,10 +68,7 @@ if (headerDiv) {
   var cartTotalMo = new MutationObserver(function(ms) {
     redirectWhenNeeded();
     addDeliveryInfoWhenNeeded();
-    addTitleAttribute();
     processExpectedLabels();
-    soonLabel();
-    moveSubtitle();
     ms.forEach(function (m) {
     for (var i = 0; i < m.addedNodes.length; i++) {
       if (m.addedNodes[i].nodeType === Node.ELEMENT_NODE) {
@@ -80,12 +77,21 @@ if (headerDiv) {
           log('added node classname: ' + className);
           if (className.indexOf('ec-store ec-store__product-page') >= 0) {
             addCouponInfo(true);
+            soonLabel();
             processAttributes();
             processStock();
+            moveSubtitle();
             priceO.observe(document.querySelector('div.product-details__product-price.ec-price-item'), {
               childList: true,
               subtree: true
             });
+          } else if (className.indexOf('grid__wrap-inner') >= 0) {
+            moveSubtitle();
+          } else if (className.indexOf('ec-store ec-store__category-page') >= 0 ||
+            className.indexOf('ec-store ec-store__favorites-page') >= 0 ||
+            (className.indexOf('grid-product') >= 0 && className.indexOf('grid-product__subtitle') < 0)) {
+            addTitleAttribute();
+            moveSubtitle();
           } else if (className.indexOf('details-product-purchase__place') >= 0) {
             processStock();
           }
@@ -293,6 +299,7 @@ function addCouponInfo(initial) {
 }
 
 function moveSubtitle() {
+  redirectWhenNeeded();
   log('moveSubtitle');
   document.querySelectorAll('div.grid-product__wrap-inner div.grid-product__subtitle').forEach(function (p) {
     var imgWrapElement = p.parentElement.querySelector('div.grid-product__image-wrap');
@@ -340,10 +347,8 @@ function addDeliveryInfoWhenNeeded() {
 function addTitleAttribute() {
    log('addTitleAttribute');
     document.querySelectorAll('.grid__categories .grid-category__title-inner').forEach(function (p) {
-        if (!p.hasAttribute("title")) {
-            const txt = p.textContent.trim();
-            p.setAttribute("title", txt);
-        }
+        const txt = p.textContent.trim();
+        p.setAttribute("title", txt);
     });
 }
 
