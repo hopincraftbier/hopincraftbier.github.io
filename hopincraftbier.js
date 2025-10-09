@@ -68,7 +68,10 @@ if (headerDiv) {
   var cartTotalMo = new MutationObserver(function(ms) {
     redirectWhenNeeded();
     addDeliveryInfoWhenNeeded();
+    addTitleAttribute();
     processExpectedLabels();
+    soonLabel();
+    moveSubtitle();
     ms.forEach(function (m) {
     for (var i = 0; i < m.addedNodes.length; i++) {
       if (m.addedNodes[i].nodeType === Node.ELEMENT_NODE) {
@@ -77,27 +80,12 @@ if (headerDiv) {
           log('added node classname: ' + className);
           if (className.indexOf('ec-store ec-store__product-page') >= 0) {
             addCouponInfo(true);
-            soonLabel();
             processAttributes();
-            // processExpectedLabels();
             processStock();
-            moveSubtitle();
             priceO.observe(document.querySelector('div.product-details__product-price.ec-price-item'), {
               childList: true,
               subtree: true
             });
-          } else if (className.indexOf('grid__wrap-inner') >= 0) {
-            moveSubtitle();
-          } else if (className.indexOf('ec-store ec-store__category-page') >= 0 ||
-            className.indexOf('ec-store ec-store__favorites-page') >= 0 ||
-            (className.indexOf('grid-product') >= 0 && className.indexOf('grid-product__subtitle') < 0)) {
-            // processExpectedLabels();
-            addTitleAttribute();
-            moveSubtitle();
-          } else if (className.indexOf('ec-store ec-store__search-page') >= 0) {
-            // processExpectedLabels();
-          } else if (className.indexOf('ec-related-products') >= 0) {
-            // processExpectedLabels();
           } else if (className.indexOf('details-product-purchase__place') >= 0) {
             processStock();
           }
@@ -247,11 +235,11 @@ function soonLabel() {
       }
     }
     var soldOutEl2 = document.querySelector('div.product-details-module__title.details-product-purchase__sold-out');
-    if (soldOutEl2) {
+    if (soldOutEl2 && soldOutEl2.textContent !== verwachtTxt) {
       soldOutEl2.textContent = verwachtTxt;
     }
     var soldOutTxt = document.querySelector('div.details-product-purchase__place');
-    if (soldOutTxt) soldOutTxt.style.display = 'none'
+    if (soldOutTxt && soldOutTxt.style.display !== 'none') soldOutTxt.style.display = 'none'
   }
 }
 
@@ -305,7 +293,6 @@ function addCouponInfo(initial) {
 }
 
 function moveSubtitle() {
-  redirectWhenNeeded();
   log('moveSubtitle');
   document.querySelectorAll('div.grid-product__wrap-inner div.grid-product__subtitle').forEach(function (p) {
     var imgWrapElement = p.parentElement.querySelector('div.grid-product__image-wrap');
@@ -353,8 +340,10 @@ function addDeliveryInfoWhenNeeded() {
 function addTitleAttribute() {
    log('addTitleAttribute');
     document.querySelectorAll('.grid__categories .grid-category__title-inner').forEach(function (p) {
-        const txt = p.textContent.trim();
-        p.setAttribute("title", txt);
+        if (!p.hasAttribute("title")) {
+            const txt = p.textContent.trim();
+            p.setAttribute("title", txt);
+        }
     });
 }
 
