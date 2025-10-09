@@ -68,6 +68,7 @@ if (headerDiv) {
   var cartTotalMo = new MutationObserver(function(ms) {
     redirectWhenNeeded();
     addDeliveryInfoWhenNeeded();
+    processExpectedLabels();
     ms.forEach(function (m) {
     for (var i = 0; i < m.addedNodes.length; i++) {
       if (m.addedNodes[i].nodeType === Node.ELEMENT_NODE) {
@@ -78,7 +79,7 @@ if (headerDiv) {
             addCouponInfo(true);
             soonLabel();
             processAttributes();
-            processExpectedLabels();
+            // processExpectedLabels();
             processStock();
             moveSubtitle();
             priceO.observe(document.querySelector('div.product-details__product-price.ec-price-item'), {
@@ -90,13 +91,13 @@ if (headerDiv) {
           } else if (className.indexOf('ec-store ec-store__category-page') >= 0 ||
             className.indexOf('ec-store ec-store__favorites-page') >= 0 ||
             (className.indexOf('grid-product') >= 0 && className.indexOf('grid-product__subtitle') < 0)) {
-            processExpectedLabels();
+            // processExpectedLabels();
             addTitleAttribute();
             moveSubtitle();
           } else if (className.indexOf('ec-store ec-store__search-page') >= 0) {
-            processExpectedLabels();
+            // processExpectedLabels();
           } else if (className.indexOf('ec-related-products') >= 0) {
-            processExpectedLabels();
+            // processExpectedLabels();
           } else if (className.indexOf('details-product-purchase__place') >= 0) {
             processStock();
           }
@@ -263,7 +264,10 @@ function processExpectedLabels() {
     if (buyNowEl?.textContent === 'Sold out' || buyNowEl?.textContent === 'Uitverkocht') {
       buyNowEl.style.display = 'none';
       if (document.querySelector('h1.page-title__name.ec-header-h1')?.textContent.trim() !== 'Pre-order') {
-        p.querySelector('div.grid-product__price').style.display = 'none';
+          let priceEl = p.querySelector('div.grid-product__price');
+          if (priceEl.style.display !== 'none') {
+              p.querySelector('div.grid-product__price').style.display = 'none';
+          }
       }
     }
   });
