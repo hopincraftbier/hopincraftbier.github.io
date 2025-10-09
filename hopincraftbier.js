@@ -68,6 +68,9 @@ if (headerDiv) {
   var cartTotalMo = new MutationObserver(function(ms) {
     redirectWhenNeeded();
     addDeliveryInfoWhenNeeded();
+    processExpectedLabels();
+    moveSubtitle();
+    addTitleAttribute();
     ms.forEach(function (m) {
     for (var i = 0; i < m.addedNodes.length; i++) {
       if (m.addedNodes[i].nodeType === Node.ELEMENT_NODE) {
@@ -78,25 +81,11 @@ if (headerDiv) {
             addCouponInfo(true);
             soonLabel();
             processAttributes();
-            processExpectedLabels();
             processStock();
-            moveSubtitle();
             priceO.observe(document.querySelector('div.product-details__product-price.ec-price-item'), {
               childList: true,
               subtree: true
             });
-          } else if (className.indexOf('grid__wrap-inner') >= 0) {
-            moveSubtitle();
-          } else if (className.indexOf('ec-store ec-store__category-page') >= 0 ||
-            className.indexOf('ec-store ec-store__favorites-page') >= 0 ||
-            (className.indexOf('grid-product') >= 0 && className.indexOf('grid-product__subtitle') < 0)) {
-            processExpectedLabels();
-            addTitleAttribute();
-            moveSubtitle();
-          } else if (className.indexOf('ec-store ec-store__search-page') >= 0) {
-            processExpectedLabels();
-          } else if (className.indexOf('ec-related-products') >= 0) {
-            processExpectedLabels();
           } else if (className.indexOf('details-product-purchase__place') >= 0) {
             processStock();
           }
