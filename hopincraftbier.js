@@ -233,7 +233,7 @@ function soonLabel() {
     });
   if (!preorderSoldOut && (notSoldOut || (document.querySelector('div.product-details__product-price.ec-price-item')?.getAttribute('content') === "0" && document.querySelector('div.product-details__product-soldout')))) {
     var soldOutEl = document.querySelector('div.ec-label.label--flag.label--attention div.label__text');
-    if (soldOutEl) {
+    if (soldOutEl && (soldOutEl.textContent !== 'Verwacht' || soldOutEl.textContent !== 'Expected')) {
       if (soldOutEl.textContent === 'Uitverkocht') {
         soldOutEl.textContent = 'Verwacht';
       } else {
@@ -301,7 +301,7 @@ function addCouponInfo(initial) {
 function moveSubtitle() {
   redirectWhenNeeded();
   log('moveSubtitle');
-  document.querySelectorAll('div.grid-product__wrap-inner div.grid-product__subtitle').forEach(function (p) {
+  document.querySelectorAll('div.grid-product__wrap-inner > div.grid-product__subtitle').forEach(function (p) {
     var imgWrapElement = p.parentElement.querySelector('div.grid-product__image-wrap');
     if (imgWrapElement) {
       imgWrapElement.parentElement.insertBefore(p, imgWrapElement.lastChild.nextSibling);
