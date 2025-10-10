@@ -38,6 +38,7 @@ document.addEventListener("visibilitychange", (event) => {
         processExpectedLabels();
         moveSubtitle();
         addTitleAttribute();
+        renameBuyButtonToPreorder();
         if (document.querySelector('.ec-store.ec-store__product-page')) {
             addCouponInfo();
             soonLabel();
@@ -89,6 +90,7 @@ if (headerDiv) {
     processExpectedLabels();
     moveSubtitle();
     addTitleAttribute();
+    renameBuyButtonToPreorder();
 
     ms.forEach(function (m) {
     for (var i = 0; i < m.addedNodes.length; i++) {
@@ -359,6 +361,21 @@ function addTitleAttribute() {
     document.querySelectorAll('.grid__categories .grid-category__title-inner').forEach(function (p) {
         if (!p.hasAttribute("title")) {
             p.setAttribute("title", p.textContent.trim());
+        }
+    });
+}
+
+function renameBuyButtonToPreorder() {
+    log('renameBuyButtonToPreorder');
+    document.querySelectorAll('.grid__products .grid-product').forEach(function (p) {
+            let buttonTextEl = p.querySelector('.grid__products .grid-product .form-control__button-text');
+        if (buttonTextEl) {
+            if (buttonTextEl.textContent !== 'Pre-order') {
+                let labelEl = p.querySelector('.grid-product__label');
+                if (labelEl && labelEl.className.indexOf('grid-product__label--') >= 0 && labelEl.className.indexOf('grid-product__label--Nieuw') < 0) {
+                    buttonTextEl.textContent = 'Pre-order';
+                }
+            }
         }
     });
 }
