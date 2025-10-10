@@ -2340,25 +2340,6 @@
     <untappd_id>6274029</untappd_id>
   </item>
   <item>
-    <id>998</id>
-    <ecommerce_id>754081693</ecommerce_id>
-    <title>Pack</title>
-    <url>https://hopincraftbier.be/products/garage-beer-co-pack</url>
-    <price>7.3</price>
-    <brewery_name>Garage Beer Co.</brewery_name>
-    <regular_price>21.63</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4942801967.png</image>
-    <beer_description>De Garage Beer Co. pack consists of: - Nawi - Leo - Zambo</beer_description>
-    <beer_style>IPA</beer_style>
-    <beer_abv>6 - 8%</beer_abv>
-    <beer_volume>3x440 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Spain</brewery_country>
-    <beer_package_count>3</beer_package_count>
-    <beer_bundle>1</beer_bundle>
-    <bundle_skus>6156435,6156437,6150253</bundle_skus>
-  </item>
-  <item>
     <id>6189005</id>
     <ecommerce_id>752744063</ecommerce_id>
     <title>Vilify</title>
@@ -5296,6 +5277,6 @@
     <brewery_country>The Netherlands</brewery_country>
     <untappd_id>6149227</untappd_id>
   </item>
-  <timestamp>1760108104</timestamp>
-  <gen_date>10/10/2025 16:55:04</gen_date>
+  <timestamp>1760124605</timestamp>
+  <gen_date>10/10/2025 21:30:05</gen_date>
 </feed>
