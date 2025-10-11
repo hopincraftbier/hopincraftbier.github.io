@@ -426,9 +426,6 @@ div.ec-cart-step--address, div.ec-cart-step--delivery {
         margin-top: 0.5em;
         font-size: 16px;
     }
-    .ec-radiogroup__item--disabled {
-        display:none !important;
-    }
 }
 #tile-product-details:has(div.ecwid-productBrowser-CartPage),
 #tile-product-details:has(div.ec-store__checkout-page),
