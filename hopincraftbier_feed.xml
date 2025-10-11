@@ -2013,10 +2013,10 @@
     <untappd_id>6250418</untappd_id>
   </item>
   <item>
-    <id>6240932</id>
+    <id>6240932_2</id>
     <ecommerce_id>756989443</ecommerce_id>
     <title>12yr Wild Turkey BA Dark Matter (2025)</title>
-    <url>https://hopincraftbier.be/products/barreled-souls-brewing-company-12yr-wild-turkey-ba-dark-matter-2025</url>
+    <url>https://hopincraftbier.be/products/barreled-souls-brewing-company-12yr-wild-turkey-ba-dark-matter-2025-2</url>
     <price>32.96</price>
     <brewery_name>Barreled Souls Brewing Company</brewery_name>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4965750515.webp</image>
@@ -2027,7 +2027,6 @@
     <beer_package>bottle</beer_package>
     <brewery_country>United States</brewery_country>
     <date_canned>2025-04-07</date_canned>
-    <untappd_id>6240932</untappd_id>
   </item>
   <item>
     <id>4744499</id>
@@ -5277,6 +5276,6 @@
     <brewery_country>The Netherlands</brewery_country>
     <untappd_id>6149227</untappd_id>
   </item>
-  <timestamp>1760162405</timestamp>
-  <gen_date>11/10/2025 08:00:05</gen_date>
+  <timestamp>1760164241</timestamp>
+  <gen_date>11/10/2025 08:30:41</gen_date>
 </feed>
