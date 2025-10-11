@@ -428,6 +428,9 @@ div.ec-cart-step--address, div.ec-cart-step--delivery {
     }
     .ec-radiogroup__item--disabled {
         background: rgb(232,232,232);
+        .ec-radiogroup__text div:first-child {
+            display:none;
+        }
     }
 }
 #tile-product-details:has(div.ecwid-productBrowser-CartPage),
