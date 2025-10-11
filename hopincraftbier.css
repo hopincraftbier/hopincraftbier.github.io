@@ -206,12 +206,12 @@ div.pager__body {
                 color: red;
                 letter-spacing: 1px;
                 font-size: 16px;
-                transform: translateY(5px) rotate(-25deg);
-                -webkit-transform: translateY(5px) rotate(-25deg);
-                -moz-transform: translateY(5px) rotate(-25deg);
-                -ms-transform: translateY(5px) rotate(-25deg);
-                -o-transform: translateY(5px) rotate(-25deg);
-                -khtml-transform: translateY(5px) rotate(-25deg);
+                transform: translateY(5px) rotate(-15deg);
+                -webkit-transform: translateY(5px) rotate(-15deg);
+                -moz-transform: translateY(5px) rotate(-15deg);
+                -ms-transform: translateY(5px) rotate(-15deg);
+                -o-transform: translateY(5px) rotate(-15deg);
+                -khtml-transform: translateY(5px) rotate(-15deg);
                 padding-left: 15px !important;
             }
             .grid-product__price-value {
