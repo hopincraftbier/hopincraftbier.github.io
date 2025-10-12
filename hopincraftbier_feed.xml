@@ -748,7 +748,7 @@
     <url>https://hopincraftbier.be/products/messorem-temporalis-0039-1</url>
     <price>11.92</price>
     <brewery_name>Messorem</brewery_name>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5145653961.webp</image>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5260716002.webp</image>
     <beer_description>Triple IPA - Superdelic, Nelson Sauvin, Citra, Citra Incognito Messorem - Temporalis #0039</beer_description>
     <beer_style>IPA - Triple New England / Hazy</beer_style>
     <beer_abv>10%</beer_abv>
@@ -1239,7 +1239,7 @@
     <url>https://hopincraftbier.be/products/goose-island-beer-co-bourbon-county-brand-30th-anniversary-reserve-stout-2022-1</url>
     <price>29.01</price>
     <brewery_name>Goose Island Beer Co.</brewery_name>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5145573757.webp</image>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5260703454.webp</image>
     <beer_description>Going back to the inception of Bourbon County Stout, the 30th Anniversary Stout is aged from a blend of Jim Beam barrels from their Small Batch Bourbon Collection barrels. Each of the remarkable bourbon barrels offer characteristics unique to each bourbon's distinct nuances. Barrels: 36% Booker's 33% Knob Creek, 17% Basil Hayden, 14% Baker's Goose Island Beer Co. - Bourbon County Brand 30th Anniversary Reserve Stout (2022)</beer_description>
     <beer_style>Stout - Imperial / Double</beer_style>
     <beer_abv>14.4%</beer_abv>
@@ -1322,7 +1322,7 @@
     <url>https://hopincraftbier.be/products/transient-artisan-ales-kentuckley-2024-1</url>
     <price>31.05</price>
     <brewery_name>Transient Artisan Ales</brewery_name>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5145553570.webp</image>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5260703484.webp</image>
     <beer_description>Transient Artisan Ales - Kentuckley (2024)</beer_description>
     <beer_style>Stout - Imperial / Double</beer_style>
     <beer_abv>14.5%</beer_abv>
@@ -5277,6 +5277,6 @@
     <brewery_country>The Netherlands</brewery_country>
     <untappd_id>6149227</untappd_id>
   </item>
-  <timestamp>1760194938</timestamp>
-  <gen_date>11/10/2025 17:02:18</gen_date>
+  <timestamp>1760272205</timestamp>
+  <gen_date>12/10/2025 14:30:05</gen_date>
 </feed>
