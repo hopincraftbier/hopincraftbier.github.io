@@ -364,6 +364,102 @@
     <untappd_id>6362970</untappd_id>
   </item>
   <item>
+    <id>6404035</id>
+    <ecommerce_id>784590102</ecommerce_id>
+    <title>Genesis</title>
+    <url>https://hopincraftbier.be/products/basqueland-brewing-genesis</url>
+    <price>6.13</price>
+    <brewery_name>Basqueland Brewing</brewery_name>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5242233040.webp</image>
+    <beer_description>Genesis is a Hazy IPA that pours a pale golden color. It has a dry-hop of Palisade and Cashmere hops, which creates a kaleidoscope of aromas with notes of ripe melon, pineapple, and fresh-cut grass. Each sip reveals a soft body that fills the palate with refreshing fruity and floral flavors. A micro-universe of compounds for a universe of flavors. Basqueland Brewing - Genesis</beer_description>
+    <beer_style>IPA - New England / Hazy</beer_style>
+    <beer_abv>5.8%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Spain</brewery_country>
+    <untappd_id>6404035</untappd_id>
+  </item>
+  <item>
+    <id>6402383</id>
+    <ecommerce_id>784587841</ecommerce_id>
+    <title>TopTen</title>
+    <url>https://hopincraftbier.be/products/basqueland-brewing-topten</url>
+    <price>7.15</price>
+    <brewery_name>Basqueland Brewing</brewery_name>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5242233052.webp</image>
+    <beer_description>For ten years, our mission has been to brew exceptional beers. To celebrate this milestone, we've created Top Ten, the centerpiece of our anniversary series and the official beer of our tenth birthday. This commemorative DDH DIPA represents everything we've learned and everything we're passionate about. Its design is a tribute to the landscapes, flora, and fauna of the Basque Country, which make our land so special. We've selected the best hops to give it a lush and powerful character, with 25g/L of hops that highlight the intense tropical notes accompanied by red fruits like currants, with an intense 'dank' character and a rounded flavor that take the beer straight to the top. Basqueland Brewing - TopTen</beer_description>
+    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
+    <beer_abv>8%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Spain</brewery_country>
+    <untappd_id>6402383</untappd_id>
+  </item>
+  <item>
+    <id>3483906</id>
+    <ecommerce_id>784594095</ecommerce_id>
+    <title>Winner Winner Citra Dinner</title>
+    <url>https://hopincraftbier.be/products/basqueland-brewing-winner-winner-citra-dinner</url>
+    <price>7.15</price>
+    <brewery_name>Basqueland Brewing</brewery_name>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5242222879.webp</image>
+    <beer_description>10th ANNIVERSARY SERIES: 10 beers, 10 moments that made history. To celebrate our 10th anniversary, we’ve brought back Winner Winner Citra Dinner, one of the most influential beers in our history. We were pioneers in combining different formats of the same hop to maximize its aromatic power. In this case, it’s all about Citra. We’ve blended Citra T90, Citra BBC, Citra Cryo, Citra Incognito, and Citra Hyperboost to unleash a winning intensity and range of aromas: grapefruit, lime, guava, passion fruit, along with resinous and “dank” notes. It’s a true celebration of one of our most beloved hops. Basqueland Brewing - Winner Winner Citra Dinner</beer_description>
+    <beer_style>IPA - Imperial / Double</beer_style>
+    <beer_abv>8.6%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Spain</brewery_country>
+    <untappd_id>3483906</untappd_id>
+  </item>
+  <item>
+    <id>6423967</id>
+    <ecommerce_id>784587840</ecommerce_id>
+    <title>Omnivore</title>
+    <url>https://hopincraftbier.be/products/basqueland-brewing-omnivore</url>
+    <price>6.41</price>
+    <brewery_name>Basqueland Brewing</brewery_name>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5242208483.webp</image>
+    <beer_description>Our brewers, in a stroke of genius, have forged a new path, crafting a Vegan Oat Cream IPA so smooth it feels like a dream. We bypassed the trad ways, skipping the lactose and let the colossal dose of oats make its magic. The result is a body as soft and boundless as a cloud. It's bursting with intense tropical aromas of passion fruit, and mango balanced with a 'dank' hemp profile. A truly snackable hop bite with a oat heart. Basqueland Brewing - Omnivore</beer_description>
+    <beer_style>IPA - Other</beer_style>
+    <beer_abv>6.2%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Spain</brewery_country>
+    <untappd_id>6423967</untappd_id>
+  </item>
+  <item>
+    <id>6415743</id>
+    <ecommerce_id>784475150</ecommerce_id>
+    <title>Phases</title>
+    <url>https://hopincraftbier.be/products/factory-brewing-phases</url>
+    <price>7.51</price>
+    <brewery_name>Factory Brewing</brewery_name>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5260444040.webp</image>
+    <beer_description>A Hazy DIPA with Nectaron, Motueka &amp; Bru-1. 'Like the moon, we can think that hops have different phases, varying with each crop year, from the picking window to the soil they were grown in. This DIPA is dry hopped with a new Motueka, Nectaron and Bru-1 batch we received, with loads of NZ funk and a hefty amount of fruitiness, like lime, pineapple and stone fruits.' Head Brewer Jirka Ordén Factory Brewing - Phases</beer_description>
+    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
+    <beer_abv>8%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Finland</brewery_country>
+    <untappd_id>6415743</untappd_id>
+  </item>
+  <item>
+    <id>6415742</id>
+    <ecommerce_id>784475149</ecommerce_id>
+    <title>Effortless Motion</title>
+    <url>https://hopincraftbier.be/products/factory-brewing-effortless-motion</url>
+    <price>7.85</price>
+    <brewery_name>Factory Brewing</brewery_name>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5260443313.webp</image>
+    <beer_description>A Hazy TIPA with Motueka, Riwaka &amp; Vic Secret. 'We continue our Triple IPAs with Effortless Motion, hopped with Motueka, Riwaka &amp; Vic Secret. Absolutely love this hop combo! Motueka builds the 'factory foundation' and Riwaka brings the brightness that TIPAs need. Vic Secret is really beautiful with its bright pineapple aromas.' Head Brewer Jirka Ordén Factory Brewing - Effortless Motion</beer_description>
+    <beer_style>IPA - Triple New England / Hazy</beer_style>
+    <beer_abv>10%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Finland</brewery_country>
+    <untappd_id>6415742</untappd_id>
+  </item>
+  <item>
     <id>979</id>
     <ecommerce_id>782350599</ecommerce_id>
     <title>IPA Pack</title>
@@ -913,6 +1009,38 @@
     <brewery_country>United States</brewery_country>
     <date_canned>2025-05-29</date_canned>
     <untappd_id>2322089</untappd_id>
+  </item>
+  <item>
+    <id>6381462</id>
+    <ecommerce_id>777450537</ecommerce_id>
+    <title>My Favorite Things</title>
+    <url>https://hopincraftbier.be/products/factory-brewing-my-favorite-things</url>
+    <price>7.21</price>
+    <brewery_name>Factory Brewing</brewery_name>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5260426097.webp</image>
+    <beer_description>A Hazy IPA with Motueka &amp; Nelson Sauvin 'The 2025 crops of Motueka and Nelson are here, so of course I need to put my favorite things together. Tons of saturated aroma in this one, expect white wine, grapefruit, lime, melon and some nice earthy funkiness.' Head Brewer Jirka Ordén Factory Brewing - My Favorite Things</beer_description>
+    <beer_style>IPA - New England / Hazy</beer_style>
+    <beer_abv>7.3%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Finland</brewery_country>
+    <untappd_id>6381462</untappd_id>
+  </item>
+  <item>
+    <id>6366648</id>
+    <ecommerce_id>777450053</ecommerce_id>
+    <title>Daydreamer 2025</title>
+    <url>https://hopincraftbier.be/products/factory-brewing-daydreamer-2025</url>
+    <price>7.51</price>
+    <brewery_name>Factory Brewing</brewery_name>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5260443289.webp</image>
+    <beer_description>A Hazy DIPA with Nelson Sauvin &amp; Mosaic. 'This is a new batch of our Daydreamer Hazy DIPA with Nelson Sauvin and Mosaic. This recipe was originally brewed in our previous location. This beer stood out with its beautiful hop profile and label. So I need to have another round with this recipe, enjoy!' Head Brewer Jirka Ordén Factory Brewing - Daydreamer 2025</beer_description>
+    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
+    <beer_abv>8%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Finland</brewery_country>
+    <untappd_id>6366648</untappd_id>
   </item>
   <item>
     <id>6055618_1</id>
@@ -5277,6 +5405,6 @@
     <brewery_country>The Netherlands</brewery_country>
     <untappd_id>6149227</untappd_id>
   </item>
-  <timestamp>1760362205</timestamp>
-  <gen_date>13/10/2025 15:30:05</gen_date>
+  <timestamp>1760364004</timestamp>
+  <gen_date>13/10/2025 16:00:04</gen_date>
 </feed>
