@@ -441,6 +441,7 @@
     <beer_volume>440 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>Finland</brewery_country>
+    <date_canned>2025-09-16</date_canned>
     <untappd_id>6415743</untappd_id>
   </item>
   <item>
@@ -457,6 +458,7 @@
     <beer_volume>440 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>Finland</brewery_country>
+    <date_canned>2026-09-16</date_canned>
     <untappd_id>6415742</untappd_id>
   </item>
   <item>
@@ -1024,6 +1026,7 @@
     <beer_volume>440 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>Finland</brewery_country>
+    <date_canned>2025-08-12</date_canned>
     <untappd_id>6381462</untappd_id>
   </item>
   <item>
@@ -1040,6 +1043,7 @@
     <beer_volume>440 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>Finland</brewery_country>
+    <date_canned>2025-08-05</date_canned>
     <untappd_id>6366648</untappd_id>
   </item>
   <item>
@@ -5405,6 +5409,6 @@
     <brewery_country>The Netherlands</brewery_country>
     <untappd_id>6149227</untappd_id>
   </item>
-  <timestamp>1760365805</timestamp>
-  <gen_date>13/10/2025 16:30:05</gen_date>
+  <timestamp>1760367604</timestamp>
+  <gen_date>13/10/2025 17:00:04</gen_date>
 </feed>
