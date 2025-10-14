@@ -885,6 +885,25 @@ div.details-product-price-compare__container {
     padding: 5px;
 }
 
+.del_info_table .country, .del_info_table .shippingmethod, .del_info_table .ordervalue {
+    width: 20%;
+}
+.del_info_table .weight {
+    width: calc(60%/7);
+}
+.del_info_table.other1 {
+    margin-bottom: 0;
+}
+.del_info_table.other2,.del_info_table.other3.del_info_table.other4 {
+    border-top:0;
+    margin-top:0;
+    margin-bottom: 0;
+}
+.del_info_table.other5 {
+    margin-top:0;
+    border-top:0;
+}
+
 .del_info_table td {
     border: 1px solid #dededf;
     color: #000000;
