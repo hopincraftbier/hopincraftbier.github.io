@@ -833,7 +833,7 @@ div.details-product-price-compare__container {
 }
 .del_info_table {
     overflow: auto;
-    width: 80%;
+    width: 60%;
     margin: auto;
 }
 
@@ -906,6 +906,7 @@ div.details-product-price-compare__container {
     table {
         border-top:0 !important;
     }
+    margin-bottom: 40px;
 }
 
 .del_info_table td {
