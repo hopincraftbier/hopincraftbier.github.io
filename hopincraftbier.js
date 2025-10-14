@@ -34,12 +34,12 @@ const headerDiv = document.querySelector("#tile-header-fcHJMd");
 document.addEventListener("visibilitychange", (event) => {
     if (document.visibilityState === "visible") {
         redirectWhenNeeded();
+        translateDeliveryInfoTable();
         addDeliveryInfoWhenNeeded();
         processExpectedLabels();
         moveSubtitle();
         addTitleAttribute();
         renameBuyButtonToPreorder();
-        translateDeliveryInfoTable();
         if (document.querySelector('.ec-store.ec-store__product-page')) {
             addCouponInfo();
             soonLabel();
@@ -87,12 +87,12 @@ if (headerDiv) {
   });
   var cartTotalMo = new MutationObserver(function(ms) {
     redirectWhenNeeded();
+    translateDeliveryInfoTable();
     addDeliveryInfoWhenNeeded();
     processExpectedLabels();
     moveSubtitle();
     addTitleAttribute();
     renameBuyButtonToPreorder();
-    translateDeliveryInfoTable();
 
     ms.forEach(function (m) {
     for (var i = 0; i < m.addedNodes.length; i++) {
