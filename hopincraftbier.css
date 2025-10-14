@@ -892,16 +892,16 @@ div.details-product-price-compare__container {
     width: calc(60%/7);
 }
 .del_info_table.other1 {
-    margin-bottom: 0;
+    margin-bottom: 0 !important;
 }
 .del_info_table.other2,.del_info_table.other3.del_info_table.other4 {
-    border-top:0;
-    margin-top:0;
-    margin-bottom: 0;
+    border-top:0 !important;
+    margin-top:0 !important;
+    margin-bottom: 0 !important;
 }
 .del_info_table.other5 {
-    margin-top:0;
-    border-top:0;
+    margin-top:0 !important;
+    border-top:0 !important;
 }
 
 .del_info_table td {
