@@ -408,9 +408,6 @@ div.pager__body {
 #tile-location-aAsHPC div.ins-tile__wrap {
     margin-top: 20px;
 }
-#tile-feature-list-fjNnsD div.ins-tile__wrap {
-    margin-bottom: 20px;
-}
 /* == end delivery == */
 
 /* == start cart == */
@@ -831,8 +828,13 @@ div.details-product-price-compare__container {
         }
     }
 }
-#tile-feature-list-fjNnsD .ins-tile__wrap {
-    margin-bottom: 0;
+#tile-feature-list-fjNnsD {
+    .ins-tile__item {
+        padding-bottom: 20px !important;
+    }
+    .ins-tile__wrap {
+        margin-bottom: 0;
+    }
 }
 #tile-feature-list-pqyWAh .ins-tile__wrap {
     margin-top: 0;
