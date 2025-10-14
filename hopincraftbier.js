@@ -39,6 +39,7 @@ document.addEventListener("visibilitychange", (event) => {
         moveSubtitle();
         addTitleAttribute();
         renameBuyButtonToPreorder();
+        translateDeliveryInfoTable();
         if (document.querySelector('.ec-store.ec-store__product-page')) {
             addCouponInfo();
             soonLabel();
