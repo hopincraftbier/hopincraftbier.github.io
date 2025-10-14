@@ -834,6 +834,7 @@ div.details-product-price-compare__container {
 #tile-custom-code-zoobsd, #tile-custom-code-6sc9oc, #tile-custom-code-PFLVds,
 #tile-custom-code-5bcRyP, #tile-custom-code-29KjT7, #tile-custom-code-t2Cjig {
     width: 60%;
+    margin: auto;
 }
 .del_info_table {
     overflow: auto;
@@ -861,8 +862,14 @@ div.details-product-price-compare__container {
     display: none;
 }
 
-.del_info_table td.shippingmethod img {
-    max-height: 20px;
+.del_info_table td.shippingmethod {
+    img {
+        max-height: 20px;
+        display: inline;
+    }
+    span {
+        display: inline;
+    }
 }
 
 .del_info_table tbody td span.best {
@@ -893,7 +900,7 @@ div.details-product-price-compare__container {
     width: 15%;
 }
 .del_info_table.belned .shippingmethod {
-    width: 25%;
+    width: 30%;
 }
 .del_info_table .country {
     width: 20%;
@@ -902,7 +909,7 @@ div.details-product-price-compare__container {
     width: 20%;
 }
 .del_info_table .ordervalue {
-    width: 20%;
+    width: calc(55%/3);
 }
 .del_info_table .weight {
     width: calc(60%/7);
