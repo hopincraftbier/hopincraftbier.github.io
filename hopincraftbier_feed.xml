@@ -221,10 +221,10 @@
     <untappd_id>6127069</untappd_id>
   </item>
   <item>
-    <id>6406072</id>
-    <ecommerce_id>787334627</ecommerce_id>
+    <id>6406071</id>
+    <ecommerce_id>787334626</ecommerce_id>
     <title>Canna</title>
-    <url>https://hopincraftbier.be/products/beak-canna-2</url>
+    <url>https://hopincraftbier.be/products/beak-canna</url>
     <price>11.11</price>
     <brewery_name>Beak</brewery_name>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5242084839.webp</image>
@@ -5547,6 +5547,6 @@
     <date_best_before>2027-01-21</date_best_before>
     <untappd_id>6149227</untappd_id>
   </item>
-  <timestamp>1760372950</timestamp>
-  <gen_date>13/10/2025 18:29:10</gen_date>
+  <timestamp>1760429263</timestamp>
+  <gen_date>14/10/2025 10:07:43</gen_date>
 </feed>
