@@ -91,6 +91,7 @@ if (headerDiv) {
     moveSubtitle();
     addTitleAttribute();
     renameBuyButtonToPreorder();
+    translateDeliveryInfoTable();
 
     ms.forEach(function (m) {
     for (var i = 0; i < m.addedNodes.length; i++) {
@@ -378,6 +379,24 @@ function renameBuyButtonToPreorder() {
             }
         }
     });
+}
+
+function translateDeliveryInfoTable() {
+    if ('EN' === document.querySelector('a.ins-header__language-link--active').textContent.trim()) {
+        document.querySelectorAll('div.del_info_table span.en').forEach(function (p) {
+            if (p.style.display !== 'inline') {
+                p.style.display = 'inline';
+                p.parentElement.querySelector('span.nl').style.display = 'none';
+            }
+        });
+    } else {
+        document.querySelectorAll('div.del_info_table span.nl').forEach(function (p) {
+            if (p.style.display !== 'inline') {
+                p.style.display = 'inline';
+                p.parentElement.querySelector('span.en').style.display = 'none';
+            }
+        });
+    }
 }
 
 function log(txt) {
