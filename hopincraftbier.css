@@ -831,6 +831,81 @@ div.details-product-price-compare__container {
         }
     }
 }
+.del_info_table {
+    overflow: auto;
+    width: 80%;
+    margin: auto;
+}
+
+.del_info_table table {
+    border: 1px solid #dededf;
+    height: 100%;
+    width: 100%;
+    table-layout: auto;
+    border-collapse: collapse;
+    border-spacing: 1px;
+    text-align: center;
+    background-color: #ffffff;
+}
+
+.del_info_table caption {
+    caption-side: top;
+    text-align: left;
+}
+
+.del_info_table .nl, .del_info_table .nl.best, .del_info_table tbody:hover .nl.best {
+    display: none;
+}
+
+.del_info_table td.shippingmethod img {
+    max-height: 20px;
+}
+
+.del_info_table tbody td span.best {
+    font-weight: 600;
+    display:inline-block;
+}
+
+.del_info_table tbody:hover td span.best {
+    font-weight: 600;
+    transform: translateX(-10px) rotate(-10deg);
+    -webkit-transform:translateX(-10px) rotate(-10deg);;
+    -moz-transform: translateX(-10px) rotate(-10deg);;
+    -ms-transform: translateX(-10px) rotate(-10deg);;
+    -o-transform: translateX(-10px) rotate(-10deg);;
+    -khtml-transform: translateX(-10px) rotate(-10deg);;
+    color: crimson;
+    display:inline-block;
+}
+
+.del_info_table th {
+    border: 1px solid #dededf;
+    background-color: #f7f5c6;
+    color: #000000;
+    padding: 5px;
+}
+
+.del_info_table td {
+    border: 1px solid #dededf;
+    color: #000000;
+    padding: 5px;
+}
+.del_info_table td.country {
+    text-align: left;
+}
+
+.del_info_table tbody:hover td:has(span.best) {
+    /*background: darkgray;*/
+}
+
+.del_info_table tbody:hover td {
+    background: lightgray;
+}
+
+.del_info_table tbody:nth-child(odd) {
+    background-color: #f7f5c666;
+}
+
 .ec-size:not(.ec-size--s) .ec-store.ec-store__account-page .ec-cart-step--bag,.ec-size:not(.ec-size--s) .ec-store.ec-store__account-page .ec-cart-step--favorites {
     display:block;
 }
