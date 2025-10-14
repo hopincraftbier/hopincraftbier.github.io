@@ -858,17 +858,18 @@ div.details-product-price-compare__container {
     text-align: left;
 }
 
-.del_info_table .nl, .del_info_table .nl.best, .del_info_table tbody:hover .nl.best {
-    display: none;
-}
-
 .del_info_table td.shippingmethod {
     img {
         max-height: 20px;
         display: inline;
     }
     span {
-        display: inline;
+        .nl {
+            display: inline;
+        }
+        .del_info_table .en, .del_info_table .en.best, .del_info_table tbody:hover .en.best {
+            display: none;
+        }
     }
 }
 
