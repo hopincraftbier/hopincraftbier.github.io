@@ -383,6 +383,7 @@ function renameBuyButtonToPreorder() {
 }
 
 function translateDeliveryInfoTable() {
+    log('translateDeliveryInfoTable');
     if ('EN' === document.querySelector('a.ins-header__language-link--active').textContent.trim()) {
         document.querySelectorAll('div.del_info_table span.en').forEach(function (p) {
             if (p.style.display !== 'inline') {

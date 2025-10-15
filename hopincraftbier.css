@@ -862,11 +862,6 @@ div.details-product-price-compare__container {
     background-color: #ffffff;
 }
 
-.del_info_table caption {
-    caption-side: top;
-    text-align: left;
-}
-
 .del_info_table td.shippingmethod {
     img {
         max-height: 20px;
