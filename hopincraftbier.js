@@ -1,4 +1,4 @@
-console.log("HopInCraftbier custom js v5.05");
+console.log("HopInCraftbier custom js v5.06");
 let debug = false;
 
 Ecwid.OnAPILoaded.add(function() {
@@ -412,7 +412,7 @@ function processProductPage(toScroll) {
 }
 
 function processProductBrowserPage() {
-    if (document.querySelector('.ecwid-productBrowser:not(.ecwid-productBrowser-CartPage):not(.ecwid-productBrowser-ElmCheckoutShippingAddressPage)')) {
+    if (document.querySelector('.ecwid-productBrowser:not(.ecwid-productBrowser-CartPage):not(.ecwid-productBrowser-ElmCheckoutShippingAddressPage):not(.ecwid-productBrowser-CheckoutPaymentDetailsPage):not(.ecwid-productBrowser-ElmCheckoutDeliveryPage)')) {
         processExpectedLabels();
         moveSubtitle();
         addTitleAttribute();
@@ -421,17 +421,14 @@ function processProductBrowserPage() {
 }
 
 function processCartPage() {
-    if (document.querySelector('.ecwid-productBrowser-CartPage') ||
-        document.querySelector('.ecwid-productBrowser-ElmCheckoutShippingAddressPage') ||
-        document.querySelector('.ecwid-productBrowser-CheckoutPaymentDetailsPage') ||
-        document.querySelector('.ecwid-productBrowser-ElmCheckoutDeliveryPage')) {
+    if (document.querySelector('.ecwid-productBrowser-CartPage,.ecwid-productBrowser-ElmCheckoutShippingAddressPage,.ecwid-productBrowser-CheckoutPaymentDetailsPage,.ecwid-productBrowser-ElmCheckoutDeliveryPage')) {
         translateCheckoutNotice();
         addDeliveryInfoLink();
     }
 }
 
 function processInfoPages() {
-    if (!document.querySelector('.ecwid-productBrowser')) {
+    if (document.querySelector('div.del_info_table')) {
         translateDeliveryInfoTable();
     }
 }
