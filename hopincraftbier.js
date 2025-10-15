@@ -1,4 +1,4 @@
-console.log("HopInCraftbier custom js v5.10");
+console.log("HopInCraftbier custom js v5.11");
 let debug = false;
 
 Ecwid.OnAPILoaded.add(function() {
@@ -179,7 +179,7 @@ function processAttributes() {
     });
     if (untappdAttrValueEl) {
         let content = untappdAttrValueEl.textContent.trim();
-        if (untappdRatingVal) {
+        if (untappdRatingVal && content.indexOf('ratings') < 0) {
             content += ' (ratings: ' + untappdRatingVal + ', dd: ' + untappdDateVal + ')';
         }
         untappdAttrValueEl.textContent = content;
