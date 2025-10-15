@@ -1,6 +1,18 @@
 console.log("HopInCraftbier custom js v5.01");
 let debug = false;
-/* Get the header element and it's position */
+
+Ecwid.OnAPILoaded.add(function() {
+    try {
+        window.ec = window.ec || Object();
+        window.ec.storefront = window.ec.storefront || Object();
+        window.ec.storefront.shopping_cart_show_weight = true;
+
+        Ecwid.refreshConfig && Ecwid.refreshConfig();
+    } catch (error) {
+        log(error);
+    }
+    log("HopInCraftbier Ecwid JS API is loaded.");
+});
 document.txtNl1 = '<div id="discountContainer"><div class="dtooltip"><p class="hover question">Kortingscoupon</p><p class="dtooltiptext">Afhankelijk van de gekozen betaling en levering, kunt u een kortingscoupon krijgen die te gebruiken is bij een volgende bestelling. Voor dit bier ziet u de bedragen in deze tabel</p></div><table class="discount-table"><thead><tr class="first_header"><th></th><th colspan="2">Manier van levering</th></tr><tr><th>Manier van betaling</th><th>Afhaling</th><th>Levering</th></tr></thead><tbody><tr><td class="header">Betalen bij afhaling</td><td>€ ';
 document.txtNl2 = '</td><td> - </td></tr><tr><td class="header">Overschrijving</td><td>€ ';
 document.txtNl3 = '</td><td>€ ';
@@ -12,16 +24,6 @@ document.txtEn2 = '</td><td> - </td></tr><tr><td class="header">Money transfer</
 document.txtEn3 = '</td><td>€ ';
 document.txtEn4 = '</td></tr><tr><td class="header">Online payment</td><td>€ ';
 document.txtEn5 = '</td><td>€ 0</td></tr></tbody></table></div></div>';
-
-try {
-    window.ec = window.ec || Object();
-    window.ec.storefront = window.ec.storefront || Object();
-    window.ec.storefront.shopping_cart_show_weight = true;
-
-    Ecwid.refreshConfig && Ecwid.refreshConfig();
-} catch (error) {
-    log(error);
-}
 
 document.addEventListener("visibilitychange", (event) => {
     if (document.visibilityState === "visible") {
