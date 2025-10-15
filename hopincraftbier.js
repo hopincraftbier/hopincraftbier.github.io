@@ -1,4 +1,4 @@
-console.log("HopInCraftbier custom js v5.01");
+console.log("HopInCraftbier custom js v5.02");
 let debug = false;
 
 Ecwid.OnAPILoaded.add(function() {
@@ -124,7 +124,7 @@ function processAttributes() {
     log('processAttributes');
     let preOrderTxt = "";
     let lng = "";
-    if ('EN' === document.querySelector('a.ins-header__language-link--active').textContent.trim()) {
+    if ('EN' === getCustomerLng()) {
         lng = '/en';
     }
     let untappdAttrValueEl;
@@ -136,7 +136,7 @@ function processAttributes() {
                 let d = p.parentElement.childNodes[1].textContent;
                 if (d !== 'Uitverkocht' && d !== 'Sold out') {
                     preOrderTxt = '<strong style="color:red;">PRE-ORDER</strong> ';
-                    if ('EN' === document.querySelector('a.ins-header__language-link--active').textContent.trim()) {
+                    if ('EN' === getCustomerLng()) {
                         preOrderTxt += ('Expected: ' + d);
                     } else {
                         preOrderTxt += ('Verwacht: ' + d);
@@ -268,7 +268,7 @@ function addCouponInfo(toScroll) {
     c2 = calcDiscount(Number(c2.replace(",", ".")), custDisc).toString();
     c3 = calcDiscount(Number(c3.replace(",", ".")), custDisc).toString();
     let txt = document.txtNl1 + c1 + document.txtNl2 + c1 + document.txtNl3 + c3 + document.txtNl4 + c2 + document.txtNl5;
-    if ('EN' === document.querySelector('a.ins-header__language-link--active').textContent.trim()) {
+    if ('EN' === getCustomerLng()) {
         txt = document.txtEn1 + c1 + document.txtEn2 + c1 + document.txtEn3 + c3 + document.txtEn4 + c2 + document.txtEn5;
     }
     document.querySelector('div.product-details-module.product-details__product-price-row').insertAdjacentHTML('beforeend', txt);
@@ -301,9 +301,8 @@ function redirectWhenNeeded() {
 
 function translateCheckoutNotice() {
     log('translateCheckoutNotice');
-    const lngTxt = document.querySelector('a.ins-header__language-link--active').textContent.trim();
     let element;
-    if ('EN' === lngTxt) {
+    if ('EN' === getCustomerLng()) {
         element = document.querySelector('span.adb_nl');
     } else {
         element = document.querySelector('span.adb_en');
@@ -316,7 +315,7 @@ function translateCheckoutNotice() {
 function addDeliveryInfoLink() {
     log('addDeliveryInfoLink');
 
-    const lngTxt = document.querySelector('a.ins-header__language-link--active').textContent.trim();
+    const lngTxt = getCustomerLng();
     // show link to shipping cost in cart side banner
     const cartSidebar = document.querySelector('div.ec-cart__sidebar-inner:not(:has(div#deliveryInfoSidebar))');
     if (cartSidebar) {
@@ -376,7 +375,7 @@ function renameBuyButtonToPreorder() {
 
 function translateDeliveryInfoTable() {
     log('translateDeliveryInfoTable');
-    if ('EN' === document.querySelector('a.ins-header__language-link--active').textContent.trim()) {
+    if ('EN' === getCustomerLng()) {
         document.querySelectorAll('div.del_info_table span.en').forEach(function (p) {
             if (p.style.display !== 'inline') {
                 p.style.display = 'inline';
@@ -391,6 +390,14 @@ function translateDeliveryInfoTable() {
             }
         });
     }
+}
+
+function getCustomerLng() {
+    const lngElement = document.querySelector('a.ins-header__language-link--active');
+    if (lngElement) {
+        return textContent.trim();
+    }
+    return 'NL';
 }
 
 function processProductPage(toScroll) {
