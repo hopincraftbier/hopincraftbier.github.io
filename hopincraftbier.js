@@ -1,4 +1,4 @@
-console.log("HopInCraftbier custom js v5.03");
+console.log("HopInCraftbier custom js v5.04");
 let debug = false;
 
 Ecwid.OnAPILoaded.add(function() {
@@ -395,7 +395,7 @@ function translateDeliveryInfoTable() {
 function getCustomerLng() {
     const lngElement = document.querySelector('a.ins-header__language-link--active');
     if (lngElement) {
-        return textContent.trim();
+        return lngElement.textContent.trim();
     }
     return 'NL';
 }
