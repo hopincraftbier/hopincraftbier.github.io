@@ -1,4 +1,4 @@
-console.log("HopInCraftbier custom js v5.04");
+console.log("HopInCraftbier custom js v5.05");
 let debug = false;
 
 Ecwid.OnAPILoaded.add(function() {
@@ -69,7 +69,7 @@ const priceO = new MutationObserver(function (ms) {
 const cartTotalMo = new MutationObserver(function (ms) {
     redirectWhenNeeded();
     processInfoPages();
-    processCartPage();
+    // processCartPage();
     processProductBrowserPage();
 
     ms.forEach(function (m) {
@@ -88,7 +88,9 @@ const cartTotalMo = new MutationObserver(function (ms) {
                         processStock();
                     } else if (className.indexOf('ecwid-checkout-notice') >= 0) {
                         translateCheckoutNotice();
-                    } else if (className.indexOf('ec-store__cart-page') >= 0) {
+                    } else if (className.indexOf('ec-store__cart-page') >= 0 ||
+                                className.indexOf('ec-store__checkout-page') ||
+                                className.indexOf('ec-cart-step__section')) {
                         processCartPage();
                     }
                 }
@@ -410,7 +412,7 @@ function processProductPage(toScroll) {
 }
 
 function processProductBrowserPage() {
-    if (document.querySelector('.ecwid-productBrowser:not(.ecwid-productBrowser-CartPage)')) {
+    if (document.querySelector('.ecwid-productBrowser:not(.ecwid-productBrowser-CartPage):not(.ecwid-productBrowser-ElmCheckoutShippingAddressPage)')) {
         processExpectedLabels();
         moveSubtitle();
         addTitleAttribute();
@@ -419,7 +421,10 @@ function processProductBrowserPage() {
 }
 
 function processCartPage() {
-    if (document.querySelector('.ecwid-productBrowser-CartPage')) {
+    if (document.querySelector('.ecwid-productBrowser-CartPage') ||
+        document.querySelector('.ecwid-productBrowser-ElmCheckoutShippingAddressPage') ||
+        document.querySelector('.ecwid-productBrowser-CheckoutPaymentDetailsPage') ||
+        document.querySelector('.ecwid-productBrowser-ElmCheckoutDeliveryPage')) {
         translateCheckoutNotice();
         addDeliveryInfoLink();
     }
