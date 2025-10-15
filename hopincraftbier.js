@@ -1,4 +1,4 @@
-console.log("HopInCraftbier custom js v5.06");
+console.log("HopInCraftbier custom js v5.07");
 let debug = false;
 
 Ecwid.OnAPILoaded.add(function() {
@@ -378,19 +378,12 @@ function renameBuyButtonToPreorder() {
 function translateDeliveryInfoTable() {
     log('translateDeliveryInfoTable');
     if ('EN' === getCustomerLng()) {
-        document.querySelectorAll('div.del_info_table span.en').forEach(function (p) {
-            if (p.style.display !== 'inline') {
-                p.style.display = 'inline';
-                p.parentElement.querySelector('span.nl').style.display = 'none';
-            }
-        });
-    } else {
-        document.querySelectorAll('div.del_info_table span.nl').forEach(function (p) {
-            if (p.style.display !== 'inline') {
-                p.style.display = 'inline';
-                p.parentElement.querySelector('span.en').style.display = 'none';
-            }
-        });
+        debug = true;
+        log('start');
+        document.querySelectorAll('div.del_info_table span.en[style*="display: none"]').forEach(el => el.style.display = 'inline');
+        document.querySelectorAll('div.del_info_table span.nl[style*="display: inline"]').forEach(el => el.style.display = 'none');
+        log('end');
+        debug = false;
     }
 }
 
