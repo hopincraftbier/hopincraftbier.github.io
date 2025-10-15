@@ -16,42 +16,24 @@ document.txtEn5 = '</td><td>€ 0</td></tr></tbody></table></div></div>';
 try {
     window.ec = window.ec || Object();
     window.ec.storefront = window.ec.storefront || Object();
+    window.ec.storefront.shopping_cart_show_weight = true;
 
-// Add design config
-    window.ec.storefront.shopping_cart_show_weight = false;
-
-    // to try
-    // window.ec.storefront.product_filters_orientation = 'HORIZONTAL';
-    // product_details_additional_images_has_shadow = true;
-
-// Apply design configs
     Ecwid.refreshConfig && Ecwid.refreshConfig();
 } catch (error) {
     log(error);
 }
 
-const headerDiv = document.querySelector("#tile-header-fcHJMd");
 document.addEventListener("visibilitychange", (event) => {
     if (document.visibilityState === "visible") {
         redirectWhenNeeded();
-        translateDeliveryInfoTable();
-        addDeliveryInfoWhenNeeded();
-        processExpectedLabels();
-        moveSubtitle();
-        addTitleAttribute();
-        renameBuyButtonToPreorder();
-        if (document.querySelector('.ec-store.ec-store__product-page')) {
-            addCouponInfo();
-            soonLabel();
-            processAttributes();
-            processStock();
-        }
-        if (document.querySelector('.details-product-purchase__place')) {
-            processStock();
-        }
+        processInfoPages();
+        processCartPage();
+        processProductBrowserPage();
+        processProductPage(false);
     }
 });
 
+const headerDiv = document.querySelector("#tile-header-fcHJMd");
 if (headerDiv) {
   redirectWhenNeeded();
 
@@ -79,20 +61,14 @@ if (headerDiv) {
 }
   const priceO = new MutationObserver(function(ms) {
     ms.forEach(function (m) {
-      addCouponInfo();
-      soonLabel();
-      processAttributes();
-      processStock();
+        processProductPage(false);
     })
   });
   var cartTotalMo = new MutationObserver(function(ms) {
     redirectWhenNeeded();
-    translateDeliveryInfoTable();
-    addDeliveryInfoWhenNeeded();
-    processExpectedLabels();
-    moveSubtitle();
-    addTitleAttribute();
-    renameBuyButtonToPreorder();
+    processInfoPages();
+    processCartPage();
+    processProductBrowserPage();
 
     ms.forEach(function (m) {
     for (var i = 0; i < m.addedNodes.length; i++) {
@@ -101,35 +77,17 @@ if (headerDiv) {
           const className = m.addedNodes[i].className;
           log('added node classname: ' + className);
           if (className.indexOf('ec-store ec-store__product-page') >= 0) {
-            addCouponInfo();
-            soonLabel();
-            processAttributes();
-            processStock();
+            processProductPage(true);
             priceO.observe(document.querySelector('div.product-details__product-price.ec-price-item'), {
               childList: true,
               subtree: true
             });
           } else if (className.indexOf('details-product-purchase__place') >= 0) {
             processStock();
-          }
-          const lngTxt = document.querySelector('a.ins-header__language-link--active').textContent.trim();
-          if (className.indexOf('ecwid-checkout-notice') >= 0) {
-            if ('EN' === lngTxt) {
-              document.querySelector('span.adb_nl').style.display = 'none';
-            } else {
-              document.querySelector('span.adb_en').style.display = 'none';
-            }
-          }
-          if (className.indexOf('ec-store__cart-page') >= 0) {
-            // show link to shipping cost
-            const cartSidebar = document.querySelector('div.ec-cart__sidebar-inner');
-            if (cartSidebar && !document.querySelector('#deliveryInfoSidebar')) {
-                if ('EN' === lngTxt) {
-                    cartSidebar.lastChild.insertAdjacentHTML('beforebegin', '<div id="deliveryInfoSidebar">View the <a class="ec-link" target="_blank" href="/delivery-info#feature-list-fjNnsD-FLT23">delivery information</a><br></div>');
-                } else {
-                    cartSidebar.lastChild.insertAdjacentHTML('beforebegin', '<div id="deliveryInfoSidebar">Bekijk de <a class="ec-link" target="_blank" href="/delivery-info#feature-list-fjNnsD-FLT23">leveringsinformatie</a><br></div>');
-                }
-            }
+          } else if (className.indexOf('ecwid-checkout-notice') >= 0) {
+            translateCheckoutNotice();
+          } else if (className.indexOf('ec-store__cart-page') >= 0) {
+              processCartPage();
           }
         }
       }
@@ -236,55 +194,57 @@ function soonLabel() {
   var preorderSoldOut = false;
   var verwachtTxt = '';
   document.querySelectorAll('div.product-details__product-attributes div.details-product-attribute span.details-product-attribute__title').forEach(
-    function(item) {
-      if (item.textContent.trim() === 'hide_preorder:') {
-        var d = item.parentElement.childNodes[1].textContent;
-        if (d === 'Uitverkocht' || d === 'Sold out') {
-          preorderSoldOut = true;
-        }
-      } else
-      if (item.textContent.trim() === 'Verwacht:' || item.textContent.trim() === 'Expected:') {
-        notSoldOut = true;
-        verwachtTxt = item.textContent.trim() + ' ' + item.parentElement.childNodes[1].textContent.trim();
-      }
-    });
+      function(item) {
+          if (item.textContent.trim() === 'hide_preorder:') {
+              var d = item.parentElement.childNodes[1].textContent;
+              if (d === 'Uitverkocht' || d === 'Sold out') {
+                  preorderSoldOut = true;
+              }
+          } else
+          if (item.textContent.trim() === 'Verwacht:' || item.textContent.trim() === 'Expected:') {
+              notSoldOut = true;
+              verwachtTxt = item.textContent.trim() + ' ' + item.parentElement.childNodes[1].textContent.trim();
+          }
+      });
   if (!preorderSoldOut && (notSoldOut || (document.querySelector('div.product-details__product-price.ec-price-item')?.getAttribute('content') === "0" && document.querySelector('div.product-details__product-soldout')))) {
-    var soldOutEl = document.querySelector('div.ec-label.label--flag.label--attention div.label__text');
-    if (soldOutEl && (soldOutEl.textContent !== 'Verwacht' || soldOutEl.textContent !== 'Expected')) {
-      if (soldOutEl.textContent === 'Uitverkocht') {
-        soldOutEl.textContent = 'Verwacht';
-      } else {
-        soldOutEl.textContent = 'Expected';
+      var soldOutEl = document.querySelector('div.ec-label.label--flag.label--attention div.label__text');
+      if (soldOutEl && (soldOutEl.textContent !== 'Verwacht' || soldOutEl.textContent !== 'Expected')) {
+          if (soldOutEl.textContent === 'Uitverkocht') {
+              soldOutEl.textContent = 'Verwacht';
+          } else {
+              soldOutEl.textContent = 'Expected';
+          }
       }
-    }
-    var soldOutEl2 = document.querySelector('div.product-details-module__title.details-product-purchase__sold-out');
-    if (soldOutEl2 && soldOutEl2.textContent !== verwachtTxt) {
-      soldOutEl2.textContent = verwachtTxt;
-    }
-    var soldOutTxt = document.querySelector('div.details-product-purchase__place');
-    if (soldOutTxt && soldOutTxt.style.display !== 'none') soldOutTxt.style.display = 'none'
+      var soldOutEl2 = document.querySelector('div.product-details-module__title.details-product-purchase__sold-out');
+      if (soldOutEl2 && soldOutEl2.textContent !== verwachtTxt) {
+          soldOutEl2.textContent = verwachtTxt;
+      }
+      var soldOutTxt = document.querySelector('div.details-product-purchase__place');
+      if (soldOutTxt && soldOutTxt.style.display !== 'none') soldOutTxt.style.display = 'none'
   }
 }
 
 function processExpectedLabels() {
-  log('processExpectedLabels');
-  document.querySelectorAll('div.grid-product__wrap-inner').forEach(function (p) {
-    var lint = p.querySelector('div.label__text')?.textContent;
-    if (lint === 'Sold out' || lint === 'Uitverkocht') return;
-    var buyNowEl = p.querySelector('div.grid-product__button.grid-product__buy-now');
-    if (buyNowEl?.textContent === 'Sold out' || buyNowEl?.textContent === 'Uitverkocht') {
-      buyNowEl.style.display = 'none';
-      if (document.querySelector('h1.page-title__name.ec-header-h1')?.textContent.trim() !== 'Pre-order') {
-          let priceEl = p.querySelector('div.grid-product__price');
-          if (priceEl.style.display !== 'none') {
-              p.querySelector('div.grid-product__price').style.display = 'none';
-          }
-      }
+    if (document.querySelector('.ecwid-productBrowser')) {
+        log('processExpectedLabels');
+        document.querySelectorAll('div.grid-product__wrap-inner').forEach(function (p) {
+            var lint = p.querySelector('div.label__text')?.textContent;
+            if (lint === 'Sold out' || lint === 'Uitverkocht') return;
+            var buyNowEl = p.querySelector('div.grid-product__button.grid-product__buy-now');
+            if (buyNowEl?.textContent === 'Sold out' || buyNowEl?.textContent === 'Uitverkocht') {
+                buyNowEl.style.display = 'none';
+                if (document.querySelector('h1.page-title__name.ec-header-h1')?.textContent.trim() !== 'Pre-order') {
+                    let priceEl = p.querySelector('div.grid-product__price');
+                    if (priceEl.style.display !== 'none') {
+                        p.querySelector('div.grid-product__price').style.display = 'none';
+                    }
+                }
+            }
+        });
     }
-  });
 }
 
-function addCouponInfo() {
+function addCouponInfo(toScroll) {
   log('addCouponInfo');
   const attrValSelector = '.ec-store.ec-store__product-page .details-product-attribute:nth-child($) .details-product-attribute__value';
   var dc = document.querySelector('#discountContainer');
@@ -310,7 +270,9 @@ function addCouponInfo() {
     txt = document.txtEn1 + c1 + document.txtEn2 + c1 + document.txtEn3 + c3 + document.txtEn4 + c2 + document.txtEn5;
   }
   document.querySelector('div.product-details-module.product-details__product-price-row').insertAdjacentHTML('beforeend', txt);
-  window.scrollTo({ top: 0, behavior: 'smooth' });
+  if (toScroll) {
+      window.scrollTo({ top: 0, behavior: 'smooth' });
+  }
 }
 
 function moveSubtitle() {
@@ -335,26 +297,49 @@ function redirectWhenNeeded() {
   }
 }
 
-function addDeliveryInfoWhenNeeded() {
-    log('addDeliveryInfoWhenNeeded');
-    let sectionId = "deliveryInfoOnSection";
-    let deliveryNotice = document.querySelector('div.ec-cart-step--address .ecwid-checkout-notice');
-    let section = document.querySelector('#' + sectionId + '1');
-    if (!deliveryNotice) {
-        deliveryNotice = document.querySelector('div.ec-cart-step--delivery .ecwid-checkout-notice');
-        section = document.querySelector('#' + sectionId + '2');
-        sectionId = sectionId + '2'
+function translateCheckoutNotice() {
+    log('translateCheckoutNotice');
+    const lngTxt = document.querySelector('a.ins-header__language-link--active').textContent.trim();
+    if ('EN' === lngTxt) {
+        document.querySelector('span.adb_nl').style.display = 'none';
     } else {
-        sectionId = sectionId + '1'
+        document.querySelector('span.adb_en').style.display = 'none';
     }
-    if (deliveryNotice && !section) {
-        if ('EN' === document.querySelector('a.ins-header__language-link--active').textContent.trim()) {
-            deliveryNotice.insertAdjacentHTML('beforeend', '<div id="' + sectionId + '">View the <a class="ec-link" target="_blank" href="/delivery-info#feature-list-fjNnsD-FLT23">delivery information</a><br></div>');
+}
+
+function addDeliveryInfoLink() {
+    log('addDeliveryInfoLink');
+
+    // show link to shipping cost in cart side banner
+    const cartSidebar = document.querySelector('div.ec-cart__sidebar-inner:not(:has(div#deliveryInfoSidebar))');
+    if (cartSidebar) {
+        if ('EN' === lngTxt) {
+            cartSidebar.lastChild.insertAdjacentHTML('beforebegin', '<div id="deliveryInfoSidebar">View the <a class="ec-link" target="_blank" href="/delivery-info#feature-list-fjNnsD-FLT23">delivery information</a><br></div>');
         } else {
-            deliveryNotice.insertAdjacentHTML('beforeend', '<div id="' + sectionId + '">Bekijk de <a class="ec-link" target="_blank" href="/delivery-info#feature-list-fjNnsD-FLT23">leveringsinformatie</a><br></div>');
+            cartSidebar.lastChild.insertAdjacentHTML('beforebegin', '<div id="deliveryInfoSidebar">Bekijk de <a class="ec-link" target="_blank" href="/delivery-info#feature-list-fjNnsD-FLT23">leveringsinformatie</a><br></div>');
+        }
+    }
+
+    let deliveryNotice = document.querySelector('div.ec-cart-step--address .ecwid-checkout-notice:not(:has(div#deliveryInfoOnSection1))');
+    if (deliveryNotice) {
+        if ('EN' === document.querySelector('a.ins-header__language-link--active').textContent.trim()) {
+            deliveryNotice.insertAdjacentHTML('beforeend', '<div id="deliveryInfoOnSection1">View the <a class="ec-link" target="_blank" href="/en/delivery-info#feature-list-fjNnsD-FLT23">delivery information</a><br></div>');
+        } else {
+            deliveryNotice.insertAdjacentHTML('beforeend', '<div id="deliveryInfoOnSection1">Bekijk de <a class="ec-link" target="_blank" href="/delivery-info#feature-list-fjNnsD-FLT23">leveringsinformatie</a><br></div>');
         }
         location.href = "#";
-        location.href = "#" + sectionId;
+        location.href = "#deliveryInfoOnSection1";
+    } else {
+        deliveryNotice = document.querySelector('div.ec-cart-step--delivery .ecwid-checkout-notice:not(:has(div#deliveryInfoOnSection2))');
+        if (deliveryNotice) {
+            if ('EN' === document.querySelector('a.ins-header__language-link--active').textContent.trim()) {
+                deliveryNotice.insertAdjacentHTML('beforeend', '<div id="deliveryInfoOnSection2">View the <a class="ec-link" target="_blank" href="/en/delivery-info#feature-list-fjNnsD-FLT23">delivery information</a><br></div>');
+            } else {
+                deliveryNotice.insertAdjacentHTML('beforeend', '<div id="deliveryInfoOnSection2">Bekijk de <a class="ec-link" target="_blank" href="/delivery-info#feature-list-fjNnsD-FLT23">leveringsinformatie</a><br></div>');
+            }
+            location.href = "#";
+            location.href = "#deliveryInfoOnSection2";
+        }
     }
 }
 
@@ -398,6 +383,37 @@ function translateDeliveryInfoTable() {
                 p.parentElement.querySelector('span.en').style.display = 'none';
             }
         });
+    }
+}
+
+function processProductPage(toScroll) {
+    if (document.querySelector('.ecwid-productBrowser-ProductPage')) {
+        addCouponInfo(toScroll);
+        soonLabel();
+        processAttributes();
+        processStock();
+    }
+}
+
+function processProductBrowserPage() {
+    if (document.querySelector('.ecwid-productBrowser')) {
+        processExpectedLabels();
+        moveSubtitle();
+        addTitleAttribute();
+        renameBuyButtonToPreorder();
+    }
+}
+
+function processCartPage() {
+    if (document.querySelector('.ecwid-productBrowser-CartPage')) {
+        translateCheckoutNotice();
+        addDeliveryInfoLink();
+    }
+}
+
+function processInfoPages() {
+    if (!document.querySelector('.ecwid-productBrowser')) {
+        translateDeliveryInfoTable();
     }
 }
 
