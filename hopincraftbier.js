@@ -1,4 +1,4 @@
-console.log("HopInCraftbier custom js v5.02");
+console.log("HopInCraftbier custom js v5.03");
 let debug = false;
 
 Ecwid.OnAPILoaded.add(function() {
@@ -410,7 +410,7 @@ function processProductPage(toScroll) {
 }
 
 function processProductBrowserPage() {
-    if (document.querySelector('.ecwid-productBrowser')) {
+    if (document.querySelector('.ecwid-productBrowser:not(.ecwid-productBrowser-CartPage)')) {
         processExpectedLabels();
         moveSubtitle();
         addTitleAttribute();
