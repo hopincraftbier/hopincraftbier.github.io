@@ -1,4 +1,4 @@
-console.log("HopInCraftbier custom js v5.37");
+console.log("HopInCraftbier custom js v5.38");
 let debug = false;
 
 Ecwid.OnAPILoaded.add(function() {
@@ -101,12 +101,6 @@ const cartTotalMo = new MutationObserver(function (ms) {
                             subtree: true
                         });
                         processStock();
-                        stockO.observe(document.querySelector('.details-product-purchase__place span'), {
-                            childList: true,
-                            subtree: true,
-                            characterData: true,
-                            attributes: true,
-                        });
                     // } else if (className.indexOf('details-product-purchase__place') >= 0) {
                     //     processStock();
                     } else if (className.indexOf('ecwid-checkout-notice') >= 0) {
@@ -143,7 +137,7 @@ function processStock() {
                 element.style.color = 'black';
             }
             if (z > 5 && x.textContent !== y[0]) {
-                x.textContent = y[0];
+                //x.textContent = y[0];
             }
         } else if (element.style.color === 'red') {
             element.style.color = 'black';
@@ -154,6 +148,13 @@ function processStock() {
     if (qtyEl && qty.style.display !== 'none') {
         qtyEl.style.display = 'none';
     }
+    stockO.disconnect();
+    stockO.observe(document.querySelector('.details-product-purchase__place span'), {
+        childList: true,
+        subtree: true,
+        characterData: true,
+        attributes: true,
+    });
 }
 
 function processAttributes() {
