@@ -1,4 +1,4 @@
-console.log("HopInCraftbier custom js v5.13");
+console.log("HopInCraftbier custom js v5.14");
 let debug = false;
 
 Ecwid.OnAPILoaded.add(function() {
@@ -78,10 +78,9 @@ const cartTotalMo = new MutationObserver(function (ms) {
         console.log('type: ' + m.type);
         for (let i = 0; i < m.removedNodes.length; i++) {
             console.log('removed nodeType: ' + m.removedNodes[i].nodeType);
-            console.log('removed nodeType: ' + m.removedNodes[i]);
             if (m.removedNodes[i].nodeType === Node.ELEMENT_NODE) {
                 if (typeof m.removedNodes[i].className == "string") {
-                    log('removed node classname: ' + className);
+                    log('removed node classname: ' + m.removedNodes[i].className);
                 }
             }
         }
