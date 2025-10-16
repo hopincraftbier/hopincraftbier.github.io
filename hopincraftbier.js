@@ -1,4 +1,4 @@
-console.log("HopInCraftbier custom js v5.11");
+console.log("HopInCraftbier custom js v5.12");
 let debug = false;
 
 Ecwid.OnAPILoaded.add(function() {
@@ -107,6 +107,8 @@ function processStock() {
     log('processStock');
     const x = document.querySelector('.details-product-purchase__place span');
     if (x) {
+        document.querySelector('.details-product-purchase__place').style.color = 'black';
+        console.log(x.textContent);
         const y = x.textContent?.split(':');
         if (y && y.length > 1) {
             const z = Number(y[1].trim().split(' ')[0]);
