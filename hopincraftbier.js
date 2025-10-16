@@ -1,4 +1,4 @@
-console.log("HopInCraftbier custom js v5.29");
+console.log("HopInCraftbier custom js v5.30");
 let debug = false;
 
 Ecwid.OnAPILoaded.add(function() {
@@ -424,7 +424,7 @@ function processProductPage(toScroll) {
         addCouponInfo(toScroll);
         soonLabel();
         processAttributes();
-        processStock();
+        // processStock();
     }
 }
 
