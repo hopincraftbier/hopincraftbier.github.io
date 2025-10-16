@@ -1,4 +1,4 @@
-console.log("HopInCraftbier custom js v5.22");
+console.log("HopInCraftbier custom js v5.23");
 let debug = false;
 
 Ecwid.OnAPILoaded.add(function() {
@@ -75,21 +75,21 @@ const cartTotalMo = new MutationObserver(function (ms) {
     processProductBrowserPage();
 
     ms.forEach(function (m) {
-        for (let i = 0; i < m.removedNodes.length; i++) {
-            console.log('removed nodeType: ' + m.removedNodes[i].nodeType);
-            if (m.removedNodes[i].nodeType === Node.TEXT_NODE) {
-                console.log('data: ' + m.removedNodes[i].data);
-            }
-            if (m.removedNodes[i].nodeType === Node.ELEMENT_NODE) {
-                if (typeof m.removedNodes[i].className == "string") {
-                    log('removed node classname: ' + m.removedNodes[i].className);
-                }
-            }
-        }
+        // for (let i = 0; i < m.removedNodes.length; i++) {
+        //     console.log('removed nodeType: ' + m.removedNodes[i].nodeType);
+        //     if (m.removedNodes[i].nodeType === Node.TEXT_NODE) {
+        //         console.log('data: ' + m.removedNodes[i].data);
+        //     }
+        //     if (m.removedNodes[i].nodeType === Node.ELEMENT_NODE) {
+        //         if (typeof m.removedNodes[i].className == "string") {
+        //             log('removed node classname: ' + m.removedNodes[i].className);
+        //         }
+        //     }
+        // }
         for (let i = 0; i < m.addedNodes.length; i++) {
-            if (m.addedNodes[i].nodeType === Node.TEXT_NODE) {
-                console.log('data: ' + m.addedNodes[i].data);
-            }
+            // if (m.addedNodes[i].nodeType === Node.TEXT_NODE) {
+            //     console.log('data: ' + m.addedNodes[i].data);
+            // }
             if (m.addedNodes[i].nodeType === Node.ELEMENT_NODE) {
                 if (typeof m.addedNodes[i].className == "string") {
                     const className = m.addedNodes[i].className;
@@ -102,7 +102,7 @@ const cartTotalMo = new MutationObserver(function (ms) {
                         });
                     } else if (className.indexOf('details-product-purchase__place') >= 0) {
                         processStock();
-                        stockO1.observe(document.querySelector('div.product-details-module__title span'), {
+                        stockO1.observe(document.querySelector('div.details-product-purchase'), {
                             childList: true,
                             subtree: true
                         });
