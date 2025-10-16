@@ -1,4 +1,4 @@
-console.log("HopInCraftbier custom js v5.36");
+console.log("HopInCraftbier custom js v5.37");
 let debug = false;
 
 Ecwid.OnAPILoaded.add(function() {
@@ -101,7 +101,7 @@ const cartTotalMo = new MutationObserver(function (ms) {
                             subtree: true
                         });
                         processStock();
-                        stockO.observe(document.querySelector('div.product-details-module__title'), {
+                        stockO.observe(document.querySelector('.details-product-purchase__place span'), {
                             childList: true,
                             subtree: true,
                             characterData: true,
@@ -131,7 +131,7 @@ function processStock() {
     const x = document.querySelector('.details-product-purchase__place span');
     if (x) {
         const y = x.textContent?.split(':');
-        const element = document.querySelector('.details-product-purchase__place');
+        const element = x.parentElement;
         if (y && y.length > 1) {
             const z = Number(y[1].trim().split(' ')[0]);
             if (z < 3) {
