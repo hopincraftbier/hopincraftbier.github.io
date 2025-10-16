@@ -1,4 +1,4 @@
-console.log("HopInCraftbier custom js v5.12");
+console.log("HopInCraftbier custom js v5.13");
 let debug = false;
 
 Ecwid.OnAPILoaded.add(function() {
@@ -69,10 +69,22 @@ const priceO = new MutationObserver(function (ms) {
 const cartTotalMo = new MutationObserver(function (ms) {
     redirectWhenNeeded();
     processInfoPages();
-    // processCartPage();
     processProductBrowserPage();
 
     ms.forEach(function (m) {
+        console.log('attribute name: ' + m.attributeName);
+        console.log('oldValue: ' + m.oldValue);
+        console.log('target: ' + m.target);
+        console.log('type: ' + m.type);
+        for (let i = 0; i < m.removedNodes.length; i++) {
+            console.log('removed nodeType: ' + m.removedNodes[i].nodeType);
+            console.log('removed nodeType: ' + m.removedNodes[i]);
+            if (m.removedNodes[i].nodeType === Node.ELEMENT_NODE) {
+                if (typeof m.removedNodes[i].className == "string") {
+                    log('removed node classname: ' + className);
+                }
+            }
+        }
         for (let i = 0; i < m.addedNodes.length; i++) {
             if (m.addedNodes[i].nodeType === Node.ELEMENT_NODE) {
                 if (typeof m.addedNodes[i].className == "string") {
@@ -108,7 +120,6 @@ function processStock() {
     const x = document.querySelector('.details-product-purchase__place span');
     if (x) {
         document.querySelector('.details-product-purchase__place').style.color = 'black';
-        console.log(x.textContent);
         const y = x.textContent?.split(':');
         if (y && y.length > 1) {
             const z = Number(y[1].trim().split(' ')[0]);
