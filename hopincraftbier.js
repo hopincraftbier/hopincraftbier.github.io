@@ -1,4 +1,4 @@
-console.log("HopInCraftbier custom js v5.43");
+console.log("HopInCraftbier custom js v5.44");
 let debug = false;
 
 Ecwid.OnAPILoaded.add(function() {
@@ -129,10 +129,18 @@ cartTotalMo.observe(document, {
 
 function processStock() {
     log('processStock');
-    const x = document.querySelector('.details-product-purchase__place span');
+    const x = document.querySelector('.details-product-purchase__place span:not(.mod)');
     if (x) {
-        const y = x.innerHTML?.split(':');
         const element = x.parentElement;
+        const mod = document.querySelector('.details-product-purchase__place span.mod');
+        const txt = x.textContent;
+        if (!mod) {
+            x.style.display = 'none';
+            element.insertAdjacentHTML('beforeend', '<span class="mod">' + txt + '</span>');
+        } else {
+            mod.textContent = txt;
+        }
+        const y = txt?.split(':');
         if (y && y.length > 1) {
             const z = Number(y[1].trim().split(' ')[0]);
             if (z < 3) {
@@ -143,9 +151,8 @@ function processStock() {
             } else if (element.style.color === 'red') {
                 element.style.color = 'black';
             }
-            if (z > 5 && x.textContent !== y[0]) {
-                x.style.display = 'none';
-                element.insertAdjacentHTML('beforeend', '<span>' + y[0] + '</span>');
+            if (z > 5 && mod.textContent !== y[0]) {
+                mod.textContent = y[0];
             }
         } else if (element.style.color === 'red') {
             element.style.color = 'black';
