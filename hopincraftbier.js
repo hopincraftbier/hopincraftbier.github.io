@@ -1,4 +1,4 @@
-console.log("HopInCraftbier custom js v5.21");
+console.log("HopInCraftbier custom js v5.22");
 let debug = false;
 
 Ecwid.OnAPILoaded.add(function() {
@@ -61,6 +61,9 @@ if (headerDiv) {
         prevScrollPos = currentScrollPos;
     }
 }
+const stockO1 = new MutationObserver(function (ms) {
+    debugProcess(ms, 1);
+});
 const priceO = new MutationObserver(function (ms) {
     ms.forEach(function (m) {
         processProductPage(false);
@@ -99,6 +102,10 @@ const cartTotalMo = new MutationObserver(function (ms) {
                         });
                     } else if (className.indexOf('details-product-purchase__place') >= 0) {
                         processStock();
+                        stockO1.observe(document.querySelector('div.product-details-module__title span'), {
+                            childList: true,
+                            subtree: true
+                        });
                     } else if (className.indexOf('ecwid-checkout-notice') >= 0) {
                         translateCheckoutNotice();
                     } else if (className.indexOf('ec-store__cart-page') >= 0 ||
@@ -115,10 +122,6 @@ cartTotalMo.observe(document, {
     childList: true,
     subtree: true
 });
-$("div.product-details-module__title span").on('change',function(){
-    //Do calculation and change value of other span2,span3 here
-    console.log('test');
-})
 
 function processStock() {
     log('processStock');
