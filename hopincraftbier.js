@@ -1,4 +1,4 @@
-console.log("HopInCraftbier custom js v5.25");
+console.log("HopInCraftbier custom js v5.26");
 let debug = false;
 
 Ecwid.OnAPILoaded.add(function() {
@@ -103,10 +103,10 @@ const cartTotalMo = new MutationObserver(function (ms) {
                             childList: true,
                             subtree: true
                         });
-                        stockO1.observe(document.querySelector('div.details-product-purchase'), {
-                            childList: true,
-                            subtree: true
-                        });
+                        // stockO1.observe(document.querySelector('div.details-product-purchase'), {
+                        //     childList: true,
+                        //     subtree: true
+                        // });
                         stockO2.observe(document.querySelector('div.details-product-purchase__place'), {
                             childList: true,
                             subtree: true
@@ -461,10 +461,7 @@ function log(txt) {
 }
 function debugProcess(ms, idx) {
     ms.forEach(function (m) {
-        console.log(idx + ' :attribute name: ' + m.attributeName);
-        console.log(idx + ' :oldValue: ' + m.oldValue);
         console.log(idx + ' :target: ' + m.target);
-        console.log(idx + ' :type: ' + m.type);
         for (let i = 0; i < m.removedNodes.length; i++) {
             console.log(idx + ' :removed nodeType: ' + m.removedNodes[i].nodeType);
             if (m.removedNodes[i].nodeType === Node.TEXT_NODE) {
