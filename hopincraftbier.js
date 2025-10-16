@@ -1,4 +1,4 @@
-console.log("HopInCraftbier custom js v5.45");
+console.log("HopInCraftbier custom js v5.50");
 let debug = false;
 
 Ecwid.OnAPILoaded.add(function() {
@@ -61,9 +61,6 @@ if (headerDiv) {
         prevScrollPos = currentScrollPos;
     }
 }
-// const stockO = new MutationObserver(function (ms) {
-//     processStock();
-// });
 const priceO = new MutationObserver(function (ms) {
     ms.forEach(function (m) {
         processProductPage(false);
@@ -76,21 +73,7 @@ const cartTotalMo = new MutationObserver(function (ms) {
     processProductBrowserPage();
 
     ms.forEach(function (m) {
-        // for (let i = 0; i processStock< m.removedNodes.length; i++) {
-        //     console.log('removed nodeType: ' + m.removedNodes[i].nodeType);
-        //     if (m.removedNodes[i].nodeType === Node.TEXT_NODE) {
-        //         console.log('data: ' + m.removedNodes[i].data);
-        //     }
-        //     if (m.removedNodes[i].nodeType === Node.ELEMENT_NODE) {
-        //         if (typeof m.removedNodes[i].className == "string") {
-        //             log('removed node classname: ' + m.removedNodes[i].className);
-        //         }
-        //     }
-        // }
         for (let i = 0; i < m.addedNodes.length; i++) {
-            // if (m.addedNodes[i].nodeType === Node.TEXT_NODE) {
-            //     console.log('data: ' + m.addedNodes[i].data);
-            // }
             if (m.addedNodes[i].nodeType === Node.ELEMENT_NODE) {
                 if (typeof m.addedNodes[i].className == "string") {
                     const className = m.addedNodes[i].className;
@@ -102,14 +85,6 @@ const cartTotalMo = new MutationObserver(function (ms) {
                             subtree: true
                         });
                         processStock();
-                        // stockO.observe(document.querySelector('.details-product-purchase__place span'), {
-                        //     childList: true,
-                        //     subtree: true,
-                        //     characterData: true,
-                        //     attributes: true,
-                        // });
-                    // } else if (className.indexOf('details-product-purchase__place') >= 0) {
-                    //     processStock();
                     } else if (className.indexOf('ecwid-checkout-notice') >= 0) {
                         translateCheckoutNotice();
                     } else if (className.indexOf('ec-store__cart-page') >= 0 ||
@@ -443,7 +418,6 @@ function processProductPage(toScroll) {
         addCouponInfo(toScroll);
         soonLabel();
         processAttributes();
-        // processStock();
     }
 }
 
@@ -473,32 +447,4 @@ function log(txt) {
     if (debug) {
         console.log(txt);
     }
-}
-function debugProcess(ms, idx) {
-    ms.forEach(function (m) {
-        console.log(idx + ' :target: ' + m.target);
-        for (let i = 0; i < m.removedNodes.length; i++) {
-            console.log(idx + ' :removed nodeType: ' + m.removedNodes[i].nodeType);
-            if (m.removedNodes[i].nodeType === Node.TEXT_NODE) {
-                console.log(idx + ' :r data: ' + m.removedNodes[i].data);
-            }
-            if (m.removedNodes[i].nodeType === Node.ELEMENT_NODE) {
-                if (typeof m.removedNodes[i].className == "string") {
-                    log(idx + ' :removed node classname: ' + m.removedNodes[i].className);
-                }
-            }
-        }
-        for (let i = 0; i < m.addedNodes.length; i++) {
-            console.log(idx + ' :added nodeType: ' + m.addedNodes[i].nodeType);
-            if (m.addedNodes[i].nodeType === Node.TEXT_NODE) {
-                console.log(idx + ' : a data: ' + m.addedNodes[i].data);
-            }
-            if (m.addedNodes[i].nodeType === Node.ELEMENT_NODE) {
-                if (typeof m.addedNodes[i].className == "string") {
-                    log(idx + ' :added node classname: ' + m.addedNodes[i].className);
-                }
-            }
-        }
-    })
-
 }
