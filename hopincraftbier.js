@@ -1,4 +1,4 @@
-console.log("HopInCraftbier custom js v5.15");
+console.log("HopInCraftbier custom js v5.16");
 let debug = false;
 
 Ecwid.OnAPILoaded.add(function() {
@@ -61,9 +61,17 @@ if (headerDiv) {
         prevScrollPos = currentScrollPos;
     }
 }
+const stockO = new MutationObserver(function (ms) {
+    ms.forEach(function (m) {
+        processStock();
+    })
+});
 const priceO = new MutationObserver(function (ms) {
     ms.forEach(function (m) {
-        processProductPage(false);
+        console.log('attribute name: ' + m.attributeName);
+        console.log('oldValue: ' + m.oldValue);
+        console.log('target: ' + m.target);
+        console.log('type: ' + m.type);
     })
 });
 const cartTotalMo = new MutationObserver(function (ms) {
@@ -72,18 +80,6 @@ const cartTotalMo = new MutationObserver(function (ms) {
     processProductBrowserPage();
 
     ms.forEach(function (m) {
-        console.log('attribute name: ' + m.attributeName);
-        console.log('oldValue: ' + m.oldValue);
-        console.log('target: ' + m.target);
-        console.log('type: ' + m.type);
-        for (let i = 0; i < m.removedNodes.length; i++) {
-            console.log('removed nodeType: ' + m.removedNodes[i].nodeType);
-            if (m.removedNodes[i].nodeType === Node.ELEMENT_NODE) {
-                if (typeof m.removedNodes[i].className == "string") {
-                    log('removed node classname: ' + m.removedNodes[i].className);
-                }
-            }
-        }
         for (let i = 0; i < m.addedNodes.length; i++) {
             if (m.addedNodes[i].nodeType === Node.ELEMENT_NODE) {
                 if (typeof m.addedNodes[i].className == "string") {
@@ -97,6 +93,10 @@ const cartTotalMo = new MutationObserver(function (ms) {
                         });
                     } else if (className.indexOf('details-product-purchase__place') >= 0) {
                         processStock();
+                        stockO.observe(document.querySelector('div.details-product-purchase__place'), {
+                            childList: true,
+                            subtree: true
+                        });
                     } else if (className.indexOf('ecwid-checkout-notice') >= 0) {
                         translateCheckoutNotice();
                     } else if (className.indexOf('ec-store__cart-page') >= 0 ||
