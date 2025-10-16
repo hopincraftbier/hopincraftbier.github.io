@@ -1,4 +1,4 @@
-console.log("HopInCraftbier custom js v5.33");
+console.log("HopInCraftbier custom js v5.35");
 let debug = false;
 
 Ecwid.OnAPILoaded.add(function() {
@@ -62,7 +62,6 @@ if (headerDiv) {
     }
 }
 const stockO = new MutationObserver(function (ms) {
-    debugProcess(ms, 1);
     processStock();
 });
 const priceO = new MutationObserver(function (ms) {
@@ -131,21 +130,24 @@ function processStock() {
     const x = document.querySelector('.details-product-purchase__place span');
     if (x) {
         const y = x.textContent?.split(':');
+        const element = document.querySelector('.details-product-purchase__place');
         if (y && y.length > 1) {
             const z = Number(y[1].trim().split(' ')[0]);
-            const element = document.querySelector('.details-product-purchase__place');
             if (z < 3) {
                 // color should be red
                 if (element.style.color !== 'red') {
-                    document.querySelector('.details-product-purchase__place').style.color = 'red';
+                    element.style.color = 'red';
                 }
             } else if (element.style.color === 'red') {
-                document.querySelector('.details-product-purchase__place').style.color = 'black';
+                element.style.color = 'black';
             }
-            if (z > 5) {
-                // x.textContent = y[0];
+            if (z > 5 && element.textContent !== y[0]) {
+                element.textContent = y[0];
             }
+        } else if (element.style.color === 'red') {
+            element.style.color = 'black';
         }
+
     }
     const qtyEl = document.querySelector('span.details-product-purchase__in-stock-qty');
     if (qtyEl && qty.style.display !== 'none') {
