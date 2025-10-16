@@ -1,4 +1,4 @@
-console.log("HopInCraftbier custom js v5.19");
+console.log("HopInCraftbier custom js v5.20");
 let debug = false;
 
 Ecwid.OnAPILoaded.add(function() {
@@ -61,21 +61,14 @@ if (headerDiv) {
         prevScrollPos = currentScrollPos;
     }
 }
-const stockO = new MutationObserver(function (ms) {
-    ms.forEach(function (m) {
-        console.log('attribute name: ' + m.attributeName);
-        console.log('oldValue: ' + m.oldValue);
-        console.log('target: ' + m.target);
-        console.log('type: ' + m.type);
-        for (let i = 0; i < m.removedNodes.length; i++) {
-            console.log('removed nodeType: ' + m.removedNodes[i].nodeType);
-            console.log('removed node: ' + m.removedNodes[i]);
-        }
-        for (let i = 0; i < m.addedNodes.length; i++) {
-            console.log('added nodeType: ' + m.removedNodes[i].nodeType);
-            console.log('added node: ' + m.removedNodes[i]);
-        }
-    })
+const stockO1 = new MutationObserver(function (ms) {
+    debugProcess(ms, 1);
+});
+const stockO2 = new MutationObserver(function (ms) {
+    debugProcess(ms, 2);
+});
+const stockO3 = new MutationObserver(function (ms) {
+    debugProcess(ms, 3);
 });
 const priceO = new MutationObserver(function (ms) {
     ms.forEach(function (m) {
@@ -115,7 +108,15 @@ const cartTotalMo = new MutationObserver(function (ms) {
                         });
                     } else if (className.indexOf('details-product-purchase__place') >= 0) {
                         processStock();
-                        stockO.observe(document.querySelector('div.product-details-module__title'), {
+                        stockO1.observe(document.querySelector('div.product-details-module'), {
+                            childList: true,
+                            subtree: true
+                        });
+                        stockO2.observe(document.querySelector('div.product-details__sidebar'), {
+                            childList: true,
+                            subtree: true
+                        });
+                        stockO3.observe(document.querySelector('div.details-product-purchase__place'), {
                             childList: true,
                             subtree: true
                         });
@@ -464,4 +465,35 @@ function log(txt) {
     if (debug) {
         console.log(txt);
     }
+}
+function debugProcess(ms, idx) {
+    ms.forEach(function (m) {
+        console.log(idx + ' :attribute name: ' + m.attributeName);
+        console.log(idx + ' :oldValue: ' + m.oldValue);
+        console.log(idx + ' :target: ' + m.target);
+        console.log(idx + ' :type: ' + m.type);
+        for (let i = 0; i < m.removedNodes.length; i++) {
+            console.log(idx + ' :removed nodeType: ' + m.removedNodes[i].nodeType);
+            if (m.removedNodes[i].nodeType === Node.TEXT_NODE) {
+                console.log(idx + ' :r data: ' + m.removedNodes[i].data);
+            }
+            if (m.removedNodes[i].nodeType === Node.ELEMENT_NODE) {
+                if (typeof m.removedNodes[i].className == "string") {
+                    log(idx + ' :removed node classname: ' + m.removedNodes[i].className);
+                }
+            }
+        }
+        for (let i = 0; i < m.addedNodes.length; i++) {
+            console.log(idx + ' :added nodeType: ' + m.addedNodes[i].nodeType);
+            if (m.addedNodes[i].nodeType === Node.TEXT_NODE) {
+                console.log(idx + ' : a data: ' + m.addedNodes[i].data);
+            }
+            if (m.addedNodes[i].nodeType === Node.ELEMENT_NODE) {
+                if (typeof m.addedNodes[i].className == "string") {
+                    log(idx + ' :added node classname: ' + m.addedNodes[i].className);
+                }
+            }
+        }
+    })
+
 }
