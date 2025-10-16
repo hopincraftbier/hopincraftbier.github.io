@@ -1,4 +1,4 @@
-console.log("HopInCraftbier custom js v5.41");
+console.log("HopInCraftbier custom js v5.42");
 let debug = false;
 
 Ecwid.OnAPILoaded.add(function() {
@@ -61,12 +61,13 @@ if (headerDiv) {
         prevScrollPos = currentScrollPos;
     }
 }
-const stockO = new MutationObserver(function (ms) {
-    processStock();
-});
+// const stockO = new MutationObserver(function (ms) {
+//     processStock();
+// });
 const priceO = new MutationObserver(function (ms) {
     ms.forEach(function (m) {
         processProductPage(false);
+        processStock();
     })
 });
 const cartTotalMo = new MutationObserver(function (ms) {
@@ -101,12 +102,12 @@ const cartTotalMo = new MutationObserver(function (ms) {
                             subtree: true
                         });
                         processStock();
-                        stockO.observe(document.querySelector('.details-product-purchase__place span'), {
-                            childList: true,
-                            subtree: true,
-                            characterData: true,
-                            attributes: true,
-                        });
+                        // stockO.observe(document.querySelector('.details-product-purchase__place span'), {
+                        //     childList: true,
+                        //     subtree: true,
+                        //     characterData: true,
+                        //     attributes: true,
+                        // });
                     // } else if (className.indexOf('details-product-purchase__place') >= 0) {
                     //     processStock();
                     } else if (className.indexOf('ecwid-checkout-notice') >= 0) {
