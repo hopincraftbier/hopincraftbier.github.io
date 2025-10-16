@@ -1,4 +1,4 @@
-console.log("HopInCraftbier custom js v5.27");
+console.log("HopInCraftbier custom js v5.28");
 let debug = false;
 
 Ecwid.OnAPILoaded.add(function() {
@@ -64,6 +64,9 @@ if (headerDiv) {
 const stockO1 = new MutationObserver(function (ms) {
     debugProcess(ms, 1);
 });
+const stockO2 = new MutationObserver(function (ms) {
+    debugProcess(ms, 2);
+});
 const priceO = new MutationObserver(function (ms) {
     ms.forEach(function (m) {
         processProductPage(false);
@@ -102,7 +105,15 @@ const cartTotalMo = new MutationObserver(function (ms) {
                         });
                         stockO1.observe(document.querySelector('div.details-product-purchase'), {
                             childList: true,
-                            subtree: true
+                            subtree: true,
+                            characterData: true,
+                            attributes: true,
+                        });
+                        stockO2.observe(document.querySelector('div.product-details-module__title span'), {
+                            childList: true,
+                            subtree: true,
+                            characterData: true,
+                            attributes: true,
                         });
                     } else if (className.indexOf('details-product-purchase__place') >= 0) {
                         processStock();
