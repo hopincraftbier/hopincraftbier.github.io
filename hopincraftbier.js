@@ -1,4 +1,4 @@
-console.log("HopInCraftbier custom js v5.42");
+console.log("HopInCraftbier custom js v5.43");
 let debug = false;
 
 Ecwid.OnAPILoaded.add(function() {
@@ -144,7 +144,8 @@ function processStock() {
                 element.style.color = 'black';
             }
             if (z > 5 && x.textContent !== y[0]) {
-                x.innerHTML = y[0];
+                x.style.display = 'none';
+                element.insertAdjacentHTML('beforeend', '<span>' + y[0] + '</span>');
             }
         } else if (element.style.color === 'red') {
             element.style.color = 'black';
