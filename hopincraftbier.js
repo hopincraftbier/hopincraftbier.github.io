@@ -1,4 +1,4 @@
-console.log("HopInCraftbier custom js v5.23");
+console.log("HopInCraftbier custom js v5.24");
 let debug = false;
 
 Ecwid.OnAPILoaded.add(function() {
@@ -100,12 +100,12 @@ const cartTotalMo = new MutationObserver(function (ms) {
                             childList: true,
                             subtree: true
                         });
-                    } else if (className.indexOf('details-product-purchase__place') >= 0) {
-                        processStock();
                         stockO1.observe(document.querySelector('div.details-product-purchase'), {
                             childList: true,
                             subtree: true
                         });
+                    } else if (className.indexOf('details-product-purchase__place') >= 0) {
+                        processStock();
                     } else if (className.indexOf('ecwid-checkout-notice') >= 0) {
                         translateCheckoutNotice();
                     } else if (className.indexOf('ec-store__cart-page') >= 0 ||
