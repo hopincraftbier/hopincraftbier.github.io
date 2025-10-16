@@ -1,4 +1,4 @@
-console.log("HopInCraftbier custom js v5.28");
+console.log("HopInCraftbier custom js v5.29");
 let debug = false;
 
 Ecwid.OnAPILoaded.add(function() {
@@ -61,11 +61,9 @@ if (headerDiv) {
         prevScrollPos = currentScrollPos;
     }
 }
-const stockO1 = new MutationObserver(function (ms) {
-    debugProcess(ms, 1);
-});
-const stockO2 = new MutationObserver(function (ms) {
-    debugProcess(ms, 2);
+const stockO = new MutationObserver(function (ms) {
+    //debugProcess(ms, 2);
+    processStock();
 });
 const priceO = new MutationObserver(function (ms) {
     ms.forEach(function (m) {
@@ -103,13 +101,7 @@ const cartTotalMo = new MutationObserver(function (ms) {
                             childList: true,
                             subtree: true
                         });
-                        stockO1.observe(document.querySelector('div.details-product-purchase'), {
-                            childList: true,
-                            subtree: true,
-                            characterData: true,
-                            attributes: true,
-                        });
-                        stockO2.observe(document.querySelector('div.product-details-module__title span'), {
+                        stockO.observe(document.querySelector('div.product-details-module__title span'), {
                             childList: true,
                             subtree: true,
                             characterData: true,
@@ -143,7 +135,7 @@ function processStock() {
         if (y && y.length > 1) {
             const z = Number(y[1].trim().split(' ')[0]);
             if (z > 5) {
-                // x.textContent = y[0];
+                x.textContent = y[0];
             } else if (z < 3) {
                 document.querySelector('.details-product-purchase__place').style.color = 'red';
             }
