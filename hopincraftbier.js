@@ -1,4 +1,4 @@
-console.log("HopInCraftbier custom js v5.44");
+console.log("HopInCraftbier custom js v5.45");
 let debug = false;
 
 Ecwid.OnAPILoaded.add(function() {
@@ -132,11 +132,12 @@ function processStock() {
     const x = document.querySelector('.details-product-purchase__place span:not(.mod)');
     if (x) {
         const element = x.parentElement;
-        const mod = document.querySelector('.details-product-purchase__place span.mod');
+        let mod = document.querySelector('.details-product-purchase__place span.mod');
         const txt = x.textContent;
         if (!mod) {
             x.style.display = 'none';
             element.insertAdjacentHTML('beforeend', '<span class="mod">' + txt + '</span>');
+            mod = document.querySelector('.details-product-purchase__place span.mod');
         } else {
             mod.textContent = txt;
         }
