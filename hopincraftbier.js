@@ -1,4 +1,4 @@
-console.log("HopInCraftbier custom js v5.16");
+console.log("HopInCraftbier custom js v5.17");
 let debug = false;
 
 Ecwid.OnAPILoaded.add(function() {
@@ -63,15 +63,23 @@ if (headerDiv) {
 }
 const stockO = new MutationObserver(function (ms) {
     ms.forEach(function (m) {
-        processStock();
-    })
-});
-const priceO = new MutationObserver(function (ms) {
-    ms.forEach(function (m) {
         console.log('attribute name: ' + m.attributeName);
         console.log('oldValue: ' + m.oldValue);
         console.log('target: ' + m.target);
         console.log('type: ' + m.type);
+        for (let i = 0; i < m.removedNodes.length; i++) {
+            console.log('removed nodeType: ' + m.removedNodes[i].nodeType);
+            console.log('removed node: ' + m.removedNodes[i]);
+        }
+        for (let i = 0; i < m.addedNodes.length; i++) {
+            console.log('added nodeType: ' + m.removedNodes[i].nodeType);
+            console.log('added node: ' + m.removedNodes[i]);
+        }
+    })
+});
+const priceO = new MutationObserver(function (ms) {
+    ms.forEach(function (m) {
+        processProductPage(false);
     })
 });
 const cartTotalMo = new MutationObserver(function (ms) {
@@ -80,6 +88,14 @@ const cartTotalMo = new MutationObserver(function (ms) {
     processProductBrowserPage();
 
     ms.forEach(function (m) {
+        for (let i = 0; i < m.removedNodes.length; i++) {
+            console.log('removed nodeType: ' + m.removedNodes[i].nodeType);
+            if (m.removedNodes[i].nodeType === Node.ELEMENT_NODE) {
+                if (typeof m.removedNodes[i].className == "string") {
+                    log('removed node classname: ' + m.removedNodes[i].className);
+                }
+            }
+        }
         for (let i = 0; i < m.addedNodes.length; i++) {
             if (m.addedNodes[i].nodeType === Node.ELEMENT_NODE) {
                 if (typeof m.addedNodes[i].className == "string") {
