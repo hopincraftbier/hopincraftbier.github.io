@@ -961,7 +961,10 @@ div.details-product-price-compare__container {
 .del_info_table tbody:nth-child(odd) {
     background-color: #f7f5c666;
 }
-
+.details-product-purchase__sold-out p.reserve {
+    font-weight: 100;
+    font-size: 14px;
+}
 .ec-size:not(.ec-size--s) .ec-store.ec-store__account-page .ec-cart-step--bag,.ec-size:not(.ec-size--s) .ec-store.ec-store__account-page .ec-cart-step--favorites {
     display:block;
 }

@@ -223,6 +223,11 @@ function soonLabel() {
             } else if (item.textContent.trim() === 'Verwacht:' || item.textContent.trim() === 'Expected:') {
                 notSoldOut = true;
                 verwachtTxt = item.textContent.trim() + ' ' + item.parentElement.childNodes[1].textContent.trim();
+                if (item.textContent.trim() === 'Verwacht:') {
+                    verwachtTxt = verwachtTxt + "<p class='reserve'>Stuur ons een <a href='mailto:info@hopincraftbier.be'>email</a> of een <a href='https://wa.me/32494626330' target='_blank'>whatsapp bericht</a> om dit bier te 'reserveren'</p>";
+                } else {
+                    verwachtTxt += verwachtTxt + "<p class='reserve'>Send us an <a href='mailto:info@hopincraftbier.be'>email</a> or a <a href='https://wa.me/32494626330' target='_blank'>whatsapp</a> message to ‘reserve’ this beer.</p>";
+                }
             }
         });
     if (!preorderSoldOut && (notSoldOut || (document.querySelector('div.product-details__product-price.ec-price-item')?.getAttribute('content') === "0" && document.querySelector('div.product-details__product-soldout')))) {
@@ -235,8 +240,8 @@ function soonLabel() {
             }
         }
         let soldOutEl2 = document.querySelector('div.product-details-module__title.details-product-purchase__sold-out');
-        if (soldOutEl2 && soldOutEl2.textContent !== verwachtTxt) {
-            soldOutEl2.textContent = verwachtTxt;
+        if (soldOutEl2 && soldOutEl2.innerHTML !== verwachtTxt) {
+            soldOutEl2.innerHTML = verwachtTxt;
         }
         let soldOutTxt = document.querySelector('div.details-product-purchase__place');
         if (soldOutTxt && soldOutTxt.style.display !== 'none') soldOutTxt.style.display = 'none'
