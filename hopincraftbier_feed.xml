@@ -5,10 +5,26 @@
   <link>https://hopincraftbier.be/products&lt;/link&gt;</link>
   <description>Hop In Craftbier Products feed</description>
   <item>
-    <id>3766089_2</id>
-    <ecommerce_id>788580043_2</ecommerce_id>
+    <id>6424109</id>
+    <ecommerce_id>788856433</ecommerce_id>
+    <title>Imposing Will</title>
+    <url>https://hopincraftbier.be/products/autodidact-beer-imposing-will</url>
+    <price>0</price>
+    <brewery_name>Autodidact Beer</brewery_name>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5260880874.webp</image>
+    <beer_description>with Garston Hops Riwaka and Nelson Sauvin Autodidact Beer - Imposing Will</beer_description>
+    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
+    <beer_abv>8.1%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>United States</brewery_country>
+    <untappd_id>6424109</untappd_id>
+  </item>
+  <item>
+    <id>3766089</id>
+    <ecommerce_id>788580043</ecommerce_id>
     <title>lACEd In Space</title>
-    <url>https://hopincraftbier.be/products/other-half-brewing-co-laced-in-space-2</url>
+    <url>https://hopincraftbier.be/products/other-half-brewing-co-laced-in-space</url>
     <price>8.54</price>
     <brewery_name>Other Half Brewing Co.</brewery_name>
     <regular_price>10.67</regular_price>
@@ -24,10 +40,10 @@
     <untappd_id>3766089</untappd_id>
   </item>
   <item>
-    <id>5944204_2</id>
-    <ecommerce_id>788588044_2</ecommerce_id>
+    <id>5944204</id>
+    <ecommerce_id>788588044</ecommerce_id>
     <title>Hop Duos! - Nelson + Mosaic</title>
-    <url>https://hopincraftbier.be/products/other-half-brewing-co-hop-duos-nelson-mosaic-2</url>
+    <url>https://hopincraftbier.be/products/other-half-brewing-co-hop-duos-nelson-mosaic</url>
     <price>7.66</price>
     <brewery_name>Other Half Brewing Co.</brewery_name>
     <regular_price>9.57</regular_price>
@@ -42,10 +58,10 @@
     <untappd_id>5944204</untappd_id>
   </item>
   <item>
-    <id>2073529_2</id>
-    <ecommerce_id>788588043_2</ecommerce_id>
+    <id>2073529</id>
+    <ecommerce_id>788588043</ecommerce_id>
     <title>Cheddar</title>
-    <url>https://hopincraftbier.be/products/other-half-brewing-co-cheddar-2</url>
+    <url>https://hopincraftbier.be/products/other-half-brewing-co-cheddar</url>
     <price>8.38</price>
     <brewery_name>Other Half Brewing Co.</brewery_name>
     <regular_price>10.47</regular_price>
@@ -60,10 +76,10 @@
     <untappd_id>2073529</untappd_id>
   </item>
   <item>
-    <id>3958788_2</id>
-    <ecommerce_id>788588042_2</ecommerce_id>
+    <id>3958788</id>
+    <ecommerce_id>788588042</ecommerce_id>
     <title>Stacks On Stacks: Southern Hemisphere</title>
-    <url>https://hopincraftbier.be/products/other-half-brewing-co-stacks-on-stacks-southern-hemisphere-2</url>
+    <url>https://hopincraftbier.be/products/other-half-brewing-co-stacks-on-stacks-southern-hemisphere</url>
     <price>8.54</price>
     <brewery_name>Other Half Brewing Co.</brewery_name>
     <regular_price>10.67</regular_price>
@@ -78,10 +94,10 @@
     <untappd_id>3958788</untappd_id>
   </item>
   <item>
-    <id>2123391_2</id>
-    <ecommerce_id>788588041_2</ecommerce_id>
+    <id>2123391</id>
+    <ecommerce_id>788588041</ecommerce_id>
     <title>Dream In Green</title>
-    <url>https://hopincraftbier.be/products/other-half-brewing-co-dream-in-green-2</url>
+    <url>https://hopincraftbier.be/products/other-half-brewing-co-dream-in-green</url>
     <price>7.66</price>
     <brewery_name>Other Half Brewing Co.</brewery_name>
     <regular_price>9.57</regular_price>
@@ -96,10 +112,10 @@
     <untappd_id>2123391</untappd_id>
   </item>
   <item>
-    <id>2972476_2</id>
-    <ecommerce_id>788599770_2</ecommerce_id>
+    <id>2972476</id>
+    <ecommerce_id>788599770</ecommerce_id>
     <title>Double Nelson Daydream</title>
-    <url>https://hopincraftbier.be/products/other-half-brewing-co-double-nelson-daydream-2</url>
+    <url>https://hopincraftbier.be/products/other-half-brewing-co-double-nelson-daydream</url>
     <price>8.54</price>
     <brewery_name>Other Half Brewing Co.</brewery_name>
     <regular_price>10.67</regular_price>
@@ -114,10 +130,10 @@
     <untappd_id>2972476</untappd_id>
   </item>
   <item>
-    <id>4807854_2</id>
-    <ecommerce_id>788599769_2</ecommerce_id>
+    <id>4807854</id>
+    <ecommerce_id>788599769</ecommerce_id>
     <title>Gouda</title>
-    <url>https://hopincraftbier.be/products/other-half-brewing-co-gouda-2</url>
+    <url>https://hopincraftbier.be/products/other-half-brewing-co-gouda</url>
     <price>8.38</price>
     <brewery_name>Other Half Brewing Co.</brewery_name>
     <regular_price>10.47</regular_price>
@@ -132,10 +148,10 @@
     <untappd_id>4807854</untappd_id>
   </item>
   <item>
-    <id>4639781_2</id>
-    <ecommerce_id>788580042_2</ecommerce_id>
+    <id>4639781</id>
+    <ecommerce_id>788580042</ecommerce_id>
     <title>Juice Collector</title>
-    <url>https://hopincraftbier.be/products/other-half-brewing-co-juice-collector-2</url>
+    <url>https://hopincraftbier.be/products/other-half-brewing-co-juice-collector</url>
     <price>8.38</price>
     <brewery_name>Other Half Brewing Co.</brewery_name>
     <regular_price>10.47</regular_price>
@@ -150,10 +166,10 @@
     <untappd_id>4639781</untappd_id>
   </item>
   <item>
-    <id>5781449_2</id>
-    <ecommerce_id>788580040_2</ecommerce_id>
+    <id>5781449</id>
+    <ecommerce_id>788580040</ecommerce_id>
     <title>Big Nectaron Vibes</title>
-    <url>https://hopincraftbier.be/products/other-half-brewing-co-big-nectaron-vibes-2</url>
+    <url>https://hopincraftbier.be/products/other-half-brewing-co-big-nectaron-vibes</url>
     <price>7.66</price>
     <brewery_name>Other Half Brewing Co.</brewery_name>
     <regular_price>9.57</regular_price>
@@ -168,10 +184,10 @@
     <untappd_id>5781449</untappd_id>
   </item>
   <item>
-    <id>4307974_2</id>
-    <ecommerce_id>788580041_2</ecommerce_id>
+    <id>4307974</id>
+    <ecommerce_id>788580041</ecommerce_id>
     <title>Ticker Shock</title>
-    <url>https://hopincraftbier.be/products/other-half-brewing-co-ticker-shock-2</url>
+    <url>https://hopincraftbier.be/products/other-half-brewing-co-ticker-shock</url>
     <price>8.54</price>
     <brewery_name>Other Half Brewing Co.</brewery_name>
     <regular_price>10.67</regular_price>
@@ -204,21 +220,305 @@
     <untappd_id>3820116</untappd_id>
   </item>
   <item>
-    <id>6127069_1</id>
-    <ecommerce_id>787452692_1</ecommerce_id>
-    <title>X Anniversary 6/10 Quadrupel BBA</title>
-    <url>https://hopincraftbier.be/products/browar-stu-mostow-x-anniversary-6-10-quadrupel-bba-1</url>
-    <price>8.89</price>
-    <brewery_name>Browar Stu Mostów</brewery_name>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5243896880.png</image>
-    <beer_description>X Anniversary 6/10 Quadrupel BBA - sixth in a series of anniversary beers. Quadrupel, brewed with extract of 30° Plato, features a milt profile composed of Pilsner and caramel malts. Fermented with a Belgian yeast strain, it offers aromas of dark fruits and subtle spicy notes. Aged for 18 months in Jack Daniel's barrels, it was infused before bottling with almonds, hazelnuts, and pecans. The result is a Quadrupel characterized by caramel and toasted flavors, complemented by notes of dried dark fruits. Barrel aging adds layers of vanilla, coconut, and refined alcohol warmth, while the nut blend creates an intriguing and harmonious finish. -</beer_description>
-    <beer_style>Belgian Quadrupel</beer_style>
-    <beer_abv>10%</beer_abv>
-    <beer_volume>330 ml</beer_volume>
+    <id>prizm3</id>
+    <ecommerce_id>787872583</ecommerce_id>
+    <title>The Way Is Shut</title>
+    <url>https://hopincraftbier.be/products/prizm-brewing-co-the-way-is-shut</url>
+    <price>0</price>
+    <brewery_name>Prizm Brewing Co.</brewery_name>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5249427739.png</image>
+    <beer_description>A black monolith. No frills, no detours. Just a massive, raw, dense stout that still manages to remain elegant. Full-bodied cocoa: dark, bitter, deep. Full body, dense foam, almost oily texture. The sugar and alcohol fade behind the structure. A classic but incredibly effective stout. Prizm Brewing Co. - The Way Is Shut</beer_description>
+    <beer_style>Stout - Imperial / Double Pastry</beer_style>
+    <beer_abv>12%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>France</brewery_country>
+  </item>
+  <item>
+    <id>prizm2</id>
+    <ecommerce_id>787873338</ecommerce_id>
+    <title>Built on Ashes</title>
+    <url>https://hopincraftbier.be/products/prizm-brewing-co-built-on-ashes</url>
+    <price>0</price>
+    <brewery_name>Prizm Brewing Co.</brewery_name>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5249418443.png</image>
+    <beer_description>This beer is more than a style. It's resilience. A few months after the fire that ravaged their brewery, our friends at Cambier are back with us with an incredible collaboration, a monumental TIPA. An ode to renewal, in a glass overloaded with hops. Big juice, well-saturated, without compromise. Citra and Dolcita unfold exotic fruits and stone fruits, while Riwaka brings back her herbal and lemony notes. 9%, but very rounded, with a very clean finish. Powerful TIPA, overflowing aromas, and a lot of heart behind each sip. Prizm Brewing Co. - Built On Ashes</beer_description>
+    <beer_style>IPA - Imperial / Triple New England / Hazy</beer_style>
+    <beer_abv>9%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>France</brewery_country>
+  </item>
+  <item>
+    <id>prizm1</id>
+    <ecommerce_id>787872546</ecommerce_id>
+    <title>Kiss The Ring</title>
+    <url>https://hopincraftbier.be/products/prizm-brewing-co-kiss-the-ring</url>
+    <price>0</price>
+    <brewery_name>Prizm Brewing Co.</brewery_name>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5249404304.png</image>
+    <beer_description>This time, we've teamed up with our friends at Rivington to release a DDH Double NEIPA that's dense, fruity, and super expressive. A big 8% juice, in the same vein as our best-selling Pareto. Citra &amp; Nectaron put on a show with a tropical palette, while Simcoe provides balance and structure. Smooth texture, almost no bitterness, XXL juice—drinkable like a caress, at 8%. Prizm Brewing Co. - Kiss The Ring</beer_description>
+    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
+    <beer_abv>8%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>France</brewery_country>
+  </item>
+  <item>
+    <id>6214738</id>
+    <ecommerce_id>787878768</ecommerce_id>
+    <title>Strange Casualties</title>
+    <url>https://hopincraftbier.be/products/prizm-brewing-co-strange-casualties</url>
+    <price>0</price>
+    <brewery_name>Prizm Brewing Co.</brewery_name>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5249373741.png</image>
+    <beer_description>The Prizm – Strange Casualties is a coconut imperial stout with an alcohol content of 12%. We wanted an intense and delicious stout, so we came up with a trio that does the job: coconut, tonka, vanilla . Strange Casualties is a bit like biting into a coconut ball or a Bounty. The tonka brings this almost woody roundness, and the vanilla smooths the whole thing out. On the palate it is rich , velvety , with a nice length. Prizm Brewing Co. - Strange Casualties</beer_description>
+    <beer_style>Stout - Imperial / Double Pastry</beer_style>
+    <beer_abv>12%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>France</brewery_country>
+    <untappd_id>6214738</untappd_id>
+  </item>
+  <item>
+    <id>6306816</id>
+    <ecommerce_id>787869764</ecommerce_id>
+    <title>Drums of Liberation</title>
+    <url>https://hopincraftbier.be/products/prizm-brewing-co-drums-of-liberation</url>
+    <price>0</price>
+    <brewery_name>Prizm Brewing Co.</brewery_name>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5249373705.png</image>
+    <beer_description>DRUMS OF LIBERATION is an 8% Double Dry Hopped Double IPA (DDH DIPA), brewed with PRIZM Brewing Co.'s hoppy spirit. • Hops: Citra, Mosaic, Nelson Sauvin, Hallertau Blanc Cryo • Limited Edition Prizm Brewing Co. - Drums of Liberation</beer_description>
+    <beer_style>IPA - Imperial / Double</beer_style>
+    <beer_abv>8%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>France</brewery_country>
+    <untappd_id>6306816</untappd_id>
+  </item>
+  <item>
+    <id>6406186</id>
+    <ecommerce_id>787881503</ecommerce_id>
+    <title>Dawn</title>
+    <url>https://hopincraftbier.be/products/prizm-brewing-co-dawn</url>
+    <price>0</price>
+    <brewery_name>Prizm Brewing Co.</brewery_name>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5249371239.png</image>
+    <beer_description>A massive dose of flaked oats and 25 g/L of Hand Selected Strata and Citra on the dry hop. Strata has been selected with Hops Company in Barcelona The Citra has been selected in the Yakima valley at Yakima Chief Hops Prizm Brewing Co. - Dawn</beer_description>
+    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
+    <beer_abv>8%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>France</brewery_country>
+    <untappd_id>6406186</untappd_id>
+  </item>
+  <item>
+    <id>4478126</id>
+    <ecommerce_id>787747547</ecommerce_id>
+    <title>Fuzz Effect</title>
+    <url>https://hopincraftbier.be/products/trillium-brewing-company-fuzz-effect</url>
+    <price>0</price>
+    <brewery_name>Trillium Brewing Company</brewery_name>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5260631812.webp</image>
+    <beer_description>Pouring a hazy, golden yellow, Fuzz Effect's juicy aroma leaps from the glass. Notes of a lush tropical smoothie, fresh-pressed white grape juice, and lychee sorbet race across the palate. Each sip is silky, coating the tongue with uncut hop delight. With just enough sweetness to complement the waves of fruit aromatics, Fuzz Effect finishes gently bitter and highly satisfying. Trillium Brewing Company - Fuzz Effect</beer_description>
+    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
+    <beer_abv>8%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>United States</brewery_country>
+    <untappd_id>4478126</untappd_id>
+  </item>
+  <item>
+    <id>5314503</id>
+    <ecommerce_id>787747056</ecommerce_id>
+    <title>Extra Extra Broccoli</title>
+    <url>https://hopincraftbier.be/products/weldwerks-brewing-co-extra-extra-broccoli</url>
+    <price>0</price>
+    <brewery_name>WeldWerks Brewing Co.</brewery_name>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5260635975.webp</image>
+    <beer_description>Hazy Double India Pale Ale WeldWerks Brewing Co. - Extra Extra Broccoli</beer_description>
+    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
+    <beer_abv>8.3%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>United States</brewery_country>
+    <untappd_id>5314503</untappd_id>
+  </item>
+  <item>
+    <id>2921116</id>
+    <ecommerce_id>787747055</ecommerce_id>
+    <title>Bourbon County Brand Coffee Barleywine (2018)</title>
+    <url>https://hopincraftbier.be/products/goose-island-beer-co-bourbon-county-brand-coffee-barleywine-2018</url>
+    <price>0</price>
+    <brewery_name>Goose Island Beer Co.</brewery_name>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5247401357.webp</image>
+    <beer_description>Working with our friends at Intelligentsia, we flew down to Guatemala to source some of the world's best coffee to use as we release the first-ever Coffee Barleywine. The beer is an English-style Barleywine, meaning malt forward, and aged in 4+ year old Heaven Hill Bourbon barrels before adding La Soledad coffee beans right before packaging to retain a bold coffee aroma and flavor. Goose Island Beer Co. - Bourbon County Brand Coffee Barleywine (2018)</beer_description>
+    <beer_style>Barleywine - English</beer_style>
+    <beer_abv>15.1%</beer_abv>
+    <beer_volume>500 ml</beer_volume>
     <beer_package>bottle</beer_package>
-    <brewery_country>Poland</brewery_country>
-    <date_best_before>2027-01-10</date_best_before>
-    <untappd_id>6127069</untappd_id>
+    <brewery_country>United States</brewery_country>
+    <untappd_id>2921116</untappd_id>
+  </item>
+  <item>
+    <id>6407737</id>
+    <ecommerce_id>787747054</ecommerce_id>
+    <title>Deth's Tar (2025)</title>
+    <url>https://hopincraftbier.be/products/revolution-brewing-deths-tar-2025</url>
+    <price>0</price>
+    <brewery_name>Revolution Brewing</brewery_name>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5247422035.webp</image>
+    <beer_description>Revolution Brewing - Deth's Tar (2025)</beer_description>
+    <beer_style>Stout - Imperial / Double Oatmeal</beer_style>
+    <beer_abv>14.8%</beer_abv>
+    <beer_volume>355 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>United States</brewery_country>
+    <untappd_id>6407737</untappd_id>
+  </item>
+  <item>
+    <id>3795059</id>
+    <ecommerce_id>787747053</ecommerce_id>
+    <title>Nathan</title>
+    <url>https://hopincraftbier.be/products/brasserie-du-bas-canada-nathan</url>
+    <price>0</price>
+    <brewery_name>Brasserie du Bas-Canada</brewery_name>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5247517408.webp</image>
+    <beer_description>Imperial milk stout with Almonds, Coconut and Madagascar and Ugandan vanilla Brasserie du Bas-Canada - Nathan</beer_description>
+    <beer_style>Stout - Imperial / Double Milk</beer_style>
+    <beer_abv>10.5%</beer_abv>
+    <beer_volume>375 ml</beer_volume>
+    <beer_package>bottle</beer_package>
+    <brewery_country>Canada</brewery_country>
+    <untappd_id>3795059</untappd_id>
+  </item>
+  <item>
+    <id>6435834</id>
+    <ecommerce_id>787743587</ecommerce_id>
+    <title>Barrel Aged Dark Star (2025)</title>
+    <url>https://hopincraftbier.be/products/fremont-brewing-barrel-aged-dark-star-2025</url>
+    <price>0</price>
+    <brewery_name>Fremont Brewing</brewery_name>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5247459702.webp</image>
+    <beer_description>This year’s release is a blend of 24, 18, 12, and 8 month bourbon barrel aged dark star in 7-12 year old Kentucky bourbon barrels. The roasted and chocolate malts complement the smooth oats to bring you a stout delight wrapped in the gentle embrace of bourbon barrel aged warmth. A touch of sweetness dances in balance with the hops to finish with a wave, and then she’s gone. 2 row pale, roast barley, crystal 60, chocolate, and carafa 2 malts with flaked oats and willamette, Columbus and cascade hops Fremont Brewing - Barrel Aged Dark Star (2025)</beer_description>
+    <beer_style>Stout - Imperial / Double Oatmeal</beer_style>
+    <beer_abv>15.7%</beer_abv>
+    <beer_volume>650 ml</beer_volume>
+    <beer_package>bottle</beer_package>
+    <brewery_country>United States</brewery_country>
+    <untappd_id>6435834</untappd_id>
+  </item>
+  <item>
+    <id>6379068</id>
+    <ecommerce_id>787747052</ecommerce_id>
+    <title>16th Anniversary – Barrel-Aged Barleywine Ale (2025)</title>
+    <url>https://hopincraftbier.be/products/fremont-brewing-16th-anniversary-barrel-aged-barleywine-ale-2025</url>
+    <price>0</price>
+    <brewery_name>Fremont Brewing</brewery_name>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5247459708.webp</image>
+    <beer_description>An Exclusive Blend of Barrel-Aged Barleywine Ale 16th Anniversary Barleywine Ale is a 36-month old barrel-aged barleywine ale aged in Heaven Hill® bourbon barrels blended with a touch of 12-month old barleywine ale. Each sip is more special than its last. Thank you all for being a part of this journey of experimenting, pushing the limits with new recipes, and supporting our passions for our barrel-aged program. Cheers to 16 years and many more! ABV: 16.5% IBU: 25 Color: Hazy, brown Aroma: Caramel, vanilla, molasses followed by some toffee, fig, cherry with other fruity notes, whiskey, graham cracker along with some toast, oak and walnut. Flavor: Mildly sweet, lightly bitter, moderate lingering sweetness and slightly umami. Availability: Released August 16, 2025 in celebration of our 16th anniversary Fresh Range: Age this beer, or try one now...go on. Fremont Brewing - 16th Anniversary Barrel-Aged Barleywine Ale (2025)</beer_description>
+    <beer_style>Barleywine - English</beer_style>
+    <beer_abv>16.5%</beer_abv>
+    <beer_volume>650 ml</beer_volume>
+    <beer_package>bottle</beer_package>
+    <brewery_country>United States</brewery_country>
+    <untappd_id>6379068</untappd_id>
+  </item>
+  <item>
+    <id>3242306</id>
+    <ecommerce_id>787747051</ecommerce_id>
+    <title>33</title>
+    <url>https://hopincraftbier.be/products/vitamin-sea-brewing-33</url>
+    <price>0</price>
+    <brewery_name>Vitamin Sea Brewing</brewery_name>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5260644670.webp</image>
+    <beer_description>Our Triple Dry Hopped Triple IPA collaboration with Mast Landing, showcasing Citra, Motueka and Sabro hops Vitamin Sea Brewing - 33</beer_description>
+    <beer_style>IPA - Triple</beer_style>
+    <beer_abv>10.1%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>United States</brewery_country>
+    <untappd_id>3242306</untappd_id>
+  </item>
+  <item>
+    <id>2166301</id>
+    <ecommerce_id>787747546</ecommerce_id>
+    <title>Here's To Feeling Good All the Time</title>
+    <url>https://hopincraftbier.be/products/bissell-brothers-brewing-company-heres-to-feeling-good-all-the-time</url>
+    <price>0</price>
+    <brewery_name>Bissell Brothers Brewing Company</brewery_name>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5260588605.webp</image>
+    <beer_description>A worldly DIPA, liberally hopped with some of the finest hops Australia and the Pacific Northwest have to offer. Brewed with a hefty portion of wheat and oats for fluffiness on the palate. Juicy, dank, and Kramer Approved. Bissell Brothers Brewing Company - Here's To Feeling Good All the Time</beer_description>
+    <beer_style>IPA - Imperial / Double</beer_style>
+    <beer_abv>7.8%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>United States</brewery_country>
+    <untappd_id>2166301</untappd_id>
+  </item>
+  <item>
+    <id>4214697</id>
+    <ecommerce_id>787743586</ecommerce_id>
+    <title>Natural Flavors (Tangerine)</title>
+    <url>https://hopincraftbier.be/products/frequentem-brewing-co-natural-flavors-tangerine</url>
+    <price>0</price>
+    <brewery_name>Frequentem Brewing Co.</brewery_name>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5260644589.webp</image>
+    <beer_description>Kettle Soured, Azacca &amp; Idaho 7, Tangerine Frequentem Brewing Co. - Natural Flavors (Tangerine)</beer_description>
+    <beer_style>IPA - Sour</beer_style>
+    <beer_abv>6.5%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>United States</brewery_country>
+    <untappd_id>4214697</untappd_id>
+  </item>
+  <item>
+    <id>6393502</id>
+    <ecommerce_id>787743585</ecommerce_id>
+    <title>Mania!</title>
+    <url>https://hopincraftbier.be/products/willibald-farm-brewery-mania</url>
+    <price>0</price>
+    <brewery_name>Willibald Farm Brewery</brewery_name>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5260616558.webp</image>
+    <beer_description>Triple IPA with Citra, Mosaic, and Krush Hyperboost. Willibald Farm Brewery - Mania!</beer_description>
+    <beer_style>IPA - Triple New England / Hazy</beer_style>
+    <beer_abv>10%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Canada</brewery_country>
+    <untappd_id>6393502</untappd_id>
+  </item>
+  <item>
+    <id>6421716</id>
+    <ecommerce_id>787475908</ecommerce_id>
+    <title>West To the Sand</title>
+    <url>https://hopincraftbier.be/products/rivington-brewing-co-west-to-the-sand</url>
+    <price>0</price>
+    <brewery_name>Rivington Brewing Co</brewery_name>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5244389077.webp</image>
+    <beer_description>A West Coast Triple Dry Hopped Double IPA brewed with our mates from Floc &amp; Beak. Hopped with Columbus, Chinook, Amarillo, Nectaron, Simcoe, Amarillo Cryo, Simcoe Dynaboost &amp; Mosaic Cryo Rivington Brewing Co - West To the Sand</beer_description>
+    <beer_style>IPA - Imperial / Double</beer_style>
+    <beer_abv>8%</beer_abv>
+    <beer_volume>500 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>England</brewery_country>
+    <untappd_id>6421716</untappd_id>
+  </item>
+  <item>
+    <id>6365889</id>
+    <ecommerce_id>787475909</ecommerce_id>
+    <title>Dead Alive</title>
+    <url>https://hopincraftbier.be/products/rivington-brewing-co-dead-alive</url>
+    <price>0</price>
+    <brewery_name>Rivington Brewing Co</brewery_name>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5244389071.webp</image>
+    <beer_description>A Double IPA brewed with our mates from Friends Of The Tap. Hopped with El Dorado, Citra, Citra Dynaboost, Eclipse, El Dorado Cryo, Citra Cryo &amp; El Dorado Quantum Brite Rivington Brewing Co - Dead Alive</beer_description>
+    <beer_style>IPA - Imperial / Double</beer_style>
+    <beer_abv>8%</beer_abv>
+    <beer_volume>500 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>England</brewery_country>
+    <untappd_id>6365889</untappd_id>
   </item>
   <item>
     <id>6406071</id>
@@ -237,6 +537,22 @@
     <date_best_before>2026-03-10</date_best_before>
     <date_canned>2025-09-11</date_canned>
     <untappd_id>6406071</untappd_id>
+  </item>
+  <item>
+    <id>2521955</id>
+    <ecommerce_id>787278459</ecommerce_id>
+    <title>Money Cannon</title>
+    <url>https://hopincraftbier.be/products/brew-your-mind-money-cannon</url>
+    <price>0</price>
+    <brewery_name>Brew Your Mind</brewery_name>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5242091020.webp</image>
+    <beer_description>This double New England insired IPA is a collaboration with our good friend armando_otchoa. This one comes with a blast of tropical fruit flavors and a velvety mouthfeel. Made with 30g/L australian and american hops. Amarillo, Galaxy, Citra Brew Your Mind - Money Cannon</beer_description>
+    <beer_style>IPA - Imperial / Double</beer_style>
+    <beer_abv>8.3%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Hungary</brewery_country>
+    <untappd_id>2521955</untappd_id>
   </item>
   <item>
     <id>6320572</id>
@@ -478,6 +794,102 @@
     <untappd_id>6415742</untappd_id>
   </item>
   <item>
+    <id>6416326</id>
+    <ecommerce_id>784467356</ecommerce_id>
+    <title>Space Rocket</title>
+    <url>https://hopincraftbier.be/products/nano-cinco-space-rocket</url>
+    <price>0</price>
+    <brewery_name>Nano Cinco</brewery_name>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5260881608.webp</image>
+    <beer_description>Space Rocket is a blend of an imperial stout aged 34 months in Heaven Hill bourbon barrels and an imperial stout aged 12 months in Jeptha Creed bourbon barrels. It was then aged on toasted organic coconut from Sri Lanka and vanilla from Madagascar. The result is a powerful and syrupy beer where the sweetness of vanilla and bourbon combines perfectly with the intensity of coconut. ***Contains lactose*** Nano Cinco - Space Rocket</beer_description>
+    <beer_style>Stout - Imperial / Double</beer_style>
+    <beer_abv>11.9%</beer_abv>
+    <beer_volume>375 ml</beer_volume>
+    <beer_package>bottle</beer_package>
+    <brewery_country>Canada</brewery_country>
+    <untappd_id>6416326</untappd_id>
+  </item>
+  <item>
+    <id>6415131</id>
+    <ecommerce_id>784475108</ecommerce_id>
+    <title>Swim</title>
+    <url>https://hopincraftbier.be/products/slake-brewing-swim</url>
+    <price>0</price>
+    <brewery_name>Slake Brewing</brewery_name>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5260881626.webp</image>
+    <beer_description>Brewed for Slake's 5th anniversary Slake Brewing - Swim</beer_description>
+    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
+    <beer_abv>8%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Canada</brewery_country>
+    <untappd_id>6415131</untappd_id>
+  </item>
+  <item>
+    <id>6401924</id>
+    <ecommerce_id>782803254</ecommerce_id>
+    <title>Nelson Sauveur Rakau Hop Kief</title>
+    <url>https://hopincraftbier.be/products/a-la-derive-brasserie-artisanale-nelson-sauveur-rakau-hop-kief</url>
+    <price>0</price>
+    <brewery_name>À La Dérive Brasserie Artisanale</brewery_name>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5260880880.webp</image>
+    <beer_description>Cette version est élaborée avec une récolte tardive de Nelson Sauvin, qui apporte des notes plus herbacées (dank), de pamplemousse rose, de fruits tropicaux et de résine (cannabis). A La Derive Brasserie Artisanale - Nelson Sauveur Rakau Hop Kief</beer_description>
+    <beer_style>IPA - Imperial / Double</beer_style>
+    <beer_abv>8%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Canada</brewery_country>
+    <untappd_id>6401924</untappd_id>
+  </item>
+  <item>
+    <id>6400494</id>
+    <ecommerce_id>782794786</ecommerce_id>
+    <title>Abstract Entities V 1</title>
+    <url>https://hopincraftbier.be/products/resident-culture-abstract-entities-v-1</url>
+    <price>0</price>
+    <brewery_name>Resident Culture</brewery_name>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5260881818.webp</image>
+    <beer_description>A blend of 24-28 month old bourbon barrel aged Imperial Stout conditioned on blueberries, toasted almonds, and Ugandan vanilla. Resident Culture - Abstract Entities V 1</beer_description>
+    <beer_style>Stout - Imperial / Double Pastry</beer_style>
+    <beer_abv>13.3%</beer_abv>
+    <beer_volume>500 ml</beer_volume>
+    <beer_package>bottle</beer_package>
+    <brewery_country>United States</brewery_country>
+    <untappd_id>6400494</untappd_id>
+  </item>
+  <item>
+    <id>6400498</id>
+    <ecommerce_id>782803253</ecommerce_id>
+    <title>Abstract Entities V 2</title>
+    <url>https://hopincraftbier.be/products/resident-culture-abstract-entities-v-2</url>
+    <price>0</price>
+    <brewery_name>Resident Culture</brewery_name>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5260881800.webp</image>
+    <beer_description>A blend of 24-28 month old bourbon barrel aged Imperial Stout conditioned on ginger, nutmeg, cinnamon, clove and brown sugar. Resident Culture - Abstract Entities V 2</beer_description>
+    <beer_style>Stout - Imperial / Double Pastry</beer_style>
+    <beer_abv>13.3%</beer_abv>
+    <beer_volume>500 ml</beer_volume>
+    <beer_package>bottle</beer_package>
+    <brewery_country>United States</brewery_country>
+    <untappd_id>6400498</untappd_id>
+  </item>
+  <item>
+    <id>6400682</id>
+    <ecommerce_id>782794785</ecommerce_id>
+    <title>Nelson Sauveur Riwaka Hop Kief</title>
+    <url>https://hopincraftbier.be/products/a-la-derive-brasserie-artisanale-nelson-sauveur-riwaka-hop-kief</url>
+    <price>0</price>
+    <brewery_name>À La Dérive Brasserie Artisanale</brewery_name>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5260881830.webp</image>
+    <beer_description>Cette version est élaborée avec une récolte de mi-saison de Nelson Sauvin, qui apporte des notes de raisin vert, de sauvignon blanc et de groseille. A La Derive Brasserie Artisanale - Nelson Sauveur Riwaka Hop Kief</beer_description>
+    <beer_style>IPA - Imperial / Double</beer_style>
+    <beer_abv>8%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Canada</brewery_country>
+    <untappd_id>6400682</untappd_id>
+  </item>
+  <item>
     <id>979</id>
     <ecommerce_id>782350599</ecommerce_id>
     <title>IPA Pack</title>
@@ -578,6 +990,101 @@
     <bundle_skus>6205524,6208805,4033335,4570140</bundle_skus>
   </item>
   <item>
+    <id>3381892</id>
+    <ecommerce_id>781533752</ecommerce_id>
+    <title>Pressed - Maple</title>
+    <url>https://hopincraftbier.be/products/phase-three-brewing-pressed-maple</url>
+    <price>0</price>
+    <brewery_name>Phase Three Brewing</brewery_name>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5260881638.webp</image>
+    <beer_description>Imperial porter with Tugboat Coffee and maple Phase Three Brewing - Pressed - Maple</beer_description>
+    <beer_style>Porter - Imperial / Double Coffee</beer_style>
+    <beer_abv>12%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>United States</brewery_country>
+    <untappd_id>3381892</untappd_id>
+  </item>
+  <item>
+    <id>6406320</id>
+    <ecommerce_id>781533751</ecommerce_id>
+    <title>Ever Juice</title>
+    <url>https://hopincraftbier.be/products/tripping-animals-brewing-co-ever-juice</url>
+    <price>0</price>
+    <brewery_name>Tripping Animals Brewing Co.</brewery_name>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5260880889.webp</image>
+    <beer_description>DDH hazy Double India Pale Ale brewed with Mosaic, Strata and Motueka hops. Tripping Animals Brewing Co. - Ever Juice</beer_description>
+    <beer_style>IPA - Imperial / Double</beer_style>
+    <beer_abv>8%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>United States</brewery_country>
+    <untappd_id>6406320</untappd_id>
+  </item>
+  <item>
+    <id>4178441</id>
+    <ecommerce_id>781516951</ecommerce_id>
+    <title>Queen Snake</title>
+    <url>https://hopincraftbier.be/products/district-96-beer-factory-queen-snake</url>
+    <price>0</price>
+    <brewery_name>District 96 Beer Factory</brewery_name>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5260880888.webp</image>
+    <beer_description>We Did A Three Stage Triple Dry Hop With Simcoe &amp; Citra Lauren Was Fascinated With This New Technique And We’re Pretty Sure You Will Too. Big Notes Of PASSION Fruit, Long Stem Strawberries, Peach And With Our Famous SNAKEFRUIT Finish District 96 Beer Factory - Queen Snake</beer_description>
+    <beer_style>IPA - Triple New England / Hazy</beer_style>
+    <beer_abv>10%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>United States</brewery_country>
+    <untappd_id>4178441</untappd_id>
+  </item>
+  <item>
+    <id>4229403</id>
+    <ecommerce_id>781516950</ecommerce_id>
+    <title>Snake Eyes</title>
+    <url>https://hopincraftbier.be/products/district-96-beer-factory-snake-eyes</url>
+    <price>0</price>
+    <brewery_name>District 96 Beer Factory</brewery_name>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5260881632.webp</image>
+    <beer_description>We Binary Arid Hopped With Cashmere, More Cashmere And Even More Cashmere With A Dusting Of Citra And Vic Secret. Notes Of Watermelon, Lemon , Creamy Kumquat, Pass Lines, Press Press Press Your Bet And Our Signature Snake Fruit Finish. District 96 Beer Factory - Snake Eyes</beer_description>
+    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
+    <beer_abv>8%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>United States</brewery_country>
+    <untappd_id>4229403</untappd_id>
+  </item>
+  <item>
+    <id>6439269</id>
+    <ecommerce_id>781411003</ecommerce_id>
+    <title>Bourbon County Brand Chocolate Praline Stout</title>
+    <url>https://hopincraftbier.be/products/goose-island-beer-co-bourbon-county-brand-chocolate-praline-stout</url>
+    <price>0</price>
+    <brewery_name>Goose Island Beer Co.</brewery_name>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5247495090.webp</image>
+    <beer_description>Layered with a blend of cocoa nibs, hazelnuts, almonds, cashews, and dates, the classic flavors of a chocolate praline. Goose Island Beer Co. - Bourbon County Brand Chocolate Praline Stout</beer_description>
+    <beer_style>Stout</beer_style>
+    <beer_abv>?</beer_abv>
+    <beer_volume>500 ml</beer_volume>
+    <beer_package>bottle</beer_package>
+    <brewery_country>United States</brewery_country>
+    <untappd_id>6439269</untappd_id>
+  </item>
+  <item>
+    <id>666</id>
+    <ecommerce_id>781338741</ecommerce_id>
+    <title>Bourbon County Brand Original Stout (2025)</title>
+    <url>https://hopincraftbier.be/products/goose-island-beer-co-bourbon-county-brand-original-stout-2025</url>
+    <price>0</price>
+    <brewery_name>Goose Island Beer Co.</brewery_name>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5247495098.webp</image>
+    <beer_description>2025 Bourbon County Brand Original Stout was aged in a blend of freshly emptied barrels from Buffalo Trace, Heaven Hill, Four Roses, and Wild Turkey. With an average aging time of 14 months, this stout delivers deeply developed flavors of fudge, vanilla, and caramelized sugar—all wrapped in a rich, decadent mouthfeel.</beer_description>
+    <beer_style>Stout</beer_style>
+    <beer_abv>?</beer_abv>
+    <beer_volume>295 ml</beer_volume>
+    <beer_package>bottle</beer_package>
+    <brewery_country>United States</brewery_country>
+  </item>
+  <item>
     <id>6300505</id>
     <ecommerce_id>780633044</ecommerce_id>
     <title>Drake Passage</title>
@@ -610,6 +1117,38 @@
     <brewery_country>England</brewery_country>
     <date_best_before>2026-04-30</date_best_before>
     <untappd_id>6359265</untappd_id>
+  </item>
+  <item>
+    <id>5559381</id>
+    <ecommerce_id>780359012</ecommerce_id>
+    <title>Rip This Joint (2023)</title>
+    <url>https://hopincraftbier.be/products/firestone-walker-brewing-company-rip-this-joint-2023</url>
+    <price>0</price>
+    <brewery_name>Firestone Walker Brewing Company</brewery_name>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5260881615.webp</image>
+    <beer_description>-Brewmaster's Collective Exclusive- Don’t miss this collaboration with our friends from Side Project Brewing! Aged in Henry McKenna bourbon barrels, this colossal stout with a variety of specialty malts is simultaneously viscous &amp; smooth. Firestone Walker Brewing Company - Rip This Joint (2023)</beer_description>
+    <beer_style>Stout - Imperial / Double</beer_style>
+    <beer_abv>13.9%</beer_abv>
+    <beer_volume>355 ml</beer_volume>
+    <beer_package>bottle</beer_package>
+    <brewery_country>United States</brewery_country>
+    <untappd_id>5559381</untappd_id>
+  </item>
+  <item>
+    <id>6247096</id>
+    <ecommerce_id>780359011</ecommerce_id>
+    <title>Midnight Merkin (2025)</title>
+    <url>https://hopincraftbier.be/products/firestone-walker-brewing-company-midnight-merkin-2025</url>
+    <price>0</price>
+    <brewery_name>Firestone Walker Brewing Company</brewery_name>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5260881812.webp</image>
+    <beer_description>A luxurious stout aged 18 months in bourbon and rye barrels. Vanilla, cocoa nibs, and almonds swirl into rich layers of oak, spice, and dark chocolate decadence. Firestone Walker Brewing Company - Midnight Merkin (2025)</beer_description>
+    <beer_style>Stout - Pastry</beer_style>
+    <beer_abv>11.1%</beer_abv>
+    <beer_volume>355 ml</beer_volume>
+    <beer_package>bottle</beer_package>
+    <brewery_country>United States</brewery_country>
+    <untappd_id>6247096</untappd_id>
   </item>
   <item>
     <id>984</id>
@@ -785,6 +1324,166 @@
     <untappd_id>6314891</untappd_id>
   </item>
   <item>
+    <id>6059732</id>
+    <ecommerce_id>778813134</ecommerce_id>
+    <title>Les Fleurs Du Mal</title>
+    <url>https://hopincraftbier.be/products/brasserie-du-bas-canada-les-fleurs-du-mal</url>
+    <price>0</price>
+    <brewery_name>Brasserie du Bas-Canada</brewery_name>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5260881836.webp</image>
+    <beer_description>Collaboration avec Xul Beer Co. - Triple IPA aux houblons Citra, Peacharine, Rakau, Kohia Nelson, Citra Incognito &amp; Citra Hyber Boost Brasserie du Bas-Canada - Les Fleurs Du Mal</beer_description>
+    <beer_style>IPA - Triple</beer_style>
+    <beer_abv>10%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Canada</brewery_country>
+    <untappd_id>6059732</untappd_id>
+  </item>
+  <item>
+    <id>4886997</id>
+    <ecommerce_id>778812647</ecommerce_id>
+    <title>Clock Tower Swirls</title>
+    <url>https://hopincraftbier.be/products/mortalis-brewing-company-clock-tower-swirls</url>
+    <price>0</price>
+    <brewery_name>Mortalis Brewing Company</brewery_name>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5260880886.webp</image>
+    <beer_description>This Imperial Stout was brewed in collaboration with Aslin Beer. A full bodied base is met with layers of rich chocolate, butterscotch, peanuts, and ice cream. Grab a spoon and dig in. Mortalis Brewing Company - Clock Tower Swirls</beer_description>
+    <beer_style>Stout - Imperial / Double Pastry</beer_style>
+    <beer_abv>10%</beer_abv>
+    <beer_volume>500 ml</beer_volume>
+    <beer_package>bottle</beer_package>
+    <brewery_country>United States</brewery_country>
+    <untappd_id>4886997</untappd_id>
+  </item>
+  <item>
+    <id>2873940</id>
+    <ecommerce_id>778813133</ecommerce_id>
+    <title>Néron</title>
+    <url>https://hopincraftbier.be/products/brasserie-du-bas-canada-neron</url>
+    <price>0</price>
+    <brewery_name>Brasserie du Bas-Canada</brewery_name>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5260880910.webp</image>
+    <beer_description>Double IPA aux houblons Galaxy, Citra &amp; Amarillo. Brasserie du Bas-Canada - Neron</beer_description>
+    <beer_style>IPA - Imperial / Double</beer_style>
+    <beer_abv>8%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Canada</brewery_country>
+    <untappd_id>2873940</untappd_id>
+  </item>
+  <item>
+    <id>5697352</id>
+    <ecommerce_id>778813132</ecommerce_id>
+    <title>ParabaNoche (2024)</title>
+    <url>https://hopincraftbier.be/products/firestone-walker-brewing-company-parabanoche-2024</url>
+    <price>0</price>
+    <brewery_name>Firestone Walker Brewing Company</brewery_name>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5260881614.webp</image>
+    <beer_description>We burned the midnight oil collaborating with our friends at Weldworks Brewing Co to create one of the biggest beers we’ve ever brewed. A massive stout stuffed with specialty malts matured for 18 months in special Parker’s Heritage Whiskey barrels, the final blend radiates with sweet flavors of dark chocolate, caramel, roasted coffee, vanilla and whiskey. Firestone Walker Brewing Company - ParabaNoche (2024)</beer_description>
+    <beer_style>Stout - Imperial / Double</beer_style>
+    <beer_abv>13.2%</beer_abv>
+    <beer_volume>355 ml</beer_volume>
+    <beer_package>bottle</beer_package>
+    <brewery_country>United States</brewery_country>
+    <untappd_id>5697352</untappd_id>
+  </item>
+  <item>
+    <id>5689810</id>
+    <ecommerce_id>778812646</ecommerce_id>
+    <title>Mashish W/Peanut Butter, Chocolate, And Marshmallow</title>
+    <url>https://hopincraftbier.be/products/dankhouse-brewing-company-mashish-w-peanut-butter-chocolate-and-marshmallow</url>
+    <price>0</price>
+    <brewery_name>DankHouse Brewing Company</brewery_name>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5260881819.webp</image>
+    <beer_description>Our base Mashish with some peanut butter, chocolate, and marshmallow. DankHouse Brewing Company - Mashish W/Peanut Butter, Chocolate, And Marshmallow</beer_description>
+    <beer_style>Stout - Imperial / Double Pastry</beer_style>
+    <beer_abv>13%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>United States</brewery_country>
+    <untappd_id>5689810</untappd_id>
+  </item>
+  <item>
+    <id>5697568</id>
+    <ecommerce_id>778812645</ecommerce_id>
+    <title>Sleep Mode (2024)</title>
+    <url>https://hopincraftbier.be/products/firestone-walker-brewing-company-sleep-mode-2024</url>
+    <price>0</price>
+    <brewery_name>Firestone Walker Brewing Company</brewery_name>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5260881806.webp</image>
+    <beer_description>A new blend of barleywine from our stock of mature barrels–don’t hit snooze on Sleep Mode. Comprising liquid gold matured for 36 months in Weller wheated whiskey and Heaven Hill bourbon barrels, this beer pours a chestnut brown before opening up with aromas and flavors of dark chocolate-covered caramel, cherry, and dried fruit. Firestone Walker Brewing Company - Sleep Mode (2024)</beer_description>
+    <beer_style>Barleywine - Other</beer_style>
+    <beer_abv>13.2%</beer_abv>
+    <beer_volume>355 ml</beer_volume>
+    <beer_package>bottle</beer_package>
+    <brewery_country>United States</brewery_country>
+    <untappd_id>5697568</untappd_id>
+  </item>
+  <item>
+    <id>6383222</id>
+    <ecommerce_id>778813131</ecommerce_id>
+    <title>Triple Cheeseburger</title>
+    <url>https://hopincraftbier.be/products/dankhouse-brewing-company-triple-cheeseburger</url>
+    <price>0</price>
+    <brewery_name>DankHouse Brewing Company</brewery_name>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5260881644.webp</image>
+    <beer_description>The big brother to Double Cheeseburger, dry hopped with Rakau, Motueka, Nelson Sauvin, and Kohia Nelson Hop Kief. DankHouse Brewing Company - Triple Cheeseburger</beer_description>
+    <beer_style>IPA - Triple New England / Hazy</beer_style>
+    <beer_abv>10%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>United States</brewery_country>
+    <untappd_id>6383222</untappd_id>
+  </item>
+  <item>
+    <id>5755528</id>
+    <ecommerce_id>778813130</ecommerce_id>
+    <title>Distributed Ledger</title>
+    <url>https://hopincraftbier.be/products/spyglass-brewing-company-distributed-ledger</url>
+    <price>0</price>
+    <brewery_name>Spyglass Brewing Company</brewery_name>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5260880887.webp</image>
+    <beer_description>A New England style TIPA - triple dry hopped with Citra, Motueka and Simcoe. Spyglass Brewing Company - Distributed Ledger</beer_description>
+    <beer_style>IPA - Triple New England / Hazy</beer_style>
+    <beer_abv>9.8%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>United States</brewery_country>
+    <untappd_id>5755528</untappd_id>
+  </item>
+  <item>
+    <id>3717200</id>
+    <ecommerce_id>778817618</ecommerce_id>
+    <title>Cantuccini</title>
+    <url>https://hopincraftbier.be/products/brasserie-sir-john-brewing-co-cantuccini</url>
+    <price>0</price>
+    <brewery_name>Brasserie Sir John Brewing Co.</brewery_name>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5260881794.webp</image>
+    <beer_description>The Cantuccini is our love letter to this famous little almond biscuit from Tuscany. Far from being as dry as the biscotti that inspires it, our version of the Cantuccini is a liquid nectar, rich in flavor and body that is perfect as a digestif or at the end of the evening. Brewed and packaged with espresso coffee from our friends at KOHI Micro-roaster, Madagascar vanilla, Upala cacao nibs, lactose, maple syrup and LOTS of toasted almonds. After the first sip, you too will be writing to yourself: 'mio dio questo è buono! Grazie Sir Giovanni!' Brasserie Sir John Brewing Co. - Cantuccini</beer_description>
+    <beer_style>Stout - Imperial / Double Pastry</beer_style>
+    <beer_abv>10%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Canada</brewery_country>
+    <untappd_id>3717200</untappd_id>
+  </item>
+  <item>
+    <id>6365435</id>
+    <ecommerce_id>778817619</ecommerce_id>
+    <title>Sun JUJU</title>
+    <url>https://hopincraftbier.be/products/tripping-animals-brewing-co-sun-juju</url>
+    <price>0</price>
+    <brewery_name>Tripping Animals Brewing Co.</brewery_name>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5260880949.webp</image>
+    <beer_description>Hazy IPA with Peacharine, Kohia Nelson and Simcoe Hops brewed in collaboration with Ology out of Tampa Bay Florida Tripping Animals Brewing Co. - Sun Juju</beer_description>
+    <beer_style>IPA - New England / Hazy</beer_style>
+    <beer_abv>6.5%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>United States</brewery_country>
+    <untappd_id>6365435</untappd_id>
+  </item>
+  <item>
     <id>6376660</id>
     <ecommerce_id>778812582</ecommerce_id>
     <title>Living Large</title>
@@ -820,7 +1519,7 @@
     <id>6154310</id>
     <ecommerce_id>778817581</ecommerce_id>
     <title>Sumi Ink (2025)</title>
-    <url>https://hopincraftbier.be/products/grimm-artisanal-ales-sumi-ink025</url>
+    <url>https://hopincraftbier.be/products/grimm-artisanal-ales-sumi-ink-2025</url>
     <price>23.17</price>
     <brewery_name>Grimm Artisanal Ales</brewery_name>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5243356460.webp</image>
@@ -1061,7 +1760,7 @@
     <id>6366648</id>
     <ecommerce_id>777450053</ecommerce_id>
     <title>Daydreamer 2025</title>
-    <url>https://hopincraftbier.be/products/factory-brewing-daydreamer025</url>
+    <url>https://hopincraftbier.be/products/factory-brewing-daydreamer-2025</url>
     <price>7.51</price>
     <brewery_name>Factory Brewing</brewery_name>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5260443289.webp</image>
@@ -1096,7 +1795,7 @@
     <id>3496008</id>
     <ecommerce_id>774329587</ecommerce_id>
     <title>2 Year Reserve Bourbon County Brand Stout (2019)</title>
-    <url>https://hopincraftbier.be/products/goose-island-beer-co-year-reserve-bourbon-county-brand-stout019</url>
+    <url>https://hopincraftbier.be/products/goose-island-beer-co-2-year-reserve-bourbon-county-brand-stout-2019</url>
     <price>21.81</price>
     <brewery_name>Goose Island Beer Co.</brewery_name>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5243343607.webp</image>
@@ -1112,7 +1811,7 @@
     <id>4185018</id>
     <ecommerce_id>774330341</ecommerce_id>
     <title>Players 1 - Batch 2</title>
-    <url>https://hopincraftbier.be/products/equilibrium-brewery-players-batch</url>
+    <url>https://hopincraftbier.be/products/equilibrium-brewery-players-1-batch-2</url>
     <price>23.17</price>
     <brewery_name>Equilibrium Brewery</brewery_name>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5243361408.webp</image>
@@ -1178,7 +1877,7 @@
     <id>6272015</id>
     <ecommerce_id>770507752</ecommerce_id>
     <title>City Cake 2025</title>
-    <url>https://hopincraftbier.be/products/varvar-brew-city-cake025</url>
+    <url>https://hopincraftbier.be/products/varvar-brew-city-cake-2025</url>
     <price>6.7</price>
     <brewery_name>Varvar Brew</brewery_name>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5073876599.webp</image>
@@ -1265,10 +1964,58 @@
     <bundle_skus>6215162,6223449,6210907,6238201,6220762</bundle_skus>
   </item>
   <item>
-    <id>6332895_1</id>
-    <ecommerce_id>768807105_1</ecommerce_id>
+    <id>5928410</id>
+    <ecommerce_id>769146034</ecommerce_id>
+    <title>Heavy Souls (2024)</title>
+    <url>https://hopincraftbier.be/products/firestone-walker-brewing-company-heavy-souls-2024</url>
+    <price>0</price>
+    <brewery_name>Firestone Walker Brewing Company</brewery_name>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5260881664.webp</image>
+    <beer_description>We teamed up with Frau Gruber from Germany to craft Heavy Souls, a unique pastry stout. Brewed with pecans, hazelnuts, and vanilla beans, it offers a sensory journey evoking praline pie, s’mores, and candied figs. Aged for 12 months in 12-year Elijah Craig Bourbon barrels, it blends complexity with decadence. Experience Heavy Souls—a collaboration masterpiece, rich in barrel-aged flavors that linger delightfully. Firestone Walker Brewing Company - Heavy Souls (2024)</beer_description>
+    <beer_style>Stout - Imperial / Double Pastry</beer_style>
+    <beer_abv>12.5%</beer_abv>
+    <beer_volume>355 ml</beer_volume>
+    <beer_package>bottle</beer_package>
+    <brewery_country>United States</brewery_country>
+    <untappd_id>5928410</untappd_id>
+  </item>
+  <item>
+    <id>4977403</id>
+    <ecommerce_id>769161768</ecommerce_id>
+    <title>Heavy Things (2022)</title>
+    <url>https://hopincraftbier.be/products/firestone-walker-brewing-company-heavy-things-2022</url>
+    <price>0</price>
+    <brewery_name>Firestone Walker Brewing Company</brewery_name>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5260880918.webp</image>
+    <beer_description>-Brewmaster's Collective Exclusive- Brewed in collaboration with our friends at The Bruery, Heavy Things is a decadent barleywine co-fermented with maple syrup and then aged in brandy barrels for 8 months that pushes the limits of what our house yeast is capable of. The unique fermentation and barrel finishing give it a sweet and malty profile with huge flavors of maple syrup, toffee, bananas foster, candied apple, and figs. Firestone Walker Brewing Company - Heavy Things (2022)</beer_description>
+    <beer_style>Barleywine - American</beer_style>
+    <beer_abv>16.5%</beer_abv>
+    <beer_volume>355 ml</beer_volume>
+    <beer_package>bottle</beer_package>
+    <brewery_country>United States</brewery_country>
+    <untappd_id>4977403</untappd_id>
+  </item>
+  <item>
+    <id>4969423</id>
+    <ecommerce_id>769146258</ecommerce_id>
+    <title>Rye Double DBA (2022)</title>
+    <url>https://hopincraftbier.be/products/firestone-walker-brewing-company-rye-double-dba-2022</url>
+    <price>0</price>
+    <brewery_name>Firestone Walker Brewing Company</brewery_name>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5260880924.webp</image>
+    <beer_description>-Brewmaster's Collective Exclusive- A special imperial edition of the beer that started it all for Firestone Walker: DBA. We added a dash of rye to the original DBA mash bill, then aged the beer in 10-year-old rye whiskey barrels. Peppery spice notes from the rye play perfectly off DBA's caramel and butterscotch character, creating an amped-up iteration of a brewery classic. Firestone Walker Brewing Company - Rye Double DBA (2022)</beer_description>
+    <beer_style>Bitter - Extra Special / Strong (ESB)</beer_style>
+    <beer_abv>12.6%</beer_abv>
+    <beer_volume>500 ml</beer_volume>
+    <beer_package>bottle</beer_package>
+    <brewery_country>United States</brewery_country>
+    <untappd_id>4969423</untappd_id>
+  </item>
+  <item>
+    <id>6332895</id>
+    <ecommerce_id>768807105</ecommerce_id>
     <title>The Don</title>
-    <url>https://hopincraftbier.be/products/verdant-brewing-co-the-don-1</url>
+    <url>https://hopincraftbier.be/products/verdant-brewing-co-the-don</url>
     <price>10.69</price>
     <brewery_name>Verdant Brewing Co</brewery_name>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5062293847.webp</image>
@@ -1282,10 +2029,10 @@
     <untappd_id>6332895</untappd_id>
   </item>
   <item>
-    <id>4886029_1</id>
-    <ecommerce_id>768807104_1</ecommerce_id>
+    <id>4886029</id>
+    <ecommerce_id>768807104</ecommerce_id>
     <title>Whale Sharks</title>
-    <url>https://hopincraftbier.be/products/verdant-brewing-co-whale-sharks-1</url>
+    <url>https://hopincraftbier.be/products/verdant-brewing-co-whale-sharks</url>
     <price>9.02</price>
     <brewery_name>Verdant Brewing Co</brewery_name>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5062293813.webp</image>
@@ -1299,10 +2046,10 @@
     <untappd_id>4886029</untappd_id>
   </item>
   <item>
-    <id>6271344_1</id>
-    <ecommerce_id>768809793_1</ecommerce_id>
+    <id>6271344</id>
+    <ecommerce_id>768809793</ecommerce_id>
     <title>Flux: Phase 3</title>
-    <url>https://hopincraftbier.be/products/verdant-brewing-co-flux-phase-3-1</url>
+    <url>https://hopincraftbier.be/products/verdant-brewing-co-flux-phase-3</url>
     <price>9.44</price>
     <brewery_name>Verdant Brewing Co</brewery_name>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5062294321.webp</image>
@@ -1319,7 +2066,7 @@
     <id>6177421</id>
     <ecommerce_id>768809794</ecommerce_id>
     <title>Solitude, Silence And Darkness 2025</title>
-    <url>https://hopincraftbier.be/products/brasseria-della-fonte-solitude-silence-and-darkness025</url>
+    <url>https://hopincraftbier.be/products/brasseria-della-fonte-solitude-silence-and-darkness-2025</url>
     <price>24.61</price>
     <brewery_name>Brasseria Della Fonte</brewery_name>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5062244747.webp</image>
@@ -1350,6 +2097,23 @@
     <untappd_id>3527025</untappd_id>
   </item>
   <item>
+    <id>2853519</id>
+    <ecommerce_id>767361436</ecommerce_id>
+    <title>Reserve Bourbon County Brand Stout (2018)</title>
+    <url>https://hopincraftbier.be/products/goose-island-beer-co-reserve-bourbon-county-brand-stout-2018</url>
+    <price>20.86</price>
+    <brewery_name>Goose Island Beer Co.</brewery_name>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5145553742.webp</image>
+    <beer_description>The same base recipe as Bourbon County Stout Original, but this beer is aged in 12 year old “Elijah Craig Barrel Proof” bourbon barrels. The bourbon from those barrels was awarded 2017 “Whisky of the Year” by Whisky Advocate, the top honor in the world of international whisky. Reserve is intended to showcase the nuances of a premium single source and highly sought after bourbon. Goose Island Beer Co. - Reserve Bourbon County Brand Stout (2018)</beer_description>
+    <beer_style>Stout - Imperial / Double</beer_style>
+    <beer_abv>15.2%</beer_abv>
+    <beer_volume>500 ml</beer_volume>
+    <beer_package>bottle</beer_package>
+    <brewery_country>United States</brewery_country>
+    <date_canned>2018-08-04</date_canned>
+    <untappd_id>2853519</untappd_id>
+  </item>
+  <item>
     <id>3925367</id>
     <ecommerce_id>767361435</ecommerce_id>
     <title>Héliades</title>
@@ -1370,7 +2134,7 @@
     <id>6316537</id>
     <ecommerce_id>767352721</ecommerce_id>
     <title>Chasing Trees: Strain 24</title>
-    <url>https://hopincraftbier.be/products/dankhouse-brewing-company-chasing-trees-strain4</url>
+    <url>https://hopincraftbier.be/products/dankhouse-brewing-company-chasing-trees-strain-24</url>
     <price>10.34</price>
     <brewery_name>DankHouse Brewing Company</brewery_name>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5145623756.webp</image>
@@ -1404,7 +2168,7 @@
     <id>5100372</id>
     <ecommerce_id>767361434</ecommerce_id>
     <title>Bourbon County Brand 30th Anniversary Reserve Stout (2022)</title>
-    <url>https://hopincraftbier.be/products/goose-island-beer-co-bourbon-county-brand-30th-anniversary-reserve-stout022</url>
+    <url>https://hopincraftbier.be/products/goose-island-beer-co-bourbon-county-brand-30th-anniversary-reserve-stout-2022</url>
     <price>29.01</price>
     <brewery_name>Goose Island Beer Co.</brewery_name>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5260703454.webp</image>
@@ -1488,7 +2252,7 @@
     <id>5853339</id>
     <ecommerce_id>767352717</ecommerce_id>
     <title>Kentuckley (2024)</title>
-    <url>https://hopincraftbier.be/products/transient-artisan-ales-kentuckley024</url>
+    <url>https://hopincraftbier.be/products/transient-artisan-ales-kentuckley-2024</url>
     <price>31.05</price>
     <brewery_name>Transient Artisan Ales</brewery_name>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5260703484.webp</image>
@@ -1824,10 +2588,10 @@
     <bundle_skus>6220978,6149303,6220983,6220981</bundle_skus>
   </item>
   <item>
-    <id>991_1</id>
-    <ecommerce_id>765685018_1</ecommerce_id>
+    <id>991</id>
+    <ecommerce_id>765685018</ecommerce_id>
     <title>Moersleutel Craft Brewery Stout Pack</title>
-    <url>https://hopincraftbier.be/products/moersleutel-craft-brewery-stout-pack-1</url>
+    <url>https://hopincraftbier.be/products/moersleutel-craft-brewery-stout-pack</url>
     <price>17.81</price>
     <brewery_name>Moersleutel Craft Brewery</brewery_name>
     <regular_price>25.44</regular_price>
@@ -2072,10 +2836,10 @@
     <untappd_id>6164819</untappd_id>
   </item>
   <item>
-    <id>5894573_2</id>
-    <ecommerce_id>761859075_2</ecommerce_id>
+    <id>5894573</id>
+    <ecommerce_id>761859075</ecommerce_id>
     <title>MEGA MUFFIN</title>
-    <url>https://hopincraftbier.be/products/stigbergets-bryggeri-mega-muffin-2</url>
+    <url>https://hopincraftbier.be/products/stigbergets-bryggeri-mega-muffin</url>
     <price>7.04</price>
     <brewery_name>Stigbergets Bryggeri</brewery_name>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5000921830.webp</image>
@@ -2139,10 +2903,10 @@
     <untappd_id>6289690</untappd_id>
   </item>
   <item>
-    <id>988_1</id>
-    <ecommerce_id>760124883_1</ecommerce_id>
+    <id>988</id>
+    <ecommerce_id>760124883</ecommerce_id>
     <title>9 Years Anniversary Set</title>
-    <url>https://hopincraftbier.be/products/moersleutel-craft-brewery-9-years-anniversary-set-1</url>
+    <url>https://hopincraftbier.be/products/moersleutel-craft-brewery-9-years-anniversary-set</url>
     <price>60.87</price>
     <brewery_name>Moersleutel Craft Brewery</brewery_name>
     <regular_price>76.09</regular_price>
@@ -2159,10 +2923,10 @@
     <bundle_skus>6308977,6299163,6294931,6291430,6291425,6291421,6274029,6274026,6274022</bundle_skus>
   </item>
   <item>
-    <id>6299163_1</id>
-    <ecommerce_id>760115316_1</ecommerce_id>
+    <id>6299163</id>
+    <ecommerce_id>760115316</ecommerce_id>
     <title>9 Years: Helios' Island</title>
-    <url>https://hopincraftbier.be/products/moersleutel-craft-brewery-9-years-helios-island-1</url>
+    <url>https://hopincraftbier.be/products/moersleutel-craft-brewery-9-years-helios-island</url>
     <price>8.09</price>
     <brewery_name>Moersleutel Craft Brewery</brewery_name>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4984824502.webp</image>
@@ -2176,10 +2940,10 @@
     <untappd_id>6299163</untappd_id>
   </item>
   <item>
-    <id>6294931_1</id>
-    <ecommerce_id>760115315_1</ecommerce_id>
+    <id>6294931</id>
+    <ecommerce_id>760115315</ecommerce_id>
     <title>9 Years: Calypso’s Temptation</title>
-    <url>https://hopincraftbier.be/products/moersleutel-craft-brewery-9-years-calypsos-temptation-1</url>
+    <url>https://hopincraftbier.be/products/moersleutel-craft-brewery-9-years-calypsos-temptation</url>
     <price>12.55</price>
     <brewery_name>Moersleutel Craft Brewery</brewery_name>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4984813137.webp</image>
@@ -2193,10 +2957,10 @@
     <untappd_id>6294931</untappd_id>
   </item>
   <item>
-    <id>6308977_1</id>
-    <ecommerce_id>760124308_1</ecommerce_id>
+    <id>6308977</id>
+    <ecommerce_id>760124308</ecommerce_id>
     <title>9 Years: Confronting Suitors</title>
-    <url>https://hopincraftbier.be/products/moersleutel-craft-brewery-9-years-confronting-suitors-1</url>
+    <url>https://hopincraftbier.be/products/moersleutel-craft-brewery-9-years-confronting-suitors</url>
     <price>12.55</price>
     <brewery_name>Moersleutel Craft Brewery</brewery_name>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4984810987.webp</image>
@@ -2226,10 +2990,10 @@
     <untappd_id>5571412</untappd_id>
   </item>
   <item>
-    <id>6291421_1</id>
-    <ecommerce_id>758587302_1</ecommerce_id>
+    <id>6291421</id>
+    <ecommerce_id>758587302</ecommerce_id>
     <title>9 Years: Journey To Hades</title>
-    <url>https://hopincraftbier.be/products/moersleutel-craft-brewery-9-years-journey-to-hades-1</url>
+    <url>https://hopincraftbier.be/products/moersleutel-craft-brewery-9-years-journey-to-hades</url>
     <price>7.51</price>
     <brewery_name>Moersleutel Craft Brewery</brewery_name>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4972515071.webp</image>
@@ -2243,10 +3007,10 @@
     <untappd_id>6291421</untappd_id>
   </item>
   <item>
-    <id>6291425_1</id>
-    <ecommerce_id>758587301_1</ecommerce_id>
+    <id>6291425</id>
+    <ecommerce_id>758587301</ecommerce_id>
     <title>9 Years: Return To Ithaca</title>
-    <url>https://hopincraftbier.be/products/moersleutel-craft-brewery-9-years-return-to-ithaca-1</url>
+    <url>https://hopincraftbier.be/products/moersleutel-craft-brewery-9-years-return-to-ithaca</url>
     <price>7.65</price>
     <brewery_name>Moersleutel Craft Brewery</brewery_name>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4972502476.webp</image>
@@ -2260,10 +3024,10 @@
     <untappd_id>6291425</untappd_id>
   </item>
   <item>
-    <id>6291430_1</id>
-    <ecommerce_id>758588299_1</ecommerce_id>
+    <id>6291430</id>
+    <ecommerce_id>758588299</ecommerce_id>
     <title>9 Years: Scylla And Charybdis</title>
-    <url>https://hopincraftbier.be/products/moersleutel-craft-brewery-9-years-scylla-and-charybdis-1</url>
+    <url>https://hopincraftbier.be/products/moersleutel-craft-brewery-9-years-scylla-and-charybdis</url>
     <price>7.65</price>
     <brewery_name>Moersleutel Craft Brewery</brewery_name>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4972502481.webp</image>
@@ -2280,7 +3044,7 @@
     <id>6275899</id>
     <ecommerce_id>757089764</ecommerce_id>
     <title>Endolith (2025)</title>
-    <url>https://hopincraftbier.be/products/jackie-os-brewery-endolith025</url>
+    <url>https://hopincraftbier.be/products/jackie-os-brewery-endolith-2025</url>
     <price>18.96</price>
     <brewery_name>Jackie O’s Brewery</brewery_name>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4966171358.webp</image>
@@ -2673,10 +3437,10 @@
     <untappd_id>6261817</untappd_id>
   </item>
   <item>
-    <id>6274026_1</id>
-    <ecommerce_id>755488875_1</ecommerce_id>
+    <id>6274026</id>
+    <ecommerce_id>755488875</ecommerce_id>
     <title>9 Years: Circe's Enchantment</title>
-    <url>https://hopincraftbier.be/products/moersleutel-craft-brewery-9-years-circes-enchantment-1</url>
+    <url>https://hopincraftbier.be/products/moersleutel-craft-brewery-9-years-circes-enchantment</url>
     <price>6.77</price>
     <brewery_name>Moersleutel Craft Brewery</brewery_name>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4955042644.webp</image>
@@ -2690,10 +3454,10 @@
     <untappd_id>6274026</untappd_id>
   </item>
   <item>
-    <id>6274022_1</id>
-    <ecommerce_id>755488874_1</ecommerce_id>
+    <id>6274022</id>
+    <ecommerce_id>755488874</ecommerce_id>
     <title>9 Years: Cyclops Escape</title>
-    <url>https://hopincraftbier.be/products/moersleutel-craft-brewery-9-years-cyclops-escape-1</url>
+    <url>https://hopincraftbier.be/products/moersleutel-craft-brewery-9-years-cyclops-escape</url>
     <price>6.31</price>
     <brewery_name>Moersleutel Craft Brewery</brewery_name>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4955042654.webp</image>
@@ -2707,10 +3471,10 @@
     <untappd_id>6274022</untappd_id>
   </item>
   <item>
-    <id>6274029_1</id>
-    <ecommerce_id>755489654_1</ecommerce_id>
+    <id>6274029</id>
+    <ecommerce_id>755489654</ecommerce_id>
     <title>9 Years: Siren Encounter</title>
-    <url>https://hopincraftbier.be/products/moersleutel-craft-brewery-9-years-siren-encounter-1</url>
+    <url>https://hopincraftbier.be/products/moersleutel-craft-brewery-9-years-siren-encounter</url>
     <price>7.01</price>
     <brewery_name>Moersleutel Craft Brewery</brewery_name>
     <regular_price>7.01</regular_price>
@@ -2723,6 +3487,46 @@
     <brewery_country>The Netherlands</brewery_country>
     <date_best_before>2028-03-28</date_best_before>
     <untappd_id>6274029</untappd_id>
+  </item>
+  <item>
+    <id>997</id>
+    <ecommerce_id>755337082</ecommerce_id>
+    <title>Omnipollo Pack</title>
+    <url>https://hopincraftbier.be/products/omnipollo-pack</url>
+    <price>22.81</price>
+    <brewery_name>Omnipollo</brewery_name>
+    <regular_price>25.34</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4953211476.webp</image>
+    <beer_description>The Omnipollo pack consists of: - Another Marshmallow Ale - Three Times Three Vol. 5 - Triple Amun</beer_description>
+    <beer_style>IPA</beer_style>
+    <beer_abv>8.2 - 9 %</beer_abv>
+    <beer_volume>3x440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Sweden</brewery_country>
+    <date_best_before>2025-12-10</date_best_before>
+    <beer_package_count>3</beer_package_count>
+    <beer_bundle>1</beer_bundle>
+    <bundle_skus>6121304,6094567,6088695</bundle_skus>
+  </item>
+  <item>
+    <id>998</id>
+    <ecommerce_id>754081693</ecommerce_id>
+    <title>Pack</title>
+    <url>https://hopincraftbier.be/products/garage-beer-co-pack</url>
+    <price>10.43</price>
+    <brewery_name>Garage Beer Co.</brewery_name>
+    <regular_price>21.63</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4942801967.png</image>
+    <beer_description>De Garage Beer Co. pack consists of: - Nawi - Leo - Zambo</beer_description>
+    <beer_style>IPA</beer_style>
+    <beer_abv>6 - 8%</beer_abv>
+    <beer_volume>3x440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Spain</brewery_country>
+    <date_best_before>2025-08-13</date_best_before>
+    <beer_package_count>3</beer_package_count>
+    <beer_bundle>1</beer_bundle>
+    <bundle_skus>6156435,6156437,6150253</bundle_skus>
   </item>
   <item>
     <id>6189005</id>
@@ -4132,6 +4936,23 @@
     <untappd_id>6210694</untappd_id>
   </item>
   <item>
+    <id>6178109</id>
+    <ecommerce_id>742665254</ecommerce_id>
+    <title>Affection (2025)</title>
+    <url>https://hopincraftbier.be/products/pinta-barrel-brewing-affection-2025</url>
+    <price>10.13</price>
+    <brewery_name>PINTA Barrel Brewing</brewery_name>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4869733327.png</image>
+    <beer_description>Imperial Stout w/ Coconut, Coffee, Coca Nibs and Vanilla. Aged for 20-28 months in Barbados Rum, Marsala &amp; Heaven Hill Bourbon Barrels. Adjuncts breakdown: - Raw and roasted Coconut chips from Sri Lanka, - Single Origin Coffee beans from Brazil, - Hispaniola and Bolivia Cocoa Beans, - Vanilla pods from Madagascar &amp; Uganda. Barrels breakdown: 60% Heaven Hill 20% Barbados Rum 20% Marsala - PINTA Barrel Brewing - Affection (2025)</beer_description>
+    <beer_style>Stout - Imperial / Double</beer_style>
+    <beer_abv>12%</beer_abv>
+    <beer_volume>330 ml</beer_volume>
+    <beer_package>bottle</beer_package>
+    <brewery_country>Poland</brewery_country>
+    <date_best_before>2030-03-01</date_best_before>
+    <untappd_id>6178109</untappd_id>
+  </item>
+  <item>
     <id>6210700</id>
     <ecommerce_id>742661019</ecommerce_id>
     <title>Dead Ivory</title>
@@ -4271,10 +5092,27 @@
     <untappd_id>6127067</untappd_id>
   </item>
   <item>
-    <id>6130589_1</id>
-    <ecommerce_id>739494046_1</ecommerce_id>
+    <id>6127069</id>
+    <ecommerce_id>739491522</ecommerce_id>
+    <title>X Anniversary 6/10 Quadrupel BBA</title>
+    <url>https://hopincraftbier.be/products/browar-stu-mostow-x-anniversary-6-10-quadrupel-bba</url>
+    <price>11.11</price>
+    <brewery_name>Browar Stu Mostów</brewery_name>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4847507522.png</image>
+    <beer_description>X Anniversary 6/10 Quadrupel BBA - sixth in a series of anniversary beers. Quadrupel, brewed with extract of 30° Plato, features a milt profile composed of Pilsner and caramel malts. Fermented with a Belgian yeast strain, it offers aromas of dark fruits and subtle spicy notes. Aged for 18 months in Jack Daniel's barrels, it was infused before bottling with almonds, hazelnuts, and pecans. The result is a Quadrupel characterized by caramel and toasted flavors, complemented by notes of dried dark fruits. Barrel aging adds layers of vanilla, coconut, and refined alcohol warmth, while the nut blend creates an intriguing and harmonious finish. -</beer_description>
+    <beer_style>Belgian Quadrupel</beer_style>
+    <beer_abv>10%</beer_abv>
+    <beer_volume>330 ml</beer_volume>
+    <beer_package>bottle</beer_package>
+    <brewery_country>Poland</brewery_country>
+    <date_best_before>2027-01-10</date_best_before>
+    <untappd_id>6127069</untappd_id>
+  </item>
+  <item>
+    <id>6130589</id>
+    <ecommerce_id>739494046</ecommerce_id>
     <title>Extravagant: Extra Mash Extra Coconut</title>
-    <url>https://hopincraftbier.be/products/moersleutel-craft-brewery-extravagant-extra-mash-extra-coconut-1</url>
+    <url>https://hopincraftbier.be/products/moersleutel-craft-brewery-extravagant-extra-mash-extra-coconut</url>
     <price>7.61</price>
     <brewery_name>Moersleutel Craft Brewery</brewery_name>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4847838592.png</image>
@@ -4620,6 +5458,23 @@
     <untappd_id>6137396</untappd_id>
   </item>
   <item>
+    <id>6088695</id>
+    <ecommerce_id>738467822</ecommerce_id>
+    <title>Triple Amun</title>
+    <url>https://hopincraftbier.be/products/omnipollo-triple-amun</url>
+    <price>8.03</price>
+    <brewery_name>Omnipollo</brewery_name>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4842121051.png</image>
+    <beer_description>Working closely with our Virginian friends at The Veil, we conceived this soft yet bright TIPA. Mashed in with several grains and topped off with oat milk and an abundance of hops. Enthusiastically crafted at our church brewery on Sturegatan 41 in Sundbyberg, Sweden -</beer_description>
+    <beer_style>IPA - Triple New England / Hazy</beer_style>
+    <beer_abv>9%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Sweden</brewery_country>
+    <date_best_before>2026-01-03</date_best_before>
+    <untappd_id>6088695</untappd_id>
+  </item>
+  <item>
     <id>6178075</id>
     <ecommerce_id>738466947</ecommerce_id>
     <title>TDH Riwaka X Galaxy DIPA</title>
@@ -4654,10 +5509,10 @@
     <untappd_id>6053421</untappd_id>
   </item>
   <item>
-    <id>6065243_1</id>
-    <ecommerce_id>738467821_1</ecommerce_id>
+    <id>6065243</id>
+    <ecommerce_id>738467821</ecommerce_id>
     <title>The 4 Elements: Fire</title>
-    <url>https://hopincraftbier.be/products/moersleutel-craft-brewery-the-4-elements-fire-1</url>
+    <url>https://hopincraftbier.be/products/moersleutel-craft-brewery-the-4-elements-fire</url>
     <price>6.15</price>
     <brewery_name>Moersleutel Craft Brewery</brewery_name>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4842442036.png</image>
@@ -4705,7 +5560,7 @@
     <untappd_id>6121788</untappd_id>
   </item>
   <item>
-    <id>A3127108</id>
+    <id>3127108</id>
     <ecommerce_id>738467167</ecommerce_id>
     <title>Hollow Names</title>
     <url>https://hopincraftbier.be/products/alefarm-brewing-hollow-names</url>
@@ -5266,6 +6121,23 @@
     <untappd_id>4570140</untappd_id>
   </item>
   <item>
+    <id>6180917</id>
+    <ecommerce_id>734051600</ecommerce_id>
+    <title>Dead Don't Die (2025)</title>
+    <url>https://hopincraftbier.be/products/third-moon-brewing-company-dead-dont-die-2025</url>
+    <price>12.65</price>
+    <brewery_name>Third Moon Brewing Company</brewery_name>
+    <regular_price>12.65</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4953184244.webp</image>
+    <beer_description>Dead Don't Die is an 8.5% Double Chocolate Milk stout that is all about the chocolate! We started with a rich base of chocolate malt and milk sugar and then layered in chocolate at every stage of the brewing process. It is light, fluffy and voluptuous and oozes chocolate in every sip. -</beer_description>
+    <beer_style>Stout - Milk / Sweet</beer_style>
+    <beer_abv>8.5%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Canada</brewery_country>
+    <untappd_id>6180917</untappd_id>
+  </item>
+  <item>
     <id>6213701</id>
     <ecommerce_id>734050899</ecommerce_id>
     <title>Bell Tree (2025)</title>
@@ -5531,10 +6403,10 @@
     <untappd_id>6204443</untappd_id>
   </item>
   <item>
-    <id>6149227_1</id>
-    <ecommerce_id>729805388_1</ecommerce_id>
+    <id>6149227</id>
+    <ecommerce_id>729805388</ecommerce_id>
     <title>Pastry Factory: Pecan Pie</title>
-    <url>https://hopincraftbier.be/products/moersleutel-craft-brewery-pastry-factory-pecan-pie-1</url>
+    <url>https://hopincraftbier.be/products/moersleutel-craft-brewery-pastry-factory-pecan-pie</url>
     <price>6.59</price>
     <brewery_name>Moersleutel Craft Brewery</brewery_name>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4840907417.png</image>
@@ -5547,6 +6419,6 @@
     <date_best_before>2027-01-21</date_best_before>
     <untappd_id>6149227</untappd_id>
   </item>
-  <timestamp>1760601775</timestamp>
-  <gen_date>16/10/2025 10:02:55</gen_date>
+  <timestamp>1760699076</timestamp>
+  <gen_date>17/10/2025 13:04:36</gen_date>
 </feed>
