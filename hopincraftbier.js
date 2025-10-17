@@ -1,4 +1,4 @@
-console.log("HopInCraftbier custom js v5.50");
+console.log("HopInCraftbier custom js v5.51");
 let debug = false;
 
 Ecwid.OnAPILoaded.add(function() {
@@ -149,7 +149,6 @@ function processAttributes() {
     }
     let untappdAttrValueEl;
     let untappdRatingVal;
-    let untappdDateVal;
     document.querySelectorAll('span.details-product-attribute__title').forEach(function (p) {
         if (p.textContent.startsWith('hide_')) {
             if (p.textContent.trim() === 'hide_preorder:') {
@@ -164,8 +163,6 @@ function processAttributes() {
                 }
             } else if (p.textContent.trim() === 'hide_untappd_ratings:') {
                 untappdRatingVal = p.parentElement.getElementsByClassName('details-product-attribute__value').item(0).textContent.trim();
-            } else if (p.textContent.trim() === 'hide_untappd_date:') {
-                untappdDateVal = p.parentElement.getElementsByClassName('details-product-attribute__value').item(0).textContent.trim();
             }
             p.parentElement.style.display = 'none';
         } else {
@@ -198,7 +195,7 @@ function processAttributes() {
     if (untappdAttrValueEl) {
         let content = untappdAttrValueEl.textContent.trim();
         if (untappdRatingVal && content.indexOf('ratings') < 0) {
-            content += ' (ratings: ' + untappdRatingVal + ', dd: ' + untappdDateVal + ')';
+            content += ' ('+ untappdRatingVal + ' ratings)';
         }
         untappdAttrValueEl.textContent = content;
     }
