@@ -226,7 +226,7 @@ function soonLabel() {
                 if (item.textContent.trim() === 'Verwacht:') {
                     verwachtTxt = verwachtTxt + "<p class='reserve'>Stuur ons een <a href='mailto:info@hopincraftbier.be'>email</a> of een <a href='https://wa.me/32494626330' target='_blank'>whatsapp bericht</a> om dit bier te 'reserveren'</p>";
                 } else {
-                    verwachtTxt += verwachtTxt + "<p class='reserve'>Send us an <a href='mailto:info@hopincraftbier.be'>email</a> or a <a href='https://wa.me/32494626330' target='_blank'>whatsapp</a> message to ‘reserve’ this beer.</p>";
+                    verwachtTxt = verwachtTxt + "<p class='reserve'>Send us an <a href='mailto:info@hopincraftbier.be'>email</a> or a <a href='https://wa.me/32494626330' target='_blank'>whatsapp</a> message to ‘reserve’ this beer.</p>";
                 }
             }
         });
