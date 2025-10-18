@@ -147,8 +147,6 @@ function processAttributes() {
     if ('EN' === getCustomerLng()) {
         lng = '/en';
     }
-    let untappdAttrValueEl;
-    let untappdRatingVal;
     document.querySelectorAll('span.details-product-attribute__title').forEach(function (p) {
         if (p.textContent.startsWith('hide_')) {
             if (p.textContent.trim() === 'hide_preorder:') {
@@ -161,8 +159,6 @@ function processAttributes() {
                         preOrderTxt += ('Verwacht: ' + d);
                     }
                 }
-            } else if (p.textContent.trim() === 'hide_untappd_ratings:') {
-                untappdRatingVal = p.parentElement.getElementsByClassName('details-product-attribute__value').item(0).textContent.trim();
             }
             p.parentElement.style.display = 'none';
         } else {
@@ -183,22 +179,9 @@ function processAttributes() {
                 let content = element.textContent.trim();
                 const link = lng + '/products/alle-bieren?attribute_Land=' + content.replaceAll(' ', '+');
                 element.innerHTML = '<a href="' + link + '" target="_blank">' + content + '</a>';
-            } else if (attribute === 'Untappd:') {
-                // /alle-bieren?attribute_Land
-                untappdAttrValueEl = p.parentElement.getElementsByClassName('details-product-attribute__value').item(0);
-            } else if (attribute === 'Untappd:') {
-                // /alle-bieren?attribute_Land
-                untappdAttrValueEl = p.parentElement.getElementsByClassName('details-product-attribute__value').item(0);
             }
         }
     });
-    if (untappdAttrValueEl) {
-        let content = untappdAttrValueEl.textContent.trim();
-        if (untappdRatingVal && content.indexOf('ratings') < 0) {
-            content += ' ('+ untappdRatingVal + ' ratings)';
-        }
-        untappdAttrValueEl.textContent = content;
-    }
     if (preOrderTxt !== "" && document.querySelector('div.form-control--primary button.form-control__button span.form-control__button-text')) {
         document.querySelector('div.form-control--primary button.form-control__button span.form-control__button-text').textContent = 'Pre-Order';
     }
