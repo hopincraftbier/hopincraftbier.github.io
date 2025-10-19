@@ -1,6 +1,6 @@
 console.log("HopInCraftbier custom js v5.60");
 let debug = false;
-let testMode = false;
+let prodMode = true;
 
 Ecwid.OnAPILoaded.add(function() {
     try {
@@ -189,13 +189,45 @@ function processAttributes() {
             }
         }
     });
-    if (!testMode) {
-        if (preOrderTxt !== "" && document.querySelector('div.form-control--primary button.form-control__button span.form-control__button-text')) {
-            document.querySelector('div.form-control--primary button.form-control__button span.form-control__button-text').innerHTML = 'Pre-Order';
+    if (preOrderTxt !== "" && document.querySelector('div.form-control--primary button.form-control__button span.form-control__button-text')) {
+        document.querySelector('div.form-control--primary button.form-control__button span.form-control__button-text').innerHTML = 'Pre-Order';
+    }
+    const preOrderTxtEl = document.querySelector('div.product-details__product-options.details-product-options');
+    if (preOrderTxtEl && preOrderTxtEl.textContent !== preOrderTxt) {
+        preOrderTxtEl.innerHTML = preOrderTxt;
+    }
+}
+
+function processProductTitle() {
+    log('processProductTitle');
+    if (prodMode) return;
+    let brewery = "";
+    document.querySelectorAll('span.details-product-attribute__title').forEach(function (p) {
+        const attribute = p.textContent.trim();
+        if (attribute === 'Brouwerij:' || attribute === 'Brewery:') {
+            const element = p.parentElement.getElementsByClassName('details-product-attribute__value').item(0);
+            brewery = element.textContent.trim();
         }
-        const preOrderTxtEl = document.querySelector('div.product-details__product-options.details-product-options');
-        if (preOrderTxtEl && preOrderTxtEl.textContent !== preOrderTxt) {
-            preOrderTxtEl.innerHTML = preOrderTxt;
+    });
+
+    const titleElement = document.querySelector('.product-details__product-title');
+    if (titleElement) {
+        let breweryElement = document.querySelector('.product-details__product-hop-title p.brewery')
+        let titleElement2 = document.querySelector('.product-details__product-hop-title p.title');
+        const txt = titleElement.textContent;
+        if (!breweryElement) {
+            titleElement.style.display = 'none';
+            titleElement.parentElement.insertAdjacentHTML('afterbegin', '<div class="product-details__product-hop-title"><p class="brewery"></p><p class="title"></p></div>');
+            breweryElement = document.querySelector('.product-details__product-hop-title p.brewery');
+            titleElement2 = document.querySelector('.product-details__product-hop-title p.title');
+        }
+        breweryElement.textContent = brewery;
+        if (txt.indexOf(brewery + " - ") >= 0) {
+            titleElement2.textContent = txt.replace(brewery + " - ", "").trim();
+        } else if (txt.indexOf(" - ") >= 0) {
+            titleElement2.textContent = txt.replace(txt.split(" - ")[0] + " - ", "").trim();
+        } else {
+            titleElement2.textContent = txt;
         }
     }
 }
@@ -411,6 +443,7 @@ function processProductPage(toScroll) {
     if (document.querySelector('.ecwid-productBrowser-ProductPage')) {
         addCouponInfo(toScroll);
         soonLabel();
+        processProductTitle();
         processAttributes();
     }
 }
@@ -421,6 +454,7 @@ function processProductBrowserPage() {
         moveSubtitle();
         addTitleAttribute();
         renameBuyButtonToPreorder();
+        processStock();
     }
 }
 
