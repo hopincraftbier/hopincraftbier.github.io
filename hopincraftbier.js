@@ -1,4 +1,4 @@
-console.log("HopInCraftbier custom js v5.73");
+console.log("HopInCraftbier custom js v5.74");
 let debug = false;
 let prodMode = true;
 
@@ -72,7 +72,6 @@ const cartTotalMo = new MutationObserver(function (ms) {
     processInfoPages();
     processProductBrowserPage();
     processStock();
-    processExpectedPrice();
     processCartPage();
 
     ms.forEach(function (m) {
@@ -258,7 +257,7 @@ function processExpectedPrice() {
                 if (hopPriceElement.style.display !== 'inline') {
                     hopPriceElement.style.display = 'inline';
                 }
-                if (priceElement.textContent !== price) {
+                if (hopPriceElement.textContent !== price) {
                     hopPriceElement.innerHTML = price;
                 }
             }
@@ -494,6 +493,7 @@ function processProductPage(toScroll) {
         soonLabel();
         processProductTitle();
         processAttributes();
+        processExpectedPrice();
     }
 }
 
