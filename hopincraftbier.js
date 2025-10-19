@@ -1,4 +1,4 @@
-console.log("HopInCraftbier custom js v5.57");
+console.log("HopInCraftbier custom js v5.58");
 let debug = false;
 let testMode = false;
 
@@ -421,7 +421,10 @@ function processProductBrowserPage() {
 }
 
 function processCartPage() {
-    if (document.querySelector('.ecwid-productBrowser-CartPage,.ecwid-productBrowser-ElmCheckoutShippingAddressPage,.ecwid-productBrowser-CheckoutPaymentDetailsPage,.ecwid-productBrowser-ElmCheckoutDeliveryPage')) {
+    if (document.querySelector('.ecwid-productBrowser-CartPage')
+        || document.querySelector('.ecwid-productBrowser-ElmCheckoutShippingAddressPage')
+        || document.querySelector('.ecwid-productBrowser-CheckoutPaymentDetailsPage')
+        || document.querySelector('.ecwid-productBrowser-ElmCheckoutDeliveryPage')) {
         translateCheckoutNotice();
         addDeliveryInfoLink();
     }
