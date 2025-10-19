@@ -138,7 +138,7 @@ function processStock() {
         }
     }
     const qtyEl = document.querySelector('span.details-product-purchase__in-stock-qty');
-    if (qtyEl && qty.style.display !== 'none') {
+    if (qtyEl && qtyEl.style.display !== 'none') {
         qtyEl.style.display = 'none';
     }
 }
