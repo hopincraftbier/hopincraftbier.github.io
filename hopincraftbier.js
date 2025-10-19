@@ -1,4 +1,4 @@
-console.log("HopInCraftbier custom js v5.75");
+console.log("HopInCraftbier custom js v5.76");
 let debug = false;
 let prodMode = true;
 
@@ -368,6 +368,17 @@ function addCouponInfo(toScroll) {
             if (toScroll) {
                 window.scrollTo({top: 0, behavior: 'smooth'});
             }
+            if (dc.style.display !== 'block') {
+                dc.style.display = 'block';
+            }
+        } else {
+            if (dc.style.display !== 'none') {
+                dc.style.display = 'none';
+            }
+        }
+    } else {
+        if (dc.style.display !== 'none') {
+            dc.style.display = 'none';
         }
     }
 }
