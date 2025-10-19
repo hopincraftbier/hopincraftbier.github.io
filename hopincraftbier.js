@@ -1,4 +1,4 @@
-console.log("HopInCraftbier custom js v5.69");
+console.log("HopInCraftbier custom js v5.70");
 let debug = false;
 let prodMode = true;
 
@@ -229,6 +229,49 @@ function processProductTitle() {
     }
 }
 
+function processExpectedPrice() {
+    if (!prodMode) {
+        return;
+    }
+    log('processExpectedPrice');
+    let price = "";
+    const priceElement = document.querySelector('div.product-details__product-price span.details-product-price__value');
+    if (priceElement) {
+        document.querySelectorAll('span.details-product-attribute__title').forEach(function (p) {
+            const attribute = p.textContent.trim();
+            if (attribute === 'Verwachte prijs minder dan:' || attribute === 'Expected price lower than:') {
+                const element = p.parentElement.getElementsByClassName('details-product-attribute__value').item(0);
+                price = attribute + " " + element.textContent.trim();
+            }
+        });
+        let hopPriceElement = document.querySelector('div.product-details__product-price span.details-product-hop__price__value');
+        if (price !== "") {
+            if (!hopPriceElement) {
+                priceElement.parentElement.insertAdjacentHTML('beforeend', '<span class="details-product-hop__price__value"></span>');
+                hopPriceElement = document.querySelector('div.product-details__product-price span.details-product-hop__price__value');
+            }
+            if (priceElement.style.display !== 'none') {
+                priceElement.style.display = 'none'
+            }
+            if (hopPriceElement) {
+                if (hopPriceElement.style.display !== 'inline') {
+                    hopPriceElement.style.display = 'inline';
+                }
+                if (priceElement.textContent !== price) {
+                    hopPriceElement.textContent = price;
+                }
+            }
+        } else {
+            if (priceElement.style.display !== 'inline') {
+                priceElement.style.display = 'inline'
+            }
+            if (hopPriceElement && hopPriceElement.style.display !== 'none') {
+                hopPriceElement.style.display = 'none';
+            }
+        }
+    }
+}
+
 function soonLabel() {
     log('soonLabel');
     let notSoldOut = false;
@@ -450,6 +493,7 @@ function processProductPage(toScroll) {
         soonLabel();
         processProductTitle();
         processAttributes();
+        processExpectedPrice();
     }
 }
 
