@@ -1,4 +1,4 @@
-console.log("HopInCraftbier custom js v5.66");
+console.log("HopInCraftbier custom js v5.68");
 let debug = false;
 let prodMode = true;
 
@@ -71,9 +71,7 @@ const cartTotalMo = new MutationObserver(function (ms) {
     redirectWhenNeeded();
     processInfoPages();
     processProductBrowserPage();
-    if (!prodMode) {
-        processStock();
-    }
+    processStock();
     processCartPage();
 
     ms.forEach(function (m) {
@@ -89,10 +87,6 @@ const cartTotalMo = new MutationObserver(function (ms) {
                             subtree: true
                         });
                         processStock();
-                    } else if (className.indexOf('details-product-purchase__place')) {
-                        if (prodMode) {
-                            processStock();
-                        }
                     } else if (className.indexOf('ecwid-checkout-notice') >= 0) {
                         translateCheckoutNotice();
                     } else if (className.indexOf('ec-store__cart-page') >= 0 ||
@@ -204,7 +198,6 @@ function processAttributes() {
 
 function processProductTitle() {
     log('processProductTitle');
-    if (prodMode) return;
     let brewery = "";
     document.querySelectorAll('span.details-product-attribute__title').forEach(function (p) {
         const attribute = p.textContent.trim();
