@@ -14,17 +14,17 @@ Ecwid.OnAPILoaded.add(function() {
     }
     log("HopInCraftbier Ecwid JS API is loaded.");
 });
-document.txtNl1 = '<div id="discountContainer"><div class="dtooltip"><p class="hover question">Kortingscoupon</p><p class="dtooltiptext">Afhankelijk van de gekozen betaling en levering, kunt u een kortingscoupon krijgen die te gebruiken is bij een volgende bestelling. Voor dit bier ziet u de bedragen in deze tabel</p></div><table class="discount-table"><thead><tr class="first_header"><th></th><th colspan="2">Manier van levering</th></tr><tr><th>Manier van betaling</th><th>Afhaling</th><th>Levering</th></tr></thead><tbody><tr><td class="header">Betalen bij afhaling</td><td>€ ';
+document.txtNl1 = '<div class="dtooltip"><p class="hover question">Kortingscoupon</p><p class="dtooltiptext">Afhankelijk van de gekozen betaling en levering, kunt u een kortingscoupon krijgen die te gebruiken is bij een volgende bestelling. Voor dit bier ziet u de bedragen in deze tabel</p></div><table class="discount-table"><thead><tr class="first_header"><th></th><th colspan="2">Manier van levering</th></tr><tr><th>Manier van betaling</th><th>Afhaling</th><th>Levering</th></tr></thead><tbody><tr><td class="header">Betalen bij afhaling</td><td>€ ';
 document.txtNl2 = '</td><td> - </td></tr><tr><td class="header">Overschrijving</td><td>€ ';
 document.txtNl3 = '</td><td>€ ';
 document.txtNl4 = '</td></tr><tr><td class="header">Online betaling</td><td>€ ';
-document.txtNl5 = '</td><td>€ 0</td></tr></tbody></table></div></div>';
+document.txtNl5 = '</td><td>€ 0</td></tr></tbody></table></div>';
 
-document.txtEn1 = '<div id="discountContainer"><div class="dtooltip"><p class="hover question">Discount coupon</p><p class="dtooltiptext">Depending on the chosen payment and delivery, you can get a discount coupon that can be used for a next order. For this beer you can see the amounts in this table</p></div><table class="discount-table"><thead><tr class="first_header"><th></th><th colspan="2">Method of delivery</th></tr><tr><th>Method of payment</th><th>Pickup</th><th>Delivery</th></tr></thead><tbody><tr><td class="header">Payment upon pickup</td><td>€ ';
+document.txtEn1 = '<div class="dtooltip"><p class="hover question">Discount coupon</p><p class="dtooltiptext">Depending on the chosen payment and delivery, you can get a discount coupon that can be used for a next order. For this beer you can see the amounts in this table</p></div><table class="discount-table"><thead><tr class="first_header"><th></th><th colspan="2">Method of delivery</th></tr><tr><th>Method of payment</th><th>Pickup</th><th>Delivery</th></tr></thead><tbody><tr><td class="header">Payment upon pickup</td><td>€ ';
 document.txtEn2 = '</td><td> - </td></tr><tr><td class="header">Money transfer</td><td>€ ';
 document.txtEn3 = '</td><td>€ ';
 document.txtEn4 = '</td></tr><tr><td class="header">Online payment</td><td>€ ';
-document.txtEn5 = '</td><td>€ 0</td></tr></tbody></table></div></div>';
+document.txtEn5 = '</td><td>€ 0</td></tr></tbody></table></div>';
 
 document.addEventListener("visibilitychange", (event) => {
     if (document.visibilityState === "visible") {
@@ -298,30 +298,38 @@ function addCouponInfo(toScroll) {
     log('addCouponInfo');
     const attrValSelector = '.ec-store.ec-store__product-page .details-product-attribute:nth-child($) .details-product-attribute__value';
     let dc = document.querySelector('#discountContainer');
-    if (dc) dc.remove();
+    if (!dc) {
+        document.querySelector('div.product-details-module.product-details__product-price-row').insertAdjacentHTML('beforeend', '<div id="discountContainer"></div>');
+        dc = document.querySelector('#discountContainer');
+    }
     const c1E = document.querySelector(attrValSelector.replace('$', '1'));
-    if (!c1E) return;
+    if (c1E) {
+        let custDisc = 0;
+        let discElement = document.querySelector('span.details-product-price-discount__value');
+        if (discElement) {
+            custDisc = Number(discElement.textContent.replace("%", ""));
+        }
+        let c1 = c1E.textContent;
+        if (c1 !== "0" && !isNaN(c1.replace(",", ".").trim())) {
+            let c2 = document.querySelector(attrValSelector.replace('$', '2')).textContent;
+            let c3 = document.querySelector(attrValSelector.replace('$', '3')).textContent;
 
-    let custDisc = 0;
-    let discElement = document.querySelector('span.details-product-price-discount__value');
-    if (discElement) {
-        custDisc = Number(discElement.textContent.replace("%", ""));
-    }
-    let c1 = c1E.textContent;
-    if (c1 === "0" || isNaN(c1.replace(",", ".").trim())) return;
-    let c2 = document.querySelector(attrValSelector.replace('$', '2')).textContent;
-    let c3 = document.querySelector(attrValSelector.replace('$', '3')).textContent;
-
-    c1 = calcDiscount(Number(c1.replace(",", ".")), custDisc).toString();
-    c2 = calcDiscount(Number(c2.replace(",", ".")), custDisc).toString();
-    c3 = calcDiscount(Number(c3.replace(",", ".")), custDisc).toString();
-    let txt = document.txtNl1 + c1 + document.txtNl2 + c1 + document.txtNl3 + c3 + document.txtNl4 + c2 + document.txtNl5;
-    if ('EN' === getCustomerLng()) {
-        txt = document.txtEn1 + c1 + document.txtEn2 + c1 + document.txtEn3 + c3 + document.txtEn4 + c2 + document.txtEn5;
-    }
-    document.querySelector('div.product-details-module.product-details__product-price-row').insertAdjacentHTML('beforeend', txt);
-    if (toScroll) {
-        window.scrollTo({top: 0, behavior: 'smooth'});
+            c1 = calcDiscount(Number(c1.replace(",", ".")), custDisc).toString();
+            c2 = calcDiscount(Number(c2.replace(",", ".")), custDisc).toString();
+            c3 = calcDiscount(Number(c3.replace(",", ".")), custDisc).toString();
+            let txt;
+            if ('EN' === getCustomerLng()) {
+                txt = document.txtEn1 + c1 + document.txtEn2 + c1 + document.txtEn3 + c3 + document.txtEn4 + c2 + document.txtEn5;
+            } else {
+                txt = document.txtNl1 + c1 + document.txtNl2 + c1 + document.txtNl3 + c3 + document.txtNl4 + c2 + document.txtNl5;
+            }
+            if (dc.innerHtml !== txt) {
+                dc.innerHTML = txt;
+            }
+            if (toScroll) {
+                window.scrollTo({top: 0, behavior: 'smooth'});
+            }
+        }
     }
 }
 
