@@ -1,4 +1,4 @@
-console.log("HopInCraftbier custom js v5.61");
+console.log("HopInCraftbier custom js v5.62");
 let debug = false;
 let prodMode = true;
 
@@ -120,7 +120,7 @@ function processStock() {
             x.style.display = 'none';
             element.insertAdjacentHTML('beforeend', '<span class="mod">' + txt + '</span>');
             mod = document.querySelector('.details-product-purchase__place span.mod');
-        } else {
+        } else if (mod.textContent !== txt) {
             mod.innerHTML = txt;
         }
         const y = txt?.split(':');
@@ -445,6 +445,7 @@ function processProductPage(toScroll) {
         soonLabel();
         processProductTitle();
         processAttributes();
+        processStock();
     }
 }
 
