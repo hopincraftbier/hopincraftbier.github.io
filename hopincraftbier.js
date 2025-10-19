@@ -1,4 +1,4 @@
-console.log("HopInCraftbier custom js v5.54");
+console.log("HopInCraftbier custom js v5.55");
 let debug = false;
 
 Ecwid.OnAPILoaded.add(function() {
@@ -148,7 +148,7 @@ function processAttributes() {
         lng = '/en';
     }
     document.querySelectorAll('span.details-product-attribute__title').forEach(function (p) {
-        if (p.innerHtml.startsWith('hide_')) {
+        if (p.textContent.startsWith('hide_')) {
             p.parentElement.style.display = 'none';
             if (p.innerHTML.trim() === 'hide_preorder:') {
                 let d = p.parentElement.childNodes[1]?.textContent;
