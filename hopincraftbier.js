@@ -1,4 +1,4 @@
-console.log("HopInCraftbier custom js v5.62");
+console.log("HopInCraftbier custom js v5.65");
 let debug = false;
 let prodMode = true;
 
@@ -455,9 +455,9 @@ function processProductPage(toScroll) {
         soonLabel();
         processProductTitle();
         processAttributes();
-        if (!prodMode) {
-            processStock();
-        }
+        // if (!prodMode) {
+        //     processStock();
+        // }
     }
 }
 
