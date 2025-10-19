@@ -1,4 +1,4 @@
-console.log("HopInCraftbier custom js v5.76");
+console.log("HopInCraftbier custom js v5.77");
 let debug = false;
 let prodMode = true;
 
@@ -231,9 +231,6 @@ function processProductTitle() {
 }
 
 function processExpectedPrice() {
-    if (prodMode) {
-        return;
-    }
     log('processExpectedPrice');
     let price = "";
     const priceElement = document.querySelector('div.product-details__product-price span.details-product-price__value');
