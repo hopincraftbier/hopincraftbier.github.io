@@ -1,4 +1,4 @@
-/* HopInCraftbier custom css v3.50 */
+/* HopInCraftbier custom css v3.51 */
 #tile-product-details div.ins-tile__wrap {
     margin-top: 30px;
     min-width: 80%
@@ -964,6 +964,19 @@ div.details-product-price-compare__container {
 .details-product-purchase__sold-out p.reserve {
     font-weight: 100;
     font-size: 14px;
+}
+.product-details__product-hop-title {
+    p.brewery {
+        font-family: 'Bangers', Ubuntu, system-ui, sans-serif;
+        letter-spacing: 1px;
+        font-size: 20px;
+    }
+
+    p.title {
+        font-family: Ubuntu, system-ui, sans-serif;
+        font-size: 26px;
+        font-weight: 600;
+    }
 }
 .ec-size:not(.ec-size--s) .ec-store.ec-store__account-page .ec-cart-step--bag,.ec-size:not(.ec-size--s) .ec-store.ec-store__account-page .ec-cart-step--favorites {
     display:block;
