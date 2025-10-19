@@ -1,5 +1,6 @@
-console.log("HopInCraftbier custom js v5.52");
+console.log("HopInCraftbier custom js v5.53");
 let debug = false;
+let testMode = false;
 
 Ecwid.OnAPILoaded.add(function() {
     try {
@@ -141,27 +142,28 @@ function processStock() {
 }
 
 function processProductTitle(brewery) {
-    // log('processProductTitle');
-    // const titleElement = document.querySelector('.product-details__product-title');
-    // if (titleElement) {
-    //     let breweryElement = document.querySelector('.product-details__product-hop-title p.brewery')
-    //     let titleElement2 = document.querySelector('.product-details__product-hop-title p.title');
-    //     const txt = titleElement.textContent;
-    //     if (!breweryElement) {
-    //         titleElement.style.display = 'none';
-    //         titleElement.parentElement.insertAdjacentHTML('afterbegin', '<div class="product-details__product-hop-title"><p class="brewery"></p><p class="title"></p></div>');
-    //         breweryElement = document.querySelector('.product-details__product-hop-title p.brewery');
-    //         titleElement2 = document.querySelector('.product-details__product-hop-title p.title');
-    //     }
-    //     breweryElement.textContent = brewery;
-    //     if (txt.indexOf(brewery + " - ") >= 0) {
-    //         titleElement2.textContent = txt.replace(brewery + " - ", "").trim();
-    //     } else if (txt.indexOf(" - ") >= 0) {
-    //         titleElement2.textContent = txt.replace(txt.split(" - ")[0] + " - ", "").trim();
-    //     } else {
-    //         titleElement2.textContent = txt;
-    //     }
-    // }
+    log('processProductTitle');
+    if (!testMode) return;
+    const titleElement = document.querySelector('.product-details__product-title');
+    if (titleElement) {
+        let breweryElement = document.querySelector('.product-details__product-hop-title p.brewery')
+        let titleElement2 = document.querySelector('.product-details__product-hop-title p.title');
+        const txt = titleElement.textContent;
+        if (!breweryElement) {
+            titleElement.style.display = 'none';
+            titleElement.parentElement.insertAdjacentHTML('afterbegin', '<div class="product-details__product-hop-title"><p class="brewery"></p><p class="title"></p></div>');
+            breweryElement = document.querySelector('.product-details__product-hop-title p.brewery');
+            titleElement2 = document.querySelector('.product-details__product-hop-title p.title');
+        }
+        breweryElement.textContent = brewery;
+        if (txt.indexOf(brewery + " - ") >= 0) {
+            titleElement2.textContent = txt.replace(brewery + " - ", "").trim();
+        } else if (txt.indexOf(" - ") >= 0) {
+            titleElement2.textContent = txt.replace(txt.split(" - ")[0] + " - ", "").trim();
+        } else {
+            titleElement2.textContent = txt;
+        }
+    }
 }
 
 function processAttributes() {
