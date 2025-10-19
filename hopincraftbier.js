@@ -1,5 +1,6 @@
-console.log("HopInCraftbier custom js v5.56");
+console.log("HopInCraftbier custom js v5.57");
 let debug = false;
+let testMode = false;
 
 Ecwid.OnAPILoaded.add(function() {
     try {
@@ -84,6 +85,8 @@ const cartTotalMo = new MutationObserver(function (ms) {
                             childList: true,
                             subtree: true
                         });
+                        processStock();
+                    } else if (className.indexOf('details-product-purchase__place')) {
                         processStock();
                     } else if (className.indexOf('ecwid-checkout-notice') >= 0) {
                         translateCheckoutNotice();
@@ -182,12 +185,14 @@ function processAttributes() {
             }
         }
     });
-    if (preOrderTxt !== "" && document.querySelector('div.form-control--primary button.form-control__button span.form-control__button-text')) {
-        document.querySelector('div.form-control--primary button.form-control__button span.form-control__button-text').innerHTML = 'Pre-Order';
-    }
-    const preOrderTxtEl = document.querySelector('div.product-details__product-options.details-product-options');
-    if (preOrderTxtEl && preOrderTxtEl.textContent !== preOrderTxt) {
-        preOrderTxtEl.innerHTML = preOrderTxt;
+    if (!testMode) {
+        if (preOrderTxt !== "" && document.querySelector('div.form-control--primary button.form-control__button span.form-control__button-text')) {
+            document.querySelector('div.form-control--primary button.form-control__button span.form-control__button-text').innerHTML = 'Pre-Order';
+        }
+        const preOrderTxtEl = document.querySelector('div.product-details__product-options.details-product-options');
+        if (preOrderTxtEl && preOrderTxtEl.textContent !== preOrderTxt) {
+            preOrderTxtEl.innerHTML = preOrderTxt;
+        }
     }
 }
 
