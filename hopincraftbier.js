@@ -65,13 +65,15 @@ if (headerDiv) {
 const priceO = new MutationObserver(function (ms) {
     ms.forEach(function (m) {
         processProductPage(false);
-        processStock();
     })
 });
 const cartTotalMo = new MutationObserver(function (ms) {
     redirectWhenNeeded();
     processInfoPages();
     processProductBrowserPage();
+    if (!prodMode) {
+        processProductPage();
+    }
     processCartPage();
 
     ms.forEach(function (m) {
@@ -445,7 +447,9 @@ function processProductPage(toScroll) {
         soonLabel();
         processProductTitle();
         processAttributes();
-        processStock();
+        if (!prodMode) {
+            processStock();
+        }
     }
 }
 
