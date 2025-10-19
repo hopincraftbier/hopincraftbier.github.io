@@ -1,4 +1,4 @@
-console.log("HopInCraftbier custom js v5.59");
+console.log("HopInCraftbier custom js v5.60");
 let debug = false;
 let testMode = false;
 
@@ -112,7 +112,10 @@ function processStock() {
     if (x) {
         const element = x.parentElement;
         let mod = document.querySelector('.details-product-purchase__place span.mod');
-        const txt = x.textContent;
+        let txt = x.textContent;
+        if (txt.indexOf('(')) {
+            txt = txt.substring(0, txt.indexOf('(')).trim();
+        }
         if (!mod) {
             x.style.display = 'none';
             element.insertAdjacentHTML('beforeend', '<span class="mod">' + txt + '</span>');
