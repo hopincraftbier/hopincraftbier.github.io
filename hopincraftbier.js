@@ -1,4 +1,4 @@
-console.log("HopInCraftbier custom js v5.70");
+console.log("HopInCraftbier custom js v5.71");
 let debug = false;
 let prodMode = true;
 
@@ -230,7 +230,7 @@ function processProductTitle() {
 }
 
 function processExpectedPrice() {
-    if (!prodMode) {
+    if (prodMode) {
         return;
     }
     log('processExpectedPrice');
