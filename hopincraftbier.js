@@ -1,4 +1,4 @@
-console.log("HopInCraftbier custom js v5.60");
+console.log("HopInCraftbier custom js v5.61");
 let debug = false;
 let prodMode = true;
 
@@ -454,7 +454,6 @@ function processProductBrowserPage() {
         moveSubtitle();
         addTitleAttribute();
         renameBuyButtonToPreorder();
-        processStock();
     }
 }
 
