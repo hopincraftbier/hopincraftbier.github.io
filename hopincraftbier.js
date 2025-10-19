@@ -194,7 +194,6 @@ function processAttributes() {
                 let content = element.textContent.trim();
                 const link = lng + '/products/' + content.toLowerCase().replaceAll('.', '').replaceAll(' ', '-');
                 element.innerHTML = '<a href="' + link + '" target="_blank">' + content + '</a>';
-                processProductTitle(content);
             } else if (attribute === 'Type:') {
                 const element = p.parentElement.getElementsByClassName('details-product-attribute__value').item(0);
                 let content = element.textContent.trim();
