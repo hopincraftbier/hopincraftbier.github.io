@@ -816,23 +816,6 @@
     <untappd_id>6154310</untappd_id>
   </item>
   <item>
-    <id>6342886</id>
-    <ecommerce_id>778763017</ecommerce_id>
-    <title>Quad Nelson &amp; Cream</title>
-    <url>https://hopincraftbier.be/products/fine-balance-brewing-quad-nelson--cream</url>
-    <price>11.27</price>
-    <brewery_name>Fine Balance Brewing</brewery_name>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5145649961.webp</image>
-    <beer_description>The biggest beer of our Nelson Oat Cream IPA Series is 11.9% ABV but drinks (relatively) easy. A super-sized dry-hop of Nelson Sauvin and Cryo Nelson Sauvin hops give this beer big, dank, tropical stone fruit notes. Fine Balance Brewing - Quad Nelson &amp; Cream</beer_description>
-    <beer_style>IPA - Quadruple</beer_style>
-    <beer_abv>11.9%</beer_abv>
-    <beer_volume>473 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Canada</brewery_country>
-    <date_canned>07/2025</date_canned>
-    <untappd_id>6342886</untappd_id>
-  </item>
-  <item>
     <id>6346854</id>
     <ecommerce_id>778763016</ecommerce_id>
     <title>Triple Nelson &amp; Cream</title>
@@ -5547,6 +5530,6 @@
     <date_best_before>2027-01-21</date_best_before>
     <untappd_id>6149227</untappd_id>
   </item>
-  <timestamp>1760796598</timestamp>
-  <gen_date>18/10/2025 16:09:58</gen_date>
+  <timestamp>1760873405</timestamp>
+  <gen_date>19/10/2025 13:30:05</gen_date>
 </feed>
