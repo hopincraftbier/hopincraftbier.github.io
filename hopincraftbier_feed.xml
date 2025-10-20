@@ -207,7 +207,7 @@
     <id>6406071</id>
     <ecommerce_id>787334626</ecommerce_id>
     <title>Canna</title>
-    <url>https://hopincraftbier.be/products/beak-canna-787334626</url>
+    <url>https://hopincraftbier.be/products/beak-canna</url>
     <price>11.11</price>
     <brewery_name>Beak</brewery_name>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5242084839.webp</image>
@@ -5479,24 +5479,6 @@
     <untappd_id>6126563</untappd_id>
   </item>
   <item>
-    <id>6207819</id>
-    <ecommerce_id>734051594</ecommerce_id>
-    <title>Cowboy Konkey Dong (2025)</title>
-    <url>https://hopincraftbier.be/products/hoof-hearted-brewing-cowboy-konkey-dong-2025</url>
-    <price>8.21</price>
-    <brewery_name>Hoof Hearted Brewing</brewery_name>
-    <regular_price>10.26</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4819979910.png</image>
-    <beer_description>Double IPA with Citra, Amarillo, El Dorado, Motueka, &amp; Simcoe Hops -</beer_description>
-    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
-    <beer_abv>8%</beer_abv>
-    <beer_volume>473 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>United States</brewery_country>
-    <date_canned>2025-03-18</date_canned>
-    <untappd_id>6207819</untappd_id>
-  </item>
-  <item>
     <id>6204443</id>
     <ecommerce_id>734051593</ecommerce_id>
     <title>Separation Rage (2025)</title>
@@ -5530,6 +5512,6 @@
     <date_best_before>2027-01-21</date_best_before>
     <untappd_id>6149227</untappd_id>
   </item>
-  <timestamp>1760886004</timestamp>
-  <gen_date>19/10/2025 17:00:04</gen_date>
+  <timestamp>1760943438</timestamp>
+  <gen_date>20/10/2025 08:57:18</gen_date>
 </feed>
