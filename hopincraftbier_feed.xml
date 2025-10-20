@@ -2021,6 +2021,7 @@
     <url>https://hopincraftbier.be/products/soma-beer-hologram</url>
     <price>5.65</price>
     <brewery_name>SOMA Beer</brewery_name>
+    <regular_price>8.07</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5015854941.webp</image>
     <beer_description>Idaho 7 CGX, Citra &amp; Krush SOMA Beer - Hologram</beer_description>
     <beer_style>IPA - Triple New England / Hazy</beer_style>
@@ -2038,6 +2039,7 @@
     <url>https://hopincraftbier.be/products/soma-beer-ghost</url>
     <price>4.97</price>
     <brewery_name>SOMA Beer</brewery_name>
+    <regular_price>7.1</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5015854936.webp</image>
     <beer_description>Nelson CGX, Citra &amp; Rakau SOMA Beer - Ghost</beer_description>
     <beer_style>IPA - New England / Hazy</beer_style>
@@ -2055,6 +2057,7 @@
     <url>https://hopincraftbier.be/products/soma-beer-grit</url>
     <price>5.38</price>
     <brewery_name>SOMA Beer</brewery_name>
+    <regular_price>7.69</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5015859039.webp</image>
     <beer_description>Strata CGX &amp; Citra SOMA Beer - Grit</beer_description>
     <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
@@ -2072,6 +2075,7 @@
     <url>https://hopincraftbier.be/products/soma-beer-turbo</url>
     <price>5.38</price>
     <brewery_name>SOMA Beer</brewery_name>
+    <regular_price>7.69</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5015854232.webp</image>
     <beer_description>Nectaron &amp; Riwaka SOMA Beer - Turbo</beer_description>
     <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
@@ -2089,6 +2093,7 @@
     <url>https://hopincraftbier.be/products/soma-beer-mirage</url>
     <price>4.97</price>
     <brewery_name>SOMA Beer</brewery_name>
+    <regular_price>7.1</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5015854951.webp</image>
     <beer_description>Citra &amp; Wai-iti SOMA Beer - Mirage</beer_description>
     <beer_style>IPA - New England / Hazy</beer_style>
@@ -2897,6 +2902,7 @@
     <url>https://hopincraftbier.be/products/factory-brewing-the-alchemist</url>
     <price>5.08</price>
     <brewery_name>Factory Brewing</brewery_name>
+    <regular_price>7.25</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4929092708.png</image>
     <beer_description>A Hazy IPA with Citra, Motueka &amp; NZ Cascade. We brewed Alchemy some months ago, a collab with Track Brewing. With The Alchemist, I continued with the same base but added NZ Cascade to bring a bit of difference to an already great recipe. Super soft mouthfeel with our banging hop saturation. Citra, Motueka, and NZ Cascade bring all the best fresh, bright fruits to the table. Creamy lime, juicy mango, and refreshing grapefruit are the main aromas I find here. Head Brewer Jirka Ordén Factory Brewing - The Alchemist</beer_description>
     <beer_style>IPA - New England / Hazy</beer_style>
@@ -4046,6 +4052,7 @@
     <url>https://hopincraftbier.be/products/fuerst-wiacek-berlin-shalala</url>
     <price>4.53</price>
     <brewery_name>FUERST WIACEK Berlin</brewery_name>
+    <regular_price>6.47</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4874378911.png</image>
     <beer_description>DDH IPA – Dry hopped with Citra, Krush &amp; Nelson Sauvin. Canned On: 01. Apr. 2025 - FUERST WIACEK Berlin - Shalala</beer_description>
     <beer_style>IPA - New England / Hazy</beer_style>
@@ -4080,6 +4087,7 @@
     <url>https://hopincraftbier.be/products/fuerst-wiacek-berlin-fat-cats-in-top-hats-2025</url>
     <price>4.53</price>
     <brewery_name>FUERST WIACEK Berlin</brewery_name>
+    <regular_price>6.47</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4874380917.png</image>
     <beer_description>DDH IPA - Dry hopped with Mosaic &amp; HBC 630 - FUERST WIACEK Berlin - Fat Cats In Top Hats (2025)</beer_description>
     <beer_style>IPA - New England / Hazy</beer_style>
@@ -4114,6 +4122,7 @@
     <url>https://hopincraftbier.be/products/pinta-barrel-brewing-liberty-2025</url>
     <price>8.61</price>
     <brewery_name>PINTA Barrel Brewing</brewery_name>
+    <regular_price>10.13</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4869730646.png</image>
     <beer_description>Imperial Stout w/ Vanilla, Coconut and Barrel Aged Coffe. Aged for 20-30 months in Wild Turkey and Heaven Hill Bourbon Barrels &amp; Rittenhouse Rye Whisky Barrels. Adjuncts breakdown: - Vanilla pods from Madagascar &amp; Uganda, - Raw and roasted Coconut chips from Sri Lanka, - Barrel Aged Coffee beans from Columbia. Barrels breakdown: 40% Heaven Hill 40% Wild Turkey 20% Rittenhouse Rye - PINTA Barrel Brewing - Liberty (2025)</beer_description>
     <beer_style>Stout - Imperial / Double</beer_style>
@@ -4131,6 +4140,7 @@
     <url>https://hopincraftbier.be/products/pinta-barrel-brewing-reputation-2025</url>
     <price>8.85</price>
     <brewery_name>PINTA Barrel Brewing</brewery_name>
+    <regular_price>10.41</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4869730734.png</image>
     <beer_description>Imperial Stout w/ Cocoa Nibs &amp; Almonds. Aged for 22-33 months in Heaven Hill Bourbon, Calvados and Banyuls Barrels. Adjuncts breakdown: - Bolivia and Hispaniola Cocoa Beans, - Freshly roasted Almonds. Barrels breakdown: 70% Heaven Hill 15% Banyuls 15% Calvados - PINTA Barrel Brewing - Reputation (2025)</beer_description>
     <beer_style>Stout - Imperial / Double</beer_style>
@@ -4166,6 +4176,7 @@
     <url>https://hopincraftbier.be/products/pinta-discovery-europe-greece</url>
     <price>4.21</price>
     <brewery_name>PINTA</brewery_name>
+    <regular_price>5.26</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4869733466.png</image>
     <beer_description>Enjoy juicy Hazy IPA and discover beer Europe with us! We will take you to interesting and less obvious places that we came across while traveling around the Old Continent. You will find their list under the top layer of the label. Greece is associated with sunny holidays. Which does not mean that you have to take a vacation from craft beer! - PINTA - Discovery Europe: Greece</beer_description>
     <beer_style>IPA - New England / Hazy</beer_style>
@@ -4217,6 +4228,7 @@
     <url>https://hopincraftbier.be/products/arpus-brewing-co-arpus-x-brasserie-popihn-imperial-cascadian-dark-ale</url>
     <price>4.86</price>
     <brewery_name>Ārpus Brewing Co.</brewery_name>
+    <regular_price>6.07</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4871501329.png</image>
     <beer_description>- Arpus Brewing Co. - Arpus X Brasserie Popihn Imperial Cascadian Dark Ale</beer_description>
     <beer_style>IPA - Imperial / Double Black</beer_style>
@@ -4234,6 +4246,7 @@
     <url>https://hopincraftbier.be/products/la-superbe-barrika-series-rye-whiskey--bourbon-b-a-imperial-stout</url>
     <price>6.93</price>
     <brewery_name>La Superbe</brewery_name>
+    <regular_price>8.15</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4847473061.png</image>
     <beer_description>Barrels: 8 months of aging in Rye Whiskey and Bourbon barrels Finish: Papuan Vanilla Pods, Candied Corsican Clementines &amp; Cocoa -</beer_description>
     <beer_style>Stout - Imperial / Double</beer_style>
@@ -4304,6 +4317,7 @@
     <url>https://hopincraftbier.be/products/horizont-brewing-night-shift-vintage-2024-russian-imperial-stout-aged-in-tennessee-whiskey-barrels</url>
     <price>8.47</price>
     <brewery_name>HORIZONT Brewing</brewery_name>
+    <regular_price>9.96</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4847573869.png</image>
     <beer_description>Back to our 2016 roots, this 2024 batch is aged in Tennessee Whiskey barrels. No spices, just the barrels, malt, and hops. Aged for 2 years. -</beer_description>
     <beer_style>Stout - Russian Imperial</beer_style>
@@ -4356,6 +4370,7 @@
     <url>https://hopincraftbier.be/products/moersleutel-craft-brewery-extravagant-extra-mash-extra-coconut</url>
     <price>7.61</price>
     <brewery_name>Moersleutel Craft Brewery</brewery_name>
+    <regular_price>9.51</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4847838592.png</image>
     <beer_description>Extravagant – brewed with maximum intensity. An abundance of roasted and raw coconut flakes creates a creamy coconut milk experience with hints of pastry. A generous 3 kg of Mexican vanilla imparts a rich ice cream-like character. Brewed with rye, wheat, and Munich malts in a robust triple mash. -</beer_description>
     <beer_style>Stout - Imperial / Double Pastry</beer_style>
@@ -4391,6 +4406,7 @@
     <url>https://hopincraftbier.be/products/horizont-brewing-night-shift-vintage-2024-imperial-pastry-stout-aged-in-bourbon-barrels-with-hazelnut--caramel</url>
     <price>9.18</price>
     <brewery_name>HORIZONT Brewing</brewery_name>
+    <regular_price>10.8</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4847585001.png</image>
     <beer_description>The idea of our brewer Kristóf Pető. The base is an Imperial Stout, whose distinctive chocolate notes pair well with any chocolate-inspired addition, and now it’s been given a generous amount of crushed hazelnuts and caramel. The beer itself was aged in Bourbon barrels to give the base flavors a touch of whiskey and barrel-aged finesse. -</beer_description>
     <beer_style>Stout - Imperial / Double Pastry</beer_style>
@@ -4408,6 +4424,7 @@
     <url>https://hopincraftbier.be/products/white-dog-brewery-razor-thin-margins</url>
     <price>5.63</price>
     <brewery_name>White Dog Brewery</brewery_name>
+    <regular_price>7.04</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4847840032.png</image>
     <beer_description>Citra, Mosaic, HBC586 (krush) - White Dog Brewery - Razor Thin Margins</beer_description>
     <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
@@ -4566,6 +4583,7 @@
     <url>https://hopincraftbier.be/products/oso-brew-co-60kg-strata</url>
     <price>5.32</price>
     <brewery_name>Oso Brew Co</brewery_name>
+    <regular_price>6.65</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4842126879.png</image>
     <beer_description>Our new Single Hop NEIPA series focuses on single-varietal varieties. In this edition, 60kg of dry-hopped Strata delivers an explosion of stone fruit, grapefruit, and a touch of fresh herbs. It's all rounded out by a silky, crisp body. -</beer_description>
     <beer_style>IPA - New England / Hazy</beer_style>
@@ -4583,6 +4601,7 @@
     <url>https://hopincraftbier.be/products/varvar-brew-insight</url>
     <price>4.22</price>
     <brewery_name>Varvar Brew</brewery_name>
+    <regular_price>5.27</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4842175183.png</image>
     <beer_description>In 1977, a pastry chef from Brittany, Henri le Roux, came up with the idea of making caramel with the addition of local sea salt. And it was just an insight. Judge for yourself, could we resist and not combine two wonderful flavors? Velvet imperial stout, chocolate notes, a little coffee and biscuit plus delicious salted caramel? -</beer_description>
     <beer_style>Stout - Imperial / Double</beer_style>
@@ -4618,6 +4637,7 @@
     <url>https://hopincraftbier.be/products/oso-brew-co-60kg-cashmere</url>
     <price>5.32</price>
     <brewery_name>Oso Brew Co</brewery_name>
+    <regular_price>6.65</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4842126874.png</image>
     <beer_description>Our new Single Hop NEIPA series focuses on single-varietal wines. In this edition, 60kg of dry-hopped Cashmere delivers a burst of melon and citrus with a smooth coconut finish. It's all rounded out by a silky, fresh body. -</beer_description>
     <beer_style>IPA - New England / Hazy</beer_style>
@@ -4635,6 +4655,7 @@
     <url>https://hopincraftbier.be/products/trial--ale-brewing-company-30-000-steps</url>
     <price>7.01</price>
     <brewery_name>Trial &amp; Ale Brewing Company</brewery_name>
+    <regular_price>8.25</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4842158716.png</image>
     <beer_description>The pineapple is one of the most elbow-throwing fruits in the world when it comes to assertive flavours and acidity. It doesn’t wait in line, ask for directions, or care what you think. In fact, pineapples are kind of assholes. If you’ve ever experienced the joys of carving one up, you understand even better. Our challenge with this blend was to crush the spirit of the pineapple in order to have it behave like a decent member of fruit society. Balance was the goal of this blend. Fruiting rates are not one size-fits-all, so an understanding of the target pineapple profile was key for us. Despite the general constitution of the pineapple it does have many great qualities. The flavour comes from the chemical compound Ethyl Butyrate, which is a commonly occurring ester in nature. Bright like the sun, it’s best enjoyed in pleasurable doses, as over indulging burns. We feel the intensity and level we achieved in this blend is on the mark. In the end, we made a new friend in pineapple. -</beer_description>
     <beer_style>Sour - Fruited</beer_style>
@@ -4670,6 +4691,7 @@
     <url>https://hopincraftbier.be/products/oso-brew-co-blame-culture</url>
     <price>4.87</price>
     <brewery_name>Oso Brew Co</brewery_name>
+    <regular_price>6.09</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4842127568.png</image>
     <beer_description>NEIPA is bursting with tropical flavors, the result of a thorough dry-hop blend of Galaxy, Mosaic, and Ekuanot hops. Highlighting notes of passion fruit, pineapple, and citrus, it offers a smooth, refreshing, and easy-drinking experience, perfect for guilt-free enjoyment. -</beer_description>
     <beer_style>IPA - New England / Hazy</beer_style>
@@ -4687,6 +4709,7 @@
     <url>https://hopincraftbier.be/products/arpus-brewing-co-tdh-riwaka-x-galaxy-dipa</url>
     <price>4.81</price>
     <brewery_name>Ārpus Brewing Co.</brewery_name>
+    <regular_price>6.01</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4840946145.png</image>
     <beer_description>Hazy Double IPA hopped with Riwaka and Galaxy -</beer_description>
     <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
@@ -4704,6 +4727,7 @@
     <url>https://hopincraftbier.be/products/pohjala-more-than-amber-cellar-series</url>
     <price>7.18</price>
     <brewery_name>Põhjala</brewery_name>
+    <regular_price>8.98</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4842142755.png</image>
     <beer_description>Een rijke en fluweelzachte imperial porter, twee jaar gerijpt op cognacvaten. -</beer_description>
     <beer_style>Porter - Imperial / Double</beer_style>
@@ -4721,6 +4745,7 @@
     <url>https://hopincraftbier.be/products/moersleutel-craft-brewery-the-4-elements-fire</url>
     <price>6.15</price>
     <brewery_name>Moersleutel Craft Brewery</brewery_name>
+    <regular_price>7.69</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4842442036.png</image>
     <beer_description>Fire is a non-adjunct stout we’re particularly proud of, brewed in collaboration with Crisp Malt. We were given the privilege of using two of their heritage malts in this 100% English stout. Chevallier® Heritage Malt, grown since 1820 and the dominant barley in England until the 1920s, is the backbone of many Victorian ales. It brings deep flavours, robust maltiness and a rich marmalade-like character. Then there’s Plumage Archer® Malt, the first commercially produced crossbred barley, which had a similar impact on brewing as Chevallier. For years they stood side by side, each adding their own nuance to 20th century British beers. Our brewers love the subtle flavour and clean finish of Plumage Archer. In this brew, both malts are used in equal parts. We’ve also added Bramling Cross hops, which give notes of blackberry, spice and wood, and East Kent Goldings hops, which are earthy and slightly bitter, but also have a hint of honey. This beer is quadruple mashed to extract the most flavour from these special ingredients. The result? Clean, thick and robust. Cheers! -</beer_description>
     <beer_style>Stout - Imperial / Double</beer_style>
@@ -4755,6 +4780,7 @@
     <url>https://hopincraftbier.be/products/elmeleven-starfield-project-pulp--w-vault-city</url>
     <price>6.45</price>
     <brewery_name>Elmeleven</brewery_name>
+    <regular_price>8.06</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4840953801.png</image>
     <beer_description>Raspberry Whipped Cream And Honey Cranachan PULP! Collaboration with our great buddies from Vault City Brewing in Edinburgh! Flip can to mix, this beer contains high levels of fruit that may settle in the can! After mixing, let the can rest for a few minutes to avoid foaming from the can. Store cold! This beer is NOT vegan. -</beer_description>
     <beer_style>Sour - Smoothie / Pastry</beer_style>
@@ -4772,6 +4798,7 @@
     <url>https://hopincraftbier.be/products/alefarm-brewing-hollow-names</url>
     <price>5.61</price>
     <brewery_name>Alefarm Brewing</brewery_name>
+    <regular_price>7.01</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4840926929.png</image>
     <beer_description>DIPA with Mosaic BBC and Amarillo BBC.</beer_description>
     <beer_style>IPA - Imperial / Double</beer_style>
@@ -4789,6 +4816,7 @@
     <url>https://hopincraftbier.be/products/elmeleven-planet-2-pulp</url>
     <price>6.45</price>
     <brewery_name>Elmeleven</brewery_name>
+    <regular_price>8.06</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4840951580.png</image>
     <beer_description>Strawberry Banana Raspberry Thickshake PULP! We’re back with a new thickshake! Continuing with creamy and sweet banana, we paired this one with the freshest strawberries and raspberries. Pours thick and creamy as you would except! Loads and loads of banana from start to finish with bright strawberries merged seamlessly throughout… we added a dose of raspberries to provide some tangyness and complexity to the mix. They also provide a beautiful color. Very cool combination of flavors if you ask us, subtle and gentle in company, but also very powerful! Flip can to mix, this beer contains high levels of fruit that may settle in the can! After mixing, let the can rest for a few minutes to avoid foaming from the can. Store cold! This beer is vegan. -</beer_description>
     <beer_style>Sour - Smoothie / Pastry</beer_style>
@@ -4806,6 +4834,7 @@
     <url>https://hopincraftbier.be/products/pohjala-evening-colours-cellar-series</url>
     <price>7.18</price>
     <brewery_name>Põhjala</brewery_name>
+    <regular_price>8.98</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4842135240.png</image>
     <beer_description>A vinous imperial Baltic porter aged in Tawny port wine casks for 22 months. -</beer_description>
     <beer_style>Porter - Imperial / Double Baltic</beer_style>
@@ -4823,6 +4852,7 @@
     <url>https://hopincraftbier.be/products/omnipollo-another-marshmallow-ale</url>
     <price>6.83</price>
     <brewery_name>Omnipollo</brewery_name>
+    <regular_price>8.54</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4842121026.png</image>
     <beer_description>A hoppy ale brewed with Citra, Nelson, Riwaka, Motueka and hundreds of hand cut Ugandan vanilla beans. -</beer_description>
     <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
@@ -4840,6 +4870,7 @@
     <url>https://hopincraftbier.be/products/pohjala-faraway-friends-cellar-series</url>
     <price>6.74</price>
     <brewery_name>Põhjala</brewery_name>
+    <regular_price>8.43</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4842445047.png</image>
     <beer_description>A colossal rye whisky barrel aged imperial stout brewed with vanilla pods and coconut sugar. Made in collaboration with our friends from Lervig. -</beer_description>
     <beer_style>Stout - Imperial / Double</beer_style>
@@ -4857,6 +4888,7 @@
     <url>https://hopincraftbier.be/products/puhaste-brewery-embus-bourbon-ba-silver-series</url>
     <price>7.91</price>
     <brewery_name>Pühaste Brewery</brewery_name>
+    <regular_price>9.89</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4842145074.png</image>
     <beer_description>A black barley wine aged in bourbon barrels. Brewed in collaboration with Alive Brewing. -</beer_description>
     <beer_style>Barleywine - Other</beer_style>
@@ -4874,6 +4906,7 @@
     <url>https://hopincraftbier.be/products/arpus-brewing-co-arpus-x-factory-quintuple-dry-hopped-motueka-x-nelson-sauvin-qipa</url>
     <price>5.42</price>
     <brewery_name>Ārpus Brewing Co.</brewery_name>
+    <regular_price>6.77</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4840941517.png</image>
     <beer_description>This Quadruple IPA is an absolute hop bomb, packed with five rounds of dry hopping for maximum aroma and flavor. Motueka brings bright lime zest and tropical fruit, while Nelson Sauvin delivers intense white grape, gooseberry, and dank complexity. Thick, juicy, and bursting with hops – this is big, bold, and unforgettable! -</beer_description>
     <beer_style>IPA - Quadruple</beer_style>
@@ -4891,6 +4924,7 @@
     <url>https://hopincraftbier.be/products/menno-olivier-brewing-series-1-salted-caramel</url>
     <price>4.2</price>
     <brewery_name>Menno Olivier Brewing</brewery_name>
+    <regular_price>5.12</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4840969539.png</image>
     <beer_description>Imperial Stout with Salted Caramel -</beer_description>
     <beer_style>Stout - Imperial / Double</beer_style>
@@ -4908,6 +4942,7 @@
     <url>https://hopincraftbier.be/products/menno-olivier-brewing-hipodermia</url>
     <price>6.38</price>
     <brewery_name>Menno Olivier Brewing</brewery_name>
+    <regular_price>7.5</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4840959714.png</image>
     <beer_description>Coffee imperial Stout Bourbon barrel aged -</beer_description>
     <beer_style>Stout - Imperial / Double Coffee</beer_style>
@@ -4925,6 +4960,7 @@
     <url>https://hopincraftbier.be/products/omnipollo-three-times-three-vol-5</url>
     <price>7.02</price>
     <brewery_name>Omnipollo</brewery_name>
+    <regular_price>8.77</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4842121031.png</image>
     <beer_description>Game over. OMNIPOLLO®️ x ALESMITH®️ x SIERRA NEVADA®️ x FIRESTONE WALKER®️ x CELLARMAKER®️ x HOP BUTCHER FOR THE WORLD®️ x ELECTRIC BREWING®️ x WILLOW PARK BREWING®️ THREE TIMES THREE™️ DOUBLE IPA (8,2%). We made it 7 friends this time + fun fact: brewed with whole citra, simcoe Dynaboost and T90 Nelson. -</beer_description>
     <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
@@ -4942,6 +4978,7 @@
     <url>https://hopincraftbier.be/products/pohjala-kurg-cellar-series</url>
     <price>7.17</price>
     <brewery_name>Põhjala</brewery_name>
+    <regular_price>8.96</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4842142750.png</image>
     <beer_description>A bold a brooding imperial stout aged in alder wood smoked whisky barrels. -</beer_description>
     <beer_style>Stout - Imperial / Double</beer_style>
@@ -5580,6 +5617,7 @@
     <url>https://hopincraftbier.be/products/moersleutel-craft-brewery-pastry-factory-pecan-pie</url>
     <price>6.59</price>
     <brewery_name>Moersleutel Craft Brewery</brewery_name>
+    <regular_price>8.24</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4840907417.png</image>
     <beer_description>Rich, indulgent stout with flavors of pecan, maple, and coffee. We used Ethiopian coffee with light roast to let the pecan and maple syrup shine. Blended with three grades of maple syrup, each adding its own depth of sweetness, and toasted pecans for a bold, aromatic finish. This stout is perfectly balanced, with the coffee providing just enough floral notes to complement the rich, nutty profile. Cheers -</beer_description>
     <beer_style>Stout - Imperial / Double Pastry</beer_style>
@@ -5590,6 +5628,6 @@
     <date_best_before>2027-01-21</date_best_before>
     <untappd_id>6149227</untappd_id>
   </item>
-  <timestamp>1760988605</timestamp>
-  <gen_date>20/10/2025 21:30:05</gen_date>
+  <timestamp>1760989506</timestamp>
+  <gen_date>20/10/2025 21:45:06</gen_date>
 </feed>
