@@ -12,7 +12,7 @@
     <price>7.12</price>
     <brewery_name>KOM Beer</brewery_name>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5290681757.png</image>
-    <beer_description>KOM Beer - Kome Lupulos</beer_description>
+    <beer_description>Motueka, Citra &amp; Simcoe. KOM Beer - Kome Lupulos</beer_description>
     <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
     <beer_abv>8%</beer_abv>
     <beer_volume>440 ml</beer_volume>
@@ -76,7 +76,7 @@
     <price>6.99</price>
     <brewery_name>KOM Beer</brewery_name>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5290676620.png</image>
-    <beer_description>Single hop Mosaic! KOM Beer - DUPOND</beer_description>
+    <beer_description>Single hop Mosaic! Offers aromas and flavors of tropical fruit, citrus, and a hint of pine. It is characterized by a smooth, fruity, and full-bodied taste. KOM Beer - DUPOND</beer_description>
     <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
     <beer_abv>8%</beer_abv>
     <beer_volume>440 ml</beer_volume>
@@ -92,7 +92,7 @@
     <price>6.99</price>
     <brewery_name>KOM Beer</brewery_name>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5290681777.png</image>
-    <beer_description>Single hop Citra! KOM Beer - DUPONT</beer_description>
+    <beer_description>Single hop Citra! It is a hazy, fruit-forward beer with blueberry, tropical fruit, and citrus notes. KOM Beer - DUPONT</beer_description>
     <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
     <beer_abv>8%</beer_abv>
     <beer_volume>440 ml</beer_volume>
@@ -5590,6 +5590,6 @@
     <date_best_before>2027-01-21</date_best_before>
     <untappd_id>6149227</untappd_id>
   </item>
-  <timestamp>1760976906</timestamp>
-  <gen_date>20/10/2025 18:15:06</gen_date>
+  <timestamp>1760977805</timestamp>
+  <gen_date>20/10/2025 18:30:05</gen_date>
 </feed>
