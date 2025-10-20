@@ -5,6 +5,102 @@
   <link>https://hopincraftbier.be/products&lt;/link&gt;</link>
   <description>Hop In Craftbier Products feed</description>
   <item>
+    <id>6417762</id>
+    <ecommerce_id>790915295</ecommerce_id>
+    <title>Kome Lupulos</title>
+    <url>https://hopincraftbier.be/products/kom-beer-kome-lupulos</url>
+    <price>7.12</price>
+    <brewery_name>KOM Beer</brewery_name>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5290681757.png</image>
+    <beer_description>KOM Beer - Kome Lupulos</beer_description>
+    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
+    <beer_abv>8%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Spain</brewery_country>
+    <untappd_id>6417762</untappd_id>
+  </item>
+  <item>
+    <id>6423029</id>
+    <ecommerce_id>790917824</ecommerce_id>
+    <title>Twilight Hyperactive</title>
+    <url>https://hopincraftbier.be/products/cervesa-espiga-twilight-hyperactive</url>
+    <price>6.24</price>
+    <brewery_name>Cervesa Espiga</brewery_name>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5290661950.png</image>
+    <beer_description>As is customary for our anniversary, we're brewing Twilight Hyperactive, a Triple IPA that pays tribute to our most iconic beer: Hyperactive. This year, we wanted to capture that magical moment of twilight, when day turns to night, and translate it into an intense and silky smooth beer. Twilight Hyperactive is packed with two hops, Simcoe and Citra, which deliver greater aromatic intensity and a higher alcohol content, while retaining its juicy and enveloping character. Leave it to us through a window of tropical aromas, ripe citrus, and a subtle resinous note. It's creamy on the palate, lively, and balanced in bitterness that retains its power. This is our way of toasting you and celebrating eleven more times together in the sun; at this point between light and darkness, a new cycle begins. As is tradition for our anniversary, we're brewing Twilight Hyperactive, a Triple IPA that pays tribute to our most iconic beer: Hyperactive. This year, we wanted to capture that magical moment of twilight, when daylight gives way to night, and translate it into an intense, silky beer. Twilight Hyperactive is generously enriched with two hops, Simcoe and Citra, which provide greater aromatic intensity and a higher alcohol content, while maintaining its juicy and enveloping character. Let yourself be carried away by a host of tropical aromas, ripe citrus, and a subtle resinous note. On the palate, it's creamy and lively, with a balanced bitterness. Cervesa Espiga - Twilight Hyperactive</beer_description>
+    <beer_style>IPA - Triple New England / Hazy</beer_style>
+    <beer_abv>10%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Spain</brewery_country>
+    <untappd_id>6423029</untappd_id>
+  </item>
+  <item>
+    <id>6440563</id>
+    <ecommerce_id>790918085</ecommerce_id>
+    <title>Touch Grass</title>
+    <url>https://hopincraftbier.be/products/verdant-brewing-co-touch-grass</url>
+    <price>8.69</price>
+    <brewery_name>Verdant Brewing Co</brewery_name>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5290662995.png</image>
+    <beer_description>A creamy and lush DIPA interpretation of our pale ale Vanity Metrics. Joining NZH-101 and amping up the funk and fruit we have superstars Citra and Nelson Sauvin. Our expressive house yeast brings this all together in a typically 'that's a Verdant beer' kind of way. Verdant Brewing Co - Touch Grass</beer_description>
+    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
+    <beer_abv>8%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>England</brewery_country>
+    <untappd_id>6440563</untappd_id>
+  </item>
+  <item>
+    <id>3894150</id>
+    <ecommerce_id>790918083</ecommerce_id>
+    <title>Unconventional Tactics</title>
+    <url>https://hopincraftbier.be/products/verdant-brewing-co-unconventional-tactics</url>
+    <price>8.69</price>
+    <brewery_name>Verdant Brewing Co</brewery_name>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5290681751.png</image>
+    <beer_description>It’s no secret that Nelson Sauvin is our favourite hop. No secret at all. To this end…here is the most 'Nelsony' beer we’ve ever attempted. We’ve added Nelson on top of Nelson, squeezed a bit more Nelson in, and then finished it off with some Nelson. Super smooth. Super light. Super Nelson. ⁣ Verdant Brewing Co - Unconventional Tactics</beer_description>
+    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
+    <beer_abv>8%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>England</brewery_country>
+    <untappd_id>3894150</untappd_id>
+  </item>
+  <item>
+    <id>5605718</id>
+    <ecommerce_id>790918084</ecommerce_id>
+    <title>DUPOND</title>
+    <url>https://hopincraftbier.be/products/kom-beer-dupond</url>
+    <price>6.99</price>
+    <brewery_name>KOM Beer</brewery_name>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5290676620.png</image>
+    <beer_description>Single hop Mosaic! KOM Beer - DUPOND</beer_description>
+    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
+    <beer_abv>8%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Spain</brewery_country>
+    <untappd_id>5605718</untappd_id>
+  </item>
+  <item>
+    <id>5605713</id>
+    <ecommerce_id>790918082</ecommerce_id>
+    <title>DUPONT</title>
+    <url>https://hopincraftbier.be/products/kom-beer-dupont</url>
+    <price>6.99</price>
+    <brewery_name>KOM Beer</brewery_name>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5290681777.png</image>
+    <beer_description>Single hop Citra! KOM Beer - DUPONT</beer_description>
+    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
+    <beer_abv>8%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Spain</brewery_country>
+    <untappd_id>5605713</untappd_id>
+  </item>
+  <item>
     <id>3766089</id>
     <ecommerce_id>788580043</ecommerce_id>
     <title>lACEd In Space</title>
@@ -5494,6 +5590,6 @@
     <date_best_before>2027-01-21</date_best_before>
     <untappd_id>6149227</untappd_id>
   </item>
-  <timestamp>1760973305</timestamp>
-  <gen_date>20/10/2025 17:15:05</gen_date>
+  <timestamp>1760974205</timestamp>
+  <gen_date>20/10/2025 17:30:05</gen_date>
 </feed>
