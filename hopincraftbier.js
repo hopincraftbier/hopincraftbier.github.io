@@ -1,4 +1,4 @@
-console.log("HopInCraftbier custom js v5.77");
+console.log("HopInCraftbier custom js v5.78");
 let debug = false;
 let prodMode = true;
 
@@ -237,9 +237,13 @@ function processExpectedPrice() {
     if (priceElement) {
         document.querySelectorAll('span.details-product-attribute__title').forEach(function (p) {
             const attribute = p.textContent.trim();
-            if (attribute === 'Verwachte prijs minder dan:' || attribute === 'Expected price lower than:') {
+            if (attribute.trim() === 'hide_max_prijs:' || attribute.trim() === 'hide_max_price:') {
                 const element = p.parentElement.getElementsByClassName('details-product-attribute__value').item(0);
-                price = attribute + " " + element.textContent.trim();
+                if (attribute.trim() === 'hide_max_prijs:') {
+                    price = "Verwachte prijs minder dan " + element.textContent.trim();
+                } else {
+                    price = "Expected price lower than " + element.textContent.trim();
+                }
             }
         });
         let hopPriceElement = document.querySelector('div.product-details__product-price span.details-product-hop__price__value');
