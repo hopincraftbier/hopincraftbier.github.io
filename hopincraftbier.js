@@ -71,7 +71,7 @@ const cartTotalMo = new MutationObserver(function (ms) {
     redirectWhenNeeded();
     processInfoPages();
     processProductBrowserPage();
-    processProductPage(false);
+    // processProductPage(false);
     processStock();
     processExpectedPrice();
     processCartPage();
