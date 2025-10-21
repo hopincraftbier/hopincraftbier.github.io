@@ -1,4 +1,4 @@
-console.log("HopInCraftbier custom js v5.87");
+console.log("HopInCraftbier custom js v5.88");
 let debug = false;
 let prodMode = true;
 
@@ -186,10 +186,8 @@ function processAttributes() {
                     link = lng + '/products/alle-bieren?attribute_Land=' + content.replaceAll(' ', '+');
                 }
 
-                let newContent = '<a href="' + link + '" target="_blank">' + content + '</a>';
-                let newElement = document.createElement('dum');
-                newElement.innerHTML = newContent;
-                if (element.textContent !== newElement.textContent) {
+                let newContent = "<a href=\"" + link + "\" target=\"_blank\">" + content + "</a>";
+                if (element.innerHTML !== newContent) {
                     element.innerHTML = newContent;
                 }
             }
