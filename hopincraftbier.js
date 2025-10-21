@@ -1,4 +1,4 @@
-console.log("HopInCraftbier custom js v5.88");
+console.log("HopInCraftbier custom js v5.89");
 let debug = false;
 let prodMode = true;
 
@@ -193,8 +193,9 @@ function processAttributes() {
             }
         }
     });
-    if (preOrderTxt !== "" && document.querySelector('div.form-control--primary button.form-control__button span.form-control__button-text')) {
-        document.querySelector('div.form-control--primary button.form-control__button span.form-control__button-text').innerHTML = 'Pre-Order';
+    const buttonTxtEl = document.querySelector('div.form-control--primary button.form-control__button span.form-control__button-text');
+    if (preOrderTxt !== "" && buttonTxtEl && buttonTxtEl.textContent !== 'Pre-Order') {
+        buttonTxtEl.innerHTML = 'Pre-Order';
     }
     const preOrderTxtEl = document.querySelector('div.product-details__product-options.details-product-options');
     let newElement = document.createElement('dum');
@@ -334,11 +335,13 @@ function processExpectedLabels() {
             if (lint === 'Sold out' || lint === 'Uitverkocht') return;
             let buyNowEl = p.querySelector('div.grid-product__button.grid-product__buy-now');
             if (buyNowEl?.textContent === 'Sold out' || buyNowEl?.textContent === 'Uitverkocht') {
-                buyNowEl.style.display = 'none';
+                if (buyNowEl.style.display !== 'none') {
+                    buyNowEl.style.display = 'none';
+                }
                 if (document.querySelector('h1.page-title__name.ec-header-h1')?.textContent?.trim() !== 'Pre-order') {
                     let priceEl = p.querySelector('div.grid-product__price');
-                    if (priceEl.style.display !== 'none') {
-                        p.querySelector('div.grid-product__price').style.display = 'none';
+                    if (priceEl && priceEl.style.display !== 'none') {
+                        priceEl.style.display = 'none';
                     }
                 }
             }
