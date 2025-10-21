@@ -1,4 +1,4 @@
-console.log("HopInCraftbier custom js v5.86");
+console.log("HopInCraftbier custom js v5.87");
 let debug = false;
 let prodMode = true;
 
@@ -221,7 +221,7 @@ function processProductTitle() {
     if (titleElement) {
         let breweryElement = document.querySelector('.product-details__product-hop-title p.brewery')
         let titleElement2 = document.querySelector('.product-details__product-hop-title p.title');
-        const txt = titleElement.textContent;
+        let txt = titleElement.textContent;
         if (!breweryElement) {
             titleElement.style.display = 'none';
             titleElement.parentElement.insertAdjacentHTML('afterbegin', '<div class="product-details__product-hop-title"><p class="brewery"></p><p class="title"></p></div>');
@@ -230,10 +230,11 @@ function processProductTitle() {
         }
         breweryElement.textContent = brewery;
         if (txt.indexOf(brewery + " - ") >= 0) {
-            titleElement2.textContent = txt.replace(brewery + " - ", "").trim();
+            txt = txt.replace(brewery + " - ", "").trim();
         } else if (txt.indexOf(" - ") >= 0) {
-            titleElement2.textContent = txt.replace(txt.split(" - ")[0] + " - ", "").trim();
-        } else {
+            txt = txt.replace(txt.split(" - ")[0] + " - ", "").trim();
+        }
+        if (titleElement2.textContent !== txt) {
             titleElement2.textContent = txt;
         }
     }
