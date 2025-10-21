@@ -1,4 +1,4 @@
-console.log("HopInCraftbier custom js v5.89");
+console.log("HopInCraftbier custom js v5.90");
 let debug = false;
 let prodMode = true;
 
@@ -186,8 +186,10 @@ function processAttributes() {
                     link = lng + '/products/alle-bieren?attribute_Land=' + content.replaceAll(' ', '+');
                 }
 
+                let newElement = document.createElement('dum');
                 let newContent = "<a href=\"" + link + "\" target=\"_blank\">" + content + "</a>";
-                if (element.innerHTML !== newContent) {
+                newElement.innerHTML = newContent; // escape html
+                if (element.innerHTML !== newElement.innerHTML) {
                     element.innerHTML = newContent;
                 }
             }
@@ -390,7 +392,8 @@ function addCouponInfo(toScroll) {
                 dc.innerHTML = txt;
             }
             if (toScroll) {
-                window.scrollTo({top: 0, behavior: 'smooth'});
+                location.href = "#";
+                location.href = "#ec-storefront-v3-top-scroller";
             }
             if (dc.style.display !== 'block') {
                 dc.style.display = 'block';
