@@ -1,4 +1,4 @@
-console.log("HopInCraftbier custom js v5.84");
+console.log("HopInCraftbier custom js v5.85");
 let debug = false;
 let prodMode = true;
 
@@ -311,7 +311,7 @@ function soonLabel() {
             }
         }
         let soldOutEl2 = document.querySelector('div.product-details-module__title.details-product-purchase__sold-out');
-        if (soldOutEl2 && soldOutEl2.textContent !== verwachtTxt) {
+        if (soldOutEl2 && soldOutEl2.innerHTML !== verwachtTxt) {
             soldOutEl2.innerHTML = verwachtTxt;
         }
         let soldOutTxt = document.querySelector('div.details-product-purchase__place');
