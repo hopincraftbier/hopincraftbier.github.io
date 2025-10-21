@@ -228,7 +228,9 @@ function processProductTitle() {
             breweryElement = document.querySelector('.product-details__product-hop-title p.brewery');
             titleElement2 = document.querySelector('.product-details__product-hop-title p.title');
         }
-        breweryElement.textContent = brewery;
+        if (breweryElement.textContent !== brewery) {
+            breweryElement.textContent = brewery;
+        }
         if (txt.indexOf(brewery + " - ") >= 0) {
             txt = txt.replace(brewery + " - ", "").trim();
         } else if (txt.indexOf(" - ") >= 0) {
