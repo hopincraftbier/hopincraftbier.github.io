@@ -1,4 +1,4 @@
-console.log("HopInCraftbier custom js v5.85");
+console.log("HopInCraftbier custom js v5.86");
 let debug = false;
 let prodMode = true;
 
@@ -187,8 +187,10 @@ function processAttributes() {
                 }
 
                 let newContent = '<a href="' + link + '" target="_blank">' + content + '</a>';
-                if (element.innerHTML !== newContent) {
-                    element.innerHTML = '<a href="' + link + '" target="_blank">' + content + '</a>';
+                let newElement = document.createElement('dum');
+                newElement.innerHTML = newContent;
+                if (element.textContent !== newElement.textContent) {
+                    element.innerHTML = newContent;
                 }
             }
         }
@@ -197,7 +199,9 @@ function processAttributes() {
         document.querySelector('div.form-control--primary button.form-control__button span.form-control__button-text').innerHTML = 'Pre-Order';
     }
     const preOrderTxtEl = document.querySelector('div.product-details__product-options.details-product-options');
-    if (preOrderTxtEl && preOrderTxtEl.textContent !== preOrderTxt) {
+    let newElement = document.createElement('dum');
+    newElement.innerHTML = preOrderTxt;
+    if (preOrderTxtEl && preOrderTxtEl.textContent !== newElement.textContent) {
         preOrderTxtEl.innerHTML = preOrderTxt;
     }
 }
@@ -311,7 +315,9 @@ function soonLabel() {
             }
         }
         let soldOutEl2 = document.querySelector('div.product-details-module__title.details-product-purchase__sold-out');
-        if (soldOutEl2 && soldOutEl2.innerHTML !== verwachtTxt) {
+        let newElement = document.createElement('dum');
+        newElement.innerHTML = verwachtTxt;
+        if (soldOutEl2 && soldOutEl2.textContent !== newElement.textContent) {
             soldOutEl2.innerHTML = verwachtTxt;
         }
         let soldOutTxt = document.querySelector('div.details-product-purchase__place');
@@ -373,7 +379,10 @@ function addCouponInfo(toScroll) {
             } else {
                 txt = document.txtNl1 + c1 + document.txtNl2 + c1 + document.txtNl3 + c3 + document.txtNl4 + c2 + document.txtNl5;
             }
-            if (dc.innerHtml !== txt) {
+
+            let newElement = document.createElement('dum');
+            newElement.innerHTML = txt;
+            if (dc.textContent !== newElement.textContent) {
                 dc.innerHTML = txt;
             }
             if (toScroll) {
