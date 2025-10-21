@@ -1,4 +1,4 @@
-console.log("HopInCraftbier custom js v5.81");
+console.log("HopInCraftbier custom js v5.82");
 let debug = false;
 let prodMode = true;
 
@@ -71,6 +71,7 @@ const cartTotalMo = new MutationObserver(function (ms) {
     redirectWhenNeeded();
     processInfoPages();
     processProductBrowserPage();
+    processProductPage(false);
     processStock();
     processExpectedPrice();
     processCartPage();
