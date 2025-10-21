@@ -1,4 +1,4 @@
-console.log("HopInCraftbier custom js v5.79");
+console.log("HopInCraftbier custom js v5.80");
 let debug = false;
 let prodMode = true;
 
@@ -300,11 +300,11 @@ function soonLabel() {
         });
     if (!preorderSoldOut && (notSoldOut || (document.querySelector('div.product-details__product-price.ec-price-item')?.getAttribute('content') === "0" && document.querySelector('div.product-details__product-soldout')))) {
         let soldOutEl = document.querySelector('div.ec-label.label--flag.label--attention div.label__text');
-        if (soldOutEl && (soldOutEl.textContent !== 'Verwacht' || soldOutEl.textContent !== 'Expected')) {
+        if (soldOutEl && !(soldOutEl.textContent !== 'Verwacht' || soldOutEl.textContent !== 'Expected')) {
             if (soldOutEl.textContent === 'Uitverkocht') {
-                soldOutEl.textContent = 'Verwacht';
+                soldOutEl.innerHTML = 'Verwacht';
             } else {
-                soldOutEl.textContent = 'Expected';
+                soldOutEl.innerHTML = 'Expected';
             }
         }
         let soldOutEl2 = document.querySelector('div.product-details-module__title.details-product-purchase__sold-out');
