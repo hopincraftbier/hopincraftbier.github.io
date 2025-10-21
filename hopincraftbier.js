@@ -1,4 +1,4 @@
-console.log("HopInCraftbier custom js v5.82");
+console.log("HopInCraftbier custom js v5.84");
 let debug = false;
 let prodMode = true;
 
@@ -71,7 +71,9 @@ const cartTotalMo = new MutationObserver(function (ms) {
     redirectWhenNeeded();
     processInfoPages();
     processProductBrowserPage();
-    // processProductPage(false);
+    if (!prodMode) {
+        processProductPage(false);
+    }
     processStock();
     processExpectedPrice();
     processCartPage();
@@ -339,10 +341,15 @@ function processExpectedLabels() {
 
 function addCouponInfo(toScroll) {
     log('addCouponInfo');
+    const priceRowEl = document.querySelector('div.product-details-module.product-details__product-price-row');
+    if (!priceRowEl) {
+        return;
+    }
+
     const attrValSelector = '.ec-store.ec-store__product-page .details-product-attribute:nth-child($) .details-product-attribute__value';
     let dc = document.querySelector('#discountContainer');
     if (!dc) {
-        document.querySelector('div.product-details-module.product-details__product-price-row').insertAdjacentHTML('beforeend', '<div id="discountContainer"></div>');
+        priceRowEl.insertAdjacentHTML('beforeend', '<div id="discountContainer"></div>');
         dc = document.querySelector('#discountContainer');
     }
     const c1E = document.querySelector(attrValSelector.replace('$', '1'));
