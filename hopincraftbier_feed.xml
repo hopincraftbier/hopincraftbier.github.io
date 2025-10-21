@@ -1378,23 +1378,6 @@
     <untappd_id>6271344</untappd_id>
   </item>
   <item>
-    <id>6177421</id>
-    <ecommerce_id>768809794</ecommerce_id>
-    <title>Solitude, Silence And Darkness 2025</title>
-    <url>https://hopincraftbier.be/products/brasseria-della-fonte-solitude-silence-and-darkness-2025</url>
-    <price>24.61</price>
-    <brewery_name>Brasseria Della Fonte</brewery_name>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5062244747.webp</image>
-    <beer_description>Double mash Imperial Stout brewed with maple syrup. Aged for 15 months in Bourbon barrels with vanilla sticks and infused coffee, then conditioned with Madagascar vanilla beans and barrel aged coffee. Brasseria Della Fonte - Solitude, Silence And Darkness 2025</beer_description>
-    <beer_style>Stout - Coffee</beer_style>
-    <beer_abv>12%</beer_abv>
-    <beer_volume>500 ml</beer_volume>
-    <beer_package>bottle</beer_package>
-    <brewery_country>Italy</brewery_country>
-    <date_canned>2025-02-15</date_canned>
-    <untappd_id>6177421</untappd_id>
-  </item>
-  <item>
     <id>3527025</id>
     <ecommerce_id>767352722</ecommerce_id>
     <title>Vertige</title>
@@ -2206,26 +2189,6 @@
     <untappd_id>6289690</untappd_id>
   </item>
   <item>
-    <id>988</id>
-    <ecommerce_id>760124883</ecommerce_id>
-    <title>9 Years Anniversary Set</title>
-    <url>https://hopincraftbier.be/products/moersleutel-craft-brewery-9-years-anniversary-set</url>
-    <price>60.87</price>
-    <brewery_name>Moersleutel Craft Brewery</brewery_name>
-    <regular_price>76.09</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4984850055.webp</image>
-    <beer_description>The 9 Year Anniversary Set consists of: - Confronting Suitors - Return To Ithaca - Calypso's Temptation - Helios' Island - Scylla And Charybdis - Siren Encounter - Journey To Hades - Circes' Enchantment - Cyclops Escape</beer_description>
-    <beer_style>Various</beer_style>
-    <beer_abv>6 - 14%</beer_abv>
-    <beer_volume>9x440ml</beer_volume>
-    <beer_package>blik</beer_package>
-    <brewery_country>The Netherlands</brewery_country>
-    <date_best_before>2026-05-06</date_best_before>
-    <beer_package_count>9</beer_package_count>
-    <beer_bundle>1</beer_bundle>
-    <bundle_skus>6308977,6299163,6294931,6291430,6291425,6291421,6274029,6274026,6274022</bundle_skus>
-  </item>
-  <item>
     <id>6299163</id>
     <ecommerce_id>760115316</ecommerce_id>
     <title>9 Years: Helios' Island</title>
@@ -2495,22 +2458,6 @@
     <untappd_id>4744499</untappd_id>
   </item>
   <item>
-    <id>2776624</id>
-    <ecommerce_id>756989442</ecommerce_id>
-    <title>Nuclear Option</title>
-    <url>https://hopincraftbier.be/products/district-96-beer-factory-nuclear-option</url>
-    <price>12.24</price>
-    <brewery_name>District 96 Beer Factory</brewery_name>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4965675008.webp</image>
-    <beer_description>Northeast QIPA. DDH With Citra, Citra And More Citra.Exploding With White Peach, Pineapples, Snake Fruit And Cotton Candy. District 96 Beer Factory - Nuclear Option</beer_description>
-    <beer_style>IPA - Quadruple</beer_style>
-    <beer_abv>14%</beer_abv>
-    <beer_volume>473 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>United States</brewery_country>
-    <untappd_id>2776624</untappd_id>
-  </item>
-  <item>
     <id>4589206</id>
     <ecommerce_id>756989903</ecommerce_id>
     <title>DDH Black Cat Sees All</title>
@@ -2672,22 +2619,6 @@
     <brewery_country>United States</brewery_country>
     <date_best_before>2026-11-16</date_best_before>
     <untappd_id>6253097</untappd_id>
-  </item>
-  <item>
-    <id>1298579</id>
-    <ecommerce_id>756995308</ecommerce_id>
-    <title>Double Stack</title>
-    <url>https://hopincraftbier.be/products/great-notion-brewing-double-stack</url>
-    <price>13.26</price>
-    <brewery_name>Great Notion Brewing</brewery_name>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4965758949.webp</image>
-    <beer_description>Double Stack is our Imperial Breakfast Stout aged on whole bean coffee from Portland's Coava Coffee and maple syrup. Great Notion Brewing - Double Stack</beer_description>
-    <beer_style>Stout - Imperial / Double Coffee</beer_style>
-    <beer_abv>11%</beer_abv>
-    <beer_volume>473 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>United States</brewery_country>
-    <untappd_id>1298579</untappd_id>
   </item>
   <item>
     <id>6263449</id>
@@ -3031,22 +2962,6 @@
     <untappd_id>1954247</untappd_id>
   </item>
   <item>
-    <id>6242680</id>
-    <ecommerce_id>751542515</ecommerce_id>
-    <title>Be Kind, Rewind</title>
-    <url>https://hopincraftbier.be/products/tin-barn-brewing-be-kind-rewind</url>
-    <price>11.97</price>
-    <brewery_name>Tin Barn Brewing</brewery_name>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4962239026.webp</image>
-    <beer_description>Because Beer is Better with Friends, Be Kind, Rewind is a collab with our Carolina friends Leah &amp; JT of @replaybrewing &amp; Carly &amp; Nick of @funguysbrewing . This Triple New England was hopped with Citra, Nectaron and HBC 638. We timed this release so that we could have it ready to pour along side our friends at @yah_brew_mountjoy 90’s inspired beer fest this weekend, Fresh Brews in Pennsylvania. . Tin Barn Brewing - Be Kind, Rewind</beer_description>
-    <beer_style>IPA - Triple New England / Hazy</beer_style>
-    <beer_abv>9.5%</beer_abv>
-    <beer_volume>473 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>United States</brewery_country>
-    <untappd_id>6242680</untappd_id>
-  </item>
-  <item>
     <id>3832900</id>
     <ecommerce_id>751542513</ecommerce_id>
     <title>Aspect Oriented</title>
@@ -3062,22 +2977,6 @@
     <brewery_country>United States</brewery_country>
     <date_canned>2025-04-24</date_canned>
     <untappd_id>3832900</untappd_id>
-  </item>
-  <item>
-    <id>5850335</id>
-    <ecommerce_id>751537021</ecommerce_id>
-    <title>Double Double Mash</title>
-    <url>https://hopincraftbier.be/products/the-bruery-double-double-mash</url>
-    <price>22.29</price>
-    <brewery_name>The Bruery</brewery_name>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4932668390.png</image>
-    <beer_description>Double Bourbon Barrel-Aged Barleywine Ale Double Double Mash is a double barrel-aged barleywine ale that packs double the indulgence. Aged first in Buffalo Trace bourbon barrels, then Heaven Hill bourbon barrels for another year, it offers rich aromas of oak, vanilla and fig. The velvety caramel toast and fig jam flavors mingle with charred vanilla notes. The journey concludes with a mildly sweet and clean finish, a testament to refined craftsmanship. The Bruery - Double Double Mash</beer_description>
-    <beer_style>Barleywine - American</beer_style>
-    <beer_abv>15.7%</beer_abv>
-    <beer_volume>375 ml</beer_volume>
-    <beer_package>bottle</beer_package>
-    <brewery_country>United States</brewery_country>
-    <untappd_id>5850335</untappd_id>
   </item>
   <item>
     <id>2977936</id>
@@ -3277,22 +3176,6 @@
     <untappd_id>6204619</untappd_id>
   </item>
   <item>
-    <id>6092135</id>
-    <ecommerce_id>751543258</ecommerce_id>
-    <title>Hello My Name Is - Vanille</title>
-    <url>https://hopincraftbier.be/products/nano-cinco-hello-my-name-is-vanille</url>
-    <price>28.68</price>
-    <brewery_name>Nano Cinco</brewery_name>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5025308333.webp</image>
-    <beer_description>Stout impérial vieilli en barrique de whisky rye ayant contenu du sirop d'érable, puis conditionné sur de la vanille du Mexique. Une bière particulièrement riche et sirupeuse aux notes de sirop d'érable, de vanille, de cacao et de spiritueux. Nano Cinco - Hello My Name Is - Vanille</beer_description>
-    <beer_style>Stout - Imperial / Double</beer_style>
-    <beer_abv>11.9%</beer_abv>
-    <beer_volume>500 ml</beer_volume>
-    <beer_package>bottle</beer_package>
-    <brewery_country>Canada</brewery_country>
-    <untappd_id>6092135</untappd_id>
-  </item>
-  <item>
     <id>2073737</id>
     <ecommerce_id>751529279</ecommerce_id>
     <title>Refreshing</title>
@@ -3308,23 +3191,6 @@
     <brewery_country>United States</brewery_country>
     <date_canned>2025-04-22</date_canned>
     <untappd_id>2073737</untappd_id>
-  </item>
-  <item>
-    <id>348850</id>
-    <ecommerce_id>751529277</ecommerce_id>
-    <title>Bomb!</title>
-    <url>https://hopincraftbier.be/products/prairie-artisan-ales-bomb</url>
-    <price>16.12</price>
-    <brewery_name>Prairie Artisan Ales</brewery_name>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4962448847.webp</image>
-    <beer_description>Bomb! is an imperial stout aged on Spaceship Earth espresso beans, chocolate, vanilla beans, and ancho chile peppers. All the flavors meld to create a truly unique beer. The peppers add just the right amount of heat to complement the intense coffee and chocolate flavors. Prairie Artisan Ales - Bomb!</beer_description>
-    <beer_style>Stout - Imperial / Double Coffee</beer_style>
-    <beer_abv>13%</beer_abv>
-    <beer_volume>355 ml</beer_volume>
-    <beer_package>bottle</beer_package>
-    <brewery_country>United States</brewery_country>
-    <date_canned>2024-12-24</date_canned>
-    <untappd_id>348850</untappd_id>
   </item>
   <item>
     <id>6205485</id>
@@ -3595,39 +3461,6 @@
     <untappd_id>6228732</untappd_id>
   </item>
   <item>
-    <id>4739060</id>
-    <ecommerce_id>751529013</ecommerce_id>
-    <title>COCO PALMER HOUSE</title>
-    <url>https://hopincraftbier.be/products/brewskey-coco-palmer-house</url>
-    <price>12.65</price>
-    <brewery_name>BreWskey</brewery_name>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4929385519.png</image>
-    <beer_description>Cette Brownie Pastry Stout a été brassée avec du chocolat, noix de Grenoble, vanille et noix de coco. BreWskey - COCO PALMER HOUSE</beer_description>
-    <beer_style>Stout - Imperial / Double Pastry</beer_style>
-    <beer_abv>11.9%</beer_abv>
-    <beer_volume>473 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Canada</brewery_country>
-    <untappd_id>4739060</untappd_id>
-  </item>
-  <item>
-    <id>6259353</id>
-    <ecommerce_id>751537017</ecommerce_id>
-    <title>Shoot To Thrill</title>
-    <url>https://hopincraftbier.be/products/counterpart-brewing-shoot-to-thrill</url>
-    <price>12.31</price>
-    <brewery_name>Counterpart Brewing</brewery_name>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4929409255.png</image>
-    <beer_description>Hazy Triple IPA w/ Freestyle Mega Terps: Motueka, Southern Cross, Rakau &amp; Phantasm brewed in collaboration w/ Blood Brothers Brewing A full creamy mouthfeel and juice-like sweetness carrying a melange of guava, lychee, lemon candy, nectarine, papaya and sauvignon blanc. Counterpart Brewing - Shoot To Thrill</beer_description>
-    <beer_style>IPA - Triple New England / Hazy</beer_style>
-    <beer_abv>10%</beer_abv>
-    <beer_volume>473 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Canada</brewery_country>
-    <date_canned>2025-04-30</date_canned>
-    <untappd_id>6259353</untappd_id>
-  </item>
-  <item>
     <id>6067723</id>
     <ecommerce_id>751529012</ecommerce_id>
     <title>NZ GOLD</title>
@@ -3724,23 +3557,6 @@
     <brewery_country>Canada</brewery_country>
     <date_best_before>2026-04-11</date_best_before>
     <untappd_id>6229806</untappd_id>
-  </item>
-  <item>
-    <id>5610972</id>
-    <ecommerce_id>751529270</ecommerce_id>
-    <title>Goose Island - Tusk &amp; Feather</title>
-    <url>https://hopincraftbier.be/products/goose-island-tusk--feather</url>
-    <price>22.54</price>
-    <brewery_name>Goose Island Beer Co.</brewery_name>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4926827588.png</image>
-    <beer_description>Double Barrel Aged Barleywine collaboration with More Brewing Goose Island Beer Co. - Tusk &amp; Feather</beer_description>
-    <beer_style>Barleywine - Other</beer_style>
-    <beer_abv>15.4%</beer_abv>
-    <beer_volume>500 ml</beer_volume>
-    <beer_package>bottle</beer_package>
-    <brewery_country>United States</brewery_country>
-    <date_best_before>2029-02-06</date_best_before>
-    <untappd_id>5610972</untappd_id>
   </item>
   <item>
     <id>5571398</id>
@@ -5381,23 +5197,6 @@
     <untappd_id>6213701</untappd_id>
   </item>
   <item>
-    <id>4485711</id>
-    <ecommerce_id>734051352</ecommerce_id>
-    <title>Window of Opportunity</title>
-    <url>https://hopincraftbier.be/products/equilibrium-brewery-window-of-opportunity</url>
-    <price>20.9</price>
-    <brewery_name>Equilibrium Brewery</brewery_name>
-    <regular_price>24.59</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4952175097.png</image>
-    <beer_description>Window of Opportunity pours a thiccc midnight black with a creamy mocha head. Aromas of Nutella and Fluff lead into big flavors of Hershey syrup, coconut snowballs, vanilla caramel macchiato, and graham crackers. This beer is the liquid version of Mallomar dipped in sweet coconut flakes with a silky decadent finish. -</beer_description>
-    <beer_style>Stout - Imperial / Double Pastry</beer_style>
-    <beer_abv>11%</beer_abv>
-    <beer_volume>500 ml</beer_volume>
-    <beer_package>bottle</beer_package>
-    <brewery_country>United States</brewery_country>
-    <untappd_id>4485711</untappd_id>
-  </item>
-  <item>
     <id>5767295</id>
     <ecommerce_id>734050897</ecommerce_id>
     <title>Rusé Et Entêté</title>
@@ -5628,6 +5427,6 @@
     <date_best_before>2027-01-21</date_best_before>
     <untappd_id>6149227</untappd_id>
   </item>
-  <timestamp>1761027305</timestamp>
-  <gen_date>21/10/2025 08:15:05</gen_date>
+  <timestamp>1761027875</timestamp>
+  <gen_date>21/10/2025 08:24:35</gen_date>
 </feed>
