@@ -1,4 +1,4 @@
-console.log("HopInCraftbier custom js v5.78");
+console.log("HopInCraftbier custom js v5.79");
 let debug = false;
 let prodMode = true;
 
@@ -169,22 +169,24 @@ function processAttributes() {
             }
         } else {
             const attribute = p.textContent.trim();
-            if (attribute === 'Brouwerij:' || attribute === 'Brewery:') {
+            if (attribute === 'Brouwerij:' || attribute === 'Brewery:' || attribute === 'Type:' || attribute === 'Land:' || attribute === 'Country:') {
                 const element = p.parentElement.getElementsByClassName('details-product-attribute__value').item(0);
                 let content = element.textContent.trim();
-                const link = lng + '/products/' + content.toLowerCase().replaceAll('.', '').replaceAll(' ', '-');
-                element.innerHTML = '<a href="' + link + '" target="_blank">' + content + '</a>';
-            } else if (attribute === 'Type:') {
-                const element = p.parentElement.getElementsByClassName('details-product-attribute__value').item(0);
-                let content = element.textContent.trim();
-                const link = lng + '/products/alle-bieren?attribute_Type=' + content.replaceAll(' ', '+');
-                element.innerHTML = '<a href="' + link + '" target="_blank">' + content + '</a>';
-            } else if (attribute === 'Land:' || attribute === 'Country:') {
-                // /alle-bieren?attribute_Land
-                const element = p.parentElement.getElementsByClassName('details-product-attribute__value').item(0);
-                let content = element.textContent.trim();
-                const link = lng + '/products/alle-bieren?attribute_Land=' + content.replaceAll(' ', '+');
-                element.innerHTML = '<a href="' + link + '" target="_blank">' + content + '</a>';
+                let link = "";
+
+                if (attribute === 'Brouwerij:' || attribute === 'Brewery:') {
+                    link = lng + '/products/' + content.toLowerCase().replaceAll('.', '').replaceAll(' ', '-');
+                } else if (attribute === 'Type:') {
+                    link = lng + '/products/alle-bieren?attribute_Type=' + content.replaceAll(' ', '+');
+                } else if (attribute === 'Land:' || attribute === 'Country:') {
+                    // /alle-bieren?attribute_Land
+                    link = lng + '/products/alle-bieren?attribute_Land=' + content.replaceAll(' ', '+');
+                }
+
+                let newContent = '<a href="' + link + '" target="_blank">' + content + '</a>';
+                if (element.innerHTML !== newContent) {
+                    element.innerHTML = '<a href="' + link + '" target="_blank">' + content + '</a>';
+                }
             }
         }
     });
