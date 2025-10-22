@@ -2856,6 +2856,40 @@
     <untappd_id>6274029</untappd_id>
   </item>
   <item>
+    <id>6189005</id>
+    <ecommerce_id>752744063</ecommerce_id>
+    <title>Vilify</title>
+    <url>https://hopincraftbier.be/products/blackout-brewing-vilify</url>
+    <price>10.17</price>
+    <brewery_name>Blackout Brewing</brewery_name>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4933437300.png</image>
+    <beer_description>6th anniversary Sazerac Rye BA imperial stout - 12 months. Brewed and cared for at Bere a la Cluj. Blackout Brewing - Bearface Whisky BA - Too Much Bliss</beer_description>
+    <beer_style>Stout - Imperial / Double</beer_style>
+    <beer_abv>12%</beer_abv>
+    <beer_volume>330 ml</beer_volume>
+    <beer_package>bottle</beer_package>
+    <brewery_country>Romania</brewery_country>
+    <date_best_before>2027-04-06</date_best_before>
+    <untappd_id>6189005</untappd_id>
+  </item>
+  <item>
+    <id>6202929</id>
+    <ecommerce_id>752445653</ecommerce_id>
+    <title>Bearface Whisky BA - Too Much Bliss</title>
+    <url>https://hopincraftbier.be/products/blackout-brewing-bearface-whisky-ba-too-much-bliss</url>
+    <price>10.17</price>
+    <brewery_name>Blackout Brewing</brewery_name>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4932418165.png</image>
+    <beer_description>Coffee and Dulce de Leche. Aged in Canadian Whisky barrels from Bearface Distillery. Brewed and cared for at Bere a la Cluj. Blackout Brewing - Bearface Whisky BA - Too Much Bliss</beer_description>
+    <beer_style>Stout - Imperial / Double Milk</beer_style>
+    <beer_abv>13%</beer_abv>
+    <beer_volume>330 ml</beer_volume>
+    <beer_package>bottle</beer_package>
+    <brewery_country>Romania</brewery_country>
+    <date_best_before>2026-12-30</date_best_before>
+    <untappd_id>6202929</untappd_id>
+  </item>
+  <item>
     <id>3441050</id>
     <ecommerce_id>752445652</ecommerce_id>
     <title>Understanding Whole Systems</title>
@@ -2890,6 +2924,23 @@
     <brewery_country>England</brewery_country>
     <date_best_before>2025-09-20</date_best_before>
     <untappd_id>6198480</untappd_id>
+  </item>
+  <item>
+    <id>6263801</id>
+    <ecommerce_id>752451307</ecommerce_id>
+    <title>Memnu - Barton 1792 BA</title>
+    <url>https://hopincraftbier.be/products/blackout-brewing-memnu-barton-1792-ba</url>
+    <price>9.99</price>
+    <brewery_name>Blackout Brewing</brewery_name>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4932206064.png</image>
+    <beer_description>Baklava inspired strong ale with walnuts, almonds, honey and vanilla. Aged for 16 months in a single barrel. Blackout Brewing - Memnu - Barton 1792 BA</beer_description>
+    <beer_style>Strong Ale - Other</beer_style>
+    <beer_abv>12%</beer_abv>
+    <beer_volume>330 ml</beer_volume>
+    <beer_package>bottle</beer_package>
+    <brewery_country>Romania</brewery_country>
+    <date_best_before>2027-12-30</date_best_before>
+    <untappd_id>6263801</untappd_id>
   </item>
   <item>
     <id>6249191</id>
@@ -5641,6 +5692,6 @@
     <date_best_before>2027-01-21</date_best_before>
     <untappd_id>6149227</untappd_id>
   </item>
-  <timestamp>1761126141</timestamp>
-  <gen_date>22/10/2025 11:42:21</gen_date>
+  <timestamp>1761127772</timestamp>
+  <gen_date>22/10/2025 12:09:32</gen_date>
 </feed>
