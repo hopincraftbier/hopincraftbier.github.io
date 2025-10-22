@@ -2890,24 +2890,6 @@
     <untappd_id>6202929</untappd_id>
   </item>
   <item>
-    <id>3441050</id>
-    <ecommerce_id>752445652</ecommerce_id>
-    <title>Understanding Whole Systems</title>
-    <url>https://hopincraftbier.be/products/pressure-drop-brewing-understanding-whole-systems</url>
-    <price>4.03</price>
-    <brewery_name>Pressure Drop Brewing</brewery_name>
-    <regular_price>8.05</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4953184895.webp</image>
-    <beer_description>Methodically blow your mind. Understanding Whole Systems is an IPA of substance and curiosity, an exploration of taste through the prism of Citra hops and a complete presentation London Fog yeast. Soft and hazy, complex and full. We enjoy drinking whilst reading entries from Pressure Drop’s own catalog, printed on the label. Stay Hungry. Stay Foolish. Pressure Drop Brewing - Understanding Whole Systems</beer_description>
-    <beer_style>IPA - New England / Hazy</beer_style>
-    <beer_abv>7.4%</beer_abv>
-    <beer_volume>440 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>England</brewery_country>
-    <date_best_before>2025-10-09</date_best_before>
-    <untappd_id>3441050</untappd_id>
-  </item>
-  <item>
     <id>6198480</id>
     <ecommerce_id>752445651</ecommerce_id>
     <title>Even More King Queen Knave</title>
@@ -5674,6 +5656,6 @@
     <date_best_before>2027-01-21</date_best_before>
     <untappd_id>6149227</untappd_id>
   </item>
-  <timestamp>1761160505</timestamp>
-  <gen_date>22/10/2025 21:15:05</gen_date>
+  <timestamp>1761161405</timestamp>
+  <gen_date>22/10/2025 21:30:05</gen_date>
 </feed>
