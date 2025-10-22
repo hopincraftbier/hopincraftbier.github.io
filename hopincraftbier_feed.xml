@@ -4464,24 +4464,6 @@
     <untappd_id>6189061</untappd_id>
   </item>
   <item>
-    <id>6030210</id>
-    <ecommerce_id>739494045</ecommerce_id>
-    <title>Night Shift Vintage 2024 - Imperial Pastry Stout Aged In Bourbon Barrels With Hazelnut &amp; Caramel</title>
-    <url>https://hopincraftbier.be/products/horizont-brewing-night-shift-vintage-2024-imperial-pastry-stout-aged-in-bourbon-barrels-with-hazelnut--caramel</url>
-    <price>9.18</price>
-    <brewery_name>HORIZONT Brewing</brewery_name>
-    <regular_price>10.8</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4847585001.png</image>
-    <beer_description>The idea of our brewer Kristóf Pető. The base is an Imperial Stout, whose distinctive chocolate notes pair well with any chocolate-inspired addition, and now it’s been given a generous amount of crushed hazelnuts and caramel. The beer itself was aged in Bourbon barrels to give the base flavors a touch of whiskey and barrel-aged finesse. -</beer_description>
-    <beer_style>Stout - Imperial / Double Pastry</beer_style>
-    <beer_abv>11.8%</beer_abv>
-    <beer_volume>330 ml</beer_volume>
-    <beer_package>bottle</beer_package>
-    <brewery_country>Hungary</brewery_country>
-    <date_best_before>2031-07-12</date_best_before>
-    <untappd_id>6030210</untappd_id>
-  </item>
-  <item>
     <id>6203421</id>
     <ecommerce_id>739491518</ecommerce_id>
     <title>Razor Thin Margins</title>
@@ -5692,6 +5674,6 @@
     <date_best_before>2027-01-21</date_best_before>
     <untappd_id>6149227</untappd_id>
   </item>
-  <timestamp>1761127772</timestamp>
-  <gen_date>22/10/2025 12:09:32</gen_date>
+  <timestamp>1761154206</timestamp>
+  <gen_date>22/10/2025 19:30:06</gen_date>
 </feed>
