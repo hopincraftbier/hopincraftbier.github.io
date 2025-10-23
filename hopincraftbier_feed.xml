@@ -972,7 +972,7 @@
     <untappd_id>6377695</untappd_id>
   </item>
   <item>
-    <id>6154310</id>
+    <id>1831710</id>
     <ecommerce_id>778817581</ecommerce_id>
     <title>Sumi Ink (2025)</title>
     <url>https://hopincraftbier.be/products/grimm-artisanal-ales-sumi-ink-2025</url>
@@ -986,7 +986,7 @@
     <beer_package>bottle</beer_package>
     <brewery_country>United States</brewery_country>
     <date_canned>2024</date_canned>
-    <untappd_id>6154310</untappd_id>
+    <untappd_id>1831710</untappd_id>
   </item>
   <item>
     <id>6346854</id>
@@ -5051,7 +5051,7 @@
     <untappd_id>6180169</untappd_id>
   </item>
   <item>
-    <id>6051666</id>
+    <id>5689828</id>
     <ecommerce_id>735435486</ecommerce_id>
     <title>Barrel-Aged Speedway Stout: Vanilla Shake (2024)</title>
     <url>https://hopincraftbier.be/products/alesmith-brewing-company-barrel-aged-speedway-stout-vanilla-shake-2024</url>
@@ -5066,7 +5066,7 @@
     <beer_package>can</beer_package>
     <brewery_country>United States</brewery_country>
     <date_canned>2024-03-08</date_canned>
-    <untappd_id>6051666</untappd_id>
+    <untappd_id>5689828</untappd_id>
   </item>
   <item>
     <id>6169863</id>
@@ -5619,7 +5619,7 @@
     <untappd_id>3898085</untappd_id>
   </item>
   <item>
-    <id>6126563</id>
+    <id>593083</id>
     <ecommerce_id>734051348</ecommerce_id>
     <title>Ghost In the Machine (2025)</title>
     <url>https://hopincraftbier.be/products/parish-brewing-co-ghost-in-the-machine-2025</url>
@@ -5634,7 +5634,7 @@
     <beer_package>can</beer_package>
     <brewery_country>United States</brewery_country>
     <date_canned>2025-03-27</date_canned>
-    <untappd_id>6126563</untappd_id>
+    <untappd_id>593083</untappd_id>
   </item>
   <item>
     <id>6204443</id>
@@ -5671,6 +5671,6 @@
     <date_best_before>2027-01-21</date_best_before>
     <untappd_id>6149227</untappd_id>
   </item>
-  <timestamp>1761215134</timestamp>
-  <gen_date>23/10/2025 12:25:34</gen_date>
+  <timestamp>1761231605</timestamp>
+  <gen_date>23/10/2025 17:00:05</gen_date>
 </feed>
