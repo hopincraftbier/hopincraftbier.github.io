@@ -69,6 +69,102 @@
     <untappd_id>6451740</untappd_id>
   </item>
   <item>
+    <id>6417762</id>
+    <ecommerce_id>790915295</ecommerce_id>
+    <title>Kome Lupulos</title>
+    <url>https://hopincraftbier.be/products/kom-beer-kome-lupulos</url>
+    <price>7.12</price>
+    <brewery_name>KOM Beer</brewery_name>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5290681757.png</image>
+    <beer_description>Motueka, Citra &amp; Simcoe. KOM Beer - Kome Lupulos</beer_description>
+    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
+    <beer_abv>8%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Spain</brewery_country>
+    <untappd_id>6417762</untappd_id>
+  </item>
+  <item>
+    <id>6423029</id>
+    <ecommerce_id>790917824</ecommerce_id>
+    <title>Twilight Hyperactive</title>
+    <url>https://hopincraftbier.be/products/cervesa-espiga-twilight-hyperactive</url>
+    <price>6.24</price>
+    <brewery_name>Cervesa Espiga</brewery_name>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5290661950.png</image>
+    <beer_description>As is customary for our anniversary, we're brewing Twilight Hyperactive, a Triple IPA that pays tribute to our most iconic beer: Hyperactive. This year, we wanted to capture that magical moment of twilight, when day turns to night, and translate it into an intense and silky smooth beer. Twilight Hyperactive is packed with two hops, Simcoe and Citra, which deliver greater aromatic intensity and a higher alcohol content, while retaining its juicy and enveloping character. Leave it to us through a window of tropical aromas, ripe citrus, and a subtle resinous note. It's creamy on the palate, lively, and balanced in bitterness that retains its power. This is our way of toasting you and celebrating eleven more times together in the sun; at this point between light and darkness, a new cycle begins. As is tradition for our anniversary, we're brewing Twilight Hyperactive, a Triple IPA that pays tribute to our most iconic beer: Hyperactive. This year, we wanted to capture that magical moment of twilight, when daylight gives way to night, and translate it into an intense, silky beer. Twilight Hyperactive is generously enriched with two hops, Simcoe and Citra, which provide greater aromatic intensity and a higher alcohol content, while maintaining its juicy and enveloping character. Let yourself be carried away by a host of tropical aromas, ripe citrus, and a subtle resinous note. On the palate, it's creamy and lively, with a balanced bitterness. Cervesa Espiga - Twilight Hyperactive</beer_description>
+    <beer_style>IPA - Triple New England / Hazy</beer_style>
+    <beer_abv>10%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Spain</brewery_country>
+    <untappd_id>6423029</untappd_id>
+  </item>
+  <item>
+    <id>6440563</id>
+    <ecommerce_id>790918085</ecommerce_id>
+    <title>Touch Grass</title>
+    <url>https://hopincraftbier.be/products/verdant-brewing-co-touch-grass</url>
+    <price>8.69</price>
+    <brewery_name>Verdant Brewing Co</brewery_name>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5290662995.png</image>
+    <beer_description>A creamy and lush DIPA interpretation of our pale ale Vanity Metrics. Joining NZH-101 and amping up the funk and fruit we have superstars Citra and Nelson Sauvin. Our expressive house yeast brings this all together in a typically 'that's a Verdant beer' kind of way. Verdant Brewing Co - Touch Grass</beer_description>
+    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
+    <beer_abv>8%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>England</brewery_country>
+    <untappd_id>6440563</untappd_id>
+  </item>
+  <item>
+    <id>3894150</id>
+    <ecommerce_id>790918083</ecommerce_id>
+    <title>Unconventional Tactics</title>
+    <url>https://hopincraftbier.be/products/verdant-brewing-co-unconventional-tactics</url>
+    <price>8.69</price>
+    <brewery_name>Verdant Brewing Co</brewery_name>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5290681751.png</image>
+    <beer_description>It’s no secret that Nelson Sauvin is our favourite hop. No secret at all. To this end…here is the most 'Nelsony' beer we’ve ever attempted. We’ve added Nelson on top of Nelson, squeezed a bit more Nelson in, and then finished it off with some Nelson. Super smooth. Super light. Super Nelson. ⁣ Verdant Brewing Co - Unconventional Tactics</beer_description>
+    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
+    <beer_abv>8%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>England</brewery_country>
+    <untappd_id>3894150</untappd_id>
+  </item>
+  <item>
+    <id>5605718</id>
+    <ecommerce_id>790918084</ecommerce_id>
+    <title>DUPOND</title>
+    <url>https://hopincraftbier.be/products/kom-beer-dupond</url>
+    <price>6.99</price>
+    <brewery_name>KOM Beer</brewery_name>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5290676620.png</image>
+    <beer_description>Single hop Mosaic! Offers aromas and flavors of tropical fruit, citrus, and a hint of pine. It is characterized by a smooth, fruity, and full-bodied taste. KOM Beer - DUPOND</beer_description>
+    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
+    <beer_abv>8%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Spain</brewery_country>
+    <untappd_id>5605718</untappd_id>
+  </item>
+  <item>
+    <id>5605713</id>
+    <ecommerce_id>790918082</ecommerce_id>
+    <title>DUPONT</title>
+    <url>https://hopincraftbier.be/products/kom-beer-dupont</url>
+    <price>6.99</price>
+    <brewery_name>KOM Beer</brewery_name>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5290681777.png</image>
+    <beer_description>Single hop Citra! It is a hazy, fruit-forward beer with blueberry, tropical fruit, and citrus notes. KOM Beer - DUPONT</beer_description>
+    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
+    <beer_abv>8%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Spain</brewery_country>
+    <untappd_id>5605713</untappd_id>
+  </item>
+  <item>
     <id>3766089</id>
     <ecommerce_id>788580043</ecommerce_id>
     <title>lACEd In Space</title>
@@ -832,6 +928,55 @@
     <untappd_id>6314891</untappd_id>
   </item>
   <item>
+    <id>6376660</id>
+    <ecommerce_id>778812582</ecommerce_id>
+    <title>Living Large</title>
+    <url>https://hopincraftbier.be/products/finback-brewery-living-large</url>
+    <price>10.43</price>
+    <brewery_name>Finback Brewery</brewery_name>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5243358564.webp</image>
+    <beer_description>Finback Brewery - Living Large</beer_description>
+    <beer_style>IPA - Triple New England / Hazy</beer_style>
+    <beer_abv>10%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>United States</brewery_country>
+    <untappd_id>6376660</untappd_id>
+  </item>
+  <item>
+    <id>6377695</id>
+    <ecommerce_id>778817582</ecommerce_id>
+    <title>TERNION</title>
+    <url>https://hopincraftbier.be/products/homes-brewery-ternion</url>
+    <price>11.79</price>
+    <brewery_name>HOMES Brewery</brewery_name>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5243366171.webp</image>
+    <beer_description>brewed w/ cryo mosaic &amp; super sauvin (NZ), dry hopped w/ krush, nelson sauvin (NZ), and sabro HOMES Brewery - TERNION</beer_description>
+    <beer_style>IPA - Triple</beer_style>
+    <beer_abv>10%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>United States</brewery_country>
+    <untappd_id>6377695</untappd_id>
+  </item>
+  <item>
+    <id>6154310</id>
+    <ecommerce_id>778817581</ecommerce_id>
+    <title>Sumi Ink (2025)</title>
+    <url>https://hopincraftbier.be/products/grimm-artisanal-ales-sumi-ink-2025</url>
+    <price>23.17</price>
+    <brewery_name>Grimm Artisanal Ales</brewery_name>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5243356460.webp</image>
+    <beer_description>Imperial stout aged in bourbon barrels with vanilla beans. This storied beer was named for a festival-goer’s mishap: in need of a display bottle of stout while pouring at a beer festival, Lauren filled a bomber with diluted sumi ink that she had at home and put a cap and label on it. After the festival was over, the fascimile had disappeared. Whomever took the bottle was, sadly, in for a disappointment! Grimm Artisanal Ales - Sumi Ink</beer_description>
+    <beer_style>Stout - Imperial / Double</beer_style>
+    <beer_abv>13%</beer_abv>
+    <beer_volume>500 ml</beer_volume>
+    <beer_package>bottle</beer_package>
+    <brewery_country>United States</brewery_country>
+    <date_canned>2024</date_canned>
+    <untappd_id>6154310</untappd_id>
+  </item>
+  <item>
     <id>6346854</id>
     <ecommerce_id>778763016</ecommerce_id>
     <title>Triple Nelson &amp; Cream</title>
@@ -1073,6 +1218,55 @@
     <brewery_country>United States</brewery_country>
     <date_best_before>2026-03-01</date_best_before>
     <untappd_id>6055618</untappd_id>
+  </item>
+  <item>
+    <id>3496008</id>
+    <ecommerce_id>774329587</ecommerce_id>
+    <title>2 Year Reserve Bourbon County Brand Stout (2019)</title>
+    <url>https://hopincraftbier.be/products/goose-island-beer-co-2-year-reserve-bourbon-county-brand-stout-2019</url>
+    <price>21.81</price>
+    <brewery_name>Goose Island Beer Co.</brewery_name>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5243343607.webp</image>
+    <beer_description>2-Year Reserve Bourbon County Brand Stout was aged 24 months in 11-year-old 25th Anniversary Knob Creek barrels. The barrels of this once in a lifetime bourbon delivered an oak-forward intensity accented with subtle hazelnut and chocolate notes that complimented the flavors inherent in Original Bourbon County Stout. 2-Year Reserve is incredibly special, and we’re excited to share this variant with you all. Goose Island Beer Co. - 2 Year Reserve Bourbon County Brand Stout (2019)</beer_description>
+    <beer_style>Stout - Imperial / Double</beer_style>
+    <beer_abv>14.9%</beer_abv>
+    <beer_volume>500 ml</beer_volume>
+    <beer_package>bottle</beer_package>
+    <brewery_country>United States</brewery_country>
+    <date_canned>2024-07-10</date_canned>
+    <untappd_id>3496008</untappd_id>
+  </item>
+  <item>
+    <id>4185018</id>
+    <ecommerce_id>774330341</ecommerce_id>
+    <title>Players 1 - Batch 2</title>
+    <url>https://hopincraftbier.be/products/equilibrium-brewery-players-1-batch-2</url>
+    <price>23.17</price>
+    <brewery_name>Equilibrium Brewery</brewery_name>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5243361408.webp</image>
+    <beer_description>Players 1 (Batch 2) is an American Imperial Stout brewed with Madagascar vanilla beans, Fiji cacao nibs, toasted coconut, and Mostra Coffee ghost bear espresso. No lactose was harmed in this beers creation. It pours jet black with a beautiful deep tan head. The dynamics of the relative adjunct strength shift as the beer warms and time lengthens. Batch 2 has the same creamy flavor of some of our favorite things: coffee at first and then a transformation to chocolate brownie batter sprinkled with toasted coconut flakes followed by notes of vanilla-marshmallow to balance it out. Equilibrium Brewery - Players 1 - Batch 2</beer_description>
+    <beer_style>Stout - Pastry</beer_style>
+    <beer_abv>11%</beer_abv>
+    <beer_volume>500 ml</beer_volume>
+    <beer_package>bottle</beer_package>
+    <brewery_country>United States</brewery_country>
+    <untappd_id>4185018</untappd_id>
+  </item>
+  <item>
+    <id>4166507</id>
+    <ecommerce_id>772591896</ecommerce_id>
+    <title>Frothy</title>
+    <url>https://hopincraftbier.be/products/finback-brewery-frothy</url>
+    <price>10.09</price>
+    <brewery_name>Finback Brewery</brewery_name>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5243360501.webp</image>
+    <beer_description>DDH DIPA with Enigma, Citra, Hallertau Blanc and Mosaic hops. Finback Brewery - Frothy</beer_description>
+    <beer_style>IPA - Imperial / Double</beer_style>
+    <beer_abv>8.4%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>United States</brewery_country>
+    <untappd_id>4166507</untappd_id>
   </item>
   <item>
     <id>6342727</id>
@@ -5464,6 +5658,6 @@
     <date_best_before>2027-01-21</date_best_before>
     <untappd_id>6149227</untappd_id>
   </item>
-  <timestamp>1761212744</timestamp>
-  <gen_date>23/10/2025 11:45:44</gen_date>
+  <timestamp>1761214161</timestamp>
+  <gen_date>23/10/2025 12:09:21</gen_date>
 </feed>
