@@ -1542,23 +1542,6 @@
     <untappd_id>4092023</untappd_id>
   </item>
   <item>
-    <id>5100372</id>
-    <ecommerce_id>767361434</ecommerce_id>
-    <title>Bourbon County Brand 30th Anniversary Reserve Stout (2022)</title>
-    <url>https://hopincraftbier.be/products/goose-island-beer-co-bourbon-county-brand-30th-anniversary-reserve-stout-2022</url>
-    <price>29.01</price>
-    <brewery_name>Goose Island Beer Co.</brewery_name>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5260703454.webp</image>
-    <beer_description>Going back to the inception of Bourbon County Stout, the 30th Anniversary Stout is aged from a blend of Jim Beam barrels from their Small Batch Bourbon Collection barrels. Each of the remarkable bourbon barrels offer characteristics unique to each bourbon's distinct nuances. Barrels: 36% Booker's 33% Knob Creek, 17% Basil Hayden, 14% Baker's Goose Island Beer Co. - Bourbon County Brand 30th Anniversary Reserve Stout (2022)</beer_description>
-    <beer_style>Stout - Imperial / Double</beer_style>
-    <beer_abv>14.4%</beer_abv>
-    <beer_volume>500 ml</beer_volume>
-    <beer_package>bottle</beer_package>
-    <brewery_country>United States</brewery_country>
-    <date_best_before>2027-07-27</date_best_before>
-    <untappd_id>5100372</untappd_id>
-  </item>
-  <item>
     <id>6316546</id>
     <ecommerce_id>767361433</ecommerce_id>
     <title>Mutant Turtle Pizza</title>
@@ -5653,6 +5636,6 @@
     <date_best_before>2027-01-21</date_best_before>
     <untappd_id>6149227</untappd_id>
   </item>
-  <timestamp>1761314405</timestamp>
-  <gen_date>24/10/2025 16:00:05</gen_date>
+  <timestamp>1761315305</timestamp>
+  <gen_date>24/10/2025 16:15:05</gen_date>
 </feed>
