@@ -4150,24 +4150,6 @@
     <untappd_id>6215162</untappd_id>
   </item>
   <item>
-    <id>6210698</id>
-    <ecommerce_id>742665252</ecommerce_id>
-    <title>Dead Violet</title>
-    <url>https://hopincraftbier.be/products/seven-island-brewery-dead-violet</url>
-    <price>18.98</price>
-    <brewery_name>Seven Island Brewery</brewery_name>
-    <regular_price>23.72</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4869737394.png</image>
-    <beer_description>DEAD VIOLET BOURBON BARREL AGED IMPERIAL STOUT WITH CANADIAN MAPLE SYRUP, BLUEBERRIES AND VANILLA BEANS FROM UGANDA. BLEND OF STOUTS AGED FOR 2 &amp; 3 YEARS IN PAPPY VAN WINKLE, BLANTONS AND WELLER BARRELS 12%ABV COLLABORATION WITH FORAGER FROM USA - Seven Island Brewery - Dead Violet</beer_description>
-    <beer_style>Stout - Imperial / Double</beer_style>
-    <beer_abv>12%</beer_abv>
-    <beer_volume>500 ml</beer_volume>
-    <beer_package>bottle</beer_package>
-    <brewery_country>Greece</brewery_country>
-    <date_best_before>2032-02-28</date_best_before>
-    <untappd_id>6210698</untappd_id>
-  </item>
-  <item>
     <id>6178111</id>
     <ecommerce_id>742665253</ecommerce_id>
     <title>Liberty (2025)</title>
@@ -4202,60 +4184,6 @@
     <brewery_country>Poland</brewery_country>
     <date_best_before>2030-03-01</date_best_before>
     <untappd_id>6178113</untappd_id>
-  </item>
-  <item>
-    <id>6210695</id>
-    <ecommerce_id>742661020</ecommerce_id>
-    <title>Dead Crimson</title>
-    <url>https://hopincraftbier.be/products/seven-island-brewery-dead-crimson</url>
-    <price>20.16</price>
-    <brewery_name>Seven Island Brewery</brewery_name>
-    <regular_price>23.72</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4869737369.png</image>
-    <beer_description>DEAD CRIMSON BOURBON BARREL AGED IMPERIAL STOUT WITH CANADIAN MAPLE SYRUP, HONDURAS COFFEE BEANS AND VANILLA BEANS FROM UGANDA BLEND OF STOUTS AGED FOR 2 &amp; 3 YEARS IN PAPPY VAN WINKLE, BLANTONS AND WELLER BARRELS COLLABORATION WITH RESIDENT CULTURE FROM USA - Seven Island Brewery - Dead Crimson</beer_description>
-    <beer_style>Stout - Imperial / Double</beer_style>
-    <beer_abv>12%</beer_abv>
-    <beer_volume>500 ml</beer_volume>
-    <beer_package>bottle</beer_package>
-    <brewery_country>Greece</brewery_country>
-    <date_best_before>2032-02-28</date_best_before>
-    <untappd_id>6210695</untappd_id>
-  </item>
-  <item>
-    <id>6210694</id>
-    <ecommerce_id>742653253</ecommerce_id>
-    <title>Nemesis-8 Years Anniversary</title>
-    <url>https://hopincraftbier.be/products/seven-island-brewery-nemesis-8-years-anniversary</url>
-    <price>18.98</price>
-    <brewery_name>Seven Island Brewery</brewery_name>
-    <regular_price>23.72</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4869737399.png</image>
-    <beer_description>8 YEARS ANNIVERSARY NEMESIS Bourbon barrel aged imperial stout with Canadian maple syrup, hazelnut and vanilla beans from Uganda. Blend of stouts aged for 2 &amp; 3 years in Pappy van Winkle, Blantons and Weller barrels - Seven Island Brewery - Nemesis-8 Years Anniversary</beer_description>
-    <beer_style>Stout - Imperial / Double</beer_style>
-    <beer_abv>12%</beer_abv>
-    <beer_volume>500 ml</beer_volume>
-    <beer_package>bottle</beer_package>
-    <brewery_country>Greece</brewery_country>
-    <date_best_before>2032-02-28</date_best_before>
-    <untappd_id>6210694</untappd_id>
-  </item>
-  <item>
-    <id>6210700</id>
-    <ecommerce_id>742661019</ecommerce_id>
-    <title>Dead Ivory</title>
-    <url>https://hopincraftbier.be/products/seven-island-brewery-dead-ivory</url>
-    <price>18.98</price>
-    <brewery_name>Seven Island Brewery</brewery_name>
-    <regular_price>23.72</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4869737389.png</image>
-    <beer_description>DEAD IVORY BOURBON BARREL AGED IMPERIAL STOUT WITH CANADIAN MAPLE SYRUP,PEANUT BUTTER AND VANILLA BEANS FROM UGANDA. BLEND OF STOUTS AGED FOR 2 &amp; 3 YEARS IN PAPPY VAN WINKLE, BLANTONS AND WELLER BARRELS COLLABORATION WITH MESOREM FROM CANADA - Seven Island Brewery - Dead Ivory</beer_description>
-    <beer_style>Stout - Imperial / Double</beer_style>
-    <beer_abv>12%</beer_abv>
-    <beer_volume>500 ml</beer_volume>
-    <beer_package>bottle</beer_package>
-    <brewery_country>Greece</brewery_country>
-    <date_best_before>2032-02-28</date_best_before>
-    <untappd_id>6210700</untappd_id>
   </item>
   <item>
     <id>6210032</id>
@@ -5648,6 +5576,6 @@
     <date_best_before>2027-01-21</date_best_before>
     <untappd_id>6149227</untappd_id>
   </item>
-  <timestamp>1761488187</timestamp>
-  <gen_date>26/10/2025 15:16:27</gen_date>
+  <timestamp>1761491155</timestamp>
+  <gen_date>26/10/2025 16:05:55</gen_date>
 </feed>
