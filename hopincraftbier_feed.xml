@@ -3971,11 +3971,137 @@
     <untappd_id>3123821</untappd_id>
   </item>
   <item>
+    <id>6238201</id>
+    <ecommerce_id>749241861</ecommerce_id>
+    <title>Melody</title>
+    <url>https://hopincraftbier.be/products/fuerst-wiacek-berlin-melody</url>
+    <price>4.91</price>
+    <brewery_name>FUERST WIACEK Berlin</brewery_name>
+    <regular_price>6.14</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4914168513.png</image>
+    <beer_description>Dry hopped IPA with Citra, Motueka &amp; Galaxy. FUERST WIACEK Berlin - Melody</beer_description>
+    <beer_style>IPA - New England / Hazy</beer_style>
+    <beer_abv>6.2%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Germany</brewery_country>
+    <date_best_before>2026-01-22</date_best_before>
+    <untappd_id>6238201</untappd_id>
+  </item>
+  <item>
+    <id>6220983</id>
+    <ecommerce_id>744105206</ecommerce_id>
+    <title>I See You</title>
+    <url>https://hopincraftbier.be/products/sudden-death-brewing-co-i-see-you</url>
+    <price>5.61</price>
+    <brewery_name>Sudden Death Brewing Co.</brewery_name>
+    <regular_price>7.01</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4878020623.png</image>
+    <beer_description>This Double IPA features YCH Simcoe hops, along with Simcoe Cryo and Hyperboost, as well as El Dorado T90. - Sudden Death Brewing Co. - I See You</beer_description>
+    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
+    <beer_abv>8%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Germany</brewery_country>
+    <date_best_before>2026-04-14</date_best_before>
+    <untappd_id>6220983</untappd_id>
+  </item>
+  <item>
+    <id>6220981</id>
+    <ecommerce_id>744103168</ecommerce_id>
+    <title>Dread Moon Cove</title>
+    <url>https://hopincraftbier.be/products/sudden-death-brewing-co-dread-moon-cove</url>
+    <price>7.45</price>
+    <brewery_name>Sudden Death Brewing Co.</brewery_name>
+    <regular_price>9.31</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4878022482.png</image>
+    <beer_description>Dread Moon Cove bathed in a whopping 7 kg of Madagascan and Tahitian vanilla and played with raw and toasted coconut. The result is an intense and well-rounded stout where every addition is noticeable, helping to make the beer our best stout yet! Enjoy! - Sudden Death Brewing Co. - Dread Moon Cove</beer_description>
+    <beer_style>Stout - Imperial / Double</beer_style>
+    <beer_abv>12%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Germany</brewery_country>
+    <date_best_before>2026-04-15</date_best_before>
+    <untappd_id>6220981</untappd_id>
+  </item>
+  <item>
+    <id>6220978</id>
+    <ecommerce_id>744105205</ecommerce_id>
+    <title>Doggo´s Delight</title>
+    <url>https://hopincraftbier.be/products/sudden-death-brewing-co-doggos-delight</url>
+    <price>6.89</price>
+    <brewery_name>Sudden Death Brewing Co.</brewery_name>
+    <regular_price>8.61</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4878030266.png</image>
+    <beer_description>The creamy, fruity Pastry Sour of your dreams: Joe from Vault City came along and Doggo's Delight was brewed. Loaded with blueberry juice and puree, banana puree, and peanut powder. The deep blue of the blueberries gives the beer a beautiful color and the peanut flavor is reminiscent of the best peanut butter and jelly sandwich you've ever had. - Sudden Death Brewing Co. - Doggo s Delight</beer_description>
+    <beer_style>Sour - Fruited</beer_style>
+    <beer_abv>6%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Germany</brewery_country>
+    <date_best_before>2026-04-10</date_best_before>
+    <untappd_id>6220978</untappd_id>
+  </item>
+  <item>
+    <id>6224263</id>
+    <ecommerce_id>743661247</ecommerce_id>
+    <title>Feral (2025)</title>
+    <url>https://hopincraftbier.be/products/fuerst-wiacek-berlin-feral-2025</url>
+    <price>5.6</price>
+    <brewery_name>FUERST WIACEK Berlin</brewery_name>
+    <regular_price>7</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4874380927.png</image>
+    <beer_description>DDH DIPA – Dry hopped with Galaxy &amp; Simcoe. - FUERST WIACEK Berlin - Feral (2025)</beer_description>
+    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
+    <beer_abv>8%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Germany</brewery_country>
+    <date_best_before>2026-01-07</date_best_before>
+    <untappd_id>6224263</untappd_id>
+  </item>
+  <item>
+    <id>6220762</id>
+    <ecommerce_id>743661246</ecommerce_id>
+    <title>Soft Focus</title>
+    <url>https://hopincraftbier.be/products/fuerst-wiacek-berlin-soft-focus</url>
+    <price>4.92</price>
+    <brewery_name>FUERST WIACEK Berlin</brewery_name>
+    <regular_price>6.15</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4874367432.png</image>
+    <beer_description>IPA – Dry hopped with Citra, Mosaic &amp; Galaxy. - FUERST WIACEK Berlin - Soft Focus</beer_description>
+    <beer_style>IPA - New England / Hazy</beer_style>
+    <beer_abv>6.2%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Germany</brewery_country>
+    <date_best_before>2026-01-07</date_best_before>
+    <untappd_id>6220762</untappd_id>
+  </item>
+  <item>
+    <id>6223449</id>
+    <ecommerce_id>743669894</ecommerce_id>
+    <title>Chin Music 2025</title>
+    <url>https://hopincraftbier.be/products/fuerst-wiacek-berlin-chin-music-2025</url>
+    <price>5.18</price>
+    <brewery_name>FUERST WIACEK Berlin</brewery_name>
+    <regular_price>6.47</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4874378897.png</image>
+    <beer_description>DDH IPA – Dry hopped with Mosaic &amp; Talus. - FUERST WIACEK Berlin - Chin Music 2025</beer_description>
+    <beer_style>IPA - New England / Hazy</beer_style>
+    <beer_abv>6.8%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Germany</brewery_country>
+    <date_best_before>2026-01-07</date_best_before>
+    <untappd_id>6223449</untappd_id>
+  </item>
+  <item>
     <id>6210907</id>
     <ecommerce_id>743669895</ecommerce_id>
     <title>Shalala</title>
     <url>https://hopincraftbier.be/products/fuerst-wiacek-berlin-shalala</url>
-    <price>4.53</price>
+    <price>5.18</price>
     <brewery_name>FUERST WIACEK Berlin</brewery_name>
     <regular_price>6.47</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4874378911.png</image>
@@ -4010,7 +4136,7 @@
     <ecommerce_id>743653490</ecommerce_id>
     <title>Fat Cats In Top Hats (2025)</title>
     <url>https://hopincraftbier.be/products/fuerst-wiacek-berlin-fat-cats-in-top-hats-2025</url>
-    <price>4.53</price>
+    <price>5.18</price>
     <brewery_name>FUERST WIACEK Berlin</brewery_name>
     <regular_price>6.47</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4874380917.png</image>
@@ -4022,6 +4148,24 @@
     <brewery_country>Germany</brewery_country>
     <date_best_before>2025-12-31</date_best_before>
     <untappd_id>6215162</untappd_id>
+  </item>
+  <item>
+    <id>6210698</id>
+    <ecommerce_id>742665252</ecommerce_id>
+    <title>Dead Violet</title>
+    <url>https://hopincraftbier.be/products/seven-island-brewery-dead-violet</url>
+    <price>18.98</price>
+    <brewery_name>Seven Island Brewery</brewery_name>
+    <regular_price>23.72</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4869737394.png</image>
+    <beer_description>DEAD VIOLET BOURBON BARREL AGED IMPERIAL STOUT WITH CANADIAN MAPLE SYRUP, BLUEBERRIES AND VANILLA BEANS FROM UGANDA. BLEND OF STOUTS AGED FOR 2 &amp; 3 YEARS IN PAPPY VAN WINKLE, BLANTONS AND WELLER BARRELS 12%ABV COLLABORATION WITH FORAGER FROM USA - Seven Island Brewery - Dead Violet</beer_description>
+    <beer_style>Stout - Imperial / Double</beer_style>
+    <beer_abv>12%</beer_abv>
+    <beer_volume>500 ml</beer_volume>
+    <beer_package>bottle</beer_package>
+    <brewery_country>Greece</brewery_country>
+    <date_best_before>2032-02-28</date_best_before>
+    <untappd_id>6210698</untappd_id>
   </item>
   <item>
     <id>6178111</id>
@@ -4076,6 +4220,42 @@
     <brewery_country>Greece</brewery_country>
     <date_best_before>2032-02-28</date_best_before>
     <untappd_id>6210695</untappd_id>
+  </item>
+  <item>
+    <id>6210694</id>
+    <ecommerce_id>742653253</ecommerce_id>
+    <title>Nemesis-8 Years Anniversary</title>
+    <url>https://hopincraftbier.be/products/seven-island-brewery-nemesis-8-years-anniversary</url>
+    <price>18.98</price>
+    <brewery_name>Seven Island Brewery</brewery_name>
+    <regular_price>23.72</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4869737399.png</image>
+    <beer_description>8 YEARS ANNIVERSARY NEMESIS Bourbon barrel aged imperial stout with Canadian maple syrup, hazelnut and vanilla beans from Uganda. Blend of stouts aged for 2 &amp; 3 years in Pappy van Winkle, Blantons and Weller barrels - Seven Island Brewery - Nemesis-8 Years Anniversary</beer_description>
+    <beer_style>Stout - Imperial / Double</beer_style>
+    <beer_abv>12%</beer_abv>
+    <beer_volume>500 ml</beer_volume>
+    <beer_package>bottle</beer_package>
+    <brewery_country>Greece</brewery_country>
+    <date_best_before>2032-02-28</date_best_before>
+    <untappd_id>6210694</untappd_id>
+  </item>
+  <item>
+    <id>6210700</id>
+    <ecommerce_id>742661019</ecommerce_id>
+    <title>Dead Ivory</title>
+    <url>https://hopincraftbier.be/products/seven-island-brewery-dead-ivory</url>
+    <price>18.98</price>
+    <brewery_name>Seven Island Brewery</brewery_name>
+    <regular_price>23.72</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4869737389.png</image>
+    <beer_description>DEAD IVORY BOURBON BARREL AGED IMPERIAL STOUT WITH CANADIAN MAPLE SYRUP,PEANUT BUTTER AND VANILLA BEANS FROM UGANDA. BLEND OF STOUTS AGED FOR 2 &amp; 3 YEARS IN PAPPY VAN WINKLE, BLANTONS AND WELLER BARRELS COLLABORATION WITH MESOREM FROM CANADA - Seven Island Brewery - Dead Ivory</beer_description>
+    <beer_style>Stout - Imperial / Double</beer_style>
+    <beer_abv>12%</beer_abv>
+    <beer_volume>500 ml</beer_volume>
+    <beer_package>bottle</beer_package>
+    <brewery_country>Greece</brewery_country>
+    <date_best_before>2032-02-28</date_best_before>
+    <untappd_id>6210700</untappd_id>
   </item>
   <item>
     <id>6210032</id>
@@ -4148,6 +4328,24 @@
     <brewery_country>United Kingdom</brewery_country>
     <date_best_before>2027-10-14</date_best_before>
     <untappd_id>6048927</untappd_id>
+  </item>
+  <item>
+    <id>6203420</id>
+    <ecommerce_id>739496794</ecommerce_id>
+    <title>Not Afraid of Storms</title>
+    <url>https://hopincraftbier.be/products/white-dog-brewery-not-afraid-of-storms</url>
+    <price>5.62</price>
+    <brewery_name>White Dog Brewery</brewery_name>
+    <regular_price>7.03</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4847816190.png</image>
+    <beer_description>Citra, El Dorado, Simcoe - White Dog Brewery - Not Afraid of Storms</beer_description>
+    <beer_style>IPA - New England / Hazy</beer_style>
+    <beer_abv>6.4%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>The Netherlands</brewery_country>
+    <date_best_before>2026-01-03</date_best_before>
+    <untappd_id>6203420</untappd_id>
   </item>
   <item>
     <id>6009134</id>
@@ -4309,6 +4507,24 @@
     <brewery_country>United Kingdom</brewery_country>
     <date_best_before>2025-11-08</date_best_before>
     <untappd_id>6079783</untappd_id>
+  </item>
+  <item>
+    <id>6149303</id>
+    <ecommerce_id>739494041</ecommerce_id>
+    <title>Shedding Skin</title>
+    <url>https://hopincraftbier.be/products/sudden-death-brewing-co-shedding-skin</url>
+    <price>5.39</price>
+    <brewery_name>Sudden Death Brewing Co.</brewery_name>
+    <regular_price>6.74</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4849832169.png</image>
+    <beer_description>Shedding Skin DDH India Pale Ale - 6,0% Bold, smooth, and flavourful, this hazy single was double dry hopped with Mosaic (DynaBoost, T-90), Chinook. Berries, kush, pine. - Sudden Death Brewing Co. - Shedding Skin</beer_description>
+    <beer_style>IPA - New England / Hazy</beer_style>
+    <beer_abv>6%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Germany</brewery_country>
+    <date_best_before>2026-02-05</date_best_before>
+    <untappd_id>6149303</untappd_id>
   </item>
   <item>
     <id>6202658</id>
@@ -5432,6 +5648,6 @@
     <date_best_before>2027-01-21</date_best_before>
     <untappd_id>6149227</untappd_id>
   </item>
-  <timestamp>1761476159</timestamp>
-  <gen_date>26/10/2025 15:05:29</gen_date>
+  <timestamp>1761488187</timestamp>
+  <gen_date>26/10/2025 15:16:27</gen_date>
 </feed>
