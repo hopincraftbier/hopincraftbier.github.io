@@ -2232,6 +2232,23 @@
     <untappd_id>6187809</untappd_id>
   </item>
   <item>
+    <id>6289690</id>
+    <ecommerce_id>761806690</ecommerce_id>
+    <title>Meadows</title>
+    <url>https://hopincraftbier.be/products/factory-brewing-meadows</url>
+    <price>5.8</price>
+    <brewery_name>Factory Brewing</brewery_name>
+    <regular_price>7.6</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5000714603.webp</image>
+    <beer_description>A Hazy IPA with Citra, Rakau &amp; Bru-1 'Meadows is dry hopped with an interesting hop combo of Citra, Rakau and Bru-1. Loads of fruitiness from Citra and Bru-1 with Rakau bringing that NZ funk and dankness with some sweet stone fruit notes.' Head Brewer Jirka Ordén Factory Brewing - Meadows</beer_description>
+    <beer_style>IPA - New England / Hazy</beer_style>
+    <beer_abv>7.3%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Finland</brewery_country>
+    <untappd_id>6289690</untappd_id>
+  </item>
+  <item>
     <id>988</id>
     <ecommerce_id>760124883</ecommerce_id>
     <title>9 Years Anniversary Set</title>
@@ -4690,24 +4707,6 @@
     <untappd_id>6178075</untappd_id>
   </item>
   <item>
-    <id>6053421</id>
-    <ecommerce_id>738467403</ecommerce_id>
-    <title>More Than Amber (Cellar Series)</title>
-    <url>https://hopincraftbier.be/products/pohjala-more-than-amber-cellar-series</url>
-    <price>7.18</price>
-    <brewery_name>Põhjala</brewery_name>
-    <regular_price>8.98</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4842142755.png</image>
-    <beer_description>Een rijke en fluweelzachte imperial porter, twee jaar gerijpt op cognacvaten. -</beer_description>
-    <beer_style>Porter - Imperial / Double</beer_style>
-    <beer_abv>13%</beer_abv>
-    <beer_volume>330 ml</beer_volume>
-    <beer_package>bottle</beer_package>
-    <brewery_country>Estonia</brewery_country>
-    <date_best_before>2028-10-30</date_best_before>
-    <untappd_id>6053421</untappd_id>
-  </item>
-  <item>
     <id>6065243</id>
     <ecommerce_id>738467821</ecommerce_id>
     <title>The 4 Elements: Fire</title>
@@ -4797,24 +4796,6 @@
     <untappd_id>6121787</untappd_id>
   </item>
   <item>
-    <id>6121868</id>
-    <ecommerce_id>738467402</ecommerce_id>
-    <title>Evening Colours (Cellar Series)</title>
-    <url>https://hopincraftbier.be/products/pohjala-evening-colours-cellar-series</url>
-    <price>7.18</price>
-    <brewery_name>Põhjala</brewery_name>
-    <regular_price>8.98</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4842135240.png</image>
-    <beer_description>A vinous imperial Baltic porter aged in Tawny port wine casks for 22 months. -</beer_description>
-    <beer_style>Porter - Imperial / Double Baltic</beer_style>
-    <beer_abv>11.5%</beer_abv>
-    <beer_volume>330 ml</beer_volume>
-    <beer_package>bottle</beer_package>
-    <brewery_country>Estonia</brewery_country>
-    <date_best_before>2028-12-17</date_best_before>
-    <untappd_id>6121868</untappd_id>
-  </item>
-  <item>
     <id>6121304</id>
     <ecommerce_id>738467401</ecommerce_id>
     <title>Another Marshmallow Ale</title>
@@ -4831,24 +4812,6 @@
     <brewery_country>Sweden</brewery_country>
     <date_best_before>2026-01-03</date_best_before>
     <untappd_id>6121304</untappd_id>
-  </item>
-  <item>
-    <id>6172540</id>
-    <ecommerce_id>738467819</ecommerce_id>
-    <title>Faraway Friends (Cellar Series)</title>
-    <url>https://hopincraftbier.be/products/pohjala-faraway-friends-cellar-series</url>
-    <price>6.74</price>
-    <brewery_name>Põhjala</brewery_name>
-    <regular_price>8.43</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4842445047.png</image>
-    <beer_description>A colossal rye whisky barrel aged imperial stout brewed with vanilla pods and coconut sugar. Made in collaboration with our friends from Lervig. -</beer_description>
-    <beer_style>Stout - Imperial / Double</beer_style>
-    <beer_abv>13.4%</beer_abv>
-    <beer_volume>330 ml</beer_volume>
-    <beer_package>bottle</beer_package>
-    <brewery_country>Estonia</brewery_country>
-    <date_best_before>2029-02-20</date_best_before>
-    <untappd_id>6172540</untappd_id>
   </item>
   <item>
     <id>6156481</id>
@@ -4939,24 +4902,6 @@
     <brewery_country>Sweden</brewery_country>
     <date_best_before>2025-12-10</date_best_before>
     <untappd_id>6094567</untappd_id>
-  </item>
-  <item>
-    <id>6150230</id>
-    <ecommerce_id>738467815</ecommerce_id>
-    <title>Kurg (Cellar Series)</title>
-    <url>https://hopincraftbier.be/products/pohjala-kurg-cellar-series</url>
-    <price>7.17</price>
-    <brewery_name>Põhjala</brewery_name>
-    <regular_price>8.96</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4842142750.png</image>
-    <beer_description>A bold a brooding imperial stout aged in alder wood smoked whisky barrels. -</beer_description>
-    <beer_style>Stout - Imperial / Double</beer_style>
-    <beer_abv>13.6%</beer_abv>
-    <beer_volume>330 ml</beer_volume>
-    <beer_package>bottle</beer_package>
-    <brewery_country>Estonia</brewery_country>
-    <date_best_before>2029-01-27</date_best_before>
-    <untappd_id>6150230</untappd_id>
   </item>
   <item>
     <id>6180169</id>
@@ -5580,6 +5525,6 @@
     <date_best_before>2027-01-21</date_best_before>
     <untappd_id>6149227</untappd_id>
   </item>
-  <timestamp>1761567078</timestamp>
-  <gen_date>27/10/2025 13:11:18</gen_date>
+  <timestamp>1761572115</timestamp>
+  <gen_date>27/10/2025 14:35:15</gen_date>
 </feed>
