@@ -4314,6 +4314,24 @@
     <untappd_id>6048927</untappd_id>
   </item>
   <item>
+    <id>6203420</id>
+    <ecommerce_id>739496794</ecommerce_id>
+    <title>Not Afraid of Storms</title>
+    <url>https://hopincraftbier.be/products/white-dog-brewery-not-afraid-of-storms</url>
+    <price>5.62</price>
+    <brewery_name>White Dog Brewery</brewery_name>
+    <regular_price>7.03</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4847816190.png</image>
+    <beer_description>Citra, El Dorado, Simcoe - White Dog Brewery - Not Afraid of Storms</beer_description>
+    <beer_style>IPA - New England / Hazy</beer_style>
+    <beer_abv>6.4%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>The Netherlands</brewery_country>
+    <date_best_before>2026-01-03</date_best_before>
+    <untappd_id>6203420</untappd_id>
+  </item>
+  <item>
     <id>6009134</id>
     <ecommerce_id>739496793</ecommerce_id>
     <title>Night Shift Vintage 2024 - Russian Imperial Stout Aged In Tennessee Whiskey Barrels</title>
@@ -4401,6 +4419,24 @@
     <brewery_country>Canada</brewery_country>
     <date_canned>2025-03-12</date_canned>
     <untappd_id>6189061</untappd_id>
+  </item>
+  <item>
+    <id>6203421</id>
+    <ecommerce_id>739491518</ecommerce_id>
+    <title>Razor Thin Margins</title>
+    <url>https://hopincraftbier.be/products/white-dog-brewery-razor-thin-margins</url>
+    <price>5.63</price>
+    <brewery_name>White Dog Brewery</brewery_name>
+    <regular_price>7.04</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4847840032.png</image>
+    <beer_description>Citra, Mosaic, HBC586 (krush) - White Dog Brewery - Razor Thin Margins</beer_description>
+    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
+    <beer_abv>7.4%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>The Netherlands</brewery_country>
+    <date_best_before>2026-01-03</date_best_before>
+    <untappd_id>6203421</untappd_id>
   </item>
   <item>
     <id>6042710</id>
@@ -5561,6 +5597,6 @@
     <date_best_before>2027-01-21</date_best_before>
     <untappd_id>6149227</untappd_id>
   </item>
-  <timestamp>1761562451</timestamp>
-  <gen_date>27/10/2025 11:54:11</gen_date>
+  <timestamp>1761564721</timestamp>
+  <gen_date>27/10/2025 12:32:01</gen_date>
 </feed>
