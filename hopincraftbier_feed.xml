@@ -5,74 +5,6 @@
   <link>https://hopincraftbier.be/products&lt;/link&gt;</link>
   <description>Hop In Craftbier Products feed</description>
   <item>
-    <id>6384423</id>
-    <ecommerce_id>792864070</ecommerce_id>
-    <title>Ninth Birthday Impy</title>
-    <url>https://hopincraftbier.be/products/neon-raptor-brewing-co-ninth-birthday-impy</url>
-    <price>8.02</price>
-    <brewery_name>Neon Raptor Brewing Co.</brewery_name>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5324107435.png</image>
-    <beer_description>Imperial 9th Birthday stout dressed up to the nines with hazelnut, chocolate, and caramel biscuits (you know which ones). We're partying like it's 9! Water, Barley (Gluten), Oats, Lactose (Milk), Hops, Yeast Neon Raptor Brewing Co. - Ninth Birthday Impy</beer_description>
-    <beer_style>Stout - Imperial / Double Pastry</beer_style>
-    <beer_abv>10%</beer_abv>
-    <beer_volume>440 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>England</brewery_country>
-    <date_best_before>2027-08-21</date_best_before>
-    <untappd_id>6384423</untappd_id>
-  </item>
-  <item>
-    <id>6211524</id>
-    <ecommerce_id>792863593</ecommerce_id>
-    <title>You For Coffee</title>
-    <url>https://hopincraftbier.be/products/neon-raptor-brewing-co-you-for-coffee</url>
-    <price>5.91</price>
-    <brewery_name>Neon Raptor Brewing Co.</brewery_name>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5324118772.png</image>
-    <beer_description>On our worldwide beer travels we can almost guarantee seeing our Polish friends Stu Mostow, so this imperial breakfast stout collaboration is long overdue. Rich coffee and sinful chocolate combined will inspire you to go for coffee yourself! Water, Barley (Gluten), Oats, Lactose (Milk), Liquid Cacao, Coffee, Hops, Yeast Neon Raptor Brewing Co. - You For Coffee</beer_description>
-    <beer_style>Stout - Imperial / Double Coffee</beer_style>
-    <beer_abv>11%</beer_abv>
-    <beer_volume>330 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>England</brewery_country>
-    <date_best_before>2026-09-24</date_best_before>
-    <untappd_id>6211524</untappd_id>
-  </item>
-  <item>
-    <id>6431948</id>
-    <ecommerce_id>792866077</ecommerce_id>
-    <title>Off the Rack Kentucky Bourbon 2023 By Rackhouse</title>
-    <url>https://hopincraftbier.be/products/lervig-off-the-rack-kentucky-bourbon-2023-by-rackhouse</url>
-    <price>19.89</price>
-    <brewery_name>LERVIG</brewery_name>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5324082009.png</image>
-    <beer_description>Aged for two years in Kentucky bourbon barrels imparting rich, dark, and robust flavors of cacao, vanilla, char and bourbon. With every sip this layered flavor profile makes a distinct mark on the palate from start to finish. A true example of the nuance relationship between wood, bourbon and a rich imperial stout. LERVIG - Off the Rack Kentucky Bourbon 2023 By Rackhouse</beer_description>
-    <beer_style>Stout - Imperial / Double</beer_style>
-    <beer_abv>14.5%</beer_abv>
-    <beer_volume>375 ml</beer_volume>
-    <beer_package>bottle</beer_package>
-    <brewery_country>Norway</brewery_country>
-    <date_best_before>2030-09-26</date_best_before>
-    <untappd_id>6431948</untappd_id>
-  </item>
-  <item>
-    <id>6413314</id>
-    <ecommerce_id>792864069</ecommerce_id>
-    <title>Confection By Rackhouse</title>
-    <url>https://hopincraftbier.be/products/lervig-confection-by-rackhouse</url>
-    <price>19.89</price>
-    <brewery_name>LERVIG</brewery_name>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5324077423.png</image>
-    <beer_description>The curated flavors are layered to charm both the sweet tooth and the seasoned palate. Blue raspberry, marshmallow, coconut, and chocolate mingle with a gentle touch of roast coffee, while time spent in rum, bourbon, and maple barrels lends depth with vanilla, maple, and oak. Confection is sweetness elegantly wrapped in the character of the barrels. LERVIG - Confection By Rackhouse</beer_description>
-    <beer_style>Stout - Imperial / Double Pastry</beer_style>
-    <beer_abv>13.5%</beer_abv>
-    <beer_volume>375 ml</beer_volume>
-    <beer_package>bottle</beer_package>
-    <brewery_country>Norway</brewery_country>
-    <date_best_before>2030-09-26</date_best_before>
-    <untappd_id>6413314</untappd_id>
-  </item>
-  <item>
     <id>6451748</id>
     <ecommerce_id>791004838</ecommerce_id>
     <title>Night Shift Vintage 2025 / Imperial Pastry Stout Aged In Rum Barrels With Coconut &amp; Chocolate</title>
@@ -5619,6 +5551,6 @@
     <date_best_before>2027-01-21</date_best_before>
     <untappd_id>6149227</untappd_id>
   </item>
-  <timestamp>1761749105</timestamp>
-  <gen_date>29/10/2025 15:45:05</gen_date>
+  <timestamp>1761749291</timestamp>
+  <gen_date>29/10/2025 15:48:11</gen_date>
 </feed>
