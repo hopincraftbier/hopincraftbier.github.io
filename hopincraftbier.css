@@ -1,4 +1,4 @@
-/* HopInCraftbier custom css v3.51 */
+/* HopInCraftbier custom css v3.52 */
 #tile-product-details div.ins-tile__wrap {
     margin-top: 30px;
     min-width: 80%
@@ -464,7 +464,7 @@ div.ec-cart-step--address, div.ec-cart-step--delivery {
             .grid-category__bg-image::before {
                 position: absolute;
                 top: 0;
-                left: -75%;
+                left: -100%;
                 z-index: 2;
                 display: block;
                 content: '';
@@ -563,7 +563,7 @@ div.ec-store__content-wrapper div.product-details {
         .details-gallery__main-image-wrapper::before {
             position: absolute;
             top: 0;
-            left: -75%;
+            left: -100%;
             z-index: 2;
             display: block;
             content: '';
