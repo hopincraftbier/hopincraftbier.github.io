@@ -1,4 +1,4 @@
-console.log("HopInCraftbier custom js v5.92");
+console.log("HopInCraftbier custom js v5.93");
 let debug = false;
 let prodMode = true;
 
@@ -495,7 +495,10 @@ function renameBuyButtonToPreorder() {
         if (buttonTextEl) {
             if (buttonTextEl.textContent !== 'Pre-order') {
                 let labelEl = p.querySelector('.grid-product__label');
-                if (labelEl && labelEl.className.indexOf('grid-product__label--') >= 0 && labelEl.className.indexOf('grid-product__label--Nieuw') < 0) {
+                if (labelEl &&
+                    labelEl.className.indexOf('grid-product__label--') >= 0 &&
+                    labelEl.className.indexOf('grid-product__label--Nieuw') < 0 &&
+                    labelEl.className.indexOf('grid-product__label--Laatste') < 0) {
                     buttonTextEl.innerHTML = 'Pre-order';
                 }
             }
