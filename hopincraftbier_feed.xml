@@ -75,7 +75,7 @@
     <url>https://hopincraftbier.be/products/menno-olivier-brewing-the-gaze</url>
     <price>8.25</price>
     <brewery_name>Menno Olivier Brewing</brewery_name>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5344587492.webp</image>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5344912800.png</image>
     <beer_description>Barley Wine Aged 6 months in Wyoming Whiskey barrels. Menno Olivier Brewing - THE GAZE</beer_description>
     <beer_style>Barleywine - Other</beer_style>
     <beer_abv>12.2%</beer_abv>
@@ -5791,6 +5791,6 @@
     <date_best_before>2027-01-21</date_best_before>
     <untappd_id>6149227</untappd_id>
   </item>
-  <timestamp>1762209905</timestamp>
-  <gen_date>03/11/2025 23:45:05</gen_date>
+  <timestamp>1762210805</timestamp>
+  <gen_date>04/11/2025 00:00:05</gen_date>
 </feed>
