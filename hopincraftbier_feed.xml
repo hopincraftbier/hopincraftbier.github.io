@@ -59,8 +59,8 @@
     <url>https://hopincraftbier.be/products/brew-your-mind-blue-echo</url>
     <price>6.57</price>
     <brewery_name>Brew Your Mind</brewery_name>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5344593915.webp</image>
-    <beer_description>Hazy IPA Citra és Motueka komlóval. A Green Echo könnyedebb változata. Brew Your Mind - Blue Echo</beer_description>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5344878538.png</image>
+    <beer_description>Hazy IPA with Citra and Motueka hops. A lighter version of Green Echo. Brew Your Mind - Blue Echo</beer_description>
     <beer_style>IPA - New England / Hazy</beer_style>
     <beer_abv>6.7%</beer_abv>
     <beer_volume>440 ml</beer_volume>
@@ -5791,6 +5791,6 @@
     <date_best_before>2027-01-21</date_best_before>
     <untappd_id>6149227</untappd_id>
   </item>
-  <timestamp>1762203605</timestamp>
-  <gen_date>03/11/2025 22:00:05</gen_date>
+  <timestamp>1762209905</timestamp>
+  <gen_date>03/11/2025 23:45:05</gen_date>
 </feed>
