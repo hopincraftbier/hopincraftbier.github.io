@@ -1049,6 +1049,22 @@
     <bundle_skus>6205524,6208805,4033335,4570140</bundle_skus>
   </item>
   <item>
+    <id>6406320</id>
+    <ecommerce_id>781533751</ecommerce_id>
+    <title>Ever Juice</title>
+    <url>https://hopincraftbier.be/products/tripping-animals-brewing-co-ever-juice</url>
+    <price>9.99</price>
+    <brewery_name>Tripping Animals Brewing Co.</brewery_name>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5260880889.webp</image>
+    <beer_description>DDH hazy Double India Pale Ale brewed with Mosaic, Strata and Motueka hops. Tripping Animals Brewing Co. - Ever Juice</beer_description>
+    <beer_style>IPA - Imperial / Double</beer_style>
+    <beer_abv>8%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>United States</brewery_country>
+    <untappd_id>6406320</untappd_id>
+  </item>
+  <item>
     <id>6300505</id>
     <ecommerce_id>780633044</ecommerce_id>
     <title>Drake Passage</title>
@@ -1254,6 +1270,70 @@
     <brewery_country>France</brewery_country>
     <date_best_before>2027-06-19</date_best_before>
     <untappd_id>6314891</untappd_id>
+  </item>
+  <item>
+    <id>6059732</id>
+    <ecommerce_id>778813134</ecommerce_id>
+    <title>Les Fleurs Du Mal</title>
+    <url>https://hopincraftbier.be/products/brasserie-du-bas-canada-les-fleurs-du-mal</url>
+    <price>11.99</price>
+    <brewery_name>Brasserie du Bas-Canada</brewery_name>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5260881836.webp</image>
+    <beer_description>Collaboration avec Xul Beer Co. - Triple IPA aux houblons Citra, Peacharine, Rakau, Kohia Nelson, Citra Incognito &amp; Citra Hyber Boost Brasserie du Bas-Canada - Les Fleurs Du Mal</beer_description>
+    <beer_style>IPA - Triple</beer_style>
+    <beer_abv>10%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Canada</brewery_country>
+    <untappd_id>6059732</untappd_id>
+  </item>
+  <item>
+    <id>2873940</id>
+    <ecommerce_id>778813133</ecommerce_id>
+    <title>Néron</title>
+    <url>https://hopincraftbier.be/products/brasserie-du-bas-canada-neron</url>
+    <price>11.32</price>
+    <brewery_name>Brasserie du Bas-Canada</brewery_name>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5260880910.webp</image>
+    <beer_description>Double IPA aux houblons Galaxy, Citra &amp; Amarillo. Brasserie du Bas-Canada - Neron</beer_description>
+    <beer_style>IPA - Imperial / Double</beer_style>
+    <beer_abv>8%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Canada</brewery_country>
+    <untappd_id>2873940</untappd_id>
+  </item>
+  <item>
+    <id>5755528</id>
+    <ecommerce_id>778813130</ecommerce_id>
+    <title>Distributed Ledger</title>
+    <url>https://hopincraftbier.be/products/spyglass-brewing-company-distributed-ledger</url>
+    <price>11.66</price>
+    <brewery_name>Spyglass Brewing Company</brewery_name>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5260880887.webp</image>
+    <beer_description>A New England style TIPA - triple dry hopped with Citra, Motueka and Simcoe. Spyglass Brewing Company - Distributed Ledger</beer_description>
+    <beer_style>IPA - Triple New England / Hazy</beer_style>
+    <beer_abv>9.8%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>United States</brewery_country>
+    <untappd_id>5755528</untappd_id>
+  </item>
+  <item>
+    <id>6365435</id>
+    <ecommerce_id>778817619</ecommerce_id>
+    <title>Sun JUJU</title>
+    <url>https://hopincraftbier.be/products/tripping-animals-brewing-co-sun-juju</url>
+    <price>9.32</price>
+    <brewery_name>Tripping Animals Brewing Co.</brewery_name>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5260880949.webp</image>
+    <beer_description>Hazy IPA with Peacharine, Kohia Nelson and Simcoe Hops brewed in collaboration with Ology out of Tampa Bay Florida Tripping Animals Brewing Co. - Sun Juju</beer_description>
+    <beer_style>IPA - New England / Hazy</beer_style>
+    <beer_abv>6.5%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>United States</brewery_country>
+    <untappd_id>6365435</untappd_id>
   </item>
   <item>
     <id>6376660</id>
@@ -5779,6 +5859,6 @@
     <date_best_before>2027-01-21</date_best_before>
     <untappd_id>6149227</untappd_id>
   </item>
-  <timestamp>1762322537</timestamp>
-  <gen_date>05/11/2025 07:02:17</gen_date>
+  <timestamp>1762334105</timestamp>
+  <gen_date>05/11/2025 10:15:05</gen_date>
 </feed>
