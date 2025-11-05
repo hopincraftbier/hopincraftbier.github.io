@@ -954,6 +954,22 @@
     <untappd_id>6415742</untappd_id>
   </item>
   <item>
+    <id>6415131</id>
+    <ecommerce_id>784475108</ecommerce_id>
+    <title>Swim</title>
+    <url>https://hopincraftbier.be/products/slake-brewing-swim</url>
+    <price>9.99</price>
+    <brewery_name>Slake Brewing</brewery_name>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5260881626.webp</image>
+    <beer_description>Brewed for Slake's 5th anniversary Slake Brewing - Swim</beer_description>
+    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
+    <beer_abv>8%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Canada</brewery_country>
+    <untappd_id>6415131</untappd_id>
+  </item>
+  <item>
     <id>979</id>
     <ecommerce_id>782350599</ecommerce_id>
     <title>IPA Pack</title>
@@ -5971,6 +5987,6 @@
     <date_best_before>2027-01-21</date_best_before>
     <untappd_id>6149227</untappd_id>
   </item>
-  <timestamp>1762369534</timestamp>
-  <gen_date>05/11/2025 20:05:34</gen_date>
+  <timestamp>1762374939</timestamp>
+  <gen_date>05/11/2025 21:35:39</gen_date>
 </feed>
