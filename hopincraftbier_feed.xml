@@ -1488,25 +1488,6 @@
     <untappd_id>6345864</untappd_id>
   </item>
   <item>
-    <id>985</id>
-    <ecommerce_id>778595223</ecommerce_id>
-    <title>IPA Pack</title>
-    <url>https://hopincraftbier.be/products/third-moon-brewing-company-ipa-pack</url>
-    <price>26.08</price>
-    <brewery_name>Third Moon Brewing Company</brewery_name>
-    <regular_price>37.26</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5143939272.webp</image>
-    <beer_description>The Third Moon Brewing pack contains: - Double Winterseed (DIPA) - Bell Tree (2025) (TIPA) - Separation Rage (2025) (QIPA)</beer_description>
-    <beer_style>IPA</beer_style>
-    <beer_abv>8 - 11.9%</beer_abv>
-    <beer_volume>3x473 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Canada</brewery_country>
-    <beer_package_count>3</beer_package_count>
-    <beer_bundle>1</beer_bundle>
-    <bundle_skus>6189061,6213701,6204443</bundle_skus>
-  </item>
-  <item>
     <id>986</id>
     <ecommerce_id>778528303</ecommerce_id>
     <title>Pack</title>
@@ -5859,6 +5840,6 @@
     <date_best_before>2027-01-21</date_best_before>
     <untappd_id>6149227</untappd_id>
   </item>
-  <timestamp>1762334105</timestamp>
-  <gen_date>05/11/2025 10:15:05</gen_date>
+  <timestamp>1762337704</timestamp>
+  <gen_date>05/11/2025 11:15:04</gen_date>
 </feed>
