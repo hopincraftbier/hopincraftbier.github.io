@@ -5,6 +5,39 @@
   <link>https://hopincraftbier.be/products&lt;/link&gt;</link>
   <description>Hop In Craftbier Products feed</description>
   <item>
+    <id>5586510</id>
+    <ecommerce_id>794172620</ecommerce_id>
+    <title>Blue Echo</title>
+    <url>https://hopincraftbier.be/products/brew-your-mind-blue-echo</url>
+    <price>6.57</price>
+    <brewery_name>Brew Your Mind</brewery_name>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5344878538.png</image>
+    <beer_description>Hazy IPA with Citra and Motueka hops. A lighter version of Green Echo. Brew Your Mind - Blue Echo</beer_description>
+    <beer_style>IPA - New England / Hazy</beer_style>
+    <beer_abv>6.7%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Hungary</brewery_country>
+    <untappd_id>5586510</untappd_id>
+  </item>
+  <item>
+    <id>6437817</id>
+    <ecommerce_id>794172618</ecommerce_id>
+    <title>THE GAZE</title>
+    <url>https://hopincraftbier.be/products/menno-olivier-brewing-the-gaze</url>
+    <price>8.25</price>
+    <brewery_name>Menno Olivier Brewing</brewery_name>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5344912800.png</image>
+    <beer_description>Barley Wine Aged 6 months in Wyoming Whiskey barrels. Menno Olivier Brewing - THE GAZE</beer_description>
+    <beer_style>Barleywine - Other</beer_style>
+    <beer_abv>12.2%</beer_abv>
+    <beer_volume>330 ml</beer_volume>
+    <beer_package>bottle</beer_package>
+    <brewery_country>Spain</brewery_country>
+    <date_best_before>09/2030</date_best_before>
+    <untappd_id>6437817</untappd_id>
+  </item>
+  <item>
     <id>6384423</id>
     <ecommerce_id>792864070</ecommerce_id>
     <title>Ninth Birthday Impy</title>
@@ -598,6 +631,22 @@
     <untappd_id>6406071</untappd_id>
   </item>
   <item>
+    <id>2521955</id>
+    <ecommerce_id>787278459</ecommerce_id>
+    <title>Money Cannon</title>
+    <url>https://hopincraftbier.be/products/brew-your-mind-money-cannon</url>
+    <price>7.17</price>
+    <brewery_name>Brew Your Mind</brewery_name>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5242091020.webp</image>
+    <beer_description>This double New England insired IPA is a collaboration with our good friend armando_otchoa. This one comes with a blast of tropical fruit flavors and a velvety mouthfeel. Made with 30g/L australian and american hops. Amarillo, Galaxy, Citra Brew Your Mind - Money Cannon</beer_description>
+    <beer_style>IPA - Imperial / Double</beer_style>
+    <beer_abv>8.3%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Hungary</brewery_country>
+    <untappd_id>2521955</untappd_id>
+  </item>
+  <item>
     <id>6320572</id>
     <ecommerce_id>786917091</ecommerce_id>
     <title>Cold Woods (Ghost COLD WOODS)</title>
@@ -951,6 +1000,38 @@
     <beer_package>can</beer_package>
     <brewery_country>United States</brewery_country>
     <untappd_id>6406320</untappd_id>
+  </item>
+  <item>
+    <id>4178441</id>
+    <ecommerce_id>781516951</ecommerce_id>
+    <title>Queen Snake</title>
+    <url>https://hopincraftbier.be/products/district-96-beer-factory-queen-snake</url>
+    <price>10.99</price>
+    <brewery_name>District 96 Beer Factory</brewery_name>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5260880888.webp</image>
+    <beer_description>We Did A Three Stage Triple Dry Hop With Simcoe &amp; Citra Lauren Was Fascinated With This New Technique And We’re Pretty Sure You Will Too. Big Notes Of PASSION Fruit, Long Stem Strawberries, Peach And With Our Famous SNAKEFRUIT Finish District 96 Beer Factory - Queen Snake</beer_description>
+    <beer_style>IPA - Triple New England / Hazy</beer_style>
+    <beer_abv>10%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>United States</brewery_country>
+    <untappd_id>4178441</untappd_id>
+  </item>
+  <item>
+    <id>4229403</id>
+    <ecommerce_id>781516950</ecommerce_id>
+    <title>Snake Eyes</title>
+    <url>https://hopincraftbier.be/products/district-96-beer-factory-snake-eyes</url>
+    <price>10.32</price>
+    <brewery_name>District 96 Beer Factory</brewery_name>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5260881632.webp</image>
+    <beer_description>We Binary Arid Hopped With Cashmere, More Cashmere And Even More Cashmere With A Dusting Of Citra And Vic Secret. Notes Of Watermelon, Lemon , Creamy Kumquat, Pass Lines, Press Press Press Your Bet And Our Signature Snake Fruit Finish. District 96 Beer Factory - Snake Eyes</beer_description>
+    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
+    <beer_abv>8%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>United States</brewery_country>
+    <untappd_id>4229403</untappd_id>
   </item>
   <item>
     <id>6300505</id>
@@ -5728,6 +5809,6 @@
     <date_best_before>2027-01-21</date_best_before>
     <untappd_id>6149227</untappd_id>
   </item>
-  <timestamp>1762343404</timestamp>
-  <gen_date>05/11/2025 12:50:04</gen_date>
+  <timestamp>1762348085</timestamp>
+  <gen_date>05/11/2025 14:08:05</gen_date>
 </feed>
