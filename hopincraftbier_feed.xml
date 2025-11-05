@@ -18,6 +18,7 @@
     <beer_volume>330 ml</beer_volume>
     <beer_package>bottle</beer_package>
     <brewery_country>Romania</brewery_country>
+    <date_best_before>2027-12-30</date_best_before>
     <untappd_id>6359238</untappd_id>
   </item>
   <item>
@@ -34,6 +35,7 @@
     <beer_volume>330 ml</beer_volume>
     <beer_package>bottle</beer_package>
     <brewery_country>Romania</brewery_country>
+    <date_best_before>2027-08-20</date_best_before>
     <untappd_id>6399012</untappd_id>
   </item>
   <item>
@@ -50,6 +52,7 @@
     <beer_volume>330 ml</beer_volume>
     <beer_package>bottle</beer_package>
     <brewery_country>Romania</brewery_country>
+    <date_best_before>2027-12-30</date_best_before>
     <untappd_id>6380681</untappd_id>
   </item>
   <item>
@@ -82,6 +85,7 @@
     <beer_volume>330 ml</beer_volume>
     <beer_package>bottle</beer_package>
     <brewery_country>Spain</brewery_country>
+    <date_best_before>09/2030</date_best_before>
     <untappd_id>6437817</untappd_id>
   </item>
   <item>
@@ -98,6 +102,7 @@
     <beer_volume>330 ml</beer_volume>
     <beer_package>bottle</beer_package>
     <brewery_country>Romania</brewery_country>
+    <date_best_before>2027-12-30</date_best_before>
     <untappd_id>6393493</untappd_id>
   </item>
   <item>
@@ -5840,6 +5845,6 @@
     <date_best_before>2027-01-21</date_best_before>
     <untappd_id>6149227</untappd_id>
   </item>
-  <timestamp>1762337704</timestamp>
-  <gen_date>05/11/2025 11:15:04</gen_date>
+  <timestamp>1762343106</timestamp>
+  <gen_date>05/11/2025 12:45:06</gen_date>
 </feed>
