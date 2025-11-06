@@ -344,6 +344,22 @@
     <untappd_id>5605713</untappd_id>
   </item>
   <item>
+    <id>6424109</id>
+    <ecommerce_id>788856433</ecommerce_id>
+    <title>Imposing Will</title>
+    <url>https://hopincraftbier.be/products/autodidact-beer-imposing-will</url>
+    <price>14</price>
+    <brewery_name>Autodidact Beer</brewery_name>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5260880874.webp</image>
+    <beer_description>with Garston Hops Riwaka and Nelson Sauvin Autodidact Beer - Imposing Will</beer_description>
+    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
+    <beer_abv>8.1%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>United States</brewery_country>
+    <untappd_id>6424109</untappd_id>
+  </item>
+  <item>
     <id>3766089</id>
     <ecommerce_id>788580043</ecommerce_id>
     <title>lACEd In Space</title>
@@ -952,6 +968,22 @@
     <date_best_before>07/2026</date_best_before>
     <date_canned>2026-09-16</date_canned>
     <untappd_id>6415742</untappd_id>
+  </item>
+  <item>
+    <id>6416326</id>
+    <ecommerce_id>784467356</ecommerce_id>
+    <title>Space Rocket</title>
+    <url>https://hopincraftbier.be/products/nano-cinco-space-rocket</url>
+    <price>24.23</price>
+    <brewery_name>Nano Cinco</brewery_name>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5260881608.webp</image>
+    <beer_description>Space Rocket is a blend of an imperial stout aged 34 months in Heaven Hill bourbon barrels and an imperial stout aged 12 months in Jeptha Creed bourbon barrels. It was then aged on toasted organic coconut from Sri Lanka and vanilla from Madagascar. The result is a powerful and syrupy beer where the sweetness of vanilla and bourbon combines perfectly with the intensity of coconut. ***Contains lactose*** Nano Cinco - Space Rocket</beer_description>
+    <beer_style>Stout - Imperial / Double</beer_style>
+    <beer_abv>11.9%</beer_abv>
+    <beer_volume>375 ml</beer_volume>
+    <beer_package>bottle</beer_package>
+    <brewery_country>Canada</brewery_country>
+    <untappd_id>6416326</untappd_id>
   </item>
   <item>
     <id>6415131</id>
@@ -6051,6 +6083,6 @@
     <date_best_before>2027-01-21</date_best_before>
     <untappd_id>6149227</untappd_id>
   </item>
-  <timestamp>1762429593</timestamp>
-  <gen_date>06/11/2025 12:46:33</gen_date>
+  <timestamp>1762454510</timestamp>
+  <gen_date>06/11/2025 19:41:50</gen_date>
 </feed>
