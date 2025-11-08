@@ -1,4 +1,4 @@
-console.log("HopInCraftbier custom js v5.93");
+console.log("HopInCraftbier custom js v5.94");
 let debug = false;
 let prodMode = true;
 
@@ -442,6 +442,13 @@ function translateCheckoutNotice() {
     }
 }
 
+function showCouponBlock() {
+    log('showCouponBlock');
+    document.querySelectorAll('div.ec-cart__discount').forEach(function (p) {
+        p.className = 'ec-cart__discount--focus ec-cart-coupon--focus';
+    });
+}
+
 function addDeliveryInfoLink() {
     log('addDeliveryInfoLink');
 
@@ -456,27 +463,23 @@ function addDeliveryInfoLink() {
         }
     }
 
-    let deliveryNotice = document.querySelector('div.ec-cart-step--address .ecwid-checkout-notice:not(:has(div#deliveryInfoOnSection1))');
-    if (deliveryNotice) {
-        if ('EN' === lngTxt) {
-            deliveryNotice.insertAdjacentHTML('beforeend', '<div id="deliveryInfoOnSection1">View the <a class="ec-link" target="_blank" href="/en/delivery-info#feature-list-fjNnsD-FLT23">delivery information</a><br></div>');
-        } else {
-            deliveryNotice.insertAdjacentHTML('beforeend', '<div id="deliveryInfoOnSection1">Bekijk de <a class="ec-link" target="_blank" href="/delivery-info#feature-list-fjNnsD-FLT23">leveringsinformatie</a><br></div>');
-        }
-        location.href = "#";
-        location.href = "#deliveryInfoOnSection1";
-    } else {
-        deliveryNotice = document.querySelector('div.ec-cart-step--delivery .ecwid-checkout-notice:not(:has(div#deliveryInfoOnSection2))');
-        if (deliveryNotice) {
-            if ('EN' === lngTxt) {
-                deliveryNotice.insertAdjacentHTML('beforeend', '<div id="deliveryInfoOnSection2">View the <a class="ec-link" target="_blank" href="/en/delivery-info#feature-list-fjNnsD-FLT23">delivery information</a><br></div>');
-            } else {
-                deliveryNotice.insertAdjacentHTML('beforeend', '<div id="deliveryInfoOnSection2">Bekijk de <a class="ec-link" target="_blank" href="/delivery-info#feature-list-fjNnsD-FLT23">leveringsinformatie</a><br></div>');
-            }
-            location.href = "#";
-            location.href = "#deliveryInfoOnSection2";
-        }
-    }
+    // let deliveryNotice = document.querySelector('div.ec-cart-step--address .ecwid-checkout-notice:not(:has(div#deliveryInfoOnSection1))');
+    // if (deliveryNotice) {
+    //     if ('EN' === lngTxt) {
+    //         deliveryNotice.insertAdjacentHTML('beforeend', '<div id="deliveryInfoOnSection1">View the <a class="ec-link" target="_blank" href="/en/delivery-info#feature-list-fjNnsD-FLT23">delivery information</a><br></div>');
+    //     } else {
+    //         deliveryNotice.insertAdjacentHTML('beforeend', '<div id="deliveryInfoOnSection1">Bekijk de <a class="ec-link" target="_blank" href="/delivery-info#feature-list-fjNnsD-FLT23">leveringsinformatie</a><br></div>');
+    //     }
+    // } else {
+    //     deliveryNotice = document.querySelector('div.ec-cart-step--delivery .ecwid-checkout-notice:not(:has(div#deliveryInfoOnSection2))');
+    //     if (deliveryNotice) {
+    //         if ('EN' === lngTxt) {
+    //             deliveryNotice.insertAdjacentHTML('beforeend', '<div id="deliveryInfoOnSection2">View the <a class="ec-link" target="_blank" href="/en/delivery-info#feature-list-fjNnsD-FLT23">delivery information</a><br></div>');
+    //         } else {
+    //             deliveryNotice.insertAdjacentHTML('beforeend', '<div id="deliveryInfoOnSection2">Bekijk de <a class="ec-link" target="_blank" href="/delivery-info#feature-list-fjNnsD-FLT23">leveringsinformatie</a><br></div>');
+    //         }
+    //     }
+    // }
 }
 
 function addTitleAttribute() {
@@ -551,6 +554,7 @@ function processCartPage() {
         || document.querySelector('.ecwid-productBrowser-ElmCheckoutDeliveryPage')) {
         translateCheckoutNotice();
         addDeliveryInfoLink();
+        showCouponBlock();
     }
 }
 
