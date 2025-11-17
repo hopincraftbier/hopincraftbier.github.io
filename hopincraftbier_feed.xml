@@ -2612,26 +2612,6 @@
     <bundle_skus>6149227,6065243,6130589</bundle_skus>
   </item>
   <item>
-    <id>992</id>
-    <ecommerce_id>765662320</ecommerce_id>
-    <title>Põhjala Cellar Series Pack</title>
-    <url>https://hopincraftbier.be/products/pohjala-cellar-series-pack</url>
-    <price>24.75</price>
-    <brewery_name>Põhjala</brewery_name>
-    <regular_price>35.35</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5035296620.webp</image>
-    <beer_description>The Põhjala Cellar Series Pack contains: - Evening Colours - More Than Amber - Faraway Friends - Kurg</beer_description>
-    <beer_style>Porter &amp; Stout - Imperial / Double</beer_style>
-    <beer_abv>11.5 - 13.6%</beer_abv>
-    <beer_volume>4x330 ml</beer_volume>
-    <beer_package>fles</beer_package>
-    <brewery_country>Estonia</brewery_country>
-    <date_best_before>2028-10-30</date_best_before>
-    <beer_package_count>4</beer_package_count>
-    <beer_bundle>1</beer_bundle>
-    <bundle_skus>6121868,6053421,6172540,6150230</bundle_skus>
-  </item>
-  <item>
     <id>993</id>
     <ecommerce_id>765663503</ecommerce_id>
     <title>Oso Brew Co Pack</title>
@@ -5340,24 +5320,6 @@
     <untappd_id>6121304</untappd_id>
   </item>
   <item>
-    <id>6172540</id>
-    <ecommerce_id>738467819</ecommerce_id>
-    <title>Faraway Friends (Cellar Series)</title>
-    <url>https://hopincraftbier.be/products/pohjala-faraway-friends-cellar-series</url>
-    <price>6.74</price>
-    <brewery_name>Põhjala</brewery_name>
-    <regular_price>8.43</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4842445047.png</image>
-    <beer_description>A colossal rye whisky barrel aged imperial stout brewed with vanilla pods and coconut sugar. Made in collaboration with our friends from Lervig. -</beer_description>
-    <beer_style>Stout - Imperial / Double</beer_style>
-    <beer_abv>13.4%</beer_abv>
-    <beer_volume>330 ml</beer_volume>
-    <beer_package>bottle</beer_package>
-    <brewery_country>Estonia</brewery_country>
-    <date_best_before>2029-02-20</date_best_before>
-    <untappd_id>6172540</untappd_id>
-  </item>
-  <item>
     <id>6156481</id>
     <ecommerce_id>738466945</ecommerce_id>
     <title>Embus Bourbon BA (Silver Series)</title>
@@ -6087,6 +6049,6 @@
     <date_best_before>2027-01-21</date_best_before>
     <untappd_id>6149227</untappd_id>
   </item>
-  <timestamp>1762497617</timestamp>
-  <gen_date>07/11/2025 07:40:17</gen_date>
+  <timestamp>1763385304</timestamp>
+  <gen_date>17/11/2025 14:15:04</gen_date>
 </feed>
