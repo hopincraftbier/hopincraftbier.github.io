@@ -5784,6 +5784,23 @@
     <untappd_id>4570140</untappd_id>
   </item>
   <item>
+    <id>6180917</id>
+    <ecommerce_id>734051600</ecommerce_id>
+    <title>Dead Don't Die (2025)</title>
+    <url>https://hopincraftbier.be/products/third-moon-brewing-company-dead-dont-die-2025</url>
+    <price>10.12</price>
+    <brewery_name>Third Moon Brewing Company</brewery_name>
+    <regular_price>12.65</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4953184244.webp</image>
+    <beer_description>Dead Don't Die is an 8.5% Double Chocolate Milk stout that is all about the chocolate! We started with a rich base of chocolate malt and milk sugar and then layered in chocolate at every stage of the brewing process. It is light, fluffy and voluptuous and oozes chocolate in every sip. -</beer_description>
+    <beer_style>Stout - Milk / Sweet</beer_style>
+    <beer_abv>8.5%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Canada</brewery_country>
+    <untappd_id>6180917</untappd_id>
+  </item>
+  <item>
     <id>4485711</id>
     <ecommerce_id>734051352</ecommerce_id>
     <title>Window of Opportunity</title>
@@ -5997,23 +6014,6 @@
     <untappd_id>593083</untappd_id>
   </item>
   <item>
-    <id>6204443</id>
-    <ecommerce_id>734051593</ecommerce_id>
-    <title>Separation Rage (2025)</title>
-    <url>https://hopincraftbier.be/products/third-moon-brewing-company-separation-rage-2025</url>
-    <price>10.39</price>
-    <brewery_name>Third Moon Brewing Company</brewery_name>
-    <regular_price>12.99</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4953184239.webp</image>
-    <beer_description>Separation Rage is an 11.9% Hazy Quadruple IPA brewed with oats and hopped with Citra, Mosaic and Galaxy! This Quad version of our beloved Separation Anxiety makes its return after an almost 2 year hiatus and it is drinking incredibly nice! It's soft and tropical with a full body and is completely saturated with notes of nectarine, mango and canned pineapple. -</beer_description>
-    <beer_style>IPA - Quadruple</beer_style>
-    <beer_abv>11.9%</beer_abv>
-    <beer_volume>473 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Canada</brewery_country>
-    <untappd_id>6204443</untappd_id>
-  </item>
-  <item>
     <id>6149227</id>
     <ecommerce_id>729805388</ecommerce_id>
     <title>Pastry Factory: Pecan Pie</title>
@@ -6031,6 +6031,6 @@
     <date_best_before>2027-01-21</date_best_before>
     <untappd_id>6149227</untappd_id>
   </item>
-  <timestamp>1763489705</timestamp>
-  <gen_date>18/11/2025 19:15:05</gen_date>
+  <timestamp>1763490605</timestamp>
+  <gen_date>18/11/2025 19:30:05</gen_date>
 </feed>
