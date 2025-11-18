@@ -2612,6 +2612,26 @@
     <bundle_skus>6149227,6065243,6130589</bundle_skus>
   </item>
   <item>
+    <id>992</id>
+    <ecommerce_id>765662320</ecommerce_id>
+    <title>Põhjala Cellar Series Pack</title>
+    <url>https://hopincraftbier.be/products/pohjala-cellar-series-pack</url>
+    <price>24.75</price>
+    <brewery_name>Põhjala</brewery_name>
+    <regular_price>35.35</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5035296620.webp</image>
+    <beer_description>The Põhjala Cellar Series Pack contains: - Evening Colours - More Than Amber - Faraway Friends - Kurg</beer_description>
+    <beer_style>Porter &amp; Stout - Imperial / Double</beer_style>
+    <beer_abv>11.5 - 13.6%</beer_abv>
+    <beer_volume>4x330 ml</beer_volume>
+    <beer_package>fles</beer_package>
+    <brewery_country>Estonia</brewery_country>
+    <date_best_before>2028-10-30</date_best_before>
+    <beer_package_count>4</beer_package_count>
+    <beer_bundle>1</beer_bundle>
+    <bundle_skus>6121868,6053421,6172540,6150230</bundle_skus>
+  </item>
+  <item>
     <id>993</id>
     <ecommerce_id>765663503</ecommerce_id>
     <title>Oso Brew Co Pack</title>
@@ -4730,24 +4750,6 @@
     <untappd_id>6189849</untappd_id>
   </item>
   <item>
-    <id>6215162</id>
-    <ecommerce_id>743653490</ecommerce_id>
-    <title>Fat Cats In Top Hats (2025)</title>
-    <url>https://hopincraftbier.be/products/fuerst-wiacek-berlin-fat-cats-in-top-hats-2025</url>
-    <price>5.18</price>
-    <brewery_name>FUERST WIACEK Berlin</brewery_name>
-    <regular_price>6.47</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4874380917.png</image>
-    <beer_description>DDH IPA - Dry hopped with Mosaic &amp; HBC 630 - FUERST WIACEK Berlin - Fat Cats In Top Hats (2025)</beer_description>
-    <beer_style>IPA - New England / Hazy</beer_style>
-    <beer_abv>6.8%</beer_abv>
-    <beer_volume>440 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Germany</brewery_country>
-    <date_best_before>2025-12-31</date_best_before>
-    <untappd_id>6215162</untappd_id>
-  </item>
-  <item>
     <id>6210698</id>
     <ecommerce_id>742665252</ecommerce_id>
     <title>Dead Violet</title>
@@ -6031,6 +6033,6 @@
     <date_best_before>2027-01-21</date_best_before>
     <untappd_id>6149227</untappd_id>
   </item>
-  <timestamp>1763490605</timestamp>
-  <gen_date>18/11/2025 19:30:05</gen_date>
+  <timestamp>1763491505</timestamp>
+  <gen_date>18/11/2025 19:45:05</gen_date>
 </feed>
