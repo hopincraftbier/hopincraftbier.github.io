@@ -5,6 +5,22 @@
   <link>https://hopincraftbier.be/products&lt;/link&gt;</link>
   <description>Hop In Craftbier Products feed</description>
   <item>
+    <id>6399165</id>
+    <ecommerce_id>797681262</ecommerce_id>
+    <title>Reversed 6(66)</title>
+    <url>https://hopincraftbier.be/products/bereta-brewing-co-reversed-6-66</url>
+    <price>13.35</price>
+    <brewery_name>Bereta Brewing Co.</brewery_name>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5390666921.png</image>
+    <beer_description>9th Anniversary Bourbon Barrel Aged Imperial Stout with Salted Caramel. Bereta Brewing Co. - Reversed 6(66)</beer_description>
+    <beer_style>Stout - Imperial / Double</beer_style>
+    <beer_abv>11.7%</beer_abv>
+    <beer_volume>375 ml</beer_volume>
+    <beer_package>bottle</beer_package>
+    <brewery_country>Romania</brewery_country>
+    <untappd_id>6399165</untappd_id>
+  </item>
+  <item>
     <id>6359238</id>
     <ecommerce_id>794188753</ecommerce_id>
     <title>Profan</title>
@@ -6033,6 +6049,6 @@
     <date_best_before>2027-01-21</date_best_before>
     <untappd_id>6149227</untappd_id>
   </item>
-  <timestamp>1763491505</timestamp>
-  <gen_date>18/11/2025 19:45:05</gen_date>
+  <timestamp>1763565307</timestamp>
+  <gen_date>19/11/2025 16:15:07</gen_date>
 </feed>
