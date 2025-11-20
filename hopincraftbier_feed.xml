@@ -21,6 +21,57 @@
     <untappd_id>6399165</untappd_id>
   </item>
   <item>
+    <id>6359238</id>
+    <ecommerce_id>794188753</ecommerce_id>
+    <title>Profan</title>
+    <url>https://hopincraftbier.be/products/blackout-brewing-profan</url>
+    <price>10.45</price>
+    <brewery_name>Blackout Brewing</brewery_name>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5350515782.png</image>
+    <beer_description>A blend of stouts aged in an Oloroso and an Aquavit barrel, finished with tobacco leaves. Blackout Brewing - Profan</beer_description>
+    <beer_style>Stout - Imperial / Double</beer_style>
+    <beer_abv>10.5%</beer_abv>
+    <beer_volume>330 ml</beer_volume>
+    <beer_package>bottle</beer_package>
+    <brewery_country>Romania</brewery_country>
+    <date_best_before>2027-12-30</date_best_before>
+    <untappd_id>6359238</untappd_id>
+  </item>
+  <item>
+    <id>6399012</id>
+    <ecommerce_id>794188506</ecommerce_id>
+    <title>Port &amp; Bourbon BA - Sunset Damage</title>
+    <url>https://hopincraftbier.be/products/blackout-brewing-port--bourbon-ba-sunset-damage</url>
+    <price>10.45</price>
+    <brewery_name>Blackout Brewing</brewery_name>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5350510140.png</image>
+    <beer_description>Chocolate | Vanilla | Orange A blend of stouts aged in a ruby Port wine barrel and in a MGP bourbon barrel. Blackout Brewing - Port &amp; Bourbon BA - Sunset Damage</beer_description>
+    <beer_style>Stout - Imperial / Double Pastry</beer_style>
+    <beer_abv>11%</beer_abv>
+    <beer_volume>330 ml</beer_volume>
+    <beer_package>bottle</beer_package>
+    <brewery_country>Romania</brewery_country>
+    <date_best_before>2027-08-20</date_best_before>
+    <untappd_id>6399012</untappd_id>
+  </item>
+  <item>
+    <id>6380681</id>
+    <ecommerce_id>794188505</ecommerce_id>
+    <title>Coffee Series - Indonesia</title>
+    <url>https://hopincraftbier.be/products/blackout-brewing-coffee-series-indonesia</url>
+    <price>7.5</price>
+    <brewery_name>Blackout Brewing</brewery_name>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5350509936.png</image>
+    <beer_description>Brewed with beans roasted in Cluj-Napoca, by Yume. Karana is a community of 377 smallholder farmers in the Kintamani region of Bali, cultivating coffee at an altitude of 1,200 meters on 477 hectares. In addition to coffee, the farmers grow oranges, vegetables, and other crops, contributing to biodiversity and sustainability. Through eco-friendly practices and a newly funded processing mill, Karana aims to become a trusted supplier of green coffee beans in both domestic and international markets. Blackout Brewing - Coffee Series - Indonesia</beer_description>
+    <beer_style>Stout - Imperial / Double Coffee</beer_style>
+    <beer_abv>11%</beer_abv>
+    <beer_volume>330 ml</beer_volume>
+    <beer_package>bottle</beer_package>
+    <brewery_country>Romania</brewery_country>
+    <date_best_before>2027-12-30</date_best_before>
+    <untappd_id>6380681</untappd_id>
+  </item>
+  <item>
     <id>5586510</id>
     <ecommerce_id>794172620</ecommerce_id>
     <title>Blue Echo</title>
@@ -52,6 +103,23 @@
     <brewery_country>Spain</brewery_country>
     <date_best_before>09/2030</date_best_before>
     <untappd_id>6437817</untappd_id>
+  </item>
+  <item>
+    <id>6393493</id>
+    <ecommerce_id>794172619</ecommerce_id>
+    <title>Ego Death - Heaven Hill BA</title>
+    <url>https://hopincraftbier.be/products/blackout-brewing-ego-death-heaven-hill-ba</url>
+    <price>10.45</price>
+    <brewery_name>Blackout Brewing</brewery_name>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5350510158.png</image>
+    <beer_description>Marshmallow | Vanilla | Chocolate Aged in Heaven Hill bourbon barrels. Blackout Brewing - Ego Death - Heaven Hill BA</beer_description>
+    <beer_style>Stout - Imperial / Double Pastry</beer_style>
+    <beer_abv>12%</beer_abv>
+    <beer_volume>330 ml</beer_volume>
+    <beer_package>bottle</beer_package>
+    <brewery_country>Romania</brewery_country>
+    <date_best_before>2027-12-30</date_best_before>
+    <untappd_id>6393493</untappd_id>
   </item>
   <item>
     <id>6384423</id>
@@ -5981,6 +6049,6 @@
     <date_best_before>2027-01-21</date_best_before>
     <untappd_id>6149227</untappd_id>
   </item>
-  <timestamp>1763641229</timestamp>
-  <gen_date>20/11/2025 13:20:29</gen_date>
+  <timestamp>1763657907</timestamp>
+  <gen_date>20/11/2025 17:58:27</gen_date>
 </feed>
