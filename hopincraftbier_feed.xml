@@ -1721,25 +1721,6 @@
     <untappd_id>6345864</untappd_id>
   </item>
   <item>
-    <id>986</id>
-    <ecommerce_id>778528303</ecommerce_id>
-    <title>Pack</title>
-    <url>https://hopincraftbier.be/products/third-moon-brewing-company-pack</url>
-    <price>44.74</price>
-    <brewery_name>Third Moon Brewing Company</brewery_name>
-    <regular_price>63.92</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5142718803.webp</image>
-    <beer_description>The Third Moon Brewing pack contains: - Double Winterseed (DIPA) - Bell Tree (2025) (TIPA) - Separation Rage (2025) (QIPA) - From Underneath (2025) (Porter) - Dead Don't Die (2025) (Stout)</beer_description>
-    <beer_style>IPA - Porter - Stout</beer_style>
-    <beer_abv>8 - 11.9%</beer_abv>
-    <beer_volume>5x473 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Canada</brewery_country>
-    <beer_package_count>5</beer_package_count>
-    <beer_bundle>1</beer_bundle>
-    <bundle_skus>6189061,6213701,6204443,6197367,6180917</bundle_skus>
-  </item>
-  <item>
     <id>4456656</id>
     <ecommerce_id>777778662</ecommerce_id>
     <title>Hand Truck Heroes</title>
@@ -6049,6 +6030,6 @@
     <date_best_before>2027-01-21</date_best_before>
     <untappd_id>6149227</untappd_id>
   </item>
-  <timestamp>1763657907</timestamp>
-  <gen_date>20/11/2025 17:58:27</gen_date>
+  <timestamp>1763760605</timestamp>
+  <gen_date>21/11/2025 22:30:05</gen_date>
 </feed>
