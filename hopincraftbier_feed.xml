@@ -1999,22 +1999,6 @@
     <bundle_skus>6215162,6223449,6210907,6238201,6220762</bundle_skus>
   </item>
   <item>
-    <id>5928410</id>
-    <ecommerce_id>769146034</ecommerce_id>
-    <title>Heavy Souls (2024)</title>
-    <url>https://hopincraftbier.be/products/firestone-walker-brewing-company-heavy-souls-2024</url>
-    <price>14.31</price>
-    <brewery_name>Firestone Walker Brewing Company</brewery_name>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5260881664.webp</image>
-    <beer_description>We teamed up with Frau Gruber from Germany to craft Heavy Souls, a unique pastry stout. Brewed with pecans, hazelnuts, and vanilla beans, it offers a sensory journey evoking praline pie, s’mores, and candied figs. Aged for 12 months in 12-year Elijah Craig Bourbon barrels, it blends complexity with decadence. Experience Heavy Souls—a collaboration masterpiece, rich in barrel-aged flavors that linger delightfully. Firestone Walker Brewing Company - Heavy Souls (2024)</beer_description>
-    <beer_style>Stout - Imperial / Double Pastry</beer_style>
-    <beer_abv>12.5%</beer_abv>
-    <beer_volume>355 ml</beer_volume>
-    <beer_package>bottle</beer_package>
-    <brewery_country>United States</brewery_country>
-    <untappd_id>5928410</untappd_id>
-  </item>
-  <item>
     <id>4977403</id>
     <ecommerce_id>769161768</ecommerce_id>
     <title>Heavy Things (2022)</title>
@@ -6030,6 +6014,6 @@
     <date_best_before>2027-01-21</date_best_before>
     <untappd_id>6149227</untappd_id>
   </item>
-  <timestamp>1763760605</timestamp>
-  <gen_date>21/11/2025 22:30:05</gen_date>
+  <timestamp>1763811905</timestamp>
+  <gen_date>22/11/2025 12:45:05</gen_date>
 </feed>
