@@ -3658,23 +3658,6 @@
     <untappd_id>4486704</untappd_id>
   </item>
   <item>
-    <id>1517218</id>
-    <ecommerce_id>751529019</ecommerce_id>
-    <title>Milkshake IPA (Strawberry)</title>
-    <url>https://hopincraftbier.be/products/tired-hands-brewing-company-milkshake-ipa-strawberry</url>
-    <price>11.28</price>
-    <brewery_name>Tired Hands Brewing Company</brewery_name>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4933344458.png</image>
-    <beer_description>Brewed at Tired Hands Brewing Company, an IPA brewed with oats and lactose sugar. Fermented atop strawberries (a high pectin fruit) and vanilla beans. Hopped intensely with Mosaic and Citra. We also added wheat flour and 50 lbs of local apples (a high pectin fruit) to the boil. Brewed in collaboration with Omnipollo. Tired Hands Brewing Company - Milkshake IPA (Strawberry)</beer_description>
-    <beer_style>IPA - Milkshake</beer_style>
-    <beer_abv>7.2%</beer_abv>
-    <beer_volume>473 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>United States</brewery_country>
-    <date_canned>2025-04-16</date_canned>
-    <untappd_id>1517218</untappd_id>
-  </item>
-  <item>
     <id>1954247</id>
     <ecommerce_id>751542771</ecommerce_id>
     <title>Vitamin Sea - Due North</title>
@@ -6014,6 +5997,6 @@
     <date_best_before>2027-01-21</date_best_before>
     <untappd_id>6149227</untappd_id>
   </item>
-  <timestamp>1763811905</timestamp>
-  <gen_date>22/11/2025 12:45:05</gen_date>
+  <timestamp>1763844305</timestamp>
+  <gen_date>22/11/2025 21:45:05</gen_date>
 </feed>
