@@ -1825,23 +1825,6 @@
     <untappd_id>6055618</untappd_id>
   </item>
   <item>
-    <id>3496008</id>
-    <ecommerce_id>774329587</ecommerce_id>
-    <title>2 Year Reserve Bourbon County Brand Stout (2019)</title>
-    <url>https://hopincraftbier.be/products/goose-island-beer-co-2-year-reserve-bourbon-county-brand-stout-2019</url>
-    <price>21.81</price>
-    <brewery_name>Goose Island Beer Co.</brewery_name>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5243343607.webp</image>
-    <beer_description>2-Year Reserve Bourbon County Brand Stout was aged 24 months in 11-year-old 25th Anniversary Knob Creek barrels. The barrels of this once in a lifetime bourbon delivered an oak-forward intensity accented with subtle hazelnut and chocolate notes that complimented the flavors inherent in Original Bourbon County Stout. 2-Year Reserve is incredibly special, and we’re excited to share this variant with you all. Goose Island Beer Co. - 2 Year Reserve Bourbon County Brand Stout (2019)</beer_description>
-    <beer_style>Stout - Imperial / Double</beer_style>
-    <beer_abv>14.9%</beer_abv>
-    <beer_volume>500 ml</beer_volume>
-    <beer_package>bottle</beer_package>
-    <brewery_country>United States</brewery_country>
-    <date_canned>2024-07-10</date_canned>
-    <untappd_id>3496008</untappd_id>
-  </item>
-  <item>
     <id>4185018</id>
     <ecommerce_id>774330341</ecommerce_id>
     <title>Players 1 - Batch 2</title>
@@ -2571,46 +2554,6 @@
     <beer_package_count>4</beer_package_count>
     <beer_bundle>1</beer_bundle>
     <bundle_skus>6220978,6149303,6220983,6220981</bundle_skus>
-  </item>
-  <item>
-    <id>991</id>
-    <ecommerce_id>765685018</ecommerce_id>
-    <title>Moersleutel Craft Brewery Stout Pack</title>
-    <url>https://hopincraftbier.be/products/moersleutel-craft-brewery-stout-pack</url>
-    <price>17.81</price>
-    <brewery_name>Moersleutel Craft Brewery</brewery_name>
-    <regular_price>25.44</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5035371228.webp</image>
-    <beer_description>The Moersleutel Craft Brewery Stout pack contains: - Pastry Factory: Pecan Pie - The 4 Elements: Fire - Extravagant: Extra Mash Extra Coconut</beer_description>
-    <beer_style>Stout</beer_style>
-    <beer_abv>10 - 12%</beer_abv>
-    <beer_volume>3x440 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>The Netherlands</brewery_country>
-    <date_best_before>2027-05-12</date_best_before>
-    <beer_package_count>3</beer_package_count>
-    <beer_bundle>1</beer_bundle>
-    <bundle_skus>6149227,6065243,6130589</bundle_skus>
-  </item>
-  <item>
-    <id>992</id>
-    <ecommerce_id>765662320</ecommerce_id>
-    <title>Põhjala Cellar Series Pack</title>
-    <url>https://hopincraftbier.be/products/pohjala-cellar-series-pack</url>
-    <price>24.75</price>
-    <brewery_name>Põhjala</brewery_name>
-    <regular_price>35.35</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5035296620.webp</image>
-    <beer_description>The Põhjala Cellar Series Pack contains: - Evening Colours - More Than Amber - Faraway Friends - Kurg</beer_description>
-    <beer_style>Porter &amp; Stout - Imperial / Double</beer_style>
-    <beer_abv>11.5 - 13.6%</beer_abv>
-    <beer_volume>4x330 ml</beer_volume>
-    <beer_package>fles</beer_package>
-    <brewery_country>Estonia</brewery_country>
-    <date_best_before>2028-10-30</date_best_before>
-    <beer_package_count>4</beer_package_count>
-    <beer_bundle>1</beer_bundle>
-    <bundle_skus>6121868,6053421,6172540,6150230</bundle_skus>
   </item>
   <item>
     <id>993</id>
@@ -3500,24 +3443,6 @@
     <brewery_country>Romania</brewery_country>
     <date_best_before>2026-12-30</date_best_before>
     <untappd_id>6202929</untappd_id>
-  </item>
-  <item>
-    <id>6198480</id>
-    <ecommerce_id>752445651</ecommerce_id>
-    <title>Even More King Queen Knave</title>
-    <url>https://hopincraftbier.be/products/pressure-drop-brewing-even-more-king-queen-knave</url>
-    <price>4.31</price>
-    <brewery_name>Pressure Drop Brewing</brewery_name>
-    <regular_price>8.63</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4932174117.png</image>
-    <beer_description>DIPA version of King Queen Knave Citra, Simcoe and Mosaic hops Pressure Drop Brewing - Even More King Queen Knave</beer_description>
-    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
-    <beer_abv>8.2%</beer_abv>
-    <beer_volume>440 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>England</brewery_country>
-    <date_best_before>2025-09-20</date_best_before>
-    <untappd_id>6198480</untappd_id>
   </item>
   <item>
     <id>6263801</id>
@@ -5017,24 +4942,6 @@
     <untappd_id>5632797</untappd_id>
   </item>
   <item>
-    <id>6156435</id>
-    <ecommerce_id>738474832</ecommerce_id>
-    <title>NAWI</title>
-    <url>https://hopincraftbier.be/products/garage-beer-co-nawi</url>
-    <price>3.47</price>
-    <brewery_name>Garage Beer Co.</brewery_name>
-    <regular_price>6.95</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4842087921.png</image>
-    <beer_description>This hazy has a beautiful complexity to it as a result of the vibrant blend of Mosaic, Eclipse and Idaho 7. Mosaic delivers a mango and pine one-two which is brightened up by the orange zest of Eclispe while Idaho 7 ties it all together with juicy pineapple and apricot with a hint of lemon. At an easier 6% abv, this is an incredibly drinkable IPA that delivers a hit for all of those hop addicts. -</beer_description>
-    <beer_style>IPA - New England / Hazy</beer_style>
-    <beer_abv>6%</beer_abv>
-    <beer_volume>440 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Spain</brewery_country>
-    <date_best_before>2025-08-13</date_best_before>
-    <untappd_id>6156435</untappd_id>
-  </item>
-  <item>
     <id>6172982</id>
     <ecommerce_id>738474831</ecommerce_id>
     <title>60KG Cashmere</title>
@@ -5997,6 +5904,6 @@
     <date_best_before>2027-01-21</date_best_before>
     <untappd_id>6149227</untappd_id>
   </item>
-  <timestamp>1763844305</timestamp>
-  <gen_date>22/11/2025 21:45:05</gen_date>
+  <timestamp>1763900105</timestamp>
+  <gen_date>23/11/2025 13:15:05</gen_date>
 </feed>
