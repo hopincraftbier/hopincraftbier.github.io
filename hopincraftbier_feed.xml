@@ -4657,24 +4657,6 @@
     <untappd_id>6210698</untappd_id>
   </item>
   <item>
-    <id>6178111</id>
-    <ecommerce_id>742665253</ecommerce_id>
-    <title>Liberty (2025)</title>
-    <url>https://hopincraftbier.be/products/pinta-barrel-brewing-liberty-2025</url>
-    <price>8.61</price>
-    <brewery_name>PINTA Barrel Brewing</brewery_name>
-    <regular_price>10.13</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4869730646.png</image>
-    <beer_description>Imperial Stout w/ Vanilla, Coconut and Barrel Aged Coffe. Aged for 20-30 months in Wild Turkey and Heaven Hill Bourbon Barrels &amp; Rittenhouse Rye Whisky Barrels. Adjuncts breakdown: - Vanilla pods from Madagascar &amp; Uganda, - Raw and roasted Coconut chips from Sri Lanka, - Barrel Aged Coffee beans from Columbia. Barrels breakdown: 40% Heaven Hill 40% Wild Turkey 20% Rittenhouse Rye - PINTA Barrel Brewing - Liberty (2025)</beer_description>
-    <beer_style>Stout - Imperial / Double</beer_style>
-    <beer_abv>12%</beer_abv>
-    <beer_volume>330 ml</beer_volume>
-    <beer_package>bottle</beer_package>
-    <brewery_country>Poland</brewery_country>
-    <date_best_before>2030-03-01</date_best_before>
-    <untappd_id>6178111</untappd_id>
-  </item>
-  <item>
     <id>6210695</id>
     <ecommerce_id>742661020</ecommerce_id>
     <title>Dead Crimson</title>
@@ -5209,24 +5191,6 @@
     <brewery_country>Latvia</brewery_country>
     <date_best_before>2026-02-28</date_best_before>
     <untappd_id>6178076</untappd_id>
-  </item>
-  <item>
-    <id>6164043</id>
-    <ecommerce_id>738467163</ecommerce_id>
-    <title>SERIES 1 : SALTED CARAMEL</title>
-    <url>https://hopincraftbier.be/products/menno-olivier-brewing-series-1-salted-caramel</url>
-    <price>4.2</price>
-    <brewery_name>Menno Olivier Brewing</brewery_name>
-    <regular_price>5.12</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4840969539.png</image>
-    <beer_description>Imperial Stout with Salted Caramel -</beer_description>
-    <beer_style>Stout - Imperial / Double</beer_style>
-    <beer_abv>13%</beer_abv>
-    <beer_volume>330 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Spain</brewery_country>
-    <date_best_before>2030-01-30</date_best_before>
-    <untappd_id>6164043</untappd_id>
   </item>
   <item>
     <id>6102160</id>
@@ -5904,6 +5868,6 @@
     <date_best_before>2027-01-21</date_best_before>
     <untappd_id>6149227</untappd_id>
   </item>
-  <timestamp>1763900105</timestamp>
-  <gen_date>23/11/2025 13:15:05</gen_date>
+  <timestamp>1764014404</timestamp>
+  <gen_date>24/11/2025 21:00:04</gen_date>
 </feed>
