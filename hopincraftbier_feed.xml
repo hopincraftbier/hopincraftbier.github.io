@@ -1505,22 +1505,6 @@
     <untappd_id>2873940</untappd_id>
   </item>
   <item>
-    <id>5697352</id>
-    <ecommerce_id>778813132</ecommerce_id>
-    <title>ParabaNoche (2024)</title>
-    <url>https://hopincraftbier.be/products/firestone-walker-brewing-company-parabanoche-2024</url>
-    <price>14.31</price>
-    <brewery_name>Firestone Walker Brewing Company</brewery_name>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5260881614.webp</image>
-    <beer_description>We burned the midnight oil collaborating with our friends at Weldworks Brewing Co to create one of the biggest beers we’ve ever brewed. A massive stout stuffed with specialty malts matured for 18 months in special Parker’s Heritage Whiskey barrels, the final blend radiates with sweet flavors of dark chocolate, caramel, roasted coffee, vanilla and whiskey. Firestone Walker Brewing Company - ParabaNoche (2024)</beer_description>
-    <beer_style>Stout - Imperial / Double</beer_style>
-    <beer_abv>13.2%</beer_abv>
-    <beer_volume>355 ml</beer_volume>
-    <beer_package>bottle</beer_package>
-    <brewery_country>United States</brewery_country>
-    <untappd_id>5697352</untappd_id>
-  </item>
-  <item>
     <id>5689810</id>
     <ecommerce_id>778812646</ecommerce_id>
     <title>Mashish W/Peanut Butter, Chocolate, And Marshmallow</title>
@@ -5857,6 +5841,6 @@
     <brewery_country>The Netherlands</brewery_country>
     <date_best_before>2027-01-21</date_best_before>
   </item>
-  <timestamp>1764225904</timestamp>
-  <gen_date>27/11/2025 07:45:04</gen_date>
+  <timestamp>1764243501</timestamp>
+  <gen_date>27/11/2025 12:38:21</gen_date>
 </feed>
