@@ -4904,7 +4904,7 @@
     <ecommerce_id>738474834</ecommerce_id>
     <title>60KG Strata</title>
     <url>https://hopincraftbier.be/products/oso-brew-co-60kg-strata</url>
-    <price>5.32</price>
+    <price>4.66</price>
     <brewery_name>Oso Brew Co</brewery_name>
     <regular_price>6.65</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4842126879.png</image>
@@ -4972,7 +4972,7 @@
     <ecommerce_id>738474582</ecommerce_id>
     <title>Blame Culture</title>
     <url>https://hopincraftbier.be/products/oso-brew-co-blame-culture</url>
-    <price>4.87</price>
+    <price>4.26</price>
     <brewery_name>Oso Brew Co</brewery_name>
     <regular_price>6.09</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4842127568.png</image>
@@ -5757,6 +5757,6 @@
     <brewery_country>The Netherlands</brewery_country>
     <date_best_before>2027-01-21</date_best_before>
   </item>
-  <timestamp>1764414906</timestamp>
-  <gen_date>29/11/2025 12:15:06</gen_date>
+  <timestamp>1764415805</timestamp>
+  <gen_date>29/11/2025 12:30:05</gen_date>
 </feed>
