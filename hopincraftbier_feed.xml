@@ -1183,6 +1183,7 @@
     <beer_volume>473 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>United States</brewery_country>
+    <date_canned>2025-09-09</date_canned>
     <untappd_id>6406320</untappd_id>
   </item>
   <item>
@@ -1483,6 +1484,7 @@
     <beer_volume>473 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>Canada</brewery_country>
+    <date_canned>2025-09-16</date_canned>
     <untappd_id>2873940</untappd_id>
   </item>
   <item>
@@ -1597,6 +1599,7 @@
     <beer_volume>473 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>United States</brewery_country>
+    <date_canned>2025-09-12</date_canned>
     <untappd_id>6365435</untappd_id>
   </item>
   <item>
@@ -5754,6 +5757,6 @@
     <brewery_country>The Netherlands</brewery_country>
     <date_best_before>2027-01-21</date_best_before>
   </item>
-  <timestamp>1764414005</timestamp>
-  <gen_date>29/11/2025 12:00:05</gen_date>
+  <timestamp>1764414906</timestamp>
+  <gen_date>29/11/2025 12:15:06</gen_date>
 </feed>
