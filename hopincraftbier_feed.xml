@@ -3242,22 +3242,6 @@
     <untappd_id>4589206</untappd_id>
   </item>
   <item>
-    <id>6263451</id>
-    <ecommerce_id>756989441</ecommerce_id>
-    <title>Gonuts</title>
-    <url>https://hopincraftbier.be/products/all-my-friends-beer-co-gonuts</url>
-    <price>11.9</price>
-    <brewery_name>All My Friends Beer Co.</brewery_name>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5067712538.webp</image>
-    <beer_description>GONUTS is our first of many TIPAs to come, and we’re beyond stoked to have brewed it with the undisputed kings of IPA—Badlands Brewing. Crack the can and you're hit with a blast of dank tropical fruit punch on the nose. The mouthfeel is lusciously smooth, delivering wave after wave of sweet mango nectar, ripe orange, strawberry, and guava. The smoothness here can't be overstated—extremely drinkable, dangerously so. It all wraps up with a squeaky clean finish that leaves you reaching for more All My Friends Beer Co. - Gonuts</beer_description>
-    <beer_style>IPA - Triple New England / Hazy</beer_style>
-    <beer_abv>10%</beer_abv>
-    <beer_volume>473 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Canada</brewery_country>
-    <untappd_id>6263451</untappd_id>
-  </item>
-  <item>
     <id>6263452</id>
     <ecommerce_id>756995311</ecommerce_id>
     <title>Feral</title>
@@ -5820,6 +5804,6 @@
     <brewery_country>The Netherlands</brewery_country>
     <date_best_before>2027-01-21</date_best_before>
   </item>
-  <timestamp>1764493469</timestamp>
-  <gen_date>30/11/2025 10:04:29</gen_date>
+  <timestamp>1764507605</timestamp>
+  <gen_date>30/11/2025 14:00:05</gen_date>
 </feed>
