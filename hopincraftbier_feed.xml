@@ -2519,23 +2519,6 @@
     <untappd_id>6341271</untappd_id>
   </item>
   <item>
-    <id>6262107</id>
-    <ecommerce_id>767063225</ecommerce_id>
-    <title>Obelisk</title>
-    <url>https://hopincraftbier.be/products/revenant-brewing-project-obelisk</url>
-    <price>5.74</price>
-    <brewery_name>Revenant Brewing Project</brewery_name>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5049166202.webp</image>
-    <beer_description>A monumental hop combo in a world filled with haze. Hops: Nelson and Nelson Cryo, Citra and Citra Cryo, Galaxy. Over 40 grams per litre of them all combined in this exploration of the OBELISK. - Revenant Brewing Project - Obelisk</beer_description>
-    <beer_style>IPA - Double New England / Hazy</beer_style>
-    <beer_abv>8.4%</beer_abv>
-    <beer_volume>440 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Finland</brewery_country>
-    <date_best_before>Eind 01/2026</date_best_before>
-    <untappd_id>6262107</untappd_id>
-  </item>
-  <item>
     <id>11</id>
     <ecommerce_id>767062474</ecommerce_id>
     <title>Linger</title>
@@ -5757,6 +5740,6 @@
     <brewery_country>The Netherlands</brewery_country>
     <date_best_before>2027-01-21</date_best_before>
   </item>
-  <timestamp>1764415805</timestamp>
-  <gen_date>29/11/2025 12:30:05</gen_date>
+  <timestamp>1764488705</timestamp>
+  <gen_date>30/11/2025 08:45:05</gen_date>
 </feed>
