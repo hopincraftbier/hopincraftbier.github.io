@@ -4376,23 +4376,6 @@
     <untappd_id>6229806</untappd_id>
   </item>
   <item>
-    <id>5610972</id>
-    <ecommerce_id>751529270</ecommerce_id>
-    <title>Goose Island - Tusk &amp; Feather</title>
-    <url>https://hopincraftbier.be/products/goose-island-tusk--feather</url>
-    <price>22.54</price>
-    <brewery_name>Goose Island Beer Co.</brewery_name>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4926827588.png</image>
-    <beer_description>Double Barrel Aged Barleywine collaboration with More Brewing Goose Island Beer Co. - Tusk &amp; Feather</beer_description>
-    <beer_style>Barleywine - Other</beer_style>
-    <beer_abv>15.4%</beer_abv>
-    <beer_volume>500 ml</beer_volume>
-    <beer_package>bottle</beer_package>
-    <brewery_country>United States</brewery_country>
-    <date_best_before>2029-02-06</date_best_before>
-    <untappd_id>5610972</untappd_id>
-  </item>
-  <item>
     <id>5571398</id>
     <ecommerce_id>751542504</ecommerce_id>
     <title>NECROSYNTH (Ghost NECROSYNTH)</title>
@@ -5804,6 +5787,6 @@
     <brewery_country>The Netherlands</brewery_country>
     <date_best_before>2027-01-21</date_best_before>
   </item>
-  <timestamp>1764507605</timestamp>
-  <gen_date>30/11/2025 14:00:05</gen_date>
+  <timestamp>1764549905</timestamp>
+  <gen_date>01/12/2025 01:45:05</gen_date>
 </feed>
