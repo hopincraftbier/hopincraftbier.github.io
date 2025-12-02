@@ -4596,24 +4596,6 @@
     <untappd_id>6220981</untappd_id>
   </item>
   <item>
-    <id>6220978</id>
-    <ecommerce_id>744105205</ecommerce_id>
-    <title>Doggo´s Delight</title>
-    <url>https://hopincraftbier.be/products/sudden-death-brewing-co-doggos-delight</url>
-    <price>6.89</price>
-    <brewery_name>Sudden Death Brewing Co.</brewery_name>
-    <regular_price>8.61</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4878030266.png</image>
-    <beer_description>The creamy, fruity Pastry Sour of your dreams: Joe from Vault City came along and Doggo's Delight was brewed. Loaded with blueberry juice and puree, banana puree, and peanut powder. The deep blue of the blueberries gives the beer a beautiful color and the peanut flavor is reminiscent of the best peanut butter and jelly sandwich you've ever had. - Sudden Death Brewing Co. - Doggo s Delight</beer_description>
-    <beer_style>Sour - Fruited</beer_style>
-    <beer_abv>6%</beer_abv>
-    <beer_volume>440 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Germany</brewery_country>
-    <date_best_before>2026-04-10</date_best_before>
-    <untappd_id>6220978</untappd_id>
-  </item>
-  <item>
     <id>6224263</id>
     <ecommerce_id>743661247</ecommerce_id>
     <title>Feral (2025)</title>
@@ -5787,6 +5769,6 @@
     <brewery_country>The Netherlands</brewery_country>
     <date_best_before>2027-01-21</date_best_before>
   </item>
-  <timestamp>1764549905</timestamp>
-  <gen_date>01/12/2025 01:45:05</gen_date>
+  <timestamp>1764695705</timestamp>
+  <gen_date>02/12/2025 18:15:05</gen_date>
 </feed>
