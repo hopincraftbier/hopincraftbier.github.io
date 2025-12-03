@@ -4703,24 +4703,6 @@
     <untappd_id>6210698</untappd_id>
   </item>
   <item>
-    <id>6210694</id>
-    <ecommerce_id>742653253</ecommerce_id>
-    <title>Nemesis-8 Years Anniversary</title>
-    <url>https://hopincraftbier.be/products/seven-island-brewery-nemesis-8-years-anniversary</url>
-    <price>17.79</price>
-    <brewery_name>Seven Island Brewery</brewery_name>
-    <regular_price>23.72</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4869737399.png</image>
-    <beer_description>8 YEARS ANNIVERSARY NEMESIS Bourbon barrel aged imperial stout with Canadian maple syrup, hazelnut and vanilla beans from Uganda. Blend of stouts aged for 2 &amp; 3 years in Pappy van Winkle, Blantons and Weller barrels - Seven Island Brewery - Nemesis-8 Years Anniversary</beer_description>
-    <beer_style>Stout - Imperial / Double</beer_style>
-    <beer_abv>12%</beer_abv>
-    <beer_volume>500 ml</beer_volume>
-    <beer_package>bottle</beer_package>
-    <brewery_country>Greece</brewery_country>
-    <date_best_before>2032-02-28</date_best_before>
-    <untappd_id>6210694</untappd_id>
-  </item>
-  <item>
     <id>6210032</id>
     <ecommerce_id>742665251</ecommerce_id>
     <title>Ārpus X Brasserie Popihn Imperial Cascadian Dark Ale</title>
@@ -5735,6 +5717,6 @@
     <brewery_country>The Netherlands</brewery_country>
     <date_best_before>2027-01-21</date_best_before>
   </item>
-  <timestamp>1764790205</timestamp>
-  <gen_date>03/12/2025 20:30:05</gen_date>
+  <timestamp>1764793805</timestamp>
+  <gen_date>03/12/2025 21:30:05</gen_date>
 </feed>
