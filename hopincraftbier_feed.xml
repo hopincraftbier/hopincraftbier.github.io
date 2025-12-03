@@ -5334,23 +5334,6 @@
     <date_canned>2025-03-26</date_canned>
   </item>
   <item>
-    <id>6173613</id>
-    <ecommerce_id>735435483</ecommerce_id>
-    <title>Central Waters - 3 Year Aged Brewer’s Reserve Bourbon Barrel Barleywine 2025</title>
-    <url>https://hopincraftbier.be/products/central-waters-3-year-aged-brewers-reserve-bourbon-barrel-barleywine-2025</url>
-    <price>8.11</price>
-    <brewery_name>Central Waters Brewing Company</brewery_name>
-    <regular_price>10.81</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4842361306.png</image>
-    <beer_description>American Barleywine ale aged in used bourbon barrels. This one was aged 3 years in barrels. -</beer_description>
-    <beer_style>Barleywine - American</beer_style>
-    <beer_abv>14%</beer_abv>
-    <beer_volume>355 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>United States</brewery_country>
-    <date_canned>2025-02-11</date_canned>
-  </item>
-  <item>
     <id>5391734</id>
     <ecommerce_id>735435933</ecommerce_id>
     <title>Steak And Eggs</title>
@@ -5365,23 +5348,6 @@
     <beer_volume>473 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>United States</brewery_country>
-  </item>
-  <item>
-    <id>6173614</id>
-    <ecommerce_id>735435931</ecommerce_id>
-    <title>Central Waters - 4 Year Aged Brewer’s Reserve Bourbon Barrel Barleywine 2025</title>
-    <url>https://hopincraftbier.be/products/central-waters-4-year-aged-brewers-reserve-bourbon-barrel-barleywine-2025</url>
-    <price>8.62</price>
-    <brewery_name>Central Waters Brewing Company</brewery_name>
-    <regular_price>11.49</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4842359697.png</image>
-    <beer_description>American Barleywine ale aged in used bourbon barrels. This one was aged 4 years in barrels. -</beer_description>
-    <beer_style>Barleywine - American</beer_style>
-    <beer_abv>14.5%</beer_abv>
-    <beer_volume>355 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>United States</brewery_country>
-    <date_canned>2025-02-11</date_canned>
   </item>
   <item>
     <id>4316618</id>
@@ -5769,6 +5735,6 @@
     <brewery_country>The Netherlands</brewery_country>
     <date_best_before>2027-01-21</date_best_before>
   </item>
-  <timestamp>1764771305</timestamp>
-  <gen_date>03/12/2025 15:15:05</gen_date>
+  <timestamp>1764790205</timestamp>
+  <gen_date>03/12/2025 20:30:05</gen_date>
 </feed>
