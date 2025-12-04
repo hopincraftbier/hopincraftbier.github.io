@@ -2076,26 +2076,6 @@
     <bundle_skus>6121787,6121788,6220978,6127067</bundle_skus>
   </item>
   <item>
-    <id>995</id>
-    <ecommerce_id>769977723</ecommerce_id>
-    <title>FUERST WIACEK Berlin Pack</title>
-    <url>https://hopincraftbier.be/products/fuerst-wiacek-berlin-pack</url>
-    <price>14.27</price>
-    <brewery_name>FUERST WIACEK Berlin</brewery_name>
-    <regular_price>31.7</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5070950046.webp</image>
-    <beer_description>De FUERST WIACEK Berlin pack contains: - Fat Cats In Top Hats (2025) - Chin Music (2025) - Shalala - Melody - Soft Focus FUERST WIACEK Berlin - Melody</beer_description>
-    <beer_style>IPA - New England / Hazy</beer_style>
-    <beer_abv>6.2 - 6.8%</beer_abv>
-    <beer_volume>5x440 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Germany</brewery_country>
-    <date_best_before>2025-12-31</date_best_before>
-    <beer_package_count>5</beer_package_count>
-    <beer_bundle>1</beer_bundle>
-    <bundle_skus>6215162,6223449,6210907,6238201,6220762</bundle_skus>
-  </item>
-  <item>
     <id>4977403</id>
     <ecommerce_id>769161768</ecommerce_id>
     <title>Heavy Things (2022)</title>
@@ -2775,24 +2755,6 @@
     <brewery_country>Spain</brewery_country>
     <date_best_before>2025-12-16</date_best_before>
     <untappd_id>6300151</untappd_id>
-  </item>
-  <item>
-    <id>6291354</id>
-    <ecommerce_id>763629043</ecommerce_id>
-    <title>Mirage</title>
-    <url>https://hopincraftbier.be/products/soma-beer-mirage</url>
-    <price>3.55</price>
-    <brewery_name>SOMA Beer</brewery_name>
-    <regular_price>7.1</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5015854951.webp</image>
-    <beer_description>Citra &amp; Wai-iti SOMA Beer - Mirage</beer_description>
-    <beer_style>IPA - New England / Hazy</beer_style>
-    <beer_abv>7%</beer_abv>
-    <beer_volume>440 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Spain</brewery_country>
-    <date_best_before>2025-12-04</date_best_before>
-    <untappd_id>6291354</untappd_id>
   </item>
   <item>
     <id>6307418</id>
@@ -5700,6 +5662,6 @@
     <brewery_country>The Netherlands</brewery_country>
     <date_best_before>2027-01-21</date_best_before>
   </item>
-  <timestamp>1764879856</timestamp>
-  <gen_date>04/12/2025 21:24:16</gen_date>
+  <timestamp>1764884704</timestamp>
+  <gen_date>04/12/2025 22:45:04</gen_date>
 </feed>
