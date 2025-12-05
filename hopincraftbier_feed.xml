@@ -2689,7 +2689,7 @@
     <ecommerce_id>763624563</ecommerce_id>
     <title>Hologram</title>
     <url>https://hopincraftbier.be/products/soma-beer-hologram</url>
-    <price>4.04</price>
+    <price>6.05</price>
     <brewery_name>SOMA Beer</brewery_name>
     <regular_price>8.07</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5015854941.webp</image>
@@ -2707,7 +2707,7 @@
     <ecommerce_id>763624562</ecommerce_id>
     <title>Ghost</title>
     <url>https://hopincraftbier.be/products/soma-beer-ghost</url>
-    <price>3.55</price>
+    <price>5.33</price>
     <brewery_name>SOMA Beer</brewery_name>
     <regular_price>7.1</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5015854936.webp</image>
@@ -2725,7 +2725,7 @@
     <ecommerce_id>763629295</ecommerce_id>
     <title>Grit</title>
     <url>https://hopincraftbier.be/products/soma-beer-grit</url>
-    <price>3.85</price>
+    <price>5.77</price>
     <brewery_name>SOMA Beer</brewery_name>
     <regular_price>7.69</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5015859039.webp</image>
@@ -2743,7 +2743,7 @@
     <ecommerce_id>763629294</ecommerce_id>
     <title>Turbo</title>
     <url>https://hopincraftbier.be/products/soma-beer-turbo</url>
-    <price>3.85</price>
+    <price>5.77</price>
     <brewery_name>SOMA Beer</brewery_name>
     <regular_price>7.69</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5015854232.webp</image>
@@ -2761,7 +2761,7 @@
     <ecommerce_id>763629043</ecommerce_id>
     <title>Mirage</title>
     <url>https://hopincraftbier.be/products/soma-beer-mirage</url>
-    <price>3.55</price>
+    <price>5.33</price>
     <brewery_name>SOMA Beer</brewery_name>
     <regular_price>7.1</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5015854951.webp</image>
@@ -5680,6 +5680,6 @@
     <brewery_country>The Netherlands</brewery_country>
     <date_best_before>2027-01-21</date_best_before>
   </item>
-  <timestamp>1764922505</timestamp>
-  <gen_date>05/12/2025 09:15:05</gen_date>
+  <timestamp>1764923404</timestamp>
+  <gen_date>05/12/2025 09:30:04</gen_date>
 </feed>
