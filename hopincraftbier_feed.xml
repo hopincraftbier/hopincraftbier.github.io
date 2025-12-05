@@ -1374,7 +1374,7 @@
     <ecommerce_id>779812136</ecommerce_id>
     <title>Double Mosaic Dream</title>
     <url>https://hopincraftbier.be/products/other-half-brewing-co-double-mosaic-dream</url>
-    <price>9.05</price>
+    <price>7.69</price>
     <brewery_name>Other Half Brewing Co.</brewery_name>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5153817629.webp</image>
     <beer_description>Our classic Mosaic focused Imperial IPA containing our hand selected Mosaic, Mosaic Cryo and Mosaic Incognito. Notes of blueberry, mango and orange. Other Half Brewing Co. - Double Mosaic Dream</beer_description>
@@ -1735,7 +1735,6 @@
     <beer_volume>500 ml</beer_volume>
     <beer_package>bottle</beer_package>
     <brewery_country>United States</brewery_country>
-    <date_canned>06/2024</date_canned>
     <untappd_id>1831710</untappd_id>
   </item>
   <item>
@@ -1861,7 +1860,7 @@
     <ecommerce_id>777778663</ecommerce_id>
     <title>Triple Citra Daydream</title>
     <url>https://hopincraftbier.be/products/other-half-brewing-co-triple-citra-daydream</url>
-    <price>9.74</price>
+    <price>8.28</price>
     <brewery_name>Other Half Brewing Co.</brewery_name>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5136087300.webp</image>
     <beer_description>Oats, a hint of milk sugar and tons of Citra combine to make Citra hop candy. Other Half Brewing Co. - Triple Citra Daydream</beer_description>
@@ -1878,7 +1877,7 @@
     <ecommerce_id>777779329</ecommerce_id>
     <title>All Green Everything</title>
     <url>https://hopincraftbier.be/products/other-half-brewing-co-all-green-everything</url>
-    <price>9.74</price>
+    <price>8.28</price>
     <brewery_name>Other Half Brewing Co.</brewery_name>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5136087305.webp</image>
     <beer_description>An aluminum green capsule of good times with Amarillo and our hand-selected Motueka, Citra and Mosaic. Other Half Brewing Co. - All Green Everything</beer_description>
@@ -2134,7 +2133,7 @@
     <ecommerce_id>768807104</ecommerce_id>
     <title>Whale Sharks</title>
     <url>https://hopincraftbier.be/products/verdant-brewing-co-whale-sharks</url>
-    <price>9.02</price>
+    <price>7.67</price>
     <brewery_name>Verdant Brewing Co</brewery_name>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5062293813.webp</image>
     <beer_description>A Triple Dry-hopped No Dextrose DIPA version of 'Even Sharks Need Water'. Simples. Verdant Brewing Co - Whale Sharks</beer_description>
@@ -2645,7 +2644,7 @@
     <ecommerce_id>765275160</ecommerce_id>
     <title>Hops Fwd</title>
     <url>https://hopincraftbier.be/products/noctem-artisans-brasseurs-hops-fwd</url>
-    <price>10.88</price>
+    <price>9.25</price>
     <brewery_name>Noctem Artisans Brasseurs</brewery_name>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5032065367.webp</image>
     <beer_description>Quelques brasseries sont sélectionnées pour tester les nouveaux produits de houblon de Yakima Chief et il nous fait grand plaisir d'en faire partie! Cette triple NEIPA intègre le YCH803 Citra, un nouvel extrait très aromatique de houblon. Combiné avec du Nelson Sauvin, du Krush et du citra conventionnel;, ce mélange regorge de fruits tropicaux et représente un pas vers le futur des bières houblonnées! Noctem Artisans Brasseurs - Hops Fwd</beer_description>
@@ -5685,6 +5684,6 @@
     <brewery_country>The Netherlands</brewery_country>
     <date_best_before>2027-01-21</date_best_before>
   </item>
-  <timestamp>1764928805</timestamp>
-  <gen_date>05/12/2025 11:00:05</gen_date>
+  <timestamp>1764930605</timestamp>
+  <gen_date>05/12/2025 11:30:05</gen_date>
 </feed>
