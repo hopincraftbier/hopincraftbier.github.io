@@ -227,7 +227,7 @@
     <url>https://hopincraftbier.be/products/messorem-destructio-0001</url>
     <price>10.58</price>
     <brewery_name>Messorem</brewery_name>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5341331010.png</image>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5435744396.png</image>
     <beer_description>Double IPA - Motueka Hop Kief, Motueka, Citra XTRM TURBO Messorem - Destructio 0001</beer_description>
     <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
     <beer_abv>8.5%</beer_abv>
@@ -5940,6 +5940,6 @@
     <brewery_country>The Netherlands</brewery_country>
     <date_best_before>2027-01-21</date_best_before>
   </item>
-  <timestamp>1765005305</timestamp>
-  <gen_date>06/12/2025 08:15:05</gen_date>
+  <timestamp>1765006107</timestamp>
+  <gen_date>06/12/2025 08:28:27</gen_date>
 </feed>
