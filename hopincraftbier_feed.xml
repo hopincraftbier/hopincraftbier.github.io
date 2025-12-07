@@ -662,7 +662,7 @@
     <price>7.18</price>
     <brewery_name>Other Half Brewing Co.</brewery_name>
     <regular_price>9.57</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5256610771.png</image>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5438971768.png</image>
     <beer_description>Hop Duos is the intersection of two great hops, in this case our hand selected Nelson Sauvin and Mosaic. This series is about finding hop combinations that bring out greatness in each other to make top notch IPA's. New world fruity white wine notes, blueberry and tropical fruit character come together with this fun combo. Other Half Brewing Co. - Hop Duos! - Nelson + Mosaic</beer_description>
     <beer_style>IPA - New England / Hazy</beer_style>
     <beer_abv>6.5%</beer_abv>
@@ -5961,6 +5961,6 @@
     <brewery_country>The Netherlands</brewery_country>
     <date_best_before>2027-01-21</date_best_before>
   </item>
-  <timestamp>1765118706</timestamp>
-  <gen_date>07/12/2025 15:45:06</gen_date>
+  <timestamp>1765134905</timestamp>
+  <gen_date>07/12/2025 20:15:05</gen_date>
 </feed>
