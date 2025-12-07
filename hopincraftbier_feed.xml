@@ -5,6 +5,26 @@
   <link>https://hopincraftbier.be/products&lt;/link&gt;</link>
   <description>Hop In Craftbier Products feed</description>
   <item>
+    <id>969</id>
+    <ecommerce_id>801005459</ecommerce_id>
+    <title>Factory Brewing Pack</title>
+    <url>https://hopincraftbier.be/products/factory-brewing-pack</url>
+    <price>21.2</price>
+    <brewery_name>Factory Brewing</brewery_name>
+    <regular_price>30.29</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5438588895.png</image>
+    <beer_description>The Factory Brewing Pack pack contains: - Meadows - Reflections - Taste No Evil - Candydate</beer_description>
+    <beer_style>IPA</beer_style>
+    <beer_abv>7 - 10%</beer_abv>
+    <beer_volume>4x440 ml</beer_volume>
+    <beer_package>blik</beer_package>
+    <brewery_country>Finland</brewery_country>
+    <date_best_before>2026-01-01</date_best_before>
+    <beer_package_count>4</beer_package_count>
+    <beer_bundle>1</beer_bundle>
+    <bundle_skus>6289690,6249191,6249190,6249192</bundle_skus>
+  </item>
+  <item>
     <id>970</id>
     <ecommerce_id>801005331</ecommerce_id>
     <title>Long Live Beerworks Pack</title>
@@ -3146,7 +3166,7 @@
     <price>5.44</price>
     <brewery_name>Factory Brewing</brewery_name>
     <regular_price>7.6</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5000714603.webp</image>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5438588931.webp</image>
     <beer_description>A Hazy IPA with Citra, Rakau &amp; Bru-1 'Meadows is dry hopped with an interesting hop combo of Citra, Rakau and Bru-1. Loads of fruitiness from Citra and Bru-1 with Rakau bringing that NZ funk and dankness with some sweet stone fruit notes.' Head Brewer Jirka Ordén Factory Brewing - Meadows</beer_description>
     <beer_style>IPA - New England / Hazy</beer_style>
     <beer_abv>7.3%</beer_abv>
@@ -3792,7 +3812,7 @@
     <price>5.67</price>
     <brewery_name>Factory Brewing</brewery_name>
     <regular_price>7.56</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5000714591.webp</image>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5438588937.webp</image>
     <beer_description>A Hazy DIPA with Nelson Sauvin hops. Reflections is a Hazy DIPA brewed with Nelson Sauvin hops. Five different lots of Nelson from Freestyle Hops and Clayton Hops creates a beautifully complex hop profile using just one variety. I get loads of grapefruit, gooseberries, white wine, passion fruit and some white pepper notes. Head Brewer Jirka Ordén Factory Brewing - Reflections</beer_description>
     <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
     <beer_abv>8%</beer_abv>
@@ -3828,7 +3848,7 @@
     <price>5.94</price>
     <brewery_name>Factory Brewing</brewery_name>
     <regular_price>7.92</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5000704961.webp</image>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5438588949.webp</image>
     <beer_description>A Hazy Triple IPA with Citra, Galaxy &amp; Vic Secret. When my current colleague Pontus and I were homebrewing, we brewed a banger of a 'House-NEIPA' called Candydate — at least we thought it was amazing back then! So here’s Candydate, brought back with the same hop combo and soul, but a refined malt base, updated to today’s standards. Head Brewer Jirka Ordén Factory Brewing - Candydate</beer_description>
     <beer_style>IPA - Triple New England / Hazy</beer_style>
     <beer_abv>10%</beer_abv>
@@ -3837,24 +3857,6 @@
     <brewery_country>Finland</brewery_country>
     <date_best_before>01/2026</date_best_before>
     <untappd_id>6249190</untappd_id>
-  </item>
-  <item>
-    <id>6249192</id>
-    <ecommerce_id>752204786</ecommerce_id>
-    <title>Taste No Evil</title>
-    <url>https://hopincraftbier.be/products/factory-brewing-taste-no-evil</url>
-    <price>5.67</price>
-    <brewery_name>Factory Brewing</brewery_name>
-    <regular_price>7.56</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5000704951.webp</image>
-    <beer_description>This Hazy DIPA is bursting with fruity aromas: stone fruits like mango and apricot, grapefruit and passionfruit, some dankness, and a touch of funk and earthiness. The malt base features more wheat than we usually use, and we also used a new yeast with this one. So lots of new things going on, we hope you enjoy this experiment. Head Brewer Jirka Ordén Factory Brewing - Taste No Evil</beer_description>
-    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
-    <beer_abv>8%</beer_abv>
-    <beer_volume>440 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Finland</brewery_country>
-    <date_best_before>01/2026</date_best_before>
-    <untappd_id>6249192</untappd_id>
   </item>
   <item>
     <id>3898880</id>
@@ -5959,6 +5961,6 @@
     <brewery_country>The Netherlands</brewery_country>
     <date_best_before>2027-01-21</date_best_before>
   </item>
-  <timestamp>1765110605</timestamp>
-  <gen_date>07/12/2025 13:30:05</gen_date>
+  <timestamp>1765118706</timestamp>
+  <gen_date>07/12/2025 15:45:06</gen_date>
 </feed>
