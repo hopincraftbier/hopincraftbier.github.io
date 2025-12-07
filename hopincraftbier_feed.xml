@@ -680,7 +680,7 @@
     <price>7.85</price>
     <brewery_name>Other Half Brewing Co.</brewery_name>
     <regular_price>10.47</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5256609864.png</image>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5438978514.png</image>
     <beer_description>Just your usual dairy-free cheese-less beer with a blend of Citra, Ekuanot, Kohatu and Wai-iti on a base of 2-row, oats and wheat. Other Half Brewing Co. - Cheddar</beer_description>
     <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
     <beer_abv>7.9%</beer_abv>
@@ -770,7 +770,7 @@
     <price>7.85</price>
     <brewery_name>Other Half Brewing Co.</brewery_name>
     <regular_price>10.47</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5256609863.png</image>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5438971840.png</image>
     <beer_description>Another in our series of labels with the talented folks @morningbreath is hopped with a terpy mix of Citra, Citra Incognito, Chinook, Simcoe, Enigma and Sabro Cryo. Soft, fruity and dank. Other Half Brewing Co. - Juice Collector</beer_description>
     <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
     <beer_abv>8.2%</beer_abv>
@@ -5961,6 +5961,6 @@
     <brewery_country>The Netherlands</brewery_country>
     <date_best_before>2027-01-21</date_best_before>
   </item>
-  <timestamp>1765134905</timestamp>
-  <gen_date>07/12/2025 20:15:05</gen_date>
+  <timestamp>1765135805</timestamp>
+  <gen_date>07/12/2025 20:30:05</gen_date>
 </feed>
