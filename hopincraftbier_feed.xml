@@ -5,6 +5,25 @@
   <link>https://hopincraftbier.be/products&lt;/link&gt;</link>
   <description>Hop In Craftbier Products feed</description>
   <item>
+    <id>977</id>
+    <ecommerce_id>800858177</ecommerce_id>
+    <title>Nano Cinco IPA Pack</title>
+    <url>https://hopincraftbier.be/products/nano-cinco-ipa-pack</url>
+    <price>26.85</price>
+    <brewery_name>Nano Cinco</brewery_name>
+    <regular_price>33.56</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5436128755.png</image>
+    <beer_description>The Nano Cinco pack contains: - Bain D'agrumes - Cinco - Patron</beer_description>
+    <beer_style>IPA</beer_style>
+    <beer_abv>6.8 - 9.6%</beer_abv>
+    <beer_volume>3x473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Canada</brewery_country>
+    <beer_package_count>3</beer_package_count>
+    <beer_bundle>1</beer_bundle>
+    <bundle_skus>6241284,6237648,6231524</bundle_skus>
+  </item>
+  <item>
     <id>6399165</id>
     <ecommerce_id>797681262</ecommerce_id>
     <title>Reversed 6(66)</title>
@@ -5920,6 +5939,6 @@
     <brewery_country>The Netherlands</brewery_country>
     <date_best_before>2027-01-21</date_best_before>
   </item>
-  <timestamp>1765106109</timestamp>
-  <gen_date>07/12/2025 12:15:09</gen_date>
+  <timestamp>1765107005</timestamp>
+  <gen_date>07/12/2025 12:30:05</gen_date>
 </feed>
