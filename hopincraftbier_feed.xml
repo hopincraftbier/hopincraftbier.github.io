@@ -3420,7 +3420,7 @@
     <url>https://hopincraftbier.be/products/long-live-beerworks-ddh-attitude</url>
     <price>7.92</price>
     <brewery_name>Long Live Beerworks</brewery_name>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4966191522.webp</image>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5438433954.webp</image>
     <beer_description>IPA double dry-hopped w/ Mosaic + Citra. 6% Long Live Beerworks - DDH Attitude</beer_description>
     <beer_style>IPA - New England / Hazy</beer_style>
     <beer_abv>6%</beer_abv>
@@ -3453,7 +3453,7 @@
     <url>https://hopincraftbier.be/products/long-live-beerworks-ddh-black-cat-sees-all</url>
     <price>8.68</price>
     <brewery_name>Long Live Beerworks</brewery_name>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4966187078.webp</image>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5438433936.webp</image>
     <beer_description>Double IPA double dry-hopped w/ Simcoe, Citra, Galaxy, Azacca + Kohatu. 8.5% Long Live Beerworks - DDH Black Cat Sees All</beer_description>
     <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
     <beer_abv>8.5%</beer_abv>
@@ -4339,7 +4339,7 @@
     <url>https://hopincraftbier.be/products/long-live-beerworks-6-lives</url>
     <price>7.85</price>
     <brewery_name>Long Live Beerworks</brewery_name>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4932611839.png</image>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5438433948.png</image>
     <beer_description>IPA brewed in continuation with our anniversary (aka this year’s “Anniversary Series”). 7.5% Long Live Beerworks - 6 Lives</beer_description>
     <beer_style>IPA - New England / Hazy</beer_style>
     <beer_abv>7.5%</beer_abv>
@@ -5939,6 +5939,6 @@
     <brewery_country>The Netherlands</brewery_country>
     <date_best_before>2027-01-21</date_best_before>
   </item>
-  <timestamp>1765107005</timestamp>
-  <gen_date>07/12/2025 12:30:05</gen_date>
+  <timestamp>1765109705</timestamp>
+  <gen_date>07/12/2025 13:15:05</gen_date>
 </feed>
