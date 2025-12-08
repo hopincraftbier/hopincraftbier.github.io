@@ -1518,26 +1518,6 @@
     <bundle_skus>6210032,6178075,6178076</bundle_skus>
   </item>
   <item>
-    <id>980</id>
-    <ecommerce_id>782352773</ecommerce_id>
-    <title>IPA Pack</title>
-    <url>https://hopincraftbier.be/products/tired-hands-brewing-company-ipa-pack</url>
-    <price>17.33</price>
-    <brewery_name>Tired Hands Brewing Company</brewery_name>
-    <regular_price>34.66</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5170310786.webp</image>
-    <beer_description>The Tired Hands Brewing Company pack consists of: - DDH Alien Church (Citra &amp; Galaxy) - Milkshake IPA (Strawberry) - Refreshing</beer_description>
-    <beer_style>IPA</beer_style>
-    <beer_abv>7 - 8%</beer_abv>
-    <beer_volume>3x473 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>United States</brewery_country>
-    <date_canned>2025-04-16</date_canned>
-    <beer_package_count>3</beer_package_count>
-    <beer_bundle>1</beer_bundle>
-    <bundle_skus>3898880,1517218,2073737</bundle_skus>
-  </item>
-  <item>
     <id>981</id>
     <ecommerce_id>782303683</ecommerce_id>
     <title>Pack</title>
@@ -2434,25 +2414,6 @@
     <brewery_country>Spain</brewery_country>
     <date_canned>2025-07-08</date_canned>
     <untappd_id>6337778</untappd_id>
-  </item>
-  <item>
-    <id>989</id>
-    <ecommerce_id>769977745</ecommerce_id>
-    <title>Sour Pack</title>
-    <url>https://hopincraftbier.be/products/sour-pack</url>
-    <price>10.98</price>
-    <brewery_name>Mix</brewery_name>
-    <regular_price>30.73</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5070978671.webp</image>
-    <beer_description>This sour pack contains: - Elmeleven - Planet 2 (PULP) - Elmeleven - Starfield Project (PULP • w. Vault City) - Sudden Death Brewing Co. - Doggo´s Delight - Browar Stu Mostów - X Anniversary 5/10 Pastry Sour</beer_description>
-    <beer_style>Sour</beer_style>
-    <beer_abv>5 - 6%</beer_abv>
-    <beer_volume>4x440 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <date_best_before>2025-08-10</date_best_before>
-    <beer_package_count>4</beer_package_count>
-    <beer_bundle>1</beer_bundle>
-    <bundle_skus>6121787,6121788,6220978,6127067</bundle_skus>
   </item>
   <item>
     <id>4977403</id>
@@ -3881,24 +3842,6 @@
     <brewery_country>Finland</brewery_country>
     <date_best_before>01/2026</date_best_before>
     <untappd_id>6249191</untappd_id>
-  </item>
-  <item>
-    <id>6254502</id>
-    <ecommerce_id>752199795</ecommerce_id>
-    <title>The Alchemist</title>
-    <url>https://hopincraftbier.be/products/factory-brewing-the-alchemist</url>
-    <price>3.63</price>
-    <brewery_name>Factory Brewing</brewery_name>
-    <regular_price>7.25</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4929092708.png</image>
-    <beer_description>A Hazy IPA with Citra, Motueka &amp; NZ Cascade. We brewed Alchemy some months ago, a collab with Track Brewing. With The Alchemist, I continued with the same base but added NZ Cascade to bring a bit of difference to an already great recipe. Super soft mouthfeel with our banging hop saturation. Citra, Motueka, and NZ Cascade bring all the best fresh, bright fruits to the table. Creamy lime, juicy mango, and refreshing grapefruit are the main aromas I find here. Head Brewer Jirka Ordén Factory Brewing - The Alchemist</beer_description>
-    <beer_style>IPA - New England / Hazy</beer_style>
-    <beer_abv>7.3%</beer_abv>
-    <beer_volume>440 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Finland</brewery_country>
-    <date_best_before>12/2025</date_best_before>
-    <untappd_id>6254502</untappd_id>
   </item>
   <item>
     <id>6249190</id>
@@ -6021,6 +5964,6 @@
     <brewery_country>The Netherlands</brewery_country>
     <date_best_before>2027-01-21</date_best_before>
   </item>
-  <timestamp>1765187401</timestamp>
-  <gen_date>08/12/2025 10:50:01</gen_date>
+  <timestamp>1765193405</timestamp>
+  <gen_date>08/12/2025 12:30:05</gen_date>
 </feed>
