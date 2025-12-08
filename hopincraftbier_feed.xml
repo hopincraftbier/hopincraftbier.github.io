@@ -5,6 +5,66 @@
   <link>https://hopincraftbier.be/products&lt;/link&gt;</link>
   <description>Hop In Craftbier Products feed</description>
   <item>
+    <id>966</id>
+    <ecommerce_id>801021372</ecommerce_id>
+    <title>Other Half Pack 3</title>
+    <url>https://hopincraftbier.be/products/other-half-pack-3</url>
+    <price>21.64</price>
+    <brewery_name>Other Half Brewing Co.</brewery_name>
+    <regular_price>30.91</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5439010313.png</image>
+    <beer_description>The Other Half Pack 3 pack contains: - Dream In Green - lACEd In Space - Stacks On Stacks: Southern Hemisphere</beer_description>
+    <beer_style>IPA</beer_style>
+    <beer_abv>6 - 8%</beer_abv>
+    <beer_volume>3x473 ml</beer_volume>
+    <beer_package>blik</beer_package>
+    <brewery_country>Verenigde Staten</brewery_country>
+    <date_canned>2025-03-13</date_canned>
+    <beer_package_count>3</beer_package_count>
+    <beer_bundle>1</beer_bundle>
+    <bundle_skus>2123391,3766089,3958788</bundle_skus>
+  </item>
+  <item>
+    <id>967</id>
+    <ecommerce_id>801017683</ecommerce_id>
+    <title>Other Half Pack 2</title>
+    <url>https://hopincraftbier.be/products/other-half-pack-2</url>
+    <price>21.5</price>
+    <brewery_name>Other Half Brewing Co.</brewery_name>
+    <regular_price>30.71</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5438989832.png</image>
+    <beer_description>The Other Half Pack 2 pack contains: - Big Nectaron Vibes - Gouda - Ticker Shock</beer_description>
+    <beer_style>IPA</beer_style>
+    <beer_abv>6 - 8%</beer_abv>
+    <beer_volume>3x473 ml</beer_volume>
+    <beer_package>blik</beer_package>
+    <brewery_country>Verenigde Staten</brewery_country>
+    <date_canned>2025-03-10</date_canned>
+    <beer_package_count>3</beer_package_count>
+    <beer_bundle>1</beer_bundle>
+    <bundle_skus>4307974,4807854,5781449</bundle_skus>
+  </item>
+  <item>
+    <id>968</id>
+    <ecommerce_id>801021757</ecommerce_id>
+    <title>Other Half Pack 1</title>
+    <url>https://hopincraftbier.be/products/other-half-pack-1</url>
+    <price>21.36</price>
+    <brewery_name>Other Half Brewing Co.</brewery_name>
+    <regular_price>30.51</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5438970764.png</image>
+    <beer_description>The Other Half Pack 1 pack contains: - Hop Duos! - Nelson + Mosaic - Cheddar - Juice Collector</beer_description>
+    <beer_style>IPA</beer_style>
+    <beer_abv>6 - 8%</beer_abv>
+    <beer_volume>3x473 ml</beer_volume>
+    <beer_package>blik</beer_package>
+    <brewery_country>Verenigde Staten</brewery_country>
+    <date_canned>2025-03-06</date_canned>
+    <beer_package_count>3</beer_package_count>
+    <beer_bundle>1</beer_bundle>
+    <bundle_skus>5944204,4639781,2073529</bundle_skus>
+  </item>
+  <item>
     <id>969</id>
     <ecommerce_id>801005459</ecommerce_id>
     <title>Factory Brewing Pack</title>
@@ -5961,6 +6021,6 @@
     <brewery_country>The Netherlands</brewery_country>
     <date_best_before>2027-01-21</date_best_before>
   </item>
-  <timestamp>1765135805</timestamp>
-  <gen_date>07/12/2025 20:30:05</gen_date>
+  <timestamp>1765187401</timestamp>
+  <gen_date>08/12/2025 10:50:01</gen_date>
 </feed>
