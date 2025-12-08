@@ -4834,7 +4834,7 @@
     <price>4.61</price>
     <brewery_name>FUERST WIACEK Berlin</brewery_name>
     <regular_price>6.14</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4914168513.png</image>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5441568034.png</image>
     <beer_description>Dry hopped IPA with Citra, Motueka &amp; Galaxy. FUERST WIACEK Berlin - Melody</beer_description>
     <beer_style>IPA - New England / Hazy</beer_style>
     <beer_abv>6.2%</beer_abv>
@@ -4870,7 +4870,7 @@
     <price>5.25</price>
     <brewery_name>FUERST WIACEK Berlin</brewery_name>
     <regular_price>7</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4874380927.png</image>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5441568064.png</image>
     <beer_description>DDH DIPA – Dry hopped with Galaxy &amp; Simcoe. - FUERST WIACEK Berlin - Feral (2025)</beer_description>
     <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
     <beer_abv>8%</beer_abv>
@@ -4888,7 +4888,7 @@
     <price>4.61</price>
     <brewery_name>FUERST WIACEK Berlin</brewery_name>
     <regular_price>6.15</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4874367432.png</image>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5441566319.png</image>
     <beer_description>IPA – Dry hopped with Citra, Mosaic &amp; Galaxy. - FUERST WIACEK Berlin - Soft Focus</beer_description>
     <beer_style>IPA - New England / Hazy</beer_style>
     <beer_abv>6.2%</beer_abv>
@@ -4906,7 +4906,7 @@
     <price>4.85</price>
     <brewery_name>FUERST WIACEK Berlin</brewery_name>
     <regular_price>6.47</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4874378897.png</image>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5441568076.png</image>
     <beer_description>DDH IPA – Dry hopped with Mosaic &amp; Talus. - FUERST WIACEK Berlin - Chin Music 2025</beer_description>
     <beer_style>IPA - New England / Hazy</beer_style>
     <beer_abv>6.8%</beer_abv>
@@ -5984,6 +5984,6 @@
     <brewery_country>The Netherlands</brewery_country>
     <date_best_before>2027-01-21</date_best_before>
   </item>
-  <timestamp>1765212305</timestamp>
-  <gen_date>08/12/2025 17:45:05</gen_date>
+  <timestamp>1765213205</timestamp>
+  <gen_date>08/12/2025 18:00:05</gen_date>
 </feed>
