@@ -1518,26 +1518,6 @@
     <untappd_id>6415131</untappd_id>
   </item>
   <item>
-    <id>979</id>
-    <ecommerce_id>782350599</ecommerce_id>
-    <title>IPA Pack</title>
-    <url>https://hopincraftbier.be/products/arpus-brewing-co-ipa-pack</url>
-    <price>9.43</price>
-    <brewery_name>Ārpus Brewing Co.</brewery_name>
-    <regular_price>18.85</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5170357393.webp</image>
-    <beer_description>The Ārpus Brewing pack consists of: - Ārpus X Brasserie Popihn Imperial Cascadian Dark Ale - TDH Riwaka X Galaxy DIPA - Ārpus X Factory Quintuple Dry Hopped Motueka X Nelson Sauvin QIPA Arpus Brewing Co. - Arpus Brewing Co. - IPA Pack</beer_description>
-    <beer_style>IPA</beer_style>
-    <beer_abv>8 - 10.5%</beer_abv>
-    <beer_volume>3x440 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Latvia</brewery_country>
-    <date_best_before>2026-02-28</date_best_before>
-    <beer_package_count>3</beer_package_count>
-    <beer_bundle>1</beer_bundle>
-    <bundle_skus>6210032,6178075,6178076</bundle_skus>
-  </item>
-  <item>
     <id>981</id>
     <ecommerce_id>782303683</ecommerce_id>
     <title>Pack</title>
@@ -1556,46 +1536,6 @@
     <beer_package_count>3</beer_package_count>
     <beer_bundle>1</beer_bundle>
     <bundle_skus>6117115,5995080,5847902</bundle_skus>
-  </item>
-  <item>
-    <id>982</id>
-    <ecommerce_id>782300910</ecommerce_id>
-    <title>IPA Pack</title>
-    <url>https://hopincraftbier.be/products/tin-barn-brewing-ipa-pack</url>
-    <price>17.95</price>
-    <brewery_name>Tin Barn Brewing</brewery_name>
-    <regular_price>35.9</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5170202250.webp</image>
-    <beer_description>The Tin Barn Brewing pack consists of: - Orange Party - Citra Kong - Barn Snake</beer_description>
-    <beer_style>IPA</beer_style>
-    <beer_abv>7.7 - 9.4%</beer_abv>
-    <beer_volume>3x473 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>United States</brewery_country>
-    <date_canned>2025-03-07</date_canned>
-    <beer_package_count>3</beer_package_count>
-    <beer_bundle>1</beer_bundle>
-    <bundle_skus>6181312,5980860,5002537</bundle_skus>
-  </item>
-  <item>
-    <id>983</id>
-    <ecommerce_id>782303625</ecommerce_id>
-    <title>IPA Pack</title>
-    <url>https://hopincraftbier.be/products/wood-brothers-brewing-co-ipa-pack</url>
-    <price>21.67</price>
-    <brewery_name>Wood Brothers Brewing Co.</brewery_name>
-    <regular_price>43.34</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5170146143.webp</image>
-    <beer_description>The Wood Brothers Brewing pack consists of: - Neca-Tron (2025) - Thistle Dew - Holy Hazel - Blind Fog</beer_description>
-    <beer_style>IPA</beer_style>
-    <beer_abv>6.5 - 9%</beer_abv>
-    <beer_volume>4x473 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Canada</brewery_country>
-    <date_canned>2025-03-26</date_canned>
-    <beer_package_count>4</beer_package_count>
-    <beer_bundle>1</beer_bundle>
-    <bundle_skus>6205524,6208805,4033335,4570140</bundle_skus>
   </item>
   <item>
     <id>6406320</id>
@@ -2954,26 +2894,6 @@
     <brewery_country>Finland</brewery_country>
     <date_best_before>Eind 04/2026</date_best_before>
     <untappd_id>6341263</untappd_id>
-  </item>
-  <item>
-    <id>993</id>
-    <ecommerce_id>765663503</ecommerce_id>
-    <title>Oso Brew Co Pack</title>
-    <url>https://hopincraftbier.be/products/oso-brew-co-pack</url>
-    <price>9.7</price>
-    <brewery_name>Oso Brew Co</brewery_name>
-    <regular_price>19.39</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5035214366.webp</image>
-    <beer_description>The Oso Brew Co pack contains: - Blame Culture - 60KG Cashmere - 60KG Strata</beer_description>
-    <beer_style>IPA - New England / Hazy</beer_style>
-    <beer_abv>6 - 6.8%</beer_abv>
-    <beer_volume>3x440 ml</beer_volume>
-    <beer_package>blik</beer_package>
-    <brewery_country>Spain</brewery_country>
-    <date_best_before>2026-01-20</date_best_before>
-    <beer_package_count>3</beer_package_count>
-    <beer_bundle>1</beer_bundle>
-    <bundle_skus>6137396,6172982,6172980</bundle_skus>
   </item>
   <item>
     <id>6293352</id>
@@ -5984,6 +5904,6 @@
     <brewery_country>The Netherlands</brewery_country>
     <date_best_before>2027-01-21</date_best_before>
   </item>
-  <timestamp>1765213205</timestamp>
-  <gen_date>08/12/2025 18:00:05</gen_date>
+  <timestamp>1765307706</timestamp>
+  <gen_date>09/12/2025 20:15:06</gen_date>
 </feed>
