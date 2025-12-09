@@ -3227,24 +3227,6 @@
     <untappd_id>5571412</untappd_id>
   </item>
   <item>
-    <id>6291421</id>
-    <ecommerce_id>758587302</ecommerce_id>
-    <title>9 Years: Journey To Hades</title>
-    <url>https://hopincraftbier.be/products/moersleutel-craft-brewery-9-years-journey-to-hades</url>
-    <price>5.63</price>
-    <brewery_name>Moersleutel Craft Brewery</brewery_name>
-    <regular_price>7.51</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4972515071.webp</image>
-    <beer_description>A trip to the underworld has never been this tropical. Journey to Hades is a bold TIPA bursting with flavors of passionfruit, lemon zest, and tangerine. Brewed with Riwaka in T90, Cryo, and Amplifire Oil, plus Idaho-7 and Citra in T90, Cryo, and hop oil extract form. Riwaka stands out with its intense passionfruit and citrus punch – truly breathtaking. The Amplifire Oil is made from ultra-fresh Riwaka hops, processed into oil the same day they're picked. You can’t get any fresher than that. Double mashed and packed with character. Over the top? Absolutely. But above all: seriously delicious. Moersleutel Craft Brewery - 9 Years: Journey To Hades</beer_description>
-    <beer_style>IPA - Triple</beer_style>
-    <beer_abv>9%</beer_abv>
-    <beer_volume>440 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>The Netherlands</brewery_country>
-    <date_best_before>2026-05-28</date_best_before>
-    <untappd_id>6291421</untappd_id>
-  </item>
-  <item>
     <id>6291425</id>
     <ecommerce_id>758587301</ecommerce_id>
     <title>9 Years: Return To Ithaca</title>
@@ -4837,24 +4819,6 @@
     <untappd_id>6223449</untappd_id>
   </item>
   <item>
-    <id>6210907</id>
-    <ecommerce_id>743669895</ecommerce_id>
-    <title>Shalala</title>
-    <url>https://hopincraftbier.be/products/fuerst-wiacek-berlin-shalala</url>
-    <price>4.85</price>
-    <brewery_name>FUERST WIACEK Berlin</brewery_name>
-    <regular_price>6.47</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4874378911.png</image>
-    <beer_description>DDH IPA – Dry hopped with Citra, Krush &amp; Nelson Sauvin. Canned On: 01. Apr. 2025 - FUERST WIACEK Berlin - Shalala</beer_description>
-    <beer_style>IPA - New England / Hazy</beer_style>
-    <beer_abv>6.8%</beer_abv>
-    <beer_volume>440 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Germany</brewery_country>
-    <date_best_before>2025-12-31</date_best_before>
-    <untappd_id>6210907</untappd_id>
-  </item>
-  <item>
     <id>6189849</id>
     <ecommerce_id>743661489</ecommerce_id>
     <title>CHONK: Dark Cherry</title>
@@ -5081,23 +5045,6 @@
     <date_best_before>2027-08-27</date_best_before>
   </item>
   <item>
-    <id>6172980</id>
-    <ecommerce_id>738474834</ecommerce_id>
-    <title>60KG Strata</title>
-    <url>https://hopincraftbier.be/products/oso-brew-co-60kg-strata</url>
-    <price>3.33</price>
-    <brewery_name>Oso Brew Co</brewery_name>
-    <regular_price>6.65</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4842126879.png</image>
-    <beer_description>Our new Single Hop NEIPA series focuses on single-varietal varieties. In this edition, 60kg of dry-hopped Strata delivers an explosion of stone fruit, grapefruit, and a touch of fresh herbs. It's all rounded out by a silky, crisp body. -</beer_description>
-    <beer_style>IPA - New England / Hazy</beer_style>
-    <beer_abv>6.8%</beer_abv>
-    <beer_volume>440 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Spain</brewery_country>
-    <date_best_before>2026-02-24</date_best_before>
-  </item>
-  <item>
     <id>6172982</id>
     <ecommerce_id>738474831</ecommerce_id>
     <title>60KG Cashmere</title>
@@ -5299,23 +5246,6 @@
     <beer_package>can</beer_package>
     <brewery_country>Sweden</brewery_country>
     <date_best_before>2026-01-03</date_best_before>
-  </item>
-  <item>
-    <id>6178076</id>
-    <ecommerce_id>738466944</ecommerce_id>
-    <title>Ārpus X Factory Quintuple Dry Hopped Motueka X Nelson Sauvin QIPA</title>
-    <url>https://hopincraftbier.be/products/arpus-brewing-co-arpus-x-factory-quintuple-dry-hopped-motueka-x-nelson-sauvin-qipa</url>
-    <price>5.08</price>
-    <brewery_name>Ārpus Brewing Co.</brewery_name>
-    <regular_price>6.77</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4840941517.png</image>
-    <beer_description>This Quadruple IPA is an absolute hop bomb, packed with five rounds of dry hopping for maximum aroma and flavor. Motueka brings bright lime zest and tropical fruit, while Nelson Sauvin delivers intense white grape, gooseberry, and dank complexity. Thick, juicy, and bursting with hops – this is big, bold, and unforgettable! -</beer_description>
-    <beer_style>IPA - Quadruple</beer_style>
-    <beer_abv>10.5%</beer_abv>
-    <beer_volume>440 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Latvia</brewery_country>
-    <date_best_before>2026-02-28</date_best_before>
   </item>
   <item>
     <id>6102160</id>
@@ -5904,6 +5834,6 @@
     <brewery_country>The Netherlands</brewery_country>
     <date_best_before>2027-01-21</date_best_before>
   </item>
-  <timestamp>1765307706</timestamp>
-  <gen_date>09/12/2025 20:15:06</gen_date>
+  <timestamp>1765313105</timestamp>
+  <gen_date>09/12/2025 21:45:05</gen_date>
 </feed>
