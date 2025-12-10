@@ -1538,6 +1538,26 @@
     <bundle_skus>6117115,5995080,5847902</bundle_skus>
   </item>
   <item>
+    <id>983</id>
+    <ecommerce_id>782303625</ecommerce_id>
+    <title>IPA Pack</title>
+    <url>https://hopincraftbier.be/products/wood-brothers-brewing-co-ipa-pack</url>
+    <price>32.51</price>
+    <brewery_name>Wood Brothers Brewing Co.</brewery_name>
+    <regular_price>43.34</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5170146143.webp</image>
+    <beer_description>The Wood Brothers Brewing pack consists of: - Neca-Tron (2025) - Thistle Dew - Holy Hazel - Blind Fog</beer_description>
+    <beer_style>IPA</beer_style>
+    <beer_abv>6.5 - 9%</beer_abv>
+    <beer_volume>4x473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Canada</brewery_country>
+    <date_canned>2025-03-26</date_canned>
+    <beer_package_count>4</beer_package_count>
+    <beer_bundle>1</beer_bundle>
+    <bundle_skus>6205524,6208805,4033335,4570140</bundle_skus>
+  </item>
+  <item>
     <id>6406320</id>
     <ecommerce_id>781533751</ecommerce_id>
     <title>Ever Juice</title>
@@ -4996,22 +5016,6 @@
     <date_canned>2025-03-28</date_canned>
   </item>
   <item>
-    <id>6208805</id>
-    <ecommerce_id>738803011</ecommerce_id>
-    <title>Thistle Dew</title>
-    <url>https://hopincraftbier.be/products/wood-brothers-brewing-co-thistle-dew</url>
-    <price>7.54</price>
-    <brewery_name>Wood Brothers Brewing Co.</brewery_name>
-    <regular_price>10.05</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4933610886.png</image>
-    <beer_description>West coast IPA. Cascade, Centennial ans Simcoe hops. - Wood Brothers Brewing Co. - Thistle Dew</beer_description>
-    <beer_style>IPA - American</beer_style>
-    <beer_abv>7.5%</beer_abv>
-    <beer_volume>473 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Canada</brewery_country>
-  </item>
-  <item>
     <id>6204470</id>
     <ecommerce_id>738817001</ecommerce_id>
     <title>Faire Le Vide</title>
@@ -5367,23 +5371,6 @@
     <date_canned>2025-03-24</date_canned>
   </item>
   <item>
-    <id>4033335</id>
-    <ecommerce_id>735435485</ecommerce_id>
-    <title>Holy Hazel</title>
-    <url>https://hopincraftbier.be/products/wood-brothers-brewing-co-holy-hazel</url>
-    <price>8.46</price>
-    <brewery_name>Wood Brothers Brewing Co.</brewery_name>
-    <regular_price>11.28</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4842377084.png</image>
-    <beer_description>DIPA brewed with Citra, Motueka &amp; Nelson Sauvin hops -</beer_description>
-    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
-    <beer_abv>8%</beer_abv>
-    <beer_volume>473 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Canada</brewery_country>
-    <date_canned>2025-04-02</date_canned>
-  </item>
-  <item>
     <id>4785691</id>
     <ecommerce_id>735435932</ecommerce_id>
     <title>Moist Green Organic</title>
@@ -5582,23 +5569,6 @@
     <beer_package>can</beer_package>
     <brewery_country>United States</brewery_country>
     <date_canned>2025-04-07</date_canned>
-  </item>
-  <item>
-    <id>6205524</id>
-    <ecommerce_id>735452030</ecommerce_id>
-    <title>Neca-Tron (2025)</title>
-    <url>https://hopincraftbier.be/products/wood-brothers-brewing-co-neca-tron-2025</url>
-    <price>7.79</price>
-    <brewery_name>Wood Brothers Brewing Co.</brewery_name>
-    <regular_price>10.39</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4933614968.png</image>
-    <beer_description>Brewed with Nectaron and Riwaka -</beer_description>
-    <beer_style>IPA - New England / Hazy</beer_style>
-    <beer_abv>6.5%</beer_abv>
-    <beer_volume>473 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Canada</brewery_country>
-    <date_canned>2025-03-26</date_canned>
   </item>
   <item>
     <id>4570140</id>
@@ -5834,6 +5804,6 @@
     <brewery_country>The Netherlands</brewery_country>
     <date_best_before>2027-01-21</date_best_before>
   </item>
-  <timestamp>1765313105</timestamp>
-  <gen_date>09/12/2025 21:45:05</gen_date>
+  <timestamp>1765358105</timestamp>
+  <gen_date>10/12/2025 10:15:05</gen_date>
 </feed>
