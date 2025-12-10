@@ -5,6 +5,54 @@
   <link>https://hopincraftbier.be/products&lt;/link&gt;</link>
   <description>Hop In Craftbier Products feed</description>
   <item>
+    <id>6500393</id>
+    <ecommerce_id>801905584</ecommerce_id>
+    <title>Gauntlet</title>
+    <url>https://hopincraftbier.be/products/sofia-electric-brewing-gauntlet</url>
+    <price>10.71</price>
+    <brewery_name>Sofia Electric Brewing</brewery_name>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5447118796.png</image>
+    <beer_description>Imperial stout aged in PX cask Whisky and Brandy Barrels for 23 Months. Sofia Electric Brewing - Gauntlet</beer_description>
+    <beer_style>Stout - Imperial / Double</beer_style>
+    <beer_abv>13.4%</beer_abv>
+    <beer_volume>330 ml</beer_volume>
+    <beer_package>bottle</beer_package>
+    <brewery_country>Bulgaria</brewery_country>
+    <untappd_id>6500393</untappd_id>
+  </item>
+  <item>
+    <id>6432174</id>
+    <ecommerce_id>801905358</ecommerce_id>
+    <title>Copperhead</title>
+    <url>https://hopincraftbier.be/products/sofia-electric-brewing-copperhead</url>
+    <price>10.34</price>
+    <brewery_name>Sofia Electric Brewing</brewery_name>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5447114054.png</image>
+    <beer_description>New brewers reserve blend and first for the season! Introducing 'Copperhead' a 15% whisky barrel aged strong ale. It is a blended barley wine and Imperial stout, which was aged for just under 2 years in whisky barrels. The result is a decadent, complex beer incorporating all the benefits from whisky, oak and a imperial stout/ Barleywine blend . Please store at cellar temps, наздраве! Sofia Electric Brewing - Copperhead</beer_description>
+    <beer_style>Strong Ale - American</beer_style>
+    <beer_abv>15%</beer_abv>
+    <beer_volume>330 ml</beer_volume>
+    <beer_package>bottle</beer_package>
+    <brewery_country>Bulgaria</brewery_country>
+    <untappd_id>6432174</untappd_id>
+  </item>
+  <item>
+    <id>6454681</id>
+    <ecommerce_id>801905583</ecommerce_id>
+    <title>Atavistic Beast</title>
+    <url>https://hopincraftbier.be/products/sofia-electric-brewing-atavistic-beast</url>
+    <price>5.62</price>
+    <brewery_name>Sofia Electric Brewing</brewery_name>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5447116806.png</image>
+    <beer_description>Single Malt Barley wine, boiled for over 10 hours. Toffee, caramel, fruit cake, stewed fruits dominate in the flavour Sofia Electric Brewing - Atavistic Beast</beer_description>
+    <beer_style>Barleywine - Other</beer_style>
+    <beer_abv>11.2%</beer_abv>
+    <beer_volume>330 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Bulgaria</brewery_country>
+    <untappd_id>6454681</untappd_id>
+  </item>
+  <item>
     <id>965</id>
     <ecommerce_id>801257164</ecommerce_id>
     <title>FUERST WIACEK Berlin Pack</title>
@@ -5787,6 +5835,6 @@
     <brewery_country>The Netherlands</brewery_country>
     <date_best_before>2027-01-21</date_best_before>
   </item>
-  <timestamp>1765369806</timestamp>
-  <gen_date>10/12/2025 13:30:06</gen_date>
+  <timestamp>1765373951</timestamp>
+  <gen_date>10/12/2025 14:39:11</gen_date>
 </feed>
