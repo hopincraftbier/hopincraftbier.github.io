@@ -1542,7 +1542,7 @@
     <ecommerce_id>782303625</ecommerce_id>
     <title>IPA Pack</title>
     <url>https://hopincraftbier.be/products/wood-brothers-brewing-co-ipa-pack</url>
-    <price>32.51</price>
+    <price>30.34</price>
     <brewery_name>Wood Brothers Brewing Co.</brewery_name>
     <regular_price>43.34</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5170146143.webp</image>
@@ -5804,6 +5804,6 @@
     <brewery_country>The Netherlands</brewery_country>
     <date_best_before>2027-01-21</date_best_before>
   </item>
-  <timestamp>1765358105</timestamp>
-  <gen_date>10/12/2025 10:15:05</gen_date>
+  <timestamp>1765359005</timestamp>
+  <gen_date>10/12/2025 10:30:05</gen_date>
 </feed>
