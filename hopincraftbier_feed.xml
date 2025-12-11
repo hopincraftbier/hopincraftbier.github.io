@@ -1605,6 +1605,26 @@
     <bundle_skus>6117115,5995080,5847902</bundle_skus>
   </item>
   <item>
+    <id>982</id>
+    <ecommerce_id>782300910</ecommerce_id>
+    <title>IPA Pack</title>
+    <url>https://hopincraftbier.be/products/tin-barn-brewing-ipa-pack</url>
+    <price>24.98</price>
+    <brewery_name>Tin Barn Brewing</brewery_name>
+    <regular_price>35.9</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5170202250.webp</image>
+    <beer_description>The Tin Barn Brewing pack consists of: - Orange Party - Citra Kong - Barn Snake</beer_description>
+    <beer_style>IPA</beer_style>
+    <beer_abv>7.7 - 9.4%</beer_abv>
+    <beer_volume>3x473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>United States</brewery_country>
+    <date_canned>2025-03-07</date_canned>
+    <beer_package_count>3</beer_package_count>
+    <beer_bundle>1</beer_bundle>
+    <bundle_skus>6181312,5980860,5002537</bundle_skus>
+  </item>
+  <item>
     <id>983</id>
     <ecommerce_id>782303625</ecommerce_id>
     <title>IPA Pack</title>
@@ -5703,23 +5723,6 @@
     <brewery_country>Canada</brewery_country>
   </item>
   <item>
-    <id>5980860</id>
-    <ecommerce_id>734051125</ecommerce_id>
-    <title>Citra Kong</title>
-    <url>https://hopincraftbier.be/products/tin-barn-brewing-citra-kong</url>
-    <price>8.98</price>
-    <brewery_name>Tin Barn Brewing</brewery_name>
-    <regular_price>11.97</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4932888254.png</image>
-    <beer_description>Citra Kong is the beast of the jungle, a Double New England IPA packed with ferocious flavor. Double dry hopped with Citra and Nectaron, it unleashes a wild burst of tropical fruit—mango, pineapple, and zesty citrus—through a thick, hazy pour. Its pillowy-soft mouthfeel belies the beastly hop intensity that follows, leaving a roaring finish that echoes like a king in the canopy. Drink with caution—Citra Kong reigns supreme. -</beer_description>
-    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
-    <beer_abv>8.6%</beer_abv>
-    <beer_volume>473 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>United States</brewery_country>
-    <date_canned>2025-03-27</date_canned>
-  </item>
-  <item>
     <id>6186985</id>
     <ecommerce_id>734050895</ecommerce_id>
     <title>Sous Pression</title>
@@ -5787,23 +5790,6 @@
     <brewery_country>United States</brewery_country>
   </item>
   <item>
-    <id>6181312</id>
-    <ecommerce_id>734051347</ecommerce_id>
-    <title>Orange Party</title>
-    <url>https://hopincraftbier.be/products/tin-barn-brewing-orange-party</url>
-    <price>8.72</price>
-    <brewery_name>Tin Barn Brewing</brewery_name>
-    <regular_price>11.62</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4932860326.png</image>
-    <beer_description>This hazy, juice-packed New England IPA was hopped with Citra, Alora, and Superdelic. It bursts with zesty orange and ripe tropical fruit like a cannonball into a glass of fresh juice. Jump in—the party’s just getting started! ? - 4.01 / 20</beer_description>
-    <beer_style>IPA - New England / Hazy</beer_style>
-    <beer_abv>7.7%</beer_abv>
-    <beer_volume>473 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>United States</brewery_country>
-    <date_canned>2025-03-07</date_canned>
-  </item>
-  <item>
     <id>3898085</id>
     <ecommerce_id>734051595</ecommerce_id>
     <title>One Hunna : Galaxy</title>
@@ -5854,6 +5840,6 @@
     <brewery_country>The Netherlands</brewery_country>
     <date_best_before>2027-01-21</date_best_before>
   </item>
-  <timestamp>1765452605</timestamp>
-  <gen_date>11/12/2025 12:30:05</gen_date>
+  <timestamp>1765453108</timestamp>
+  <gen_date>11/12/2025 12:38:28</gen_date>
 </feed>
