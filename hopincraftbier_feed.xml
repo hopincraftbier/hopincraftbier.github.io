@@ -173,6 +173,25 @@
     <bundle_skus>4744499,4589206,6263928,6227368</bundle_skus>
   </item>
   <item>
+    <id>975</id>
+    <ecommerce_id>800983338</ecommerce_id>
+    <title>Tin Barn IPA Pack 2</title>
+    <url>https://hopincraftbier.be/products/tin-barn-ipa-pack-2</url>
+    <price>27.9</price>
+    <brewery_name>Tin Barn Brewing</brewery_name>
+    <regular_price>34.87</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5438312543.png</image>
+    <beer_description>The Tin Barn IPA Pack 2 contains: - Baby G.O.A.T. - Mosaic Monster - Be Kind, Rewind</beer_description>
+    <beer_style>IPA</beer_style>
+    <beer_abv>7 - 9%</beer_abv>
+    <beer_volume>3x473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>United States</brewery_country>
+    <beer_package_count>3</beer_package_count>
+    <beer_bundle>1</beer_bundle>
+    <bundle_skus>6242680,6242674,6257025</bundle_skus>
+  </item>
+  <item>
     <id>977</id>
     <ecommerce_id>800858177</ecommerce_id>
     <title>Nano Cinco IPA Pack</title>
@@ -5835,6 +5854,6 @@
     <brewery_country>The Netherlands</brewery_country>
     <date_best_before>2027-01-21</date_best_before>
   </item>
-  <timestamp>1765380605</timestamp>
-  <gen_date>10/12/2025 16:30:05</gen_date>
+  <timestamp>1765452605</timestamp>
+  <gen_date>11/12/2025 12:30:05</gen_date>
 </feed>
