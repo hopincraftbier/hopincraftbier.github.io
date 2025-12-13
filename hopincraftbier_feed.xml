@@ -2279,23 +2279,6 @@
     <untappd_id>4456656</untappd_id>
   </item>
   <item>
-    <id>2674794</id>
-    <ecommerce_id>777778663</ecommerce_id>
-    <title>Triple Citra Daydream</title>
-    <url>https://hopincraftbier.be/products/other-half-brewing-co-triple-citra-daydream</url>
-    <price>8.28</price>
-    <brewery_name>Other Half Brewing Co.</brewery_name>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5136087300.webp</image>
-    <beer_description>Oats, a hint of milk sugar and tons of Citra combine to make Citra hop candy. Other Half Brewing Co. - Triple Citra Daydream</beer_description>
-    <beer_style>IPA - Triple New England / Hazy</beer_style>
-    <beer_abv>10.5%</beer_abv>
-    <beer_volume>473 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>United States</brewery_country>
-    <date_canned>2025-05-16</date_canned>
-    <untappd_id>2674794</untappd_id>
-  </item>
-  <item>
     <id>2322089</id>
     <ecommerce_id>777779329</ecommerce_id>
     <title>All Green Everything</title>
@@ -5868,6 +5851,6 @@
     <date_best_before>2027-01-21</date_best_before>
     <untappd_id>6149227</untappd_id>
   </item>
-  <timestamp>1765476005</timestamp>
-  <gen_date>11/12/2025 19:00:05</gen_date>
+  <timestamp>1765590305</timestamp>
+  <gen_date>13/12/2025 02:45:05</gen_date>
 </feed>
