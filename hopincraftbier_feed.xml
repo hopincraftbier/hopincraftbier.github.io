@@ -194,6 +194,26 @@
     <bundle_skus>3705572,6228732,6229806</bundle_skus>
   </item>
   <item>
+    <id>973</id>
+    <ecommerce_id>800943249</ecommerce_id>
+    <title>Counterpart Brewing Pack</title>
+    <url>https://hopincraftbier.be/products/counterpart-brewing-pack</url>
+    <price>26.91</price>
+    <brewery_name>Counterpart Brewing</brewery_name>
+    <regular_price>33.64</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5438351307.png</image>
+    <beer_description>The Counterpart Brewing pack contains: - The World Is Mine - Double Drip (Motueka, Rakau, Peacharine, Southern Cross Hop Kief) - Shoot To Thrill</beer_description>
+    <beer_style>IPA</beer_style>
+    <beer_abv>6 - 10%</beer_abv>
+    <beer_volume>3x473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Canada</brewery_country>
+    <date_canned>2025-04-02</date_canned>
+    <beer_package_count>3</beer_package_count>
+    <beer_bundle>1</beer_bundle>
+    <bundle_skus>6214473,6259353,6231627</bundle_skus>
+  </item>
+  <item>
     <id>975</id>
     <ecommerce_id>800983338</ecommerce_id>
     <title>Tin Barn IPA Pack 2</title>
@@ -5872,6 +5892,6 @@
     <date_best_before>2027-01-21</date_best_before>
     <untappd_id>6149227</untappd_id>
   </item>
-  <timestamp>1765613130</timestamp>
-  <gen_date>13/12/2025 09:05:30</gen_date>
+  <timestamp>1765629906</timestamp>
+  <gen_date>13/12/2025 13:45:06</gen_date>
 </feed>
