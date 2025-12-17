@@ -5,6 +5,22 @@
   <link>https://hopincraftbier.be/products&lt;/link&gt;</link>
   <description>Hop In Craftbier Products feed</description>
   <item>
+    <id>6493222</id>
+    <ecommerce_id>803478791</ecommerce_id>
+    <title>Vetus Memoria - Vintage 2023</title>
+    <url>https://hopincraftbier.be/products/brasseria-della-fonte-vetus-memoria-vintage-2023</url>
+    <price>24.25</price>
+    <brewery_name>Brasseria Della Fonte</brewery_name>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5466498123.png</image>
+    <beer_description>"Old Ale," brewed in February 2023 with premium Italian and English malts, a generous addition of molasses, and fermentation using a specific strain for high alcohol content. Aged for 30 months in ex-Bourbon Old Forester barrels, it was bottled with minimal carbonation to offer a unique tasting experience. The barrel's potency frames the mellow notes of caramel, hazelnut, dried fruit, and syrup, which, combined with light oxidation, evolve the flavors of a fortified wine, Madeira/Port. The high alcohol content elevates the drink to a true experience, whose complexity continually evolves in the glass. Brasseria Della Fonte - Vetus Memoria - Vintage 2023</beer_description>
+    <beer_style>Old / Stock Ale</beer_style>
+    <beer_abv>14.4%</beer_abv>
+    <beer_volume>500 ml</beer_volume>
+    <beer_package>bottle</beer_package>
+    <brewery_country>Italy</brewery_country>
+    <untappd_id>6493222</untappd_id>
+  </item>
+  <item>
     <id>6496068</id>
     <ecommerce_id>803475769</ecommerce_id>
     <title>Notte Di Natale 2025 (Maple &amp; Irish Whiskey Barrel Aged)</title>
@@ -5924,6 +5940,6 @@
     <date_best_before>2027-01-21</date_best_before>
     <untappd_id>6149227</untappd_id>
   </item>
-  <timestamp>1765961326</timestamp>
-  <gen_date>17/12/2025 09:48:46</gen_date>
+  <timestamp>1765965450</timestamp>
+  <gen_date>17/12/2025 10:57:30</gen_date>
 </feed>
