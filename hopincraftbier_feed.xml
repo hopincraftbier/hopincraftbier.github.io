@@ -2639,23 +2639,6 @@
     <untappd_id>6271344</untappd_id>
   </item>
   <item>
-    <id>6177421</id>
-    <ecommerce_id>768809794</ecommerce_id>
-    <title>Solitude, Silence And Darkness 2025</title>
-    <url>https://hopincraftbier.be/products/brasseria-della-fonte-solitude-silence-and-darkness-2025</url>
-    <price>24.61</price>
-    <brewery_name>Brasseria Della Fonte</brewery_name>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5062244747.webp</image>
-    <beer_description>Double mash Imperial Stout brewed with maple syrup. Aged for 15 months in Bourbon barrels with vanilla sticks and infused coffee, then conditioned with Madagascar vanilla beans and barrel aged coffee. Brasseria Della Fonte - Solitude, Silence And Darkness 2025</beer_description>
-    <beer_style>Stout - Coffee</beer_style>
-    <beer_abv>12%</beer_abv>
-    <beer_volume>500 ml</beer_volume>
-    <beer_package>bottle</beer_package>
-    <brewery_country>Italy</brewery_country>
-    <date_canned>2025-02-15</date_canned>
-    <untappd_id>6177421</untappd_id>
-  </item>
-  <item>
     <id>3527025</id>
     <ecommerce_id>767352722</ecommerce_id>
     <title>Vertige</title>
@@ -3353,24 +3336,6 @@
     <brewery_country>The Netherlands</brewery_country>
     <date_best_before>2028-04-22</date_best_before>
     <untappd_id>6294931</untappd_id>
-  </item>
-  <item>
-    <id>6308977</id>
-    <ecommerce_id>760124308</ecommerce_id>
-    <title>9 Years: Confronting Suitors</title>
-    <url>https://hopincraftbier.be/products/moersleutel-craft-brewery-9-years-confronting-suitors</url>
-    <price>9.41</price>
-    <brewery_name>Moersleutel Craft Brewery</brewery_name>
-    <regular_price>12.55</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4984810987.webp</image>
-    <beer_description>This beer is the crown jewel of Moersleutel’s 9th anniversary series, the ultimate expression of luxury and complexity. We’ve pulled out all the stops for this non-adjunct barrel-aged stout. This beer has aged on two exceptional barrels. The first, originally used not for spirits but for high grade maple syrup, imparts a deep, salty sweetness that’s truly one of a kind. In contrast, the spicy, lightly smoky character of Sazerac Rye bourbon barrels adds depth. Together, they create a beer that’s both robust and refined, with a layered complexity that keeps surprising. Just as Odysseus returned to confront the suitors, this stout marks the grand finale of our 9-year brewing journey: powerful, intense, and unmistakably Moersleutel. Expect rich notes of salty maple, spicy rye whiskey, smoky oak, and a full-bodied finish that lingers. An epic finale to an epic anniversary celebration. Cheers Sleutelaars! Moersleutel Craft Brewery - 9 Years: Helios' Island</beer_description>
-    <beer_style>Stout - Imperial / Double</beer_style>
-    <beer_abv>11%</beer_abv>
-    <beer_volume>440 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>The Netherlands</brewery_country>
-    <date_best_before>2028-04-15</date_best_before>
-    <untappd_id>6308977</untappd_id>
   </item>
   <item>
     <id>5571412</id>
@@ -5940,6 +5905,6 @@
     <date_best_before>2027-01-21</date_best_before>
     <untappd_id>6149227</untappd_id>
   </item>
-  <timestamp>1765965450</timestamp>
-  <gen_date>17/12/2025 10:57:30</gen_date>
+  <timestamp>1766052905</timestamp>
+  <gen_date>18/12/2025 11:15:05</gen_date>
 </feed>
