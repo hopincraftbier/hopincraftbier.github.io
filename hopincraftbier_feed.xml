@@ -221,6 +221,26 @@
     <bundle_skus>4744499,4589206,6263928,6227368</bundle_skus>
   </item>
   <item>
+    <id>971</id>
+    <ecommerce_id>801005274</ecommerce_id>
+    <title>Equilibrium Brewery Pack</title>
+    <url>https://hopincraftbier.be/products/equilibrium-brewery-pack</url>
+    <price>24.18</price>
+    <brewery_name>Equilibrium Brewery</brewery_name>
+    <regular_price>30.23</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5438371427.png</image>
+    <beer_description>The Equilibrium Brewery pack contains: - MC3PO - The Juice Awakens - Straight Outta The Laboratory</beer_description>
+    <beer_style>IPA</beer_style>
+    <beer_abv>6 - 10%</beer_abv>
+    <beer_volume>3x473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>United States</brewery_country>
+    <date_canned>2025-04-29</date_canned>
+    <beer_package_count>3</beer_package_count>
+    <beer_bundle>1</beer_bundle>
+    <bundle_skus>6246517,2879668,6248503</bundle_skus>
+  </item>
+  <item>
     <id>972</id>
     <ecommerce_id>801005265</ecommerce_id>
     <title>Messorem IPA Pack</title>
@@ -5905,6 +5925,6 @@
     <date_best_before>2027-01-21</date_best_before>
     <untappd_id>6149227</untappd_id>
   </item>
-  <timestamp>1766052905</timestamp>
-  <gen_date>18/12/2025 11:15:05</gen_date>
+  <timestamp>1766067729</timestamp>
+  <gen_date>18/12/2025 15:22:09</gen_date>
 </feed>
