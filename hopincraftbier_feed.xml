@@ -282,6 +282,26 @@
     <bundle_skus>6214473,6259353,6231627</bundle_skus>
   </item>
   <item>
+    <id>974</id>
+    <ecommerce_id>800983350</ecommerce_id>
+    <title>Le Ketch IPA Pack</title>
+    <url>https://hopincraftbier.be/products/le-ketch-ipa-pack</url>
+    <price>28.56</price>
+    <brewery_name>Le Ketch</brewery_name>
+    <regular_price>35.7</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5438318483.png</image>
+    <beer_description>The Le Ketch pack contains: - Dock 111 - Citra, Cascade NZ, Motueka &amp; Pacifica - Dock 72 - Peacharine, Galaxy &amp; Nelson Sauvin (2025) - Dock 73 - NELSON SAUVIN, CITRA &amp; SOUTHERN CROSS (2025)</beer_description>
+    <beer_style>IPA</beer_style>
+    <beer_abv>6 - 10%</beer_abv>
+    <beer_volume>3x473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Canada</brewery_country>
+    <date_canned>2025-04-07</date_canned>
+    <beer_package_count>3</beer_package_count>
+    <beer_bundle>1</beer_bundle>
+    <bundle_skus>6205485,6166277,6205488</bundle_skus>
+  </item>
+  <item>
     <id>975</id>
     <ecommerce_id>800983338</ecommerce_id>
     <title>Tin Barn IPA Pack 2</title>
@@ -5925,6 +5945,6 @@
     <date_best_before>2027-01-21</date_best_before>
     <untappd_id>6149227</untappd_id>
   </item>
-  <timestamp>1766067729</timestamp>
-  <gen_date>18/12/2025 15:22:09</gen_date>
+  <timestamp>1766072833</timestamp>
+  <gen_date>18/12/2025 16:47:13</gen_date>
 </feed>
