@@ -672,22 +672,6 @@
     <untappd_id>6447624</untappd_id>
   </item>
   <item>
-    <id>6447638</id>
-    <ecommerce_id>793081889</ecommerce_id>
-    <title>Parasomnia: Maple Syrup BA Vanilla (2025, Yellow Wax)</title>
-    <url>https://hopincraftbier.be/products/hop-hooligans-parasomnia-maple-syrup-ba-vanilla-2025-yellow-wax</url>
-    <price>13.8</price>
-    <brewery_name>Hop Hooligans</brewery_name>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5326846088.png</image>
-    <beer_description>PARASOMNIA is a heavy one. We pushed it as high and thick as 44 plato, landing on a mesmerising 17% ABV, giving it more than one year to mellow out and enhance its aromatics on different barrels. A heavy sleeper, yet still whispering dark hymns through the darkness. MAPLE SYRUP BA VANILLA 2025 - drenched with rich, residual, nutty maple syrup, glazed with notes of condensed honey and resins, with fancy vanilla beans sweetening the deal even further Water, Malted barley, Oat flakes, Dextrose, Maltodextrin, Hops, Vanilla, Potassium Metabisulfite, Yeast Hop Hooligans - Parasomnia: Maple Syrup BA Vanilla (2025, Yellow Wax)</beer_description>
-    <beer_style>Stout - Imperial / Double</beer_style>
-    <beer_abv>17%</beer_abv>
-    <beer_volume>375 ml</beer_volume>
-    <beer_package>bottle</beer_package>
-    <brewery_country>Romania</brewery_country>
-    <untappd_id>6447638</untappd_id>
-  </item>
-  <item>
     <id>6447614</id>
     <ecommerce_id>793081888</ecommerce_id>
     <title>Parasomnia: Red Wine BA Cinnamon (2025, Red Wax)</title>
@@ -3417,42 +3401,6 @@
     <bundle_skus>6308977,6299163,6294931,6291430,6291425,6291421,6274029,6274026,6274022</bundle_skus>
   </item>
   <item>
-    <id>6299163</id>
-    <ecommerce_id>760115316</ecommerce_id>
-    <title>9 Years: Helios' Island</title>
-    <url>https://hopincraftbier.be/products/moersleutel-craft-brewery-9-years-helios-island</url>
-    <price>6.07</price>
-    <brewery_name>Moersleutel Craft Brewery</brewery_name>
-    <regular_price>8.09</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4984824502.webp</image>
-    <beer_description>A stout that takes you to the legendary island of Helios, where alluring flavors captivate you. This 11% mega stout combines tonka, muscovado, vanilla, and Colombian coffee and cacao for a rich, layered experience. With muscovado from Barbados, adding rich molasses, toffee, and lightly smoky notes, along with deep flavors of cacao, coffee, and caramel, this beer is full and complex. The Colombian cacao contributes hints of cocoa, citrus, dried fruit, and walnuts, while the coffee brings honeyed aromas and a touch of red berries. Tonka and vanilla add a subtle creaminess that perfectly balances the smoky and earthy notes. Seductive flavors that would even distract Odysseus from his quest. Moersleutel Craft Brewery - 9 Years: Helios' Island</beer_description>
-    <beer_style>Stout - Imperial / Double Pastry</beer_style>
-    <beer_abv>11%</beer_abv>
-    <beer_volume>440 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>The Netherlands</brewery_country>
-    <date_best_before>2026-05-06</date_best_before>
-    <untappd_id>6299163</untappd_id>
-  </item>
-  <item>
-    <id>6294931</id>
-    <ecommerce_id>760115315</ecommerce_id>
-    <title>9 Years: Calypso’s Temptation</title>
-    <url>https://hopincraftbier.be/products/moersleutel-craft-brewery-9-years-calypsos-temptation</url>
-    <price>9.41</price>
-    <brewery_name>Moersleutel Craft Brewery</brewery_name>
-    <regular_price>12.55</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4984813137.webp</image>
-    <beer_description>Everything about this beer is luxurious – from the carefully selected whiskey barrels to the rare vanilla. Seductive, extravagant, and irresistible. This stout was aged in three American whiskey barrels: Weller Wheated (sweet and smooth), Sazerac Rye (spicy, lightly smoky), and Heaven Hill (reliable and well-balanced). To complete the temptation, we added vanilla from Madagascar, Papua New Guinea, and rare beans from the Comoros Islands – offering rich, pastry-like depth with a hint of tobacco. Layers of creamy vanilla, warm whiskey notes, oak, and spice make this beer both complex and captivating. This stout is like Calypso herself: luxurious, enchanting, and nearly impossible to resist. Moersleutel Craft Brewery - 9 Years: Calypsos Temptation</beer_description>
-    <beer_style>Stout - Imperial / Double Pastry</beer_style>
-    <beer_abv>14%</beer_abv>
-    <beer_volume>440 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>The Netherlands</brewery_country>
-    <date_best_before>2028-04-22</date_best_before>
-    <untappd_id>6294931</untappd_id>
-  </item>
-  <item>
     <id>5571412</id>
     <ecommerce_id>758786191</ecommerce_id>
     <title>NECROPUNK (Ghost NECROPUNK)</title>
@@ -6002,24 +5950,6 @@
     <date_canned>2025-03-27</date_canned>
     <untappd_id>593083</untappd_id>
   </item>
-  <item>
-    <id>6149227</id>
-    <ecommerce_id>729805388</ecommerce_id>
-    <title>Pastry Factory: Pecan Pie</title>
-    <url>https://hopincraftbier.be/products/moersleutel-craft-brewery-pastry-factory-pecan-pie</url>
-    <price>6.18</price>
-    <brewery_name>Moersleutel Craft Brewery</brewery_name>
-    <regular_price>8.24</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4840907417.png</image>
-    <beer_description>Rich, indulgent stout with flavors of pecan, maple, and coffee. We used Ethiopian coffee with light roast to let the pecan and maple syrup shine. Blended with three grades of maple syrup, each adding its own depth of sweetness, and toasted pecans for a bold, aromatic finish. This stout is perfectly balanced, with the coffee providing just enough floral notes to complement the rich, nutty profile. Cheers -</beer_description>
-    <beer_style>Stout - Imperial / Double Pastry</beer_style>
-    <beer_abv>10%</beer_abv>
-    <beer_volume>440 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>The Netherlands</brewery_country>
-    <date_best_before>2027-01-21</date_best_before>
-    <untappd_id>6149227</untappd_id>
-  </item>
-  <timestamp>1766306704</timestamp>
-  <gen_date>21/12/2025 09:45:04</gen_date>
+  <timestamp>1766329205</timestamp>
+  <gen_date>21/12/2025 16:00:05</gen_date>
 </feed>
