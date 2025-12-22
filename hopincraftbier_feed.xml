@@ -1018,7 +1018,6 @@
     <beer_package>can</beer_package>
     <brewery_country>United States</brewery_country>
     <date_canned>2025-03-13</date_canned>
-    <beer_bundle>0</beer_bundle>
     <untappd_id>3766089</untappd_id>
   </item>
   <item>
@@ -6053,6 +6052,6 @@
     <date_canned>2025-03-27</date_canned>
     <untappd_id>593083</untappd_id>
   </item>
-  <timestamp>1766403989</timestamp>
-  <gen_date>22/12/2025 12:46:29</gen_date>
+  <timestamp>1766408405</timestamp>
+  <gen_date>22/12/2025 14:00:05</gen_date>
 </feed>
