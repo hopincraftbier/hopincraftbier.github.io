@@ -1,4 +1,4 @@
-console.log("HopInCraftbier custom js v5.95");
+console.log("HopInCraftbier custom js v6.00");
 let debug = false;
 let prodMode = true;
 
@@ -174,18 +174,36 @@ function processAttributes() {
                 const element = p.parentElement.getElementsByClassName('details-product-attribute__value').item(0);
                 let content = element.textContent.trim();
                 let link = "";
+                let newContent = "";
 
                 if (attribute === 'Brouwerij:' || attribute === 'Brewery:') {
-                    link = lng + '/products/' + content.toLowerCase().replaceAll('.', '').replaceAll(' ', '-');
+                    content.split(",").forEach((element) => {
+                        const link = lng + '/products/' + element.toLowerCase().replaceAll('.', '').replaceAll(' ', '-');
+                        if (newContent !== "") {
+                            newContent += ", ";
+                        }
+                        newContent += "<a href=\"" + link + "\" target=\"_blank\">" + element + "</a>";
+                    });
                 } else if (attribute === 'Type:') {
-                    link = lng + '/products/alle-bieren?attribute_Type=' + content.replaceAll(' ', '+');
+                    content.split(",").forEach((element) => {
+                        const link = lng + '/products/alle-bieren?attribute_Type=' + element.replaceAll(' ', '+');
+                        if (newContent !== "") {
+                            newContent += ", ";
+                        }
+                        newContent += "<a href=\"" + link + "\" target=\"_blank\">" + element + "</a>";
+                    });
                 } else if (attribute === 'Land:' || attribute === 'Country:') {
-                    // /alle-bieren?attribute_Land
-                    link = lng + '/products/alle-bieren?attribute_Land=' + content.replaceAll(' ', '+');
+                    content.split(",").forEach((element) => {
+                        // /alle-bieren?attribute_Land
+                        const link = lng + '/products/alle-bieren?attribute_Land=' + element.replaceAll(' ', '+');
+                        if (newContent !== "") {
+                            newContent += ", ";
+                        }
+                        newContent += "<a href=\"" + link + "\" target=\"_blank\">" + element + "</a>";
+                    });
                 }
 
                 let newElement = document.createElement('dum');
-                let newContent = "<a href=\"" + link + "\" target=\"_blank\">" + content + "</a>";
                 newElement.innerHTML = newContent; // escape html
                 if (element.innerHTML !== newElement.innerHTML) {
                     element.innerHTML = newContent;
