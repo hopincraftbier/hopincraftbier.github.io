@@ -1,4 +1,4 @@
-console.log("HopInCraftbier custom js v6.03");
+console.log("HopInCraftbier custom js v6.04");
 let debug = false;
 let prodMode = true;
 
@@ -178,7 +178,7 @@ function processAttributes() {
                 if (attribute === 'Brouwerij:' || attribute === 'Brewery:') {
                     log('Brouwerij: ' + content);
                     content.split(",").forEach((it) => {
-                        let link = lng + '/products/' + it.trim().toLowerCase().replaceAll("'", '').replaceAll('.', '').replaceAll(' ', '-');
+                        let link = lng + '/products/' + it.trim().toLowerCase().replaceAll("’", '').replaceAll('.', '').replaceAll(' ', '-');
                         log('Link: ' + link);
                         if (newContent !== "") {
                             newContent += ", ";
@@ -197,7 +197,7 @@ function processAttributes() {
                 } else if (attribute === 'Land:' || attribute === 'Country:') {
                     content.split(",").forEach((it) => {
                         // /alle-bieren?attribute_Land
-                        let link = lng + '/products/alle-bieren?attribute_Land=' + it.trim().replaceAll("'", '').replaceAll(' ', '+');
+                        let link = lng + '/products/alle-bieren?attribute_Land=' + it.trim().replaceAll("’", '').replaceAll(' ', '+');
                         if (newContent !== "") {
                             newContent += ", ";
                         }
