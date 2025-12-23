@@ -5,6 +5,44 @@
   <link>https://hopincraftbier.be/products&lt;/link&gt;</link>
   <description>Hop In Craftbier Products feed</description>
   <item>
+    <id>959</id>
+    <ecommerce_id>804410827</ecommerce_id>
+    <title>Mortalis Brewing Company Pack</title>
+    <url>https://hopincraftbier.be/products/mortalis-brewing-company-804410827</url>
+    <brewery_name>Mortalis Brewing Company</brewery_name>
+    <price>27.28</price>
+    <regular_price>38.97</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5478765651.png</image>
+    <beer_description>The Mortalis Brewing Company pack contains: - Hydra | Apricot + Mango + Raspberry - Hydra | Push Pop - Strange Philosophies 112</beer_description>
+    <beer_style>IPA - Sour</beer_style>
+    <beer_abv>7 - 8%</beer_abv>
+    <beer_volume>3x473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>United States</brewery_country>
+    <beer_package_count>3</beer_package_count>
+    <beer_bundle>1</beer_bundle>
+    <bundle_skus>3523256,6210906,6047751</bundle_skus>
+  </item>
+  <item>
+    <id>960</id>
+    <ecommerce_id>804438547</ecommerce_id>
+    <title>Adroit Theory Pack</title>
+    <url>https://hopincraftbier.be/products/adroit-theory-pack</url>
+    <brewery_name>Adroit Theory</brewery_name>
+    <price>29.75</price>
+    <regular_price>37.19</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5478754914.png</image>
+    <beer_description>The Adroit Theory Pack contains: - Now I Am Death, Destroyer of Worlds [White Label Edition] (Ghost NOW I AM DEATH) - NECROSYNTH (Ghost NECROSYNTH) - All That I Have Learned (Ghost 1587)</beer_description>
+    <beer_style>Stout - IPA</beer_style>
+    <beer_abv>10 - 16%</beer_abv>
+    <beer_volume>3x473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>United States</brewery_country>
+    <beer_package_count>3</beer_package_count>
+    <beer_bundle>1</beer_bundle>
+    <bundle_skus>6307962,5571398,5919609</bundle_skus>
+  </item>
+  <item>
     <id>961</id>
     <ecommerce_id>804324115</ecommerce_id>
     <title>Mix Brouwerij IPA Pack</title>
@@ -3748,7 +3786,7 @@
     <brewery_name>Adroit Theory</brewery_name>
     <price>9.83</price>
     <regular_price>11.56</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4983240755.webp</image>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5478765587.png</image>
     <beer_description>We say this is our "flagship Hazy Triple IPA", but we actually haven't made this since May 2023. We figured we needed to bring it back, and give it a special treatment. We love the classic BLACK label, but we have this WHITE variant that is a nice twist.⁠ ⁠ We gave this one the same hop saturation that we did for our Anniversary Version of EBK. Absolutely loaded with hop aroma, flavor + intensity. Opaque, pillowy + semi-sweet body; intensely juicy citrus flavor + aromas. ⁠ Double Dry-Hopped | Citra | El Dorado | Galaxy Adroit Theory - Now I Am Death, Destroyer of Worlds (Ghost DESTROYER)</beer_description>
     <beer_style>IPA - Triple New England / Hazy</beer_style>
     <beer_abv>10%</beer_abv>
@@ -4826,23 +4864,6 @@
     <untappd_id>6229806</untappd_id>
   </item>
   <item>
-    <id>5571398</id>
-    <ecommerce_id>751542504</ecommerce_id>
-    <title>NECROSYNTH (Ghost NECROSYNTH)</title>
-    <url>https://hopincraftbier.be/products/adroit-theory-necrosynth-ghost-necrosynth</url>
-    <brewery_name>Adroit Theory</brewery_name>
-    <price>9.88</price>
-    <regular_price>11.62</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4926576373.png</image>
-    <beer_description>We have never brewed a Quadruple Hazy before, but when our new friends from P.I.G.S. Brew Co. flew over from Greece we figured we should brew something epic! And what is more epic than a 11.5% Quadruple Hazy. Answer. Nothing! BOOM. Fellow metalheads collaborating on a HEAVY beer that checks all boxes! A two-part collaboration with sister-beer NECROPUNK. Adroit Theory - NECROSYNTH (Ghost NECROSYNTH)</beer_description>
-    <beer_style>IPA - Quadruple</beer_style>
-    <beer_abv>11.5%</beer_abv>
-    <beer_volume>473 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>United States</brewery_country>
-    <untappd_id>5571398</untappd_id>
-  </item>
-  <item>
     <id>6047751</id>
     <ecommerce_id>751529009</ecommerce_id>
     <title>Strange Philosophies 112</title>
@@ -4973,7 +4994,7 @@
     <url>https://hopincraftbier.be/products/adroit-theory-all-that-i-have-learned-ghost-1587</url>
     <brewery_name>Adroit Theory</brewery_name>
     <price>14.01</price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4926576174.png</image>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5478754940.png</image>
     <beer_description>We originally made this beer in the spring of 2021 + to say it was highly sought after would be, well, an understatement. A continuation of our recent concepts in Confessions, this one is as perfect a stout as we can craft. This high gravity stout is masterfully crafted to balance aromas and flavors of dark chocolate, caramel, and coffee with a subtle underlying booziness. Full bodied and slightly roasty.⁠ Adroit Theory - All That I Have Learned (Ghost 1587)</beer_description>
     <beer_style>Stout - Russian Imperial</beer_style>
     <beer_abv>16.66%</beer_abv>
@@ -6052,6 +6073,6 @@
     <date_canned>2025-03-27</date_canned>
     <untappd_id>593083</untappd_id>
   </item>
-  <timestamp>1766416504</timestamp>
-  <gen_date>22/12/2025 16:15:04</gen_date>
+  <timestamp>1766477705</timestamp>
+  <gen_date>23/12/2025 09:15:05</gen_date>
 </feed>
