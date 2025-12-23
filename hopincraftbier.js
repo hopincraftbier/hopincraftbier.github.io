@@ -1,4 +1,4 @@
-console.log("HopInCraftbier custom js v6.01");
+console.log("HopInCraftbier custom js v6.02");
 let debug = false;
 let prodMode = true;
 
@@ -148,6 +148,9 @@ function processStock() {
 }
 
 function processAttributes() {
+    if (!prodMode) {
+        return processNewAttributes();
+    }
     log('processAttributes');
     let preOrderTxt = "";
     let lng = "";
@@ -552,4 +555,84 @@ function log(txt) {
     if (debug) {
         console.log(txt);
     }
+}
+
+function processNewAttributes() {
+    log('processNewAttributes');
+    let preOrderTxt = "";
+    let lng = "";
+    if ('EN' === getCustomerLng()) {
+        lng = '/en';
+    }
+    document.querySelectorAll('span.details-product-attribute__title').forEach(function (p) {
+        if (p.textContent.startsWith('hide_')) {
+            p.parentElement.style.display = 'none';
+            if (p.textContent.trim() === 'hide_preorder:') {
+                let d = p.parentElement.childNodes[1]?.textContent;
+                if (d !== 'Uitverkocht' && d !== 'Sold out') {
+                    preOrderTxt = '<strong style="color:red;">PRE-ORDER</strong> ';
+                    if ('EN' === getCustomerLng()) {
+                        preOrderTxt += ('Expected: ' + d);
+                    } else {
+                        preOrderTxt += ('Verwacht: ' + d);
+                    }
+                }
+            }
+        } else {
+            const attribute = p.textContent.trim();
+            if (attribute === 'Brouwerij:' || attribute === 'Brewery:' || attribute === 'Type:' || attribute === 'Land:' || attribute === 'Country:') {
+                const element = p.parentElement.getElementsByClassName('details-product-attribute__value').item(0);
+                let content = element.textContent.trim();
+                let newContent = "";
+
+                if (attribute === 'Brouwerij:' || attribute === 'Brewery:') {
+                    console.log('Brouwerij: ' + content);
+                    content.split(",").forEach((it) => {
+                        let link = lng + '/products/' + it.trim().toLowerCase().replaceAll('.', '').replaceAll(' ', '-');
+                        console.log('Link: ' + link);
+                        if (newContent !== "") {
+                            newContent += ", ";
+                        }
+                        newContent += "<a href=\"" + link + "\" target=\"_blank\">" + it.trim() + "</a>";
+                    });
+                    console.log('newContent: ' + newContent);
+                    console.log(element.innerHTML);
+                } else if (attribute === 'Type:') {
+                    content.split(",").forEach((it) => {
+                        let link = lng + '/products/alle-bieren?attribute_Type=' + it.trim().replaceAll(' ', '+');
+                        if (newContent !== "") {
+                            newContent += ", ";
+                        }
+                        newContent += "<a href=\"" + link + "\" target=\"_blank\">" + it.trim() + "</a>";
+                    });
+                } else if (attribute === 'Land:' || attribute === 'Country:') {
+                    content.split(",").forEach((it) => {
+                        // /alle-bieren?attribute_Land
+                        let link = lng + '/products/alle-bieren?attribute_Land=' + it.trim().replaceAll(' ', '+');
+                        if (newContent !== "") {
+                            newContent += ", ";
+                        }
+                        newContent += "<a href=\"" + link + "\" target=\"_blank\">" + it.trim() + "</a>";
+                    });
+                }
+
+                let newElement = document.createElement('dum');
+                newElement.innerHTML = newContent; // escape html
+                if (element.innerHTML !== newElement.innerHTML) {
+                    console.log('Setting content');
+                    element.innerHTML = newContent;
+                }
+            }
+        }
+        const buttonTxtEl = document.querySelector('div.form-control--primary button.form-control__button span.form-control__button-text');
+        if (preOrderTxt !== "" && buttonTxtEl && buttonTxtEl.textContent !== 'Pre-Order') {
+            buttonTxtEl.innerHTML = 'Pre-Order';
+        }
+        const preOrderTxtEl = document.querySelector('div.product-details__product-options.details-product-options');
+        let newElement = document.createElement('dum');
+        newElement.innerHTML = preOrderTxt;
+        if (preOrderTxtEl && preOrderTxtEl.textContent !== newElement.textContent) {
+            preOrderTxtEl.innerHTML = preOrderTxt;
+        }
+    });
 }
