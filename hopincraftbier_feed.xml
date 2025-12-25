@@ -5,6 +5,46 @@
   <link>https://hopincraftbier.be/products&lt;/link&gt;</link>
   <description>Hop In Craftbier Products feed</description>
   <item>
+    <id>957</id>
+    <ecommerce_id>804717118</ecommerce_id>
+    <title>Spyglass Duo</title>
+    <url>https://hopincraftbier.be/products/spyglass-duo</url>
+    <brewery_name>Spyglass Brewing Company</brewery_name>
+    <price>16.28</price>
+    <regular_price>23.25</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5483224730.png</image>
+    <beer_description>The Spyglass Duo contains: - Color Theory - Turbulent Flow</beer_description>
+    <beer_style>IPA &amp; Sour</beer_style>
+    <beer_abv>6 - 8%</beer_abv>
+    <beer_volume>2x473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>United States</brewery_country>
+    <date_canned>2025-03-20</date_canned>
+    <beer_package_count>2</beer_package_count>
+    <beer_bundle>1</beer_bundle>
+    <bundle_skus>6186139,4980154</bundle_skus>
+  </item>
+  <item>
+    <id>958</id>
+    <ecommerce_id>804717106</ecommerce_id>
+    <title>Sour Pack Elmeleven vs Drekker</title>
+    <url>https://hopincraftbier.be/products/sour-pack-elmeleven-vs-drekker</url>
+    <brewery_name>Drekker Brewing Company, Elmeleven</brewery_name>
+    <price>30.03</price>
+    <regular_price>40.04</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5483209431.png</image>
+    <beer_description>The Sour Pack Elmeleven vs Drekker contains: - Elmeleven - Starfield Project (PULP • w. Vault City) - Elmeleven - Planet 2 (PULP) - Drekker Brewing Company - Braaaaaaaains - Billions of Peaches - Drekker Brewing Company - CHONK: Dark Cherry</beer_description>
+    <beer_style>Sour - Smoothie / Pastry</beer_style>
+    <beer_abv>5 - 6%</beer_abv>
+    <beer_volume>Mix</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>United States , Sweden</brewery_country>
+    <date_best_before>2027-01-01</date_best_before>
+    <beer_package_count>4</beer_package_count>
+    <beer_bundle>1</beer_bundle>
+    <bundle_skus>6121788,6121787,6222118,6189849</bundle_skus>
+  </item>
+  <item>
     <id>959</id>
     <ecommerce_id>804410827</ecommerce_id>
     <title>Mortalis Brewing Company Pack</title>
@@ -6073,6 +6113,6 @@
     <date_canned>2025-03-27</date_canned>
     <untappd_id>593083</untappd_id>
   </item>
-  <timestamp>1766498405</timestamp>
-  <gen_date>23/12/2025 15:00:05</gen_date>
+  <timestamp>1766655005</timestamp>
+  <gen_date>25/12/2025 10:30:05</gen_date>
 </feed>
