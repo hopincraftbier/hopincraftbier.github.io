@@ -22,6 +22,7 @@
     <beer_package_count>2</beer_package_count>
     <beer_bundle>1</beer_bundle>
     <bundle_skus>4785691,5391734</bundle_skus>
+    <untappd_id>954</untappd_id>
   </item>
   <item>
     <id>955</id>
@@ -42,6 +43,7 @@
     <beer_package_count>2</beer_package_count>
     <beer_bundle>1</beer_bundle>
     <bundle_skus>6202658,593083</bundle_skus>
+    <untappd_id>955</untappd_id>
   </item>
   <item>
     <id>956</id>
@@ -62,6 +64,7 @@
     <beer_package_count>2</beer_package_count>
     <beer_bundle>1</beer_bundle>
     <bundle_skus>6203420,6203421</bundle_skus>
+    <untappd_id>956</untappd_id>
   </item>
   <item>
     <id>957</id>
@@ -82,6 +85,7 @@
     <beer_package_count>2</beer_package_count>
     <beer_bundle>1</beer_bundle>
     <bundle_skus>6186139,4980154</bundle_skus>
+    <untappd_id>957</untappd_id>
   </item>
   <item>
     <id>958</id>
@@ -220,6 +224,7 @@
     <beer_package_count>2</beer_package_count>
     <beer_bundle>1</beer_bundle>
     <bundle_skus>6186985,6204470</bundle_skus>
+    <untappd_id>964</untappd_id>
   </item>
   <item>
     <id>6493222</id>
@@ -5731,7 +5736,7 @@
     <untappd_id>5689828</untappd_id>
   </item>
   <item>
-    <id>6169863</id>
+    <id>5246894</id>
     <ecommerce_id>735452035</ecommerce_id>
     <title>Central Waters - 1 Year Aged Brewer’s Reserve Bourbon Barrel Barleywine 2025</title>
     <url>https://hopincraftbier.be/products/central-waters-1-year-aged-brewers-reserve-bourbon-barrel-barleywine-2025</url>
@@ -5746,7 +5751,7 @@
     <beer_package>can</beer_package>
     <brewery_country>United States</brewery_country>
     <date_canned>2025-02-13</date_canned>
-    <untappd_id>6169863</untappd_id>
+    <untappd_id>5246894</untappd_id>
   </item>
   <item>
     <id>6117115</id>
@@ -6172,6 +6177,6 @@
     <date_canned>2025-03-27</date_canned>
     <untappd_id>593083</untappd_id>
   </item>
-  <timestamp>1766741405</timestamp>
-  <gen_date>26/12/2025 10:30:05</gen_date>
+  <timestamp>1766747705</timestamp>
+  <gen_date>26/12/2025 12:15:05</gen_date>
 </feed>
