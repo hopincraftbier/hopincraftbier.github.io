@@ -2888,8 +2888,8 @@
     <title>Whale Sharks</title>
     <url>https://hopincraftbier.be/products/verdant-brewing-co-whale-sharks</url>
     <brewery_name>Verdant Brewing Co</brewery_name>
-    <price>7.67</price>
-    <regular_price>9.02</regular_price>
+    <price>6.77</price>
+    <regular_price>9,02</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5062293813.webp</image>
     <beer_description>A Triple Dry-hopped No Dextrose DIPA version of 'Even Sharks Need Water'. Simples. Verdant Brewing Co - Whale Sharks</beer_description>
     <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
@@ -6172,6 +6172,6 @@
     <date_canned>2025-03-27</date_canned>
     <untappd_id>593083</untappd_id>
   </item>
-  <timestamp>1766738864</timestamp>
-  <gen_date>26/12/2025 09:47:44</gen_date>
+  <timestamp>1766741405</timestamp>
+  <gen_date>26/12/2025 10:30:05</gen_date>
 </feed>
