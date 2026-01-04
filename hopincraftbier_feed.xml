@@ -5,6 +5,54 @@
   <link>https://hopincraftbier.be/products&lt;/link&gt;</link>
   <description>Hop In Craftbier Products feed</description>
   <item>
+    <id>24</id>
+    <ecommerce_id>805530099</ecommerce_id>
+    <title>Double Vanilla Maple Kalashnikoffee</title>
+    <url>https://hopincraftbier.be/products/icarus-brewing-double-vanilla-maple-kalashnikoffee</url>
+    <brewery_name>Icarus Brewing</brewery_name>
+    <price>10.5</price>
+    <regular_price>9.85</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5495015533.webp</image>
+    <beer_description>Stout Russian Imperial with double the amount Vanilla &amp; Maple</beer_description>
+    <beer_style>Stout - Russian Imperial</beer_style>
+    <beer_abv>14.5%</beer_abv>
+    <beer_volume>355 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>United States</brewery_country>
+  </item>
+  <item>
+    <id>23</id>
+    <ecommerce_id>805530605</ecommerce_id>
+    <title>Barrel Aged Nonas Making Whoopie</title>
+    <url>https://hopincraftbier.be/products/icarus-brewing-barrel-aged-nonas-making-whoopie</url>
+    <brewery_name>Icarus Brewing</brewery_name>
+    <price>30.5</price>
+    <regular_price>29.27</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5495015533.webp</image>
+    <beer_description>Stout Double Milk aged in Makers Mark and Heaven Hill barrels with Cocoa, Marshmallows and 9 different types of Vanilla Beans.</beer_description>
+    <beer_style>Stout - Imperial / Double Milk</beer_style>
+    <beer_abv>12%</beer_abv>
+    <beer_volume>500 ml</beer_volume>
+    <beer_package>bottle</beer_package>
+    <brewery_country>United States</brewery_country>
+  </item>
+  <item>
+    <id>22</id>
+    <ecommerce_id>805525934</ecommerce_id>
+    <title>Barrel Aged Treats Of Strength</title>
+    <url>https://hopincraftbier.be/products/icarus-brewing-barrel-aged-treats-of-strength</url>
+    <brewery_name>Icarus Brewing</brewery_name>
+    <price>28</price>
+    <regular_price>27.28</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5495005758.png</image>
+    <beer_description>Traditional Chocolate Nutella Babka-inspired Pastry Stout brewed with Two Row Barley, Pale Chocolate Malt, Oated, and Wheated. Conditioned on Cacao Nibs and Hazelnuts for an extended period. Aged in Makers Mark Bourbon Barrels for 34 months.</beer_description>
+    <beer_style>Stout - Pastry</beer_style>
+    <beer_abv>12.4%</beer_abv>
+    <beer_volume>500 ml</beer_volume>
+    <beer_package>bottle</beer_package>
+    <brewery_country>United States</brewery_country>
+  </item>
+  <item>
     <id>954</id>
     <ecommerce_id>804802763</ecommerce_id>
     <title>Knotted Root Brewing Duo</title>
@@ -6138,6 +6186,6 @@
     <date_canned>2025-03-27</date_canned>
     <untappd_id>593083</untappd_id>
   </item>
-  <timestamp>1766957405</timestamp>
-  <gen_date>28/12/2025 22:30:05</gen_date>
+  <timestamp>1767534698</timestamp>
+  <gen_date>04/01/2026 14:51:38</gen_date>
 </feed>
