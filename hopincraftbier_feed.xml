@@ -642,23 +642,6 @@
     <untappd_id>6489383</untappd_id>
   </item>
   <item>
-    <id>6471633</id>
-    <ecommerce_id>797597454</ecommerce_id>
-    <title>Omako Basoa</title>
-    <url>https://hopincraftbier.be/products/basqueland-brewing-omako-basoa</url>
-    <brewery_name>Basqueland Brewing</brewery_name>
-    <price>7.56</price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5389969741.png</image>
-    <beer_description>Omako Basoa is a monumental Imperial Pastry Stout, conceived as a liquid dessert. It combines the depth of pure cocoa, the elegance of vanilla and the intensity of the coffee with which it has been brewed. We have joined forces with our friends at Finback Brewery in New York to create this collaborative delight for our 10th anniversary. Its recipe is based on a complex blend of nine malts that provide body and layers of roasted flavour. The result is a liquid bonbon: deep, complex and voluptuous. This is the seventh of nine collaborations celebrating our 10th anniversary. Basqueland Brewing - Omako Basoa</beer_description>
-    <beer_style>Stout - Imperial / Double Pastry</beer_style>
-    <beer_abv>17.5%</beer_abv>
-    <beer_volume>440 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Spain</brewery_country>
-    <date_best_before>2027-10-01</date_best_before>
-    <untappd_id>6471633</untappd_id>
-  </item>
-  <item>
     <id>6471744</id>
     <ecommerce_id>797597702</ecommerce_id>
     <title>Aiako Harria / Peñas De Aia</title>
@@ -5237,23 +5220,6 @@
     <untappd_id>6223449</untappd_id>
   </item>
   <item>
-    <id>6189849</id>
-    <ecommerce_id>743661489</ecommerce_id>
-    <title>CHONK: Dark Cherry</title>
-    <url>https://hopincraftbier.be/products/drekker-brewing-company-chonk-dark-cherry</url>
-    <brewery_name>Drekker Brewing Company</brewery_name>
-    <price>8.97</price>
-    <regular_price>11.96</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5484692282.png</image>
-    <beer_description>OH LAWD HE BACK AGAIN! Our lovable absolute unit returns with our latest exploration into complete absurdity. This chonky boi is diggin’ deep within the darkest corners of the freezer, scoopin’ up gobs of dark cherry and decadent dark chocolate. Cue the intensified heavy breathing. *CONTAINS LACTOSE - Drekker Brewing Company - CHONK: Dark Cherry</beer_description>
-    <beer_style>Sour - Smoothie / Pastry</beer_style>
-    <beer_abv>6.6%</beer_abv>
-    <beer_volume>473 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>United States</brewery_country>
-    <untappd_id>6189849</untappd_id>
-  </item>
-  <item>
     <id>6210698</id>
     <ecommerce_id>742665252</ecommerce_id>
     <title>Dead Violet</title>
@@ -5521,24 +5487,6 @@
     <brewery_country>Spain</brewery_country>
     <date_best_before>2026-01-20</date_best_before>
     <untappd_id>6137396</untappd_id>
-  </item>
-  <item>
-    <id>6053421</id>
-    <ecommerce_id>738467403</ecommerce_id>
-    <title>More Than Amber (Cellar Series)</title>
-    <url>https://hopincraftbier.be/products/pohjala-more-than-amber-cellar-series</url>
-    <brewery_name>Põhjala</brewery_name>
-    <price>6.74</price>
-    <regular_price>8.98</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4842142755.png</image>
-    <beer_description>Een rijke en fluweelzachte imperial porter, twee jaar gerijpt op cognacvaten. -</beer_description>
-    <beer_style>Porter - Imperial / Double</beer_style>
-    <beer_abv>13%</beer_abv>
-    <beer_volume>330 ml</beer_volume>
-    <beer_package>bottle</beer_package>
-    <brewery_country>Estonia</brewery_country>
-    <date_best_before>2028-10-30</date_best_before>
-    <untappd_id>6053421</untappd_id>
   </item>
   <item>
     <id>6065243</id>
@@ -6180,6 +6128,6 @@
     <date_canned>2025-03-27</date_canned>
     <untappd_id>593083</untappd_id>
   </item>
-  <timestamp>1767645006</timestamp>
-  <gen_date>05/01/2026 21:30:06</gen_date>
+  <timestamp>1767647705</timestamp>
+  <gen_date>05/01/2026 22:15:05</gen_date>
 </feed>
