@@ -5607,24 +5607,6 @@
     <untappd_id>6121304</untappd_id>
   </item>
   <item>
-    <id>6102160</id>
-    <ecommerce_id>738467400</ecommerce_id>
-    <title>Hipodèrmia</title>
-    <url>https://hopincraftbier.be/products/menno-olivier-brewing-hipodermia</url>
-    <brewery_name>Menno Olivier Brewing</brewery_name>
-    <price>5.63</price>
-    <regular_price>7.5</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4840959714.png</image>
-    <beer_description>Coffee imperial Stout Bourbon barrel aged -</beer_description>
-    <beer_style>Stout - Imperial / Double Coffee</beer_style>
-    <beer_abv>10.5%</beer_abv>
-    <beer_volume>330 ml</beer_volume>
-    <beer_package>bottle</beer_package>
-    <brewery_country>Spain</brewery_country>
-    <date_best_before>2029-07-10</date_best_before>
-    <untappd_id>6102160</untappd_id>
-  </item>
-  <item>
     <id>6094567</id>
     <ecommerce_id>738466942</ecommerce_id>
     <title>Three Times Three Vol. 5</title>
@@ -6138,6 +6120,6 @@
     <date_canned>2025-03-27</date_canned>
     <untappd_id>593083</untappd_id>
   </item>
-  <timestamp>1767536011</timestamp>
-  <gen_date>04/01/2026 15:13:31</gen_date>
+  <timestamp>1767613505</timestamp>
+  <gen_date>05/01/2026 12:45:05</gen_date>
 </feed>
