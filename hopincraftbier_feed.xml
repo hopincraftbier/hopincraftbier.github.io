@@ -5,6 +5,26 @@
   <link>https://hopincraftbier.be/products&lt;/link&gt;</link>
   <description>Hop In Craftbier Products feed</description>
   <item>
+    <id>951</id>
+    <ecommerce_id>805718612</ecommerce_id>
+    <title>Garage Beer Co. Pack</title>
+    <url>https://hopincraftbier.be/products/garage-beer-co-pack-805718612</url>
+    <brewery_name>Garage Beer Co.</brewery_name>
+    <price>19.05</price>
+    <regular_price>22.41</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5495975429.png</image>
+    <beer_description>The Garage Beer Co. Pack contains: - Georgia Gold - NEEDLES - CROWNS</beer_description>
+    <beer_style>IPA</beer_style>
+    <beer_abv>6 - 8%</beer_abv>
+    <beer_volume>3x440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Spain</brewery_country>
+    <date_canned>2025-07-02</date_canned>
+    <beer_package_count>3</beer_package_count>
+    <beer_bundle>1</beer_bundle>
+    <bundle_skus>6339811,6340747,6337778</bundle_skus>
+  </item>
+  <item>
     <id>952</id>
     <ecommerce_id>805723321</ecommerce_id>
     <title>Spanish Mix Pack</title>
@@ -6141,6 +6161,6 @@
     <date_canned>2025-03-27</date_canned>
     <untappd_id>593083</untappd_id>
   </item>
-  <timestamp>1767614405</timestamp>
-  <gen_date>05/01/2026 13:00:05</gen_date>
+  <timestamp>1767615023</timestamp>
+  <gen_date>05/01/2026 13:10:23</gen_date>
 </feed>
