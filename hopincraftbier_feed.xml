@@ -5,6 +5,25 @@
   <link>https://hopincraftbier.be/products&lt;/link&gt;</link>
   <description>Hop In Craftbier Products feed</description>
   <item>
+    <id>944</id>
+    <ecommerce_id>805805751</ecommerce_id>
+    <title>BreWskey Pack</title>
+    <url>https://hopincraftbier.be/products/brewskey-pack</url>
+    <brewery_name>BreWskey</brewery_name>
+    <price>28.17</price>
+    <regular_price>35.21</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5496371751.png</image>
+    <beer_description>The BreWskey Pack contains: - INVOCATION - NZ GOLD - COCO PALMER HOUSE</beer_description>
+    <beer_style>Stout - IPA</beer_style>
+    <beer_abv>8 - 11%</beer_abv>
+    <beer_volume>3x473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Canada</brewery_country>
+    <beer_package_count>3</beer_package_count>
+    <beer_bundle>1</beer_bundle>
+    <bundle_skus>5787651,6067723,4739060</bundle_skus>
+  </item>
+  <item>
     <id>951</id>
     <ecommerce_id>805718612</ecommerce_id>
     <title>Garage Beer Co. Pack</title>
@@ -6161,6 +6180,6 @@
     <date_canned>2025-03-27</date_canned>
     <untappd_id>593083</untappd_id>
   </item>
-  <timestamp>1767618905</timestamp>
-  <gen_date>05/01/2026 14:15:05</gen_date>
+  <timestamp>1767645006</timestamp>
+  <gen_date>05/01/2026 21:30:06</gen_date>
 </feed>
