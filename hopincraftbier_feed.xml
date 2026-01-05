@@ -1031,7 +1031,7 @@
     <url>https://hopincraftbier.be/products/kom-beer-kome-lupulos</url>
     <brewery_name>KOM Beer</brewery_name>
     <price>7.12</price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5290681757.png</image>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5496028938.png</image>
     <beer_description>Motueka, Citra &amp; Simcoe. KOM Beer - Kome Lupulos</beer_description>
     <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
     <beer_abv>8%</beer_abv>
@@ -1101,7 +1101,7 @@
     <url>https://hopincraftbier.be/products/kom-beer-dupond</url>
     <brewery_name>KOM Beer</brewery_name>
     <price>6.99</price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5290676620.png</image>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5496028950.png</image>
     <beer_description>Single hop Mosaic! Offers aromas and flavors of tropical fruit, citrus, and a hint of pine. It is characterized by a smooth, fruity, and full-bodied taste. KOM Beer - DUPOND</beer_description>
     <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
     <beer_abv>8%</beer_abv>
@@ -1119,7 +1119,7 @@
     <url>https://hopincraftbier.be/products/kom-beer-dupont</url>
     <brewery_name>KOM Beer</brewery_name>
     <price>6.99</price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5290681777.png</image>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5496028944.png</image>
     <beer_description>Single hop Citra! It is a hazy, fruit-forward beer with blueberry, tropical fruit, and citrus notes. KOM Beer - DUPONT</beer_description>
     <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
     <beer_abv>8%</beer_abv>
@@ -6161,6 +6161,6 @@
     <date_canned>2025-03-27</date_canned>
     <untappd_id>593083</untappd_id>
   </item>
-  <timestamp>1767615023</timestamp>
-  <gen_date>05/01/2026 13:10:23</gen_date>
+  <timestamp>1767618905</timestamp>
+  <gen_date>05/01/2026 14:15:05</gen_date>
 </feed>
