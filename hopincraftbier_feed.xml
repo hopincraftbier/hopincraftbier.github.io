@@ -5,6 +5,27 @@
   <link>https://hopincraftbier.be/products&lt;/link&gt;</link>
   <description>Hop In Craftbier Products feed</description>
   <item>
+    <id>952</id>
+    <ecommerce_id>805723321</ecommerce_id>
+    <title>Spanish Mix Pack</title>
+    <url>https://hopincraftbier.be/products/tbd</url>
+    <brewery_name>Garage Beer Co., Menno Olivier Brewing, Oso Brew Co, SOMA Beer</brewery_name>
+    <price>21.09</price>
+    <regular_price>30.13</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5495965201.png</image>
+    <beer_description>The Spanish Mix Pack contains: - Oso Brew Co - 60KG Cashmere (IPA) - Garage Beer Co. - CROWNS (DIPA) - SOMA Beer - Hologram (TIPA) - Menno Olivier Brewing - Hipodèrmia (Stout)</beer_description>
+    <beer_style>Stout - IPA</beer_style>
+    <beer_abv>6 - 10%</beer_abv>
+    <beer_volume>Mix</beer_volume>
+    <beer_package>mix</beer_package>
+    <brewery_country>Spain</brewery_country>
+    <date_best_before>2025-12-19</date_best_before>
+    <date_canned>2025-07-08</date_canned>
+    <beer_package_count>4</beer_package_count>
+    <beer_bundle>1</beer_bundle>
+    <bundle_skus>6172982,6337778,6308971,6102160</bundle_skus>
+  </item>
+  <item>
     <id>954</id>
     <ecommerce_id>804802763</ecommerce_id>
     <title>Knotted Root Brewing Duo</title>
@@ -6120,6 +6141,6 @@
     <date_canned>2025-03-27</date_canned>
     <untappd_id>593083</untappd_id>
   </item>
-  <timestamp>1767613505</timestamp>
-  <gen_date>05/01/2026 12:45:05</gen_date>
+  <timestamp>1767614405</timestamp>
+  <gen_date>05/01/2026 13:00:05</gen_date>
 </feed>
