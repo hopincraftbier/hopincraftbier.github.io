@@ -24,6 +24,27 @@
     <bundle_skus>5787651,6067723,4739060</bundle_skus>
   </item>
   <item>
+    <id>950</id>
+    <ecommerce_id>805740782</ecommerce_id>
+    <title>KOM Beer Pack</title>
+    <url>https://hopincraftbier.be/products/kom-beer-pack</url>
+    <brewery_name>KOM Beer</brewery_name>
+    <price>17.94</price>
+    <regular_price>21.1</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5496026948.png</image>
+    <beer_description>The KOM Beer Pack contains: - DUPOND - Kome Lupulos - DUPONT</beer_description>
+    <beer_style>IPA</beer_style>
+    <beer_abv>8%</beer_abv>
+    <beer_volume>3x440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Spain</brewery_country>
+    <date_best_before>2026-05-26</date_best_before>
+    <date_canned>2025-08-25</date_canned>
+    <beer_package_count>3</beer_package_count>
+    <beer_bundle>1</beer_bundle>
+    <bundle_skus>5605718,6417762,5605713</bundle_skus>
+  </item>
+  <item>
     <id>951</id>
     <ecommerce_id>805718612</ecommerce_id>
     <title>Garage Beer Co. Pack</title>
@@ -6128,6 +6149,6 @@
     <date_canned>2025-03-27</date_canned>
     <untappd_id>593083</untappd_id>
   </item>
-  <timestamp>1767647705</timestamp>
-  <gen_date>05/01/2026 22:15:05</gen_date>
+  <timestamp>1767696610</timestamp>
+  <gen_date>06/01/2026 11:50:10</gen_date>
 </feed>
