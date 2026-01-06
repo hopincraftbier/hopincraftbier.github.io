@@ -5,6 +5,26 @@
   <link>https://hopincraftbier.be/products&lt;/link&gt;</link>
   <description>Hop In Craftbier Products feed</description>
   <item>
+    <id>942</id>
+    <ecommerce_id>806047375</ecommerce_id>
+    <title>Fine Balance Brewing Pack</title>
+    <url>https://hopincraftbier.be/products/fine-balance-brewing-pack</url>
+    <brewery_name>Fine Balance Brewing</brewery_name>
+    <price>25.31</price>
+    <regular_price>31.64</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5497679447.png</image>
+    <beer_description>The Fine Balance Brewing Pack contains: - Nelson &amp; Cream - Double Nelson &amp; Cream - Triple Nelson &amp; Cream</beer_description>
+    <beer_style>IPA</beer_style>
+    <beer_abv>6 - 10%</beer_abv>
+    <beer_volume>3x473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Canada</brewery_country>
+    <date_canned>2025-07-01</date_canned>
+    <beer_package_count>3</beer_package_count>
+    <beer_bundle>1</beer_bundle>
+    <bundle_skus>6350229,6350233,6346854</bundle_skus>
+  </item>
+  <item>
     <id>944</id>
     <ecommerce_id>805805751</ecommerce_id>
     <title>BreWskey Pack</title>
@@ -6155,6 +6175,6 @@
     <date_canned>2025-03-27</date_canned>
     <untappd_id>593083</untappd_id>
   </item>
-  <timestamp>1767700805</timestamp>
-  <gen_date>06/01/2026 13:00:05</gen_date>
+  <timestamp>1767714305</timestamp>
+  <gen_date>06/01/2026 16:45:05</gen_date>
 </feed>
