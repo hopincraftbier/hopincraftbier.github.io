@@ -123,6 +123,7 @@
     <beer_package_count>2</beer_package_count>
     <beer_bundle>1</beer_bundle>
     <bundle_skus>4785691,5391734</bundle_skus>
+    <untappd_id>954</untappd_id>
   </item>
   <item>
     <id>955</id>
@@ -143,6 +144,7 @@
     <beer_package_count>2</beer_package_count>
     <beer_bundle>1</beer_bundle>
     <bundle_skus>6202658,593083</bundle_skus>
+    <untappd_id>955</untappd_id>
   </item>
   <item>
     <id>956</id>
@@ -163,6 +165,7 @@
     <beer_package_count>2</beer_package_count>
     <beer_bundle>1</beer_bundle>
     <bundle_skus>6203420,6203421</bundle_skus>
+    <untappd_id>956</untappd_id>
   </item>
   <item>
     <id>957</id>
@@ -183,6 +186,7 @@
     <beer_package_count>2</beer_package_count>
     <beer_bundle>1</beer_bundle>
     <bundle_skus>6186139,4980154</bundle_skus>
+    <untappd_id>957</untappd_id>
   </item>
   <item>
     <id>958</id>
@@ -321,6 +325,7 @@
     <beer_package_count>2</beer_package_count>
     <beer_bundle>1</beer_bundle>
     <bundle_skus>6186985,6204470</bundle_skus>
+    <untappd_id>964</untappd_id>
   </item>
   <item>
     <id>6479597</id>
@@ -6175,6 +6180,6 @@
     <date_canned>2025-03-27</date_canned>
     <untappd_id>593083</untappd_id>
   </item>
-  <timestamp>1767714305</timestamp>
-  <gen_date>06/01/2026 16:45:05</gen_date>
+  <timestamp>1767720605</timestamp>
+  <gen_date>06/01/2026 18:30:05</gen_date>
 </feed>
