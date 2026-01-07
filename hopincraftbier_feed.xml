@@ -6073,24 +6073,6 @@
     <untappd_id>4980154</untappd_id>
   </item>
   <item>
-    <id>4570140</id>
-    <ecommerce_id>735452032</ecommerce_id>
-    <title>Blind Fog</title>
-    <url>https://hopincraftbier.be/products/wood-brothers-brewing-co-blind-fog</url>
-    <brewery_name>Wood Brothers Brewing Co.</brewery_name>
-    <price>8.72</price>
-    <regular_price>11.62</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4933599027.png</image>
-    <beer_description>Brewed with Citra, Citra Incognito and Galaxy hops. -</beer_description>
-    <beer_style>IPA - Triple New England / Hazy</beer_style>
-    <beer_abv>9%</beer_abv>
-    <beer_volume>473 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Canada</brewery_country>
-    <date_canned>2025-04-02</date_canned>
-    <untappd_id>4570140</untappd_id>
-  </item>
-  <item>
     <id>6180917</id>
     <ecommerce_id>734051600</ecommerce_id>
     <title>Dead Don't Die (2025)</title>
@@ -6196,24 +6178,6 @@
     <untappd_id>6207626</untappd_id>
   </item>
   <item>
-    <id>5002537</id>
-    <ecommerce_id>734051124</ecommerce_id>
-    <title>Barn Snake</title>
-    <url>https://hopincraftbier.be/products/tin-barn-brewing-barn-snake</url>
-    <brewery_name>Tin Barn Brewing</brewery_name>
-    <price>9.23</price>
-    <regular_price>12.31</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4932884780.png</image>
-    <beer_description>Once more into the Snake Den with our good friends @district96beer , we have crafted Barn Snake - a creamy, hazy concoction that slithers across your taste buds with flavors of extreme citrus. Strong, punchy notes of tropical passionfruit, grapefruit, lemon and orange from the super combination of Simcoe, Riwaka and Citra. A slight touch of dank earthy funk finishes it off. It’s a triple New England IPA, so sssssssip it sssssslowly… -</beer_description>
-    <beer_style>IPA - Triple New England / Hazy</beer_style>
-    <beer_abv>9.4%</beer_abv>
-    <beer_volume>473 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>United States</brewery_country>
-    <date_canned>2025-03-20</date_canned>
-    <untappd_id>5002537</untappd_id>
-  </item>
-  <item>
     <id>5263247</id>
     <ecommerce_id>734051123</ecommerce_id>
     <title>Cosmic Proportions</title>
@@ -6266,6 +6230,6 @@
     <date_canned>2025-03-27</date_canned>
     <untappd_id>593083</untappd_id>
   </item>
-  <timestamp>1767799805</timestamp>
-  <gen_date>07/01/2026 16:30:05</gen_date>
+  <timestamp>1767808805</timestamp>
+  <gen_date>07/01/2026 19:00:05</gen_date>
 </feed>
