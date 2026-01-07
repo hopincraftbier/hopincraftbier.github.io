@@ -5376,24 +5376,6 @@
     <untappd_id>6223449</untappd_id>
   </item>
   <item>
-    <id>6210698</id>
-    <ecommerce_id>742665252</ecommerce_id>
-    <title>Dead Violet</title>
-    <url>https://hopincraftbier.be/products/seven-island-brewery-dead-violet</url>
-    <brewery_name>Seven Island Brewery</brewery_name>
-    <price>17.79</price>
-    <regular_price>23.72</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4869737394.png</image>
-    <beer_description>DEAD VIOLET BOURBON BARREL AGED IMPERIAL STOUT WITH CANADIAN MAPLE SYRUP, BLUEBERRIES AND VANILLA BEANS FROM UGANDA. BLEND OF STOUTS AGED FOR 2 &amp; 3 YEARS IN PAPPY VAN WINKLE, BLANTONS AND WELLER BARRELS 12%ABV COLLABORATION WITH FORAGER FROM USA - Seven Island Brewery - Dead Violet</beer_description>
-    <beer_style>Stout - Imperial / Double</beer_style>
-    <beer_abv>12%</beer_abv>
-    <beer_volume>500 ml</beer_volume>
-    <beer_package>bottle</beer_package>
-    <brewery_country>Greece</brewery_country>
-    <date_best_before>2032-02-28</date_best_before>
-    <untappd_id>6210698</untappd_id>
-  </item>
-  <item>
     <id>6210032</id>
     <ecommerce_id>742665251</ecommerce_id>
     <title>Ārpus X Brasserie Popihn Imperial Cascadian Dark Ale</title>
@@ -6284,6 +6266,6 @@
     <date_canned>2025-03-27</date_canned>
     <untappd_id>593083</untappd_id>
   </item>
-  <timestamp>1767790805</timestamp>
-  <gen_date>07/01/2026 14:00:05</gen_date>
+  <timestamp>1767799805</timestamp>
+  <gen_date>07/01/2026 16:30:05</gen_date>
 </feed>
