@@ -5,6 +5,70 @@
   <link>https://hopincraftbier.be/products&lt;/link&gt;</link>
   <description>Hop In Craftbier Products feed</description>
   <item>
+    <id>6514089</id>
+    <ecommerce_id>806352828</ecommerce_id>
+    <title>Euphoria</title>
+    <url>https://hopincraftbier.be/products/norm-brewing-euphoria</url>
+    <brewery_name>Norm Brewing</brewery_name>
+    <price>5.77</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5500055519.png</image>
+    <beer_description>Last release of 2025 : Double New England IPA brewed with Riwaka, Motueka and Cryo Citra. Full of freshness, crushed citrus, passion fruits, lime and pink grapefruit. Norm Brewing - Euphoria</beer_description>
+    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
+    <beer_abv>8%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Belgium</brewery_country>
+    <untappd_id>6514089</untappd_id>
+  </item>
+  <item>
+    <id>6491728</id>
+    <ecommerce_id>806337899</ecommerce_id>
+    <title>Eclipse</title>
+    <url>https://hopincraftbier.be/products/norm-brewing-eclipse</url>
+    <brewery_name>Norm Brewing</brewery_name>
+    <price>5.55</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5500055513.png</image>
+    <beer_description>DDH IPA Hops : Eclipse / Nelson Sauvin IPA at 7%, slightly stronger than usual (winter is coming) and brewed with a combo we deeply love ! 2 hops and 2 countries, Eclipse from Australia and Nelson Sauvin from New Zealand. It’s actually pretty long since we used a hop from Australia ! Eclipse offers sweet mandarin flavors and zesty citrus peel and fresh pine needles. We pair it with our house favorite, Nelson Sauvin. Bringing his famous and distinct gooseberry and Sauvignon Blanc grapes. Juicy, fresh and balanced ! Norm Brewing - Eclipse</beer_description>
+    <beer_style>IPA - New England / Hazy</beer_style>
+    <beer_abv>7%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Belgium</brewery_country>
+    <untappd_id>6491728</untappd_id>
+  </item>
+  <item>
+    <id>6491725</id>
+    <ecommerce_id>806337900</ecommerce_id>
+    <title>Northern Lights</title>
+    <url>https://hopincraftbier.be/products/norm-brewing-northern-lights</url>
+    <brewery_name>Norm Brewing</brewery_name>
+    <price>6.22</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5500024981.png</image>
+    <beer_description>DDH TIPA HOPS : RAKAU / NECTARON / CITRA Triple New England IPA double dry hopped with Rakau, Nectaron, Rakau Sub Zero and Citra. Rakau burst with apricot, plum, mango, pear, and other stone fruits while Nectaron brings huge aroma of passion fruit, peach, grapefruit, and pineapple. Just a hint of Citra to give so more tropical notes. The aromatic is fruity, clean and explosive ! Norm Brewing - Northern Lights</beer_description>
+    <beer_style>IPA - Triple New England / Hazy</beer_style>
+    <beer_abv>9.5%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Belgium</brewery_country>
+    <untappd_id>6491725</untappd_id>
+  </item>
+  <item>
+    <id>6453136</id>
+    <ecommerce_id>806337901</ecommerce_id>
+    <title>Nelson Focus</title>
+    <url>https://hopincraftbier.be/products/norm-brewing-nelson-focus</url>
+    <brewery_name>Norm Brewing</brewery_name>
+    <price>5.77</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5500024971.png</image>
+    <beer_description>Focus Series #1 : Nelson T90 2025 x Nelson Sauvin CRYO x Nelson Sauvin Hop Kief sub zero (Freestyle hops) Here is the first beer of our focus series. A series of beers focus on one hop ! Nelson Sauvin : Probably the perfect hop to start with ! The star of New Zealand, a true classic that never disappoint, the one you can always rely on, the hop we could use in every beer ! Nelson Sauvin is shining here with its crushed gooseberries, white wine, grapes, citrus and pink grapefruit vibes. Norm Brewing - Nelson Focus</beer_description>
+    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
+    <beer_abv>8%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Belgium</brewery_country>
+    <untappd_id>6453136</untappd_id>
+  </item>
+  <item>
     <id>941</id>
     <ecommerce_id>806337849</ecommerce_id>
     <title>Norm Brewing Pack</title>
@@ -6220,6 +6284,6 @@
     <date_canned>2025-03-27</date_canned>
     <untappd_id>593083</untappd_id>
   </item>
-  <timestamp>1767786461</timestamp>
-  <gen_date>07/01/2026 12:47:41</gen_date>
+  <timestamp>1767790131</timestamp>
+  <gen_date>07/01/2026 13:48:51</gen_date>
 </feed>
