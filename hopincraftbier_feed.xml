@@ -128,26 +128,6 @@
     <bundle_skus>5787651,6067723,4739060</bundle_skus>
   </item>
   <item>
-    <id>947</id>
-    <ecommerce_id>805761110</ecommerce_id>
-    <title>Revenant Brewing Project Pack</title>
-    <url>https://hopincraftbier.be/products/revenant-brewing-project-pack</url>
-    <brewery_name>Revenant Brewing Project</brewery_name>
-    <price>15.78</price>
-    <regular_price>18.57</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5496112481.png</image>
-    <beer_description>The Revenant Brewing Project Pack contains: - Weightless - Linger - Ponder</beer_description>
-    <beer_style>IPA</beer_style>
-    <beer_abv>6 - 9%</beer_abv>
-    <beer_volume>3x440 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Finland</brewery_country>
-    <date_best_before>2026-04-01</date_best_before>
-    <beer_package_count>3</beer_package_count>
-    <beer_bundle>1</beer_bundle>
-    <bundle_skus>10,11,13</bundle_skus>
-  </item>
-  <item>
     <id>950</id>
     <ecommerce_id>805740782</ecommerce_id>
     <title>KOM Beer Pack</title>
@@ -6230,6 +6210,6 @@
     <date_canned>2025-03-27</date_canned>
     <untappd_id>593083</untappd_id>
   </item>
-  <timestamp>1767808805</timestamp>
-  <gen_date>07/01/2026 19:00:05</gen_date>
+  <timestamp>1767856505</timestamp>
+  <gen_date>08/01/2026 08:15:05</gen_date>
 </feed>
