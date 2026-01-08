@@ -128,24 +128,25 @@
     <bundle_skus>5787651,6067723,4739060</bundle_skus>
   </item>
   <item>
-    <id>945</id>
-    <ecommerce_id>805789032</ecommerce_id>
-    <title>Stigbergets Bryggeri Pack</title>
-    <url>https://hopincraftbier.be/products/stigbergets-bryggeri-pack</url>
-    <brewery_name>Stigbergets Bryggeri</brewery_name>
-    <price>21.45</price>
-    <regular_price>25.23</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5496319627.png</image>
-    <beer_description>The Stigbergets Bryggeri Pack contains: - MEGA MUFFIN - EL CAPITANO - TOP PICK</beer_description>
-    <beer_style>Stout - IPA</beer_style>
-    <beer_abv>7 - 15%</beer_abv>
-    <beer_volume>3x440 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Sweden</brewery_country>
-    <date_best_before>2026-05-22</date_best_before>
+    <id>946</id>
+    <ecommerce_id>805754352</ecommerce_id>
+    <title>Varvar Brew Pack</title>
+    <url>https://hopincraftbier.be/products/varvar-brew-pack</url>
+    <brewery_name>Varvar Brew</brewery_name>
+    <price>17.03</price>
+    <regular_price>24.33</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5496153342.png</image>
+    <beer_description>The Varvar Brew Pack contains: - Love Potion - D'Rye 2024 - City Cake 2025</beer_description>
+    <beer_style>Stout - Sour</beer_style>
+    <beer_abv>7 - 11%</beer_abv>
+    <beer_volume>Mix</beer_volume>
+    <beer_package>mix</beer_package>
+    <brewery_country>Ukraine</brewery_country>
+    <date_best_before>2027-08-27</date_best_before>
+    <date_canned>2025-02-03</date_canned>
     <beer_package_count>3</beer_package_count>
     <beer_bundle>1</beer_bundle>
-    <bundle_skus>5894573,6016175,6187809</bundle_skus>
+    <bundle_skus>6149265,5978945,6272015</bundle_skus>
   </item>
   <item>
     <ecommerce_id>805761110</ecommerce_id>
@@ -6249,6 +6250,6 @@
     <date_canned>2025-03-27</date_canned>
     <untappd_id>593083</untappd_id>
   </item>
-  <timestamp>1767865346</timestamp>
-  <gen_date>08/01/2026 10:45:00</gen_date>
+  <timestamp>1767868773</timestamp>
+  <gen_date>08/01/2026 11:39:33</gen_date>
 </feed>
