@@ -169,6 +169,7 @@
     <bundle_skus>6149265,5978945,6272015</bundle_skus>
   </item>
   <item>
+    <id>947</id>
     <ecommerce_id>805761110</ecommerce_id>
     <title>Revenant Brewing Project Pack</title>
     <url>https://hopincraftbier.be/products/revenant-brewing-project-pack</url>
@@ -6270,6 +6271,6 @@
     <date_canned>2025-03-27</date_canned>
     <untappd_id>593083</untappd_id>
   </item>
-  <timestamp>1767872844</timestamp>
-  <gen_date>08/01/2026 12:47:24</gen_date>
+  <timestamp>1767876624</timestamp>
+  <gen_date>08/01/2026 13:50:24</gen_date>
 </feed>
