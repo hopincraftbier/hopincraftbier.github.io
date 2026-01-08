@@ -128,6 +128,26 @@
     <bundle_skus>5787651,6067723,4739060</bundle_skus>
   </item>
   <item>
+    <id>945</id>
+    <ecommerce_id>805789032</ecommerce_id>
+    <title>Stigbergets Bryggeri Pack</title>
+    <url>https://hopincraftbier.be/products/stigbergets-bryggeri-pack</url>
+    <brewery_name>Stigbergets Bryggeri</brewery_name>
+    <price>21.45</price>
+    <regular_price>25.23</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5496319627.png</image>
+    <beer_description>The Stigbergets Bryggeri Pack contains: - MEGA MUFFIN - EL CAPITANO - TOP PICK</beer_description>
+    <beer_style>Stout - IPA</beer_style>
+    <beer_abv>7 - 15%</beer_abv>
+    <beer_volume>3x440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Sweden</brewery_country>
+    <date_best_before>2026-05-22</date_best_before>
+    <beer_package_count>3</beer_package_count>
+    <beer_bundle>1</beer_bundle>
+    <bundle_skus>5894573,6016175,6187809</bundle_skus>
+  </item>
+  <item>
     <ecommerce_id>805761110</ecommerce_id>
     <title>Revenant Brewing Project Pack</title>
     <url>https://hopincraftbier.be/products/revenant-brewing-project-pack</url>
@@ -6229,6 +6249,6 @@
     <date_canned>2025-03-27</date_canned>
     <untappd_id>593083</untappd_id>
   </item>
-  <timestamp>1767857405</timestamp>
-  <gen_date>08/01/2026 08:30:05</gen_date>
+  <timestamp>1767858304</timestamp>
+  <gen_date>08/01/2026 08:45:04</gen_date>
 </feed>
