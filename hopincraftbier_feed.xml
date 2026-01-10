@@ -253,6 +253,26 @@
     <bundle_skus>3127108,6342727,5751661</bundle_skus>
   </item>
   <item>
+    <id>949</id>
+    <ecommerce_id>805754282</ecommerce_id>
+    <title>Verdant Brewing Co Pack</title>
+    <url>https://hopincraftbier.be/products/verdant-brewing-co-pack</url>
+    <brewery_name>Verdant Brewing Co</brewery_name>
+    <price>20.41</price>
+    <regular_price>29.15</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5496072870.png</image>
+    <beer_description>The Verdant Brewing Co Pack contains: - Flux: Phase 3 - Whale Sharks - The Don</beer_description>
+    <beer_style>IPA</beer_style>
+    <beer_abv>8 - 10%</beer_abv>
+    <beer_volume>3x440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>England</brewery_country>
+    <date_best_before>2025-12-26</date_best_before>
+    <beer_package_count>3</beer_package_count>
+    <beer_bundle>1</beer_bundle>
+    <bundle_skus>6271344,4886029,6332895</bundle_skus>
+  </item>
+  <item>
     <id>950</id>
     <ecommerce_id>805740782</ecommerce_id>
     <title>KOM Beer Pack</title>
@@ -3523,23 +3543,6 @@
     <untappd_id>6282604</untappd_id>
   </item>
   <item>
-    <id>6282604</id>
-    <ecommerce_id>767291144</ecommerce_id>
-    <title>In the Steep HyperBoost</title>
-    <url>https://hopincraftbier.be/products/outer-range-brewing-co-in-the-steep-hyperboost</url>
-    <brewery_name>Outer Range Brewing Co.</brewery_name>
-    <price>7.45</price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5243286803.webp</image>
-    <beer_description>Hops: 100% Citra HyperBoost Tasting Notes: Grapefruit • Tangerine • Apricot Outer Range Brewing Co. - In the Steep HyperBoost</beer_description>
-    <beer_style>IPA - New England / Hazy</beer_style>
-    <beer_abv>6.7%</beer_abv>
-    <beer_volume>440 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>France</brewery_country>
-    <date_best_before>2026-04-21</date_best_before>
-    <untappd_id>6282604</untappd_id>
-  </item>
-  <item>
     <id>4367493</id>
     <ecommerce_id>767291143</ecommerce_id>
     <title>Out of the Woods</title>
@@ -6335,6 +6338,6 @@
     <date_canned>2025-03-27</date_canned>
     <untappd_id>593083</untappd_id>
   </item>
-  <timestamp>1768027505</timestamp>
-  <gen_date>10/01/2026 07:45:05</gen_date>
+  <timestamp>1768028405</timestamp>
+  <gen_date>10/01/2026 08:00:05</gen_date>
 </feed>
