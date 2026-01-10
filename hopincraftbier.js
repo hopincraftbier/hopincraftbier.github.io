@@ -1,4 +1,4 @@
-console.log("HopInCraftbier custom js v6.04");
+console.log("HopInCraftbier custom js v6.05");
 let debug = false;
 let prodMode = true;
 
@@ -429,6 +429,9 @@ function addCouponInfo(toScroll) {
 }
 
 function moveSubtitle() {
+    if (!prodMode) {
+        return;
+    }
     log('moveSubtitle');
     document.querySelectorAll('div.grid-product__wrap-inner > div.grid-product__subtitle').forEach(function (p) {
         let imgWrapElement = p.parentElement.querySelector('div.grid-product__image-wrap');
@@ -549,6 +552,28 @@ function processProductBrowserPage() {
         moveSubtitle();
         addTitleAttribute();
         renameBuyButtonToPreorder();
+        if (!prodMode) {
+            document.querySelectorAll('div.grid-product__wrap').forEach(function (p) {
+                let pid = p.getAttribute('data-product-id');
+                $.ajax({
+                    type: "GET",
+                    url: "https://app.ecwid.com/api/v3/112251271/products/" + pid + "?responseFields=id,attributes",
+                    dataType: 'json',
+                    contentType: "application/json",
+                    headers: {
+                        "Cache-Control": "no-cache",
+                        "Authorization": "Bearer secret_HCDznTrqGhfaUJsTmC3u4wEHNGu1G6na",
+                    },
+                    data: {},
+                    success: function(resp){
+                        console.log(p.querySelector('div.grid-product__subtitle'));
+                        console.log(resp)
+                    },
+                    error: function(error){
+                    }
+                });
+            });
+        }
     }
 }
 
