@@ -5,6 +5,57 @@
   <link>https://hopincraftbier.be/products&lt;/link&gt;</link>
   <description>Hop In Craftbier Products feed</description>
   <item>
+    <id>6567915</id>
+    <ecommerce_id>808552524</ecommerce_id>
+    <title>Latitude Zero</title>
+    <url>https://hopincraftbier.be/products/unseen-brewing-company-latitude-zero</url>
+    <brewery_name>Unseen Brewing Company</brewery_name>
+    <price>3.6</price>
+    <regular_price>3.60</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/808552524/5516240680.png</image>
+    <beer_description>NEIPA with Citra &amp; Nelson Sauvin Unseen Brewing Company - Latitude Zero</beer_description>
+    <beer_style>IPA - New England / Hazy</beer_style>
+    <beer_abv>6%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Belgium</brewery_country>
+    <untappd_id>6567915</untappd_id>
+  </item>
+  <item>
+    <id>6513873</id>
+    <ecommerce_id>808552525</ecommerce_id>
+    <title>XI Anniversary | Block Party</title>
+    <url>https://hopincraftbier.be/products/browar-stu-mostow-xi-anniversary-block-party</url>
+    <brewery_name>Browar Stu Mostów</brewery_name>
+    <price>6.6</price>
+    <regular_price>6.60</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/808552525/5516095455.png</image>
+    <beer_description>Celebrating Stu Mostów’s 11th anniversary, this is No. 2 of 3 beers in the birthday can series. Banana Mango Lemon Ice Cream Pastry Sour brewed with White Dog Brewery. An ice-cream dessert in beer form? Absolutely. This fruity sour blends juicy mango with creamy banana, lifted by natural lemon juice that adds acidity and bright citrus character. The whole profile is enriched with delicious Italian ice-cream notes. Yes! Ice cream in the middle of winter. The result is a smooth, intensely fruity, dessert-like beer. Browar Stu Mostow - XI Anniversary | Block Party</beer_description>
+    <beer_style>Sour - Smoothie / Pastry</beer_style>
+    <beer_abv>4.1%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Poland</brewery_country>
+    <untappd_id>6513873</untappd_id>
+  </item>
+  <item>
+    <id>6513879</id>
+    <ecommerce_id>808543737</ecommerce_id>
+    <title>XI Anniversary | Fully Loaded</title>
+    <url>https://hopincraftbier.be/products/browar-stu-mostow-xi-anniversary-fully-loaded</url>
+    <brewery_name>Browar Stu Mostów</brewery_name>
+    <price>6.5</price>
+    <regular_price>6.50</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/808543737/5516095479.png</image>
+    <beer_description>Celebrating Stu Mostów’s 11th anniversary, this is No. 3 of 3 beers in the birthday can series. Triple IPA brewed in collaboration with Varietal Brewery, bursting with hop power. This is true hop nectar, saturated with aroma to the very limit. Mosaic, Nectaron, Cashmere, and Krush create a bold blend of juicy, tropical notes from the very first sip. Thanks to hopping at various stages of the process, this beer is dense, hazy, and incredibly drinkable. Browar Stu Mostow - XI Anniversary | Fully Loaded</beer_description>
+    <beer_style>IPA - Triple</beer_style>
+    <beer_abv>10.1%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Poland</brewery_country>
+    <untappd_id>6513879</untappd_id>
+  </item>
+  <item>
     <id>940</id>
     <ecommerce_id>806954618</ecommerce_id>
     <title>Norm Brewing Pack</title>
@@ -6707,6 +6758,6 @@
     <date_canned>2025-03-27</date_canned>
     <untappd_id>593083</untappd_id>
   </item>
-  <timestamp>1768412705</timestamp>
-  <gen_date>14/01/2026 18:45:05</gen_date>
+  <timestamp>1768432337</timestamp>
+  <gen_date>15/01/2026 00:12:17</gen_date>
 </feed>
