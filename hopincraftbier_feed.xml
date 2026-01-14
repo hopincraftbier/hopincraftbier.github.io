@@ -574,6 +574,39 @@
     <untappd_id>6479597</untappd_id>
   </item>
   <item>
+    <id>6516548</id>
+    <ecommerce_id>801936315</ecommerce_id>
+    <title>Gasping Dust</title>
+    <url>https://hopincraftbier.be/products/autodidact-beer-gasping-dust</url>
+    <brewery_name>Autodidact Beer</brewery_name>
+    <price>10.25</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5447266765.png</image>
+    <beer_description>A bed of white wheat and oats lay a lush foundation for two of our favorite hops to coalesce and intensify. Motueka and Nelson deliver waves of lime zest, tropical fruit mélange, and ambrosial orange sorbet. Autodidact Beer - Gasping Dust</beer_description>
+    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
+    <beer_abv>8.5%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>United States</brewery_country>
+    <untappd_id>6516548</untappd_id>
+  </item>
+  <item>
+    <id>6501889</id>
+    <ecommerce_id>801936314</ecommerce_id>
+    <title>Encore</title>
+    <url>https://hopincraftbier.be/products/fine-balance-brewing-encore</url>
+    <brewery_name>Fine Balance Brewing</brewery_name>
+    <price>13.9</price>
+    <regular_price>13.90</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5447266771.png</image>
+    <beer_description>Encore Maple Barrel Aged Imperial Stout comes roughly one year after the release of Fête, our fourth anniversary barrel aged sweet stout (which was aged in bourbon barrels previously filled with maple syrup). For about 16 months we've had this big, smooth imperial stout ageing in rye whiskey barrels that were previously housed maple syrup. We're delighted with how this beer turned out. It has a creamy mouthfeel, with a hint of sweetness cut by a touch of whiskey. Encore is big at 11.9% ABV, but smooth and easy drinking. It's a great winter treat. Fine Balance Brewing - Encore</beer_description>
+    <beer_style>Stout - Imperial / Double</beer_style>
+    <beer_abv>11.9%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Canada</brewery_country>
+    <untappd_id>6501889</untappd_id>
+  </item>
+  <item>
     <id>6500393</id>
     <ecommerce_id>801905584</ecommerce_id>
     <title>Gauntlet</title>
@@ -884,6 +917,150 @@
     <bundle_skus>6241284,6237648,6231524</bundle_skus>
   </item>
   <item>
+    <id>6500739</id>
+    <ecommerce_id>798954657</ecommerce_id>
+    <title>Temporalis #0047</title>
+    <url>https://hopincraftbier.be/products/messorem-temporalis-0047</url>
+    <brewery_name>Messorem</brewery_name>
+    <price>10.43</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5409145537.png</image>
+    <beer_description>Triple IPA - Citra, Mosaic, Simcoe, Simcoe Dynaboost, Simcoe Hyperboost Messorem - Temporalis #0047</beer_description>
+    <beer_style>IPA - Triple New England / Hazy</beer_style>
+    <beer_abv>10%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Canada</brewery_country>
+    <untappd_id>6500739</untappd_id>
+  </item>
+  <item>
+    <id>6421473</id>
+    <ecommerce_id>797997508</ecommerce_id>
+    <title>Prodigality (2025)</title>
+    <url>https://hopincraftbier.be/products/jackie-os-brewery-prodigality-2025</url>
+    <brewery_name>Jackie O’s Brewery</brewery_name>
+    <price>17.81</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5409084164.png</image>
+    <beer_description>Churning out complexity through time &amp; heat. The solo grain, Maris Otter, brims the mash tun for a long soak. Part of the first runnings were boiled &amp; reduced, triggering the Maillard Reaction; through which, the vigorous heating of sugars adds a deeper color &amp; flavor. Continuing on with an extended boil to increase said reaction. A prolonged nap of 20 months in bourbon barrels finishes off this luxurious prize. Indulge in Prodigality’s warm embrace. This batch of Prodigality gracefully rested for 20 months in well aged 19 year Elijah Craig barrels. By windfall, this blend offers robust honey tones that we typically don’t see in Prodigality, and is steadied by the well-aged character the barrels impart. Jackie Os Brewery - Prodigality (2025)</beer_description>
+    <beer_style>Barleywine - English</beer_style>
+    <beer_abv>13.7%</beer_abv>
+    <beer_volume>355 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>United States</brewery_country>
+    <untappd_id>6421473</untappd_id>
+  </item>
+  <item>
+    <id>6473817</id>
+    <ecommerce_id>797998005</ecommerce_id>
+    <title>Don't Fear the Reaper</title>
+    <url>https://hopincraftbier.be/products/counterpart-brewing-dont-fear-the-reaper</url>
+    <brewery_name>Counterpart Brewing</brewery_name>
+    <price>11.91</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5409082110.png</image>
+    <beer_description>Hazy Triple IPA w/ Nelson Sauvin, Motueka &amp; Motueka Hop Kief brewed in collaboration w/ Messorem Big, juice laden flavours of sauv blanc, gooseberry, apricot, lime zest and pineapple with a balanced, candy-like sweetness. Counterpart Brewing - Don't Fear the Reaper</beer_description>
+    <beer_style>IPA - Triple New England / Hazy</beer_style>
+    <beer_abv>10%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Canada</brewery_country>
+    <untappd_id>6473817</untappd_id>
+  </item>
+  <item>
+    <id>6498668</id>
+    <ecommerce_id>797997507</ecommerce_id>
+    <title>Temporalis #0046</title>
+    <url>https://hopincraftbier.be/products/messorem-temporalis-0046</url>
+    <brewery_name>Messorem</brewery_name>
+    <price>11.24</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5409098251.png</image>
+    <beer_description>Triple IPA - NZ Cascade, Citra, Simcoe &amp; Simcoe Dynaboost. Messorem - Temporalis #0046</beer_description>
+    <beer_style>IPA - Triple New England / Hazy</beer_style>
+    <beer_abv>10%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Canada</brewery_country>
+    <untappd_id>6498668</untappd_id>
+  </item>
+  <item>
+    <id>5734470</id>
+    <ecommerce_id>797998004</ecommerce_id>
+    <title>IMPERIAL P-NUT BUSTER - AMANDE</title>
+    <url>https://hopincraftbier.be/products/brewskey-imperial-p-nut-buster-amande</url>
+    <brewery_name>BreWskey</brewery_name>
+    <price>11.58</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5409084118.png</image>
+    <beer_description>Stout chocolat, arachides, coco, vanille... et amande BreWskey - IMPERIAL P-NUT BUSTER - AMANDE</beer_description>
+    <beer_style>Stout - Imperial / Double Pastry</beer_style>
+    <beer_abv>10%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Canada</brewery_country>
+    <untappd_id>5734470</untappd_id>
+  </item>
+  <item>
+    <id>6491708</id>
+    <ecommerce_id>797997506</ecommerce_id>
+    <title>YQB-N5</title>
+    <url>https://hopincraftbier.be/products/nano-cinco-yqb-n5</url>
+    <brewery_name>Nano Cinco</brewery_name>
+    <price>11.24</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5409098263.png</image>
+    <beer_description>YQB-N5 est une New England Quadruple IPA brassée avec les houblons Riwaka, Rakau et Motueka (utilisé sous trois formes : T90, Hop Kief et Amplifire). Son nom et son design sont un clin d'oeil au Béluga, cet avion colossal conçu pour transporter d’autres appareils. Elle déploie des arômes intenses de sauvignon blanc et d’agrumes, portés par une texture soyeuse et enveloppante. Une bière dont la douceur dissimule habilement la force alcoolique. Nano Cinco - YQB-N5</beer_description>
+    <beer_style>IPA - Quadruple</beer_style>
+    <beer_abv>11%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Canada</brewery_country>
+    <untappd_id>6491708</untappd_id>
+  </item>
+  <item>
+    <id>6222183</id>
+    <ecommerce_id>797997504</ecommerce_id>
+    <title>Swirlee - Raspberry Creamsicle</title>
+    <url>https://hopincraftbier.be/products/drekker-brewing-company-swirlee-raspberry-creamsicle</url>
+    <brewery_name>Drekker Brewing Company</brewery_name>
+    <price>11.24</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5409084200.png</image>
+    <beer_description>Swirlee is a creamsicle sour series that is far beyond your wildest, swirliest dreams, but don’t you worry, we went out and scooped it all up for you. This one is a tasty pairing of a whole buncha raspberry and vanilla ice cream, and if you drink too many, your noggin might turn into an ice cream cone so enjoy responsibly! Drekker Brewing Company - Swirlee - Raspberry Creamsicle</beer_description>
+    <beer_style>Sour - Smoothie / Pastry</beer_style>
+    <beer_abv>6.7%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>United States</brewery_country>
+    <untappd_id>6222183</untappd_id>
+  </item>
+  <item>
+    <id>6497366</id>
+    <ecommerce_id>797998003</ecommerce_id>
+    <title>Towers</title>
+    <url>https://hopincraftbier.be/products/all-my-friends-beer-co-towers</url>
+    <brewery_name>All My Friends Beer Co.</brewery_name>
+    <price>9.58</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5409074477.png</image>
+    <beer_description>Towers pours a hazy golden yellow with a light cap of fluffy foam. The nose hits with sticky tropical fruit and fresh strawberries. Strata, a hop variety we have rarely used in the past is quickly becoming one of our favourites. We get delicious flavours of cotton candy, fresh berries, pithy oranges, and mild pine. The sip is zippy and refreshing, with a clean bitterness that keeps everything balanced and easy to drink. All My Friends Beer Co. - Towers</beer_description>
+    <beer_style>IPA - New England / Hazy</beer_style>
+    <beer_abv>6.5%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Canada</brewery_country>
+    <untappd_id>6497366</untappd_id>
+  </item>
+  <item>
+    <id>6497368</id>
+    <ecommerce_id>797997267</ecommerce_id>
+    <title>Surprise</title>
+    <url>https://hopincraftbier.be/products/all-my-friends-beer-co-surprise</url>
+    <brewery_name>All My Friends Beer Co.</brewery_name>
+    <price>10.58</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5409084218.png</image>
+    <beer_description>Surprise pours a light straw yellow with tight, lingering bubbles. Dank, overripe fruit hits the nose as soon as you crack the can, with hints of white wine and pineapple. Nectaron has been impressing us this year, and in this beer it doesn’t disappoint. Combined with Nelson Sauvin from Freestyle hop farms and a Mosaic that brings that classic berry note, we get huge flavours of peach, blueberry, passionfruit, and guava. All of it coasting on a wonderfully soft and creamy mouthfeel that finishes super clean. Another banger in our books. All My Friends Beer Co. - Surprise</beer_description>
+    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
+    <beer_abv>8.4%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Canada</brewery_country>
+    <untappd_id>6497368</untappd_id>
+  </item>
+  <item>
     <id>6399165</id>
     <ecommerce_id>797681262</ecommerce_id>
     <title>Reversed 6(66)</title>
@@ -1098,6 +1275,70 @@
     <brewery_country>Canada</brewery_country>
     <date_best_before>2026-10-20</date_best_before>
     <untappd_id>6457040</untappd_id>
+  </item>
+  <item>
+    <id>6459166</id>
+    <ecommerce_id>793369573</ecommerce_id>
+    <title>P'tit Monstre</title>
+    <url>https://hopincraftbier.be/products/brasserie-sir-john-brewing-co-ptit-monstre</url>
+    <brewery_name>Brasserie Sir John Brewing Co.</brewery_name>
+    <price>10.25</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5330715457.png</image>
+    <beer_description>Every brewery has one. That slightly petty or frivolous employee who always teeters on the edge of being respectable and dishonorable. It's in honor of these little monsters of the brewing world that we've teamed up for the very first time with the Quebec City crew at Nano Cinco! Triple IPA EXXXXXTRA juicy, this beer will make your ears tingle! Hopped with NZ Cascade, Pacifica, Nelson Sauvin Bliss, Riwaka, and a generous dose of Riwaka and Nelson Sauvin hopkief, this beer is made, like Kellogg's Frosties, to unleash your inner beast! It's ridiculously smooth, with a slight piney bitterness but a lovely juicy presence reminiscent of tropical fruits! We're super proud of this beer brewed with our new buddies from Quebec City. Until the next one, CHEERS! Brasserie Sir John Brewing Co. - P'tit Monstre</beer_description>
+    <beer_style>IPA - Triple New England / Hazy</beer_style>
+    <beer_abv>9.9%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Canada</brewery_country>
+    <untappd_id>6459166</untappd_id>
+  </item>
+  <item>
+    <id>40890</id>
+    <ecommerce_id>793369572</ecommerce_id>
+    <title>Barrel-Aged Ten FIDY®</title>
+    <url>https://hopincraftbier.be/products/oskar-blues-brewery-r-barrel-aged-ten-fidy-r</url>
+    <brewery_name>Oskar Blues Brewery®</brewery_name>
+    <price>9.18</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5330804306.png</image>
+    <beer_description>Aged through four seasons and from a blend of the top Bourbons around, this Ten Fidy has morphed into a monster of cranked up flavor. Espresso, burnt sugar, rich chocolate, caramel notes are now driving alongside the vanilla, oak, bourbon from the barrel and been smoothed out during maturation. Even at 12.9% (75 IBUs) it is cool and drinkable, letting each sip add more and more complexity. Oskar Blues Brewery - Barrel-Aged Ten FIDY</beer_description>
+    <beer_style>Stout - Imperial / Double</beer_style>
+    <beer_abv>12.5%</beer_abv>
+    <beer_volume>355 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>United States</brewery_country>
+    <untappd_id>40890</untappd_id>
+  </item>
+  <item>
+    <id>3485002</id>
+    <ecommerce_id>793369571</ecommerce_id>
+    <title>Imperial Smells Like Bean Spirit - Pecan Pie</title>
+    <url>https://hopincraftbier.be/products/mikerphone-brewing-imperial-smells-like-bean-spirit-pecan-pie</url>
+    <brewery_name>Mikerphone Brewing</brewery_name>
+    <price>11.24</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5330850781.png</image>
+    <beer_description>Imperial Breakfast Stout w/ Maple Syrup, Coffee, Brown Sugar, Pecans, and Vanilla. Mikerphone Brewing - Imperial Smells Like Bean Spirit - Pecan Pie</beer_description>
+    <beer_style>Stout - Imperial / Double Coffee</beer_style>
+    <beer_abv>11%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>United States</brewery_country>
+    <untappd_id>3485002</untappd_id>
+  </item>
+  <item>
+    <id>6430291</id>
+    <ecommerce_id>793373329</ecommerce_id>
+    <title>À L'ombre De L'Ange</title>
+    <url>https://hopincraftbier.be/products/brasserie-sir-john-brewing-co-a-lombre-de-lange</url>
+    <brewery_name>Brasserie Sir John Brewing Co.</brewery_name>
+    <price>25.93</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5330707236.png</image>
+    <beer_description>Far from being a reference to an Éric Lapointe song, À l'ombre de l'ange (In the Shadow of the Angel) is a truly fantastic blend. Made from a barley wine aged for 19 months in Heaven Hill bourbon barrels and an imperial stout aged for 24 months in MGP bourbon barrels, this beer embodies the tenderness of dark beers. It has a velvety, sweet character, enveloped by the warmth of the alcohol and the bourbon barrel aging. Lightly carbonated, it leans more towards the caramelized notes typical of these types of beers, almost like a sponge toffee. Easy (too easy, even) to drink, it's the kind of dark beer that brings you just close enough to gustatory heaven, or, as we like to call it, to the shadow of the angel. Brasserie Sir John Brewing Co. - A L'ombre De L'Ange</beer_description>
+    <beer_style>Strong Ale - Other</beer_style>
+    <beer_abv>11.9%</beer_abv>
+    <beer_volume>500 ml</beer_volume>
+    <beer_package>bottle</beer_package>
+    <brewery_country>Canada</brewery_country>
+    <untappd_id>6430291</untappd_id>
   </item>
   <item>
     <id>4123155</id>
@@ -6466,6 +6707,6 @@
     <date_canned>2025-03-27</date_canned>
     <untappd_id>593083</untappd_id>
   </item>
-  <timestamp>1768411806</timestamp>
-  <gen_date>14/01/2026 18:30:06</gen_date>
+  <timestamp>1768412705</timestamp>
+  <gen_date>14/01/2026 18:45:05</gen_date>
 </feed>
