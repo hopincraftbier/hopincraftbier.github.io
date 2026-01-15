@@ -55,6 +55,7 @@
     <beer_package>can</beer_package>
     <brewery_country>Poland</brewery_country>
     <date_best_before>2026-06-26</date_best_before>
+    <date_canned>2025-11-26</date_canned>
     <untappd_id>6513873</untappd_id>
   </item>
   <item>
@@ -6760,6 +6761,6 @@
     <date_canned>2025-03-27</date_canned>
     <untappd_id>593083</untappd_id>
   </item>
-  <timestamp>1768483846</timestamp>
-  <gen_date>15/01/2026 14:30:46</gen_date>
+  <timestamp>1768484707</timestamp>
+  <gen_date>15/01/2026 14:45:07</gen_date>
 </feed>
