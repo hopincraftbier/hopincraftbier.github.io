@@ -5,6 +5,22 @@
   <link>https://hopincraftbier.be/products&lt;/link&gt;</link>
   <description>Hop In Craftbier Products feed</description>
   <item>
+    <id>6471643</id>
+    <ecommerce_id>808672091</ecommerce_id>
+    <title>Neon Pulse</title>
+    <url>https://hopincraftbier.be/products/browar-stu-mostow-neon-pulse</url>
+    <brewery_name>Browar Stu Mostów</brewery_name>
+    <price>6.49</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/808672091/5517038890.png</image>
+    <beer_description>New England DIPA with a classic grain bill featuring oats that emphasizes haze, malty fullness and a bright, pale color. Nelson Sauvin hops in the whirlpool and dry hop provide a stable, beautiful haze and plenty of white fruit character. Citra adds the signature citrusy hop notes, while Dolcita, a new variety previously known under the trade number 1019, brings bold and expressive character to the mix. A perfect beer for fans of double dry hopping and juicy hop intensity. Browar Stu Mostow - Neon Pulse</beer_description>
+    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
+    <beer_abv>7.5%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Poland</brewery_country>
+    <untappd_id>6471643</untappd_id>
+  </item>
+  <item>
     <id>6567915</id>
     <ecommerce_id>808552524</ecommerce_id>
     <title>Latitude Zero</title>
@@ -6741,6 +6757,6 @@
     <date_canned>2025-03-27</date_canned>
     <untappd_id>593083</untappd_id>
   </item>
-  <timestamp>1768465812</timestamp>
-  <gen_date>15/01/2026 09:30:12</gen_date>
+  <timestamp>1768468156</timestamp>
+  <gen_date>15/01/2026 10:09:16</gen_date>
 </feed>
