@@ -1,4 +1,4 @@
-console.log("HopInCraftbier custom js v6.05");
+console.log("HopInCraftbier custom js v6.07");
 let debug = false;
 let prodMode = true;
 
@@ -452,7 +452,7 @@ function moveSubtitle() {
                 resp.attributes.forEach(function(attr){
                     if (attr.name === 'Untappd') untappd = attr.value;
                 })
-                const y = untappd?.split(' ');
+                const y = untappd?.split('(');
                 if (y && y.length > 0) {
                     console.log(y[0]);
                     let innerHtml = p.innerHTML.replace('</div>', '<div class="untappd">\n' +
