@@ -1,4 +1,4 @@
-/* HopInCraftbier custom css v3.55 */
+/* HopInCraftbier custom css v3.56 */
 #tile-product-details div.ins-tile__wrap {
     margin-top: 30px;
     min-width: 80%
@@ -347,12 +347,12 @@ div.pager__body {
             box-shadow: 0 10px 20px rgba(0, 0, 0, 0.30), 0 10px 10px rgba(0, 0, 0, 0.22);
             border-radius: 10px;
             transition: all 0.05s ease-in-out;
-            width: 70%;
+            width: 80%;
         }
 
         .grid-product__subtitle > * {
             position: absolute;
-            left: 15%;
+            left: 10%;
             transform: translate(0%, -135%);
             -webkit-transform: translate(0%, -135%);
             -moz-transform: translate(0%, -135%);
@@ -368,8 +368,8 @@ div.pager__body {
         .grid-product__wrap-inner:hover .grid-product__subtitle > div {
             border-color: #ddd;
             box-shadow: none;
-            padding: 11px 0;
-            width: 70%;
+            padding: 4px 0;
+            width: 80%;
         }
     }
 }
