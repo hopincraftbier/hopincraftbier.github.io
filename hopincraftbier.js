@@ -429,15 +429,41 @@ function addCouponInfo(toScroll) {
 }
 
 function moveSubtitle() {
-    if (!prodMode) {
-        return;
-    }
     log('moveSubtitle');
+
     document.querySelectorAll('div.grid-product__wrap-inner > div.grid-product__subtitle').forEach(function (p) {
         let imgWrapElement = p.parentElement.querySelector('div.grid-product__image-wrap');
         if (imgWrapElement) {
-            imgWrapElement.parentElement.insertBefore(p, imgWrapElement.lastChild.nextSibling);
+           imgWrapElement.parentElement.insertBefore(p, imgWrapElement.lastChild.nextSibling);
         }
+        let pid = p.closest('div.grid-product__wrap').getAttribute('data-product-id');
+        $.ajax({
+            type: "GET",
+            url: "https://app.ecwid.com/api/v3/112251271/products/" + pid + "?responseFields=id,attributes",
+            dataType: 'json',
+            contentType: "application/json",
+            headers: {
+                "Cache-Control": "no-cache",
+                "Authorization": "Bearer secret_HCDznTrqGhfaUJsTmC3u4wEHNGu1G6na",
+            },
+            data: {},
+            success: function(resp){
+                let untappd;
+                resp.attributes.forEach(function(attr){
+                    if (attr.name === 'Untappd') untappd = attr.value;
+                })
+                const y = untappd?.split(' ');
+                if (y && y.length > 0) {
+                    console.log(y[0]);
+                    let innerHtml = p.innerHTML.replace('</div>', '<div class="untappd">\n' +
+                        '<img style="display: inline-block;" src="https://d2j6dbq0eux0bg.cloudfront.net/images/wysiwyg/product/112251271/724600919/1739827248845232524408/untappd_icon64_png.png" height="16px" width="16px">\n' +
+                        '<span style="display: inline-block">' + y[0] + '</span></div></div>');
+                    p.innerHTML = innerHtml;
+                }
+            },
+            error: function(error){
+            }
+        });
     });
 }
 
@@ -552,28 +578,6 @@ function processProductBrowserPage() {
         moveSubtitle();
         addTitleAttribute();
         renameBuyButtonToPreorder();
-        if (!prodMode) {
-            document.querySelectorAll('div.grid-product__wrap').forEach(function (p) {
-                let pid = p.getAttribute('data-product-id');
-                $.ajax({
-                    type: "GET",
-                    url: "https://app.ecwid.com/api/v3/112251271/products/" + pid + "?responseFields=id,attributes",
-                    dataType: 'json',
-                    contentType: "application/json",
-                    headers: {
-                        "Cache-Control": "no-cache",
-                        "Authorization": "Bearer secret_HCDznTrqGhfaUJsTmC3u4wEHNGu1G6na",
-                    },
-                    data: {},
-                    success: function(resp){
-                        console.log(p.querySelector('div.grid-product__subtitle'));
-                        console.log(resp)
-                    },
-                    error: function(error){
-                    }
-                });
-            });
-        }
     }
 }
 
