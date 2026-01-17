@@ -1,4 +1,4 @@
-/* HopInCraftbier custom css v3.53 */
+/* HopInCraftbier custom css v3.55 */
 #tile-product-details div.ins-tile__wrap {
     margin-top: 30px;
     min-width: 80%
@@ -353,12 +353,12 @@ div.pager__body {
         .grid-product__subtitle > * {
             position: absolute;
             left: 15%;
-            transform: translate(0%, -120%);
-            -webkit-transform: translate(0%, -120%);
-            -moz-transform: translate(0%, -120%);
-            -ms-transform: translate(0%, -120%);
-            -o-transform: translate(0%, -120%);
-            -khtml-transform: translate(0%, -120%);
+            transform: translate(0%, -135%);
+            -webkit-transform: translate(0%, -135%);
+            -moz-transform: translate(0%, -135%);
+            -ms-transform: translate(0%, -135%);
+            -o-transform: translate(0%, -135%);
+            -khtml-transform: translate(0%, -135%);
         }
 
         .grid-product__wrap-inner:hover .grid-product__subtitle {
@@ -767,6 +767,16 @@ div.details-product-price-compare__container {
         }
     }
 }
+@media screen and (max-width: 1640px) {
+    .ec-size .ec-store .grid__products .grid-product .grid-product__subtitle > * {
+        transform: translate(0%, -120%);
+        -webkit-transform: translate(0%, -120%);
+        -moz-transform: translate(0%, -120%);
+        -ms-transform: translate(0%, -120%);
+        -o-transform: translate(0%, -120%);
+        -khtml-transform: translate(0%, -120%);
+    }
+}
 @media screen and (max-width: 1024px) {
     .ec-size .ec-store .grid__products .grid-product:nth-child(n + 1) {
         width: 33% !important;
@@ -782,26 +792,18 @@ div.details-product-price-compare__container {
         grid-gap: 25px;
         grid-template-columns: 55% 0 40%;
     }
-    .ec-size .ec-store .grid__products .grid-product .grid-product__subtitle > * {
-        transform: translate(0%, -145%);
-        -webkit-transform: translate(0%, -145%);
-        -moz-transform: translate(0%, -145%);
-        -ms-transform: translate(0%, -145%);
-        -o-transform: translate(0%, -145%);
-        -khtml-transform: translate(0%, -145%);
-    }
 }
 @media screen and (max-width: 935px) {
     .ec-store.ec-store__product-page .details-product-attribute .details-product-attribute__title {
         min-width: 35%;
     }
     .ec-size .ec-store .grid__products .grid-product .grid-product__subtitle > * {
-        transform: translate(0%, -140%);
-        -webkit-transform: translate(0%, -140%);
-        -moz-transform: translate(0%, -140%);
-        -ms-transform: translate(0%, -140%);
-        -o-transform: translate(0%, -140%);
-        -khtml-transform: translate(0%, -140%);
+        transform: translate(0%, -110%);
+        -webkit-transform: translate(0%, -110%);
+        -moz-transform: translate(0%, -110%);
+        -ms-transform: translate(0%, -110%);
+        -o-transform: translate(0%, -110%);
+        -khtml-transform: translate(0%, -110%);
     }
 }
 @media screen and (max-width: 800px) {
@@ -817,12 +819,12 @@ div.details-product-price-compare__container {
         grid-template-columns: 50% 0 45%;
     }
     .ec-size .ec-store .grid__products .grid-product .grid-product__subtitle > * {
-        transform: translate(0%, -160%);
-        -webkit-transform: translate(0%, -160%);
-        -moz-transform: translate(0%, -160%);
-        -ms-transform: translate(0%, -160%);
-        -o-transform: translate(0%, -160%);
-        -khtml-transform: translate(0%, -160%);
+        transform: translate(0%, -120%);
+        -webkit-transform: translate(0%, -120%);
+        -moz-transform: translate(0%, -120%);
+        -ms-transform: translate(0%, -120%);
+        -o-transform: translate(0%, -120%);
+        -khtml-transform: translate(0%, -120%);
     }
 }
 @media screen and (max-width: 750px) {
@@ -839,12 +841,12 @@ div.details-product-price-compare__container {
         }
     }
     .ec-size .ec-store .grid__products .grid-product .grid-product__subtitle > * {
-        transform: translate(0%, -150%);
-        -webkit-transform: translate(0%, -150%);
-        -moz-transform: translate(0%, -150%);
-        -ms-transform: translate(0%, -150%);
-        -o-transform: translate(0%, -150%);
-        -khtml-transform: translate(0%, -150%);
+        transform: translate(0%, -110%);
+        -webkit-transform: translate(0%, -110%);
+        -moz-transform: translate(0%, -110%);
+        -ms-transform: translate(0%, -110%);
+        -o-transform: translate(0%, -110%);
+        -khtml-transform: translate(0%, -110%);
     }
 }
 @media screen and (max-width: 615px) {
@@ -856,12 +858,12 @@ div.details-product-price-compare__container {
         width: 50% !important;
     }
     .ec-size .ec-store .grid__products .grid-product .grid-product__subtitle > * {
-        transform: translate(0%, -135%);
-        -webkit-transform: translate(0%, -135%);
-        -moz-transform: translate(0%, -135%);
-        -ms-transform: translate(0%, -135%);
-        -o-transform: translate(0%, -135%);
-        -khtml-transform: translate(0%, -135%);
+        transform: translate(0%, -80%);
+        -webkit-transform: translate(0%, -80%);
+        -moz-transform: translate(0%, -80%);
+        -ms-transform: translate(0%, -80%);
+        -o-transform: translate(0%, -80%);
+        -khtml-transform: translate(0%, -80%);
     }
 }
 @media screen and (max-width: 555px) {
@@ -876,12 +878,12 @@ div.details-product-price-compare__container {
         }
     }
     .ec-size .ec-store .grid__products .grid-product .grid-product__subtitle > * {
-        transform: translate(0%, -125%);
-        -webkit-transform: translate(0%, -125%);
-        -moz-transform: translate(0%, -125%);
-        -ms-transform: translate(0%, -125%);
-        -o-transform: translate(0%, -125%);
-        -khtml-transform: translate(0%, -125%);
+        transform: translate(0%, -115%);
+        -webkit-transform: translate(0%, -115%);
+        -moz-transform: translate(0%, -115%);
+        -ms-transform: translate(0%, -115%);
+        -o-transform: translate(0%, -115%);
+        -khtml-transform: translate(0%, -115%);
     }
 }
 #tile-feature-list-fjNnsD {
