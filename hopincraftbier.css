@@ -353,12 +353,12 @@ div.pager__body {
         .grid-product__subtitle > * {
             position: absolute;
             left: 15%;
-            transform: translate(0%, -150%);
-            -webkit-transform: translate(0%, -150%);
-            -moz-transform: translate(0%, -150%);
-            -ms-transform: translate(0%, -150%);
-            -o-transform: translate(0%, -150%);
-            -khtml-transform: translate(0%, -150%);
+            transform: translate(0%, -120%);
+            -webkit-transform: translate(0%, -120%);
+            -moz-transform: translate(0%, -120%);
+            -ms-transform: translate(0%, -120%);
+            -o-transform: translate(0%, -120%);
+            -khtml-transform: translate(0%, -120%);
         }
 
         .grid-product__wrap-inner:hover .grid-product__subtitle {
