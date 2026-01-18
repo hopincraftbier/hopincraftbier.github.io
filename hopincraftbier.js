@@ -1,4 +1,4 @@
-console.log("HopInCraftbier custom js v6.07");
+console.log("HopInCraftbier custom js v6.08");
 let debug = false;
 let prodMode = true;
 
@@ -453,13 +453,13 @@ function moveSubtitle() {
                     if (attr.name === 'Untappd') untappd = attr.value;
                 })
                 const y = untappd?.split('(');
+                let score = 'N/A';
                 if (y && y.length > 0) {
-                    console.log(y[0]);
-                    let innerHtml = p.innerHTML.replace('</div>', '<div class="untappd">\n' +
-                        '<img style="display: inline-block;" src="https://d2j6dbq0eux0bg.cloudfront.net/images/wysiwyg/product/112251271/724600919/1739827248845232524408/untappd_icon64_png.png" height="16px" width="16px">\n' +
-                        '<span style="display: inline-block">' + y[0] + '</span></div></div>');
-                    p.innerHTML = innerHtml;
+                    score = y[0];
                 }
+                p.innerHTML = p.innerHTML.replace('</div>', '<div class="untappd">\n' +
+                    '<img style="display: inline-block;" src="https://d2j6dbq0eux0bg.cloudfront.net/images/wysiwyg/product/112251271/724600919/1739827248845232524408/untappd_icon64_png.png" height="16px" width="16px">\n' +
+                    '<span style="display: inline-block">' + score + '</span></div></div>');
             },
             error: function(error){
             }
