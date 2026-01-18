@@ -1,4 +1,4 @@
-/* HopInCraftbier custom css v3.58 */
+/* HopInCraftbier custom css v3.59 */
 #tile-product-details div.ins-tile__wrap {
     margin-top: 30px;
     min-width: 80%
@@ -296,6 +296,7 @@ div.pager__body {
 
                 .label__text {
                     text-transform: uppercase;
+                    font-size: 12px !important;
                 }
             }
         }
