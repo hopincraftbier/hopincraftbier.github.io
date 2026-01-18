@@ -570,26 +570,6 @@
     <bundle_skus>348850,6092135,4990447</bundle_skus>
   </item>
   <item>
-    <id>963</id>
-    <ecommerce_id>804212466</ecommerce_id>
-    <title>All My Friends Beer Co. Pack</title>
-    <url>https://hopincraftbier.be/products/all-my-friends-beer-co-pack</url>
-    <brewery_name>All My Friends Beer Co.</brewery_name>
-    <price>21.82</price>
-    <regular_price>30.91</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5475103896.png</image>
-    <beer_description>The All My Friends Beer Co. Pack pack contains: - Chemistry - SEVER - BB Kush - 2025</beer_description>
-    <beer_style>Stout - IPA</beer_style>
-    <beer_abv>6 - 8%</beer_abv>
-    <beer_volume>3x473 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Canada</brewery_country>
-    <date_canned>2025-04-14</date_canned>
-    <beer_package_count>3</beer_package_count>
-    <beer_bundle>1</beer_bundle>
-    <bundle_skus>6228771,6228772,6228775</bundle_skus>
-  </item>
-  <item>
     <id>964</id>
     <ecommerce_id>803897806</ecommerce_id>
     <title>Brasserie Sir John IPA Duo</title>
@@ -812,26 +792,6 @@
     <bundle_skus>6289690,6249191,6249190,6249192</bundle_skus>
   </item>
   <item>
-    <id>970</id>
-    <ecommerce_id>801005331</ecommerce_id>
-    <title>Long Live Beerworks Pack</title>
-    <url>https://hopincraftbier.be/products/long-live-beerworks-pack</url>
-    <brewery_name>Long Live Beerworks</brewery_name>
-    <price>27.98</price>
-    <regular_price>39.64</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5438444518.png</image>
-    <beer_description>The Long Live Beerworks Pack pack contains: - DDH Attitude - 6 Lives - DDH Black Cat Sees All - 5 Lives</beer_description>
-    <beer_style>IPA</beer_style>
-    <beer_abv>6 - 10%</beer_abv>
-    <beer_volume>4x473 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>United States</brewery_country>
-    <date_canned>2025-04-14</date_canned>
-    <beer_package_count>4</beer_package_count>
-    <beer_bundle>1</beer_bundle>
-    <bundle_skus>4744499,4589206,6263928,6227368</bundle_skus>
-  </item>
-  <item>
     <id>971</id>
     <ecommerce_id>801005274</ecommerce_id>
     <title>Equilibrium Brewery Pack</title>
@@ -893,26 +853,6 @@
     <bundle_skus>6214473,6259353,6231627</bundle_skus>
   </item>
   <item>
-    <id>974</id>
-    <ecommerce_id>800983350</ecommerce_id>
-    <title>Le Ketch IPA Pack</title>
-    <url>https://hopincraftbier.be/products/le-ketch-ipa-pack</url>
-    <brewery_name>Le Ketch</brewery_name>
-    <price>25.2</price>
-    <regular_price>35.7</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5438318483.png</image>
-    <beer_description>The Le Ketch pack contains: - Dock 111 - Citra, Cascade NZ, Motueka &amp; Pacifica - Dock 72 - Peacharine, Galaxy &amp; Nelson Sauvin (2025) - Dock 73 - NELSON SAUVIN, CITRA &amp; SOUTHERN CROSS (2025)</beer_description>
-    <beer_style>IPA</beer_style>
-    <beer_abv>6 - 10%</beer_abv>
-    <beer_volume>3x473 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Canada</brewery_country>
-    <date_canned>2025-04-07</date_canned>
-    <beer_package_count>3</beer_package_count>
-    <beer_bundle>1</beer_bundle>
-    <bundle_skus>6205485,6166277,6205488</bundle_skus>
-  </item>
-  <item>
     <id>975</id>
     <ecommerce_id>800983338</ecommerce_id>
     <title>Tin Barn IPA Pack 2</title>
@@ -930,26 +870,6 @@
     <beer_package_count>3</beer_package_count>
     <beer_bundle>1</beer_bundle>
     <bundle_skus>6242680,6242674,6257025</bundle_skus>
-  </item>
-  <item>
-    <id>976</id>
-    <ecommerce_id>800892694</ecommerce_id>
-    <title>Vitamin Sea IPA Pack</title>
-    <url>https://hopincraftbier.be/products/vitamin-sea-ipa-pack</url>
-    <brewery_name>Vitamin Sea Brewing</brewery_name>
-    <price>21.97</price>
-    <regular_price>31.12</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5438292105.png</image>
-    <beer_description>The Vitamin Sea Brewing pack contains: - Vitamin Sea - Just Another T-Shirt Shop - Vitamin Sea - Due North - Vitamin Sea - Double Spring</beer_description>
-    <beer_style>IPA</beer_style>
-    <beer_abv>6 - 8%</beer_abv>
-    <beer_volume>3x473 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>United States</brewery_country>
-    <date_canned>2025-04-17</date_canned>
-    <beer_package_count>3</beer_package_count>
-    <beer_bundle>1</beer_bundle>
-    <bundle_skus>3708746,1954247,2977936</bundle_skus>
   </item>
   <item>
     <id>977</id>
@@ -1760,24 +1680,6 @@
     <brewery_country>England</brewery_country>
     <date_best_before>2026-04-02</date_best_before>
     <untappd_id>6440563</untappd_id>
-  </item>
-  <item>
-    <id>3894150</id>
-    <ecommerce_id>790918083</ecommerce_id>
-    <title>Unconventional Tactics</title>
-    <url>https://hopincraftbier.be/products/verdant-brewing-co-unconventional-tactics</url>
-    <brewery_name>Verdant Brewing Co</brewery_name>
-    <price>7.39</price>
-    <regular_price>8,69</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5290681751.png</image>
-    <beer_description>It’s no secret that Nelson Sauvin is our favourite hop. No secret at all. To this end…here is the most 'Nelsony' beer we’ve ever attempted. We’ve added Nelson on top of Nelson, squeezed a bit more Nelson in, and then finished it off with some Nelson. Super smooth. Super light. Super Nelson. ⁣ Verdant Brewing Co - Unconventional Tactics</beer_description>
-    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
-    <beer_abv>8%</beer_abv>
-    <beer_volume>440 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>England</brewery_country>
-    <date_best_before>2026-02-13</date_best_before>
-    <untappd_id>3894150</untappd_id>
   </item>
   <item>
     <id>5605718</id>
@@ -3234,23 +3136,6 @@
     <untappd_id>6346854</untappd_id>
   </item>
   <item>
-    <id>6351107</id>
-    <ecommerce_id>778763015</ecommerce_id>
-    <title>Temporalis #0039</title>
-    <url>https://hopincraftbier.be/products/messorem-temporalis-0039</url>
-    <brewery_name>Messorem</brewery_name>
-    <price>11.92</price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5260716002.webp</image>
-    <beer_description>Triple IPA - Superdelic, Nelson Sauvin, Citra, Citra Incognito Messorem - Temporalis #0039</beer_description>
-    <beer_style>IPA - Triple New England / Hazy</beer_style>
-    <beer_abv>10%</beer_abv>
-    <beer_volume>473 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Canada</brewery_country>
-    <date_canned>2025-07-17</date_canned>
-    <untappd_id>6351107</untappd_id>
-  </item>
-  <item>
     <id>6350229</id>
     <ecommerce_id>778763013</ecommerce_id>
     <title>Nelson &amp; Cream</title>
@@ -3597,24 +3482,6 @@
     <untappd_id>4886029</untappd_id>
   </item>
   <item>
-    <id>6271344</id>
-    <ecommerce_id>768809793</ecommerce_id>
-    <title>Flux: Phase 3</title>
-    <url>https://hopincraftbier.be/products/verdant-brewing-co-flux-phase-3</url>
-    <brewery_name>Verdant Brewing Co</brewery_name>
-    <price>7.08</price>
-    <regular_price>9,44</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5062294321.webp</image>
-    <beer_description>An 8% DIPA that lets NZH-101 off the leash! Lime, lemonade, dank. A thing of beauty. FLUX is a really special three beer collaboration with Track. Brewing Co. We have combined our hoppy knowledge to create levels of saturation, flavours and aromatics bordering on the insane! Each beer in the series is an absolute monster with a different New Zealand hop leading the charge: Nelson Sauvin, Nectaron and NZH-101. Verdant Brewing Co - Flux: Phase 3</beer_description>
-    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
-    <beer_abv>8%</beer_abv>
-    <beer_volume>440 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>England</brewery_country>
-    <date_best_before>2026-01-18</date_best_before>
-    <untappd_id>6271344</untappd_id>
-  </item>
-  <item>
     <id>3527025</id>
     <ecommerce_id>767352722</ecommerce_id>
     <title>Vertige</title>
@@ -3649,40 +3516,6 @@
     <untappd_id>3925367</untappd_id>
   </item>
   <item>
-    <id>6316537</id>
-    <ecommerce_id>767352721</ecommerce_id>
-    <title>Chasing Trees: Strain 24</title>
-    <url>https://hopincraftbier.be/products/dankhouse-brewing-company-chasing-trees-strain-24</url>
-    <brewery_name>DankHouse Brewing Company</brewery_name>
-    <price>10.34</price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5145623756.webp</image>
-    <beer_description>Dry hopped with Vera, Anchovy, and Citra. DankHouse Brewing Company - Chasing Trees: Strain 24</beer_description>
-    <beer_style>IPA - New England / Hazy</beer_style>
-    <beer_abv>7%</beer_abv>
-    <beer_volume>473 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>United States</brewery_country>
-    <date_canned>2025-07-13</date_canned>
-    <untappd_id>6316537</untappd_id>
-  </item>
-  <item>
-    <id>4092023</id>
-    <ecommerce_id>767352720</ecommerce_id>
-    <title>High-Low</title>
-    <url>https://hopincraftbier.be/products/finback-brewery-high-low</url>
-    <brewery_name>Finback Brewery</brewery_name>
-    <price>10.55</price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5145458707.webp</image>
-    <beer_description>double dry hopped with Mosaic, Amarillo, Citra, Belma, Blanc, El Dorado, Waimea, Idaho 7 and Nelson Finback Brewery - High-Low</beer_description>
-    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
-    <beer_abv>8.4%</beer_abv>
-    <beer_volume>473 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>United States</brewery_country>
-    <date_canned>2025-07-11</date_canned>
-    <untappd_id>4092023</untappd_id>
-  </item>
-  <item>
     <id>6316546</id>
     <ecommerce_id>767361433</ecommerce_id>
     <title>Mutant Turtle Pizza</title>
@@ -3698,23 +3531,6 @@
     <brewery_country>United States</brewery_country>
     <date_canned>2025-07-31</date_canned>
     <untappd_id>6316546</untappd_id>
-  </item>
-  <item>
-    <id>6325245</id>
-    <ecommerce_id>767352719</ecommerce_id>
-    <title>Aspect of Leo</title>
-    <url>https://hopincraftbier.be/products/hop-butcher-for-the-world-aspect-of-leo</url>
-    <brewery_name>Hop Butcher For The World</brewery_name>
-    <price>10.34</price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5145475969.webp</image>
-    <beer_description>Citra-Hopped India Pale Ale Brewed With Blood Orange Hop Butcher For The World - Aspect of Leo</beer_description>
-    <beer_style>IPA - New England / Hazy</beer_style>
-    <beer_abv>6.5%</beer_abv>
-    <beer_volume>473 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>United States</brewery_country>
-    <date_canned>2025-07-14</date_canned>
-    <untappd_id>6325245</untappd_id>
   </item>
   <item>
     <id>6331773</id>
@@ -3766,22 +3582,6 @@
     <untappd_id>5853339</untappd_id>
   </item>
   <item>
-    <id>3040198</id>
-    <ecommerce_id>767347723</ecommerce_id>
-    <title>Triple Stars</title>
-    <url>https://hopincraftbier.be/products/celestial-beerworks-triple-stars</url>
-    <brewery_name>Celestial Beerworks</brewery_name>
-    <price>11.24</price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5145598807.webp</image>
-    <beer_description>Triple Stars is filled with raw wheat, malted wheat, and flaked wheat which makes it ethereal and soft. It’s triple-dry hopped with Strata, Vic Secret, and Citra hops. If you know these hops, you know this beer is ultra juicy, full of orange juice, mango and grapefruit essence. This beer is super phosphorescent (minus the radiation...) and ultra bright. It’s velvety and full and bursting with flavor. PS: The label of only one can is upside down attached. Perhaps a collector's item? Please, specifically ask for it if you want this one. Celestial Beerworks - Triple Stars</beer_description>
-    <beer_style>IPA - Triple New England / Hazy</beer_style>
-    <beer_abv>10%</beer_abv>
-    <beer_volume>473 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>United States</brewery_country>
-    <untappd_id>3040198</untappd_id>
-  </item>
-  <item>
     <id>4813817</id>
     <ecommerce_id>767347721</ecommerce_id>
     <title>Cosmic Mountain</title>
@@ -3797,22 +3597,6 @@
     <brewery_country>United States</brewery_country>
     <date_canned>2025-07-21</date_canned>
     <untappd_id>4813817</untappd_id>
-  </item>
-  <item>
-    <id>3012849</id>
-    <ecommerce_id>767347722</ecommerce_id>
-    <title>Double Stars</title>
-    <url>https://hopincraftbier.be/products/celestial-beerworks-double-stars</url>
-    <brewery_name>Celestial Beerworks</brewery_name>
-    <price>10.2</price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5145598782.webp</image>
-    <beer_description>Double Stars approaches the traditional malt base with a slight twist. Instead of using just oats and wheat, we focused on 3 kinds of wheat to give the beer more of a velvety and fluffy body. It’s brewed with malted wheat, raw wheat, and flaked wheat. Hopped with delightful amounts of Idaho 7 and Vic Secret, this beer has a complex aroma of dank pineapple and mango that explodes out of your glass. This 8% banger is slightly viscous with loads of body and softness. Double Stars is full of passionfruit, mango flesh and ripe pineapple, and is as juicy as can be. Celestial Beerworks - Double Stars</beer_description>
-    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
-    <beer_abv>8%</beer_abv>
-    <beer_volume>473 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>United States</brewery_country>
-    <untappd_id>3012849</untappd_id>
   </item>
   <item>
     <id>4027002</id>
@@ -3898,23 +3682,6 @@
     <brewery_country>France</brewery_country>
     <date_best_before>2026-04-28</date_best_before>
     <untappd_id>6296412</untappd_id>
-  </item>
-  <item>
-    <id>4696593</id>
-    <ecommerce_id>767292177</ecommerce_id>
-    <title>Super Ultra Mega Classic</title>
-    <url>https://hopincraftbier.be/products/outer-range-brewing-co-super-ultra-mega-classic</url>
-    <brewery_name>Outer Range Brewing Co.</brewery_name>
-    <price>7.98</price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5243283818.webp</image>
-    <beer_description>Hops: Citra Cryo • El Dorado • Galaxy Tasting Notes: Honey Dew • Red Grapefruit • Blood Orange Outer Range Brewing Co. - Super Ultra Mega Classic</beer_description>
-    <beer_style>IPA - Triple New England / Hazy</beer_style>
-    <beer_abv>10.5%</beer_abv>
-    <beer_volume>440 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>France</brewery_country>
-    <date_best_before>2026-02-16</date_best_before>
-    <untappd_id>4696593</untappd_id>
   </item>
   <item>
     <id>4953869</id>
@@ -4052,38 +3819,6 @@
     <brewery_country>Canada</brewery_country>
     <date_canned>2025-05-26</date_canned>
     <untappd_id>6293352</untappd_id>
-  </item>
-  <item>
-    <id>6248577</id>
-    <ecommerce_id>765275159</ecommerce_id>
-    <title>Big Pharma</title>
-    <url>https://hopincraftbier.be/products/district-96-beer-factory-big-pharma</url>
-    <brewery_name>District 96 Beer Factory</brewery_name>
-    <price>11.56</price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5032086311.webp</image>
-    <beer_description>Hawaiian tropical vibes District 96 Beer Factory - Big Pharma</beer_description>
-    <beer_style>IPA - Triple New England / Hazy</beer_style>
-    <beer_abv>11%</beer_abv>
-    <beer_volume>473 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>United States</brewery_country>
-    <untappd_id>6248577</untappd_id>
-  </item>
-  <item>
-    <id>2906239</id>
-    <ecommerce_id>765275158</ecommerce_id>
-    <title>Trade War</title>
-    <url>https://hopincraftbier.be/products/district-96-beer-factory-trade-war</url>
-    <brewery_name>District 96 Beer Factory</brewery_name>
-    <price>9.87</price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5032065449.webp</image>
-    <beer_description>Hopped with Enigma and Vic secret. Orange, berry, and tropical fruits. District 96 Beer Factory - Trade War</beer_description>
-    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
-    <beer_abv>8.5%</beer_abv>
-    <beer_volume>473 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>United States</brewery_country>
-    <untappd_id>2906239</untappd_id>
   </item>
   <item>
     <id>6308971</id>
@@ -4920,24 +4655,6 @@
     <untappd_id>4486704</untappd_id>
   </item>
   <item>
-    <id>1954247</id>
-    <ecommerce_id>751542771</ecommerce_id>
-    <title>Vitamin Sea - Due North</title>
-    <url>https://hopincraftbier.be/products/vitamin-sea-due-north</url>
-    <brewery_name>Vitamin Sea Brewing</brewery_name>
-    <price>7.7</price>
-    <regular_price>10,26</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5438339795.png</image>
-    <beer_description>Hazy IPA hopped with Galaxy and Mosaic Vitamin Sea Brewing - Due North</beer_description>
-    <beer_style>IPA - New England / Hazy</beer_style>
-    <beer_abv>7.6%</beer_abv>
-    <beer_volume>473 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>United States</brewery_country>
-    <date_canned>2025-04-17</date_canned>
-    <untappd_id>1954247</untappd_id>
-  </item>
-  <item>
     <id>6242680</id>
     <ecommerce_id>751542515</ecommerce_id>
     <title>Be Kind, Rewind</title>
@@ -5126,24 +4843,6 @@
     <untappd_id>6231524</untappd_id>
   </item>
   <item>
-    <id>6221131</id>
-    <ecommerce_id>751542770</ecommerce_id>
-    <title>Kung Fu Time Bomb</title>
-    <url>https://hopincraftbier.be/products/spyglass-brewing-company-kung-fu-time-bomb</url>
-    <brewery_name>Spyglass Brewing Company</brewery_name>
-    <price>8.72</price>
-    <regular_price>11,62</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4963595192.webp</image>
-    <beer_description>In collaboration with Incandescent Brewing. A DIPA hopped with Citra Incognito, Krush, Citra, Motueka, and Strata Quantum Brite. Spyglass Brewing Company - Kung Fu Time Bomb</beer_description>
-    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
-    <beer_abv>8%</beer_abv>
-    <beer_volume>473 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>United States</brewery_country>
-    <date_canned>2025-04-09</date_canned>
-    <untappd_id>6221131</untappd_id>
-  </item>
-  <item>
     <id>6237648</id>
     <ecommerce_id>751542768</ecommerce_id>
     <title>Bain D'agrumes</title>
@@ -5247,24 +4946,6 @@
     <untappd_id>348850</untappd_id>
   </item>
   <item>
-    <id>6205485</id>
-    <ecommerce_id>751529275</ecommerce_id>
-    <title>Dock 73 - NELSON SAUVIN, CITRA &amp; SOUTHERN CROSS (2025)</title>
-    <url>https://hopincraftbier.be/products/le-ketch-dock-73-nelson-sauvin-citra--southern-cross-2025</url>
-    <brewery_name>Le Ketch</brewery_name>
-    <price>9.49</price>
-    <regular_price>12,65</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5438318477.png</image>
-    <beer_description>TRIPLE NEW ENGLAND IPA AU MIEL. HOUBLONS: NELSON SAUVIN, CITRA &amp; SOUTHERN CROSS Le Ketch - Dock 73 - NELSON SAUVIN, CITRA &amp; SOUTHERN CROSS (2025)</beer_description>
-    <beer_style>IPA - Triple New England / Hazy</beer_style>
-    <beer_abv>10%</beer_abv>
-    <beer_volume>473 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Canada</brewery_country>
-    <date_canned>2025-04-07</date_canned>
-    <untappd_id>6205485</untappd_id>
-  </item>
-  <item>
     <id>6236757</id>
     <ecommerce_id>751529276</ecommerce_id>
     <title>Aspect of Taurus</title>
@@ -5332,42 +5013,6 @@
     <untappd_id>4990447</untappd_id>
   </item>
   <item>
-    <id>6215483</id>
-    <ecommerce_id>751529273</ecommerce_id>
-    <title>Dora #79</title>
-    <url>https://hopincraftbier.be/products/badlands-brewing-company-dora-79</url>
-    <brewery_name>Badlands Brewing Company</brewery_name>
-    <price>8.31</price>
-    <regular_price>11,08</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4927488830.png</image>
-    <beer_description>Dora is our exploratory series of beers where we mess around with anything/everything from ingredients to process. For this version of Dora we decided we wanted to try a new blend of pale oats and wheat than we typically use. Hopped exclusively with Citra, we taste huge pineapple, papaya and mixed citrus Badlands Brewing Company - Dora #79</beer_description>
-    <beer_style>IPA - American</beer_style>
-    <beer_abv>6.5%</beer_abv>
-    <beer_volume>473 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Canada</brewery_country>
-    <date_canned>2025-04-09</date_canned>
-    <untappd_id>6215483</untappd_id>
-  </item>
-  <item>
-    <id>6166277</id>
-    <ecommerce_id>751542508</ecommerce_id>
-    <title>Dock 111 - Citra, Cascade NZ, Motueka &amp; Pacifica</title>
-    <url>https://hopincraftbier.be/products/le-ketch-dock-111-citra-cascade-nz-motueka--pacifica</url>
-    <brewery_name>Le Ketch</brewery_name>
-    <price>8.31</price>
-    <regular_price>11,08</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5438318471.png</image>
-    <beer_description>NEW ENGLAND IPA AU MIEL. HOUBLONS: CITRA, CASCADE NZ, MOTUEKA &amp; PACIFICA Le Ketch - Dock 111 - Citra, Cascade NZ, Motueka &amp; Pacifica</beer_description>
-    <beer_style>IPA - New England / Hazy</beer_style>
-    <beer_abv>6.5%</beer_abv>
-    <beer_volume>473 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Canada</brewery_country>
-    <date_canned>2025-04-07</date_canned>
-    <untappd_id>6166277</untappd_id>
-  </item>
-  <item>
     <id>6248503</id>
     <ecommerce_id>751542507</ecommerce_id>
     <title>The Juice Awakens</title>
@@ -5384,24 +5029,6 @@
     <brewery_country>United States</brewery_country>
     <date_canned>2025-05-01</date_canned>
     <untappd_id>6248503</untappd_id>
-  </item>
-  <item>
-    <id>6227368</id>
-    <ecommerce_id>751529272</ecommerce_id>
-    <title>6 Lives</title>
-    <url>https://hopincraftbier.be/products/long-live-beerworks-6-lives</url>
-    <brewery_name>Long Live Beerworks</brewery_name>
-    <price>6.92</price>
-    <regular_price>9,23</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5438433948.png</image>
-    <beer_description>IPA brewed in continuation with our anniversary (aka this year’s “Anniversary Series”). 7.5% Long Live Beerworks - 6 Lives</beer_description>
-    <beer_style>IPA - New England / Hazy</beer_style>
-    <beer_abv>7.5%</beer_abv>
-    <beer_volume>473 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>United States</brewery_country>
-    <date_canned>2025-04-14</date_canned>
-    <untappd_id>6227368</untappd_id>
   </item>
   <item>
     <id>6214473</id>
@@ -5678,42 +5305,6 @@
     <untappd_id>6047751</untappd_id>
   </item>
   <item>
-    <id>6228771</id>
-    <ecommerce_id>751542502</ecommerce_id>
-    <title>BB Kush - 2025</title>
-    <url>https://hopincraftbier.be/products/all-my-friends-beer-co-bb-kush-2025</url>
-    <brewery_name>All My Friends Beer Co.</brewery_name>
-    <price>8.21</price>
-    <regular_price>10,94</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5475139798.png</image>
-    <beer_description>Citra, Superdelic, Terpenes - Collab with Blood Brothers All My Friends Beer Co. - BB Kush - 2025</beer_description>
-    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
-    <beer_abv>8.2%</beer_abv>
-    <beer_volume>473 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Canada</brewery_country>
-    <date_canned>2025-04-14</date_canned>
-    <untappd_id>6228771</untappd_id>
-  </item>
-  <item>
-    <id>6231627</id>
-    <ecommerce_id>751542762</ecommerce_id>
-    <title>The World Is Mine</title>
-    <url>https://hopincraftbier.be/products/counterpart-brewing-the-world-is-mine</url>
-    <brewery_name>Counterpart Brewing</brewery_name>
-    <price>7.54</price>
-    <regular_price>10,05</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5438351331.png</image>
-    <beer_description>Hazy IPA w/ Motueka, Waimea &amp; Riwaka Bright and juicy, brimming with fresh mango, lychee, nectarine and white gummy bears with a lush, creamy mouthfeel. Counterpart Brewing - The World Is Mine</beer_description>
-    <beer_style>IPA - New England / Hazy</beer_style>
-    <beer_abv>6.5%</beer_abv>
-    <beer_volume>473 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Canada</brewery_country>
-    <date_canned>2025-04-16</date_canned>
-    <untappd_id>6231627</untappd_id>
-  </item>
-  <item>
     <id>6228772</id>
     <ecommerce_id>751542761</ecommerce_id>
     <title>SEVER</title>
@@ -5747,24 +5338,6 @@
     <brewery_country>United States</brewery_country>
     <date_canned>2025-04-24</date_canned>
     <untappd_id>6262557</untappd_id>
-  </item>
-  <item>
-    <id>6228775</id>
-    <ecommerce_id>751537012</ecommerce_id>
-    <title>Chemistry</title>
-    <url>https://hopincraftbier.be/products/all-my-friends-beer-co-chemistry</url>
-    <brewery_name>All My Friends Beer Co.</brewery_name>
-    <price>7.54</price>
-    <regular_price>10,05</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5475139804.png</image>
-    <beer_description>Citra, Motueka, Rakau, Terpenes - Collab with BAOS Podcast All My Friends Beer Co. - Chemistry</beer_description>
-    <beer_style>IPA - New England / Hazy</beer_style>
-    <beer_abv>6.5%</beer_abv>
-    <beer_volume>473 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Canada</brewery_country>
-    <date_canned>2025-04-14</date_canned>
-    <untappd_id>6228775</untappd_id>
   </item>
   <item>
     <id>6244270</id>
@@ -6745,6 +6318,6 @@
     <date_canned>2025-03-27</date_canned>
     <untappd_id>593083</untappd_id>
   </item>
-  <timestamp>1768734905</timestamp>
-  <gen_date>18/01/2026 12:15:05</gen_date>
+  <timestamp>1768735355</timestamp>
+  <gen_date>18/01/2026 12:22:35</gen_date>
 </feed>
