@@ -1,4 +1,4 @@
-console.log("HopInCraftbier custom js v6.10");
+console.log("HopInCraftbier custom js v6.11");
 let debug = false;
 let prodMode = true;
 
@@ -444,7 +444,7 @@ function moveSubtitle() {
             contentType: "application/json",
             headers: {
                 "Cache-Control": "no-cache",
-                "Authorization": "Bearer secret_u5CuVy7p4J53J7Mc6UyH4yrafFYRVNSP",
+                "Authorization": "Bearer secret_8BssSp1WCED2hZW8mHZFWEgaHJziJY7W",
             },
             data: {},
             success: function(resp){
