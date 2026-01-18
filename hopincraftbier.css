@@ -1,4 +1,4 @@
-/* HopInCraftbier custom css v3.56 */
+/* HopInCraftbier custom css v3.57 */
 #tile-product-details div.ins-tile__wrap {
     margin-top: 30px;
     min-width: 80%
@@ -683,16 +683,18 @@ div.ins-tile__product-item--small.ins-tile__product-item.ins-tile__item:nth-chil
     height: 14px !important;
 }
 .discount-table {
+    background-color: #009879;
     width: 100%;
-    border-collapse:collapse;
-    margin:2px 0 25px 0 !important;
+    border-radius: 9px;
+    border-collapse: initial;
+    border-spacing: 0;
     font-size:12px !important;
     font-family: system-ui, Ubuntu;
     min-width:300px;
     box-shadow:0 0 20px rgba(0, 0, 0, 0.15) !important;
+    border: 1px solid #009879;
 }
 .discount-table thead tr {
-    background-color:#009879 !important;
     color:#ffffff !important;
     text-align:left !important;
 }
@@ -704,19 +706,24 @@ div.ins-tile__product-item--small.ins-tile__product-item.ins-tile__item:nth-chil
     padding:0 15px 5px 15px !important;
     text-align:center !important;
 }
-.discount-table tbody tr {
-    border-bottom:1px solid #dddddd !important;
-}
-.discount-table tbody tr:nth-of-type(even) {
+.discount-table tbody tr:nth-of-type(even) td {
     background-color:#f3f3f3 !important;
 }
-.discount-table tbody tr:last-of-type {
-    border-bottom:2px solid #009879 !important;
+.discount-table tbody tr:nth-of-type(odd) td {
+    background-color:white !important;
 }
 .discount-table td:nth-child(1) {
     font-weight:700 !important;
     text-align:left !important;
     padding:5px 15px !important;
+}
+.discount-table tbody tr:last-of-type {
+    td:first-child {
+        border-bottom-left-radius: 9px;
+    }
+    td:last-child {
+        border-bottom-right-radius: 9px;
+    }
 }
 .dtooltip {
     position: relative;
