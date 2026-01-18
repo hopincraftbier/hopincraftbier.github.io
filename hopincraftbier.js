@@ -1,4 +1,4 @@
-console.log("HopInCraftbier custom js v6.11");
+console.log("HopInCraftbier custom js v6.12");
 let debug = false;
 let prodMode = true;
 
@@ -459,7 +459,7 @@ function moveSubtitle() {
                 }
                 p.innerHTML = p.innerHTML.replace('</div>', '<div class="untappd">\n' +
                     '<img style="display: inline-block;" src="https://d2j6dbq0eux0bg.cloudfront.net/images/wysiwyg/product/112251271/724600919/1739827248845232524408/untappd_icon64_png.png" height="16px" width="16px">\n' +
-                    '<span style="display: inline-block">' + score + '</span></div></div>');
+                    '<span style="display: inline-block">&nbsp;' + score + '</span></div></div>');
             },
             error: function(error){
             }
