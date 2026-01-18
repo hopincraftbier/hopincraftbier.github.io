@@ -1,4 +1,4 @@
-console.log("HopInCraftbier custom js v6.15");
+console.log("HopInCraftbier custom js v6.17");
 let debug = false;
 let prodMode = true;
 
@@ -447,7 +447,7 @@ function processProduct(pid, element) {
         },
         data: {},
         success: function(resp){
-            moveSubtitle2(element, resp);
+            moveSubtitle(element, resp);
             showMaxPrice(element, resp)
         },
         error: function(error){
@@ -455,7 +455,7 @@ function processProduct(pid, element) {
     });
 }
 
-function moveSubtitle2(element, resp) {
+function moveSubtitle(element, resp) {
     const subtitleElement = element.querySelector('div.grid-product__wrap-inner > div.grid-product__subtitle');
     if (subtitleElement) {
         let imgWrapElement = subtitleElement.parentElement.querySelector('div.grid-product__image-wrap');
@@ -483,51 +483,17 @@ function showMaxPrice(element, resp) {
         resp.attributes.forEach(function(attr){
             if (attr.name === 'hide_max_prijs') maxPrice = 'Max ' + attr.value;
         })
-        element.querySelector('div.grid-product__price').style.display = 'flex';
-        const priceElement = element.querySelector('div.grid-product__price-value');
-        if (priceElement && priceElement.textContent !== maxPrice) {
-            priceElement.textContent = maxPrice;
+        const priceValueElement = element.querySelector('div.grid-product__price-value');
+        if (priceValueElement && priceValueElement.textContent !== maxPrice) {
+            const priceElement = element.querySelector('div.grid-product__price');
+            if (priceElement) {
+                priceElement.style.display = 'flex';
+                priceElement.style.fontSize = '12px';
+                priceElement.style.color = '#888';
+            }
+            priceValueElement.textContent = maxPrice;
         }
     }
-}
-
-function moveSubtitle() {
-    log('moveSubtitle');
-
-    document.querySelectorAll('div.grid-product__wrap-inner > div.grid-product__subtitle').forEach(function (p) {
-        let imgWrapElement = p.parentElement.querySelector('div.grid-product__image-wrap');
-        if (imgWrapElement) {
-           imgWrapElement.parentElement.insertBefore(p, imgWrapElement.lastChild.nextSibling);
-        }
-        let pid = p.closest('div.grid-product__wrap').getAttribute('data-product-id');
-        $.ajax({
-            type: "GET",
-            url: "https://app.ecwid.com/api/v3/112251271/products/" + pid + "?responseFields=id,attributes",
-            dataType: 'json',
-            contentType: "application/json",
-            headers: {
-                "Cache-Control": "no-cache",
-                "Authorization": "Bearer secret_8BssSp1WCED2hZW8mHZFWEgaHJziJY7W",
-            },
-            data: {},
-            success: function(resp){
-                let untappd;
-                resp.attributes.forEach(function(attr){
-                    if (attr.name === 'Untappd') untappd = attr.value;
-                })
-                const y = untappd?.split('(');
-                let score = 'N/A';
-                if (y && y.length > 0) {
-                    score = y[0];
-                }
-                p.innerHTML = p.innerHTML.replace('</div>', '<div class="untappd">\n' +
-                    '<img style="display: inline-block;" src="https://d2j6dbq0eux0bg.cloudfront.net/images/wysiwyg/product/112251271/724600919/1739827248845232524408/untappd_icon64_png.png" height="16px" width="16px">\n' +
-                    '<span style="display: inline-block">&nbsp;' + score + '</span></div></div>');
-            },
-            error: function(error){
-            }
-        });
-    });
 }
 
 function calcDiscount(num, custDisc) {
@@ -638,11 +604,7 @@ function processProductPage(toScroll) {
 function processProductBrowserPage() {
     if (document.querySelector('.ecwid-productBrowser:not(.ecwid-productBrowser-CartPage):not(.ecwid-productBrowser-ElmCheckoutShippingAddressPage):not(.ecwid-productBrowser-CheckoutPaymentDetailsPage):not(.ecwid-productBrowser-ElmCheckoutDeliveryPage)')) {
         processExpectedLabels();
-        if (prodMode) {
-            moveSubtitle();
-        } else {
-            processProducts();
-        }
+        processProducts();
         addTitleAttribute();
         renameBuyButtonToPreorder();
     }
