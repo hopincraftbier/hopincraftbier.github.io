@@ -1,4 +1,4 @@
-console.log("HopInCraftbier custom js v6.20");
+console.log("HopInCraftbier custom js v6.21");
 let debug = false;
 let prodMode = true;
 
@@ -479,11 +479,13 @@ function showMaxPrice(element, resp) {
             priceValueElement.style.display = 'block';
             priceValueElement.style.fontSize = '12px';
             priceValueElement.style.color = '#888';
+            priceValueElement.textContent = maxPrice;
             const priceElement = element.querySelector('div.grid-product__price');
             if (priceElement) {
-                priceElement.style.display = 'flex !important';
+                const clonedPriceElement = priceElement.cloneNode(true);
+                priceElement.after(clonedPriceElement);
+                clonedPriceElement.style.display = 'flex';
             }
-            priceValueElement.textContent = maxPrice;
         }
     }
 }
