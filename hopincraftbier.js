@@ -1,4 +1,4 @@
-console.log("HopInCraftbier custom js v6.19");
+console.log("HopInCraftbier custom js v6.20");
 let debug = false;
 let prodMode = true;
 
@@ -92,8 +92,8 @@ const cartTotalMo = new MutationObserver(function (ms) {
                     } else if (className.indexOf('ecwid-checkout-notice') >= 0) {
                         translateCheckoutNotice();
                     } else if (className.indexOf('ec-store__cart-page') >= 0 ||
-                                className.indexOf('ec-store__checkout-page') ||
-                                className.indexOf('ec-cart-step__section')) {
+                        className.indexOf('ec-store__checkout-page') ||
+                        className.indexOf('ec-cart-step__section')) {
                         processCartPage();
                     }
                 }
@@ -428,53 +428,44 @@ function addCouponInfo(toScroll) {
     }
 }
 
-function processProducts() {
-    document.querySelectorAll('div.grid-product__wrap').forEach(function (p) {
-        let pid = p.getAttribute('data-product-id');
-        processProduct(pid, p);
-    });
-}
+function moveSubtitle() {
+    log('moveSubtitle');
 
-function processProduct(pid, element) {
-    $.ajax({
-        type: "GET",
-        url: "https://app.ecwid.com/api/v3/112251271/products/" + pid + "?responseFields=id,price,attributes",
-        dataType: 'json',
-        contentType: "application/json",
-        headers: {
-            "Cache-Control": "no-cache",
-            "Authorization": "Bearer secret_8BssSp1WCED2hZW8mHZFWEgaHJziJY7W",
-        },
-        data: {},
-        success: function(resp){
-            moveSubtitle(element, resp);
-            showMaxPrice(element, resp)
-        },
-        error: function(error){
-        }
-    });
-}
-
-function moveSubtitle(element, resp) {
-    const subtitleElement = element.querySelector('div.grid-product__wrap-inner > div.grid-product__subtitle');
-    if (subtitleElement) {
-        let imgWrapElement = subtitleElement.parentElement.querySelector('div.grid-product__image-wrap');
+    document.querySelectorAll('div.grid-product__wrap-inner > div.grid-product__subtitle').forEach(function (p) {
+        let imgWrapElement = p.parentElement.querySelector('div.grid-product__image-wrap');
         if (imgWrapElement) {
-            imgWrapElement.parentElement.insertBefore(subtitleElement, imgWrapElement.lastChild.nextSibling);
+            imgWrapElement.parentElement.insertBefore(p, imgWrapElement.lastChild.nextSibling);
         }
-        let untappd;
-        resp.attributes.forEach(function(attr){
-            if (attr.name === 'Untappd') untappd = attr.value;
-        })
-        const y = untappd?.split('(');
-        let score = 'N/A';
-        if (y && y.length > 0) {
-            score = y[0];
-        }
-        subtitleElement.innerHTML = subtitleElement.innerHTML.replace('</div>', '<div class="untappd">\n' +
-            '<img style="display: inline-block;" src="https://d2j6dbq0eux0bg.cloudfront.net/images/wysiwyg/product/112251271/724600919/1739827248845232524408/untappd_icon64_png.png" height="16px" width="16px">\n' +
-            '<span style="display: inline-block">&nbsp;' + score + '</span></div></div>');
-    }
+        let pid = p.closest('div.grid-product__wrap').getAttribute('data-product-id');
+        $.ajax({
+            type: "GET",
+            url: "https://app.ecwid.com/api/v3/112251271/products/" + pid + "?responseFields=id,price,attributes",
+            dataType: 'json',
+            contentType: "application/json",
+            headers: {
+                "Cache-Control": "no-cache",
+                "Authorization": "Bearer secret_8BssSp1WCED2hZW8mHZFWEgaHJziJY7W",
+            },
+            data: {},
+            success: function(resp){
+                let untappd;
+                resp.attributes.forEach(function(attr){
+                    if (attr.name === 'Untappd') untappd = attr.value;
+                })
+                const y = untappd?.split('(');
+                let score = 'N/A';
+                if (y && y.length > 0) {
+                    score = y[0];
+                }
+                p.innerHTML = p.innerHTML.replace('</div>', '<div class="untappd">\n' +
+                    '<img style="display: inline-block;" src="https://d2j6dbq0eux0bg.cloudfront.net/images/wysiwyg/product/112251271/724600919/1739827248845232524408/untappd_icon64_png.png" height="16px" width="16px">\n' +
+                    '<span style="display: inline-block">&nbsp;' + score + '</span></div></div>');
+                showMaxPrice(p.closest('div.grid-product__wrap'), resp);
+            },
+            error: function(error){
+            }
+        });
+    });
 }
 
 function showMaxPrice(element, resp) {
@@ -605,7 +596,7 @@ function processProductPage(toScroll) {
 function processProductBrowserPage() {
     if (document.querySelector('.ecwid-productBrowser:not(.ecwid-productBrowser-CartPage):not(.ecwid-productBrowser-ElmCheckoutShippingAddressPage):not(.ecwid-productBrowser-CheckoutPaymentDetailsPage):not(.ecwid-productBrowser-ElmCheckoutDeliveryPage)')) {
         processExpectedLabels();
-        processProducts();
+        moveSubtitle();
         addTitleAttribute();
         renameBuyButtonToPreorder();
     }
