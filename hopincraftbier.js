@@ -1,4 +1,4 @@
-console.log("HopInCraftbier custom js v6.18");
+console.log("HopInCraftbier custom js v6.19");
 let debug = false;
 let prodMode = true;
 
@@ -490,7 +490,7 @@ function showMaxPrice(element, resp) {
             priceValueElement.style.color = '#888';
             const priceElement = element.querySelector('div.grid-product__price');
             if (priceElement) {
-                priceElement.style.display = 'flex';
+                priceElement.style.display = 'flex !important';
             }
             priceValueElement.textContent = maxPrice;
         }
