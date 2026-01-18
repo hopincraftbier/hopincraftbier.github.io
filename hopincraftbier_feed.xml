@@ -575,7 +575,7 @@
     <title>All My Friends Beer Co. Pack</title>
     <url>https://hopincraftbier.be/products/all-my-friends-beer-co-pack</url>
     <brewery_name>All My Friends Beer Co.</brewery_name>
-    <price>24.73</price>
+    <price>21.82</price>
     <regular_price>30.91</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5475103896.png</image>
     <beer_description>The All My Friends Beer Co. Pack pack contains: - Chemistry - SEVER - BB Kush - 2025</beer_description>
@@ -817,7 +817,7 @@
     <title>Long Live Beerworks Pack</title>
     <url>https://hopincraftbier.be/products/long-live-beerworks-pack</url>
     <brewery_name>Long Live Beerworks</brewery_name>
-    <price>31.71</price>
+    <price>27.98</price>
     <regular_price>39.64</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5438444518.png</image>
     <beer_description>The Long Live Beerworks Pack pack contains: - DDH Attitude - 6 Lives - DDH Black Cat Sees All - 5 Lives</beer_description>
@@ -898,7 +898,7 @@
     <title>Le Ketch IPA Pack</title>
     <url>https://hopincraftbier.be/products/le-ketch-ipa-pack</url>
     <brewery_name>Le Ketch</brewery_name>
-    <price>28.56</price>
+    <price>25.2</price>
     <regular_price>35.7</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5438318483.png</image>
     <beer_description>The Le Ketch pack contains: - Dock 111 - Citra, Cascade NZ, Motueka &amp; Pacifica - Dock 72 - Peacharine, Galaxy &amp; Nelson Sauvin (2025) - Dock 73 - NELSON SAUVIN, CITRA &amp; SOUTHERN CROSS (2025)</beer_description>
@@ -937,7 +937,7 @@
     <title>Vitamin Sea IPA Pack</title>
     <url>https://hopincraftbier.be/products/vitamin-sea-ipa-pack</url>
     <brewery_name>Vitamin Sea Brewing</brewery_name>
-    <price>24.9</price>
+    <price>21.97</price>
     <regular_price>31.12</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5438292105.png</image>
     <beer_description>The Vitamin Sea Brewing pack contains: - Vitamin Sea - Just Another T-Shirt Shop - Vitamin Sea - Due North - Vitamin Sea - Double Spring</beer_description>
@@ -1767,7 +1767,8 @@
     <title>Unconventional Tactics</title>
     <url>https://hopincraftbier.be/products/verdant-brewing-co-unconventional-tactics</url>
     <brewery_name>Verdant Brewing Co</brewery_name>
-    <price>8.69</price>
+    <price>7.39</price>
+    <regular_price>8,69</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5290681751.png</image>
     <beer_description>It’s no secret that Nelson Sauvin is our favourite hop. No secret at all. To this end…here is the most 'Nelsony' beer we’ve ever attempted. We’ve added Nelson on top of Nelson, squeezed a bit more Nelson in, and then finished it off with some Nelson. Super smooth. Super light. Super Nelson. ⁣ Verdant Brewing Co - Unconventional Tactics</beer_description>
     <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
@@ -3601,7 +3602,8 @@
     <title>Flux: Phase 3</title>
     <url>https://hopincraftbier.be/products/verdant-brewing-co-flux-phase-3</url>
     <brewery_name>Verdant Brewing Co</brewery_name>
-    <price>8.02</price>
+    <price>7.08</price>
+    <regular_price>9,44</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5062294321.webp</image>
     <beer_description>An 8% DIPA that lets NZH-101 off the leash! Lime, lemonade, dank. A thing of beauty. FLUX is a really special three beer collaboration with Track. Brewing Co. We have combined our hoppy knowledge to create levels of saturation, flavours and aromatics bordering on the insane! Each beer in the series is an absolute monster with a different New Zealand hop leading the charge: Nelson Sauvin, Nectaron and NZH-101. Verdant Brewing Co - Flux: Phase 3</beer_description>
     <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
@@ -4923,8 +4925,8 @@
     <title>Vitamin Sea - Due North</title>
     <url>https://hopincraftbier.be/products/vitamin-sea-due-north</url>
     <brewery_name>Vitamin Sea Brewing</brewery_name>
-    <price>8.72</price>
-    <regular_price>10.26</regular_price>
+    <price>7.7</price>
+    <regular_price>10,26</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5438339795.png</image>
     <beer_description>Hazy IPA hopped with Galaxy and Mosaic Vitamin Sea Brewing - Due North</beer_description>
     <beer_style>IPA - New England / Hazy</beer_style>
@@ -5027,8 +5029,8 @@
     <title>Vitamin Sea - Double Spring</title>
     <url>https://hopincraftbier.be/products/vitamin-sea-double-spring</url>
     <brewery_name>Vitamin Sea Brewing</brewery_name>
-    <price>9.01</price>
-    <regular_price>10.60</regular_price>
+    <price>7.95</price>
+    <regular_price>10,60</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5438330699.png</image>
     <beer_description>DIPA hopped with Galaxy, Cascade and Columbus Vitamin Sea Brewing - Double Spring</beer_description>
     <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
@@ -5129,8 +5131,8 @@
     <title>Kung Fu Time Bomb</title>
     <url>https://hopincraftbier.be/products/spyglass-brewing-company-kung-fu-time-bomb</url>
     <brewery_name>Spyglass Brewing Company</brewery_name>
-    <price>9.88</price>
-    <regular_price>11.62</regular_price>
+    <price>8.72</price>
+    <regular_price>11,62</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4963595192.webp</image>
     <beer_description>In collaboration with Incandescent Brewing. A DIPA hopped with Citra Incognito, Krush, Citra, Motueka, and Strata Quantum Brite. Spyglass Brewing Company - Kung Fu Time Bomb</beer_description>
     <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
@@ -5250,8 +5252,8 @@
     <title>Dock 73 - NELSON SAUVIN, CITRA &amp; SOUTHERN CROSS (2025)</title>
     <url>https://hopincraftbier.be/products/le-ketch-dock-73-nelson-sauvin-citra--southern-cross-2025</url>
     <brewery_name>Le Ketch</brewery_name>
-    <price>10.75</price>
-    <regular_price>12.65</regular_price>
+    <price>9.49</price>
+    <regular_price>12,65</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5438318477.png</image>
     <beer_description>TRIPLE NEW ENGLAND IPA AU MIEL. HOUBLONS: NELSON SAUVIN, CITRA &amp; SOUTHERN CROSS Le Ketch - Dock 73 - NELSON SAUVIN, CITRA &amp; SOUTHERN CROSS (2025)</beer_description>
     <beer_style>IPA - Triple New England / Hazy</beer_style>
@@ -5335,8 +5337,8 @@
     <title>Dora #79</title>
     <url>https://hopincraftbier.be/products/badlands-brewing-company-dora-79</url>
     <brewery_name>Badlands Brewing Company</brewery_name>
-    <price>9.42</price>
-    <regular_price>11.08</regular_price>
+    <price>8.31</price>
+    <regular_price>11,08</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4927488830.png</image>
     <beer_description>Dora is our exploratory series of beers where we mess around with anything/everything from ingredients to process. For this version of Dora we decided we wanted to try a new blend of pale oats and wheat than we typically use. Hopped exclusively with Citra, we taste huge pineapple, papaya and mixed citrus Badlands Brewing Company - Dora #79</beer_description>
     <beer_style>IPA - American</beer_style>
@@ -5353,8 +5355,8 @@
     <title>Dock 111 - Citra, Cascade NZ, Motueka &amp; Pacifica</title>
     <url>https://hopincraftbier.be/products/le-ketch-dock-111-citra-cascade-nz-motueka--pacifica</url>
     <brewery_name>Le Ketch</brewery_name>
-    <price>9.42</price>
-    <regular_price>11.08</regular_price>
+    <price>8.31</price>
+    <regular_price>11,08</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5438318471.png</image>
     <beer_description>NEW ENGLAND IPA AU MIEL. HOUBLONS: CITRA, CASCADE NZ, MOTUEKA &amp; PACIFICA Le Ketch - Dock 111 - Citra, Cascade NZ, Motueka &amp; Pacifica</beer_description>
     <beer_style>IPA - New England / Hazy</beer_style>
@@ -5389,8 +5391,8 @@
     <title>6 Lives</title>
     <url>https://hopincraftbier.be/products/long-live-beerworks-6-lives</url>
     <brewery_name>Long Live Beerworks</brewery_name>
-    <price>7.85</price>
-    <regular_price>9.23</regular_price>
+    <price>6.92</price>
+    <regular_price>9,23</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5438433948.png</image>
     <beer_description>IPA brewed in continuation with our anniversary (aka this year’s “Anniversary Series”). 7.5% Long Live Beerworks - 6 Lives</beer_description>
     <beer_style>IPA - New England / Hazy</beer_style>
@@ -5681,8 +5683,8 @@
     <title>BB Kush - 2025</title>
     <url>https://hopincraftbier.be/products/all-my-friends-beer-co-bb-kush-2025</url>
     <brewery_name>All My Friends Beer Co.</brewery_name>
-    <price>9.3</price>
-    <regular_price>10.94</regular_price>
+    <price>8.21</price>
+    <regular_price>10,94</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5475139798.png</image>
     <beer_description>Citra, Superdelic, Terpenes - Collab with Blood Brothers All My Friends Beer Co. - BB Kush - 2025</beer_description>
     <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
@@ -5699,8 +5701,8 @@
     <title>The World Is Mine</title>
     <url>https://hopincraftbier.be/products/counterpart-brewing-the-world-is-mine</url>
     <brewery_name>Counterpart Brewing</brewery_name>
-    <price>8.54</price>
-    <regular_price>10.05</regular_price>
+    <price>7.54</price>
+    <regular_price>10,05</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5438351331.png</image>
     <beer_description>Hazy IPA w/ Motueka, Waimea &amp; Riwaka Bright and juicy, brimming with fresh mango, lychee, nectarine and white gummy bears with a lush, creamy mouthfeel. Counterpart Brewing - The World Is Mine</beer_description>
     <beer_style>IPA - New England / Hazy</beer_style>
@@ -5752,8 +5754,8 @@
     <title>Chemistry</title>
     <url>https://hopincraftbier.be/products/all-my-friends-beer-co-chemistry</url>
     <brewery_name>All My Friends Beer Co.</brewery_name>
-    <price>8.54</price>
-    <regular_price>10.05</regular_price>
+    <price>7.54</price>
+    <regular_price>10,05</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5475139804.png</image>
     <beer_description>Citra, Motueka, Rakau, Terpenes - Collab with BAOS Podcast All My Friends Beer Co. - Chemistry</beer_description>
     <beer_style>IPA - New England / Hazy</beer_style>
@@ -6743,6 +6745,6 @@
     <date_canned>2025-03-27</date_canned>
     <untappd_id>593083</untappd_id>
   </item>
-  <timestamp>1768671906</timestamp>
-  <gen_date>17/01/2026 18:45:06</gen_date>
+  <timestamp>1768734905</timestamp>
+  <gen_date>18/01/2026 12:15:05</gen_date>
 </feed>
