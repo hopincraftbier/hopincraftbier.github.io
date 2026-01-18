@@ -1,4 +1,4 @@
-console.log("HopInCraftbier custom js v6.14");
+console.log("HopInCraftbier custom js v6.15");
 let debug = false;
 let prodMode = true;
 
@@ -481,8 +481,9 @@ function showMaxPrice(element, resp) {
     if (resp?.price === 0) {
         let maxPrice;
         resp.attributes.forEach(function(attr){
-            if (attr.name === 'hide_max_prijs') maxPrice = attr.value;
+            if (attr.name === 'hide_max_prijs') maxPrice = 'Max ' + attr.value;
         })
+        element.querySelector('div.grid-product__price').style.display = 'flex';
         const priceElement = element.querySelector('div.grid-product__price-value');
         if (priceElement && priceElement.textContent !== maxPrice) {
             priceElement.textContent = maxPrice;
