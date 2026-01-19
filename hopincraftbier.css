@@ -916,7 +916,8 @@ div.details-product-price-compare__container {
     margin-top: 0;
 }
 #tile-custom-code-gZTFJY, #tile-custom-code-yHq9Mq, #tile-custom-code-5RHNHg,
-#tile-custom-code-4zwhSo, #tile-custom-code-dhSGeN, #tile-custom-code-ETuTZL {
+#tile-custom-code-4zwhSo, #tile-custom-code-dhSGeN, #tile-custom-code-ETuTZL,
+#tile-custom-code-kkLSia {
     width: 61%;
     margin: auto;
 }
@@ -926,7 +927,18 @@ div.details-product-price-compare__container {
     margin: auto;
     box-shadow: 5px 5px 20px 0 rgba(0, 0, 0, 0.1) !important;
 }
-
+#tile-custom-code-kkLSia .del_info_table {
+    overflow: auto;
+    width: 100%;
+    margin: auto;
+    margin-top: 20px !important;
+    box-shadow: none !important;
+    img {
+        display: inline-block;
+        margin-right: 10px;
+        width: 60px;
+    }
+}
 .del_info_table table {
     border: 1px solid #dededf;
     height: 100%;
@@ -1004,6 +1016,7 @@ div.details-product-price-compare__container {
 }
 .del_info_table.other1 {
     margin-bottom: 0 !important;
+    margin-top: 0 !important;
 }
 .del_info_table.other2, .del_info_table.other3, .del_info_table.other4 {
     table {
