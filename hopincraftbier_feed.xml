@@ -1858,24 +1858,6 @@
     <untappd_id>5781449</untappd_id>
   </item>
   <item>
-    <id>4307974</id>
-    <ecommerce_id>788580041</ecommerce_id>
-    <title>Ticker Shock</title>
-    <url>https://hopincraftbier.be/products/other-half-brewing-co-ticker-shock</url>
-    <brewery_name>Other Half Brewing Co.</brewery_name>
-    <price>5.34</price>
-    <regular_price>10.67</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5256608731.png</image>
-    <beer_description>That secondary can be a beast right? Back at it with the crew over @morningbreathinc on this juice bomb of a DIPA with our hand selected lots of Citra, Citra Incognito, Strata, Nelson Sauvin, and Mosaic. Other Half Brewing Co. - Ticker Shock</beer_description>
-    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
-    <beer_abv>8.5%</beer_abv>
-    <beer_volume>473 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>United States</brewery_country>
-    <date_canned>2025-03-10</date_canned>
-    <untappd_id>4307974</untappd_id>
-  </item>
-  <item>
     <id>3820116</id>
     <ecommerce_id>788422903</ecommerce_id>
     <title>Parade</title>
@@ -2711,24 +2693,6 @@
     <untappd_id>6247096</untappd_id>
   </item>
   <item>
-    <id>1742279</id>
-    <ecommerce_id>779812136</ecommerce_id>
-    <title>Double Mosaic Dream</title>
-    <url>https://hopincraftbier.be/products/other-half-brewing-co-double-mosaic-dream</url>
-    <brewery_name>Other Half Brewing Co.</brewery_name>
-    <price>4.53</price>
-    <regular_price>9.05</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5153817629.webp</image>
-    <beer_description>Our classic Mosaic focused Imperial IPA containing our hand selected Mosaic, Mosaic Cryo and Mosaic Incognito. Notes of blueberry, mango and orange. Other Half Brewing Co. - Double Mosaic Dream</beer_description>
-    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
-    <beer_abv>8.5%</beer_abv>
-    <beer_volume>473 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>United States</brewery_country>
-    <date_canned>2025-04-22</date_canned>
-    <untappd_id>1742279</untappd_id>
-  </item>
-  <item>
     <id>6384350</id>
     <ecommerce_id>779025872</ecommerce_id>
     <title>Coastbusters</title>
@@ -3097,24 +3061,6 @@
     <brewery_country>Canada</brewery_country>
     <date_canned>07/2025</date_canned>
     <untappd_id>6346854</untappd_id>
-  </item>
-  <item>
-    <id>6351107</id>
-    <ecommerce_id>778763015</ecommerce_id>
-    <title>Temporalis #0039</title>
-    <url>https://hopincraftbier.be/products/messorem-temporalis-0039</url>
-    <brewery_name>Messorem</brewery_name>
-    <price>10.13</price>
-    <regular_price>11,92</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5260716002.webp</image>
-    <beer_description>Triple IPA - Superdelic, Nelson Sauvin, Citra, Citra Incognito Messorem - Temporalis #0039</beer_description>
-    <beer_style>IPA - Triple New England / Hazy</beer_style>
-    <beer_abv>10%</beer_abv>
-    <beer_volume>473 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Canada</brewery_country>
-    <date_canned>2025-07-17</date_canned>
-    <untappd_id>6351107</untappd_id>
   </item>
   <item>
     <id>6350229</id>
@@ -6566,6 +6512,6 @@
     <date_canned>2025-03-27</date_canned>
     <untappd_id>593083</untappd_id>
   </item>
-  <timestamp>1768923006</timestamp>
-  <gen_date>20/01/2026 16:30:06</gen_date>
+  <timestamp>1768938305</timestamp>
+  <gen_date>20/01/2026 20:45:05</gen_date>
 </feed>
