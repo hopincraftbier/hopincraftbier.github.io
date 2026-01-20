@@ -1767,24 +1767,6 @@
     <untappd_id>6424109</untappd_id>
   </item>
   <item>
-    <id>3766089</id>
-    <ecommerce_id>788580043</ecommerce_id>
-    <title>lACEd In Space</title>
-    <url>https://hopincraftbier.be/products/other-half-brewing-co-laced-in-space</url>
-    <brewery_name>Other Half Brewing Co.</brewery_name>
-    <price>5.34</price>
-    <regular_price>10.67</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5256611000.png</image>
-    <beer_description>Now with even more ACE in your Space. lACEd gets the double dry hop treatment with more Citra and Galaxy to trash your tastebuds. Other Half Brewing Co. - lACEd In Space</beer_description>
-    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
-    <beer_abv>8.5%</beer_abv>
-    <beer_volume>473 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>United States</brewery_country>
-    <date_canned>2025-03-13</date_canned>
-    <untappd_id>3766089</untappd_id>
-  </item>
-  <item>
     <id>5944204</id>
     <ecommerce_id>788588044</ecommerce_id>
     <title>Hop Duos! - Nelson + Mosaic</title>
@@ -1821,24 +1803,6 @@
     <untappd_id>2073529</untappd_id>
   </item>
   <item>
-    <id>3958788</id>
-    <ecommerce_id>788588042</ecommerce_id>
-    <title>Stacks On Stacks: Southern Hemisphere</title>
-    <url>https://hopincraftbier.be/products/other-half-brewing-co-stacks-on-stacks-southern-hemisphere</url>
-    <brewery_name>Other Half Brewing Co.</brewery_name>
-    <price>5.34</price>
-    <regular_price>10.67</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5256608738.png</image>
-    <beer_description>This Stacks version has the usually grain bill but has the Mosaic, Citra, and El Dorado swapped out for a decidedly more southern affair of Nelson Sauvin, Motueka and Riwaka, all from NZ. Other Half Brewing Co. - Stacks On Stacks: Southern Hemisphere</beer_description>
-    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
-    <beer_abv>8.5%</beer_abv>
-    <beer_volume>473 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>United States</brewery_country>
-    <date_canned>2025-03-20</date_canned>
-    <untappd_id>3958788</untappd_id>
-  </item>
-  <item>
     <id>2123391</id>
     <ecommerce_id>788588041</ecommerce_id>
     <title>Dream In Green</title>
@@ -1855,24 +1819,6 @@
     <brewery_country>United States</brewery_country>
     <date_canned>2025-03-21</date_canned>
     <untappd_id>2123391</untappd_id>
-  </item>
-  <item>
-    <id>2972476</id>
-    <ecommerce_id>788599770</ecommerce_id>
-    <title>Double Nelson Daydream</title>
-    <url>https://hopincraftbier.be/products/other-half-brewing-co-double-nelson-daydream</url>
-    <brewery_name>Other Half Brewing Co.</brewery_name>
-    <price>5.34</price>
-    <regular_price>10.67</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5256609857.png</image>
-    <beer_description>Imperial Oat Cream IPA with our hand selected Nelson Sauvin hops with a huge amount of oats and a hint of lactose. Other Half Brewing Co. - Double Nelson Daydream</beer_description>
-    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
-    <beer_abv>8.5%</beer_abv>
-    <beer_volume>473 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>United States</brewery_country>
-    <date_canned>2025-04-01</date_canned>
-    <untappd_id>2972476</untappd_id>
   </item>
   <item>
     <id>4807854</id>
@@ -6637,6 +6583,6 @@
     <date_canned>2025-03-27</date_canned>
     <untappd_id>593083</untappd_id>
   </item>
-  <timestamp>1768915805</timestamp>
-  <gen_date>20/01/2026 14:30:05</gen_date>
+  <timestamp>1768920305</timestamp>
+  <gen_date>20/01/2026 15:45:05</gen_date>
 </feed>
