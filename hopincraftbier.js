@@ -1,4 +1,4 @@
-console.log("HopInCraftbier custom js v6.21.1");
+console.log("HopInCraftbier custom js v6.21.2");
 let debug = false;
 let prodMode = true;
 
@@ -17,6 +17,9 @@ Ecwid.OnAPILoaded.add(function() {
 Ecwid.OnPageLoaded.add(function(page){
     if (!prodMode) {
         console.log(JSON.stringify(page));
+        if (page.type === 'CATEGORY' || page.type === 'SEARCH') {
+            processProductBrowserPage();
+        }
     }
 });
 document.txtNl1 = '<div class="dtooltip"><p class="hover question">Kortingscoupon</p><p class="dtooltiptext">Afhankelijk van de gekozen betaling en levering, kunt u een kortingscoupon krijgen die te gebruiken is bij een volgende bestelling. Voor dit bier ziet u de bedragen in deze tabel</p></div><table class="discount-table"><thead><tr class="first_header"><th></th><th colspan="2">Manier van levering</th></tr><tr><th>Manier van betaling</th><th>Afhaling</th><th>Levering</th></tr></thead><tbody><tr><td class="header">Betalen bij afhaling</td><td>€ ';
@@ -36,7 +39,9 @@ document.addEventListener("visibilitychange", (event) => {
         redirectWhenNeeded();
         processInfoPages();
         processCartPage();
-        processProductBrowserPage();
+        if (prodMode) {
+            processProductBrowserPage();
+        }
         processProductPage(false);
     }
 });
@@ -75,7 +80,9 @@ const priceO = new MutationObserver(function (ms) {
 const cartTotalMo = new MutationObserver(function (ms) {
     redirectWhenNeeded();
     processInfoPages();
-    processProductBrowserPage();
+    if (prodMode) {
+        processProductBrowserPage();
+    }
     processProductPage(false);
     processStock();
     processExpectedPrice();
