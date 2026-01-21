@@ -1,4 +1,4 @@
-console.log("HopInCraftbier custom js v6.21.3");
+console.log("HopInCraftbier custom js v6.21.4");
 let debug = false;
 let prodMode = true;
 
