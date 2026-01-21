@@ -1,6 +1,11 @@
-console.log("HopInCraftbier custom js v6.21.4");
+console.log("HopInCraftbier custom js v6.21.6");
 let debug = false;
 let prodMode = true;
+
+let cookieProdMode = document.cookie.split('; ').find(row => row.startsWith('prodMode='));
+if (cookieProdMode) {
+    prodMode = cookieProdMode.split('=')[1] === 'true';
+}
 
 Ecwid.OnAPILoaded.add(function() {
     try {
@@ -45,8 +50,10 @@ Ecwid.OnPageLoaded.add(function(page){
         }
         if (page.type === 'CATEGORY' || page.type === 'SEARCH') {
             processProductBrowserPage();
+
         } else if (page.type === 'PRODUCT') {
             processProductPage(true);
+            moveSubtitle();
             processStock();
             processExpectedPrice();
 
