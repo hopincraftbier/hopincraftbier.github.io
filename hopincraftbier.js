@@ -1,4 +1,4 @@
-console.log("HopInCraftbier custom js v6.21.2");
+console.log("HopInCraftbier custom js v6.21.3");
 let debug = false;
 let prodMode = true;
 
@@ -17,8 +17,52 @@ Ecwid.OnAPILoaded.add(function() {
 Ecwid.OnPageLoaded.add(function(page){
     if (!prodMode) {
         console.log(JSON.stringify(page));
+        const headerDiv = document.querySelector("#tile-header-fcHJMd");
+        if (headerDiv) {
+            redirectWhenNeeded();
+
+            let announcementsHeight = 0;
+
+            const pos = "-" + (announcementsHeight + document.querySelector(".ins-tile--header .ins-header__row:nth-child(1)").offsetHeight) + "px";
+            let prevScrollPos = window.scrollY;
+            let headerBottom = headerDiv.offsetTop + headerDiv.offsetHeight + announcementsHeight;
+
+            window.onscroll = function () {
+                let currentScrollPos = window.scrollY;
+                if (Math.abs(prevScrollPos - currentScrollPos) <= 5) return;
+
+                /* if we're scrolling up, or we haven't passed the header,
+                   show the header at the top */
+                if (prevScrollPos > currentScrollPos || currentScrollPos < headerBottom) {
+                    headerDiv.style.top = "0";
+                } else {
+                    /* otherwise we're scrolling down & have passed the header so hide it */
+                    headerDiv.style.top = pos;
+                }
+
+                prevScrollPos = currentScrollPos;
+            }
+        }
         if (page.type === 'CATEGORY' || page.type === 'SEARCH') {
             processProductBrowserPage();
+        } else if (page.type === 'PRODUCT') {
+            processProductPage(true);
+            processStock();
+            processExpectedPrice();
+
+        } else if (page.type === 'SITE') {
+            processInfoPages();
+
+        } else if (page.type === 'CART' || page.type === 'CHECKOUT_ADDRESS' || page.type === 'CHECKOUT_DELIVERY' || page.type === 'CHECKOUT_ADDRESS_BOOK' || page.type === 'CHECKOUT_PAYMENT_DETAILS') {
+            processCartPage();
+            translateCheckoutNotice();
+
+        } else if (page.type === 'FAVORITES') {
+
+        } else if (page.type === 'ORDER_CONFIRMATION') {
+
+        } else {
+            console.log('Unknown page type: ' + page.type);
         }
     }
 });
@@ -37,56 +81,60 @@ document.txtEn5 = '</td><td>€ 0</td></tr></tbody></table></div>';
 document.addEventListener("visibilitychange", (event) => {
     if (document.visibilityState === "visible") {
         redirectWhenNeeded();
-        processInfoPages();
-        processCartPage();
         if (prodMode) {
+            processCartPage();
+            processInfoPages();
             processProductBrowserPage();
+            processProductPage(false);
         }
-        processProductPage(false);
     }
 });
 
-const headerDiv = document.querySelector("#tile-header-fcHJMd");
-if (headerDiv) {
-    redirectWhenNeeded();
+if (prodMode) {
+    const headerDiv = document.querySelector("#tile-header-fcHJMd");
+    if (headerDiv) {
+        redirectWhenNeeded();
 
-    let announcementsHeight = 0;
+        let announcementsHeight = 0;
 
-    const pos = "-" + (announcementsHeight + document.querySelector(".ins-tile--header .ins-header__row:nth-child(1)").offsetHeight) + "px";
-    let prevScrollPos = window.scrollY;
-    let headerBottom = headerDiv.offsetTop + headerDiv.offsetHeight + announcementsHeight;
+        const pos = "-" + (announcementsHeight + document.querySelector(".ins-tile--header .ins-header__row:nth-child(1)").offsetHeight) + "px";
+        let prevScrollPos = window.scrollY;
+        let headerBottom = headerDiv.offsetTop + headerDiv.offsetHeight + announcementsHeight;
 
-    window.onscroll = function () {
-        let currentScrollPos = window.scrollY;
-        if (Math.abs(prevScrollPos - currentScrollPos) <= 5) return;
+        window.onscroll = function () {
+            let currentScrollPos = window.scrollY;
+            if (Math.abs(prevScrollPos - currentScrollPos) <= 5) return;
 
-        /* if we're scrolling up, or we haven't passed the header,
-           show the header at the top */
-        if (prevScrollPos > currentScrollPos || currentScrollPos < headerBottom) {
-            headerDiv.style.top = "0";
-        } else {
-            /* otherwise we're scrolling down & have passed the header so hide it */
-            headerDiv.style.top = pos;
+            /* if we're scrolling up, or we haven't passed the header,
+               show the header at the top */
+            if (prevScrollPos > currentScrollPos || currentScrollPos < headerBottom) {
+                headerDiv.style.top = "0";
+            } else {
+                /* otherwise we're scrolling down & have passed the header so hide it */
+                headerDiv.style.top = pos;
+            }
+
+            prevScrollPos = currentScrollPos;
         }
-
-        prevScrollPos = currentScrollPos;
     }
 }
 const priceO = new MutationObserver(function (ms) {
     ms.forEach(function (m) {
-        processProductPage(false);
+        if (prodMode) {
+            processProductPage(false);
+        }
     })
 });
 const cartTotalMo = new MutationObserver(function (ms) {
     redirectWhenNeeded();
-    processInfoPages();
     if (prodMode) {
+        processInfoPages();
         processProductBrowserPage();
+        processProductPage(false);
+        processStock();
+        processExpectedPrice();
+        processCartPage();
     }
-    processProductPage(false);
-    processStock();
-    processExpectedPrice();
-    processCartPage();
 
     ms.forEach(function (m) {
         for (let i = 0; i < m.addedNodes.length; i++) {
@@ -95,18 +143,26 @@ const cartTotalMo = new MutationObserver(function (ms) {
                     const className = m.addedNodes[i].className;
                     log('added node classname: ' + className);
                     if (className.indexOf('ec-store ec-store__product-page') >= 0) {
-                        processProductPage(true);
+                        if (prodMode) {
+                            processProductPage(true);
+                        }
                         priceO.observe(document.querySelector('div.product-details__product-price.ec-price-item'), {
                             childList: true,
                             subtree: true
                         });
-                        processStock();
+                        if (prodMode) {
+                            processStock();
+                        }
                     } else if (className.indexOf('ecwid-checkout-notice') >= 0) {
-                        translateCheckoutNotice();
+                        if (prodMode) {
+                            translateCheckoutNotice();
+                        }
                     } else if (className.indexOf('ec-store__cart-page') >= 0 ||
                         className.indexOf('ec-store__checkout-page') ||
                         className.indexOf('ec-cart-step__section')) {
-                        processCartPage();
+                        if (prodMode) {
+                            processCartPage();
+                        }
                     }
                 }
             }
