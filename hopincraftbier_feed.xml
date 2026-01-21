@@ -5,6 +5,38 @@
   <link>https://hopincraftbier.be/products&lt;/link&gt;</link>
   <description>Hop In Craftbier Products feed</description>
   <item>
+    <id>5151349</id>
+    <ecommerce_id>810376070</ecommerce_id>
+    <title>Big Bourbon Barrel Aged Stout 2021</title>
+    <url>https://hopincraftbier.be/products/stigbergets-bryggeri-big-bourbon-barrel-aged-stout-2021</url>
+    <brewery_name>Stigbergets Bryggeri</brewery_name>
+    <price>7.47</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/810376070/5532188630.png</image>
+    <beer_description>2021’s iteration of our annual barrel aged stout release. For the bourbon lovers, for the imperial stout lovers and for the lovers of two great alcoholic beverages colliding to make one beautiful beer. Not on the other hand, for the calorie conscious. Imperial Stout aged on Bourbon barrels. Matured for a year on Jim Beam, Woodford Reserve and King’s Country distillery barrels, for an imperial stout emboldened with the deep, rich flavours of a bourbon. Intensely sweet, with a low roasted bitterness, rich aromas of oak, vanilla, brown sugar, molasses and more. Stigbergets Bryggeri - Big Bourbon Barrel Aged Stout 2021</beer_description>
+    <beer_style>Stout - Imperial / Double</beer_style>
+    <beer_abv>13.5%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Sweden</brewery_country>
+    <untappd_id>5151349</untappd_id>
+  </item>
+  <item>
+    <id>3872382</id>
+    <ecommerce_id>810376071</ecommerce_id>
+    <title>BIGGER! BOLDER!</title>
+    <url>https://hopincraftbier.be/products/stigbergets-bryggeri-bigger-bolder</url>
+    <brewery_name>Stigbergets Bryggeri</brewery_name>
+    <price>6.03</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/810376071/5532188672.png</image>
+    <beer_description>Bigger! Bolder! is a really beefed up version of New &amp; Improved. IPA has become DIPA here, a stronger and more flavorful beer. It is Nelson Sauvin, Mosaic and Citra that give the lightly cloudy beer its tropical fruitiness. Stigbergets Bryggeri - BIGGER! BOLDER!</beer_description>
+    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
+    <beer_abv>8.5%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Sweden</brewery_country>
+    <untappd_id>3872382</untappd_id>
+  </item>
+  <item>
     <id>6471643</id>
     <ecommerce_id>808672091</ecommerce_id>
     <title>Neon Pulse</title>
@@ -6514,6 +6546,6 @@
     <date_canned>2025-03-27</date_canned>
     <untappd_id>593083</untappd_id>
   </item>
-  <timestamp>1768990506</timestamp>
-  <gen_date>21/01/2026 11:15:06</gen_date>
+  <timestamp>1768995005</timestamp>
+  <gen_date>21/01/2026 12:30:05</gen_date>
 </feed>
