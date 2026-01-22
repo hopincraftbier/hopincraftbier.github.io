@@ -1,4 +1,4 @@
-const version = "6.22";
+const version = "6.23";
 let debug = false;
 let prodMode = true;
 
@@ -70,16 +70,12 @@ Ecwid.OnPageLoaded.add(function(page){
 
     } else if (page.type === 'PRODUCT') {
         processProductPage(true);
-        moveSubtitle();
-        processStock();
-        processExpectedPrice();
 
     } else if (page.type === 'SITE') {
         processInfoPages();
 
     } else if (page.type === 'CART' || page.type === 'CHECKOUT_ADDRESS' || page.type === 'CHECKOUT_DELIVERY' || page.type === 'CHECKOUT_ADDRESS_BOOK' || page.type === 'CHECKOUT_PAYMENT_DETAILS') {
         processCartPage();
-        translateCheckoutNotice();
 
     } else if (page.type === 'FAVORITES') {
 
@@ -97,7 +93,7 @@ const cartTotalMo = new MutationObserver(function (ms) {
                     const className = m.addedNodes[i].className;
                     if (className.indexOf('ec-store ec-store__product-page') >= 0) {
                         log('added node classname: ' + className);
-                        processStock();
+                        processProductPage(true);
                     }
                     if (className.indexOf('ecwid-checkout-notice') >= 0) {
                         log('added node classname: ' + className);
@@ -676,6 +672,9 @@ function processProductPage(toScroll) {
         soonLabel();
         processProductTitle();
         processAttributes();
+        moveSubtitle();
+        processStock();
+        processExpectedPrice();
     }
 }
 
