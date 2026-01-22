@@ -1,4 +1,4 @@
-console.log("HopInCraftbier custom js v6.21.9");
+console.log("HopInCraftbier custom js v6.21.10");
 let debug = false;
 let prodMode = true;
 
@@ -98,8 +98,8 @@ if (!prodMode) {
                 if (m.addedNodes[i].nodeType === Node.ELEMENT_NODE) {
                     if (typeof m.addedNodes[i].className == "string") {
                         const className = m.addedNodes[i].className;
-                        log('added node classname: ' + className);
                         if (className.indexOf('ecwid-checkout-notice') >= 0) {
+                            log('added node classname: ' + className);
                             translateCheckoutNotice();
                         }
                     }
@@ -201,7 +201,7 @@ function processStock() {
         const element = x.parentElement;
         let mod = document.querySelector('.details-product-purchase__place span.mod');
         let txt = x.textContent;
-        if (txt.indexOf('(')) {
+        if (txt.indexOf('(') >= 0) {
             txt = txt.substring(0, txt.indexOf('(')).trim();
         }
         if (!mod) {
@@ -264,16 +264,13 @@ function processAttributes() {
                 let newContent = "";
 
                 if (attribute === 'Brouwerij:' || attribute === 'Brewery:') {
-                    log('Brouwerij: ' + content);
                     content.split(",").forEach((it) => {
                         let link = lng + '/products/' + it.trim().toLowerCase().replaceAll("’", '').replaceAll('.', '').replaceAll(' ', '-');
-                        log('Link: ' + link);
                         if (newContent !== "") {
                             newContent += ", ";
                         }
                         newContent += "<a href=\"" + link + "\" target=\"_blank\">" + it.trim() + "</a>";
                     });
-                    log('newContent: ' + newContent);
                 } else if (attribute === 'Type:') {
                     content.split(",").forEach((it) => {
                         let link = lng + '/products/alle-bieren?attribute_Type=' + it.trim().replaceAll(' ', '+');
@@ -296,7 +293,6 @@ function processAttributes() {
                 let newElement = document.createElement('dum');
                 newElement.innerHTML = newContent; // escape html
                 if (element.innerHTML !== newElement.innerHTML) {
-                    log('Setting content');
                     element.innerHTML = newContent;
                 }
             }
