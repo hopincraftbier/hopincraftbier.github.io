@@ -1,27 +1,6 @@
-console.log("HopInCraftbier custom js v6.21.10");
+console.log("HopInCraftbier custom js v6.30");
 let debug = false;
 let prodMode = true;
-
-let cookieProdMode = document.cookie.split('; ').find(row => row.startsWith('prodMode='));
-if (cookieProdMode) {
-    prodMode = cookieProdMode.split('=')[1] === 'true';
-}
-let cookieDebug = document.cookie.split('; ').find(row => row.startsWith('debug='));
-if (cookieDebug) {
-    debug = cookieDebug.split('=')[1] === 'true';
-}
-
-document.txtNl1 = '<div class="dtooltip"><p class="hover question">Kortingscoupon</p><p class="dtooltiptext">Afhankelijk van de gekozen betaling en levering, kunt u een kortingscoupon krijgen die te gebruiken is bij een volgende bestelling. Voor dit bier ziet u de bedragen in deze tabel</p></div><table class="discount-table"><thead><tr class="first_header"><th></th><th colspan="2">Manier van levering</th></tr><tr><th>Manier van betaling</th><th>Afhaling</th><th>Levering</th></tr></thead><tbody><tr><td class="header">Betalen bij afhaling</td><td>€ ';
-document.txtNl2 = '</td><td> - </td></tr><tr><td class="header">Overschrijving</td><td>€ ';
-document.txtNl3 = '</td><td>€ ';
-document.txtNl4 = '</td></tr><tr><td class="header">Online betaling</td><td>€ ';
-document.txtNl5 = '</td><td>€ 0</td></tr></tbody></table></div>';
-
-document.txtEn1 = '<div class="dtooltip"><p class="hover question">Discount coupon</p><p class="dtooltiptext">Depending on the chosen payment and delivery, you can get a discount coupon that can be used for a next order. For this beer you can see the amounts in this table</p></div><table class="discount-table"><thead><tr class="first_header"><th></th><th colspan="2">Method of delivery</th></tr><tr><th>Method of payment</th><th>Pickup</th><th>Delivery</th></tr></thead><tbody><tr><td class="header">Payment upon pickup</td><td>€ ';
-document.txtEn2 = '</td><td> - </td></tr><tr><td class="header">Money transfer</td><td>€ ';
-document.txtEn3 = '</td><td>€ ';
-document.txtEn4 = '</td></tr><tr><td class="header">Online payment</td><td>€ ';
-document.txtEn5 = '</td><td>€ 0</td></tr></tbody></table></div>';
 
 Ecwid.OnAPILoaded.add(function() {
     try {
@@ -35,164 +14,97 @@ Ecwid.OnAPILoaded.add(function() {
     }
     log("HopInCraftbier Ecwid JS API is loaded.");
 });
-if (!prodMode) {
-    Ecwid.OnPageLoad.add(function() {
-        redirectWhenNeeded();
-    });
-    Ecwid.OnPageLoaded.add(function(page){
-        if (!prodMode) {
-            console.log(JSON.stringify(page));
-            const headerDiv = document.querySelector("#tile-header-fcHJMd");
-            if (headerDiv) {
+document.txtNl1 = '<div class="dtooltip"><p class="hover question">Kortingscoupon</p><p class="dtooltiptext">Afhankelijk van de gekozen betaling en levering, kunt u een kortingscoupon krijgen die te gebruiken is bij een volgende bestelling. Voor dit bier ziet u de bedragen in deze tabel</p></div><table class="discount-table"><thead><tr class="first_header"><th></th><th colspan="2">Manier van levering</th></tr><tr><th>Manier van betaling</th><th>Afhaling</th><th>Levering</th></tr></thead><tbody><tr><td class="header">Betalen bij afhaling</td><td>€ ';
+document.txtNl2 = '</td><td> - </td></tr><tr><td class="header">Overschrijving</td><td>€ ';
+document.txtNl3 = '</td><td>€ ';
+document.txtNl4 = '</td></tr><tr><td class="header">Online betaling</td><td>€ ';
+document.txtNl5 = '</td><td>€ 0</td></tr></tbody></table></div>';
 
-                let announcementsHeight = 0;
+document.txtEn1 = '<div class="dtooltip"><p class="hover question">Discount coupon</p><p class="dtooltiptext">Depending on the chosen payment and delivery, you can get a discount coupon that can be used for a next order. For this beer you can see the amounts in this table</p></div><table class="discount-table"><thead><tr class="first_header"><th></th><th colspan="2">Method of delivery</th></tr><tr><th>Method of payment</th><th>Pickup</th><th>Delivery</th></tr></thead><tbody><tr><td class="header">Payment upon pickup</td><td>€ ';
+document.txtEn2 = '</td><td> - </td></tr><tr><td class="header">Money transfer</td><td>€ ';
+document.txtEn3 = '</td><td>€ ';
+document.txtEn4 = '</td></tr><tr><td class="header">Online payment</td><td>€ ';
+document.txtEn5 = '</td><td>€ 0</td></tr></tbody></table></div>';
 
-                const pos = "-" + (announcementsHeight + document.querySelector(".ins-tile--header .ins-header__row:nth-child(1)").offsetHeight) + "px";
-                let prevScrollPos = window.scrollY;
-                let headerBottom = headerDiv.offsetTop + headerDiv.offsetHeight + announcementsHeight;
-
-                window.onscroll = function () {
-                    let currentScrollPos = window.scrollY;
-                    if (Math.abs(prevScrollPos - currentScrollPos) <= 5) return;
-
-                    /* if we're scrolling up, or we haven't passed the header,
-                       show the header at the top */
-                    if (prevScrollPos > currentScrollPos || currentScrollPos < headerBottom) {
-                        headerDiv.style.top = "0";
-                    } else {
-                        /* otherwise we're scrolling down & have passed the header so hide it */
-                        headerDiv.style.top = pos;
-                    }
-
-                    prevScrollPos = currentScrollPos;
-                }
-            }
-            if (page.type === 'CATEGORY' || page.type === 'SEARCH') {
-                processProductBrowserPage();
-
-            } else if (page.type === 'PRODUCT') {
-                processProductPage(true);
-                moveSubtitle();
-                processStock();
-                processExpectedPrice();
-
-            } else if (page.type === 'SITE') {
-                processInfoPages();
-
-            } else if (page.type === 'CART' || page.type === 'CHECKOUT_ADDRESS' || page.type === 'CHECKOUT_DELIVERY' || page.type === 'CHECKOUT_ADDRESS_BOOK' || page.type === 'CHECKOUT_PAYMENT_DETAILS') {
-                processCartPage();
-                translateCheckoutNotice();
-
-            } else if (page.type === 'FAVORITES') {
-
-            } else if (page.type === 'ORDER_CONFIRMATION') {
-
-            } else {
-                console.log('Unknown page type: ' + page.type);
-            }
-        }
-    });
-    const cartTotalMo = new MutationObserver(function (ms) {
-        ms.forEach(function (m) {
-            for (let i = 0; i < m.addedNodes.length; i++) {
-                if (m.addedNodes[i].nodeType === Node.ELEMENT_NODE) {
-                    if (typeof m.addedNodes[i].className == "string") {
-                        const className = m.addedNodes[i].className;
-                        if (className.indexOf('ecwid-checkout-notice') >= 0) {
-                            log('added node classname: ' + className);
-                            translateCheckoutNotice();
-                        }
-                    }
-                }
-            }
-        });
-    });
-    cartTotalMo.observe(document, {
-        childList: true,
-        subtree: true
-    });
-}
-if (prodMode) {
-    document.addEventListener("visibilitychange", (event) => {
-        if (document.visibilityState === "visible") {
-            redirectWhenNeeded();
-            processCartPage();
-            processInfoPages();
-            processProductBrowserPage();
-            processProductPage(false);
-        }
-    });
-
-    const headerDiv = document.querySelector("#tile-header-fcHJMd");
-    if (headerDiv) {
-        redirectWhenNeeded();
-
-        let announcementsHeight = 0;
-
-        const pos = "-" + (announcementsHeight + document.querySelector(".ins-tile--header .ins-header__row:nth-child(1)").offsetHeight) + "px";
-        let prevScrollPos = window.scrollY;
-        let headerBottom = headerDiv.offsetTop + headerDiv.offsetHeight + announcementsHeight;
-
-        window.onscroll = function () {
-            let currentScrollPos = window.scrollY;
-            if (Math.abs(prevScrollPos - currentScrollPos) <= 5) return;
-
-            /* if we're scrolling up, or we haven't passed the header,
-               show the header at the top */
-            if (prevScrollPos > currentScrollPos || currentScrollPos < headerBottom) {
-                headerDiv.style.top = "0";
-            } else {
-                /* otherwise we're scrolling down & have passed the header so hide it */
-                headerDiv.style.top = pos;
-            }
-
-            prevScrollPos = currentScrollPos;
-        }
-    }
-    const priceO = new MutationObserver(function (ms) {
-        ms.forEach(function (m) {
-            processProductPage(false);
-        })
-    });
-    const cartTotalMo = new MutationObserver(function (ms) {
+document.addEventListener("visibilitychange", (event) => {
+    if (document.visibilityState === "visible") {
         redirectWhenNeeded();
         processInfoPages();
+        processCartPage();
         processProductBrowserPage();
         processProductPage(false);
-        processStock();
-        processExpectedPrice();
-        processCartPage();
+    }
+});
 
-        ms.forEach(function (m) {
-            for (let i = 0; i < m.addedNodes.length; i++) {
-                if (m.addedNodes[i].nodeType === Node.ELEMENT_NODE) {
-                    if (typeof m.addedNodes[i].className == "string") {
-                        const className = m.addedNodes[i].className;
-                        log('added node classname: ' + className);
-                        if (className.indexOf('ec-store ec-store__product-page') >= 0) {
-                            processProductPage(true);
-                            priceO.observe(document.querySelector('div.product-details__product-price.ec-price-item'), {
-                                childList: true,
-                                subtree: true
-                            });
-                            processStock();
-                        } else if (className.indexOf('ecwid-checkout-notice') >= 0) {
-                            translateCheckoutNotice();
-                        } else if (className.indexOf('ec-store__cart-page') >= 0 ||
-                            className.indexOf('ec-store__checkout-page') ||
-                            className.indexOf('ec-cart-step__section')) {
-                            processCartPage();
-                        }
+const headerDiv = document.querySelector("#tile-header-fcHJMd");
+if (headerDiv) {
+    redirectWhenNeeded();
+
+    let announcementsHeight = 0;
+
+    const pos = "-" + (announcementsHeight + document.querySelector(".ins-tile--header .ins-header__row:nth-child(1)").offsetHeight) + "px";
+    let prevScrollPos = window.scrollY;
+    let headerBottom = headerDiv.offsetTop + headerDiv.offsetHeight + announcementsHeight;
+
+    window.onscroll = function () {
+        let currentScrollPos = window.scrollY;
+        if (Math.abs(prevScrollPos - currentScrollPos) <= 5) return;
+
+        /* if we're scrolling up, or we haven't passed the header,
+           show the header at the top */
+        if (prevScrollPos > currentScrollPos || currentScrollPos < headerBottom) {
+            headerDiv.style.top = "0";
+        } else {
+            /* otherwise we're scrolling down & have passed the header so hide it */
+            headerDiv.style.top = pos;
+        }
+
+        prevScrollPos = currentScrollPos;
+    }
+}
+const priceO = new MutationObserver(function (ms) {
+    ms.forEach(function (m) {
+        processProductPage(false);
+    })
+});
+const cartTotalMo = new MutationObserver(function (ms) {
+    redirectWhenNeeded();
+    processInfoPages();
+    processProductBrowserPage();
+    processProductPage(false);
+    processStock();
+    processExpectedPrice();
+    processCartPage();
+
+    ms.forEach(function (m) {
+        for (let i = 0; i < m.addedNodes.length; i++) {
+            if (m.addedNodes[i].nodeType === Node.ELEMENT_NODE) {
+                if (typeof m.addedNodes[i].className == "string") {
+                    const className = m.addedNodes[i].className;
+                    log('added node classname: ' + className);
+                    if (className.indexOf('ec-store ec-store__product-page') >= 0) {
+                        processProductPage(true);
+                        priceO.observe(document.querySelector('div.product-details__product-price.ec-price-item'), {
+                            childList: true,
+                            subtree: true
+                        });
+                        processStock();
+                    } else if (className.indexOf('ecwid-checkout-notice') >= 0) {
+                        translateCheckoutNotice();
+                    } else if (className.indexOf('ec-store__cart-page') >= 0 ||
+                        className.indexOf('ec-store__checkout-page') ||
+                        className.indexOf('ec-cart-step__section')) {
+                        processCartPage();
                     }
                 }
             }
-        });
+        }
     });
-    cartTotalMo.observe(document, {
-        childList: true,
-        subtree: true
-    });
-}
+});
+cartTotalMo.observe(document, {
+    childList: true,
+    subtree: true
+});
 
 function processStock() {
     log('processStock');
@@ -201,7 +113,7 @@ function processStock() {
         const element = x.parentElement;
         let mod = document.querySelector('.details-product-purchase__place span.mod');
         let txt = x.textContent;
-        if (txt.indexOf('(') >= 0) {
+        if (txt.indexOf('(')) {
             txt = txt.substring(0, txt.indexOf('(')).trim();
         }
         if (!mod) {
@@ -264,13 +176,16 @@ function processAttributes() {
                 let newContent = "";
 
                 if (attribute === 'Brouwerij:' || attribute === 'Brewery:') {
+                    log('Brouwerij: ' + content);
                     content.split(",").forEach((it) => {
                         let link = lng + '/products/' + it.trim().toLowerCase().replaceAll("’", '').replaceAll('.', '').replaceAll(' ', '-');
+                        log('Link: ' + link);
                         if (newContent !== "") {
                             newContent += ", ";
                         }
                         newContent += "<a href=\"" + link + "\" target=\"_blank\">" + it.trim() + "</a>";
                     });
+                    log('newContent: ' + newContent);
                 } else if (attribute === 'Type:') {
                     content.split(",").forEach((it) => {
                         let link = lng + '/products/alle-bieren?attribute_Type=' + it.trim().replaceAll(' ', '+');
@@ -293,6 +208,7 @@ function processAttributes() {
                 let newElement = document.createElement('dum');
                 newElement.innerHTML = newContent; // escape html
                 if (element.innerHTML !== newElement.innerHTML) {
+                    log('Setting content');
                     element.innerHTML = newContent;
                 }
             }
