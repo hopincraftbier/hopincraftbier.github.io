@@ -1,4 +1,4 @@
-const version = "6.24.12";
+const version = "6.24.13";
 let debug = false;
 let prodMode = true;
 
@@ -91,6 +91,7 @@ const priceO = new MutationObserver(function (ms) {
     })
 });
 const cartTotalMo = new MutationObserver(function (ms) {
+    processProductPage(false);
     ms.forEach(function (m) {
         for (let i = 0; i < m.addedNodes.length; i++) {
             if (m.addedNodes[i].nodeType === Node.ELEMENT_NODE) {
@@ -98,7 +99,7 @@ const cartTotalMo = new MutationObserver(function (ms) {
                     const className = m.addedNodes[i].className;
                     if (className.indexOf('ec-store ec-store__product-page') >= 0) {
                         log('added node classname: ' + className);
-                        processProductPage(true);
+                        // processProductPage(true);
                         priceO.observe(document.querySelector('div.product-details__product-price.ec-price-item'), {
                             childList: true,
                             subtree: true
@@ -108,9 +109,9 @@ const cartTotalMo = new MutationObserver(function (ms) {
                         log('added node classname: ' + className);
                         translateCheckoutNotice();
                     } else
-                    if (className.indexOf('rvp-wrapper') >= 0) {
-                        moveSubtitle();
-                    } else
+                    // if (className.indexOf('rvp-wrapper') >= 0) {
+                    //     moveSubtitle();
+                    // } else
                     {
                         log('added node unknown classname: ' + className);
                     }
