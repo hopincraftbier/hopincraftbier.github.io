@@ -1,4 +1,4 @@
-const version = "6.23";
+const version = "6.24";
 let debug = false;
 let prodMode = true;
 
@@ -85,6 +85,11 @@ Ecwid.OnPageLoaded.add(function(page){
         console.log('Unknown page type: ' + page.type);
     }
 });
+const priceO = new MutationObserver(function (ms) {
+    ms.forEach(function (m) {
+        processProductPage(false);
+    })
+});
 const cartTotalMo = new MutationObserver(function (ms) {
     ms.forEach(function (m) {
         for (let i = 0; i < m.addedNodes.length; i++) {
@@ -94,6 +99,10 @@ const cartTotalMo = new MutationObserver(function (ms) {
                     if (className.indexOf('ec-store ec-store__product-page') >= 0) {
                         log('added node classname: ' + className);
                         processProductPage(true);
+                        priceO.observe(document.querySelector('div.product-details__product-price.ec-price-item'), {
+                            childList: true,
+                            subtree: true
+                        });
                     }
                     if (className.indexOf('ecwid-checkout-notice') >= 0) {
                         log('added node classname: ' + className);
