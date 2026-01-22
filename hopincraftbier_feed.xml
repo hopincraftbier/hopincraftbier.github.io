@@ -988,7 +988,7 @@
     <brewery_name>Nano Cinco</brewery_name>
     <price>11.24</price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5409098263.png</image>
-    <beer_description>YQB-N5 est une New England Quadruple IPA brassée avec les houblons Riwaka, Rakau et Motueka (utilisé sous trois formes : T90, Hop Kief et Amplifire). Son nom et son design sont un clin d'oeil au Béluga, cet avion colossal conçu pour transporter d’autres appareils. Elle déploie des arômes intenses de sauvignon blanc et d’agrumes, portés par une texture soyeuse et enveloppante. Une bière dont la douceur dissimule habilement la force alcoolique. Nano Cinco - YQB-N5</beer_description>
+    <beer_description>YQB-N5 is a New England Quadruple IPA brewed with Riwaka, Rakau, and Motueka hops (used in three forms: T90, Hop Kief, and Amplifire). Its name and design are a nod to the Beluga, the colossal aircraft designed to transport other aircraft. It boasts intense aromas of Sauvignon Blanc and citrus, carried by a silky, enveloping texture. A beer whose sweetness skillfully masks its alcoholic strength. Nano Cinco - YQB-N5</beer_description>
     <beer_style>IPA - Quadruple</beer_style>
     <beer_abv>11%</beer_abv>
     <beer_volume>473 ml</beer_volume>
@@ -4046,7 +4046,7 @@
     <price>9.25</price>
     <regular_price>10.88</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4966300378.webp</image>
-    <beer_description>Château est une New England Double IPA brassée en collaboration avec nos amis Ontarien Third Moon. Une explosion tropicale signée 100 % Freestyle Hops : NZ Cascade, Peacharine, Rakau, Motueka SubZero Hop Kief et NZ Cascade Hop Kief. Ce cocktail d'houblons libère des notes vibrantes d’agrumes, de fruits tropicaux et de pêche bien mûre, soutenues par une texture onctueuse et une amertume douce. Le genre de DIPA qu'on aime, puissante et veloutée. Santé ! Nano Cinco - Chateau</beer_description>
+    <beer_description>Château is a New England Double IPA brewed in collaboration with our Ontario friends, Third Moon. A tropical explosion crafted with 100% Freestyle Hops: NZ Cascade, Peacharine, Rakau, Motueka SubZero Hop Kief, and NZ Cascade Hop Kief. This hop cocktail releases vibrant notes of citrus, tropical fruit, and ripe peach, supported by a smooth texture and gentle bitterness. The kind of DIPA we love—powerful and velvety. Cheers! Nano Cinco - Chateau</beer_description>
     <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
     <beer_abv>8%</beer_abv>
     <beer_volume>473 ml</beer_volume>
@@ -4063,7 +4063,7 @@
     <price>10.4</price>
     <regular_price>12.24</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4966298112.webp</image>
-    <beer_description>Forteresse est une New England Quadruple IPA brassée en collaboration avec nos amis de chez Bière Boréale. Intensément houblonnée, elle met en valeur une sélection exceptionnelle de houblons issus de Freestyle Hops et de Jackson Hop Farm : Peacharine, Nelson Sauvin, Motueka SubZero Hop Kief (Freestyle) et ID-158 Pink (Jackson). Cette combinaison déploie des arômes éclatants de sauvignon blanc, de nectarine et d’agrumes, portés par une texture soyeuse. Une bière puissante, dont la douceur veloutée masque habilement son haut taux d’alcool. Nano Cinco - Forteresse</beer_description>
+    <beer_description>Forteresse is a New England Quadruple IPA brewed in collaboration with our friends at Bière Boréale. Intensely hopped, it showcases an exceptional selection of hops from Freestyle Hops and Jackson Hop Farm: Peacharine, Nelson Sauvin, Motueka SubZero Hop Kief (Freestyle), and ID-158 Pink (Jackson). This combination unfolds vibrant aromas of Sauvignon Blanc, nectarine, and citrus, carried by a silky texture. A powerful beer whose velvety smoothness cleverly masks its high alcohol content. Nano Cinco - Forteresse</beer_description>
     <beer_style>IPA - Quadruple</beer_style>
     <beer_abv>11%</beer_abv>
     <beer_volume>473 ml</beer_volume>
@@ -4752,7 +4752,7 @@
     <price>9.88</price>
     <regular_price>11.62</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5438330705.webp</image>
-    <beer_description>Voici notre dernière triple NEIPA intensément houblonnée aux cultivars Nectaron, Nelson Sauvin Cryo, Nelson Sauvin Subzero Hop Kief et Citra. Une bombe tropicale avec des notes de fruit de la passion, de nectarine bien mûre et une pointe de sauvignon blanc. Le tout porté par une texture soyeuse et une finale fraîche qui en redemande malgré son pourcentage élevé Nano Cinco - Patron</beer_description>
+    <beer_description>Here's our latest triple NEIPA, intensely hopped with Nectaron, Nelson Sauvin Cryo, Nelson Sauvin Subzero Hop Kief, and Citra cultivars. A tropical explosion with notes of passion fruit, ripe nectarine, and a hint of Sauvignon Blanc. All carried by a silky texture and a refreshing finish that leaves you wanting more despite its high ABV. Nano Cinco - Patron</beer_description>
     <beer_style>IPA - Triple New England / Hazy</beer_style>
     <beer_abv>9.6%</beer_abv>
     <beer_volume>473 ml</beer_volume>
@@ -4787,7 +4787,7 @@
     <price>8.25</price>
     <regular_price>9.70</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5438334691.webp</image>
-    <beer_description>Bain d'agrumes est une New England IPA dans laquelle nous avons poussé l’expérience Citra à fond : Citra T90 en pellets (Coleman Agriculture) Citra Dynaboost (Yakima Chief) à chaud Citra Spectrum (John I. Haas) à froid Et pour encore plus de peps, on a ajouté à chaud des écorces d’orange amère et des tranches d’orange sanguine. Résultat ? Une bombe d’agrumes ultra juteuse, avec des notes éclatantes de citron, de pamplemousse et surtout des notes explosives d'orange. Un vrai jus d’orange houblonné ! Nano Cinco - Bain D'agrumes</beer_description>
+    <beer_description>Citrus Bath is a New England IPA in which we've taken the Citra experience to the next level: Citra T90 pellets (Coleman Agriculture), Citra Dynaboost (Yakima Chief) hot, and Citra Spectrum (John I. Haas) cold. And for even more zing, we added bitter orange peel and blood orange slices during the hot brewing process. The result? An ultra-juicy citrus explosion, with vibrant notes of lemon, grapefruit, and especially explosive orange notes. A true hoppy orange juice! Nano Cinco - Bain D'agrumes</beer_description>
     <beer_style>IPA - New England / Hazy</beer_style>
     <beer_abv>6.8%</beer_abv>
     <beer_volume>473 ml</beer_volume>
@@ -4804,7 +4804,7 @@
     <price>9.3</price>
     <regular_price>10.94</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5438334697.webp</image>
-    <beer_description>Cinco est une Double New England IPA houblonnée aux variétés Nelson Sauvin, HBC 1019 et Peacharine. Elle offre un corps soyeux et une explosion d’arômes de pêche, de nectarine et de fruits à noyau bien mûrs. Cinco, ce n’est pas seulement le nom de la bière, c’est aussi celui du chien de Mathieu, maître brasseur et co-fondateur de la brasserie. C’est lui, Cinco, qui a inspiré le nom même de la brasserie il y a de cela quasiment 10 ans, alors que nous n'étions qu'une gang d'amis à brasser de la bière pour la plaisir dans l'appartement de Mathieu. Un nom qui est resté! Un compagnon fidèle, curieux et qui était toujours dans nos pattes pendant les brassins Nano Cinco - Cinco</beer_description>
+    <beer_description>Cinco is a Double New England IPA hopped with Nelson Sauvin, HBC 1019, and Peacharine. It offers a silky body and an explosion of aromas of peach, nectarine, and ripe stone fruit. Cinco isn't just the name of the beer; it's also the name of Mathieu's dog, the brewmaster and co-founder of the brewery. It was Cinco who inspired the brewery's name almost 10 years ago, when we were just a group of friends brewing beer for fun in Mathieu's apartment. A name that stuck! A loyal, curious companion who was always underfoot during brewing. Nano Cinco - Cinco</beer_description>
     <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
     <beer_abv>8.2%</beer_abv>
     <beer_volume>473 ml</beer_volume>
@@ -4838,7 +4838,7 @@
     <brewery_name>Nano Cinco</brewery_name>
     <price>28.68</price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5476598884.png</image>
-    <beer_description>Stout impérial vieilli en barrique de whisky rye ayant contenu du sirop d'érable, puis conditionné sur de la vanille du Mexique. Une bière particulièrement riche et sirupeuse aux notes de sirop d'érable, de vanille, de cacao et de spiritueux. Nano Cinco - Hello My Name Is - Vanille</beer_description>
+    <beer_description>Imperial stout aged in rye whisky barrels that previously held maple syrup, then finished with Mexican vanilla. A particularly rich and syrupy beer with notes of maple syrup, vanilla, cocoa, and spirits. Nano Cinco - Hello My Name Is - Vanille</beer_description>
     <beer_style>Stout - Imperial / Double</beer_style>
     <beer_abv>11.9%</beer_abv>
     <beer_volume>500 ml</beer_volume>
@@ -6344,6 +6344,6 @@
     <date_canned>2025-03-27</date_canned>
     <untappd_id>593083</untappd_id>
   </item>
-  <timestamp>1769088605</timestamp>
-  <gen_date>22/01/2026 14:30:05</gen_date>
+  <timestamp>1769091305</timestamp>
+  <gen_date>22/01/2026 15:15:05</gen_date>
 </feed>
