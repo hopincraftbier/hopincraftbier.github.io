@@ -1,4 +1,4 @@
-console.log("HopInCraftbier custom js v6.21.8");
+console.log("HopInCraftbier custom js v6.21.9");
 let debug = false;
 let prodMode = true;
 
@@ -92,6 +92,25 @@ if (!prodMode) {
             }
         }
     });
+    const cartTotalMo = new MutationObserver(function (ms) {
+        ms.forEach(function (m) {
+            for (let i = 0; i < m.addedNodes.length; i++) {
+                if (m.addedNodes[i].nodeType === Node.ELEMENT_NODE) {
+                    if (typeof m.addedNodes[i].className == "string") {
+                        const className = m.addedNodes[i].className;
+                        log('added node classname: ' + className);
+                        if (className.indexOf('ecwid-checkout-notice') >= 0) {
+                            translateCheckoutNotice();
+                        }
+                    }
+                }
+            }
+        });
+    });
+    cartTotalMo.observe(document, {
+        childList: true,
+        subtree: true
+    });
 }
 if (prodMode) {
     document.addEventListener("visibilitychange", (event) => {
@@ -149,9 +168,7 @@ if (prodMode) {
                 if (m.addedNodes[i].nodeType === Node.ELEMENT_NODE) {
                     if (typeof m.addedNodes[i].className == "string") {
                         const className = m.addedNodes[i].className;
-                        if (prodMode) {
-                            log('added node classname: ' + className);
-                        }
+                        log('added node classname: ' + className);
                         if (className.indexOf('ec-store ec-store__product-page') >= 0) {
                             processProductPage(true);
                             priceO.observe(document.querySelector('div.product-details__product-price.ec-price-item'), {
