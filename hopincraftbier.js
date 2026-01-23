@@ -1,6 +1,27 @@
-console.log("HopInCraftbier custom js v6.30");
+const version = 'v6.31';
+const txtNl1 = '<div class="dtooltip"><p class="hover question">Kortingscoupon</p><p class="dtooltiptext">Afhankelijk van de gekozen betaling en levering, kunt u een kortingscoupon krijgen die te gebruiken is bij een volgende bestelling. Voor dit bier ziet u de bedragen in deze tabel</p></div><table class="discount-table"><thead><tr class="first_header"><th></th><th colspan="2">Manier van levering</th></tr><tr><th>Manier van betaling</th><th>Afhaling</th><th>Levering</th></tr></thead><tbody><tr><td class="header">Betalen bij afhaling</td><td>€ ';
+const txtNl2 = '</td><td> - </td></tr><tr><td class="header">Overschrijving</td><td>€ ';
+const txtNl3 = '</td><td>€ ';
+const txtNl4 = '</td></tr><tr><td class="header">Online betaling</td><td>€ ';
+const txtNl5 = '</td><td>€ 0</td></tr></tbody></table></div>';
+
+const txtEn1 = '<div class="dtooltip"><p class="hover question">Discount coupon</p><p class="dtooltiptext">Depending on the chosen payment and delivery, you can get a discount coupon that can be used for a next order. For this beer you can see the amounts in this table</p></div><table class="discount-table"><thead><tr class="first_header"><th></th><th colspan="2">Method of delivery</th></tr><tr><th>Method of payment</th><th>Pickup</th><th>Delivery</th></tr></thead><tbody><tr><td class="header">Payment upon pickup</td><td>€ ';
+const txtEn2 = '</td><td> - </td></tr><tr><td class="header">Money transfer</td><td>€ ';
+const txtEn3 = '</td><td>€ ';
+const txtEn4 = '</td></tr><tr><td class="header">Online payment</td><td>€ ';
+const txtEn5 = '</td><td>€ 0</td></tr></tbody></table></div>';
+
 let debug = false;
 let prodMode = true;
+
+let cookieProdMode = document.cookie.split('; ').find(row => row.startsWith('prodMode='));
+if (cookieProdMode) {
+    prodMode = cookieProdMode.split('=')[1] === 'true';
+}
+let cookieDebug = document.cookie.split('; ').find(row => row.startsWith('debug='));
+if (cookieDebug) {
+    debug = cookieDebug.split('=')[1] === 'true';
+}
 
 Ecwid.OnAPILoaded.add(function() {
     try {
@@ -12,20 +33,36 @@ Ecwid.OnAPILoaded.add(function() {
     } catch (error) {
         log(error);
     }
-    log("HopInCraftbier Ecwid JS API is loaded.");
+    log("HopInCraftbier " + version + ". Ecwid JS API is loaded");
 });
-document.txtNl1 = '<div class="dtooltip"><p class="hover question">Kortingscoupon</p><p class="dtooltiptext">Afhankelijk van de gekozen betaling en levering, kunt u een kortingscoupon krijgen die te gebruiken is bij een volgende bestelling. Voor dit bier ziet u de bedragen in deze tabel</p></div><table class="discount-table"><thead><tr class="first_header"><th></th><th colspan="2">Manier van levering</th></tr><tr><th>Manier van betaling</th><th>Afhaling</th><th>Levering</th></tr></thead><tbody><tr><td class="header">Betalen bij afhaling</td><td>€ ';
-document.txtNl2 = '</td><td> - </td></tr><tr><td class="header">Overschrijving</td><td>€ ';
-document.txtNl3 = '</td><td>€ ';
-document.txtNl4 = '</td></tr><tr><td class="header">Online betaling</td><td>€ ';
-document.txtNl5 = '</td><td>€ 0</td></tr></tbody></table></div>';
 
-document.txtEn1 = '<div class="dtooltip"><p class="hover question">Discount coupon</p><p class="dtooltiptext">Depending on the chosen payment and delivery, you can get a discount coupon that can be used for a next order. For this beer you can see the amounts in this table</p></div><table class="discount-table"><thead><tr class="first_header"><th></th><th colspan="2">Method of delivery</th></tr><tr><th>Method of payment</th><th>Pickup</th><th>Delivery</th></tr></thead><tbody><tr><td class="header">Payment upon pickup</td><td>€ ';
-document.txtEn2 = '</td><td> - </td></tr><tr><td class="header">Money transfer</td><td>€ ';
-document.txtEn3 = '</td><td>€ ';
-document.txtEn4 = '</td></tr><tr><td class="header">Online payment</td><td>€ ';
-document.txtEn5 = '</td><td>€ 0</td></tr></tbody></table></div>';
+Ecwid.OnPageLoad.add(function() {
+    redirectWhenNeeded();
+});
+Ecwid.OnPageLoaded.add(function(page){
+    log(JSON.stringify(page));
+    processHeader();
+    if (page.type === 'CATEGORY' || page.type === 'SEARCH') {
+        processProductBrowserPage();
 
+    } else if (page.type === 'PRODUCT') {
+        processProductPage(false);
+        moveSubtitle();
+        processStock();
+        processExpectedPrice();
+
+    } else if (page.type === 'SITE') {
+        processInfoPages();
+
+    } else if (page.type === 'CART' || page.type === 'CHECKOUT_ADDRESS' || page.type === 'CHECKOUT_DELIVERY' || page.type === 'CHECKOUT_ADDRESS_BOOK' || page.type === 'CHECKOUT_PAYMENT_DETAILS') {
+        processCartPage();
+
+    } else if (page.type === 'FAVORITES') {
+
+    } else if (page.type === 'ORDER_CONFIRMATION') {
+
+    }
+});
 document.addEventListener("visibilitychange", (event) => {
     if (document.visibilityState === "visible") {
         redirectWhenNeeded();
@@ -36,39 +73,12 @@ document.addEventListener("visibilitychange", (event) => {
     }
 });
 
-const headerDiv = document.querySelector("#tile-header-fcHJMd");
-if (headerDiv) {
-    redirectWhenNeeded();
-
-    let announcementsHeight = 0;
-
-    const pos = "-" + (announcementsHeight + document.querySelector(".ins-tile--header .ins-header__row:nth-child(1)").offsetHeight) + "px";
-    let prevScrollPos = window.scrollY;
-    let headerBottom = headerDiv.offsetTop + headerDiv.offsetHeight + announcementsHeight;
-
-    window.onscroll = function () {
-        let currentScrollPos = window.scrollY;
-        if (Math.abs(prevScrollPos - currentScrollPos) <= 5) return;
-
-        /* if we're scrolling up, or we haven't passed the header,
-           show the header at the top */
-        if (prevScrollPos > currentScrollPos || currentScrollPos < headerBottom) {
-            headerDiv.style.top = "0";
-        } else {
-            /* otherwise we're scrolling down & have passed the header so hide it */
-            headerDiv.style.top = pos;
-        }
-
-        prevScrollPos = currentScrollPos;
-    }
-}
 const priceO = new MutationObserver(function (ms) {
     ms.forEach(function (m) {
         processProductPage(false);
     })
 });
 const cartTotalMo = new MutationObserver(function (ms) {
-    redirectWhenNeeded();
     processInfoPages();
     processProductBrowserPage();
     processProductPage(false);
@@ -105,6 +115,7 @@ cartTotalMo.observe(document, {
     childList: true,
     subtree: true
 });
+processHeader();
 
 function processStock() {
     log('processStock');
@@ -400,9 +411,9 @@ function addCouponInfo(toScroll) {
             c3 = calcDiscount(Number(c3.replace(",", ".")), custDisc).toString();
             let txt;
             if ('EN' === getCustomerLng()) {
-                txt = document.txtEn1 + c1 + document.txtEn2 + c1 + document.txtEn3 + c3 + document.txtEn4 + c2 + document.txtEn5;
+                txt = txtEn1 + c1 + txtEn2 + c1 + txtEn3 + c3 + txtEn4 + c2 + txtEn5;
             } else {
-                txt = document.txtNl1 + c1 + document.txtNl2 + c1 + document.txtNl3 + c3 + document.txtNl4 + c2 + document.txtNl5;
+                txt = txtNl1 + c1 + txtNl2 + c1 + txtNl3 + c3 + txtNl4 + c2 + txtNl5;
             }
 
             let newElement = document.createElement('dum');
@@ -624,5 +635,31 @@ function processInfoPages() {
 function log(txt) {
     if (debug) {
         console.log(txt);
+    }
+}
+function processHeader() {
+    const headerDiv = document.querySelector("#tile-header-fcHJMd");
+    if (headerDiv) {
+        let announcementsHeight = 0;
+
+        const pos = "-" + (announcementsHeight + document.querySelector(".ins-tile--header .ins-header__row:nth-child(1)").offsetHeight) + "px";
+        let prevScrollPos = window.scrollY;
+        let headerBottom = headerDiv.offsetTop + headerDiv.offsetHeight + announcementsHeight;
+
+        window.onscroll = function () {
+            let currentScrollPos = window.scrollY;
+            if (Math.abs(prevScrollPos - currentScrollPos) <= 5) return;
+
+            /* if we're scrolling up, or we haven't passed the header,
+               show the header at the top */
+            if (prevScrollPos > currentScrollPos || currentScrollPos < headerBottom) {
+                headerDiv.style.top = "0";
+            } else {
+                /* otherwise we're scrolling down & have passed the header so hide it */
+                headerDiv.style.top = pos;
+            }
+
+            prevScrollPos = currentScrollPos;
+        }
     }
 }
