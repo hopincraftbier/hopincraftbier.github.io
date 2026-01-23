@@ -1,4 +1,4 @@
-const version = 'v6.31';
+const version = 'v6.31.10';
 const txtNl1 = '<div class="dtooltip"><p class="hover question">Kortingscoupon</p><p class="dtooltiptext">Afhankelijk van de gekozen betaling en levering, kunt u een kortingscoupon krijgen die te gebruiken is bij een volgende bestelling. Voor dit bier ziet u de bedragen in deze tabel</p></div><table class="discount-table"><thead><tr class="first_header"><th></th><th colspan="2">Manier van levering</th></tr><tr><th>Manier van betaling</th><th>Afhaling</th><th>Levering</th></tr></thead><tbody><tr><td class="header">Betalen bij afhaling</td><td>€ ';
 const txtNl2 = '</td><td> - </td></tr><tr><td class="header">Overschrijving</td><td>€ ';
 const txtNl3 = '</td><td>€ ';
@@ -13,10 +13,14 @@ const txtEn5 = '</td><td>€ 0</td></tr></tbody></table></div>';
 
 let debug = false;
 let prodMode = true;
+let process = true;
 
 let cookieProdMode = document.cookie.split('; ').find(row => row.startsWith('prodMode='));
 if (cookieProdMode) {
     prodMode = cookieProdMode.split('=')[1] === 'true';
+    if (!prodMode) {
+        process = false;
+    }
 }
 let cookieDebug = document.cookie.split('; ').find(row => row.startsWith('debug='));
 if (cookieDebug) {
@@ -37,9 +41,15 @@ Ecwid.OnAPILoaded.add(function() {
 });
 
 Ecwid.OnPageLoad.add(function() {
+    if (!prodMode) {
+        process = false;
+    }
     redirectWhenNeeded();
 });
 Ecwid.OnPageLoaded.add(function(page){
+    if (!prodMode) {
+        process = true;
+    }
     log(JSON.stringify(page));
     processHeader();
     if (page.type === 'CATEGORY' || page.type === 'SEARCH') {
@@ -75,41 +85,47 @@ document.addEventListener("visibilitychange", (event) => {
 
 const priceO = new MutationObserver(function (ms) {
     ms.forEach(function (m) {
-        processProductPage(false);
+        if (process) {
+            processProductPage(false);
+        }
     })
 });
 const cartTotalMo = new MutationObserver(function (ms) {
-    processInfoPages();
-    processProductBrowserPage();
-    processProductPage(false);
-    processStock();
-    processExpectedPrice();
-    processCartPage();
+    if (process) {
+        processInfoPages();
+        processProductBrowserPage();
+        processProductPage(false);
+        processStock();
+        processExpectedPrice();
+        processCartPage();
 
-    ms.forEach(function (m) {
-        for (let i = 0; i < m.addedNodes.length; i++) {
-            if (m.addedNodes[i].nodeType === Node.ELEMENT_NODE) {
-                if (typeof m.addedNodes[i].className == "string") {
-                    const className = m.addedNodes[i].className;
-                    log('added node classname: ' + className);
-                    if (className.indexOf('ec-store ec-store__product-page') >= 0) {
-                        processProductPage(true);
-                        priceO.observe(document.querySelector('div.product-details__product-price.ec-price-item'), {
-                            childList: true,
-                            subtree: true
-                        });
-                        processStock();
-                    } else if (className.indexOf('ecwid-checkout-notice') >= 0) {
-                        translateCheckoutNotice();
-                    } else if (className.indexOf('ec-store__cart-page') >= 0 ||
-                        className.indexOf('ec-store__checkout-page') ||
-                        className.indexOf('ec-cart-step__section')) {
-                        processCartPage();
+        ms.forEach(function (m) {
+            for (let i = 0; i < m.addedNodes.length; i++) {
+                if (m.addedNodes[i].nodeType === Node.ELEMENT_NODE) {
+                    if (typeof m.addedNodes[i].className == "string") {
+                        const className = m.addedNodes[i].className;
+                        if (className && className !== '') {
+                            log('added node classname: ' + className);
+                            if (className.indexOf('ec-store ec-store__product-page') >= 0) {
+                                processProductPage(true);
+                                priceO.observe(document.querySelector('div.product-details__product-price.ec-price-item'), {
+                                    childList: true,
+                                    subtree: true
+                                });
+                                processStock();
+                            } else if (className.indexOf('ecwid-checkout-notice') >= 0) {
+                                translateCheckoutNotice();
+                            } else if (className.indexOf('ec-store__cart-page') >= 0 ||
+                                className.indexOf('ec-store__checkout-page') ||
+                                className.indexOf('ec-cart-step__section')) {
+                                processCartPage();
+                            }
+                        }
                     }
                 }
             }
-        }
-    });
+        });
+    }
 });
 cartTotalMo.observe(document, {
     childList: true,
