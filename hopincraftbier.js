@@ -1,4 +1,4 @@
-const version = 'v6.31.10';
+const version = 'v6.32';
 const txtNl1 = '<div class="dtooltip"><p class="hover question">Kortingscoupon</p><p class="dtooltiptext">Afhankelijk van de gekozen betaling en levering, kunt u een kortingscoupon krijgen die te gebruiken is bij een volgende bestelling. Voor dit bier ziet u de bedragen in deze tabel</p></div><table class="discount-table"><thead><tr class="first_header"><th></th><th colspan="2">Manier van levering</th></tr><tr><th>Manier van betaling</th><th>Afhaling</th><th>Levering</th></tr></thead><tbody><tr><td class="header">Betalen bij afhaling</td><td>€ ';
 const txtNl2 = '</td><td> - </td></tr><tr><td class="header">Overschrijving</td><td>€ ';
 const txtNl3 = '</td><td>€ ';
@@ -13,14 +13,11 @@ const txtEn5 = '</td><td>€ 0</td></tr></tbody></table></div>';
 
 let debug = false;
 let prodMode = true;
-let process = true;
+let process = false;
 
 let cookieProdMode = document.cookie.split('; ').find(row => row.startsWith('prodMode='));
 if (cookieProdMode) {
     prodMode = cookieProdMode.split('=')[1] === 'true';
-    if (!prodMode) {
-        process = false;
-    }
 }
 let cookieDebug = document.cookie.split('; ').find(row => row.startsWith('debug='));
 if (cookieDebug) {
@@ -41,15 +38,11 @@ Ecwid.OnAPILoaded.add(function() {
 });
 
 Ecwid.OnPageLoad.add(function() {
-    if (!prodMode) {
-        process = false;
-    }
+    process = false;
     redirectWhenNeeded();
 });
 Ecwid.OnPageLoaded.add(function(page){
-    if (!prodMode) {
-        process = true;
-    }
+    process = true;
     log(JSON.stringify(page));
     processHeader();
     if (page.type === 'CATEGORY' || page.type === 'SEARCH') {
@@ -74,7 +67,7 @@ Ecwid.OnPageLoaded.add(function(page){
     }
 });
 document.addEventListener("visibilitychange", (event) => {
-    if (document.visibilityState === "visible") {
+    if (document.visibilityState === "visible" && process) {
         redirectWhenNeeded();
         processInfoPages();
         processCartPage();
@@ -84,11 +77,11 @@ document.addEventListener("visibilitychange", (event) => {
 });
 
 const priceO = new MutationObserver(function (ms) {
-    ms.forEach(function (m) {
-        if (process) {
-            processProductPage(false);
-        }
-    })
+    if (process) {
+        ms.forEach(function (m) {
+                processProductPage(false);
+        })
+    }
 });
 const cartTotalMo = new MutationObserver(function (ms) {
     if (process) {
