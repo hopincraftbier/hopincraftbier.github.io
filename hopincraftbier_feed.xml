@@ -5,6 +5,25 @@
   <link>https://hopincraftbier.be/products&lt;/link&gt;</link>
   <description>Hop In Craftbier Products feed</description>
   <item>
+    <id>939</id>
+    <ecommerce_id>811899518</ecommerce_id>
+    <title>Prizm Brewing Co. Pack</title>
+    <url>https://hopincraftbier.be/products/prizm-brewing-co-pack</url>
+    <brewery_name>Prizm Brewing Co.</brewery_name>
+    <price>26.95</price>
+    <regular_price>28.37</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/811899518/5551624314.png</image>
+    <beer_description>The Prizm Brewing Co. Pack contains: - More Pressure - IUPAC - Please The Crowds - Sunken Ship</beer_description>
+    <beer_style>IPA - Sour</beer_style>
+    <beer_abv>6 - 9%</beer_abv>
+    <beer_volume>4x440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>France</brewery_country>
+    <beer_package_count>4</beer_package_count>
+    <beer_bundle>1</beer_bundle>
+    <bundle_skus>6489634,6489573,6569053,6569059</bundle_skus>
+  </item>
+  <item>
     <id>6489573</id>
     <ecommerce_id>811857028</ecommerce_id>
     <title>IUPAC</title>
@@ -6416,6 +6435,6 @@
     <date_canned>2025-03-27</date_canned>
     <untappd_id>593083</untappd_id>
   </item>
-  <timestamp>1769521289</timestamp>
-  <gen_date>27/01/2026 14:41:29</gen_date>
+  <timestamp>1769523650</timestamp>
+  <gen_date>27/01/2026 15:20:50</gen_date>
 </feed>
