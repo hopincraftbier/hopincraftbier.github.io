@@ -5,6 +5,87 @@
   <link>https://hopincraftbier.be/products&lt;/link&gt;</link>
   <description>Hop In Craftbier Products feed</description>
   <item>
+    <id>6489573</id>
+    <ecommerce_id>811857028</ecommerce_id>
+    <title>IUPAC</title>
+    <url>https://hopincraftbier.be/products/prizm-brewing-co-iupac</url>
+    <brewery_name>Prizm Brewing Co.</brewery_name>
+    <price>6.68</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/811857028/5551432759.png</image>
+    <beer_description>With this NEIPA we wanted to go beyond the dank side of our favorite hops so we called our friends from Gross in Spain and together we made a super terpene charged NEIPA full of weedy flavours. NO THC ;) Prizm Brewing Co. - IUPAC</beer_description>
+    <beer_style>IPA - New England / Hazy</beer_style>
+    <beer_abv>6%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>France</brewery_country>
+    <untappd_id>6489573</untappd_id>
+  </item>
+  <item>
+    <id>6457990</id>
+    <ecommerce_id>811857027</ecommerce_id>
+    <title>Peadair</title>
+    <url>https://hopincraftbier.be/products/funky-fluid-peadair</url>
+    <brewery_name>Funky Fluid</brewery_name>
+    <price>14.15</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/811857027/5551432765.png</image>
+    <beer_description>A birthday brew from Gliwice’s Beer Brothers - a peat-smoked, intense, and uncompromising Imperial Stout aged in Wild Turkey bourbon barrels. 36blg Funky Fluid - Peadair</beer_description>
+    <beer_style>Stout - Imperial / Double</beer_style>
+    <beer_abv>12%</beer_abv>
+    <beer_volume>330 ml</beer_volume>
+    <beer_package>bottle</beer_package>
+    <brewery_country>Poland</brewery_country>
+    <untappd_id>6457990</untappd_id>
+  </item>
+  <item>
+    <id>6569053</id>
+    <ecommerce_id>811861791</ecommerce_id>
+    <title>Please The Crowds</title>
+    <url>https://hopincraftbier.be/products/prizm-brewing-co-please-the-crowds</url>
+    <brewery_name>Prizm Brewing Co.</brewery_name>
+    <price>7.2</price>
+    <regular_price>7.20</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/811861791/5551425958.png</image>
+    <beer_description>FEATURING – Please the crowds DDH Double NEIPA – 8 % Houblons : Citra / Galaxy / Mosaic / Sabro Collab : SOMA (??) Prizm Brewing Co. - Please The Crowds</beer_description>
+    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
+    <beer_abv>8%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>France</brewery_country>
+    <untappd_id>6569053</untappd_id>
+  </item>
+  <item>
+    <id>6569059</id>
+    <ecommerce_id>811856563</ecommerce_id>
+    <title>Sunken Ship</title>
+    <url>https://hopincraftbier.be/products/prizm-brewing-co-sunken-ship</url>
+    <brewery_name>Prizm Brewing Co.</brewery_name>
+    <price>7.51</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/811856563/5551424383.png</image>
+    <beer_description>FEATURING – Sunken Ship DDH Triple NEIPA – 9 % Houblons : Citra / Strata / Nectaron Collab : Browar Stu Mostów (??) Prizm Brewing Co. - Sunken Ship</beer_description>
+    <beer_style>IPA - Triple New England / Hazy</beer_style>
+    <beer_abv>9%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>France</brewery_country>
+    <untappd_id>6569059</untappd_id>
+  </item>
+  <item>
+    <id>6489634</id>
+    <ecommerce_id>811856564</ecommerce_id>
+    <title>More Pressure</title>
+    <url>https://hopincraftbier.be/products/prizm-brewing-co-more-pressure</url>
+    <brewery_name>Prizm Brewing Co.</brewery_name>
+    <price>6.98</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/811856564/5551424401.png</image>
+    <beer_description>Our first ever Smoothie Sour with our dear friends from Les Intenables in Alsace. Unfermented fruit purees to keep all the juicyness and flavours. Lactose free - Vegan Prizm Brewing Co. - More Pressure</beer_description>
+    <beer_style>Sour - Smoothie / Pastry</beer_style>
+    <beer_abv>6%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>France</brewery_country>
+    <untappd_id>6489634</untappd_id>
+  </item>
+  <item>
     <id>5151349</id>
     <ecommerce_id>810376070</ecommerce_id>
     <title>Big Bourbon Barrel Aged Stout 2021</title>
@@ -556,6 +637,26 @@
     <beer_package_count>3</beer_package_count>
     <beer_bundle>1</beer_bundle>
     <bundle_skus>2721589,6241102,4316618</bundle_skus>
+  </item>
+  <item>
+    <id>962</id>
+    <ecommerce_id>804314134</ecommerce_id>
+    <title>Stout Bottle Triplet</title>
+    <url>https://hopincraftbier.be/products/stout-bottle-triplet</url>
+    <brewery_name>Nano Cinco, Prairie Artisan Ales, Jackie O’s Brewery</brewery_name>
+    <price>53.58</price>
+    <regular_price>70.03</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5476608438.png</image>
+    <beer_description>The Stout Bottle Pack pack contains: - Nano Cinco - Hello My Name Is - Vanille - Prairie Artisan Ales - Bomb! - Jackie O’s Brewery - Abandon The Halogens (2022)</beer_description>
+    <beer_style>Stout</beer_style>
+    <beer_abv>11 - 13%</beer_abv>
+    <beer_volume>Mix</beer_volume>
+    <beer_package>bottle</beer_package>
+    <brewery_country>United States , Canada</brewery_country>
+    <date_canned>2024-12-24</date_canned>
+    <beer_package_count>3</beer_package_count>
+    <beer_bundle>1</beer_bundle>
+    <bundle_skus>348850,6092135,4990447</bundle_skus>
   </item>
   <item>
     <id>963</id>
@@ -2042,6 +2143,25 @@
     <untappd_id>6421716</untappd_id>
   </item>
   <item>
+    <id>6365889</id>
+    <ecommerce_id>787475909</ecommerce_id>
+    <title>Dead Alive</title>
+    <url>https://hopincraftbier.be/products/rivington-brewing-co-dead-alive</url>
+    <brewery_name>Rivington Brewing Co</brewery_name>
+    <price>8.17</price>
+    <regular_price>9,61</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5244389071.webp</image>
+    <beer_description>A Double IPA brewed with our mates from Friends Of The Tap. Hopped with El Dorado, Citra, Citra Dynaboost, Eclipse, El Dorado Cryo, Citra Cryo &amp; El Dorado Quantum Brite Rivington Brewing Co - Dead Alive</beer_description>
+    <beer_style>IPA - Imperial / Double</beer_style>
+    <beer_abv>8%</beer_abv>
+    <beer_volume>500 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>England</brewery_country>
+    <date_best_before>2026-02-21</date_best_before>
+    <date_canned>2025-08-21</date_canned>
+    <untappd_id>6365889</untappd_id>
+  </item>
+  <item>
     <id>6406071</id>
     <ecommerce_id>787334626</ecommerce_id>
     <title>Canna</title>
@@ -2963,6 +3083,24 @@
     <untappd_id>6350233</untappd_id>
   </item>
   <item>
+    <id>6345864</id>
+    <ecommerce_id>778759772</ecommerce_id>
+    <title>A Toast To Ten</title>
+    <url>https://hopincraftbier.be/products/hop-butcher-for-the-world-a-toast-to-ten</url>
+    <brewery_name>Hop Butcher For The World</brewery_name>
+    <price>9.54</price>
+    <regular_price>11,22</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5145485551.webp</image>
+    <beer_description>A tenth anniversary beer. Hazy, juicy, strong citrus. Citra, Mosaic, Motueka &amp; Peacharine. Hop Butcher For The World - A Toast To Ten</beer_description>
+    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
+    <beer_abv>7.5%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>United States</brewery_country>
+    <date_canned>2025-07-21</date_canned>
+    <untappd_id>6345864</untappd_id>
+  </item>
+  <item>
     <id>6381462</id>
     <ecommerce_id>777450537</ecommerce_id>
     <title>My Favorite Things</title>
@@ -3346,6 +3484,24 @@
     <untappd_id>6331773</untappd_id>
   </item>
   <item>
+    <id>5689711</id>
+    <ecommerce_id>767352718</ecommerce_id>
+    <title>Digi Digi Digi</title>
+    <url>https://hopincraftbier.be/products/dankhouse-brewing-company-digi-digi-digi</url>
+    <brewery_name>DankHouse Brewing Company</brewery_name>
+    <price>9.55</price>
+    <regular_price>11,23</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5145610936.webp</image>
+    <beer_description>In the words of the great Rza.......Hoppy Hoppy Hoppy, Digi Digi Digi. You're a** will be stuck on this beer like a Victoria Secret wedgie. We dry hopped this one with Citra, Strata, and Nectaron. DankHouse Brewing Company - Digi Digi Digi</beer_description>
+    <beer_style>IPA - Triple New England / Hazy</beer_style>
+    <beer_abv>10%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>United States</brewery_country>
+    <date_canned>2025-07-25</date_canned>
+    <untappd_id>5689711</untappd_id>
+  </item>
+  <item>
     <id>5853339</id>
     <ecommerce_id>767352717</ecommerce_id>
     <title>Kentuckley (2024)</title>
@@ -3377,6 +3533,24 @@
     <beer_package>can</beer_package>
     <brewery_country>United States</brewery_country>
     <untappd_id>3040198</untappd_id>
+  </item>
+  <item>
+    <id>4813817</id>
+    <ecommerce_id>767347721</ecommerce_id>
+    <title>Cosmic Mountain</title>
+    <url>https://hopincraftbier.be/products/hop-butcher-for-the-world-cosmic-mountain</url>
+    <brewery_name>Hop Butcher For The World</brewery_name>
+    <price>10.4</price>
+    <regular_price>12,24</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5145475964.webp</image>
+    <beer_description>Citra, Waimea &amp; Mosaic-hopped Triple India Pale Ale Hop Butcher For The World - Cosmic Mountain</beer_description>
+    <beer_style>IPA - Triple New England / Hazy</beer_style>
+    <beer_abv>10.5%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>United States</brewery_country>
+    <date_canned>2025-07-21</date_canned>
+    <untappd_id>4813817</untappd_id>
   </item>
   <item>
     <id>3012849</id>
@@ -3721,6 +3895,24 @@
     <brewery_country>Belgium</brewery_country>
     <date_canned>2025-04-24</date_canned>
     <untappd_id>6307418</untappd_id>
+  </item>
+  <item>
+    <id>6164819</id>
+    <ecommerce_id>762752711</ecommerce_id>
+    <title>The Mind of Annapurna Bourbon Barrel Aged</title>
+    <url>https://hopincraftbier.be/products/galea-craft-beers-the-mind-of-annapurna-bourbon-barrel-aged</url>
+    <brewery_name>Galea Craft Beers</brewery_name>
+    <price>7.35</price>
+    <regular_price>8,65</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5015394065.webp</image>
+    <beer_description>The Mind of Annapurna BA, is a imperial Chai Latté Milk Stout aged for 2 years in 2nd fill Buffalo Trace Bourbon Barrels. 2nd fill in this case means a Bourbon finished on a Bourbon barrel. So 2 times filled with a Bourbon before our stout. The taste of the spices in the beer is more round, some vanilla and barrel notes and a nice bourbon flavour. Galea Craft Beers - The Mind of Annapurna Bourbon Barrel Aged</beer_description>
+    <beer_style>Stout - Imperial / Double Milk</beer_style>
+    <beer_abv>12.5%</beer_abv>
+    <beer_volume>330 ml</beer_volume>
+    <beer_package>bottle</beer_package>
+    <brewery_country>Belgium</brewery_country>
+    <date_canned>2025-01-25</date_canned>
+    <untappd_id>6164819</untappd_id>
   </item>
   <item>
     <id>5894573</id>
@@ -4223,6 +4415,24 @@
     <untappd_id>6267193</untappd_id>
   </item>
   <item>
+    <id>6261817</id>
+    <ecommerce_id>756873722</ecommerce_id>
+    <title>Headless</title>
+    <url>https://hopincraftbier.be/products/anchorage-brewing-company-headless</url>
+    <brewery_name>Anchorage Brewing Company</brewery_name>
+    <price>9.74</price>
+    <regular_price>12,99</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4962101839.webp</image>
+    <beer_description>India Pale Ale Brewed with citra hops. DDH with Citra and Mosaic hops. Fermented with hazy chico yeast. Anchorage Brewing Company - Headless</beer_description>
+    <beer_style>IPA - New England / Hazy</beer_style>
+    <beer_abv>6.2%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>United States</brewery_country>
+    <date_canned>2025-04-25</date_canned>
+    <untappd_id>6261817</untappd_id>
+  </item>
+  <item>
     <id>6274026</id>
     <ecommerce_id>755488875</ecommerce_id>
     <title>9 Years: Circe's Enchantment</title>
@@ -4468,6 +4678,24 @@
     <untappd_id>6242680</untappd_id>
   </item>
   <item>
+    <id>3832900</id>
+    <ecommerce_id>751542513</ecommerce_id>
+    <title>Aspect Oriented</title>
+    <url>https://hopincraftbier.be/products/spyglass-brewing-company-aspect-oriented</url>
+    <brewery_name>Spyglass Brewing Company</brewery_name>
+    <price>8.72</price>
+    <regular_price>11,62</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4962427372.webp</image>
+    <beer_description>Super fluffy and creamy DIPA hopped with Citra, Motueka and Galaxy. Spyglass Brewing Company - Aspect Oriented</beer_description>
+    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
+    <beer_abv>8.3%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>United States</brewery_country>
+    <date_canned>2025-04-24</date_canned>
+    <untappd_id>3832900</untappd_id>
+  </item>
+  <item>
     <id>5850335</id>
     <ecommerce_id>751537021</ecommerce_id>
     <title>Double Double Mash</title>
@@ -4707,6 +4935,60 @@
     <untappd_id>6092135</untappd_id>
   </item>
   <item>
+    <id>2073737</id>
+    <ecommerce_id>751529279</ecommerce_id>
+    <title>Refreshing</title>
+    <url>https://hopincraftbier.be/products/tired-hands-brewing-company-refreshing</url>
+    <brewery_name>Tired Hands Brewing Company</brewery_name>
+    <price>8.72</price>
+    <regular_price>11,62</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4933340693.png</image>
+    <beer_description>Refreshing is our late summer months, forget-about-the-impending-cold, always refreshing Thirst Quencher Double IPA! Brewed with heaps of malted oats and intensely refreshingly hopped and dry hopped with Galaxy, Citra, and Lemondrop! Lots of key lime, drippy sweet mango, and kalamansi gumballs in this batch. It’s just real pungent, drippy sappy juicy, and well... Refreshing! 8.0% abv. Tired Hands Brewing Company - Refreshing</beer_description>
+    <beer_style>IPA - Imperial / Double</beer_style>
+    <beer_abv>8%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>United States</brewery_country>
+    <date_canned>2025-04-22</date_canned>
+    <untappd_id>2073737</untappd_id>
+  </item>
+  <item>
+    <id>348850</id>
+    <ecommerce_id>751529277</ecommerce_id>
+    <title>Bomb!</title>
+    <url>https://hopincraftbier.be/products/prairie-artisan-ales-bomb</url>
+    <brewery_name>Prairie Artisan Ales</brewery_name>
+    <price>13.7</price>
+    <regular_price>16,12</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5476634118.png</image>
+    <beer_description>Bomb! is an imperial stout aged on Spaceship Earth espresso beans, chocolate, vanilla beans, and ancho chile peppers. All the flavors meld to create a truly unique beer. The peppers add just the right amount of heat to complement the intense coffee and chocolate flavors. Prairie Artisan Ales - Bomb!</beer_description>
+    <beer_style>Stout - Imperial / Double Coffee</beer_style>
+    <beer_abv>13%</beer_abv>
+    <beer_volume>355 ml</beer_volume>
+    <beer_package>bottle</beer_package>
+    <brewery_country>United States</brewery_country>
+    <date_canned>2024-12-24</date_canned>
+    <untappd_id>348850</untappd_id>
+  </item>
+  <item>
+    <id>6236757</id>
+    <ecommerce_id>751529276</ecommerce_id>
+    <title>Aspect of Taurus</title>
+    <url>https://hopincraftbier.be/products/hop-butcher-for-the-world-aspect-of-taurus</url>
+    <brewery_name>Hop Butcher For The World</brewery_name>
+    <price>8.21</price>
+    <regular_price>10,94</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4929798224.png</image>
+    <beer_description>Citra, Lorien &amp; Sabro-hopped Double India Pale Ale Hop Butcher For The World - Aspect of Taurus</beer_description>
+    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
+    <beer_abv>8%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>United States</brewery_country>
+    <date_canned>2025-04-21</date_canned>
+    <untappd_id>6236757</untappd_id>
+  </item>
+  <item>
     <id>3523256</id>
     <ecommerce_id>751529274</ecommerce_id>
     <title>Hydra | Apricot + Mango + Raspberry</title>
@@ -4846,6 +5128,24 @@
     <untappd_id>6214473</untappd_id>
   </item>
   <item>
+    <id>6194337</id>
+    <ecommerce_id>751542767</ecommerce_id>
+    <title>Bourbon Barrel Black Maple (2025)</title>
+    <url>https://hopincraftbier.be/products/jackie-os-brewery-bourbon-barrel-black-maple-2025</url>
+    <brewery_name>Jackie O’s Brewery</brewery_name>
+    <price>15.28</price>
+    <regular_price>17,98</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4930063699.png</image>
+    <beer_description>Black Maple features a diverse grist of barley, wheat, chocolate malt, caramel malt, and a pinch of smoked malt. Locally harvested maple syrup was added in the boil kettle before aging in bourbon barrels. A long time brewery favorite! This batch aged in bourbon barrels for 24 months and was conditioned on an extra addition of local maple syrup post barrels. Jackie O’s Brewery - Bourbon Barrel Black Maple (2025)</beer_description>
+    <beer_style>Porter - Imperial / Double</beer_style>
+    <beer_abv>12.8%</beer_abv>
+    <beer_volume>355 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>United States</brewery_country>
+    <date_canned>2025-01-23</date_canned>
+    <untappd_id>6194337</untappd_id>
+  </item>
+  <item>
     <id>6222118</id>
     <ecommerce_id>751542766</ecommerce_id>
     <title>Braaaaaaaains - Billions of Peaches</title>
@@ -4860,6 +5160,24 @@
     <beer_package>can</beer_package>
     <brewery_country>United States</brewery_country>
     <untappd_id>6222118</untappd_id>
+  </item>
+  <item>
+    <id>6205488</id>
+    <ecommerce_id>751529014</ecommerce_id>
+    <title>Dock 72 - Peacharine, Galaxy &amp; Nelson Sauvin (2025)</title>
+    <url>https://hopincraftbier.be/products/le-ketch-dock-72-peacharine-galaxy--nelson-sauvin-2025</url>
+    <brewery_name>Le Ketch</brewery_name>
+    <price>8.98</price>
+    <regular_price>11,97</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5438334574.png</image>
+    <beer_description>DOUBLE NEW ENGLAND IPA AU MIEL. HOUBLONS: PEACHARINE, GALAXY &amp; NELSON SAUVIN Le Ketch - Dock 72 - Peacharine, Galaxy &amp; Nelson Sauvin (2025)</beer_description>
+    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
+    <beer_abv>8%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Canada</brewery_country>
+    <date_canned>2025-04-22</date_canned>
+    <untappd_id>6205488</untappd_id>
   </item>
   <item>
     <id>6194343</id>
@@ -5120,6 +5438,24 @@
     <untappd_id>6228772</untappd_id>
   </item>
   <item>
+    <id>6262557</id>
+    <ecommerce_id>751542503</ecommerce_id>
+    <title>Oh No</title>
+    <url>https://hopincraftbier.be/products/anchorage-brewing-company-oh-no</url>
+    <brewery_name>Anchorage Brewing Company</brewery_name>
+    <price>8.46</price>
+    <regular_price>11,28</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4927452158.png</image>
+    <beer_description>Anchorage Brewing Company - Oh No</beer_description>
+    <beer_style>IPA - Triple New England / Hazy</beer_style>
+    <beer_abv>9.42%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>United States</brewery_country>
+    <date_canned>2025-04-24</date_canned>
+    <untappd_id>6262557</untappd_id>
+  </item>
+  <item>
     <id>6228775</id>
     <ecommerce_id>751537012</ecommerce_id>
     <title>Chemistry</title>
@@ -5170,6 +5506,24 @@
     <beer_package>can</beer_package>
     <brewery_country>United States</brewery_country>
     <untappd_id>5919609</untappd_id>
+  </item>
+  <item>
+    <id>6241102</id>
+    <ecommerce_id>751529267</ecommerce_id>
+    <title>Bizarre Celebrations: Cloud 9</title>
+    <url>https://hopincraftbier.be/products/foam-brewers-bizarre-celebrations-cloud-9</url>
+    <brewery_name>Foam Brewers</brewery_name>
+    <price>8.21</price>
+    <regular_price>10,94</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5476644540.png</image>
+    <beer_description>In the mash, a nice blend of wheat and oats creates a silky body with subtle sweetness. The yeast imparts a delicate fruitiness that perfectly complements the complex hop profile. Utilizing a touch of Phantasm powder on the hot side, and dry-hopped with an all-New Zealand blend of Peacharine, Nectaron, and The Bruce, this beer bursts with vibrant tropical notes. Expect juicy peach and apricot, followed by hints of pineapple and citrus zest, with an intense expression of passionfruit and a crisp, clean finish. Foam Brewers - Bizarre Celebrations: Cloud 9</beer_description>
+    <beer_style>IPA - Imperial / Double</beer_style>
+    <beer_abv>9%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>United States</brewery_country>
+    <date_canned>2025-04-22</date_canned>
+    <untappd_id>6241102</untappd_id>
   </item>
   <item>
     <id>3123821</id>
@@ -6062,6 +6416,6 @@
     <date_canned>2025-03-27</date_canned>
     <untappd_id>593083</untappd_id>
   </item>
-  <timestamp>1769505964</timestamp>
-  <gen_date>27/01/2026 10:26:04</gen_date>
+  <timestamp>1769521289</timestamp>
+  <gen_date>27/01/2026 14:41:29</gen_date>
 </feed>
