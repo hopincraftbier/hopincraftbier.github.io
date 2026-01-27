@@ -1,4 +1,4 @@
-const version = 'v6.33';
+const version = 'v6.34';
 const txtNl1 = '<div class="dtooltip"><p class="hover question">Kortingscoupon</p><p class="dtooltiptext">Afhankelijk van de gekozen betaling en levering, kunt u een kortingscoupon krijgen die te gebruiken is bij een volgende bestelling. Voor dit bier ziet u de bedragen in deze tabel</p></div><table class="discount-table"><thead><tr class="first_header"><th></th><th colspan="2">Manier van levering</th></tr><tr><th>Manier van betaling</th><th>Afhaling</th><th>Levering</th></tr></thead><tbody><tr><td class="header">Betalen bij afhaling</td><td>€ ';
 const txtNl2 = '</td><td> - </td></tr><tr><td class="header">Overschrijving</td><td>€ ';
 const txtNl3 = '</td><td>€ ';
@@ -199,7 +199,6 @@ function processAttributes() {
                 let newContent = "";
 
                 if (attribute === 'Brouwerij:' || attribute === 'Brewery:') {
-                    log('Brouwerij: ' + content);
                     content.split(",").forEach((it) => {
                         let link = lng + '/products/' + it.trim().toLowerCase().replaceAll("’", '').replaceAll('.', '').replaceAll(' ', '-');
                         log('Link: ' + link);
@@ -208,7 +207,6 @@ function processAttributes() {
                         }
                         newContent += "<a href=\"" + link + "\" target=\"_blank\">" + it.trim() + "</a>";
                     });
-                    log('newContent: ' + newContent);
                 } else if (attribute === 'Type:') {
                     content.split(",").forEach((it) => {
                         let link = lng + '/products/alle-bieren?attribute_Type=' + it.trim().replaceAll(' ', '+');
@@ -270,11 +268,13 @@ function processAttributes() {
                     });
                 }
 
-                let newElement = document.createElement('dum');
-                newElement.innerHTML = newContent; // escape html
-                if (element.innerHTML !== newElement.innerHTML) {
-                    log('Setting content');
-                    element.innerHTML = newContent;
+                if (newContent !== "") {
+                    let newElement = document.createElement('dum');
+                    newElement.innerHTML = newContent; // escape html
+                    if (element.innerHTML !== newElement.innerHTML) {
+                        log('Setting content');
+                        element.innerHTML = newContent;
+                    }
                 }
             }
         }
