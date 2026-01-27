@@ -1,4 +1,4 @@
-const version = 'v6.32';
+const version = 'v6.33';
 const txtNl1 = '<div class="dtooltip"><p class="hover question">Kortingscoupon</p><p class="dtooltiptext">Afhankelijk van de gekozen betaling en levering, kunt u een kortingscoupon krijgen die te gebruiken is bij een volgende bestelling. Voor dit bier ziet u de bedragen in deze tabel</p></div><table class="discount-table"><thead><tr class="first_header"><th></th><th colspan="2">Manier van levering</th></tr><tr><th>Manier van betaling</th><th>Afhaling</th><th>Levering</th></tr></thead><tbody><tr><td class="header">Betalen bij afhaling</td><td>€ ';
 const txtNl2 = '</td><td> - </td></tr><tr><td class="header">Overschrijving</td><td>€ ';
 const txtNl3 = '</td><td>€ ';
@@ -190,7 +190,10 @@ function processAttributes() {
             }
         } else {
             const attribute = p.textContent.trim();
-            if (attribute === 'Brouwerij:' || attribute === 'Brewery:' || attribute === 'Type:' || attribute === 'Land:' || attribute === 'Country:') {
+            if (attribute === 'Brouwerij:' || attribute === 'Brewery:' ||
+                attribute === 'Type:' ||
+                attribute === 'Land:' || attribute === 'Country:' ||
+                attribute === 'Categorieën:' || attribute === 'Categories:') {
                 const element = p.parentElement.getElementsByClassName('details-product-attribute__value').item(0);
                 let content = element.textContent.trim();
                 let newContent = "";
@@ -222,6 +225,48 @@ function processAttributes() {
                             newContent += ", ";
                         }
                         newContent += "<a href=\"" + link + "\" target=\"_blank\">" + it.trim() + "</a>";
+                    });
+                } else if (attribute === 'Categorieën:' || attribute === 'Categories:') {
+                    content.split(",").forEach((it) => {
+                        let uri = '';
+                        let label = '';
+                        if (it.trim() === '185177262') {
+                            // 185177262 / Sale: https://hopincraftbier.be/en/products/sale
+                            uri = 'sale';
+                            label = 'Sale';
+                        }
+                        if (it.trim() === '183850254') {
+                            //     183850254 / Laatste/Last ones: https://hopincraftbier.be/en/products/laatste
+                            uri = 'laatste';
+                            label = lng === 'en' ? 'Last ones' : 'Laatste';
+                        }
+                        if (it.trim() === '182502672') {
+                            //     182502672 / Packs: https://hopincraftbier.be/en/products/packs
+                            uri = 'packs';
+                            label = 'Packs';
+                        }
+                        if (it.trim() === '177445858') {
+                            //     177445858 / Pre-order: https://hopincraftbier.be/en/products/pre-order
+                            uri = 'pre-order';
+                            label = 'Pre-order';
+                        }
+                        if (it.trim() === '176745018') {
+                            //     176745018 / Nieuw/New: https://hopincraftbier.be/en/products/nieuw
+                            uri = 'nieuw';
+                            label = lng === 'en' ? 'New' : 'Nieuw';
+                        }
+                        if (it.trim() === '178091282') {
+                            //     178091282 / Verwacht/Expected: https://hopincraftbier.be/en/products/verwacht                        let link = lng + '/products/' + it.trim().replaceAll("’", '').replaceAll(' ', '+');
+                            uri = 'verwacht';
+                            label = lng === 'en' ? 'Expected' : 'Verwacht';
+                        }
+                        if (uri !== '') {
+                            if (newContent !== "") {
+                                newContent += ", ";
+                            }
+                            let link = lng + '/products/' + uri;
+                            newContent += "<a href=\"" + link + "\" target=\"_blank\">" + label + "</a>";
+                        }
                     });
                 }
 
