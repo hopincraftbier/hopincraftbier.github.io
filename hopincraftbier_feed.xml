@@ -2325,6 +2325,7 @@
     <url>https://hopincraftbier.be/products/factory-brewing-effortless-motion</url>
     <brewery_name>Factory Brewing</brewery_name>
     <price>3.93</price>
+    <regular_price>7.85</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5260443313.webp</image>
     <beer_description>A Hazy TIPA with Motueka, Riwaka &amp; Vic Secret. 'We continue our Triple IPAs with Effortless Motion, hopped with Motueka, Riwaka &amp; Vic Secret. Absolutely love this hop combo! Motueka builds the 'factory foundation' and Riwaka brings the brightness that TIPAs need. Vic Secret is really beautiful with its bright pineapple aromas.' Head Brewer Jirka Ordén Factory Brewing - Effortless Motion</beer_description>
     <beer_style>IPA - Triple New England / Hazy</beer_style>
@@ -3042,6 +3043,7 @@
     <url>https://hopincraftbier.be/products/factory-brewing-daydreamer-2025</url>
     <brewery_name>Factory Brewing</brewery_name>
     <price>3.76</price>
+    <regular_price>7.51</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5260443289.webp</image>
     <beer_description>A Hazy DIPA with Nelson Sauvin &amp; Mosaic. 'This is a new batch of our Daydreamer Hazy DIPA with Nelson Sauvin and Mosaic. This recipe was originally brewed in our previous location. This beer stood out with its beautiful hop profile and label. So I need to have another round with this recipe, enjoy!' Head Brewer Jirka Ordén Factory Brewing - Daydreamer 2025</beer_description>
     <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
@@ -6326,6 +6328,6 @@
     <date_canned>2025-03-27</date_canned>
     <untappd_id>593083</untappd_id>
   </item>
-  <timestamp>1769496305</timestamp>
-  <gen_date>27/01/2026 07:45:05</gen_date>
+  <timestamp>1769497205</timestamp>
+  <gen_date>27/01/2026 08:00:05</gen_date>
 </feed>
