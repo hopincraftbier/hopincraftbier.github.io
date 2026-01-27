@@ -2306,6 +2306,7 @@
     <url>https://hopincraftbier.be/products/factory-brewing-phases</url>
     <brewery_name>Factory Brewing</brewery_name>
     <price>3.76</price>
+    <regular_price>7.51</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5260444040.webp</image>
     <beer_description>A Hazy DIPA with Nectaron, Motueka &amp; Bru-1. 'Like the moon, we can think that hops have different phases, varying with each crop year, from the picking window to the soil they were grown in. This DIPA is dry hopped with a new Motueka, Nectaron and Bru-1 batch we received, with loads of NZ funk and a hefty amount of fruitiness, like lime, pineapple and stone fruits.' Head Brewer Jirka Ordén Factory Brewing - Phases</beer_description>
     <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
@@ -3022,6 +3023,7 @@
     <url>https://hopincraftbier.be/products/factory-brewing-my-favorite-things</url>
     <brewery_name>Factory Brewing</brewery_name>
     <price>3.61</price>
+    <regular_price>7.21</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5260426097.webp</image>
     <beer_description>A Hazy IPA with Motueka &amp; Nelson Sauvin 'The 2025 crops of Motueka and Nelson are here, so of course I need to put my favorite things together. Tons of saturated aroma in this one, expect white wine, grapefruit, lime, melon and some nice earthy funkiness.' Head Brewer Jirka Ordén Factory Brewing - My Favorite Things</beer_description>
     <beer_style>IPA - New England / Hazy</beer_style>
@@ -6324,6 +6326,6 @@
     <date_canned>2025-03-27</date_canned>
     <untappd_id>593083</untappd_id>
   </item>
-  <timestamp>1769469306</timestamp>
-  <gen_date>27/01/2026 00:15:06</gen_date>
+  <timestamp>1769496305</timestamp>
+  <gen_date>27/01/2026 07:45:05</gen_date>
 </feed>
