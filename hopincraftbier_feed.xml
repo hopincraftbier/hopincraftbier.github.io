@@ -1755,23 +1755,6 @@
     <untappd_id>6423029</untappd_id>
   </item>
   <item>
-    <id>6440563</id>
-    <ecommerce_id>790918085</ecommerce_id>
-    <title>Touch Grass</title>
-    <url>https://hopincraftbier.be/products/verdant-brewing-co-touch-grass</url>
-    <brewery_name>Verdant Brewing Co</brewery_name>
-    <price>7.39</price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5290662995.png</image>
-    <beer_description>A creamy and lush DIPA interpretation of our pale ale Vanity Metrics. Joining NZH-101 and amping up the funk and fruit we have superstars Citra and Nelson Sauvin. Our expressive house yeast brings this all together in a typically 'that's a Verdant beer' kind of way. Verdant Brewing Co - Touch Grass</beer_description>
-    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
-    <beer_abv>8%</beer_abv>
-    <beer_volume>440 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>England</brewery_country>
-    <date_best_before>2026-04-02</date_best_before>
-    <untappd_id>6440563</untappd_id>
-  </item>
-  <item>
     <id>3894150</id>
     <ecommerce_id>790918083</ecommerce_id>
     <title>Unconventional Tactics</title>
@@ -5706,24 +5689,6 @@
     <untappd_id>6127069</untappd_id>
   </item>
   <item>
-    <id>6189061</id>
-    <ecommerce_id>739493776</ecommerce_id>
-    <title>Double Winterseed</title>
-    <url>https://hopincraftbier.be/products/third-moon-brewing-company-double-winterseed</url>
-    <brewery_name>Third Moon Brewing Company</brewery_name>
-    <price>8.72</price>
-    <regular_price>11.62</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4953184900.webp</image>
-    <beer_description>Double Winterseed is an 8% Double IPA brewed with oats and hopped with Mosaic and Talus. We love to end the winter with this recipe but have only done the single IPA version before today. We've doubled down on the Mosaic and Talus hops to bring you the DIPA version for the first time ever and it is tasting fantastic! We get notes of creamy tangerine in this crusher. - Third Moon Brewing Company - Double Winterseed</beer_description>
-    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
-    <beer_abv>8%</beer_abv>
-    <beer_volume>473 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Canada</brewery_country>
-    <date_canned>2025-03-12</date_canned>
-    <untappd_id>6189061</untappd_id>
-  </item>
-  <item>
     <id>6149303</id>
     <ecommerce_id>739494041</ecommerce_id>
     <title>Shedding Skin</title>
@@ -6435,6 +6400,6 @@
     <date_canned>2025-03-27</date_canned>
     <untappd_id>593083</untappd_id>
   </item>
-  <timestamp>1769523650</timestamp>
-  <gen_date>27/01/2026 15:20:50</gen_date>
+  <timestamp>1769536807</timestamp>
+  <gen_date>27/01/2026 19:00:07</gen_date>
 </feed>
