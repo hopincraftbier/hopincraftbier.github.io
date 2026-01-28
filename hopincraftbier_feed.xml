@@ -4558,6 +4558,24 @@
     <untappd_id>6249191</untappd_id>
   </item>
   <item>
+    <id>6249190</id>
+    <ecommerce_id>752199794</ecommerce_id>
+    <title>Candydate</title>
+    <url>https://hopincraftbier.be/products/factory-brewing-candydate</url>
+    <brewery_name>Factory Brewing</brewery_name>
+    <price>3.96</price>
+    <regular_price>7.92</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5438588949.webp</image>
+    <beer_description>A Hazy Triple IPA with Citra, Galaxy &amp; Vic Secret. When my current colleague Pontus and I were homebrewing, we brewed a banger of a 'House-NEIPA' called Candydate — at least we thought it was amazing back then! So here’s Candydate, brought back with the same hop combo and soul, but a refined malt base, updated to today’s standards. Head Brewer Jirka Ordén Factory Brewing - Candydate</beer_description>
+    <beer_style>IPA - Triple New England / Hazy</beer_style>
+    <beer_abv>10%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Finland</brewery_country>
+    <date_best_before>01/2026</date_best_before>
+    <untappd_id>6249190</untappd_id>
+  </item>
+  <item>
     <id>6249192</id>
     <ecommerce_id>752204786</ecommerce_id>
     <title>Taste No Evil</title>
@@ -6382,6 +6400,6 @@
     <date_canned>2025-03-27</date_canned>
     <untappd_id>593083</untappd_id>
   </item>
-  <timestamp>1769599804</timestamp>
-  <gen_date>28/01/2026 12:30:04</gen_date>
+  <timestamp>1769608806</timestamp>
+  <gen_date>28/01/2026 15:00:06</gen_date>
 </feed>
