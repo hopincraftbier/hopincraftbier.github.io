@@ -5672,6 +5672,24 @@
     <untappd_id>6009134</untappd_id>
   </item>
   <item>
+    <id>6127067</id>
+    <ecommerce_id>739493777</ecommerce_id>
+    <title>X Anniversary 5/10 Pastry Sour</title>
+    <url>https://hopincraftbier.be/products/browar-stu-mostow-x-anniversary-5-10-pastry-sour</url>
+    <brewery_name>Browar Stu Mostów</brewery_name>
+    <price>1.25</price>
+    <regular_price>4.65</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4847503372.png</image>
+    <beer_description>X Anniversary 5/10 Pastry Sour - fifth in a series of anniversary beers brewed in collaboration with friends from Tripping Animals. Loaded with mango and blueberry, balanced by cherry and orange, this beer offers a broad spectrum of fruitiness. The addition of marshmallow and vanilla rounds out the sweetness of this vibrant composition. Using the classic kettle souring method, also favored by the collaborators, it is fermented with a traditional fruity yeast strain. Result is a nectar with a high sweetness and plenty of fun in every sip. -</beer_description>
+    <beer_style>Sour - Smoothie / Pastry</beer_style>
+    <beer_abv>5.5%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Poland</brewery_country>
+    <date_best_before>2025-08-10</date_best_before>
+    <untappd_id>6127067</untappd_id>
+  </item>
+  <item>
     <id>6127069</id>
     <ecommerce_id>739491522</ecommerce_id>
     <title>X Anniversary 6/10 Quadrupel BBA</title>
@@ -6400,6 +6418,6 @@
     <date_canned>2025-03-27</date_canned>
     <untappd_id>593083</untappd_id>
   </item>
-  <timestamp>1769608806</timestamp>
-  <gen_date>28/01/2026 15:00:06</gen_date>
+  <timestamp>1769612406</timestamp>
+  <gen_date>28/01/2026 16:00:06</gen_date>
 </feed>
