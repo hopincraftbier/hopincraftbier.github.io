@@ -787,6 +787,7 @@
     <beer_volume>473 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>Canada</brewery_country>
+    <date_canned>2025-11-19</date_canned>
     <untappd_id>6501889</untappd_id>
   </item>
   <item>
@@ -1075,6 +1076,8 @@
     <beer_volume>473 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>Canada</brewery_country>
+    <date_best_before>2026-11-10</date_best_before>
+    <date_canned>2025-11-10</date_canned>
     <untappd_id>6498668</untappd_id>
   </item>
   <item>
@@ -1438,20 +1441,21 @@
     <untappd_id>6430291</untappd_id>
   </item>
   <item>
-    <id>4123155</id>
+    <id>6517160</id>
     <ecommerce_id>793369570</ecommerce_id>
-    <title>DDH Eviscerated Pathway of Beauty (Citra)</title>
+    <title>TDH Eviscerated Pathway of Beauty</title>
     <url>https://hopincraftbier.be/products/tired-hands-brewing-company-ddh-eviscerated-pathway-of-beauty-citra</url>
     <brewery_name>Tired Hands Brewing Company</brewery_name>
     <price>12.24</price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5330881253.png</image>
-    <beer_description>DDH Eviscerated Pathway of Beauty is our EVEN MORE ALLLL About Citra Double IPA. A hyper hyper gluttonous, overly gratuitous Citra-obsessed variant on one of our consistent favorite house beers, this is brewed with heaps of flaked and malted oats, and dry hopped exclusively, intensely and repeatedly, over &amp; over again, with mega-pungent Citra from our annual hop selections. Concise, and absolutely crushing. 8.3% ABV. Notes of everything we love about Citra! Extra Ripe Mango Smoothies, Meyer lemon water ice, Xtra creamy tangerine gelato and that bright bright bright fresh dank green stuff =) Tired Hands Brewing Company - DDH Eviscerated Pathway of Beauty (Citra)</beer_description>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/793369570/5557259001.webp</image>
+    <beer_description>Triple Dry Hopped Eviscerated Pathway of Beauty is a new take on one of our favorite Double IPAs. Like classic Eviscerated, this one starts with a base of 2 row, oat malt, and flaked oats. Hopped in the kettle with Citra, and then dry hopped again, and again, and AGAIN with EVEN MORE Citra for a bright and zesty flavor experience! Notes of tangerine gummies, lychee sorbet, and overripe honeydew. Tired Hands Brewing Company - TDH Eviscerated Pathway of Beauty</beer_description>
     <beer_style>IPA - Imperial / Double</beer_style>
     <beer_abv>8.3%</beer_abv>
     <beer_volume>473 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>United States</brewery_country>
-    <untappd_id>4123155</untappd_id>
+    <date_canned>2025-11-13</date_canned>
+    <untappd_id>6517160</untappd_id>
   </item>
   <item>
     <id>6454216</id>
@@ -1483,6 +1487,7 @@
     <beer_volume>473 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>United States</brewery_country>
+    <date_canned>2025-12-02</date_canned>
     <untappd_id>1029314</untappd_id>
   </item>
   <item>
@@ -1532,6 +1537,7 @@
     <beer_volume>473 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>Canada</brewery_country>
+    <date_canned>2025-11-24</date_canned>
     <untappd_id>5641114</untappd_id>
   </item>
   <item>
@@ -2158,6 +2164,7 @@
     <beer_volume>473 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>Canada</brewery_country>
+    <date_canned>10/2025</date_canned>
     <untappd_id>6393502</untappd_id>
   </item>
   <item>
@@ -6455,6 +6462,6 @@
     <date_canned>2025-03-27</date_canned>
     <untappd_id>593083</untappd_id>
   </item>
-  <timestamp>1769778905</timestamp>
-  <gen_date>30/01/2026 14:15:05</gen_date>
+  <timestamp>1769779805</timestamp>
+  <gen_date>30/01/2026 14:30:05</gen_date>
 </feed>
