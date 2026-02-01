@@ -334,7 +334,7 @@
     <title>Canada IPA Triplet</title>
     <url>https://hopincraftbier.be/products/canada-ipa-triplet</url>
     <brewery_name>Badlands Brewing Company, Brasserie du Bas-Canada, Willibald Farm Brewery</brewery_name>
-    <price>26.09</price>
+    <price>23.02</price>
     <regular_price>32.61</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5496372639.png</image>
     <beer_description>The Canada IPA Pack contains: - Brasserie du Bas-Canada - Bank Hotel - Badlands Brewing Company - Sensescape (2025) - Willibald Farm Brewery - Prickle Kitty</beer_description>
@@ -439,7 +439,7 @@
     <title>Denmark Triplet</title>
     <url>https://hopincraftbier.be/products/denmark-triplet</url>
     <brewery_name>Alefarm Brewing, To Øl</brewery_name>
-    <price>25.79</price>
+    <price>22.76</price>
     <regular_price>32.24</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5496083193.png</image>
     <beer_description>The Denmark Pack contains: - Alefarm Brewing - Hollow Names (DIPA) - To Øl - Tres Hekse (TIPA) - Alefarm Brewing - Through the Ages: A Concept of Linearity (Bourbon Barrel Coconut 2023 Edition) (Stout)</beer_description>
@@ -859,7 +859,7 @@
     <title>Equilibrium Brewery Triplet</title>
     <url>https://hopincraftbier.be/products/equilibrium-brewery-triplet</url>
     <brewery_name>Equilibrium Brewery</brewery_name>
-    <price>24.18</price>
+    <price>21.34</price>
     <regular_price>30.23</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5438371427.png</image>
     <beer_description>The Equilibrium Brewery pack contains: - MC3PO - The Juice Awakens - Straight Outta The Laboratory</beer_description>
@@ -1864,7 +1864,8 @@
     <title>Parade</title>
     <url>https://hopincraftbier.be/products/beak-parade</url>
     <brewery_name>Beak</brewery_name>
-    <price>7.39</price>
+    <price>6.28</price>
+    <regular_price>7,39</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5242076169.webp</image>
     <beer_description>Saturated in Citra, Mosaic and Idaho 7 this 6% London Fog IPA is brimming with fruit bubblegum flavours of mango, orange peel, pineapple and ripe flat peaches. Beak - Parade</beer_description>
     <beer_style>IPA - New England / Hazy</beer_style>
@@ -3408,7 +3409,8 @@
     <title>Vertige</title>
     <url>https://hopincraftbier.be/products/brasserie-du-bas-canada-vertige</url>
     <brewery_name>Brasserie du Bas-Canada</brewery_name>
-    <price>12.58</price>
+    <price>10.69</price>
+    <regular_price>12,58</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5145511505.webp</image>
     <beer_description>Vertige est brassée avec une combinaison de houblons néo-zélandais (Nelson Sauvin et Motueka) et américain (Citra). C'est la jonction de trois houblons que nous aimons particulièrement pour leurs caractères uniques. Brasserie du Bas-Canada - Vertige</beer_description>
     <beer_style>IPA - Triple</beer_style>
@@ -3425,7 +3427,8 @@
     <title>Héliades</title>
     <url>https://hopincraftbier.be/products/brasserie-du-bas-canada-heliades</url>
     <brewery_name>Brasserie du Bas-Canada</brewery_name>
-    <price>11.9</price>
+    <price>10.12</price>
+    <regular_price>11,90</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5145511510.webp</image>
     <beer_description>Double IPA aux houblons Nelson Sauvin et Motueka Brasserie du Bas-Canada - Heliades</beer_description>
     <beer_style>IPA - Imperial / Double</beer_style>
@@ -3478,7 +3481,8 @@
     <title>Mutant Turtle Pizza</title>
     <url>https://hopincraftbier.be/products/dankhouse-brewing-company-mutant-turtle-pizza</url>
     <brewery_name>DankHouse Brewing Company</brewery_name>
-    <price>10.89</price>
+    <price>9.26</price>
+    <regular_price>10,89</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5145610926.webp</image>
     <beer_description>Dry hopped with Anchovy, Nelson Sauvin, Nectaron, and Maui Nelson Hop Kief. DankHouse Brewing Company - Mutant Turtle Pizza</beer_description>
     <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
@@ -4442,8 +4446,8 @@
     <title>Turbinis</title>
     <url>https://hopincraftbier.be/products/brasserie-du-bas-canada-turbinis</url>
     <brewery_name>Brasserie du Bas-Canada</brewery_name>
-    <price>10.57</price>
-    <regular_price>12.44</regular_price>
+    <price>9.33</price>
+    <regular_price>12,44</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4965652164.webp</image>
     <beer_description>Triple IPA aux houblons Riwaka, Rakau, Motueka &amp; Nelson Sauvin Brasserie du Bas-Canada - Turbinis</beer_description>
     <beer_style>IPA - Triple</beer_style>
@@ -4637,8 +4641,8 @@
     <title>DDH Alien Church (Citra &amp; Galaxy)</title>
     <url>https://hopincraftbier.be/products/tired-hands-brewing-company-ddh-alien-church-citra--galaxy</url>
     <brewery_name>Tired Hands Brewing Company</brewery_name>
-    <price>10</price>
-    <regular_price>11.76</regular_price>
+    <price>8.82</price>
+    <regular_price>11,76</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4933334892.png</image>
     <beer_description>DDH Alien Church is the intensely amplified &amp; totally fuzzed out iteration of our Reptoid Alien with Photosynthesizing Tongue Oat IPA. Brewed with the same fluffy malted oats as always, and hopped, again as always! super aggressively with Cascade and Columbus. Dry hopped first with the same huge dose of the choicest Citra, Mosaic, and Chinook we’ve come to love and then blasted over the skull with the heaviest of hands with a mountain of even more Citra and additional tropical &amp; punchy &amp; hyper fresh Galaxy for the secondary dry hopping. We hope you enjoy this one as much as you’ve come to enjoy Alien Church over the last several years =) Tired Hands Brewing Company - DDH Alien Church (Citra &amp; Galaxy)</beer_description>
     <beer_style>IPA - New England / Hazy</beer_style>
@@ -4757,8 +4761,8 @@
     <title>Vitamin Sea - Just Another T-Shirt Shop</title>
     <url>https://hopincraftbier.be/products/vitamin-sea-just-another-t-shirt-shop</url>
     <brewery_name>Vitamin Sea Brewing</brewery_name>
-    <price>8.72</price>
-    <regular_price>10.26</regular_price>
+    <price>7.7</price>
+    <regular_price>10,26</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5438339801.png</image>
     <beer_description>Our flagship Hazy IPA. This one has intense aromas of tropical fruits, citrus, passionfruit and peach flavors. This combination of hops has a flavor profile bursting with ripe pineapple, mango, and papaya along with a bright citrus punch from the Citra hops. Vitamin Sea Brewing - Just Another T-Shirt Shop</beer_description>
     <beer_style>IPA - New England / Hazy</beer_style>
@@ -5102,8 +5106,8 @@
     <title>The Juice Awakens</title>
     <url>https://hopincraftbier.be/products/equilibrium-brewery-the-juice-awakens</url>
     <brewery_name>Equilibrium Brewery</brewery_name>
-    <price>8.43</price>
-    <regular_price>9.92</regular_price>
+    <price>7.44</price>
+    <regular_price>9,92</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5438371647.webp</image>
     <beer_description>In a galaxy not so far away, the haze is thick, and the juice awakens in the power of our new collaboration with @greatnotion. The Juice Awakens (DIPA) is the beginning of a delicious rebellion using an incredible blend of some of our favorite hop varieties with a hop bill of Citra Incognito, Citra Lupomax, Citra, Strata, Eclipse, and Krush. Bursting with navel orange and lemon-lime spritz aromas, expect a tropical flavor force of pineapple, orange, and ruby red grapefruit with assorted tropical berry Pez, dank candied orange peel, and saturated mango key lime smoothie. A textured mouthfeel loaded with rainbow melon builds up with a force of hoppiness and a custard-like finish. Equilibrium Brewery - The Juice Awakens</beer_description>
     <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
@@ -5275,8 +5279,8 @@
     <title>Shoot To Thrill</title>
     <url>https://hopincraftbier.be/products/counterpart-brewing-shoot-to-thrill</url>
     <brewery_name>Counterpart Brewing</brewery_name>
-    <price>10.46</price>
-    <regular_price>12.31</regular_price>
+    <price>9.23</price>
+    <regular_price>12,31</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5438339953.png</image>
     <beer_description>Hazy Triple IPA w/ Freestyle Mega Terps: Motueka, Southern Cross, Rakau &amp; Phantasm brewed in collaboration w/ Blood Brothers Brewing A full creamy mouthfeel and juice-like sweetness carrying a melange of guava, lychee, lemon candy, nectarine, papaya and sauvignon blanc. Counterpart Brewing - Shoot To Thrill</beer_description>
     <beer_style>IPA - Triple New England / Hazy</beer_style>
@@ -5344,8 +5348,8 @@
     <title>MC3PO</title>
     <url>https://hopincraftbier.be/products/equilibrium-brewery-mc3po</url>
     <brewery_name>Equilibrium Brewery</brewery_name>
-    <price>7.39</price>
-    <regular_price>8.69</regular_price>
+    <price>6.52</price>
+    <regular_price>8,69</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5438365247.webp</image>
     <beer_description>Brewed in collaboration with Great Notion Deep in the dark lab, two legendary forces collide to study all things science. Whether it’s mass-energy equivalence of a neutron star, trying to survive another council meeting on Coruscant, or creating the newest IPA, MC3PO is there. With a space-time-bending mix of hops to keep the droid in you satisfied, MC3PO starts off with a 2-row and white wheat base before a Mosaic Incognito, Mosaic Lupomax, Mosaic, Strata, and Amarillo hop bill to keep all your taste bud circuits firing. Smooth and bright flavors of pineapple and mango meet bright citrus with a touch of lime and a complex, dank earthiness and a touch of resinous bitterness. Equilibrium Brewery - MC3PO</beer_description>
     <beer_style>IPA - New England / Hazy</beer_style>
@@ -5484,8 +5488,8 @@
     <title>Sensescape (2025)</title>
     <url>https://hopincraftbier.be/products/badlands-brewing-company-sensescape-2025</url>
     <brewery_name>Badlands Brewing Company</brewery_name>
-    <price>9.88</price>
-    <regular_price>11.62</regular_price>
+    <price>8.72</price>
+    <regular_price>11,62</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4927488624.png</image>
     <beer_description>The return of one of our all time favorite hop blends! SenseScape is a made up word that we think does a good job of encompassing the entirety of your various senses. Smell, see, taste, feel. The ultimate package for perceiving the world around you. This beer was designed to satiate all of them at once, which is why we hopped it with arguably our favorite blend of hops: Citra, Galaxy, and Nelson Sauvin. Built on a cloud like malt base, we taste notes of papaya, tangerine flesh, candied peaches and rich tropical fruit. Badlands Brewing Company - Sensescape (2025)</beer_description>
     <beer_style>IPA - American</beer_style>
@@ -5536,8 +5540,8 @@
     <title>Bank Hotel</title>
     <url>https://hopincraftbier.be/products/brasserie-du-bas-canada-bank-hotel</url>
     <brewery_name>Brasserie du Bas-Canada</brewery_name>
-    <price>8.83</price>
-    <regular_price>10.39</regular_price>
+    <price>7.79</price>
+    <regular_price>10,39</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4929268877.png</image>
     <beer_description>India Pale Ale aux houblons Sabro &amp; Citra Brasserie du Bas-Canada - Bank Hotel</beer_description>
     <beer_style>IPA - American</beer_style>
@@ -6421,6 +6425,6 @@
     <date_canned>2025-03-27</date_canned>
     <untappd_id>593083</untappd_id>
   </item>
-  <timestamp>1769937304</timestamp>
-  <gen_date>01/02/2026 10:15:04</gen_date>
+  <timestamp>1769947205</timestamp>
+  <gen_date>01/02/2026 13:00:05</gen_date>
 </feed>
