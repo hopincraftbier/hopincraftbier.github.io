@@ -3147,7 +3147,7 @@
     <title>My Favorite Things</title>
     <url>https://hopincraftbier.be/products/factory-brewing-my-favorite-things</url>
     <brewery_name>Factory Brewing</brewery_name>
-    <price>3.61</price>
+    <price>7.21</price>
     <regular_price>7.21</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5260426097.webp</image>
     <beer_description>A Hazy IPA with Motueka &amp; Nelson Sauvin 'The 2025 crops of Motueka and Nelson are here, so of course I need to put my favorite things together. Tons of saturated aroma in this one, expect white wine, grapefruit, lime, melon and some nice earthy funkiness.' Head Brewer Jirka Ordén Factory Brewing - My Favorite Things</beer_description>
@@ -3544,6 +3544,126 @@
     <brewery_country>United States</brewery_country>
     <date_canned>2025-07-25</date_canned>
     <untappd_id>5689711</untappd_id>
+  </item>
+  <item>
+    <id>5853339</id>
+    <ecommerce_id>767352717</ecommerce_id>
+    <title>Kentuckley (2024)</title>
+    <url>https://hopincraftbier.be/products/transient-artisan-ales-kentuckley-2024</url>
+    <brewery_name>Transient Artisan Ales</brewery_name>
+    <price>31.05</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5260703484.webp</image>
+    <beer_description>Transient Artisan Ales - Kentuckley (2024)</beer_description>
+    <beer_style>Stout - Imperial / Double</beer_style>
+    <beer_abv>14.5%</beer_abv>
+    <beer_volume>500 ml</beer_volume>
+    <beer_package>bottle</beer_package>
+    <brewery_country>United States</brewery_country>
+    <untappd_id>5853339</untappd_id>
+  </item>
+  <item>
+    <id>3040198</id>
+    <ecommerce_id>767347723</ecommerce_id>
+    <title>Triple Stars</title>
+    <url>https://hopincraftbier.be/products/celestial-beerworks-triple-stars</url>
+    <brewery_name>Celestial Beerworks</brewery_name>
+    <price>9.55</price>
+    <regular_price>11,24</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5145598807.webp</image>
+    <beer_description>Triple Stars is filled with raw wheat, malted wheat, and flaked wheat which makes it ethereal and soft. It’s triple-dry hopped with Strata, Vic Secret, and Citra hops. If you know these hops, you know this beer is ultra juicy, full of orange juice, mango and grapefruit essence. This beer is super phosphorescent (minus the radiation...) and ultra bright. It’s velvety and full and bursting with flavor. PS: The label of only one can is upside down attached. Perhaps a collector's item? Please, specifically ask for it if you want this one. Celestial Beerworks - Triple Stars</beer_description>
+    <beer_style>IPA - Triple New England / Hazy</beer_style>
+    <beer_abv>10%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>United States</brewery_country>
+    <untappd_id>3040198</untappd_id>
+  </item>
+  <item>
+    <id>4813817</id>
+    <ecommerce_id>767347721</ecommerce_id>
+    <title>Cosmic Mountain</title>
+    <url>https://hopincraftbier.be/products/hop-butcher-for-the-world-cosmic-mountain</url>
+    <brewery_name>Hop Butcher For The World</brewery_name>
+    <price>10.4</price>
+    <regular_price>12,24</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5145475964.webp</image>
+    <beer_description>Citra, Waimea &amp; Mosaic-hopped Triple India Pale Ale Hop Butcher For The World - Cosmic Mountain</beer_description>
+    <beer_style>IPA - Triple New England / Hazy</beer_style>
+    <beer_abv>10.5%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>United States</brewery_country>
+    <date_canned>2025-07-21</date_canned>
+    <untappd_id>4813817</untappd_id>
+  </item>
+  <item>
+    <id>3012849</id>
+    <ecommerce_id>767347722</ecommerce_id>
+    <title>Double Stars</title>
+    <url>https://hopincraftbier.be/products/celestial-beerworks-double-stars</url>
+    <brewery_name>Celestial Beerworks</brewery_name>
+    <price>8.67</price>
+    <regular_price>10,20</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5145598782.webp</image>
+    <beer_description>Double Stars approaches the traditional malt base with a slight twist. Instead of using just oats and wheat, we focused on 3 kinds of wheat to give the beer more of a velvety and fluffy body. It’s brewed with malted wheat, raw wheat, and flaked wheat. Hopped with delightful amounts of Idaho 7 and Vic Secret, this beer has a complex aroma of dank pineapple and mango that explodes out of your glass. This 8% banger is slightly viscous with loads of body and softness. Double Stars is full of passionfruit, mango flesh and ripe pineapple, and is as juicy as can be. Celestial Beerworks - Double Stars</beer_description>
+    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
+    <beer_abv>8%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>United States</brewery_country>
+    <untappd_id>3012849</untappd_id>
+  </item>
+  <item>
+    <id>4027002</id>
+    <ecommerce_id>767352654</ecommerce_id>
+    <title>Cats Are People Too</title>
+    <url>https://hopincraftbier.be/products/finback-brewery-cats-are-people-too</url>
+    <brewery_name>Finback Brewery</brewery_name>
+    <price>9.09</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5099905869.webp</image>
+    <beer_description>DIPA dry hopped with Citra, Mosaic, Nelson and Belma. Finback Brewery - Cats Are People Too</beer_description>
+    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
+    <beer_abv>9%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>United States</brewery_country>
+    <date_canned>2025-06-11</date_canned>
+    <untappd_id>4027002</untappd_id>
+  </item>
+  <item>
+    <id>6318598</id>
+    <ecommerce_id>767347693</ecommerce_id>
+    <title>Maniac Brainiac</title>
+    <url>https://hopincraftbier.be/products/finback-brewery-maniac-brainiac</url>
+    <brewery_name>Finback Brewery</brewery_name>
+    <price>8.32</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5099899445.webp</image>
+    <beer_description>Finback Brewery - Maniac Brainiac</beer_description>
+    <beer_style>IPA - New England / Hazy</beer_style>
+    <beer_abv>6.5%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>United States</brewery_country>
+    <date_canned>2025-06-18</date_canned>
+    <untappd_id>6318598</untappd_id>
+  </item>
+  <item>
+    <id>6306505</id>
+    <ecommerce_id>767347694</ecommerce_id>
+    <title>Serpentin</title>
+    <url>https://hopincraftbier.be/products/brasserie-sir-john-brewing-co-serpentin</url>
+    <brewery_name>Brasserie Sir John Brewing Co.</brewery_name>
+    <price>8.91</price>
+    <regular_price>10,48</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5099898640.webp</image>
+    <beer_description>This first collaboration with the beautiful gang from All My Friends, in Prince Edward County, Ontario, is truly silly! A finish just sweet enough to camouflage the bitterness and highlight the alcohol that comes to play with your jowls. It's green, but balanced, saturated in hops, but with a thiccccc mouthfeel. With Nelson Sauvin Bliss, Nelson Sauvin Cryo, Citra, Citra Dynaboost and Peacharine hops, in addition to a late variant of Nelson Sauvin that provides different notes - more towards grapefruit and guava than the traditional winey notes - we have a gigantic hop bomb, perfect to accompany you in your misfortunes with friends. Wishing you as much fun as we had with the gang from All My Friends. Cheers! Brasserie Sir John Brewing Co. - Serpentin</beer_description>
+    <beer_style>IPA - Imperial / Double</beer_style>
+    <beer_abv>8.3%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Canada</brewery_country>
+    <date_canned>2025-06-23</date_canned>
+    <untappd_id>6306505</untappd_id>
   </item>
   <item>
     <id>6299087</id>
@@ -4321,6 +4441,24 @@
     <untappd_id>6263449</untappd_id>
   </item>
   <item>
+    <id>6267193</id>
+    <ecommerce_id>756871743</ecommerce_id>
+    <title>Turbinis</title>
+    <url>https://hopincraftbier.be/products/brasserie-du-bas-canada-turbinis</url>
+    <brewery_name>Brasserie du Bas-Canada</brewery_name>
+    <price>9.33</price>
+    <regular_price>12,44</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4965652164.webp</image>
+    <beer_description>Triple IPA aux houblons Riwaka, Rakau, Motueka &amp; Nelson Sauvin Brasserie du Bas-Canada - Turbinis</beer_description>
+    <beer_style>IPA - Triple</beer_style>
+    <beer_abv>10%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Canada</brewery_country>
+    <date_canned>2025-05-01</date_canned>
+    <untappd_id>6267193</untappd_id>
+  </item>
+  <item>
     <id>6261817</id>
     <ecommerce_id>756873722</ecommerce_id>
     <title>Headless</title>
@@ -4498,6 +4636,24 @@
     <untappd_id>6249192</untappd_id>
   </item>
   <item>
+    <id>3898880</id>
+    <ecommerce_id>751542773</ecommerce_id>
+    <title>DDH Alien Church (Citra &amp; Galaxy)</title>
+    <url>https://hopincraftbier.be/products/tired-hands-brewing-company-ddh-alien-church-citra--galaxy</url>
+    <brewery_name>Tired Hands Brewing Company</brewery_name>
+    <price>8.82</price>
+    <regular_price>11,76</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4933334892.png</image>
+    <beer_description>DDH Alien Church is the intensely amplified &amp; totally fuzzed out iteration of our Reptoid Alien with Photosynthesizing Tongue Oat IPA. Brewed with the same fluffy malted oats as always, and hopped, again as always! super aggressively with Cascade and Columbus. Dry hopped first with the same huge dose of the choicest Citra, Mosaic, and Chinook we’ve come to love and then blasted over the skull with the heaviest of hands with a mountain of even more Citra and additional tropical &amp; punchy &amp; hyper fresh Galaxy for the secondary dry hopping. We hope you enjoy this one as much as you’ve come to enjoy Alien Church over the last several years =) Tired Hands Brewing Company - DDH Alien Church (Citra &amp; Galaxy)</beer_description>
+    <beer_style>IPA - New England / Hazy</beer_style>
+    <beer_abv>7%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>United States</brewery_country>
+    <date_canned>2025-04-30</date_canned>
+    <untappd_id>3898880</untappd_id>
+  </item>
+  <item>
     <id>5699491</id>
     <ecommerce_id>751542772</ecommerce_id>
     <title>Pass A Good Time</title>
@@ -4598,6 +4754,24 @@
     <beer_package>bottle</beer_package>
     <brewery_country>United States</brewery_country>
     <untappd_id>5850335</untappd_id>
+  </item>
+  <item>
+    <id>2977936</id>
+    <ecommerce_id>751537020</ecommerce_id>
+    <title>Vitamin Sea - Just Another T-Shirt Shop</title>
+    <url>https://hopincraftbier.be/products/vitamin-sea-just-another-t-shirt-shop</url>
+    <brewery_name>Vitamin Sea Brewing</brewery_name>
+    <price>7.7</price>
+    <regular_price>10,26</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5438339801.png</image>
+    <beer_description>Our flagship Hazy IPA. This one has intense aromas of tropical fruits, citrus, passionfruit and peach flavors. This combination of hops has a flavor profile bursting with ripe pineapple, mango, and papaya along with a bright citrus punch from the Citra hops. Vitamin Sea Brewing - Just Another T-Shirt Shop</beer_description>
+    <beer_style>IPA - New England / Hazy</beer_style>
+    <beer_abv>6.8%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>United States</brewery_country>
+    <date_canned>2025-05-01</date_canned>
+    <untappd_id>2977936</untappd_id>
   </item>
   <item>
     <id>4400900</id>
@@ -4927,6 +5101,24 @@
     <untappd_id>6166277</untappd_id>
   </item>
   <item>
+    <id>6248503</id>
+    <ecommerce_id>751542507</ecommerce_id>
+    <title>The Juice Awakens</title>
+    <url>https://hopincraftbier.be/products/equilibrium-brewery-the-juice-awakens</url>
+    <brewery_name>Equilibrium Brewery</brewery_name>
+    <price>7.44</price>
+    <regular_price>9,92</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5438371647.webp</image>
+    <beer_description>In a galaxy not so far away, the haze is thick, and the juice awakens in the power of our new collaboration with @greatnotion. The Juice Awakens (DIPA) is the beginning of a delicious rebellion using an incredible blend of some of our favorite hop varieties with a hop bill of Citra Incognito, Citra Lupomax, Citra, Strata, Eclipse, and Krush. Bursting with navel orange and lemon-lime spritz aromas, expect a tropical flavor force of pineapple, orange, and ruby red grapefruit with assorted tropical berry Pez, dank candied orange peel, and saturated mango key lime smoothie. A textured mouthfeel loaded with rainbow melon builds up with a force of hoppiness and a custard-like finish. Equilibrium Brewery - The Juice Awakens</beer_description>
+    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
+    <beer_abv>8.2%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>United States</brewery_country>
+    <date_canned>2025-05-01</date_canned>
+    <untappd_id>6248503</untappd_id>
+  </item>
+  <item>
     <id>6227368</id>
     <ecommerce_id>751529272</ecommerce_id>
     <title>6 Lives</title>
@@ -5082,6 +5274,24 @@
     <untappd_id>4739060</untappd_id>
   </item>
   <item>
+    <id>6259353</id>
+    <ecommerce_id>751537017</ecommerce_id>
+    <title>Shoot To Thrill</title>
+    <url>https://hopincraftbier.be/products/counterpart-brewing-shoot-to-thrill</url>
+    <brewery_name>Counterpart Brewing</brewery_name>
+    <price>9.23</price>
+    <regular_price>12,31</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5438339953.png</image>
+    <beer_description>Hazy Triple IPA w/ Freestyle Mega Terps: Motueka, Southern Cross, Rakau &amp; Phantasm brewed in collaboration w/ Blood Brothers Brewing A full creamy mouthfeel and juice-like sweetness carrying a melange of guava, lychee, lemon candy, nectarine, papaya and sauvignon blanc. Counterpart Brewing - Shoot To Thrill</beer_description>
+    <beer_style>IPA - Triple New England / Hazy</beer_style>
+    <beer_abv>10%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Canada</brewery_country>
+    <date_canned>2025-04-30</date_canned>
+    <untappd_id>6259353</untappd_id>
+  </item>
+  <item>
     <id>6067723</id>
     <ecommerce_id>751529012</ecommerce_id>
     <title>NZ GOLD</title>
@@ -5131,6 +5341,24 @@
     <beer_package>can</beer_package>
     <brewery_country>Canada</brewery_country>
     <untappd_id>5787651</untappd_id>
+  </item>
+  <item>
+    <id>6246517</id>
+    <ecommerce_id>751537016</ecommerce_id>
+    <title>MC3PO</title>
+    <url>https://hopincraftbier.be/products/equilibrium-brewery-mc3po</url>
+    <brewery_name>Equilibrium Brewery</brewery_name>
+    <price>6.52</price>
+    <regular_price>8,69</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5438365247.webp</image>
+    <beer_description>Brewed in collaboration with Great Notion Deep in the dark lab, two legendary forces collide to study all things science. Whether it’s mass-energy equivalence of a neutron star, trying to survive another council meeting on Coruscant, or creating the newest IPA, MC3PO is there. With a space-time-bending mix of hops to keep the droid in you satisfied, MC3PO starts off with a 2-row and white wheat base before a Mosaic Incognito, Mosaic Lupomax, Mosaic, Strata, and Amarillo hop bill to keep all your taste bud circuits firing. Smooth and bright flavors of pineapple and mango meet bright citrus with a touch of lime and a complex, dank earthiness and a touch of resinous bitterness. Equilibrium Brewery - MC3PO</beer_description>
+    <beer_style>IPA - New England / Hazy</beer_style>
+    <beer_abv>6.7%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>United States</brewery_country>
+    <date_canned>2025-04-29</date_canned>
+    <untappd_id>6246517</untappd_id>
   </item>
   <item>
     <id>3484014</id>
@@ -5255,6 +5483,24 @@
     <untappd_id>6228775</untappd_id>
   </item>
   <item>
+    <id>6244270</id>
+    <ecommerce_id>751529268</ecommerce_id>
+    <title>Sensescape (2025)</title>
+    <url>https://hopincraftbier.be/products/badlands-brewing-company-sensescape-2025</url>
+    <brewery_name>Badlands Brewing Company</brewery_name>
+    <price>8.72</price>
+    <regular_price>11,62</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4927488624.png</image>
+    <beer_description>The return of one of our all time favorite hop blends! SenseScape is a made up word that we think does a good job of encompassing the entirety of your various senses. Smell, see, taste, feel. The ultimate package for perceiving the world around you. This beer was designed to satiate all of them at once, which is why we hopped it with arguably our favorite blend of hops: Citra, Galaxy, and Nelson Sauvin. Built on a cloud like malt base, we taste notes of papaya, tangerine flesh, candied peaches and rich tropical fruit. Badlands Brewing Company - Sensescape (2025)</beer_description>
+    <beer_style>IPA - American</beer_style>
+    <beer_abv>8.2%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Canada</brewery_country>
+    <date_canned>2025-04-30</date_canned>
+    <untappd_id>6244270</untappd_id>
+  </item>
+  <item>
     <id>5919609</id>
     <ecommerce_id>751537011</ecommerce_id>
     <title>All That I Have Learned (Ghost 1587)</title>
@@ -5287,6 +5533,24 @@
     <brewery_country>United States</brewery_country>
     <date_canned>2025-04-22</date_canned>
     <untappd_id>6241102</untappd_id>
+  </item>
+  <item>
+    <id>3123821</id>
+    <ecommerce_id>751529266</ecommerce_id>
+    <title>Bank Hotel</title>
+    <url>https://hopincraftbier.be/products/brasserie-du-bas-canada-bank-hotel</url>
+    <brewery_name>Brasserie du Bas-Canada</brewery_name>
+    <price>7.79</price>
+    <regular_price>10,39</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4929268877.png</image>
+    <beer_description>India Pale Ale aux houblons Sabro &amp; Citra Brasserie du Bas-Canada - Bank Hotel</beer_description>
+    <beer_style>IPA - American</beer_style>
+    <beer_abv>7.1%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Canada</brewery_country>
+    <date_canned>2025-04-30</date_canned>
+    <untappd_id>3123821</untappd_id>
   </item>
   <item>
     <id>6238201</id>
@@ -6161,6 +6425,6 @@
     <date_canned>2025-03-27</date_canned>
     <untappd_id>593083</untappd_id>
   </item>
-  <timestamp>1769947261</timestamp>
-  <gen_date>01/02/2026 13:01:01</gen_date>
+  <timestamp>1769972405</timestamp>
+  <gen_date>01/02/2026 20:00:05</gen_date>
 </feed>
