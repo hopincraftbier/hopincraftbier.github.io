@@ -643,26 +643,6 @@
     <untappd_id>959</untappd_id>
   </item>
   <item>
-    <id>960</id>
-    <ecommerce_id>804438547</ecommerce_id>
-    <title>Adroit Theory Triplet</title>
-    <url>https://hopincraftbier.be/products/adroit-theory-triplet</url>
-    <brewery_name>Adroit Theory</brewery_name>
-    <price>29.75</price>
-    <regular_price>37.19</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5478754914.png</image>
-    <beer_description>The Adroit Theory Pack contains: - Now I Am Death, Destroyer of Worlds [White Label Edition] (Ghost NOW I AM DEATH) - NECROSYNTH (Ghost NECROSYNTH) - All That I Have Learned (Ghost 1587)</beer_description>
-    <beer_style>Stout - IPA</beer_style>
-    <beer_abv>10 - 16%</beer_abv>
-    <beer_volume>3x473 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>United States</brewery_country>
-    <beer_package_count>3</beer_package_count>
-    <beer_bundle>1</beer_bundle>
-    <bundle_skus>6307962,5571398,5919609</bundle_skus>
-    <untappd_id>960</untappd_id>
-  </item>
-  <item>
     <id>961</id>
     <ecommerce_id>804324115</ecommerce_id>
     <title>Mix Brouwerij IPA Triplet</title>
@@ -5065,23 +5045,6 @@
     <untappd_id>3523256</untappd_id>
   </item>
   <item>
-    <id>6210906</id>
-    <ecommerce_id>751542510</ecommerce_id>
-    <title>Hydra | Push Pop</title>
-    <url>https://hopincraftbier.be/products/mortalis-brewing-company-hydra-push-pop</url>
-    <brewery_name>Mortalis Brewing Company</brewery_name>
-    <price>10</price>
-    <regular_price>13.33</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4932639103.png</image>
-    <beer_description>This Fruited Smoothie Sour was brewed in collaboration with Yah Brew. We blended Banana, Strawberry, Cantaloupe, and marshmallow to form just one of this monster’s many heads. A little taste of 90’s nostalgia while you keep your eyes peeled for even more flavor combinations. Mortalis Brewing Company - Hydra | Push Pop</beer_description>
-    <beer_style>Sour - Smoothie / Pastry</beer_style>
-    <beer_abv>7%</beer_abv>
-    <beer_volume>473 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>United States</brewery_country>
-    <untappd_id>6210906</untappd_id>
-  </item>
-  <item>
     <id>4990447</id>
     <ecommerce_id>751542509</ecommerce_id>
     <title>Abandon The Halogens (2022)</title>
@@ -5443,24 +5406,6 @@
     <beer_package>can</beer_package>
     <brewery_country>United States</brewery_country>
     <untappd_id>6047751</untappd_id>
-  </item>
-  <item>
-    <id>6228771</id>
-    <ecommerce_id>751542502</ecommerce_id>
-    <title>BB Kush - 2025</title>
-    <url>https://hopincraftbier.be/products/all-my-friends-beer-co-bb-kush-2025</url>
-    <brewery_name>All My Friends Beer Co.</brewery_name>
-    <price>8.21</price>
-    <regular_price>10,94</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5475139798.png</image>
-    <beer_description>Citra, Superdelic, Terpenes - Collab with Blood Brothers All My Friends Beer Co. - BB Kush - 2025</beer_description>
-    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
-    <beer_abv>8.2%</beer_abv>
-    <beer_volume>473 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Canada</brewery_country>
-    <date_canned>2025-04-14</date_canned>
-    <untappd_id>6228771</untappd_id>
   </item>
   <item>
     <id>6231627</id>
@@ -6476,6 +6421,6 @@
     <date_canned>2025-03-27</date_canned>
     <untappd_id>593083</untappd_id>
   </item>
-  <timestamp>1769929205</timestamp>
-  <gen_date>01/02/2026 08:00:05</gen_date>
+  <timestamp>1769937304</timestamp>
+  <gen_date>01/02/2026 10:15:04</gen_date>
 </feed>
