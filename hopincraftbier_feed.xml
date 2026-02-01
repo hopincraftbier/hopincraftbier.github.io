@@ -144,6 +144,87 @@
     <untappd_id>3872382</untappd_id>
   </item>
   <item>
+    <id>6513775</id>
+    <ecommerce_id>809097842</ecommerce_id>
+    <title>Don Jefe</title>
+    <url>https://hopincraftbier.be/products/the-piggy-brewing-company-don-jefe</url>
+    <brewery_name>The Piggy Brewing Company</brewery_name>
+    <price>5.9</price>
+    <regular_price>5.90</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/809097842/5520175642.png</image>
+    <beer_description>Hops : Mosaic The Piggy Brewing Company - Don Jefe</beer_description>
+    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
+    <beer_abv>8%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>France</brewery_country>
+    <untappd_id>6513775</untappd_id>
+  </item>
+  <item>
+    <id>6560471</id>
+    <ecommerce_id>809098271</ecommerce_id>
+    <title>Muvuka</title>
+    <url>https://hopincraftbier.be/products/the-piggy-brewing-company-muvuka</url>
+    <brewery_name>The Piggy Brewing Company</brewery_name>
+    <price>8.26</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/809098271/5520175624.png</image>
+    <beer_description>Barrel Aged Imperial Stout. Cacao, Tonka beans The Piggy Brewing Company - Muvuka</beer_description>
+    <beer_style>Stout - Imperial / Double</beer_style>
+    <beer_abv>12%</beer_abv>
+    <beer_volume>330 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>France</brewery_country>
+    <untappd_id>6560471</untappd_id>
+  </item>
+  <item>
+    <id>6552171</id>
+    <ecommerce_id>809098270</ecommerce_id>
+    <title>West Coast Patrol</title>
+    <url>https://hopincraftbier.be/products/the-piggy-brewing-company-west-coast-patrol</url>
+    <brewery_name>The Piggy Brewing Company</brewery_name>
+    <price>5.65</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/809098270/5520175618.png</image>
+    <beer_description>Modern West Coast IPA Hops : Centennial, Krush, Mosaic The Piggy Brewing Company - West Coast Patrol</beer_description>
+    <beer_style>IPA - American</beer_style>
+    <beer_abv>5.6%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>France</brewery_country>
+    <untappd_id>6552171</untappd_id>
+  </item>
+  <item>
+    <id>6522822</id>
+    <ecommerce_id>809098038</ecommerce_id>
+    <title>Hop Gemini</title>
+    <url>https://hopincraftbier.be/products/the-piggy-brewing-company-hop-gemini</url>
+    <brewery_name>The Piggy Brewing Company</brewery_name>
+    <price>6.56</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/809098038/5520175600.png</image>
+    <beer_description>Hops : Citra, Idaho7 The Piggy Brewing Company - Hop Gemini</beer_description>
+    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
+    <beer_abv>8%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>France</brewery_country>
+    <untappd_id>6522822</untappd_id>
+  </item>
+  <item>
+    <id>3956966</id>
+    <ecommerce_id>809098039</ecommerce_id>
+    <title>Lacrima de Oro (2026)</title>
+    <url>https://hopincraftbier.be/products/the-piggy-brewing-company-lacrima-de-oro-2026</url>
+    <brewery_name>The Piggy Brewing Company</brewery_name>
+    <price>7.38</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/809098039/5520190349.png</image>
+    <beer_description>The Magic Beer 'Lacrima de Oro' is a 10% ABV Triple NEIPA. Hops: Mosaic, Sabro. Last batch at 9.5% The Piggy Brewing Company - Lacrima de Oro</beer_description>
+    <beer_style>IPA - Triple New England / Hazy</beer_style>
+    <beer_abv>9.5%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>France</brewery_country>
+    <untappd_id>3956966</untappd_id>
+  </item>
+  <item>
     <id>6471643</id>
     <ecommerce_id>808672091</ecommerce_id>
     <title>Neon Pulse</title>
@@ -196,6 +277,68 @@
     <date_best_before>2026-06-26</date_best_before>
     <date_canned>2025-11-26</date_canned>
     <untappd_id>6513873</untappd_id>
+  </item>
+  <item>
+    <id>6513908</id>
+    <ecommerce_id>807097776</ecommerce_id>
+    <title>You Can't Control</title>
+    <url>https://hopincraftbier.be/products/pollys-brew-co-you-cant-control</url>
+    <brewery_name>Polly's Brew Co.</brewery_name>
+    <price>6.55</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5505440361.png</image>
+    <beer_description>Galaxy, Mosaic, Mosaic Lupomax Polly's Brew Co. - You Can't Control</beer_description>
+    <beer_style>IPA - New England / Hazy</beer_style>
+    <beer_abv>6.9%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Wales</brewery_country>
+    <untappd_id>6513908</untappd_id>
+  </item>
+  <item>
+    <id>6577350</id>
+    <ecommerce_id>807039742</ecommerce_id>
+    <title>Polly's x Beak</title>
+    <url>https://hopincraftbier.be/products/pollys-brew-co-pollys-x-beak</url>
+    <brewery_name>Polly's Brew Co.</brewery_name>
+    <price>6.75</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5505408896.png</image>
+    <beer_description>POLLY'S 8th BIRTHDAY We’ve been huge fans of the wonderful Beak pretty much since they first landed on our radars - operating a similar philosophy to ourselves in largely focusing on and perfecting their pale and hoppy output, we’ve been very lucky to share festival spaces with our friends from Lewes over the last twelve months, fostering a working friendship based on mutual approaches to where modern beer is placed in 2026. Coming together to collaborate for our eighth birthday meant there could only be one style we could brew - an IPA at that magical ABV in which the sweet spot lies for both breweries. Wanting to make a conscious effort to embrace the progression of our industry with the recipe on this beer, we’ve brought no less than five hop varieties to the party; showcasing current and progressive technologies in the brewing process. With a dry hop charge of 20g/l, pushing toward DIPA levels of intensity, we’ve utilised Idaho 7 and Nelson Sauvin in their classic T90 pellet form, along with their CGX versions - the latest technology from Crosby Hops using cryogenic processes to concentrate the flavour and intensity brought to the table. With a final flourish of New Zealand Hop’s latest experimental variety NZ-106 and a whisper of Abstrax Hops Skyfarm Pineapple, the result is a pillowy soft IPA, singing with guava, mango, and passionfruit, with bright pine and citrus notes underneath. Taking the artwork on this one is local enigma Jim Jones, who leaned into the German heritage of the bauhaus</beer_description>
+    <beer_style>IPA - English</beer_style>
+    <beer_abv>6.5%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Wales</brewery_country>
+    <untappd_id>6577350</untappd_id>
+  </item>
+  <item>
+    <id>28</id>
+    <ecommerce_id>807039737</ecommerce_id>
+    <title>Polly's x Cloudwater</title>
+    <url>https://hopincraftbier.be/products/pollys-brew-co-pollys-x-cloudwater</url>
+    <brewery_name>Polly's Brew Co.</brewery_name>
+    <price>7.83</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5505398530.png</image>
+    <beer_description>POLLY'S 8th BIRTHDAY DDH DIPA with Eggers Special, Mega Motueka, Nectaron Cryo &amp; Citra Lupomax Collab with Cloudwater Brew Co.</beer_description>
+    <beer_style>IPA - Imperial / Double</beer_style>
+    <beer_abv>8.2%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Wales</brewery_country>
+  </item>
+  <item>
+    <id>27</id>
+    <ecommerce_id>807076879</ecommerce_id>
+    <title>Polly's x Azvex</title>
+    <url>https://hopincraftbier.be/products/pollys-brew-co-pollys-x-azvex</url>
+    <brewery_name>Polly's Brew Co.</brewery_name>
+    <price>7.06</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5505372860.png</image>
+    <beer_description>POLLY'S 8th BIRTHDAY Danish Pastry Imperial Stout with Vietnamese Cinnamon, Vanilla &amp; Raisin Collab with Azvex Brewing Co.</beer_description>
+    <beer_style>Stout - Pastry</beer_style>
+    <beer_abv>11%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Wales</brewery_country>
   </item>
   <item>
     <id>940</id>
@@ -6425,6 +6568,6 @@
     <date_canned>2025-03-27</date_canned>
     <untappd_id>593083</untappd_id>
   </item>
-  <timestamp>1769972405</timestamp>
-  <gen_date>01/02/2026 20:00:05</gen_date>
+  <timestamp>1769973305</timestamp>
+  <gen_date>01/02/2026 20:15:05</gen_date>
 </feed>
