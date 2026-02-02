@@ -144,23 +144,6 @@
     <untappd_id>3872382</untappd_id>
   </item>
   <item>
-    <id>6513775</id>
-    <ecommerce_id>809097842</ecommerce_id>
-    <title>Don Jefe</title>
-    <url>https://hopincraftbier.be/products/the-piggy-brewing-company-don-jefe</url>
-    <brewery_name>The Piggy Brewing Company</brewery_name>
-    <price>5.9</price>
-    <regular_price>5.90</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/809097842/5520175642.png</image>
-    <beer_description>Hops : Mosaic The Piggy Brewing Company - Don Jefe</beer_description>
-    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
-    <beer_abv>8%</beer_abv>
-    <beer_volume>440 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>France</brewery_country>
-    <untappd_id>6513775</untappd_id>
-  </item>
-  <item>
     <id>6560471</id>
     <ecommerce_id>809098271</ecommerce_id>
     <title>Muvuka</title>
@@ -277,6 +260,70 @@
     <date_best_before>2026-06-26</date_best_before>
     <date_canned>2025-11-26</date_canned>
     <untappd_id>6513873</untappd_id>
+  </item>
+  <item>
+    <id>6513908</id>
+    <ecommerce_id>807097776</ecommerce_id>
+    <title>You Can't Control</title>
+    <url>https://hopincraftbier.be/products/pollys-brew-co-you-cant-control</url>
+    <brewery_name>Polly's Brew Co.</brewery_name>
+    <price>6.55</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5505440361.png</image>
+    <beer_description>Galaxy, Mosaic, Mosaic Lupomax Polly's Brew Co. - You Can't Control</beer_description>
+    <beer_style>IPA - New England / Hazy</beer_style>
+    <beer_abv>6.9%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Wales</brewery_country>
+    <untappd_id>6513908</untappd_id>
+  </item>
+  <item>
+    <id>6577350</id>
+    <ecommerce_id>807039742</ecommerce_id>
+    <title>8th Birthday - India Pale Ale</title>
+    <url>https://hopincraftbier.be/products/pollys-brew-co-8th-birthday-india-pale-ale</url>
+    <brewery_name>Polly's Brew Co.</brewery_name>
+    <price>6.75</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5505408896.png</image>
+    <beer_description>POLLY'S 8th BIRTHDAY We’ve been huge fans of the wonderful Beak pretty much since they first landed on our radars - operating a similar philosophy to ourselves in largely focusing on and perfecting their pale and hoppy output, we’ve been very lucky to share festival spaces with our friends from Lewes over the last twelve months, fostering a working friendship based on mutual approaches to where modern beer is placed in 2026. Coming together to collaborate for our eighth birthday meant there could only be one style we could brew - an IPA at that magical ABV in which the sweet spot lies for both breweries. Wanting to make a conscious effort to embrace the progression of our industry with the recipe on this beer, we’ve brought no less than five hop varieties to the party; showcasing current and progressive technologies in the brewing process. With a dry hop charge of 20g/l, pushing toward DIPA levels of intensity, we’ve utilised Idaho 7 and Nelson Sauvin in their classic T90 pellet form, along with their CGX versions - the latest technology from Crosby Hops using cryogenic processes to concentrate the flavour and intensity brought to the table. With a final flourish of New Zealand Hop’s latest experimental variety NZ-106 and a whisper of Abstrax Hops Skyfarm Pineapple, the result is a pillowy soft IPA, singing with guava, mango, and passionfruit, with bright pine and citrus notes underneath. Taking the artwork on this one is local enigma Jim Jones, who leaned into the German heritage of the bauhaus</beer_description>
+    <beer_style>IPA - English</beer_style>
+    <beer_abv>6.5%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Wales</brewery_country>
+    <untappd_id>6577350</untappd_id>
+  </item>
+  <item>
+    <id>6577343</id>
+    <ecommerce_id>807039737</ecommerce_id>
+    <title>8th Birthday - Double India Pale Ale</title>
+    <url>https://hopincraftbier.be/products/pollys-brew-co-8th-birthday-double-india-pale-ale</url>
+    <brewery_name>Polly's Brew Co.</brewery_name>
+    <price>7.83</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5505398530.png</image>
+    <beer_description>POLLY'S 8th BIRTHDAY Our friendship with the legendary Cloudwater extends for as long as Polly’s has existed at this point. As a source of sage advice and guidance throughout our brewing journey, we’re proud to have been able to share experiences with the titans of Manchester in both working and personal capacities over our eight years in the game. When it came to filling the collaboration slot for a big, bold double IPA we could only look to the innovators of modern beer in the UK to join us for our eighth birthday, not only on the brewing side of things but the artwork to boot, with Cloudwater’s go-to designer, the Manchester based Textbook Studio handling the label design. Wanting to embrace the progressive nature of the industry we operate within, and showcase the skills our respective brew teams are capable of, we’ve turned the hype dial up to eleven on this DIPA. We’d already been enchanted by our first use of Eggers Special hops, so when the prospect of working with another New Zealand blend in Mega Motueka came about in our initial discussions we leapt at the opportunity. Utilising further dry hop charges of Lupomax Citra and Nectaron Cryo, this DIPA solely focuses on hype and hype alone. Our finished product is a DIPA that positively rinses every last drop of lively lemon, muddled lime with brown sugar, tropical fruits, passionfruit, soft peach flavours, and pineapple backed up with a light dankness.</beer_description>
+    <beer_style>IPA - Imperial / Double</beer_style>
+    <beer_abv>8.2%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Wales</brewery_country>
+    <untappd_id>6577343</untappd_id>
+  </item>
+  <item>
+    <id>6577343</id>
+    <ecommerce_id>807076879</ecommerce_id>
+    <title>8th Birthday - Danish Pastry Imperial Stout</title>
+    <url>https://hopincraftbier.be/products/pollys-brew-co-8th-birthday-danish-pastry-imperial-stout</url>
+    <brewery_name>Polly's Brew Co.</brewery_name>
+    <price>7.06</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5505372860.png</image>
+    <beer_description>POLLY'S 8th BIRTHDAY It’s always a given that when it comes to Birthday Beer time, we’re always going to dip over to the dark side. Who better then to extend an invitation to share knowledge and expertise with than one of the best in the game today when it comes to imperial stouts, and one which we’ve worked closely with since their launch, Azvex? As longtime admirers of their big, decadent pastry stouts, we couldn’t think of anyone better to work with than our friends from just over the water in Liverpool. Working our recipe around the fika breaks we have at Polly’s every working day, we loved the idea of creating the flavour profile of a danish pastry in this beer - utilising the fresh vanilla we’ve applied to our Oat Cream beers, alongside raisin for a subtle fruit sweetness, and a final flourish of cinnamon to balance everything out. Featuring artwork produced by the wonderful local artist and good friend of the brewery Jake Cross, this beer took up a grand total of five separate brew slots in our brewing week, with a ridiculous twenty-four hour slow rolling boil to concentrate all those sugars. the result is a slick, oily and decadent imperial stout - rich in flavour but not cloying, and widely regarded within the brewery as our best imperial stout brewed over our eight year history.</beer_description>
+    <beer_style>Stout - Imperial / Double Pastry</beer_style>
+    <beer_abv>11%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Wales</brewery_country>
+    <untappd_id>6577343</untappd_id>
   </item>
   <item>
     <id>940</id>
@@ -912,6 +959,26 @@
     <beer_bundle>1</beer_bundle>
     <bundle_skus>6220762,6223449,6238201,6224263</bundle_skus>
     <untappd_id>965</untappd_id>
+  </item>
+  <item>
+    <id>969</id>
+    <ecommerce_id>801005459</ecommerce_id>
+    <title>Factory Brewing Quartet</title>
+    <url>https://hopincraftbier.be/products/factory-brewing-quartet</url>
+    <brewery_name>Factory Brewing</brewery_name>
+    <price>21.2</price>
+    <regular_price>30.29</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5438588895.png</image>
+    <beer_description>The Factory Brewing Pack pack contains: - Meadows - Reflections - Taste No Evil - Candydate</beer_description>
+    <beer_style>IPA</beer_style>
+    <beer_abv>7 - 10%</beer_abv>
+    <beer_volume>4x440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Finland</brewery_country>
+    <date_best_before>2026-01-01</date_best_before>
+    <beer_package_count>4</beer_package_count>
+    <beer_bundle>1</beer_bundle>
+    <bundle_skus>6289690,6249191,6249190,6249192</bundle_skus>
   </item>
   <item>
     <id>970</id>
@@ -3539,6 +3606,94 @@
     <untappd_id>6316537</untappd_id>
   </item>
   <item>
+    <id>4092023</id>
+    <ecommerce_id>767352720</ecommerce_id>
+    <title>High-Low</title>
+    <url>https://hopincraftbier.be/products/finback-brewery-high-low</url>
+    <brewery_name>Finback Brewery</brewery_name>
+    <price>8.97</price>
+    <regular_price>10,55</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5145458707.webp</image>
+    <beer_description>double dry hopped with Mosaic, Amarillo, Citra, Belma, Blanc, El Dorado, Waimea, Idaho 7 and Nelson Finback Brewery - High-Low</beer_description>
+    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
+    <beer_abv>8.4%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>United States</brewery_country>
+    <date_canned>2025-07-11</date_canned>
+    <untappd_id>4092023</untappd_id>
+  </item>
+  <item>
+    <id>6316546</id>
+    <ecommerce_id>767361433</ecommerce_id>
+    <title>Mutant Turtle Pizza</title>
+    <url>https://hopincraftbier.be/products/dankhouse-brewing-company-mutant-turtle-pizza</url>
+    <brewery_name>DankHouse Brewing Company</brewery_name>
+    <price>9.26</price>
+    <regular_price>10,89</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5145610926.webp</image>
+    <beer_description>Dry hopped with Anchovy, Nelson Sauvin, Nectaron, and Maui Nelson Hop Kief. DankHouse Brewing Company - Mutant Turtle Pizza</beer_description>
+    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
+    <beer_abv>8.5%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>United States</brewery_country>
+    <date_canned>2025-07-31</date_canned>
+    <untappd_id>6316546</untappd_id>
+  </item>
+  <item>
+    <id>6325245</id>
+    <ecommerce_id>767352719</ecommerce_id>
+    <title>Aspect of Leo</title>
+    <url>https://hopincraftbier.be/products/hop-butcher-for-the-world-aspect-of-leo</url>
+    <brewery_name>Hop Butcher For The World</brewery_name>
+    <price>8.79</price>
+    <regular_price>10,34</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5145475969.webp</image>
+    <beer_description>Citra-Hopped India Pale Ale Brewed With Blood Orange Hop Butcher For The World - Aspect of Leo</beer_description>
+    <beer_style>IPA - New England / Hazy</beer_style>
+    <beer_abv>6.5%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>United States</brewery_country>
+    <date_canned>2025-07-14</date_canned>
+    <untappd_id>6325245</untappd_id>
+  </item>
+  <item>
+    <id>6331773</id>
+    <ecommerce_id>767352716</ecommerce_id>
+    <title>Dirty Monkey</title>
+    <url>https://hopincraftbier.be/products/commonwealth-brewing-company-dirty-monkey</url>
+    <brewery_name>Commonwealth Brewing Company</brewery_name>
+    <price>10.33</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5145623791.webp</image>
+    <beer_description>Imperial Stout w/Banana, Coffee, Chocolate, Pineapple and Coconut Commonwealth Brewing Company - Dirty Monkey</beer_description>
+    <beer_style>Stout - Imperial / Double Coffee</beer_style>
+    <beer_abv>12%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>United States</brewery_country>
+    <untappd_id>6331773</untappd_id>
+  </item>
+  <item>
+    <id>5689711</id>
+    <ecommerce_id>767352718</ecommerce_id>
+    <title>Digi Digi Digi</title>
+    <url>https://hopincraftbier.be/products/dankhouse-brewing-company-digi-digi-digi</url>
+    <brewery_name>DankHouse Brewing Company</brewery_name>
+    <price>9.55</price>
+    <regular_price>11,23</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5145610936.webp</image>
+    <beer_description>In the words of the great Rza.......Hoppy Hoppy Hoppy, Digi Digi Digi. You're a** will be stuck on this beer like a Victoria Secret wedgie. We dry hopped this one with Citra, Strata, and Nectaron. DankHouse Brewing Company - Digi Digi Digi</beer_description>
+    <beer_style>IPA - Triple New England / Hazy</beer_style>
+    <beer_abv>10%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>United States</brewery_country>
+    <date_canned>2025-07-25</date_canned>
+    <untappd_id>5689711</untappd_id>
+  </item>
+  <item>
     <id>5853339</id>
     <ecommerce_id>767352717</ecommerce_id>
     <title>Kentuckley (2024)</title>
@@ -4001,23 +4156,6 @@
     <brewery_country>Sweden</brewery_country>
     <date_best_before>2035-02-26</date_best_before>
     <untappd_id>6187809</untappd_id>
-  </item>
-  <item>
-    <id>6289690</id>
-    <ecommerce_id>761806690</ecommerce_id>
-    <title>Meadows</title>
-    <url>https://hopincraftbier.be/products/factory-brewing-meadows</url>
-    <brewery_name>Factory Brewing</brewery_name>
-    <price>5.44</price>
-    <regular_price>7.6</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5438588931.webp</image>
-    <beer_description>A Hazy IPA with Citra, Rakau &amp; Bru-1 'Meadows is dry hopped with an interesting hop combo of Citra, Rakau and Bru-1. Loads of fruitiness from Citra and Bru-1 with Rakau bringing that NZ funk and dankness with some sweet stone fruit notes.' Head Brewer Jirka Ordén Factory Brewing - Meadows</beer_description>
-    <beer_style>IPA - New England / Hazy</beer_style>
-    <beer_abv>7.3%</beer_abv>
-    <beer_volume>440 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Finland</brewery_country>
-    <untappd_id>6289690</untappd_id>
   </item>
   <item>
     <id>988</id>
@@ -4573,60 +4711,6 @@
     <brewery_country>Romania</brewery_country>
     <date_best_before>2027-12-30</date_best_before>
     <untappd_id>6263801</untappd_id>
-  </item>
-  <item>
-    <id>6249191</id>
-    <ecommerce_id>752199796</ecommerce_id>
-    <title>Reflections</title>
-    <url>https://hopincraftbier.be/products/factory-brewing-reflections</url>
-    <brewery_name>Factory Brewing</brewery_name>
-    <price>5.67</price>
-    <regular_price>7.56</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5438588937.webp</image>
-    <beer_description>A Hazy DIPA with Nelson Sauvin hops. Reflections is a Hazy DIPA brewed with Nelson Sauvin hops. Five different lots of Nelson from Freestyle Hops and Clayton Hops creates a beautifully complex hop profile using just one variety. I get loads of grapefruit, gooseberries, white wine, passion fruit and some white pepper notes. Head Brewer Jirka Ordén Factory Brewing - Reflections</beer_description>
-    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
-    <beer_abv>8%</beer_abv>
-    <beer_volume>440 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Finland</brewery_country>
-    <date_best_before>01/2026</date_best_before>
-    <untappd_id>6249191</untappd_id>
-  </item>
-  <item>
-    <id>6249190</id>
-    <ecommerce_id>752199794</ecommerce_id>
-    <title>Candydate</title>
-    <url>https://hopincraftbier.be/products/factory-brewing-candydate</url>
-    <brewery_name>Factory Brewing</brewery_name>
-    <price>5.94</price>
-    <regular_price>7.92</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5438588949.webp</image>
-    <beer_description>A Hazy Triple IPA with Citra, Galaxy &amp; Vic Secret. When my current colleague Pontus and I were homebrewing, we brewed a banger of a 'House-NEIPA' called Candydate — at least we thought it was amazing back then! So here’s Candydate, brought back with the same hop combo and soul, but a refined malt base, updated to today’s standards. Head Brewer Jirka Ordén Factory Brewing - Candydate</beer_description>
-    <beer_style>IPA - Triple New England / Hazy</beer_style>
-    <beer_abv>10%</beer_abv>
-    <beer_volume>440 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Finland</brewery_country>
-    <date_best_before>01/2026</date_best_before>
-    <untappd_id>6249190</untappd_id>
-  </item>
-  <item>
-    <id>6249192</id>
-    <ecommerce_id>752204786</ecommerce_id>
-    <title>Taste No Evil</title>
-    <url>https://hopincraftbier.be/products/factory-brewing-taste-no-evil</url>
-    <brewery_name>Factory Brewing</brewery_name>
-    <price>5.67</price>
-    <regular_price>7.56</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5438595640.webp</image>
-    <beer_description>This Hazy DIPA is bursting with fruity aromas: stone fruits like mango and apricot, grapefruit and passionfruit, some dankness, and a touch of funk and earthiness. The malt base features more wheat than we usually use, and we also used a new yeast with this one. So lots of new things going on, we hope you enjoy this experiment. Head Brewer Jirka Ordén Factory Brewing - Taste No Evil</beer_description>
-    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
-    <beer_abv>8%</beer_abv>
-    <beer_volume>440 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Finland</brewery_country>
-    <date_best_before>01/2026</date_best_before>
-    <untappd_id>6249192</untappd_id>
   </item>
   <item>
     <id>3898880</id>
@@ -6418,6 +6502,6 @@
     <date_canned>2025-03-27</date_canned>
     <untappd_id>593083</untappd_id>
   </item>
-  <timestamp>1770019938</timestamp>
-  <gen_date>02/02/2026 09:12:18</gen_date>
+  <timestamp>1770047491</timestamp>
+  <gen_date>02/02/2026 16:51:31</gen_date>
 </feed>
