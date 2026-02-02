@@ -144,6 +144,23 @@
     <untappd_id>3872382</untappd_id>
   </item>
   <item>
+    <id>6513775</id>
+    <ecommerce_id>809097842</ecommerce_id>
+    <title>Don Jefe</title>
+    <url>https://hopincraftbier.be/products/the-piggy-brewing-company-don-jefe</url>
+    <brewery_name>The Piggy Brewing Company</brewery_name>
+    <price>5.9</price>
+    <regular_price>5.90</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/809097842/5520175642.png</image>
+    <beer_description>Hops : Mosaic The Piggy Brewing Company - Don Jefe</beer_description>
+    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
+    <beer_abv>8%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>France</brewery_country>
+    <untappd_id>6513775</untappd_id>
+  </item>
+  <item>
     <id>6560471</id>
     <ecommerce_id>809098271</ecommerce_id>
     <title>Muvuka</title>
@@ -6502,6 +6519,6 @@
     <date_canned>2025-03-27</date_canned>
     <untappd_id>593083</untappd_id>
   </item>
-  <timestamp>1770047491</timestamp>
-  <gen_date>02/02/2026 16:51:31</gen_date>
+  <timestamp>1770053405</timestamp>
+  <gen_date>02/02/2026 18:30:05</gen_date>
 </feed>
