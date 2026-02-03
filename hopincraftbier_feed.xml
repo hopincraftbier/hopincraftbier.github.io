@@ -158,6 +158,7 @@
     <beer_volume>440 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>France</brewery_country>
+    <date_best_before>10/2026</date_best_before>
     <untappd_id>6513775</untappd_id>
   </item>
   <item>
@@ -174,6 +175,7 @@
     <beer_volume>330 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>France</brewery_country>
+    <date_best_before>01/2029</date_best_before>
     <untappd_id>6560471</untappd_id>
   </item>
   <item>
@@ -190,6 +192,7 @@
     <beer_volume>440 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>France</brewery_country>
+    <date_best_before>03/2027</date_best_before>
     <untappd_id>6552171</untappd_id>
   </item>
   <item>
@@ -206,6 +209,7 @@
     <beer_volume>440 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>France</brewery_country>
+    <date_best_before>09/2026</date_best_before>
     <untappd_id>6522822</untappd_id>
   </item>
   <item>
@@ -222,6 +226,7 @@
     <beer_volume>440 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>France</brewery_country>
+    <date_best_before>12/2026</date_best_before>
     <untappd_id>3956966</untappd_id>
   </item>
   <item>
@@ -292,6 +297,7 @@
     <beer_volume>440 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>Wales</brewery_country>
+    <date_best_before>2026-08-20</date_best_before>
     <untappd_id>6513908</untappd_id>
   </item>
   <item>
@@ -308,6 +314,7 @@
     <beer_volume>440 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>Wales</brewery_country>
+    <date_best_before>2026-10-09</date_best_before>
     <untappd_id>6577350</untappd_id>
   </item>
   <item>
@@ -324,6 +331,7 @@
     <beer_volume>440 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>Wales</brewery_country>
+    <date_best_before>2026-10-15</date_best_before>
     <untappd_id>6577343</untappd_id>
   </item>
   <item>
@@ -340,6 +348,7 @@
     <beer_volume>440 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>Wales</brewery_country>
+    <date_best_before>2027-01-12</date_best_before>
     <untappd_id>6577343</untappd_id>
   </item>
   <item>
@@ -6519,6 +6528,6 @@
     <date_canned>2025-03-27</date_canned>
     <untappd_id>593083</untappd_id>
   </item>
-  <timestamp>1770053405</timestamp>
-  <gen_date>02/02/2026 18:30:05</gen_date>
+  <timestamp>1770105605</timestamp>
+  <gen_date>03/02/2026 09:00:05</gen_date>
 </feed>
