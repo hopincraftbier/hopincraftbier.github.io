@@ -370,7 +370,6 @@
     <beer_package_count>4</beer_package_count>
     <beer_bundle>1</beer_bundle>
     <bundle_skus>6491728,6514089,6453136,6491725</bundle_skus>
-    <untappd_id>940</untappd_id>
   </item>
   <item>
     <id>6514089</id>
@@ -459,7 +458,6 @@
     <beer_package_count>3</beer_package_count>
     <beer_bundle>1</beer_bundle>
     <bundle_skus>6384350,6384345,6384339</bundle_skus>
-    <untappd_id>941</untappd_id>
   </item>
   <item>
     <id>942</id>
@@ -480,7 +478,6 @@
     <beer_package_count>3</beer_package_count>
     <beer_bundle>1</beer_bundle>
     <bundle_skus>6350229,6350233,6346854</bundle_skus>
-    <untappd_id>942</untappd_id>
   </item>
   <item>
     <id>943</id>
@@ -501,7 +498,6 @@
     <beer_package_count>3</beer_package_count>
     <beer_bundle>1</beer_bundle>
     <bundle_skus>3123821,6244270,6204619</bundle_skus>
-    <untappd_id>943</untappd_id>
   </item>
   <item>
     <id>944</id>
@@ -521,7 +517,6 @@
     <beer_package_count>3</beer_package_count>
     <beer_bundle>1</beer_bundle>
     <bundle_skus>5787651,6067723,4739060</bundle_skus>
-    <untappd_id>944</untappd_id>
   </item>
   <item>
     <id>945</id>
@@ -542,7 +537,6 @@
     <beer_package_count>3</beer_package_count>
     <beer_bundle>1</beer_bundle>
     <bundle_skus>5894573,6016175,6187809</bundle_skus>
-    <untappd_id>945</untappd_id>
   </item>
   <item>
     <id>946</id>
@@ -564,7 +558,6 @@
     <beer_package_count>3</beer_package_count>
     <beer_bundle>1</beer_bundle>
     <bundle_skus>6149265,5978945,6272015</bundle_skus>
-    <untappd_id>946</untappd_id>
   </item>
   <item>
     <id>947</id>
@@ -585,7 +578,6 @@
     <beer_package_count>3</beer_package_count>
     <beer_bundle>1</beer_bundle>
     <bundle_skus>10,11,13</bundle_skus>
-    <untappd_id>947</untappd_id>
   </item>
   <item>
     <id>948</id>
@@ -606,7 +598,6 @@
     <beer_package_count>3</beer_package_count>
     <beer_bundle>1</beer_bundle>
     <bundle_skus>3127108,6342727,5751661</bundle_skus>
-    <untappd_id>948</untappd_id>
   </item>
   <item>
     <id>950</id>
@@ -628,7 +619,6 @@
     <beer_package_count>3</beer_package_count>
     <beer_bundle>1</beer_bundle>
     <bundle_skus>5605718,6417762,5605713</bundle_skus>
-    <untappd_id>950</untappd_id>
   </item>
   <item>
     <id>951</id>
@@ -649,7 +639,6 @@
     <beer_package_count>3</beer_package_count>
     <beer_bundle>1</beer_bundle>
     <bundle_skus>6339811,6340747,6337778</bundle_skus>
-    <untappd_id>951</untappd_id>
   </item>
   <item>
     <id>952</id>
@@ -671,7 +660,6 @@
     <beer_package_count>4</beer_package_count>
     <beer_bundle>1</beer_bundle>
     <bundle_skus>6172982,6337778,6308971,6102160</bundle_skus>
-    <untappd_id>952</untappd_id>
   </item>
   <item>
     <id>954</id>
@@ -691,7 +679,6 @@
     <beer_package_count>2</beer_package_count>
     <beer_bundle>1</beer_bundle>
     <bundle_skus>4785691,5391734</bundle_skus>
-    <untappd_id>954</untappd_id>
   </item>
   <item>
     <id>955</id>
@@ -712,7 +699,6 @@
     <beer_package_count>2</beer_package_count>
     <beer_bundle>1</beer_bundle>
     <bundle_skus>6202658,593083</bundle_skus>
-    <untappd_id>955</untappd_id>
   </item>
   <item>
     <id>956</id>
@@ -733,7 +719,6 @@
     <beer_package_count>2</beer_package_count>
     <beer_bundle>1</beer_bundle>
     <bundle_skus>6203420,6203421</bundle_skus>
-    <untappd_id>956</untappd_id>
   </item>
   <item>
     <id>957</id>
@@ -754,7 +739,6 @@
     <beer_package_count>2</beer_package_count>
     <beer_bundle>1</beer_bundle>
     <bundle_skus>6186139,4980154</bundle_skus>
-    <untappd_id>957</untappd_id>
   </item>
   <item>
     <id>958</id>
@@ -794,7 +778,6 @@
     <beer_package_count>3</beer_package_count>
     <beer_bundle>1</beer_bundle>
     <bundle_skus>3523256,6210906,6047751</bundle_skus>
-    <untappd_id>959</untappd_id>
   </item>
   <item>
     <id>961</id>
@@ -815,7 +798,6 @@
     <beer_package_count>3</beer_package_count>
     <beer_bundle>1</beer_bundle>
     <bundle_skus>2721589,6241102,4316618</bundle_skus>
-    <untappd_id>961</untappd_id>
   </item>
   <item>
     <id>962</id>
@@ -836,7 +818,6 @@
     <beer_package_count>3</beer_package_count>
     <beer_bundle>1</beer_bundle>
     <bundle_skus>348850,6092135,4990447</bundle_skus>
-    <untappd_id>962</untappd_id>
   </item>
   <item>
     <id>963</id>
@@ -857,7 +838,6 @@
     <beer_package_count>3</beer_package_count>
     <beer_bundle>1</beer_bundle>
     <bundle_skus>6228771,6228772,6228775</bundle_skus>
-    <untappd_id>963</untappd_id>
   </item>
   <item>
     <id>964</id>
@@ -878,7 +858,6 @@
     <beer_package_count>2</beer_package_count>
     <beer_bundle>1</beer_bundle>
     <bundle_skus>6186985,6204470</bundle_skus>
-    <untappd_id>964</untappd_id>
   </item>
   <item>
     <id>6479597</id>
@@ -984,7 +963,6 @@
     <beer_package_count>4</beer_package_count>
     <beer_bundle>1</beer_bundle>
     <bundle_skus>6220762,6223449,6238201,6224263</bundle_skus>
-    <untappd_id>965</untappd_id>
   </item>
   <item>
     <id>969</id>
@@ -1025,7 +1003,6 @@
     <beer_package_count>4</beer_package_count>
     <beer_bundle>1</beer_bundle>
     <bundle_skus>4744499,4589206,6263928,6227368</bundle_skus>
-    <untappd_id>970</untappd_id>
   </item>
   <item>
     <id>971</id>
@@ -1046,7 +1023,6 @@
     <beer_package_count>3</beer_package_count>
     <beer_bundle>1</beer_bundle>
     <bundle_skus>6246517,2879668,6248503</bundle_skus>
-    <untappd_id>971</untappd_id>
   </item>
   <item>
     <id>972</id>
@@ -1068,7 +1044,6 @@
     <beer_package_count>3</beer_package_count>
     <beer_bundle>1</beer_bundle>
     <bundle_skus>3705572,6228732,6229806</bundle_skus>
-    <untappd_id>972</untappd_id>
   </item>
   <item>
     <id>973</id>
@@ -1089,7 +1064,6 @@
     <beer_package_count>3</beer_package_count>
     <beer_bundle>1</beer_bundle>
     <bundle_skus>6214473,6259353,6231627</bundle_skus>
-    <untappd_id>973</untappd_id>
   </item>
   <item>
     <id>974</id>
@@ -1110,7 +1084,6 @@
     <beer_package_count>3</beer_package_count>
     <beer_bundle>1</beer_bundle>
     <bundle_skus>6205485,6166277,6205488</bundle_skus>
-    <untappd_id>974</untappd_id>
   </item>
   <item>
     <id>975</id>
@@ -1130,7 +1103,6 @@
     <beer_package_count>3</beer_package_count>
     <beer_bundle>1</beer_bundle>
     <bundle_skus>6242680,6242674,6257025</bundle_skus>
-    <untappd_id>975</untappd_id>
   </item>
   <item>
     <id>976</id>
@@ -1151,7 +1123,6 @@
     <beer_package_count>3</beer_package_count>
     <beer_bundle>1</beer_bundle>
     <bundle_skus>3708746,1954247,2977936</bundle_skus>
-    <untappd_id>976</untappd_id>
   </item>
   <item>
     <id>977</id>
@@ -1171,7 +1142,6 @@
     <beer_package_count>3</beer_package_count>
     <beer_bundle>1</beer_bundle>
     <bundle_skus>6241284,6237648,6231524</bundle_skus>
-    <untappd_id>977</untappd_id>
   </item>
   <item>
     <id>6500739</id>
@@ -2682,7 +2652,6 @@
     <beer_package_count>3</beer_package_count>
     <beer_bundle>1</beer_bundle>
     <bundle_skus>6117115,5995080,5847902</bundle_skus>
-    <untappd_id>981</untappd_id>
   </item>
   <item>
     <id>982</id>
@@ -2703,7 +2672,6 @@
     <beer_package_count>3</beer_package_count>
     <beer_bundle>1</beer_bundle>
     <bundle_skus>6181312,5980860,5002537</bundle_skus>
-    <untappd_id>982</untappd_id>
   </item>
   <item>
     <id>983</id>
@@ -2724,7 +2692,6 @@
     <beer_package_count>4</beer_package_count>
     <beer_bundle>1</beer_bundle>
     <bundle_skus>6205524,6208805,4033335,4570140</bundle_skus>
-    <untappd_id>983</untappd_id>
   </item>
   <item>
     <id>6406320</id>
@@ -6528,6 +6495,6 @@
     <date_canned>2025-03-27</date_canned>
     <untappd_id>593083</untappd_id>
   </item>
-  <timestamp>1770105605</timestamp>
-  <gen_date>03/02/2026 09:00:05</gen_date>
+  <timestamp>1770201006</timestamp>
+  <gen_date>04/02/2026 11:30:06</gen_date>
 </feed>
