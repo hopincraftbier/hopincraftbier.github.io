@@ -5,6 +5,38 @@
   <link>https://hopincraftbier.be/products&lt;/link&gt;</link>
   <description>Hop In Craftbier Products feed</description>
   <item>
+    <id>6488494</id>
+    <ecommerce_id>814427570</ecommerce_id>
+    <title>MAZOUT - Speyside Barrel Aged [2025]</title>
+    <url>https://hopincraftbier.be/products/hoppy-road-mazout-speyside-barrel-aged-2025</url>
+    <brewery_name>Hoppy Road</brewery_name>
+    <price>7.43</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/814427570/5568713514.png</image>
+    <beer_description>After 29 months of aging in oak barrels, this second iteration of Mazout Speyside is both indulgent and complex. From the outset, it offers pastry notes of dark chocolate, cocoa powder, and toffee, supported and tempered by fruity notes emblematic of the whisky from this region, as well as a subtle salinity. A truly long and enjoyable tasting experience. Hoppy Road - MAZOUT - Speyside Barrel Aged [2025]</beer_description>
+    <beer_style>Stout - Russian Imperial</beer_style>
+    <beer_abv>16%</beer_abv>
+    <beer_volume>330 ml</beer_volume>
+    <beer_package>bottle</beer_package>
+    <brewery_country>France</brewery_country>
+    <untappd_id>6488494</untappd_id>
+  </item>
+  <item>
+    <id>6318094</id>
+    <ecommerce_id>814428562</ecommerce_id>
+    <title>Vuurboetmeester 205 – Brandy Barrel Aged Barleywine</title>
+    <url>https://hopincraftbier.be/products/bierbrouwerij-de-magistraat-vuurboetmeester-205-brandy-barrel-aged-barleywine</url>
+    <brewery_name>Bierbrouwerij De Magistraat</brewery_name>
+    <price>8.42</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/814428562/5568710324.png</image>
+    <beer_description>Our Vuurboeter Barleywine has been aged for 12 months in brandy barrels. The beer has aromas reminiscent of grapes and wine, with a subtle vanilla undertone from the oak. The sweetness of the malt balances beautifully with the fruity notes of the brandy. Bierbrouwerij De Magistraat - Vuurboetmeester 205 Brandy Barrel Aged Barleywine</beer_description>
+    <beer_style>Barleywine - Other</beer_style>
+    <beer_abv>12.5%</beer_abv>
+    <beer_volume>330 ml</beer_volume>
+    <beer_package>bottle</beer_package>
+    <brewery_country>The Netherlands</brewery_country>
+    <untappd_id>6318094</untappd_id>
+  </item>
+  <item>
     <id>939</id>
     <ecommerce_id>811899518</ecommerce_id>
     <title>Prizm Brewing Co. Pack</title>
@@ -6491,6 +6523,6 @@
     <date_canned>2025-03-27</date_canned>
     <untappd_id>593083</untappd_id>
   </item>
-  <timestamp>1770298208</timestamp>
-  <gen_date>05/02/2026 14:30:08</gen_date>
+  <timestamp>1770304087</timestamp>
+  <gen_date>05/02/2026 16:08:07</gen_date>
 </feed>
