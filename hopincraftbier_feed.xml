@@ -2941,23 +2941,6 @@
     <untappd_id>6384345</untappd_id>
   </item>
   <item>
-    <id>6384339</id>
-    <ecommerce_id>779031980</ecommerce_id>
-    <title>Polyghost</title>
-    <url>https://hopincraftbier.be/products/norm-brewing-polyghost</url>
-    <brewery_name>Norm Brewing</brewery_name>
-    <price>6.41</price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5500059485.png</image>
-    <beer_description>Here is the third and last birthday collab with the one and only Ophiussa Brewing ! After 2 collabs at his place, the wonderful Setubal, and several meetings with Daniel, one of the nicest guys we met in the beer industry, it was time to get a return collab ! We decided to brew the “biggest” beer of these 3 releases and show you one more time our shared passion for saturated and hazy beer. Polyghost is a Triple New England IPA bursting at 9,2% and saturated with Nectaron, Citra, CRYO Citra, Strata and GCX Strata… This TIPA will let shine wonderful pineapple and peach flavors, citrus-like notes followed by very dank flavors, strawberry, melon and some funky bubblegum. Hops : Nectaron, Citra, CRYO Citra, Strata &amp; GCX Strata Norm Brewing - Polyghost</beer_description>
-    <beer_style>IPA - Triple New England / Hazy</beer_style>
-    <beer_abv>9.2%</beer_abv>
-    <beer_volume>440 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Belgium</brewery_country>
-    <date_best_before>05/2026</date_best_before>
-    <untappd_id>6384339</untappd_id>
-  </item>
-  <item>
     <id>6375119</id>
     <ecommerce_id>779012801</ecommerce_id>
     <title>Roulez Jeunesse</title>
@@ -6046,24 +6029,6 @@
     <untappd_id>6121868</untappd_id>
   </item>
   <item>
-    <id>6121304</id>
-    <ecommerce_id>738467401</ecommerce_id>
-    <title>Another Marshmallow Ale</title>
-    <url>https://hopincraftbier.be/products/omnipollo-another-marshmallow-ale</url>
-    <brewery_name>Omnipollo</brewery_name>
-    <price>6.41</price>
-    <regular_price>8.54</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4842121026.png</image>
-    <beer_description>A hoppy ale brewed with Citra, Nelson, Riwaka, Motueka and hundreds of hand cut Ugandan vanilla beans. -</beer_description>
-    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
-    <beer_abv>8.3%</beer_abv>
-    <beer_volume>440 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Sweden</brewery_country>
-    <date_best_before>2026-01-03</date_best_before>
-    <untappd_id>6121304</untappd_id>
-  </item>
-  <item>
     <id>6150230</id>
     <ecommerce_id>738467815</ecommerce_id>
     <title>Kurg (Cellar Series)</title>
@@ -6505,24 +6470,6 @@
     <date_canned>2025-03-18</date_canned>
     <untappd_id>3898085</untappd_id>
   </item>
-  <item>
-    <id>593083</id>
-    <ecommerce_id>734051348</ecommerce_id>
-    <title>Ghost In the Machine (2025)</title>
-    <url>https://hopincraftbier.be/products/parish-brewing-co-ghost-in-the-machine-2025</url>
-    <brewery_name>Parish Brewing Co.</brewery_name>
-    <price>7.44</price>
-    <regular_price>9.92</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5484670076.png</image>
-    <beer_description>Welcome to the future. Our collective human consciousness, or Ghost in the Machine, has gained a tolerance for hops beyond what mankind has ever known before. This double India Pale Ale is the necessary outcome. Brewed with obscene quantities of hand-selected Citra hops from our favorite farm in Yakima Valley, WA. Expect pungent grapefruit aromas and flavors, tropical fruit, and less harsh bitterness than most DIPAs. -</beer_description>
-    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
-    <beer_abv>8%</beer_abv>
-    <beer_volume>473 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>United States</brewery_country>
-    <date_canned>2025-03-27</date_canned>
-    <untappd_id>593083</untappd_id>
-  </item>
-  <timestamp>1770304087</timestamp>
-  <gen_date>05/02/2026 16:08:07</gen_date>
+  <timestamp>1770325205</timestamp>
+  <gen_date>05/02/2026 22:00:05</gen_date>
 </feed>
