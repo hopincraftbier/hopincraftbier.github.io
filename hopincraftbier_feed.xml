@@ -110,6 +110,38 @@
     <untappd_id>6489634</untappd_id>
   </item>
   <item>
+    <id>6584852</id>
+    <ecommerce_id>810417877</ecommerce_id>
+    <title>Rocky Road (2026)</title>
+    <url>https://hopincraftbier.be/products/white-dog-brewery-rocky-road</url>
+    <brewery_name>White Dog Brewery</brewery_name>
+    <price>7.38</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/810417877/5532309609.png</image>
+    <beer_description>White Dog Brewery's Rocky Road is a tribute to the classic treat packed with chocolate, marshmallows, and nuts. With a robust 11% ABV, this is a true "liquid treat." It's a beer for those moments when you really want to indulge: rich, luxurious, and with a delightfully unique twist. This beer is a party in your glass. As soon as you pour it, the aromas of milk chocolate and soft vanilla greet you. The addition of lactose gives the beer a silky, almost syrupy texture. You'll taste a full base of roasted malts, complemented by the sweetness of marshmallows and a hint of almond and nutty notes.</beer_description>
+    <beer_style>Stout - Imperial / Pastry</beer_style>
+    <beer_abv>11%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>The Netherlands</brewery_country>
+    <untappd_id>6584852</untappd_id>
+  </item>
+  <item>
+    <id>6584854</id>
+    <ecommerce_id>810417875</ecommerce_id>
+    <title>Cookie &amp; Cream</title>
+    <url>https://hopincraftbier.be/products/white-dog-brewery-cookie--cream</url>
+    <brewery_name>White Dog Brewery</brewery_name>
+    <price>7.38</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/810417875/5532301240.png</image>
+    <beer_description>Brace yourself for a liquid dessert in a glass. This Imperial Pastry Stout from White Dog Brewery is a tribute to the ultimate guilty pleasure: cookies and cream. With a hefty 11% ABV, this isn't a beer to drink easily, but a true sipper for lovers of full, sweet flavors. A beer that's essentially a hug in a glass, but one with a serious kick! As soon as you pour the beer, you'll smell the unmistakable aroma of freshly baked chocolate chip cookies, vanilla extract, and a hint of roasted malt. An explosion of flavor. It's thick, syrupy, and silky smooth thanks to the added lactose. You'll taste dark chocolate, creamy vanilla, and a hint of coffee that balances the sweetness.</beer_description>
+    <beer_style>Stout - Imperial / Pastry</beer_style>
+    <beer_abv>11%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>The Netherlands</brewery_country>
+    <untappd_id>6584854</untappd_id>
+  </item>
+  <item>
     <id>5151349</id>
     <ecommerce_id>810376070</ecommerce_id>
     <title>Big Bourbon Barrel Aged Stout 2021</title>
@@ -6459,6 +6491,6 @@
     <date_canned>2025-03-27</date_canned>
     <untappd_id>593083</untappd_id>
   </item>
-  <timestamp>1770291005</timestamp>
-  <gen_date>05/02/2026 12:30:05</gen_date>
+  <timestamp>1770298208</timestamp>
+  <gen_date>05/02/2026 14:30:08</gen_date>
 </feed>
