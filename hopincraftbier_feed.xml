@@ -5784,24 +5784,6 @@
     <untappd_id>6149303</untappd_id>
   </item>
   <item>
-    <id>6202658</id>
-    <ecommerce_id>738803012</ecommerce_id>
-    <title>Ghost-Fu!</title>
-    <url>https://hopincraftbier.be/products/parish-brewing-co-ghost-fu</url>
-    <brewery_name>Parish Brewing Co.</brewery_name>
-    <price>8.21</price>
-    <regular_price>10.94</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5484692264.png</image>
-    <beer_description>If crafting hazy IPAs were martial arts, our latest collab with @NorthPark represents a twirling 360 drop kick. Presenting: Ghost-Fu! Over the years we’ve become good friends, hanging out at beer fests across the globe, and now we’ve finally teamed up with these IPA legends to brew a rad West Coast DIPA using some of the processes and procedures they do in San Diego! North Park’s Hop-Fu! is their quintessential West Coast IPA that we’ve used as a starting point for Ghost-Fu! Dosed heavily with Simcoe Dynaboost and dry-hopped with Citra, Mosaic, and Amarillo, it packs the familiar juicy punch of Ghost in the Machine but isn’t hazy and drinks smooth for a Double IPA. Hii-yah! - Parish Brewing Co. - Ghost-Fu!</beer_description>
-    <beer_style>IPA - Imperial / Double</beer_style>
-    <beer_abv>8%</beer_abv>
-    <beer_volume>473 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>United States</brewery_country>
-    <date_canned>2025-03-28</date_canned>
-    <untappd_id>6202658</untappd_id>
-  </item>
-  <item>
     <id>6204470</id>
     <ecommerce_id>738817001</ecommerce_id>
     <title>Faire Le Vide</title>
@@ -6477,6 +6459,6 @@
     <date_canned>2025-03-27</date_canned>
     <untappd_id>593083</untappd_id>
   </item>
-  <timestamp>1770290105</timestamp>
-  <gen_date>05/02/2026 12:15:05</gen_date>
+  <timestamp>1770291005</timestamp>
+  <gen_date>05/02/2026 12:30:05</gen_date>
 </feed>
