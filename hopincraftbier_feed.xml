@@ -4804,23 +4804,6 @@
     <untappd_id>6189005</untappd_id>
   </item>
   <item>
-    <id>6202929</id>
-    <ecommerce_id>752445653</ecommerce_id>
-    <title>Bearface Whisky BA - Too Much Bliss</title>
-    <url>https://hopincraftbier.be/products/blackout-brewing-bearface-whisky-ba-too-much-bliss</url>
-    <brewery_name>Blackout Brewing</brewery_name>
-    <price>10.17</price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4932418165.png</image>
-    <beer_description>Coffee and Dulce de Leche. Aged in Canadian Whisky barrels from Bearface Distillery. Brewed and cared for at Bere a la Cluj. Blackout Brewing - Bearface Whisky BA - Too Much Bliss</beer_description>
-    <beer_style>Stout - Imperial / Double Milk</beer_style>
-    <beer_abv>13%</beer_abv>
-    <beer_volume>330 ml</beer_volume>
-    <beer_package>bottle</beer_package>
-    <brewery_country>Romania</brewery_country>
-    <date_best_before>2026-12-30</date_best_before>
-    <untappd_id>6202929</untappd_id>
-  </item>
-  <item>
     <id>6263801</id>
     <ecommerce_id>752451307</ecommerce_id>
     <title>Memnu - Barton 1792 BA</title>
@@ -6555,6 +6538,6 @@
     <date_canned>2025-03-18</date_canned>
     <untappd_id>3898085</untappd_id>
   </item>
-  <timestamp>1770470001</timestamp>
-  <gen_date>07/02/2026 14:13:21</gen_date>
+  <timestamp>1770480906</timestamp>
+  <gen_date>07/02/2026 17:15:06</gen_date>
 </feed>
