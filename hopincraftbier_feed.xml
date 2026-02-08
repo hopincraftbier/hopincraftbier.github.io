@@ -5,6 +5,16 @@
   <link>https://hopincraftbier.be/products&lt;/link&gt;</link>
   <description>Hop In Craftbier Products feed</description>
   <item>
+    <id>14</id>
+    <ecommerce_id>815008781</ecommerce_id>
+    <title>Herbruikbare blikjes clip (4 blikjes)</title>
+    <url>https://hopincraftbier.be/products/herbruikbare-blikjes-clip-4-blikjes</url>
+    <brewery_name>Generic</brewery_name>
+    <price>0</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images-tmp/112251271/5574600682.png</image>
+    <beer_description>Free for orders over €75 (excluding shipping). Various colors available (see photo). Please indicate your preference in the comments section during checkout.</beer_description>
+  </item>
+  <item>
     <id>12</id>
     <ecommerce_id>814905658</ecommerce_id>
     <title>Hoppy People Quartet</title>
@@ -6538,6 +6548,6 @@
     <date_canned>2025-03-18</date_canned>
     <untappd_id>3898085</untappd_id>
   </item>
-  <timestamp>1770480906</timestamp>
-  <gen_date>07/02/2026 17:15:06</gen_date>
+  <timestamp>1770564354</timestamp>
+  <gen_date>08/02/2026 16:25:54</gen_date>
 </feed>
