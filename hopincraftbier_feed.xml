@@ -1871,22 +1871,6 @@
     <untappd_id>6447600</untappd_id>
   </item>
   <item>
-    <id>6447624</id>
-    <ecommerce_id>793081890</ecommerce_id>
-    <title>Parasomnia: Maple Syrup BA Blue Dream (2025, Blue Wax)</title>
-    <url>https://hopincraftbier.be/products/hop-hooligans-parasomnia-maple-syrup-ba-blue-dream-2025-blue-wax</url>
-    <brewery_name>Hop Hooligans</brewery_name>
-    <price>13.8</price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5326821492.png</image>
-    <beer_description>PARASOMNIA is a heavy one. We pushed it as high and thick as 44 plato, landing on a mesmerising 17% ABV, giving it more than one year to mellow out and enhance its aromatics on different barrels. A heavy sleeper, yet still whispering dark hymns through the darkness. MAPLE SYRUP BA BLUE DREAM 2025 - maybe the first time someone used terpenes in a stout? we didn't check. but the oily blueberry and herbal notes from the Abstrax Blue Dream blend marries perfectly with the slick maple sweetness and dark spices Water, Malted barley, Oat flakes, Dextrose, Maltodextrin, Hops, Terpenes, Potassium Metabisulfite, Yeast Hop Hooligans - Parasomnia: Maple Syrup BA Blue Dream (2025, Blue Wax)</beer_description>
-    <beer_style>Stout - Imperial / Double</beer_style>
-    <beer_abv>17%</beer_abv>
-    <beer_volume>375 ml</beer_volume>
-    <beer_package>bottle</beer_package>
-    <brewery_country>Romania</brewery_country>
-    <untappd_id>6447624</untappd_id>
-  </item>
-  <item>
     <id>6447614</id>
     <ecommerce_id>793081888</ecommerce_id>
     <title>Parasomnia: Red Wine BA Cinnamon (2025, Red Wax)</title>
@@ -6548,6 +6532,6 @@
     <date_canned>2025-03-18</date_canned>
     <untappd_id>3898085</untappd_id>
   </item>
-  <timestamp>1770565505</timestamp>
-  <gen_date>08/02/2026 16:45:05</gen_date>
+  <timestamp>1770570005</timestamp>
+  <gen_date>08/02/2026 18:00:05</gen_date>
 </feed>
