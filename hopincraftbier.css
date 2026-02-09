@@ -1,4 +1,4 @@
-/* HopInCraftbier custom css v3.59 */
+/* HopInCraftbier custom css v3.60 */
 #tile-product-details div.ins-tile__wrap {
     margin-top: 30px;
     min-width: 80%
@@ -528,6 +528,13 @@ div.ec-cart-step--address, div.ec-cart-step--delivery {
     }
 }
 div.ec-cart {
+    div.ec-cart__item {
+        background-color: #F5F5F5;
+        padding: 5px;
+        border-radius: 5px;
+        border: 1px solid lightgray;
+        margin-bottom: 10px !important;
+    }
     div.ec-cart__discount--focus div.ec-cart-discount-group {
         div.ec-cart-discount-group__coupon:before {
             content: 'Kortingscode / Coupon code';
