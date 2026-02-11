@@ -5859,24 +5859,6 @@
     <untappd_id>6127069</untappd_id>
   </item>
   <item>
-    <id>6149303</id>
-    <ecommerce_id>739494041</ecommerce_id>
-    <title>Shedding Skin</title>
-    <url>https://hopincraftbier.be/products/sudden-death-brewing-co-shedding-skin</url>
-    <brewery_name>Sudden Death Brewing Co.</brewery_name>
-    <price>5.06</price>
-    <regular_price>6.74</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4849832169.png</image>
-    <beer_description>Shedding Skin DDH India Pale Ale - 6,0% Bold, smooth, and flavourful, this hazy single was double dry hopped with Mosaic (DynaBoost, T-90), Chinook. Berries, kush, pine. - Sudden Death Brewing Co. - Shedding Skin</beer_description>
-    <beer_style>IPA - New England / Hazy</beer_style>
-    <beer_abv>6%</beer_abv>
-    <beer_volume>440 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Germany</brewery_country>
-    <date_best_before>2026-02-05</date_best_before>
-    <untappd_id>6149303</untappd_id>
-  </item>
-  <item>
     <id>6204470</id>
     <ecommerce_id>738817001</ecommerce_id>
     <title>Faire Le Vide</title>
@@ -6516,6 +6498,6 @@
     <date_canned>2025-03-18</date_canned>
     <untappd_id>3898085</untappd_id>
   </item>
-  <timestamp>1770755870</timestamp>
-  <gen_date>10/02/2026 21:37:50</gen_date>
+  <timestamp>1770799373</timestamp>
+  <gen_date>11/02/2026 09:42:53</gen_date>
 </feed>
