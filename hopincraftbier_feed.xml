@@ -7,7 +7,7 @@
   <item>
     <id>19</id>
     <ecommerce_id>816032762</ecommerce_id>
-    <title>Pair</title>
+    <title>Emporium Microbrasserie - Pair</title>
     <url>https://hopincraftbier.be/products/emporium-microbrasserie-pair</url>
     <brewery_name>Emporium Microbrasserie</brewery_name>
     <price>14.6</price>
@@ -27,7 +27,7 @@
   <item>
     <id>18</id>
     <ecommerce_id>816011852</ecommerce_id>
-    <title>Pair</title>
+    <title>Beak - Pair</title>
     <url>https://hopincraftbier.be/products/beak-pair</url>
     <brewery_name>Beak</brewery_name>
     <price>14.8</price>
@@ -48,7 +48,7 @@
   <item>
     <id>17</id>
     <ecommerce_id>816016081</ecommerce_id>
-    <title>Pair</title>
+    <title>Rivington Brewing Co - Pair</title>
     <url>https://hopincraftbier.be/products/rivington-brewing-co-pair</url>
     <brewery_name>Rivington Brewing Co</brewery_name>
     <price>14.23</price>
@@ -4327,7 +4327,7 @@
   <item>
     <id>988</id>
     <ecommerce_id>760124883</ecommerce_id>
-    <title>9 Years Anniversary Set</title>
+    <title>Moersleutel Craft Brewery - 9 Years Anniversary Set</title>
     <url>https://hopincraftbier.be/products/moersleutel-craft-brewery-9-years-anniversary-set</url>
     <brewery_name>Moersleutel Craft Brewery</brewery_name>
     <price>57.07</price>
@@ -6580,6 +6580,6 @@
     <date_canned>2025-03-18</date_canned>
     <untappd_id>3898085</untappd_id>
   </item>
-  <timestamp>1770903905</timestamp>
-  <gen_date>12/02/2026 14:45:05</gen_date>
+  <timestamp>1770911937</timestamp>
+  <gen_date>12/02/2026 16:58:57</gen_date>
 </feed>
