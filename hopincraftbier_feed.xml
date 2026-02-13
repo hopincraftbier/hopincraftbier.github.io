@@ -835,6 +835,22 @@
     <untappd_id>952</untappd_id>
   </item>
   <item>
+    <id>6526439</id>
+    <ecommerce_id>805323120</ecommerce_id>
+    <title>Lady Cupcake #10 (Cocoa Nibs, Vanilla &amp; Caramel)</title>
+    <url>https://hopincraftbier.be/products/factory-brewing-lady-cupcake-10-cocoa-nibs-vanilla--caramel</url>
+    <brewery_name>Factory Brewing</brewery_name>
+    <price>7.96</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5493045097.png</image>
+    <beer_description>An Imperial Pastry Stout with Cocoa Nibs, Vanilla Beans &amp; Caramel. 'Our tenth Lady Cupcake is treated with Ecuadorian cocoa nibs, vanilla beans from Madagascar, Papua New Guinea, and Uganda, as well as caramel.' Head Brewer Jirka Ordén Factory Brewing - Lady Cupcake #10 (Cocoa Nibs, Vanilla &amp; Caramel)</beer_description>
+    <beer_style>Stout - Imperial / Double Pastry</beer_style>
+    <beer_abv>12%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Finland</brewery_country>
+    <untappd_id>6526439</untappd_id>
+  </item>
+  <item>
     <id>954</id>
     <ecommerce_id>804802763</ecommerce_id>
     <title>Knotted Root Brewing Pair</title>
@@ -936,6 +952,72 @@
     <beer_package_count>4</beer_package_count>
     <beer_bundle>1</beer_bundle>
     <bundle_skus>6121788,6121787,6222118,6189849</bundle_skus>
+  </item>
+  <item>
+    <id>6574780</id>
+    <ecommerce_id>804689293</ecommerce_id>
+    <title>Eye Opener</title>
+    <url>https://hopincraftbier.be/products/factory-brewing-eye-opener</url>
+    <brewery_name>Factory Brewing</brewery_name>
+    <price>7.93</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/804689293/5532846239.png</image>
+    <beer_description>An Imperial Coffee Stout brewed with Two Flints Brewery and treated with coffee beans from Samples Coffee and Good Life Coffee. "We have used a lot of coffee in our Stouts and we have loved how different coffee beans can be. This Imperial Coffee Stout is brewed with coffee beans from Good Life Coffee and Samples Coffee." Head Brewer Jirka Ordén Factory Brewing - Eye Opener</beer_description>
+    <beer_style>Stout - Pastry</beer_style>
+    <beer_abv>12.0%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Finland</brewery_country>
+    <untappd_id>6574780</untappd_id>
+  </item>
+  <item>
+    <id>6574782</id>
+    <ecommerce_id>804683535</ecommerce_id>
+    <title>Perpetual Motion</title>
+    <url>https://hopincraftbier.be/products/factory-brewing-perpetual-motion</url>
+    <brewery_name>Factory Brewing</brewery_name>
+    <price>7.74</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/804683535/5532846245.png</image>
+    <beer_description>A Hazy TIPA With Motueka &amp; Nelson Sauvin hops. Brewed in collaboration with Arpus Brewery. "With our Latvian friends Ārpus we wanted to go big! We dry hopped this Triple Hazy IPA with Motueka and Nelson Sauvin. Expect loads of tropical fruits, lime, grapefruit, white wine and white pepper." Head Brewer Jirka Ordén Factory Brewing - Perpetual Motion</beer_description>
+    <beer_style>IPA - Triple New England / Hazy</beer_style>
+    <beer_abv>10.0%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Finland</brewery_country>
+    <untappd_id>6574782</untappd_id>
+  </item>
+  <item>
+    <id>6574797</id>
+    <ecommerce_id>804684039</ecommerce_id>
+    <title>Distant Closeness</title>
+    <url>https://hopincraftbier.be/products/factory-brewing-distant-closeness</url>
+    <brewery_name>Factory Brewing</brewery_name>
+    <price>7.1</price>
+    <regular_price>7.10</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/804684039/5532862016.png</image>
+    <beer_description>A Hazy IPA with Citra, NZ Cascade, and Southern Cross. "With BEAK from the UK we selected a beautiful hop combination of Citra, NZ Cascade, and Southern Cross to showcase the strong citrus aromas of each hop. Alongside the citrus, you can expect notes of dankness, mango, and other stone fruits, rounded out by a pleasant grassiness." Head Brewer Jirka Ordén Factory Brewing - Distant Closeness</beer_description>
+    <beer_style>IPA - New England / Hazy</beer_style>
+    <beer_abv>7.3%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Finland</brewery_country>
+    <untappd_id>6574797</untappd_id>
+  </item>
+  <item>
+    <id>6574785</id>
+    <ecommerce_id>804684775</ecommerce_id>
+    <title>Turbid Dreams</title>
+    <url>https://hopincraftbier.be/products/factory-brewing-turbid-dreams</url>
+    <brewery_name>Factory Brewing</brewery_name>
+    <price>7.4</price>
+    <regular_price>7.40</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/804684775/5532852927.png</image>
+    <beer_description>A Hazy DIPA with Nectaron &amp; Nelson Sauvin, Motueka &amp; Citra. "We are super excited to do this experiment with Track Brewing! We wanted to see how the same hops act in a Hazy IPA and a West Coast IPA. So Turbid Dreams is a Hazy DIPA with Nectaron &amp; Nelson Sauvin, Motueka &amp; Citra. It is hopped with the same varieties as its brother, Lucid Dreams. Be sure to try both beers!" Head Brewer Jirka Ordén Factory Brewing - Turbid Dreams</beer_description>
+    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
+    <beer_abv>8%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Finland</brewery_country>
+    <untappd_id>6574785</untappd_id>
   </item>
   <item>
     <id>6583059</id>
@@ -6619,6 +6701,6 @@
     <date_canned>2025-03-18</date_canned>
     <untappd_id>3898085</untappd_id>
   </item>
-  <timestamp>1770927305</timestamp>
-  <gen_date>12/02/2026 21:15:05</gen_date>
+  <timestamp>1770971002</timestamp>
+  <gen_date>13/02/2026 09:23:22</gen_date>
 </feed>
