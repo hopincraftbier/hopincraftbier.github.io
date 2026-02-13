@@ -5,6 +5,26 @@
   <link>https://hopincraftbier.be/products&lt;/link&gt;</link>
   <description>Hop In Craftbier Products feed</description>
   <item>
+    <id>20</id>
+    <ecommerce_id>816172034</ecommerce_id>
+    <title>Fauve - Quintet</title>
+    <url>https://hopincraftbier.be/products/fauve-quintet</url>
+    <brewery_name>Fauve</brewery_name>
+    <price>31.89</price>
+    <regular_price>37.52</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/816172034/5584351136.png</image>
+    <beer_description>The Fauve - Quintet contains: - Roulez Jeunesse - J'irai Où Tu Iras - Renaître De Ses Cendres - Chambre Noire - Révélateur D'Ombres</beer_description>
+    <beer_style>Stout - IPA</beer_style>
+    <beer_abv>6 - 12%</beer_abv>
+    <beer_volume>Mix</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>France</brewery_country>
+    <date_best_before>2026-04-03</date_best_before>
+    <beer_package_count>5</beer_package_count>
+    <beer_bundle>1</beer_bundle>
+    <bundle_skus>6375119,6343725,6292774,6314891,6314901</bundle_skus>
+  </item>
+  <item>
     <id>19</id>
     <ecommerce_id>816032762</ecommerce_id>
     <title>Emporium Microbrasserie - Pair</title>
@@ -6701,6 +6721,6 @@
     <date_canned>2025-03-18</date_canned>
     <untappd_id>3898085</untappd_id>
   </item>
-  <timestamp>1770977706</timestamp>
-  <gen_date>13/02/2026 11:15:06</gen_date>
+  <timestamp>1770979505</timestamp>
+  <gen_date>13/02/2026 11:45:05</gen_date>
 </feed>
