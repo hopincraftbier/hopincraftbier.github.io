@@ -844,7 +844,7 @@
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5493045097.png</image>
     <beer_description>An Imperial Pastry Stout with Cocoa Nibs, Vanilla Beans &amp; Caramel. 'Our tenth Lady Cupcake is treated with Ecuadorian cocoa nibs, vanilla beans from Madagascar, Papua New Guinea, and Uganda, as well as caramel.' Head Brewer Jirka Ordén Factory Brewing - Lady Cupcake #10 (Cocoa Nibs, Vanilla &amp; Caramel)</beer_description>
     <beer_style>Stout - Imperial / Double Pastry</beer_style>
-    <beer_abv>12%</beer_abv>
+    <beer_abv>12.0%</beer_abv>
     <beer_volume>440 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>Finland</brewery_country>
@@ -1013,7 +1013,7 @@
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/804684775/5532852927.png</image>
     <beer_description>A Hazy DIPA with Nectaron &amp; Nelson Sauvin, Motueka &amp; Citra. "We are super excited to do this experiment with Track Brewing! We wanted to see how the same hops act in a Hazy IPA and a West Coast IPA. So Turbid Dreams is a Hazy DIPA with Nectaron &amp; Nelson Sauvin, Motueka &amp; Citra. It is hopped with the same varieties as its brother, Lucid Dreams. Be sure to try both beers!" Head Brewer Jirka Ordén Factory Brewing - Turbid Dreams</beer_description>
     <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
-    <beer_abv>8%</beer_abv>
+    <beer_abv>8.0%</beer_abv>
     <beer_volume>440 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>Finland</brewery_country>
@@ -6701,6 +6701,6 @@
     <date_canned>2025-03-18</date_canned>
     <untappd_id>3898085</untappd_id>
   </item>
-  <timestamp>1770971002</timestamp>
-  <gen_date>13/02/2026 09:23:22</gen_date>
+  <timestamp>1770977706</timestamp>
+  <gen_date>13/02/2026 11:15:06</gen_date>
 </feed>
