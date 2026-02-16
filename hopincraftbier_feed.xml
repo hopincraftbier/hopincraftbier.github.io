@@ -2242,24 +2242,6 @@
     <untappd_id>6423029</untappd_id>
   </item>
   <item>
-    <id>3894150</id>
-    <ecommerce_id>790918083</ecommerce_id>
-    <title>Unconventional Tactics</title>
-    <url>https://hopincraftbier.be/products/verdant-brewing-co-unconventional-tactics</url>
-    <brewery_name>Verdant Brewing Co</brewery_name>
-    <price>7.39</price>
-    <regular_price>8,69</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5290681751.png</image>
-    <beer_description>It’s no secret that Nelson Sauvin is our favourite hop. No secret at all. To this end…here is the most 'Nelsony' beer we’ve ever attempted. We’ve added Nelson on top of Nelson, squeezed a bit more Nelson in, and then finished it off with some Nelson. Super smooth. Super light. Super Nelson. ⁣ Verdant Brewing Co - Unconventional Tactics</beer_description>
-    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
-    <beer_abv>8%</beer_abv>
-    <beer_volume>440 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>England</brewery_country>
-    <date_best_before>2026-02-13</date_best_before>
-    <untappd_id>3894150</untappd_id>
-  </item>
-  <item>
     <id>5605718</id>
     <ecommerce_id>790918084</ecommerce_id>
     <title>DUPOND</title>
@@ -3460,23 +3442,6 @@
     <untappd_id>6376660</untappd_id>
   </item>
   <item>
-    <id>6377695</id>
-    <ecommerce_id>778817582</ecommerce_id>
-    <title>TERNION</title>
-    <url>https://hopincraftbier.be/products/homes-brewery-ternion</url>
-    <brewery_name>HOMES Brewery</brewery_name>
-    <price>11.79</price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5243366171.webp</image>
-    <beer_description>brewed w/ cryo mosaic &amp; super sauvin (NZ), dry hopped w/ krush, nelson sauvin (NZ), and sabro HOMES Brewery - TERNION</beer_description>
-    <beer_style>IPA - Triple</beer_style>
-    <beer_abv>10%</beer_abv>
-    <beer_volume>473 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>United States</brewery_country>
-    <date_canned>2025-08-15</date_canned>
-    <untappd_id>6377695</untappd_id>
-  </item>
-  <item>
     <id>1831710</id>
     <ecommerce_id>778817581</ecommerce_id>
     <title>Sumi Ink (2025)</title>
@@ -4120,24 +4085,6 @@
     <untappd_id>6296412</untappd_id>
   </item>
   <item>
-    <id>4696593</id>
-    <ecommerce_id>767292177</ecommerce_id>
-    <title>Super Ultra Mega Classic</title>
-    <url>https://hopincraftbier.be/products/outer-range-brewing-co-super-ultra-mega-classic</url>
-    <brewery_name>Outer Range Brewing Co.</brewery_name>
-    <price>6.78</price>
-    <regular_price>7,98</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5243283818.webp</image>
-    <beer_description>Hops: Citra Cryo • El Dorado • Galaxy Tasting Notes: Honey Dew • Red Grapefruit • Blood Orange Outer Range Brewing Co. - Super Ultra Mega Classic</beer_description>
-    <beer_style>IPA - Triple New England / Hazy</beer_style>
-    <beer_abv>10.5%</beer_abv>
-    <beer_volume>440 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>France</brewery_country>
-    <date_best_before>2026-02-16</date_best_before>
-    <untappd_id>4696593</untappd_id>
-  </item>
-  <item>
     <id>4953869</id>
     <ecommerce_id>767289655</ecommerce_id>
     <title>Buck Yeah</title>
@@ -4624,24 +4571,6 @@
     <untappd_id>6240932</untappd_id>
   </item>
   <item>
-    <id>4744499</id>
-    <ecommerce_id>756989444</ecommerce_id>
-    <title>DDH Attitude</title>
-    <url>https://hopincraftbier.be/products/long-live-beerworks-ddh-attitude</url>
-    <brewery_name>Long Live Beerworks</brewery_name>
-    <price>7.92</price>
-    <regular_price>9.32</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5438433954.webp</image>
-    <beer_description>IPA double dry-hopped w/ Mosaic + Citra. 6% Long Live Beerworks - DDH Attitude</beer_description>
-    <beer_style>IPA - New England / Hazy</beer_style>
-    <beer_abv>6%</beer_abv>
-    <beer_volume>473 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>United States</brewery_country>
-    <date_canned>2025-05-15</date_canned>
-    <untappd_id>4744499</untappd_id>
-  </item>
-  <item>
     <id>2776624</id>
     <ecommerce_id>756989442</ecommerce_id>
     <title>Nuclear Option</title>
@@ -4692,24 +4621,6 @@
     <beer_package>can</beer_package>
     <brewery_country>Canada</brewery_country>
     <untappd_id>6263452</untappd_id>
-  </item>
-  <item>
-    <id>6263928</id>
-    <ecommerce_id>756995312</ecommerce_id>
-    <title>5 Lives</title>
-    <url>https://hopincraftbier.be/products/long-live-beerworks-5-lives</url>
-    <brewery_name>Long Live Beerworks</brewery_name>
-    <price>9.25</price>
-    <regular_price>10.88</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5438433972.webp</image>
-    <beer_description>A triple IPA, and the next edition to this year’s Anniversary Series! The blend of Emerald Spire, Vic Secret, Simcoe, Krush and Galaxy hops for this special release offers pithy notes of ripe mango, juicy grape and saturated citrus fruits. It’s bold in flavor, while still being super drinkable. Long Live Beerworks - 5 Lives</beer_description>
-    <beer_style>IPA - Triple</beer_style>
-    <beer_abv>10%</beer_abv>
-    <beer_volume>473 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>United States</brewery_country>
-    <date_canned>2025-05-14</date_canned>
-    <untappd_id>6263928</untappd_id>
   </item>
   <item>
     <id>6273097</id>
@@ -4985,23 +4896,6 @@
     <untappd_id>5699491</untappd_id>
   </item>
   <item>
-    <id>4486704</id>
-    <ecommerce_id>751537022</ecommerce_id>
-    <title>Tillage</title>
-    <url>https://hopincraftbier.be/products/the-drowned-lands-brewery-tillage</url>
-    <brewery_name>The Drowned Lands Brewery</brewery_name>
-    <price>7.85</price>
-    <regular_price>9.23</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4933369509.png</image>
-    <beer_description>This DIPA is brewed with pilsner malt, flaked oats, and an absurd amount of unmalted wheat. Hopped aggressively in the kettle with the favorites Citra and Mosaic. Then we double dry hopped this murky DIPA with almost all Nelson. We are tasting white grape juice, fresh Georgia peaches, and frothy cream. The Drowned Lands Brewery - Tillage</beer_description>
-    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
-    <beer_abv>8%</beer_abv>
-    <beer_volume>473 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>United States</brewery_country>
-    <untappd_id>4486704</untappd_id>
-  </item>
-  <item>
     <id>1954247</id>
     <ecommerce_id>751542771</ecommerce_id>
     <title>Vitamin Sea - Due North</title>
@@ -5018,23 +4912,6 @@
     <brewery_country>United States</brewery_country>
     <date_canned>2025-04-17</date_canned>
     <untappd_id>1954247</untappd_id>
-  </item>
-  <item>
-    <id>6242680</id>
-    <ecommerce_id>751542515</ecommerce_id>
-    <title>Be Kind, Rewind</title>
-    <url>https://hopincraftbier.be/products/tin-barn-brewing-be-kind-rewind</url>
-    <brewery_name>Tin Barn Brewing</brewery_name>
-    <price>10.17</price>
-    <regular_price>11.97</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5438330689.webp</image>
-    <beer_description>Because Beer is Better with Friends, Be Kind, Rewind is a collab with our Carolina friends Leah &amp; JT of @replaybrewing &amp; Carly &amp; Nick of @funguysbrewing . This Triple New England was hopped with Citra, Nectaron and HBC 638. We timed this release so that we could have it ready to pour along side our friends at @yah_brew_mountjoy 90’s inspired beer fest this weekend, Fresh Brews in Pennsylvania. . Tin Barn Brewing - Be Kind, Rewind</beer_description>
-    <beer_style>IPA - Triple New England / Hazy</beer_style>
-    <beer_abv>9.5%</beer_abv>
-    <beer_volume>473 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>United States</brewery_country>
-    <untappd_id>6242680</untappd_id>
   </item>
   <item>
     <id>3832900</id>
@@ -5089,23 +4966,6 @@
     <untappd_id>2977936</untappd_id>
   </item>
   <item>
-    <id>4400900</id>
-    <ecommerce_id>751529018</ecommerce_id>
-    <title>Terra Mosaic</title>
-    <url>https://hopincraftbier.be/products/the-drowned-lands-brewery-terra-mosaic</url>
-    <brewery_name>The Drowned Lands Brewery</brewery_name>
-    <price>8.43</price>
-    <regular_price>9.92</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4933369514.png</image>
-    <beer_description>Triple IPA brewed with pilsner malt, malted white wheat, flaked and malted oats. Hopped solely with Mosaic through the whirlpool and dry hop at the same rate as Terra Citra. We're tasting dank blueberries, drippy, overripe peach, spicy dried orange rind, papaya, mango, and a big ol' mouthful of zebra stripe gum. The Drowned Lands Brewery - Terra Mosaic</beer_description>
-    <beer_style>IPA - Triple New England / Hazy</beer_style>
-    <beer_abv>10.5%</beer_abv>
-    <beer_volume>473 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>United States</brewery_country>
-    <untappd_id>4400900</untappd_id>
-  </item>
-  <item>
     <id>3708746</id>
     <ecommerce_id>751543260</ecommerce_id>
     <title>Vitamin Sea - Double Spring</title>
@@ -5124,23 +4984,6 @@
     <untappd_id>3708746</untappd_id>
   </item>
   <item>
-    <id>6242674</id>
-    <ecommerce_id>751542512</ecommerce_id>
-    <title>Baby G.O.A.T.</title>
-    <url>https://hopincraftbier.be/products/tin-barn-brewing-baby-g-o-a-t</url>
-    <brewery_name>Tin Barn Brewing</brewery_name>
-    <price>9.59</price>
-    <regular_price>11.28</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5438339783.webp</image>
-    <beer_description>Introducing the newest in our Baby Animal Series - Baby G.O.A.T! This single New England IPA was hopped with Citra, Bru-1, and Motueka to create a juicy pineapple bomb that is the Greatest of All Time! Tin Barn Brewing - Baby G.O.A.T.</beer_description>
-    <beer_style>IPA - New England / Hazy</beer_style>
-    <beer_abv>7.2%</beer_abv>
-    <beer_volume>473 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>United States</brewery_country>
-    <untappd_id>6242674</untappd_id>
-  </item>
-  <item>
     <id>5965255</id>
     <ecommerce_id>751537018</ecommerce_id>
     <title>Heavenly Blis</title>
@@ -5155,23 +4998,6 @@
     <beer_package>bottle</beer_package>
     <brewery_country>United States</brewery_country>
     <untappd_id>5965255</untappd_id>
-  </item>
-  <item>
-    <id>6257025</id>
-    <ecommerce_id>751529280</ecommerce_id>
-    <title>Mosaic Monster</title>
-    <url>https://hopincraftbier.be/products/tin-barn-brewing-mosaic-monster</url>
-    <brewery_name>Tin Barn Brewing</brewery_name>
-    <price>9.88</price>
-    <regular_price>11.62</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5438339789.webp</image>
-    <beer_description>This hazy beast of a Double New England IPA is double dry-hopped with an unruly dose of Mosaic and Citra. This juicy titan unleashes an explosive bouquet of mango, candied orange peel, and dank tropical haze to tame the monster within. It’s dangerously drinkable — unleash with caution. Tin Barn Brewing - Mosaic Monster</beer_description>
-    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
-    <beer_abv>8.4%</beer_abv>
-    <beer_volume>473 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>United States</brewery_country>
-    <untappd_id>6257025</untappd_id>
   </item>
   <item>
     <id>3736086</id>
@@ -5191,23 +5017,6 @@
     <untappd_id>3736086</untappd_id>
   </item>
   <item>
-    <id>6231524</id>
-    <ecommerce_id>751542511</ecommerce_id>
-    <title>Patron</title>
-    <url>https://hopincraftbier.be/products/nano-cinco-patron</url>
-    <brewery_name>Nano Cinco</brewery_name>
-    <price>9.88</price>
-    <regular_price>11.62</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5438330705.webp</image>
-    <beer_description>Here's our latest triple NEIPA, intensely hopped with Nectaron, Nelson Sauvin Cryo, Nelson Sauvin Subzero Hop Kief, and Citra cultivars. A tropical explosion with notes of passion fruit, ripe nectarine, and a hint of Sauvignon Blanc. All carried by a silky texture and a refreshing finish that leaves you wanting more despite its high ABV. Nano Cinco - Patron</beer_description>
-    <beer_style>IPA - Triple New England / Hazy</beer_style>
-    <beer_abv>9.6%</beer_abv>
-    <beer_volume>473 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Canada</brewery_country>
-    <untappd_id>6231524</untappd_id>
-  </item>
-  <item>
     <id>6221131</id>
     <ecommerce_id>751542770</ecommerce_id>
     <title>Kung Fu Time Bomb</title>
@@ -5224,58 +5033,6 @@
     <brewery_country>United States</brewery_country>
     <date_canned>2025-04-09</date_canned>
     <untappd_id>6221131</untappd_id>
-  </item>
-  <item>
-    <id>6237648</id>
-    <ecommerce_id>751542768</ecommerce_id>
-    <title>Bain D'agrumes</title>
-    <url>https://hopincraftbier.be/products/nano-cinco-bain-dagrumes</url>
-    <brewery_name>Nano Cinco</brewery_name>
-    <price>8.25</price>
-    <regular_price>9.70</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5438334691.webp</image>
-    <beer_description>Citrus Bath is a New England IPA in which we've taken the Citra experience to the next level: Citra T90 pellets (Coleman Agriculture), Citra Dynaboost (Yakima Chief) hot, and Citra Spectrum (John I. Haas) cold. And for even more zing, we added bitter orange peel and blood orange slices during the hot brewing process. The result? An ultra-juicy citrus explosion, with vibrant notes of lemon, grapefruit, and especially explosive orange notes. A true hoppy orange juice! Nano Cinco - Bain D'agrumes</beer_description>
-    <beer_style>IPA - New England / Hazy</beer_style>
-    <beer_abv>6.8%</beer_abv>
-    <beer_volume>473 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Canada</brewery_country>
-    <untappd_id>6237648</untappd_id>
-  </item>
-  <item>
-    <id>6241284</id>
-    <ecommerce_id>751529015</ecommerce_id>
-    <title>Cinco</title>
-    <url>https://hopincraftbier.be/products/nano-cinco-cinco</url>
-    <brewery_name>Nano Cinco</brewery_name>
-    <price>9.3</price>
-    <regular_price>10.94</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5438334697.webp</image>
-    <beer_description>Cinco is a Double New England IPA hopped with Nelson Sauvin, HBC 1019, and Peacharine. It offers a silky body and an explosion of aromas of peach, nectarine, and ripe stone fruit. Cinco isn't just the name of the beer; it's also the name of Mathieu's dog, the brewmaster and co-founder of the brewery. It was Cinco who inspired the brewery's name almost 10 years ago, when we were just a group of friends brewing beer for fun in Mathieu's apartment. A name that stuck! A loyal, curious companion who was always underfoot during brewing. Nano Cinco - Cinco</beer_description>
-    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
-    <beer_abv>8.2%</beer_abv>
-    <beer_volume>473 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Canada</brewery_country>
-    <untappd_id>6241284</untappd_id>
-  </item>
-  <item>
-    <id>6204619</id>
-    <ecommerce_id>751543259</ecommerce_id>
-    <title>Prickle Kitty</title>
-    <url>https://hopincraftbier.be/products/willibald-farm-brewery-prickle-kitty</url>
-    <brewery_name>Willibald Farm Brewery</brewery_name>
-    <price>9.01</price>
-    <regular_price>10.60</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4933243774.png</image>
-    <beer_description>Double IPA with Simcoe, Sabro, and El Dorado. Willibald Farm Brewery - Prickle Kitty</beer_description>
-    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
-    <beer_abv>8.3%</beer_abv>
-    <beer_volume>473 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Canada</brewery_country>
-    <date_canned>D1625</date_canned>
-    <untappd_id>6204619</untappd_id>
   </item>
   <item>
     <id>6092135</id>
@@ -5607,57 +5364,6 @@
     <untappd_id>6259353</untappd_id>
   </item>
   <item>
-    <id>6067723</id>
-    <ecommerce_id>751529012</ecommerce_id>
-    <title>NZ GOLD</title>
-    <url>https://hopincraftbier.be/products/brewskey-nz-gold</url>
-    <brewery_name>BreWskey</brewery_name>
-    <price>9.88</price>
-    <regular_price>11.62</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4929378989.png</image>
-    <beer_description>TIPA collab Freestyle Hops x Eggers Hops x NZ Hops. Eggers Nelson Sauvin, Eggers Rakau, NZ Rakau, NZ Superdelic, Freestyle Motueka, Freestyle Motueka Hop Kief BreWskey - NZ GOLD</beer_description>
-    <beer_style>IPA - Triple New England / Hazy</beer_style>
-    <beer_abv>10%</beer_abv>
-    <beer_volume>473 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Canada</brewery_country>
-    <untappd_id>6067723</untappd_id>
-  </item>
-  <item>
-    <id>2879668</id>
-    <ecommerce_id>751542506</ecommerce_id>
-    <title>Straight Outta The Laboratory</title>
-    <url>https://hopincraftbier.be/products/equilibrium-brewery-straight-outta-the-laboratory</url>
-    <brewery_name>Equilibrium Brewery</brewery_name>
-    <price>9.88</price>
-    <regular_price>11.62</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5438371451.webp</image>
-    <beer_description>We love science and we have been feverishly working in the lab to bring you our most recent achievements. We started with the Straight Outta Middletown grain bill, supersized the citra portion, applied our latest and greatest technology (think of the EQ juice in raining belma and last batch of MC²) and ended up with January Fluctuation on steroids with the most amount of EQ juice to date. Straight Outta The Laboratory pours a hazy bright tangerine and has aromas of freshly squeezed citrus, lime, grapefruit, and a tropical character that makes actual tropical fruit green with envy. The flavor is explosive with notes of bright tropical orange juice, mango smoothie, and dank grass. It’s resinous and chewy with an escalating brightness and a just a touch of residual sweetness balanced by a soft bitterness. We are particularly proud of this beer as it’s the culmination of months and months of hard work (since January Fluctuation). Equilibrium Brewery - Straight Outta The Laboratory</beer_description>
-    <beer_style>IPA - Triple</beer_style>
-    <beer_abv>10.2%</beer_abv>
-    <beer_volume>473 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>United States</brewery_country>
-    <untappd_id>2879668</untappd_id>
-  </item>
-  <item>
-    <id>5787651</id>
-    <ecommerce_id>751542763</ecommerce_id>
-    <title>INVOCATION</title>
-    <url>https://hopincraftbier.be/products/brewskey-invocation</url>
-    <brewery_name>BreWskey</brewery_name>
-    <price>9.3</price>
-    <regular_price>10.94</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4929385509.png</image>
-    <beer_description>DIPA Citra, Nelson Sauvin, Simcoe BreWskey - INVOCATION</beer_description>
-    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
-    <beer_abv>8.2%</beer_abv>
-    <beer_volume>473 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Canada</brewery_country>
-    <untappd_id>5787651</untappd_id>
-  </item>
-  <item>
     <id>6246517</id>
     <ecommerce_id>751537016</ecommerce_id>
     <title>MC3PO</title>
@@ -5708,23 +5414,6 @@
     <brewery_country>Canada</brewery_country>
     <date_best_before>2026-04-11</date_best_before>
     <untappd_id>6229806</untappd_id>
-  </item>
-  <item>
-    <id>6047751</id>
-    <ecommerce_id>751529009</ecommerce_id>
-    <title>Strange Philosophies 112</title>
-    <url>https://hopincraftbier.be/products/mortalis-brewing-company-strange-philosophies-112</url>
-    <brewery_name>Mortalis Brewing Company</brewery_name>
-    <price>10.46</price>
-    <regular_price>12.31</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4932639791.png</image>
-    <beer_description>This Double IPA is part of our exploration series. Too often, we become complacent and forget to push the boundaries and search the unending hop combinations to find a stroke of genius. Time to get back to class! This version features Freestyle Nelson and Freestyle Nelson Subzero Hop Kief. Cheers! Mortalis Brewing Company - Strange Philosophies 112</beer_description>
-    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
-    <beer_abv>8%</beer_abv>
-    <beer_volume>473 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>United States</brewery_country>
-    <untappd_id>6047751</untappd_id>
   </item>
   <item>
     <id>6231627</id>
@@ -6686,6 +6375,6 @@
     <date_canned>2025-03-18</date_canned>
     <untappd_id>3898085</untappd_id>
   </item>
-  <timestamp>1771245006</timestamp>
-  <gen_date>16/02/2026 13:30:06</gen_date>
+  <timestamp>1771257146</timestamp>
+  <gen_date>16/02/2026 16:52:26</gen_date>
 </feed>
