@@ -303,6 +303,57 @@
     <untappd_id>3872382</untappd_id>
   </item>
   <item>
+    <id>6446971</id>
+    <ecommerce_id>809704604</ecommerce_id>
+    <title>DOUBLE PASSION</title>
+    <url>https://hopincraftbier.be/products/hopalaa-double-passion</url>
+    <brewery_name>Hopalaa</brewery_name>
+    <price>5.86</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/809704604/5526711671.png</image>
+    <beer_description>DOUBLE PASSION - QDH DIPA. Nelson Sauvin and Citra hops /// IBU - 25 /// EBC - 9 /// ABV - 8.2 Hopalaa - DOUBLE PASSION</beer_description>
+    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
+    <beer_abv>8.2%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Latvia</brewery_country>
+    <date_best_before>2026-11-15</date_best_before>
+    <untappd_id>6446971</untappd_id>
+  </item>
+  <item>
+    <id>6527510</id>
+    <ecommerce_id>809698341</ecommerce_id>
+    <title>TURBULENCE</title>
+    <url>https://hopincraftbier.be/products/hopalaa-turbulence</url>
+    <brewery_name>Hopalaa</brewery_name>
+    <price>5.67</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/809698341/5526711732.png</image>
+    <beer_description>TURBULENCE - HAZY DIPA. Elani and Citra Lupomax hops. /// IBU - 30 /// EBC - 11 /// ABV - 8.0 Hopalaa - TURBULENCE</beer_description>
+    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
+    <beer_abv>8%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Latvia</brewery_country>
+    <date_best_before>2027-01-15</date_best_before>
+    <untappd_id>6527510</untappd_id>
+  </item>
+  <item>
+    <id>6560695</id>
+    <ecommerce_id>809704603</ecommerce_id>
+    <title>JUNGALAA</title>
+    <url>https://hopincraftbier.be/products/hopalaa-jungalaa</url>
+    <brewery_name>Hopalaa</brewery_name>
+    <price>5.83</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/809704603/5526711919.png</image>
+    <beer_description>JUNGALAA - DIPA. Riwaka, Mosaic, Motueka hops /// IBU - 28 /// EBC - 10 /// ABV - 8.0 Hopalaa - JUNGALAA</beer_description>
+    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
+    <beer_abv>8%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Latvia</brewery_country>
+    <date_best_before>2027-01-15</date_best_before>
+    <untappd_id>6560695</untappd_id>
+  </item>
+  <item>
     <id>6513775</id>
     <ecommerce_id>809097842</ecommerce_id>
     <title>Don Jefe</title>
@@ -6697,6 +6748,6 @@
     <date_canned>2025-03-18</date_canned>
     <untappd_id>3898085</untappd_id>
   </item>
-  <timestamp>1771264805</timestamp>
-  <gen_date>16/02/2026 19:00:05</gen_date>
+  <timestamp>1771266057</timestamp>
+  <gen_date>16/02/2026 19:20:57</gen_date>
 </feed>
