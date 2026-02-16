@@ -1,4 +1,4 @@
-const version = 'v6.46';
+const version = 'v6.47';
 const txtNl1 = '<div class="dtooltip"><p class="hover question">Kortingscoupon</p><p class="dtooltiptext">Afhankelijk van de gekozen betaling en levering, kunt u een kortingscoupon krijgen die te gebruiken is bij een volgende bestelling. Voor dit bier ziet u de bedragen in deze tabel</p></div><table class="discount-table"><thead><tr class="first_header"><th></th><th colspan="2">Manier van levering</th></tr><tr><th>Manier van betaling</th><th>Afhaling</th><th>Levering</th></tr></thead><tbody><tr><td class="header">Betalen bij afhaling</td><td>€ ';
 const txtNl2 = '</td><td> - </td></tr><tr><td class="header">Overschrijving</td><td>€ ';
 const txtNl3 = '</td><td>€ ';
@@ -603,9 +603,9 @@ function addDeliveryInfoLink() {
     if (cartSidebar) {
         const lngTxt = getCustomerLng();
         if ('EN' === lngTxt) {
-            cartSidebar.lastElementChild.insertAdjacentHTML('beforeend', '<div id="deliveryInfoSidebar"><span>View the <a class="ec-link" target="_blank" href="/delivery-info#feature-list-fjNnsD-FLT23">delivery information</a></span></div>');
+            cartSidebar.insertAdjacentHTML('beforeend', '<div id="deliveryInfoSidebar"><span>View the <a class="ec-link" target="_blank" href="/delivery-info#feature-list-fjNnsD-FLT23">delivery information</a></span></div>');
         } else {
-            cartSidebar.lastElementChild.insertAdjacentHTML('beforeend', '<div id="deliveryInfoSidebar"><span>Bekijk de <a class="ec-link" target="_blank" href="/delivery-info#feature-list-fjNnsD-FLT23">leveringsinformatie</a></span></div>');
+            cartSidebar.insertAdjacentHTML('beforeend', '<div id="deliveryInfoSidebar"><span>Bekijk de <a class="ec-link" target="_blank" href="/delivery-info#feature-list-fjNnsD-FLT23">leveringsinformatie</a></span></div>');
         }
     }
 }
