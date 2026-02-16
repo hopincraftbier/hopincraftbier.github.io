@@ -530,9 +530,8 @@ div.ec-cart-step--address, div.ec-cart-step--delivery {
 div.ec-cart {
     div.ec-cart__item {
         background-color: #F5F5F5;
-        padding: 5px;
+        padding-right: 5px;
         border-radius: 5px;
-        border: 1px solid lightgray;
         margin-bottom: 10px !important;
         box-shadow: 5px 5px 15px 0 rgba(0, 0, 0, 0.1);
     }
