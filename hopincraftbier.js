@@ -1,4 +1,4 @@
-const version = 'v6.39';
+const version = 'v6.40';
 const txtNl1 = '<div class="dtooltip"><p class="hover question">Kortingscoupon</p><p class="dtooltiptext">Afhankelijk van de gekozen betaling en levering, kunt u een kortingscoupon krijgen die te gebruiken is bij een volgende bestelling. Voor dit bier ziet u de bedragen in deze tabel</p></div><table class="discount-table"><thead><tr class="first_header"><th></th><th colspan="2">Manier van levering</th></tr><tr><th>Manier van betaling</th><th>Afhaling</th><th>Levering</th></tr></thead><tbody><tr><td class="header">Betalen bij afhaling</td><td>€ ';
 const txtNl2 = '</td><td> - </td></tr><tr><td class="header">Overschrijving</td><td>€ ';
 const txtNl3 = '</td><td>€ ';
@@ -709,17 +709,23 @@ function removeCountries() {
 }
 
 function showDeliveryInfo(countryCode) {
+    let infoElement = document.querySelector('div#deliveryInfoSidebar div#deliveryInfo');
     if (!countryCode) {
-        const element = document.querySelector('div#deliveryInfoSidebar div#deliveryInfo');
         if (infoElement) {
             infoElement.remove();
+        } else {
+            return;
         }
-    } else if (countries.indexOf(countryCode) >= 0) {
+    }
+    if (countries.indexOf(countryCode) >= 0) {
         const element = document.querySelector('div#deliveryInfoSidebar');
         if (element) {
-            let infoElement = element.querySelector('div#deliveryInfo');
             if (infoElement) {
-                infoElement.remove();
+                if (infoElement.getAttribute("country") === countryCode) {
+                    return;
+                } else {
+                    infoElement.remove();
+                }
             }
             let minOrder = 1;
             let freeShip = 75;
@@ -730,9 +736,9 @@ function showDeliveryInfo(countryCode) {
             const lngTxt = getCustomerLng();
             if (countryCode === 'NL' || countries.indexOf(countryCode) < 0) {}
             if ('EN' === lngTxt) {
-                element.lastElementChild.insertAdjacentHTML('beforebegin', '<div id="deliveryInfo"><div>Minimum order: <span class="minOrder">€ ' + minOrder + '</span></div><div>Order over <span>€ ' + freeShip + '</span>: <span>Free</span> shipment</div></div>');
+                element.lastElementChild.insertAdjacentHTML('beforebegin', '<div id="deliveryInfo" country="' + countryCode + '"><div>Minimum order: <span class="minOrder">€ ' + minOrder + '</span></div><div>Order over <span>€ ' + freeShip + '</span>: <span>Free</span> shipment</div></div>');
             } else {
-                element.lastElementChild.insertAdjacentHTML('beforebegin', '<div id="deliveryInfo"><div>Minimum bestelling: <span class="minOrder">€ ' + minOrder + '</span></div><div>Bestelling boven <span>€ ' + freeShip + '</span>: <span>Gratis</span> levering</div></div>');
+                element.lastElementChild.insertAdjacentHTML('beforebegin', '<div id="deliveryInfo" country="' + countryCode + '><div>Minimum bestelling: <span class="minOrder">€ ' + minOrder + '</span></div><div>Bestelling boven <span>€ ' + freeShip + '</span>: <span>Gratis</span> levering</div></div>');
             }
         }
 
