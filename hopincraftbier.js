@@ -1,4 +1,4 @@
-const version = 'v6.47';
+const version = 'v6.48';
 const txtNl1 = '<div class="dtooltip"><p class="hover question">Kortingscoupon</p><p class="dtooltiptext">Afhankelijk van de gekozen betaling en levering, kunt u een kortingscoupon krijgen die te gebruiken is bij een volgende bestelling. Voor dit bier ziet u de bedragen in deze tabel</p></div><table class="discount-table"><thead><tr class="first_header"><th></th><th colspan="2">Manier van levering</th></tr><tr><th>Manier van betaling</th><th>Afhaling</th><th>Levering</th></tr></thead><tbody><tr><td class="header">Betalen bij afhaling</td><td>€ ';
 const txtNl2 = '</td><td> - </td></tr><tr><td class="header">Overschrijving</td><td>€ ';
 const txtNl3 = '</td><td>€ ';
@@ -59,8 +59,13 @@ Ecwid.OnPageLoaded.add(function(page){
     } else if (page.type === 'SITE') {
         processInfoPages();
 
-    } else if (page.type === 'CART' || page.type === 'CHECKOUT_ADDRESS' || page.type === 'CHECKOUT_DELIVERY' || page.type === 'CHECKOUT_ADDRESS_BOOK' || page.type === 'CHECKOUT_PAYMENT_DETAILS') {
+    } else if (page.type === 'CART' || page.type === 'CHECKOUT_DELIVERY' || page.type === 'CHECKOUT_ADDRESS_BOOK' || page.type === 'CHECKOUT_PAYMENT_DETAILS') {
         processCartPage();
+        showDeliveryInfo('');
+
+    } else if (page.type === 'CHECKOUT_ADDRESS') {
+        processCartPage();
+        removeCountries();
 
     } else if (page.type === 'FAVORITES') {
 
@@ -683,7 +688,6 @@ function processCartPage() {
         translateCheckoutNotice();
         addDeliveryInfoLink();
         showCouponBlock();
-        removeCountries();
     }
 }
 
@@ -716,7 +720,7 @@ function removeCountries() {
 
 function showDeliveryInfo(countryCode) {
     let infoElement = document.querySelector('div#deliveryInfoSidebar div#deliveryInfo');
-    if (!countryCode || countryCode === "") {
+    if (!countryCode || countryCode === '') {
         if (infoElement) {
             infoElement.remove();
         } else {
