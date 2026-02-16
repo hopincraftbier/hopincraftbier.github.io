@@ -98,7 +98,6 @@
     <price>0</price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/815008781/5574600682.png</image>
     <beer_description>Free for orders over €75 (excluding shipping). Various colors available (see photo). Please indicate your preference in the comments section during checkout.</beer_description>
-    <untappd_id>14</untappd_id>
   </item>
   <item>
     <id>6488494</id>
@@ -4207,7 +4206,7 @@
     <untappd_id>4367493</untappd_id>
   </item>
   <item>
-    <id>13</id>
+    <id>6341271</id>
     <ecommerce_id>767065955</ecommerce_id>
     <title>Ponder</title>
     <url>https://hopincraftbier.be/products/revenant-brewing-project-ponder</url>
@@ -4224,7 +4223,7 @@
     <untappd_id>6341271</untappd_id>
   </item>
   <item>
-    <id>11</id>
+    <id>6341269</id>
     <ecommerce_id>767062474</ecommerce_id>
     <title>Linger</title>
     <url>https://hopincraftbier.be/products/revenant-brewing-project-linger</url>
@@ -4241,7 +4240,7 @@
     <untappd_id>6341269</untappd_id>
   </item>
   <item>
-    <id>10</id>
+    <id>6341263</id>
     <ecommerce_id>767041052</ecommerce_id>
     <title>Weightless</title>
     <url>https://hopincraftbier.be/products/revenant-brewing-project-weightless</url>
@@ -6687,6 +6686,6 @@
     <date_canned>2025-03-18</date_canned>
     <untappd_id>3898085</untappd_id>
   </item>
-  <timestamp>1770997506</timestamp>
-  <gen_date>13/02/2026 16:45:06</gen_date>
+  <timestamp>1771245006</timestamp>
+  <gen_date>16/02/2026 13:30:06</gen_date>
 </feed>
