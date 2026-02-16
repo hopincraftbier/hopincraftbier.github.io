@@ -1,4 +1,4 @@
-const version = 'v6.49';
+const version = 'v6.50';
 const txtNl1 = '<div class="dtooltip"><p class="hover question">Kortingscoupon</p><p class="dtooltiptext">Afhankelijk van de gekozen betaling en levering, kunt u een kortingscoupon krijgen die te gebruiken is bij een volgende bestelling. Voor dit bier ziet u de bedragen in deze tabel</p></div><table class="discount-table"><thead><tr class="first_header"><th></th><th colspan="2">Manier van levering</th></tr><tr><th>Manier van betaling</th><th>Afhaling</th><th>Levering</th></tr></thead><tbody><tr><td class="header">Betalen bij afhaling</td><td>€ ';
 const txtNl2 = '</td><td> - </td></tr><tr><td class="header">Overschrijving</td><td>€ ';
 const txtNl3 = '</td><td>€ ';
@@ -741,22 +741,31 @@ function showDeliveryInfo(countryCode) {
             let minOrder = 1;
             let freeShip = 75;
             if (countryCode === 'PICKUP') {
-                minOrder = 0;
+                minOrder = 1;
                 freeShip = 0;
             } else if (countryCode !== 'NL' && countryCode !== 'BE') {
                 minOrder = 40;
                 freeShip = 200;
             }
+            const total = Number(document.querySelector('span.ec-cart-summary__total').textContent.split('(')[0].replace('€', '').trim());
+            let minColor = 'red';
+            if (total >= minOrder) {
+                minColor = 'green';
+            }
+            let freeColor = 'black';
+            if (total >= freeShip) {
+                freeColor = 'green';
+            }
             let newHtml = '<div id="deliveryInfo" country="' + countryCode + '">';
             if ('EN' === lngTxt) {
-                newHtml += '<div>Minimum order: <span>€ ' + minOrder + '</span></div>';
+                newHtml += '<div>Minimum order: <span style="color: ' + minColor + '">€ ' + minOrder + '</span></div>';
                 if (freeShip !== 0) {
-                    newHtml += '<div>Order over <span>€ ' + freeShip + '</span>: <span>Free</span> shipment</div>';
+                    newHtml += '<div>Order over <span style="color: ' + freeColor + '">€ ' + freeShip + '</span>: <span style="color: ' + freeColor + '">Free</span> shipment</div>';
                 }
             } else {
-                newHtml += '<div>Minimum bestelling: <span>€ ' + minOrder + '</span></div>';
+                newHtml += '<div>Minimum bestelling: <span style="color: ' + minColor + '">€ ' + minOrder + '</span></div>';
                 if (freeShip !== 0) {
-                    newHtml += '<div>Bestelling boven <span>€ ' + freeShip + '</span>: <span>Gratis</span> levering</div>';
+                    newHtml += '<div>Bestelling boven <span style="color: ' + freeColor + '">€ ' + freeShip + '</span>: <span style="color: ' + freeColor + '">Gratis</span> levering</div>';
                 }
             }
             newHtml += '</div>';
