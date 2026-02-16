@@ -690,6 +690,9 @@ function processCartPage() {
 function removeCountries() {
     if (prodMode) return;
     var selectElement = document.querySelector("div.form-control--type-country select");
+    if (selectElement && selectElement.selectedIndex >= 0) {
+        showDeliveryInfo(selectElement.options[selectElement.selectedIndex].value);
+    }
     if (selectElement && !selectElement.hasAttribute('listener')) {
         selectElement.addEventListener('change', function (e) {
             showDeliveryInfo(e.target.value);
@@ -706,8 +709,12 @@ function removeCountries() {
 }
 
 function showDeliveryInfo(countryCode) {
-    if (countries.indexOf(countryCode) >= 0) {
-        console.log(countryCode)
+    if (!countryCode) {
+        const element = document.querySelector('div#deliveryInfoSidebar div#deliveryInfo');
+        if (infoElement) {
+            infoElement.remove();
+        }
+    } else if (countries.indexOf(countryCode) >= 0) {
         const element = document.querySelector('div#deliveryInfoSidebar');
         if (element) {
             let infoElement = element.querySelector('div#deliveryInfo');
