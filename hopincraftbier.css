@@ -795,9 +795,9 @@ div.details-product-price-compare__container {
 }
 div#deliveryInfoSidebar {
     font-size: 14px;
-    border: 1px solid lightgray;
-    padding: 5px;
+    padding: 5px 5px 5px 10px;
     border-radius: 5px;
+    background-color: #E0E0E0;
     div#deliveryInfo span {
         font-weight: bold;
         font-size: 16px;
