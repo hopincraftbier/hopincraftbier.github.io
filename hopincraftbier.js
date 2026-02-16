@@ -1,4 +1,4 @@
-const version = 'v6.43';
+const version = 'v6.44';
 const txtNl1 = '<div class="dtooltip"><p class="hover question">Kortingscoupon</p><p class="dtooltiptext">Afhankelijk van de gekozen betaling en levering, kunt u een kortingscoupon krijgen die te gebruiken is bij een volgende bestelling. Voor dit bier ziet u de bedragen in deze tabel</p></div><table class="discount-table"><thead><tr class="first_header"><th></th><th colspan="2">Manier van levering</th></tr><tr><th>Manier van betaling</th><th>Afhaling</th><th>Levering</th></tr></thead><tbody><tr><td class="header">Betalen bij afhaling</td><td>€ ';
 const txtNl2 = '</td><td> - </td></tr><tr><td class="header">Overschrijving</td><td>€ ';
 const txtNl3 = '</td><td>€ ';
@@ -702,7 +702,11 @@ function removeCountries() {
         selectElement.setAttribute('listener', true);
         for (var i = 0; i < selectElement.length; i++) {
             var optionElement = selectElement.options[i];
-            if (!optionElement.hasAttribute('disabled') && optionElement.value && optionElement.value !== "" && countries.indexOf(optionElement.value) < 0) {
+            if (!optionElement.hasAttribute('disabled') &&
+                optionElement.value &&
+                optionElement.value !== '' &&
+                optionElement.value.length > 3 &&
+                countries.indexOf(optionElement.value) < 0) {
                 optionElement.setAttribute('disabled', true);
                 optionElement.style.display = 'none';
             }
