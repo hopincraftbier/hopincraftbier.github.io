@@ -794,8 +794,7 @@
     <date_best_before>2026-04-01</date_best_before>
     <beer_package_count>3</beer_package_count>
     <beer_bundle>1</beer_bundle>
-    <bundle_skus>10,11,13</bundle_skus>
-    <untappd_id>947</untappd_id>
+    <bundle_skus>6341263,6341269,6341271</bundle_skus>
   </item>
   <item>
     <id>948</id>
@@ -6748,6 +6747,6 @@
     <date_canned>2025-03-18</date_canned>
     <untappd_id>3898085</untappd_id>
   </item>
-  <timestamp>1771266057</timestamp>
-  <gen_date>16/02/2026 19:20:57</gen_date>
+  <timestamp>1771272011</timestamp>
+  <gen_date>16/02/2026 21:00:11</gen_date>
 </feed>
