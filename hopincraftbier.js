@@ -1,4 +1,4 @@
-const version = 'v6.37';
+const version = 'v6.38';
 const txtNl1 = '<div class="dtooltip"><p class="hover question">Kortingscoupon</p><p class="dtooltiptext">Afhankelijk van de gekozen betaling en levering, kunt u een kortingscoupon krijgen die te gebruiken is bij een volgende bestelling. Voor dit bier ziet u de bedragen in deze tabel</p></div><table class="discount-table"><thead><tr class="first_header"><th></th><th colspan="2">Manier van levering</th></tr><tr><th>Manier van betaling</th><th>Afhaling</th><th>Levering</th></tr></thead><tbody><tr><td class="header">Betalen bij afhaling</td><td>€ ';
 const txtNl2 = '</td><td> - </td></tr><tr><td class="header">Overschrijving</td><td>€ ';
 const txtNl3 = '</td><td>€ ';
@@ -10,6 +10,8 @@ const txtEn2 = '</td><td> - </td></tr><tr><td class="header">Money transfer</td>
 const txtEn3 = '</td><td>€ ';
 const txtEn4 = '</td></tr><tr><td class="header">Online payment</td><td>€ ';
 const txtEn5 = '</td><td>€ 0</td></tr></tbody></table></div>';
+
+const countries = ['BE','NL','FR','DE','LU','ES','FI','IT','DE','AT','LV','LT','EE','IE','PT','SE','PL','GR','RO','CZ','HU','HR'];
 
 let debug = false;
 let prodMode = true;
@@ -596,14 +598,14 @@ function showCouponBlock() {
 function addDeliveryInfoLink() {
     log('addDeliveryInfoLink');
 
-    const lngTxt = getCustomerLng();
     // show link to shipping cost in cart side banner
     const cartSidebar = document.querySelector('div.ec-cart__sidebar-inner:not(:has(div#deliveryInfoSidebar))');
     if (cartSidebar) {
+        const lngTxt = getCustomerLng();
         if ('EN' === lngTxt) {
-            cartSidebar.lastElementChild.insertAdjacentHTML('beforebegin', '<div id="deliveryInfoSidebar">View the <a class="ec-link" target="_blank" href="/delivery-info#feature-list-fjNnsD-FLT23">delivery information</a><br></div>');
+            cartSidebar.lastElementChild.insertAdjacentHTML('beforebegin', '<div id="deliveryInfoSidebar"><span>View the <a class="ec-link" target="_blank" href="/delivery-info#feature-list-fjNnsD-FLT23">delivery information</a></span></div>');
         } else {
-            cartSidebar.lastElementChild.insertAdjacentHTML('beforebegin', '<div id="deliveryInfoSidebar">Bekijk de <a class="ec-link" target="_blank" href="/delivery-info#feature-list-fjNnsD-FLT23">leveringsinformatie</a><br></div>');
+            cartSidebar.lastElementChild.insertAdjacentHTML('beforebegin', '<div id="deliveryInfoSidebar"><span>Bekijk de <a class="ec-link" target="_blank" href="/delivery-info#feature-list-fjNnsD-FLT23">leveringsinformatie</a></span></div>');
         }
     }
 }
@@ -681,6 +683,52 @@ function processCartPage() {
         translateCheckoutNotice();
         addDeliveryInfoLink();
         showCouponBlock();
+        removeCountries();
+    }
+}
+
+function removeCountries() {
+    if (prodMode) return;
+    var selectElement = document.querySelector("div.form-control--type-country select");
+    if (selectElement && !selectElement.hasAttribute('listener')) {
+        selectElement.addEventListener('change', function (e) {
+            showDeliveryInfo(e.target.value);
+        });
+        selectElement.setAttribute('listener', true);
+        for (var i = 0; i < selectElement.length; i++) {
+            var optionElement = selectElement.options[i];
+            if (!optionElement.hasAttribute('disabled') && countries.indexOf(optionElement.value) < 0) {
+                optionElement.setAttribute('disabled', true);
+                optionElement.style.display = 'none';
+            }
+        }
+    }
+}
+
+function showDeliveryInfo(countryCode) {
+    if (countries.indexOf(countryCode) >= 0) {
+        console.log(countryCode)
+        const element = document.querySelector('div#deliveryInfoSidebar');
+        if (element) {
+            let infoElement = element.querySelector('div#deliveryInfo');
+            if (infoElement) {
+                infoElement.remove();
+            }
+            let minOrder = 1;
+            let freeShip = 75;
+            if (countryCode !== 'NL' && countryCode !== 'BE') {
+                minOrder = 40;
+                freeShip = 200;
+            }
+            const lngTxt = getCustomerLng();
+            if (countryCode === 'NL' || countries.indexOf(countryCode) < 0) {}
+            if ('EN' === lngTxt) {
+                element.lastElementChild.insertAdjacentHTML('beforebegin', '<div id="deliveryInfo"><div>Minimum order: <span class="minOrder">€ ' + minOrder + '</span>.</div><div>Free shipment for orders over <span class="freeShip">€ ' + freeShip + '</span>.</div></div>');
+            } else {
+                element.lastElementChild.insertAdjacentHTML('beforebegin', '<div id="deliveryInfo"><div>Minimum bestelling <span class="minOrder">€ ' + minOrder + '</span>.</div><div>Gratis levering voor bestellingen boven <span class="freeShip">€ ' + freeShip + '</span>.</div></div>');
+            }
+        }
+
     }
 }
 
