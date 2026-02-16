@@ -738,7 +738,7 @@ function showDeliveryInfo(countryCode) {
             if ('EN' === lngTxt) {
                 element.lastElementChild.insertAdjacentHTML('beforebegin', '<div id="deliveryInfo" country="' + countryCode + '"><div>Minimum order: <span class="minOrder">€ ' + minOrder + '</span></div><div>Order over <span>€ ' + freeShip + '</span>: <span>Free</span> shipment</div></div>');
             } else {
-                element.lastElementChild.insertAdjacentHTML('beforebegin', '<div id="deliveryInfo" country="' + countryCode + '><div>Minimum bestelling: <span class="minOrder">€ ' + minOrder + '</span></div><div>Bestelling boven <span>€ ' + freeShip + '</span>: <span>Gratis</span> levering</div></div>');
+                element.lastElementChild.insertAdjacentHTML('beforebegin', '<div id="deliveryInfo" country="' + countryCode + '"><div>Minimum bestelling: <span class="minOrder">€ ' + minOrder + '</span></div><div>Bestelling boven <span>€ ' + freeShip + '</span>: <span>Gratis</span> levering</div></div>');
             }
         }
 
