@@ -1,4 +1,4 @@
-const version = 'v6.50';
+const version = 'v6.51';
 const txtNl1 = '<div class="dtooltip"><p class="hover question">Kortingscoupon</p><p class="dtooltiptext">Afhankelijk van de gekozen betaling en levering, kunt u een kortingscoupon krijgen die te gebruiken is bij een volgende bestelling. Voor dit bier ziet u de bedragen in deze tabel</p></div><table class="discount-table"><thead><tr class="first_header"><th></th><th colspan="2">Manier van levering</th></tr><tr><th>Manier van betaling</th><th>Afhaling</th><th>Levering</th></tr></thead><tbody><tr><td class="header">Betalen bij afhaling</td><td>€ ';
 const txtNl2 = '</td><td> - </td></tr><tr><td class="header">Overschrijving</td><td>€ ';
 const txtNl3 = '</td><td>€ ';
@@ -747,7 +747,7 @@ function showDeliveryInfo(countryCode) {
                 minOrder = 40;
                 freeShip = 200;
             }
-            const total = Number(document.querySelector('span.ec-cart-summary__total').textContent.split('(')[0].replace('€', '').trim());
+            const total = Number(document.querySelector('span.ec-cart-summary__total').textContent.split('(')[0].replace('€', '').replace(',','.').trim());
             let minColor = 'red';
             if (total >= minOrder) {
                 minColor = 'green';
