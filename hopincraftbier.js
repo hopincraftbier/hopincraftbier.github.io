@@ -1,4 +1,4 @@
-const version = 'v6.42';
+const version = 'v6.43';
 const txtNl1 = '<div class="dtooltip"><p class="hover question">Kortingscoupon</p><p class="dtooltiptext">Afhankelijk van de gekozen betaling en levering, kunt u een kortingscoupon krijgen die te gebruiken is bij een volgende bestelling. Voor dit bier ziet u de bedragen in deze tabel</p></div><table class="discount-table"><thead><tr class="first_header"><th></th><th colspan="2">Manier van levering</th></tr><tr><th>Manier van betaling</th><th>Afhaling</th><th>Levering</th></tr></thead><tbody><tr><td class="header">Betalen bij afhaling</td><td>€ ';
 const txtNl2 = '</td><td> - </td></tr><tr><td class="header">Overschrijving</td><td>€ ';
 const txtNl3 = '</td><td>€ ';
@@ -689,6 +689,9 @@ function processCartPage() {
 
 function removeCountries() {
     var selectElement = document.querySelector("div.form-control--type-country select");
+    if (!selectElement) {
+        showDeliveryInfo('PICKUP');
+    }
     if (selectElement && selectElement.selectedIndex >= 0) {
         showDeliveryInfo(selectElement.options[selectElement.selectedIndex].value);
     }
@@ -709,14 +712,14 @@ function removeCountries() {
 
 function showDeliveryInfo(countryCode) {
     let infoElement = document.querySelector('div#deliveryInfoSidebar div#deliveryInfo');
-    if (!countryCode) {
+    if (!countryCode || countryCode === "") {
         if (infoElement) {
             infoElement.remove();
         } else {
             return;
         }
     }
-    if (countries.indexOf(countryCode) >= 0) {
+    if (countryCode === 'PICKUP' || countries.indexOf(countryCode) >= 0) {
         const element = document.querySelector('div#deliveryInfoSidebar');
         if (element) {
             if (infoElement) {
@@ -726,19 +729,30 @@ function showDeliveryInfo(countryCode) {
                     infoElement.remove();
                 }
             }
+            const lngTxt = getCustomerLng();
             let minOrder = 1;
             let freeShip = 75;
-            if (countryCode !== 'NL' && countryCode !== 'BE') {
+            if (countryCode === 'PICKUP') {
+                minOrder = 0;
+                freeShip = 0;
+            } else if (countryCode !== 'NL' && countryCode !== 'BE') {
                 minOrder = 40;
                 freeShip = 200;
             }
-            const lngTxt = getCustomerLng();
-            if (countryCode === 'NL' || countries.indexOf(countryCode) < 0) {}
+            let newHtml = '<div id="deliveryInfo" country="' + countryCode + '">';
             if ('EN' === lngTxt) {
-                element.lastElementChild.insertAdjacentHTML('beforebegin', '<div id="deliveryInfo" country="' + countryCode + '"><div>Minimum order: <span class="minOrder">€ ' + minOrder + '</span></div><div>Order over <span>€ ' + freeShip + '</span>: <span>Free</span> shipment</div></div>');
+                newHtml += '<div>Minimum order: <span>€ ' + minOrder + '</span></div>';
+                if (freeShip !== 0) {
+                    newHtml += '<div>Order over <span>€ ' + freeShip + '</span>: <span>Free</span> shipment</div>';
+                }
             } else {
-                element.lastElementChild.insertAdjacentHTML('beforebegin', '<div id="deliveryInfo" country="' + countryCode + '"><div>Minimum bestelling: <span class="minOrder">€ ' + minOrder + '</span></div><div>Bestelling boven <span>€ ' + freeShip + '</span>: <span>Gratis</span> levering</div></div>');
+                newHtml += '<div>Minimum bestelling: <span>€ ' + minOrder + '</span></div>';
+                if (freeShip !== 0) {
+                    newHtml += '<div>Bestelling boven <span>€ ' + freeShip + '</span>: <span>Gratis</span> levering</div>';
+                }
             }
+            newHtml += '</div>';
+            element.lastElementChild.insertAdjacentHTML('beforebegin', newHtml);
         }
 
     }
