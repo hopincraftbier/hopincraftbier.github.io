@@ -97,22 +97,6 @@
     <beer_description>Free for orders over €75 (excluding shipping). Various colors available (see photo). Please indicate your preference in the comments section during checkout.</beer_description>
   </item>
   <item>
-    <id>6488494</id>
-    <ecommerce_id>814427570</ecommerce_id>
-    <title>MAZOUT - Speyside Barrel Aged [2025]</title>
-    <url>https://hopincraftbier.be/products/hoppy-road-mazout-speyside-barrel-aged-2025</url>
-    <brewery_name>Hoppy Road</brewery_name>
-    <price>7.43</price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/814427570/5568713514.png</image>
-    <beer_description>After 29 months of aging in oak barrels, this second iteration of Mazout Speyside is both indulgent and complex. From the outset, it offers pastry notes of dark chocolate, cocoa powder, and toffee, supported and tempered by fruity notes emblematic of the whisky from this region, as well as a subtle salinity. A truly long and enjoyable tasting experience. Hoppy Road - MAZOUT - Speyside Barrel Aged [2025]</beer_description>
-    <beer_style>Stout - Russian Imperial</beer_style>
-    <beer_abv>16%</beer_abv>
-    <beer_volume>330 ml</beer_volume>
-    <beer_package>bottle</beer_package>
-    <brewery_country>France</brewery_country>
-    <untappd_id>6488494</untappd_id>
-  </item>
-  <item>
     <id>939</id>
     <ecommerce_id>811899518</ecommerce_id>
     <title>Prizm Brewing Co. Pack</title>
@@ -3525,6 +3509,25 @@
     <untappd_id>6345864</untappd_id>
   </item>
   <item>
+    <id>6381462</id>
+    <ecommerce_id>777450537</ecommerce_id>
+    <title>My Favorite Things</title>
+    <url>https://hopincraftbier.be/products/factory-brewing-my-favorite-things</url>
+    <brewery_name>Factory Brewing</brewery_name>
+    <price>7.21</price>
+    <regular_price>7.21</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5260426097.webp</image>
+    <beer_description>A Hazy IPA with Motueka &amp; Nelson Sauvin 'The 2025 crops of Motueka and Nelson are here, so of course I need to put my favorite things together. Tons of saturated aroma in this one, expect white wine, grapefruit, lime, melon and some nice earthy funkiness.' Head Brewer Jirka Ordén Factory Brewing - My Favorite Things</beer_description>
+    <beer_style>IPA - New England / Hazy</beer_style>
+    <beer_abv>7.3%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Finland</brewery_country>
+    <date_best_before>05/2026</date_best_before>
+    <date_canned>2025-08-12</date_canned>
+    <untappd_id>6381462</untappd_id>
+  </item>
+  <item>
     <id>6366648</id>
     <ecommerce_id>777450053</ecommerce_id>
     <title>Daydreamer 2025</title>
@@ -6611,6 +6614,6 @@
     <date_canned>2025-03-18</date_canned>
     <untappd_id>3898085</untappd_id>
   </item>
-  <timestamp>1771311628</timestamp>
-  <gen_date>17/02/2026 08:00:28</gen_date>
+  <timestamp>1771311799</timestamp>
+  <gen_date>17/02/2026 08:03:19</gen_date>
 </feed>
