@@ -110,7 +110,7 @@
     <beer_volume>330 ml</beer_volume>
     <beer_package>bottle</beer_package>
     <brewery_country>France</brewery_country>
-    <date_best_before>2030-11-01</date_best_before>
+    <date_best_before>2030-06-30</date_best_before>
     <untappd_id>6488494</untappd_id>
   </item>
   <item>
@@ -1092,8 +1092,9 @@
     <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
     <beer_abv>7.7%</beer_abv>
     <beer_volume>440 ml</beer_volume>
-    <beer_package>bottle</beer_package>
+    <beer_package>can</beer_package>
     <brewery_country>Switzerland</brewery_country>
+    <date_best_before>2026-09-21</date_best_before>
     <untappd_id>6563046</untappd_id>
   </item>
   <item>
@@ -1110,6 +1111,7 @@
     <beer_volume>440 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>Switzerland</brewery_country>
+    <date_best_before>2026-09-21</date_best_before>
     <untappd_id>6563033</untappd_id>
   </item>
   <item>
@@ -6675,6 +6677,6 @@
     <date_canned>2025-03-18</date_canned>
     <untappd_id>3898085</untappd_id>
   </item>
-  <timestamp>1771348560</timestamp>
-  <gen_date>17/02/2026 18:16:00</gen_date>
+  <timestamp>1771355704</timestamp>
+  <gen_date>17/02/2026 20:15:04</gen_date>
 </feed>
