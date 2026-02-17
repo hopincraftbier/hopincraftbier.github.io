@@ -97,6 +97,39 @@
     <beer_description>Free for orders over €75 (excluding shipping). Various colors available (see photo). Please indicate your preference in the comments section during checkout.</beer_description>
   </item>
   <item>
+    <id>6488494</id>
+    <ecommerce_id>814427570</ecommerce_id>
+    <title>MAZOUT - Speyside Barrel Aged [2025]</title>
+    <url>https://hopincraftbier.be/products/hoppy-road-mazout-speyside-barrel-aged-2025</url>
+    <brewery_name>Hoppy Road</brewery_name>
+    <price>7.43</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/814427570/5568713514.png</image>
+    <beer_description>After 29 months of aging in oak barrels, this second iteration of Mazout Speyside is both indulgent and complex. From the outset, it offers pastry notes of dark chocolate, cocoa powder, and toffee, supported and tempered by fruity notes emblematic of the whisky from this region, as well as a subtle salinity. A truly long and enjoyable tasting experience. Hoppy Road - MAZOUT - Speyside Barrel Aged [2025]</beer_description>
+    <beer_style>Stout - Russian Imperial</beer_style>
+    <beer_abv>16%</beer_abv>
+    <beer_volume>330 ml</beer_volume>
+    <beer_package>bottle</beer_package>
+    <brewery_country>France</brewery_country>
+    <date_best_before>2030-11-01</date_best_before>
+    <untappd_id>6488494</untappd_id>
+  </item>
+  <item>
+    <id>6318094</id>
+    <ecommerce_id>814428562</ecommerce_id>
+    <title>Vuurboetmeester 205 – Brandy Barrel Aged Barleywine</title>
+    <url>https://hopincraftbier.be/products/bierbrouwerij-de-magistraat-vuurboetmeester-205-brandy-barrel-aged-barleywine</url>
+    <brewery_name>Bierbrouwerij De Magistraat</brewery_name>
+    <price>8.42</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/814428562/5568710324.png</image>
+    <beer_description>Our Vuurboeter Barleywine has been aged for 12 months in brandy barrels. The beer has aromas reminiscent of grapes and wine, with a subtle vanilla undertone from the oak. The sweetness of the malt balances beautifully with the fruity notes of the brandy. Bierbrouwerij De Magistraat - Vuurboetmeester 205 Brandy Barrel Aged Barleywine</beer_description>
+    <beer_style>Barleywine - Other</beer_style>
+    <beer_abv>12.5%</beer_abv>
+    <beer_volume>330 ml</beer_volume>
+    <beer_package>bottle</beer_package>
+    <brewery_country>The Netherlands</brewery_country>
+    <untappd_id>6318094</untappd_id>
+  </item>
+  <item>
     <id>939</id>
     <ecommerce_id>811899518</ecommerce_id>
     <title>Prizm Brewing Co. Pack</title>
@@ -200,6 +233,38 @@
     <brewery_country>France</brewery_country>
     <date_best_before>05/2027</date_best_before>
     <untappd_id>6489634</untappd_id>
+  </item>
+  <item>
+    <id>6584852</id>
+    <ecommerce_id>810417877</ecommerce_id>
+    <title>Rocky Road (2026)</title>
+    <url>https://hopincraftbier.be/products/white-dog-brewery-rocky-road</url>
+    <brewery_name>White Dog Brewery</brewery_name>
+    <price>7.38</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/810417877/5532309609.png</image>
+    <beer_description>White Dog Brewery's Rocky Road is a tribute to the classic treat packed with chocolate, marshmallows, and nuts. With a robust 11% ABV, this is a true "liquid treat." It's a beer for those moments when you really want to indulge: rich, luxurious, and with a delightfully unique twist. This beer is a party in your glass. As soon as you pour it, the aromas of milk chocolate and soft vanilla greet you. The addition of lactose gives the beer a silky, almost syrupy texture. You'll taste a full base of roasted malts, complemented by the sweetness of marshmallows and a hint of almond and nutty notes.</beer_description>
+    <beer_style>Stout - Imperial / Pastry</beer_style>
+    <beer_abv>11%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>The Netherlands</brewery_country>
+    <untappd_id>6584852</untappd_id>
+  </item>
+  <item>
+    <id>6584854</id>
+    <ecommerce_id>810417875</ecommerce_id>
+    <title>Cookie &amp; Cream</title>
+    <url>https://hopincraftbier.be/products/white-dog-brewery-cookie--cream</url>
+    <brewery_name>White Dog Brewery</brewery_name>
+    <price>7.38</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/810417875/5532301240.png</image>
+    <beer_description>Brace yourself for a liquid dessert in a glass. This Imperial Pastry Stout from White Dog Brewery is a tribute to the ultimate guilty pleasure: cookies and cream. With a hefty 11% ABV, this isn't a beer to drink easily, but a true sipper for lovers of full, sweet flavors. A beer that's essentially a hug in a glass, but one with a serious kick! As soon as you pour the beer, you'll smell the unmistakable aroma of freshly baked chocolate chip cookies, vanilla extract, and a hint of roasted malt. An explosion of flavor. It's thick, syrupy, and silky smooth thanks to the added lactose. You'll taste dark chocolate, creamy vanilla, and a hint of coffee that balances the sweetness.</beer_description>
+    <beer_style>Stout - Imperial / Pastry</beer_style>
+    <beer_abv>11%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>The Netherlands</brewery_country>
+    <untappd_id>6584854</untappd_id>
   </item>
   <item>
     <id>5151349</id>
@@ -1014,6 +1079,38 @@
     <date_best_before>11/2026</date_best_before>
     <date_canned>2026-01-22</date_canned>
     <untappd_id>6574785</untappd_id>
+  </item>
+  <item>
+    <id>6563046</id>
+    <ecommerce_id>804684004</ecommerce_id>
+    <title>Punishment</title>
+    <url>https://hopincraftbier.be/products/hoppy-people-punishment</url>
+    <brewery_name>Hoppy People</brewery_name>
+    <price>7.32</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5481624106.png</image>
+    <beer_description>DIPA, Dry hopped with Citra, Simcoe and Strata Canned on 21.1.2026 Collab with Seven Island Brewery.</beer_description>
+    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
+    <beer_abv>7.7%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>bottle</beer_package>
+    <brewery_country>Switzerland</brewery_country>
+    <untappd_id>6563046</untappd_id>
+  </item>
+  <item>
+    <id>6563033</id>
+    <ecommerce_id>804575234</ecommerce_id>
+    <title>Whistling Nothing</title>
+    <url>https://hopincraftbier.be/products/hoppy-people-804575234</url>
+    <brewery_name>Hoppy People</brewery_name>
+    <price>7.32</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5481624066.png</image>
+    <beer_description>Dry hopped with HBC 630, Audacia, Ekuanot, El Dorado and Simcoe. canned 21.01.2026</beer_description>
+    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
+    <beer_abv>7.6%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Switzerland</brewery_country>
+    <untappd_id>6563033</untappd_id>
   </item>
   <item>
     <id>959</id>
@@ -6227,24 +6324,6 @@
     <untappd_id>5689828</untappd_id>
   </item>
   <item>
-    <id>5246894</id>
-    <ecommerce_id>735452035</ecommerce_id>
-    <title>Central Waters - 1 Year Aged Brewer’s Reserve Bourbon Barrel Barleywine 2025</title>
-    <url>https://hopincraftbier.be/products/central-waters-1-year-aged-brewers-reserve-bourbon-barrel-barleywine-2025</url>
-    <brewery_name>Central Waters Brewing Company</brewery_name>
-    <price>7.6</price>
-    <regular_price>10.13</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4842358491.png</image>
-    <beer_description>American Barleywine ale aged in used bourbon barrels. This one was aged 1 year in barrels. -</beer_description>
-    <beer_style>Barleywine - American</beer_style>
-    <beer_abv>13.7%</beer_abv>
-    <beer_volume>355 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>United States</brewery_country>
-    <date_canned>2025-02-13</date_canned>
-    <untappd_id>5246894</untappd_id>
-  </item>
-  <item>
     <id>6117115</id>
     <ecommerce_id>735435484</ecommerce_id>
     <title>Granny's Candy Bowl</title>
@@ -6348,24 +6427,6 @@
     <brewery_country>United States</brewery_country>
     <date_canned>2025-03-24</date_canned>
     <untappd_id>4316618</untappd_id>
-  </item>
-  <item>
-    <id>5246914</id>
-    <ecommerce_id>735435482</ecommerce_id>
-    <title>Central Waters - 2 Year Aged Brewer’s Reserve Bourbon Barrel Barleywine 2025</title>
-    <url>https://hopincraftbier.be/products/central-waters-2-year-aged-brewers-reserve-bourbon-barrel-barleywine-2025</url>
-    <brewery_name>Central Waters Brewing Company</brewery_name>
-    <price>7.85</price>
-    <regular_price>10.47</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4842362830.png</image>
-    <beer_description>American Barleywine ale aged in used bourbon barrels. This one was aged 2 years in barrels. -</beer_description>
-    <beer_style>Barleywine - American</beer_style>
-    <beer_abv>14%</beer_abv>
-    <beer_volume>355 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>United States</brewery_country>
-    <date_canned>2025-02-13</date_canned>
-    <untappd_id>5246914</untappd_id>
   </item>
   <item>
     <id>2721589</id>
@@ -6614,6 +6675,6 @@
     <date_canned>2025-03-18</date_canned>
     <untappd_id>3898085</untappd_id>
   </item>
-  <timestamp>1771311799</timestamp>
-  <gen_date>17/02/2026 08:03:19</gen_date>
+  <timestamp>1771348560</timestamp>
+  <gen_date>17/02/2026 18:16:00</gen_date>
 </feed>
