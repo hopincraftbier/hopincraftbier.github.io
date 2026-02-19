@@ -181,7 +181,7 @@ function processAttributes() {
             p.parentElement.style.display = 'none';
             if (p.textContent.trim() === 'hide_preorder:') {
                 let d = p.parentElement.childNodes[1]?.textContent;
-                if (d !== 'Uitverkocht' && d !== 'Sold out') {
+                if (d !== 'Uitverkocht' && d !== 'Sold out' && d !== 'Out of stock') {
                     preOrderTxt = '<strong style="color:red;">PRE-ORDER</strong> ';
                     if ('EN' === getCustomerLng()) {
                         preOrderTxt += ('Expected: ' + d);
@@ -382,7 +382,7 @@ function soonLabel() {
         function (item) {
             if (item.textContent.trim() === 'hide_preorder:') {
                 let d = item.parentElement.childNodes[1]?.textContent;
-                if (d === 'Uitverkocht' || d === 'Sold out') {
+                if (d === 'Uitverkocht' || d === 'Sold out' || d === 'Out of stock') {
                     preorderSoldOut = true;
                 }
             } else if (item.textContent.trim() === 'Verwacht:' || item.textContent.trim() === 'Expected:') {
@@ -420,9 +420,9 @@ function processExpectedLabels() {
         log('processExpectedLabels');
         document.querySelectorAll('div.grid-product__wrap-inner').forEach(function (p) {
             const lint = p.querySelector('div.label__text')?.textContent;
-            if (lint === 'Sold out' || lint === 'Uitverkocht') return;
+            if (lint === 'Sold out' || lint === 'Uitverkocht' || lint === 'Out of stock') return;
             let buyNowEl = p.querySelector('div.grid-product__button.grid-product__buy-now');
-            if (buyNowEl?.textContent === 'Sold out' || buyNowEl?.textContent === 'Uitverkocht') {
+            if (buyNowEl?.textContent === 'Sold out' || buyNowEl?.textContent === 'Out of stock' || buyNowEl?.textContent === 'Uitverkocht') {
                 if (buyNowEl.style.display !== 'none') {
                     buyNowEl.style.display = 'none';
                 }
