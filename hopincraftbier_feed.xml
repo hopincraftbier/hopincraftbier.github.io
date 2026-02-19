@@ -495,6 +495,22 @@
     <untappd_id>6513873</untappd_id>
   </item>
   <item>
+    <id>6531339</id>
+    <ecommerce_id>807794964</ecommerce_id>
+    <title>Inky (December 2025)</title>
+    <url>https://hopincraftbier.be/products/badlands-brewing-company-inky-december-2025</url>
+    <brewery_name>Badlands Brewing Company</brewery_name>
+    <price>30.74</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/807794964/5513123341.png</image>
+    <beer_description>Inky is our annual blend of imperial stout aged in some of our finest barrels. Our only rule for this beer is that it has to be composed of imperial stout and aged in barrels that are 1, 2 and 3 years old (ish). Inky (December 2025) is composed of: one part 1792 bourbon barrel aged for 34 months; one part Willett Bourbon Barrel aged for 30 months and one part Heaven Hill bourbon barrel aged for 22 months with just a splash of Moon Port for extra complexity. Inky is always special to us. We dig out characterful barrels to anchor the blend and provide it with a structure that only patience, time and careful stewarding can provide. This year's blend is a delectable melange presenting notes of chocolate, oak, caramel, spirit and toffee. Inky (December 2025) is the culmination of many years of planning, brewing, and aging. It is the product of much patience, struggle and a focused eye to the future. A beer that rewards patience, flexibility and a wanton disregard for ROI. We’re thrilled to be able to share this blend with you now. Badlands Brewing Company - Inky (December 2025)</beer_description>
+    <beer_style>Stout - Imperial / Double</beer_style>
+    <beer_abv>11.9%</beer_abv>
+    <beer_volume>500 ml</beer_volume>
+    <beer_package>bottle</beer_package>
+    <brewery_country>Canada</brewery_country>
+    <untappd_id>6531339</untappd_id>
+  </item>
+  <item>
     <id>6513908</id>
     <ecommerce_id>807097776</ecommerce_id>
     <title>You Can't Control</title>
@@ -893,6 +909,22 @@
     <bundle_skus>6172982,6337778,6308971,6102160</bundle_skus>
   </item>
   <item>
+    <id>6527542</id>
+    <ecommerce_id>805525934</ecommerce_id>
+    <title>BA Treats Of Strength</title>
+    <url>https://hopincraftbier.be/products/icarus-brewing-ba-treats-of-strength</url>
+    <brewery_name>Icarus Brewing</brewery_name>
+    <price>27.28</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5495005758.png</image>
+    <beer_description>Barrel aged in Makers Mark Bourbon Barrels for 34 months (2025). Chocolate Nutella Babka-inspired Pastry Stout brewed with Two Row Barley, Pale Chocolate Malt, Oated, and Wheated. Conditioned on Cacao Nibs and Hazelnuts.</beer_description>
+    <beer_style>Stout - Pastry</beer_style>
+    <beer_abv>12.4%</beer_abv>
+    <beer_volume>500 ml</beer_volume>
+    <beer_package>bottle</beer_package>
+    <brewery_country>United States</brewery_country>
+    <untappd_id>6527542</untappd_id>
+  </item>
+  <item>
     <id>6526439</id>
     <ecommerce_id>805323120</ecommerce_id>
     <title>Lady Cupcake #10 (Cocoa Nibs, Vanilla &amp; Caramel)</title>
@@ -1217,6 +1249,38 @@
     <bundle_skus>6186985,6204470</bundle_skus>
   </item>
   <item>
+    <id>6526650</id>
+    <ecommerce_id>803521751</ecommerce_id>
+    <title>George Le Crapaud</title>
+    <url>https://hopincraftbier.be/products/nano-cinco-george-le-crapaud</url>
+    <brewery_name>Nano Cinco</brewery_name>
+    <price>10.91</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5466861197.png</image>
+    <beer_description>George Le Crapaud (George the Toad) is an Imperial stout bottled on sweet cherry, organic toasted coconut from Sri Lanka, cocoa nibs from Ghana, vanilla from Uganda, and vegan marshmallow. A multi-flavored beer reminiscent of both Black Forest cake and coconut treats. Nano Cinco - George Le Crapaud</beer_description>
+    <beer_style>Stout - Imperial / Double Pastry</beer_style>
+    <beer_abv>10.5%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Canada</brewery_country>
+    <untappd_id>6526650</untappd_id>
+  </item>
+  <item>
+    <id>6528223</id>
+    <ecommerce_id>803521752</ecommerce_id>
+    <title>Side Eye</title>
+    <url>https://hopincraftbier.be/products/finback-brewery-side-eye</url>
+    <brewery_name>Finback Brewery</brewery_name>
+    <price>9.58</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5466861245.png</image>
+    <beer_description>Dry hopped with Mosaic, Lorien, Enigma, Anchovy and HS 13459 Finback Brewery - Side Eye</beer_description>
+    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
+    <beer_abv>8.4%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>United States</brewery_country>
+    <untappd_id>6528223</untappd_id>
+  </item>
+  <item>
     <id>6479597</id>
     <ecommerce_id>803475768</ecommerce_id>
     <title>All I Want For Christmas 2025 By Rackhouse</title>
@@ -1232,6 +1296,86 @@
     <brewery_country>Norway</brewery_country>
     <date_best_before>2030-10-31</date_best_before>
     <untappd_id>6479597</untappd_id>
+  </item>
+  <item>
+    <id>6524376</id>
+    <ecommerce_id>801936387</ecommerce_id>
+    <title>Didier Le Chihuaha</title>
+    <url>https://hopincraftbier.be/products/nano-cinco-didier-le-chihuaha</url>
+    <brewery_name>Nano Cinco</brewery_name>
+    <price>10.91</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5466850974.png</image>
+    <beer_description>Didier le Chihuaha (Didier the Chihuahua) is a New England Triple IPA brewed with Motueka (T90 and SubZero Hop Kief), Southern Cross, and Citra hops—undoubtedly one of Messorem's favorites. This beer is rich in texture and bursting with flavor, driven by intense aromas of tropical fruit and citrus that explode on the palate. Nano Cinco - Didier Le Chihuaha</beer_description>
+    <beer_style>IPA - Triple New England / Hazy</beer_style>
+    <beer_abv>9.6%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Canada</brewery_country>
+    <untappd_id>6524376</untappd_id>
+  </item>
+  <item>
+    <id>6523930</id>
+    <ecommerce_id>801936388</ecommerce_id>
+    <title>Robert Le Chat</title>
+    <url>https://hopincraftbier.be/products/nano-cinco-robert-le-chat</url>
+    <brewery_name>Nano Cinco</brewery_name>
+    <price>10.25</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5466861093.png</image>
+    <beer_description>Robert Le Chat (Robert the Cat) is a New England Double IPA brewed with Southern Cross and Riwaka hops (T90 and SubZero Hop Kief) from Freestyle Hops in New Zealand. An ultra-silky and ultra-aromatic beer with pronounced notes of lemon zest, lime, and kumquat. An extra hoppy ale...? Nano Cinco - Robert Le Chat</beer_description>
+    <beer_style>IPA - Imperial / Double</beer_style>
+    <beer_abv>8.5%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Canada</brewery_country>
+    <untappd_id>6523930</untappd_id>
+  </item>
+  <item>
+    <id>5609464</id>
+    <ecommerce_id>801936386</ecommerce_id>
+    <title>Origin of Darkness Imperial Stout with Maple Syrup, Pistachio, Vanilla</title>
+    <url>https://hopincraftbier.be/products/collective-arts-brewing-origin-of-darkness-imperial-stout-with-maple-syrup-pistachio-vanilla</url>
+    <brewery_name>Collective Arts Brewing</brewery_name>
+    <price>17.96</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5466934525.png</image>
+    <beer_description>Taking advantage of our shared interest in decadent mascarpone desserts, we created this rich and luscious pastry stout. We included an irresistible flavour combination of rich maple syrup and nutty pistachios and topped it off with the creamy sweetness of both vanilla and lactose. Collective Arts Brewing - Origin of Darkness Imperial Stout with Maple Syrup, Pistachio, Vanilla and Lactose</beer_description>
+    <beer_style>Stout - Imperial / Double Pastry</beer_style>
+    <beer_abv>11.9%</beer_abv>
+    <beer_volume>500 ml</beer_volume>
+    <beer_package>bottle</beer_package>
+    <brewery_country>Canada</brewery_country>
+    <untappd_id>5609464</untappd_id>
+  </item>
+  <item>
+    <id>4313222</id>
+    <ecommerce_id>801936385</ecommerce_id>
+    <title>Citadelle</title>
+    <url>https://hopincraftbier.be/products/brasserie-du-bas-canada-citadelle</url>
+    <brewery_name>Brasserie du Bas-Canada</brewery_name>
+    <price>11.24</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5450245031.png</image>
+    <beer_description>DIPA with houblons Nectaron, Galaxy, Mosaic and Simcoe Brasserie du Bas-Canada - Citadelle</beer_description>
+    <beer_style>IPA - Imperial / Double</beer_style>
+    <beer_abv>8%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Canada</brewery_country>
+    <untappd_id>4313222</untappd_id>
+  </item>
+  <item>
+    <id>6250105</id>
+    <ecommerce_id>801935103</ecommerce_id>
+    <title>BBA Twice As Lonely (2025)</title>
+    <url>https://hopincraftbier.be/products/resident-culture-bba-twice-as-lonely-2025</url>
+    <brewery_name>Resident Culture</brewery_name>
+    <price>31.91</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5450245001.png</image>
+    <beer_description>Our 2025 Vintage is a blend of 19-31 month old bourbon barrel aged imperial stout conditioned on over 30 pounds per barrel of coconut and over 8 pounds per barrel of cacao nibs. Resident Culture - BBA Twice As Lonely (2025)</beer_description>
+    <beer_style>Stout - Imperial / Double Pastry</beer_style>
+    <beer_abv>13.5%</beer_abv>
+    <beer_volume>500 ml</beer_volume>
+    <beer_package>bottle</beer_package>
+    <brewery_country>United States</brewery_country>
+    <untappd_id>6250105</untappd_id>
   </item>
   <item>
     <id>6516548</id>
@@ -1499,6 +1643,103 @@
     <beer_package_count>3</beer_package_count>
     <beer_bundle>1</beer_bundle>
     <bundle_skus>6241284,6237648,6231524</bundle_skus>
+  </item>
+  <item>
+    <id>6285476</id>
+    <ecommerce_id>798954724</ecommerce_id>
+    <title>Gray Monday (2025)</title>
+    <url>https://hopincraftbier.be/products/the-bruery-gray-monday-2025</url>
+    <brewery_name>The Bruery</brewery_name>
+    <price>32.55</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5409430284.png</image>
+    <beer_description>Double Barrel-Aged Imperial Stout with Vanilla Beans and Hazelnuts Escape the ordinary with Gray Monday. This double barrel-aged imperial stout is a portal to a world of pure indulgence. Bourbon barrels and rye barrels weave a tapestry of flavors, accented by aromas of hazelnut and vanilla. The result? A symphony of sensations that will leave you craving more. The Bruery - Gray Monday (2025)</beer_description>
+    <beer_style>Stout - Imperial / Double</beer_style>
+    <beer_abv>20.9%</beer_abv>
+    <beer_volume>375 ml</beer_volume>
+    <beer_package>bottle</beer_package>
+    <brewery_country>United States</brewery_country>
+    <untappd_id>6285476</untappd_id>
+  </item>
+  <item>
+    <id>6558377</id>
+    <ecommerce_id>798972867</ecommerce_id>
+    <title>Kiwi (2026)</title>
+    <url>https://hopincraftbier.be/products/badlands-brewing-company-kiwi</url>
+    <brewery_name>Badlands Brewing Company</brewery_name>
+    <price>10.58</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5409421850.png</image>
+    <beer_description>New Zealand produces some of the finest hops in the world. Their growing region has a character unlike any other in the hop world and we are exceptionally smitten by it. Some of our favorite varieties to blend with come from the region, which is why we wanted to brew a beer that was aggressively hopped with some of our favy mcfavorites, and the results are sublime. Dry hopped with the holy New Zealand trifecta of Nelson Sauvin, Riwaka, and Motueka all hand selected from our friends at Freestyle hops. We taste heaven… but also gooseberry, lime, tropical fruit and dank berries. Perennially one of our favorite beers of the year. Badlands Brewing Company - Kiwi</beer_description>
+    <beer_style>IPA - New Zealand</beer_style>
+    <beer_abv>6.5%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Canada</brewery_country>
+    <untappd_id>6558377</untappd_id>
+  </item>
+  <item>
+    <id>6430511</id>
+    <ecommerce_id>798975561</ecommerce_id>
+    <title>Black Tuesday Blender's Choice (2025)</title>
+    <url>https://hopincraftbier.be/products/the-bruery-black-tuesday-blenders-choice-2025</url>
+    <brewery_name>The Bruery</brewery_name>
+    <price>32.55</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5409430296.png</image>
+    <beer_description>Blended Barrel-Aged Imperial Stout Blended from our finest barrels, this is Black Tuesday Blender's Choice (2025). We hand-selected Peerless Rye barrels, Four Gate Bourbon barrels, Ruby Port barrels, and Zinfandel barrels for an exquisite Imperial Stout. Revel in notes of rich vanilla, deep oak, dark fruit leather, and robust chocolate. Perfect with a Kansas City Strip Steak. The Bruery - Black Tuesday Blender's Choice (2025)</beer_description>
+    <beer_style>Stout - Imperial / Double</beer_style>
+    <beer_abv>19.9%</beer_abv>
+    <beer_volume>375 ml</beer_volume>
+    <beer_package>bottle</beer_package>
+    <brewery_country>United States</brewery_country>
+    <untappd_id>6430511</untappd_id>
+  </item>
+  <item>
+    <id>6497918</id>
+    <ecommerce_id>798975560</ecommerce_id>
+    <title>Capitaine AMF - Le Ketch X All My Friends</title>
+    <url>https://hopincraftbier.be/products/le-ketch-capitaine-amf-le-ketch-x-all-my-friends</url>
+    <brewery_name>Le Ketch</brewery_name>
+    <price>10.91</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5409421832.png</image>
+    <beer_description>Nous n'avons pas eu besoin de trop insister pour que nos nouveaux amis du Prince Edwards County accepte de faire cette double NEIPA avec nous. À dose égale, nous avons houblonnée cette bière avec du Citra et du Eggers Special, un Riwaka extra puissant. Sans oublier une bonne dose de miel local. Le Ketch - Capitaine AMF - Le Ketch X All My Friends</beer_description>
+    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
+    <beer_abv>8%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Canada</brewery_country>
+    <untappd_id>6497918</untappd_id>
+  </item>
+  <item>
+    <id>6479992</id>
+    <ecommerce_id>798975559</ecommerce_id>
+    <title>Straight Jacket (2025)</title>
+    <url>https://hopincraftbier.be/products/revolution-brewing-straight-jacket-2025</url>
+    <brewery_name>Revolution Brewing</brewery_name>
+    <price>11.76</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5409426870.png</image>
+    <beer_description>The soul of Barleywine channeled through vivifying bourbon barrels and blended with an alchemist's touch. Summon notes of caramel, stone fruit, brown sugar, and vanilla with each generous swirl. Revolution Brewing - Straight Jacket (2025)</beer_description>
+    <beer_style>Barleywine - English</beer_style>
+    <beer_abv>15%</beer_abv>
+    <beer_volume>355 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>United States</brewery_country>
+    <untappd_id>6479992</untappd_id>
+  </item>
+  <item>
+    <id>6480717</id>
+    <ecommerce_id>798972866</ecommerce_id>
+    <title>Life After Death Star (Batch 7) 2025</title>
+    <url>https://hopincraftbier.be/products/equilibrium-brewery-life-after-death-star-batch-7-2025</url>
+    <brewery_name>Equilibrium Brewery</brewery_name>
+    <price>24.6</price>
+    <regular_price>24.60</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5409430302.png</image>
+    <beer_description>With shredded raw coconut, marshmallow, Madagascar vanilla, and Mostra Ghost Bear Espresso Blend coffee along with a touch of lactose. Balanced notes of deep espresso coffee paired with flavors of fudge, creamy marshmallow, vanilla caviar, double fudge chocolate brownie batter, and cream of coconut. Equilibrium Brewery - Life After Death Star (Batch 7) 2025</beer_description>
+    <beer_style>Stout - Imperial / Double Pastry</beer_style>
+    <beer_abv>11%</beer_abv>
+    <beer_volume>500 ml</beer_volume>
+    <beer_package>bottle</beer_package>
+    <brewery_country>United States</brewery_country>
+    <untappd_id>6480717</untappd_id>
   </item>
   <item>
     <id>6500739</id>
@@ -6680,6 +6921,6 @@
     <date_canned>2025-03-18</date_canned>
     <untappd_id>3898085</untappd_id>
   </item>
-  <timestamp>1771499704</timestamp>
-  <gen_date>19/02/2026 12:15:04</gen_date>
+  <timestamp>1771538696</timestamp>
+  <gen_date>19/02/2026 23:04:56</gen_date>
 </feed>
