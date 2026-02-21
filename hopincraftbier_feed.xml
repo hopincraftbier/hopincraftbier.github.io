@@ -4185,7 +4185,7 @@
     <price>10.69</price>
     <regular_price>12,58</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5145511505.webp</image>
-    <beer_description>Vertige est brassée avec une combinaison de houblons néo-zélandais (Nelson Sauvin et Motueka) et américain (Citra). C'est la jonction de trois houblons que nous aimons particulièrement pour leurs caractères uniques. Brasserie du Bas-Canada - Vertige</beer_description>
+    <beer_description>Vertige is brewed with a combination of New Zealand hops (Nelson Sauvin and Motueka) and American hops (Citra). It's the union of three hops that we particularly love for their unique characters. Brasserie du Bas-Canada - Vertige</beer_description>
     <beer_style>IPA - Triple</beer_style>
     <beer_abv>10%</beer_abv>
     <beer_volume>473 ml</beer_volume>
@@ -7002,6 +7002,6 @@
     <date_canned>2025-03-18</date_canned>
     <untappd_id>3898085</untappd_id>
   </item>
-  <timestamp>1771670705</timestamp>
-  <gen_date>21/02/2026 11:45:05</gen_date>
+  <timestamp>1771674306</timestamp>
+  <gen_date>21/02/2026 12:45:06</gen_date>
 </feed>
