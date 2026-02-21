@@ -5,6 +5,27 @@
   <link>https://hopincraftbier.be/products&lt;/link&gt;</link>
   <description>Hop In Craftbier Products feed</description>
   <item>
+    <id>5</id>
+    <ecommerce_id>817736900</ecommerce_id>
+    <title>Factory Brewing - Factory Brewing Anniversary Quartet</title>
+    <url>https://hopincraftbier.be/products/factory-brewing-quartet-817736900</url>
+    <brewery_name>Factory Brewing</brewery_name>
+    <price>28.66</price>
+    <regular_price>30.17</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/817736900/5599576619.png</image>
+    <beer_description>The Factory Brewing - Quartet contains: - Distant ClosenessIPA - New England / Hazy | 7,3% | 440 ml - Turbid DreamsIPA - Imperial / Double New England / Hazy | 8,0% | 440 ml - Perpetual MotionIPA - Triple New England / Hazy | 10,0% | 440 ml - Eye OpenerStout - Pastry | 12,0% | 440 ml</beer_description>
+    <beer_style>Stout - IPA</beer_style>
+    <beer_abv>7 - 12%</beer_abv>
+    <beer_volume>4x440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Finland</brewery_country>
+    <date_best_before>2026-11-01</date_best_before>
+    <date_canned>2026-01-22</date_canned>
+    <beer_package_count>4</beer_package_count>
+    <beer_bundle>1</beer_bundle>
+    <bundle_skus>6574797,6574785,6574782,6574780</bundle_skus>
+  </item>
+  <item>
     <id>20</id>
     <ecommerce_id>816172034</ecommerce_id>
     <title>Fauve - Quintet</title>
@@ -6921,6 +6942,6 @@
     <date_canned>2025-03-18</date_canned>
     <untappd_id>3898085</untappd_id>
   </item>
-  <timestamp>1771538696</timestamp>
-  <gen_date>19/02/2026 23:04:56</gen_date>
+  <timestamp>1771665305</timestamp>
+  <gen_date>21/02/2026 10:15:05</gen_date>
 </feed>
