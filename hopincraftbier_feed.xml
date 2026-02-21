@@ -152,7 +152,7 @@
     <title>Rivington Brewing Co - Pair</title>
     <url>https://hopincraftbier.be/products/rivington-brewing-co-pair</url>
     <brewery_name>Rivington Brewing Co</brewery_name>
-    <price>14.23</price>
+    <price>12.56</price>
     <regular_price>17.79</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/816016081/5582854649.png</image>
     <beer_description>The Rivington Brewing Co - Pair contains: - Dead AliveIPA - Imperial / Double | 8% | 500 ml - West To the SandIPA - Imperial / Double | 8% | 500 ml</beer_description>
@@ -2970,43 +2970,6 @@
     <untappd_id>6393502</untappd_id>
   </item>
   <item>
-    <id>6421716</id>
-    <ecommerce_id>787475908</ecommerce_id>
-    <title>West To the Sand</title>
-    <url>https://hopincraftbier.be/products/rivington-brewing-co-west-to-the-sand</url>
-    <brewery_name>Rivington Brewing Co</brewery_name>
-    <price>8.18</price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5244389077.webp</image>
-    <beer_description>A West Coast Triple Dry Hopped Double IPA brewed with our mates from Floc &amp; Beak. Hopped with Columbus, Chinook, Amarillo, Nectaron, Simcoe, Amarillo Cryo, Simcoe Dynaboost &amp; Mosaic Cryo Rivington Brewing Co - West To the Sand</beer_description>
-    <beer_style>IPA - Imperial / Double</beer_style>
-    <beer_abv>8%</beer_abv>
-    <beer_volume>500 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>England</brewery_country>
-    <date_best_before>2026-03-22</date_best_before>
-    <date_canned>2025-09-22</date_canned>
-    <untappd_id>6421716</untappd_id>
-  </item>
-  <item>
-    <id>6365889</id>
-    <ecommerce_id>787475909</ecommerce_id>
-    <title>Dead Alive</title>
-    <url>https://hopincraftbier.be/products/rivington-brewing-co-dead-alive</url>
-    <brewery_name>Rivington Brewing Co</brewery_name>
-    <price>8.17</price>
-    <regular_price>9,61</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5244389071.webp</image>
-    <beer_description>A Double IPA brewed with our mates from Friends Of The Tap. Hopped with El Dorado, Citra, Citra Dynaboost, Eclipse, El Dorado Cryo, Citra Cryo &amp; El Dorado Quantum Brite Rivington Brewing Co - Dead Alive</beer_description>
-    <beer_style>IPA - Imperial / Double</beer_style>
-    <beer_abv>8%</beer_abv>
-    <beer_volume>500 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>England</brewery_country>
-    <date_best_before>2026-02-21</date_best_before>
-    <date_canned>2025-08-21</date_canned>
-    <untappd_id>6365889</untappd_id>
-  </item>
-  <item>
     <id>6406071</id>
     <ecommerce_id>787334626</ecommerce_id>
     <title>Canna</title>
@@ -3557,23 +3520,6 @@
     <brewery_country>France</brewery_country>
     <date_best_before>2026-05-19</date_best_before>
     <untappd_id>6375119</untappd_id>
-  </item>
-  <item>
-    <id>6314901</id>
-    <ecommerce_id>779008794</ecommerce_id>
-    <title>Révélateur D'Ombres</title>
-    <url>https://hopincraftbier.be/products/fauve-revelateur-dombres</url>
-    <brewery_name>Fauve</brewery_name>
-    <price>8.61</price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5147850362.webp</image>
-    <beer_description>We blended some of our finest barrels of Imperial Stout aged in rum barrels (which had previously contained Oloroso) to create this unique blend. For even more tropical indulgence, we added a coconut finish. The aging lasted 18 months in rum barrels. A rare beer, of which only 1,646 cans were produced! Fauve - Revelateur D'Ombres</beer_description>
-    <beer_style>Stout - Imperial / Double</beer_style>
-    <beer_abv>12%</beer_abv>
-    <beer_volume>330 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>France</brewery_country>
-    <date_best_before>2030-06-13</date_best_before>
-    <untappd_id>6314901</untappd_id>
   </item>
   <item>
     <id>6292774</id>
@@ -6543,24 +6489,6 @@
     <untappd_id>6121788</untappd_id>
   </item>
   <item>
-    <id>3127108</id>
-    <ecommerce_id>738467167</ecommerce_id>
-    <title>Hollow Names</title>
-    <url>https://hopincraftbier.be/products/alefarm-brewing-hollow-names</url>
-    <brewery_name>Alefarm Brewing</brewery_name>
-    <price>5.26</price>
-    <regular_price>7.01</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4840926929.png</image>
-    <beer_description>DIPA with Mosaic BBC and Amarillo BBC.</beer_description>
-    <beer_style>IPA - Imperial / Double</beer_style>
-    <beer_abv>8%</beer_abv>
-    <beer_volume>440 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Denmark</brewery_country>
-    <date_best_before>2026-01-28</date_best_before>
-    <untappd_id>3127108</untappd_id>
-  </item>
-  <item>
     <id>6121787</id>
     <ecommerce_id>738467165</ecommerce_id>
     <title>Planet 2 (PULP)</title>
@@ -7002,6 +6930,6 @@
     <date_canned>2025-03-18</date_canned>
     <untappd_id>3898085</untappd_id>
   </item>
-  <timestamp>1771674306</timestamp>
-  <gen_date>21/02/2026 12:45:06</gen_date>
+  <timestamp>1771691234</timestamp>
+  <gen_date>21/02/2026 17:27:14</gen_date>
 </feed>
