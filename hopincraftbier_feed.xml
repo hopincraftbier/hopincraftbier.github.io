@@ -5,6 +5,26 @@
   <link>https://hopincraftbier.be/products&lt;/link&gt;</link>
   <description>Hop In Craftbier Products feed</description>
   <item>
+    <id>7</id>
+    <ecommerce_id>817728949</ecommerce_id>
+    <title>The Piggy Brewing Company - Piggy Brewing Quintet</title>
+    <url>https://hopincraftbier.be/products/the-piggy-brewing-company-quintet</url>
+    <brewery_name>The Piggy Brewing Company</brewery_name>
+    <price>32.06</price>
+    <regular_price>33.75</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/817728949/5599607431.png</image>
+    <beer_description>The The Piggy Brewing Company - Quintet contains: - West Coast PatrolIPA - American | 5,6% | 440 ml - Hop GeminiIPA - Imperial / Double New England / Hazy | 8% | 440 ml - Don JefeIPA - Imperial / Double New England / Hazy | 8% | 440 ml - Lacrima de Oro (2026)IPA - Triple New England / Hazy | 9,5% | 440 ml - MuvukaStout - Imperial / Double | 12% | 330 ml</beer_description>
+    <beer_style>Stout - IPA</beer_style>
+    <beer_abv>5 - 12%</beer_abv>
+    <beer_volume>Mix</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>France</brewery_country>
+    <date_best_before>2026-09-01</date_best_before>
+    <beer_package_count>5</beer_package_count>
+    <beer_bundle>1</beer_bundle>
+    <bundle_skus>6552171,6522822,6513775,3956966,6560471</bundle_skus>
+  </item>
+  <item>
     <id>9</id>
     <ecommerce_id>817764511</ecommerce_id>
     <title>Polly's Brew Co. - Polly's 8th Birthday Triplet</title>
@@ -6982,6 +7002,6 @@
     <date_canned>2025-03-18</date_canned>
     <untappd_id>3898085</untappd_id>
   </item>
-  <timestamp>1771667105</timestamp>
-  <gen_date>21/02/2026 10:45:05</gen_date>
+  <timestamp>1771668008</timestamp>
+  <gen_date>21/02/2026 11:00:08</gen_date>
 </feed>
