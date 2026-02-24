@@ -12,7 +12,7 @@
     <brewery_name>Fauve</brewery_name>
     <price>26.07</price>
     <regular_price>27.44</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/818297261/5606082540.png</image>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/818297261/5606095962.png</image>
     <beer_description>The Fauve Quartet contains: - Rêve CosmiqueIPA - New England / Hazy | 6,5% | 440 ml - Creuser La VagueIPA - Imperial / Double | 8% | 440 ml - Quatrième DimensionIPA - Quadruple | 12% | 440 ml - Ivoire SombreStout - Imperial / Double Pastry | 12% | 330 ml</beer_description>
     <beer_style>Stout - IPA</beer_style>
     <beer_abv>6 - 12%</beer_abv>
@@ -7068,6 +7068,6 @@
     <date_canned>2025-03-18</date_canned>
     <untappd_id>3898085</untappd_id>
   </item>
-  <timestamp>1771942832</timestamp>
-  <gen_date>24/02/2026 15:20:32</gen_date>
+  <timestamp>1771943405</timestamp>
+  <gen_date>24/02/2026 15:30:05</gen_date>
 </feed>
