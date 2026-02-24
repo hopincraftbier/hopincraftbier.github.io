@@ -5,6 +5,89 @@
   <link>https://hopincraftbier.be/products&lt;/link&gt;</link>
   <description>Hop In Craftbier Products feed</description>
   <item>
+    <id>4</id>
+    <ecommerce_id>818297261</ecommerce_id>
+    <title>Fauve - Fauve Quartet</title>
+    <url>https://hopincraftbier.be/products/fauve-fauve-quartet</url>
+    <brewery_name>Fauve</brewery_name>
+    <price>26.07</price>
+    <regular_price>27.44</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/818297261/5606082540.png</image>
+    <beer_description>The Fauve Quartet contains: - Rêve CosmiqueIPA - New England / Hazy | 6,5% | 440 ml - Creuser La VagueIPA - Imperial / Double | 8% | 440 ml - Quatrième DimensionIPA - Quadruple | 12% | 440 ml - Ivoire SombreStout - Imperial / Double Pastry | 12% | 330 ml</beer_description>
+    <beer_style>Stout - IPA</beer_style>
+    <beer_abv>6 - 12%</beer_abv>
+    <beer_volume>Mix</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>France</brewery_country>
+    <beer_package_count>4</beer_package_count>
+    <beer_bundle>1</beer_bundle>
+    <bundle_skus>6576351,6533907,6577278,6505603</bundle_skus>
+  </item>
+  <item>
+    <id>6576351</id>
+    <ecommerce_id>818287180</ecommerce_id>
+    <title>Rêve Cosmique</title>
+    <url>https://hopincraftbier.be/products/fauve-reve-cosmique</url>
+    <brewery_name>Fauve</brewery_name>
+    <price>6.49</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/818287180/5606057674.png</image>
+    <beer_description>Here's a DDH NEIPA with an aromatic profile leaning towards citrusy and tropical freshness, driven by an intense combination of Mosaic, Idaho 7, and Citra hops. This "Cosmic Dream," brewed to coincide with the release of the graphic novel "Ariane Rêve," reveals a silky body and a distinctly hazy appearance, developing notes of exotic fruits and pink grapefruit from this galaxy of hops. It's a journey to infinity, a pure cosmic nectar to be savored in moderation. Fauve - Reve Cosmique</beer_description>
+    <beer_style>IPA - New England / Hazy</beer_style>
+    <beer_abv>6.5%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>France</brewery_country>
+    <untappd_id>6576351</untappd_id>
+  </item>
+  <item>
+    <id>6505603</id>
+    <ecommerce_id>818297256</ecommerce_id>
+    <title>Quatrième Dimension</title>
+    <url>https://hopincraftbier.be/products/fauve-quatrieme-dimension</url>
+    <brewery_name>Fauve</brewery_name>
+    <price>7.62</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/818297256/5606057716.png</image>
+    <beer_description>Buckle up... Here's our very first Quadruple NEIPA DDH! We've literally pushed the boundaries of hoppy beers with this hazy &amp; juicy monster saturated with Mosaic, Simcoe, Strata, and Nectaron. Powered by a malty base rich in wheat and oats, it explodes with tropical and stone fruit notes you love, with a dank, resinous finish. So if you love hops, trust us, you won't be disappointed! Fauve - Quatrieme Dimension</beer_description>
+    <beer_style>IPA - Quadruple</beer_style>
+    <beer_abv>12%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>France</brewery_country>
+    <untappd_id>6505603</untappd_id>
+  </item>
+  <item>
+    <id>6577278</id>
+    <ecommerce_id>818297255</ecommerce_id>
+    <title>Ivoire Sombre</title>
+    <url>https://hopincraftbier.be/products/fauve-ivoire-sombre</url>
+    <brewery_name>Fauve</brewery_name>
+    <price>6.38</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/818297255/5606061630.png</image>
+    <beer_description>This second part of our Imperial Stouts diptych celebrates coconut in all its facets, with a double dose of fresh, as well as toasted, coconut flakes. While delicious on its own, it was designed to blend with 'Black Orchid' (double vanilla) to create a cohesive and decadent experience. Fauve - Ivoire Sombre</beer_description>
+    <beer_style>Stout - Imperial / Double Pastry</beer_style>
+    <beer_abv>12%</beer_abv>
+    <beer_volume>330 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>France</brewery_country>
+    <untappd_id>6577278</untappd_id>
+  </item>
+  <item>
+    <id>6533907</id>
+    <ecommerce_id>818297254</ecommerce_id>
+    <title>Creuser La Vague</title>
+    <url>https://hopincraftbier.be/products/fauve-creuser-la-vague</url>
+    <brewery_name>Fauve</brewery_name>
+    <price>6.95</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/818297254/5606061656.png</image>
+    <beer_description>The return match of our collaboration with Gross, the Spanish Basque Country brewery where we previously brewed in San Sebastián. This Double NEIPA DDH takes us on a tropical wave thanks to the trio of Citra, Strata, and Sabro. Fauve - Creuser La Vague</beer_description>
+    <beer_style>IPA - Imperial / Double</beer_style>
+    <beer_abv>8%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>France</brewery_country>
+    <untappd_id>6533907</untappd_id>
+  </item>
+  <item>
     <id>7</id>
     <ecommerce_id>817728949</ecommerce_id>
     <title>The Piggy Brewing Company - Piggy Brewing Quintet</title>
@@ -6985,6 +7068,6 @@
     <date_canned>2025-03-18</date_canned>
     <untappd_id>3898085</untappd_id>
   </item>
-  <timestamp>1771925406</timestamp>
-  <gen_date>24/02/2026 10:30:06</gen_date>
+  <timestamp>1771942832</timestamp>
+  <gen_date>24/02/2026 15:20:32</gen_date>
 </feed>
