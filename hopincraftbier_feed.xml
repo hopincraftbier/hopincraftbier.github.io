@@ -91,7 +91,7 @@
     <title>Fauve - Quintet</title>
     <url>https://hopincraftbier.be/products/fauve-quintet</url>
     <brewery_name>Fauve</brewery_name>
-    <price>31.89</price>
+    <price>37.52</price>
     <regular_price>37.52</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/816172034/5584351136.png</image>
     <beer_description>The Fauve - Quintet contains: - Roulez JeunesseIPA - American | 6,3% | 440 ml - J'irai Où Tu IrasIPA - New England / Hazy | 6,5% | 440 ml - Renaître De Ses CendresIPA - Imperial / Double New England / Hazy | 8% | 440 ml - Chambre NoireStout - Imperial / Double | 12% | 330 ml - Révélateur D'OmbresStout - Imperial / Double | 12% | 330 ml</beer_description>
@@ -111,7 +111,7 @@
     <title>Emporium Microbrasserie - Pair</title>
     <url>https://hopincraftbier.be/products/emporium-microbrasserie-pair</url>
     <brewery_name>Emporium Microbrasserie</brewery_name>
-    <price>14.6</price>
+    <price>19.47</price>
     <regular_price>20.86</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/816032762/5582886624.png</image>
     <beer_description>The Emporium Microbrasserie - Pair contains: - CouleIPA - New England / Hazy | 7% | 473 ml - InfinitoIPA - New England / Hazy | 7% | 473 ml</beer_description>
@@ -131,7 +131,7 @@
     <title>Beak - Pair</title>
     <url>https://hopincraftbier.be/products/beak-pair</url>
     <brewery_name>Beak</brewery_name>
-    <price>14.8</price>
+    <price>17.41</price>
     <regular_price>18.5</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/816011852/5582877756.png</image>
     <beer_description>The Beak - Pair contains: - ParadeIPA - New England / Hazy | 6% | 440 ml - CannaIPA - Imperial / Double New England / Hazy | 8% | 440 ml</beer_description>
@@ -152,7 +152,7 @@
     <title>Rivington Brewing Co - Pair</title>
     <url>https://hopincraftbier.be/products/rivington-brewing-co-pair</url>
     <brewery_name>Rivington Brewing Co</brewery_name>
-    <price>12.56</price>
+    <price>16.74</price>
     <regular_price>17.79</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/816016081/5582854649.png</image>
     <beer_description>The Rivington Brewing Co - Pair contains: - Dead AliveIPA - Imperial / Double | 8% | 500 ml - West To the SandIPA - Imperial / Double | 8% | 500 ml</beer_description>
@@ -6985,6 +6985,6 @@
     <date_canned>2025-03-18</date_canned>
     <untappd_id>3898085</untappd_id>
   </item>
-  <timestamp>1771848905</timestamp>
-  <gen_date>23/02/2026 13:15:05</gen_date>
+  <timestamp>1771922705</timestamp>
+  <gen_date>24/02/2026 09:45:05</gen_date>
 </feed>
