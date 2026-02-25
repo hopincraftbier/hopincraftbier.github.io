@@ -5,6 +5,25 @@
   <link>https://hopincraftbier.be/products&lt;/link&gt;</link>
   <description>Hop In Craftbier Products feed</description>
   <item>
+    <id>2</id>
+    <ecommerce_id>818577955</ecommerce_id>
+    <title>Mogwaï Beer Company - Mogwaï Quartet</title>
+    <url>https://hopincraftbier.be/products/mogwai-beer-company-mogwai-quartet</url>
+    <brewery_name>Mogwaï Beer Company</brewery_name>
+    <price>24.59</price>
+    <regular_price>25.88</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/818577955/5608387127.png</image>
+    <beer_description>The Mogwaï Beer Company - Mogwaï Quartet contains: - Mogwaï Beer Company - Yes But Not TodayIPA - New England / Hazy | 6% | 440 ml - Mogwaï Beer Company - Pretty Stable ChaosIPA - Brown | 7,3% | 440 ml - Mogwaï Beer Company - Sauce Du Chef Series - Pinch of TabascoIPA - Imperial / Double New England / Hazy | 8,7% | 440 ml - Independent Beer Company - Cronos And the Infinite HoppinessIPA - Imperial / Double | 9% | 440 ml</beer_description>
+    <beer_style>IPA</beer_style>
+    <beer_abv>6 - 9%</beer_abv>
+    <beer_volume>4x440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>France</brewery_country>
+    <beer_package_count>4</beer_package_count>
+    <beer_bundle>1</beer_bundle>
+    <bundle_skus>6598385,6543423,6573966,6577155</bundle_skus>
+  </item>
+  <item>
     <id>8</id>
     <ecommerce_id>818571292</ecommerce_id>
     <title>Outer Range Brewing Co. - Outer Range Quintet</title>
@@ -235,6 +254,22 @@
     <beer_package>can</beer_package>
     <brewery_country>France</brewery_country>
     <untappd_id>6543423</untappd_id>
+  </item>
+  <item>
+    <id>6577155</id>
+    <ecommerce_id>816187535</ecommerce_id>
+    <title>Cronos And the Infinite Hoppiness</title>
+    <url>https://hopincraftbier.be/products/independent-beer-company-cronos-and-the-infinite-hoppiness</url>
+    <brewery_name>Independent Beer Company</brewery_name>
+    <price>6.49</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/816187535/5584457432.png</image>
+    <beer_description>After the insane brew produced by our friends at L’Instant (a Triple NEIPA with 20 hops) and the 90-minute IPA we brewed with our buddies at Hôp[i], we definitely needed a 120-minute Imperial West Coast IPA to stand up to the comparison. Brewed in Dijon, without mustard, this is nothing less than a massive combination of Columbus, Centennial, Amarillo, Chinook, Simcoe, and Warrior hops that have been dabbled in this heavy West Coast IPA. The bitterness is incredibly smooth with a beautiful aromatic attack from the Simcoe and Centennial, then it develops into resin and hoppy notes, finishing with a bitter orange-resin aftertaste! It's warming without being boozy, and with just the right amount of malt structure to support the hoppy intensity. Independent Beer Company - Cronos And the Infinite Hoppiness</beer_description>
+    <beer_style>IPA - Imperial / Double</beer_style>
+    <beer_abv>9%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>France</brewery_country>
+    <untappd_id>6577155</untappd_id>
   </item>
   <item>
     <id>20</id>
@@ -7161,6 +7196,6 @@
     <date_canned>2025-03-18</date_canned>
     <untappd_id>3898085</untappd_id>
   </item>
-  <timestamp>1772037904</timestamp>
-  <gen_date>25/02/2026 17:45:04</gen_date>
+  <timestamp>1772039706</timestamp>
+  <gen_date>25/02/2026 18:15:06</gen_date>
 </feed>
