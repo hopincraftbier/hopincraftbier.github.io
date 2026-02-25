@@ -24,6 +24,25 @@
     <bundle_skus>6598385,6543423,6573966,6577155</bundle_skus>
   </item>
   <item>
+    <id>10</id>
+    <ecommerce_id>818579162</ecommerce_id>
+    <title>Outer Range Brewing Co. - Outer Range 2 Quintet</title>
+    <url>https://hopincraftbier.be/products/outer-range-brewing-co-quintet-818579162</url>
+    <brewery_name>Outer Range Brewing Co.</brewery_name>
+    <price>32.55</price>
+    <regular_price>34.26</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/818579162/5608354864.png</image>
+    <beer_description>The Outer Range Brewing Co. - Quintet contains: - Liquid KrushIPA - New England / Hazy | 6,7% | 440 ml - Superdelic SignalIPA - New England / Hazy | 7% | 440 ml - Pillow StacksIPA - Imperial / Double New England / Hazy | 7,6% | 440 ml - Above the NoiseIPA - Imperial / Double New England / Hazy | 9% | 440 ml - Heightened StateStout - Imperial / Double | 14% | 330 ml</beer_description>
+    <beer_style>Stout - IPA</beer_style>
+    <beer_abv>6 - 14%</beer_abv>
+    <beer_volume>Mix</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>France</brewery_country>
+    <beer_package_count>5</beer_package_count>
+    <beer_bundle>1</beer_bundle>
+    <bundle_skus>6552592,6590688,2565726,6505755,3948646</bundle_skus>
+  </item>
+  <item>
     <id>8</id>
     <ecommerce_id>818571292</ecommerce_id>
     <title>Outer Range Brewing Co. - Outer Range Quintet</title>
@@ -7196,6 +7215,6 @@
     <date_canned>2025-03-18</date_canned>
     <untappd_id>3898085</untappd_id>
   </item>
-  <timestamp>1772039706</timestamp>
-  <gen_date>25/02/2026 18:15:06</gen_date>
+  <timestamp>1772039742</timestamp>
+  <gen_date>25/02/2026 18:15:42</gen_date>
 </feed>
