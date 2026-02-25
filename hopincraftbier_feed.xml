@@ -1650,26 +1650,6 @@
     <bundle_skus>6220762,6223449,6238201,6224263</bundle_skus>
   </item>
   <item>
-    <id>969</id>
-    <ecommerce_id>801005459</ecommerce_id>
-    <title>Factory Brewing Quartet</title>
-    <url>https://hopincraftbier.be/products/factory-brewing-quartet</url>
-    <brewery_name>Factory Brewing</brewery_name>
-    <price>21.2</price>
-    <regular_price>30.29</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5438588895.png</image>
-    <beer_description>The Factory Brewing Pack pack contains: - MeadowsIPA - New England / Hazy | 7,3% | 440 ml - ReflectionsIPA - Imperial / Double New England / Hazy | 8% | 440 ml - Taste No EvilIPA - Imperial / Double New England / Hazy | 8% | 440 ml - CandydateIPA - Triple New England / Hazy | 10% | 440 ml</beer_description>
-    <beer_style>IPA</beer_style>
-    <beer_abv>7 - 10%</beer_abv>
-    <beer_volume>4x440 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Finland</brewery_country>
-    <date_best_before>2026-01-01</date_best_before>
-    <beer_package_count>4</beer_package_count>
-    <beer_bundle>1</beer_bundle>
-    <bundle_skus>6289690,6249191,6249190,6249192</bundle_skus>
-  </item>
-  <item>
     <id>970</id>
     <ecommerce_id>801005331</ecommerce_id>
     <title>Long Live Beerworks Quartet</title>
@@ -6450,24 +6430,6 @@
     <untappd_id>6009134</untappd_id>
   </item>
   <item>
-    <id>6127067</id>
-    <ecommerce_id>739493777</ecommerce_id>
-    <title>X Anniversary 5/10 Pastry Sour</title>
-    <url>https://hopincraftbier.be/products/browar-stu-mostow-x-anniversary-5-10-pastry-sour</url>
-    <brewery_name>Browar Stu Mostów</brewery_name>
-    <price>1.25</price>
-    <regular_price>4.65</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4847503372.png</image>
-    <beer_description>X Anniversary 5/10 Pastry Sour - fifth in a series of anniversary beers brewed in collaboration with friends from Tripping Animals. Loaded with mango and blueberry, balanced by cherry and orange, this beer offers a broad spectrum of fruitiness. The addition of marshmallow and vanilla rounds out the sweetness of this vibrant composition. Using the classic kettle souring method, also favored by the collaborators, it is fermented with a traditional fruity yeast strain. Result is a nectar with a high sweetness and plenty of fun in every sip. -</beer_description>
-    <beer_style>Sour - Smoothie / Pastry</beer_style>
-    <beer_abv>5.5%</beer_abv>
-    <beer_volume>440 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Poland</brewery_country>
-    <date_best_before>2025-08-10</date_best_before>
-    <untappd_id>6127067</untappd_id>
-  </item>
-  <item>
     <id>6127069</id>
     <ecommerce_id>739491522</ecommerce_id>
     <title>X Anniversary 6/10 Quadrupel BBA</title>
@@ -6645,24 +6607,6 @@
     <brewery_country>Sweden</brewery_country>
     <date_best_before>2027-03-01</date_best_before>
     <untappd_id>6121788</untappd_id>
-  </item>
-  <item>
-    <id>3127108</id>
-    <ecommerce_id>738467167</ecommerce_id>
-    <title>Hollow Names</title>
-    <url>https://hopincraftbier.be/products/alefarm-brewing-hollow-names</url>
-    <brewery_name>Alefarm Brewing</brewery_name>
-    <price>3.51</price>
-    <regular_price>7.01</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4840926929.png</image>
-    <beer_description>DIPA with Mosaic BBC and Amarillo BBC.</beer_description>
-    <beer_style>IPA - Imperial / Double</beer_style>
-    <beer_abv>8%</beer_abv>
-    <beer_volume>440 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Denmark</brewery_country>
-    <date_best_before>2026-01-28</date_best_before>
-    <untappd_id>3127108</untappd_id>
   </item>
   <item>
     <id>6121787</id>
@@ -7088,6 +7032,6 @@
     <date_canned>2025-03-18</date_canned>
     <untappd_id>3898085</untappd_id>
   </item>
-  <timestamp>1772031292</timestamp>
-  <gen_date>25/02/2026 15:54:52</gen_date>
+  <timestamp>1772032506</timestamp>
+  <gen_date>25/02/2026 16:15:06</gen_date>
 </feed>
