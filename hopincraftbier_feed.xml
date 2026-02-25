@@ -189,6 +189,54 @@
     <bundle_skus>6574797,6574785,6574782,6574780</bundle_skus>
   </item>
   <item>
+    <id>6598385</id>
+    <ecommerce_id>816187536</ecommerce_id>
+    <title>Yes But Not Today</title>
+    <url>https://hopincraftbier.be/products/mogwai-beer-company-yes-but-not-today</url>
+    <brewery_name>Mogwaï Beer Company</brewery_name>
+    <price>6.62</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/816187536/5584462843.png</image>
+    <beer_description>There are times in life when, no matter how much willpower you have (even on Monday morning), if the universe has decided it's a no… well, it's a no… So when we decided to unveil our Innovative, Revolutionary, and Disruptive Dry Hopping Technique© for this new NEIPA, it told us, "Yes, but no, not today," leaving us standing there in front of all our gear, precariously but undeniably cleverly hooked up. So we'll save it for later, which won't stop us from enjoying this hoppy brew powered by Idaho 7, hot Mosaic Dynaboost, Amarillo Cryo for the first dry hop, and Krush + Mosaic Cryo for the second. Mogwai Beer Company - Yes But Not Today</beer_description>
+    <beer_style>IPA - New England / Hazy</beer_style>
+    <beer_abv>6%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>France</brewery_country>
+    <untappd_id>6598385</untappd_id>
+  </item>
+  <item>
+    <id>6573966</id>
+    <ecommerce_id>816173127</ecommerce_id>
+    <title>Sauce Du Chef Series - Pinch of Tabasco</title>
+    <url>https://hopincraftbier.be/products/mogwai-beer-company-sauce-du-chef-series-pinch-of-tabasco</url>
+    <brewery_name>Mogwaï Beer Company</brewery_name>
+    <price>6.82</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/816173127/5584462824.png</image>
+    <beer_description>Double NEIPA with Tabasco. Hot! This Double NEIPA is hot! Since we were going to do some Tabasco magic, we went all out, using recent and/or experimental hop varieties that aren't yet fully established: Erebus and Alora from Hopsteiner, and HBC638 from Yakima. No need to beat around the bush, the combination delivers a big salad of yellow fruits (peach, apricot) aromatically, while the Tabasco heats things up and adds a touch of smoky chili. IT'S A BIG FIGHT IN YOUR THROAT! Mogwai Beer Company - Sauce Du Chef Series - Pinch of Tabasco</beer_description>
+    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
+    <beer_abv>8.7%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>France</brewery_country>
+    <untappd_id>6573966</untappd_id>
+  </item>
+  <item>
+    <id>6543423</id>
+    <ecommerce_id>816173126</ecommerce_id>
+    <title>Pretty Stable Chaos</title>
+    <url>https://hopincraftbier.be/products/mogwai-beer-company-pretty-stable-chaos</url>
+    <brewery_name>Mogwaï Beer Company</brewery_name>
+    <price>5.95</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/816173126/5584456749.png</image>
+    <beer_description>Brown IPA Sabro/Talus. Just like Red IPAs, the Brown IPA style isn't the easiest to sell, and therefore, it's not easy to get your hands on it. So, all the more reason for us to make one, by Jove! On a base of caramelized and chocolatey malts, we've enhanced the aromatic richness with Sabro and Talus hops, each contributing notes of coconut. As expected from a Mogwai IPA, the bitterness is quite pronounced and adds a resinous touch to the overall flavor. In short, yet another brew whose sole purpose is to complete our Pokédex of beer styles to brew! Mogwai Beer Company - Pretty Stable Chaos</beer_description>
+    <beer_style>IPA - Brown</beer_style>
+    <beer_abv>7.3%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>France</brewery_country>
+    <untappd_id>6543423</untappd_id>
+  </item>
+  <item>
     <id>20</id>
     <ecommerce_id>816172034</ecommerce_id>
     <title>Fauve - Quintet</title>
@@ -869,6 +917,87 @@
     <beer_package_count>3</beer_package_count>
     <beer_bundle>1</beer_bundle>
     <bundle_skus>6384350,6384345,6384339</bundle_skus>
+  </item>
+  <item>
+    <id>6590688</id>
+    <ecommerce_id>806355016</ecommerce_id>
+    <title>Superdelic Signal</title>
+    <url>https://hopincraftbier.be/products/outer-range-brewing-co-superdelic-signal</url>
+    <brewery_name>Outer Range Brewing Co.</brewery_name>
+    <price>6.68</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/806355016/5575446368.png</image>
+    <beer_description>Collab with Basqueland Hops: Superdelic Tasting Notes: Citrus Fruit • Bay Fruit • Tropical</beer_description>
+    <beer_style>IPA - New England / Hazy</beer_style>
+    <beer_abv>7%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>France</brewery_country>
+    <untappd_id>6590688</untappd_id>
+  </item>
+  <item>
+    <id>3948646</id>
+    <ecommerce_id>806293946</ecommerce_id>
+    <title>Heightened State</title>
+    <url>https://hopincraftbier.be/products/outer-range-brewing-co-heightened-state</url>
+    <brewery_name>Outer Range Brewing Co.</brewery_name>
+    <price>5.9</price>
+    <regular_price>5.90</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/806293946/5523726599.png</image>
+    <beer_description>Imperial Stout made with Coffee from Mountain Dweller Coffee Roasters. A fresh toasty coffee aroma leads to strong roasted coffee with light chocolate undertones Outer Range Brewing Co. - Heightened State</beer_description>
+    <beer_style>Stout - Imperial / Double</beer_style>
+    <beer_abv>14%</beer_abv>
+    <beer_volume>330 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>France</brewery_country>
+    <untappd_id>3948646</untappd_id>
+  </item>
+  <item>
+    <id>6505755</id>
+    <ecommerce_id>806293872</ecommerce_id>
+    <title>Above the Noise</title>
+    <url>https://hopincraftbier.be/products/outer-range-brewing-co-above-the-noise</url>
+    <brewery_name>Outer Range Brewing Co.</brewery_name>
+    <price>7.27</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/806293872/5523723903.png</image>
+    <beer_description>Collaboration with Fidens Brewing Co. (NY, Albany) Hops: Citra, Motueka, Riwaka, Nelson Tasting Notes: Mango, Grapefruit, White Grape ABV: 9% Outer Range Brewing Co. - Above the Noise</beer_description>
+    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
+    <beer_abv>9%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>France</brewery_country>
+    <untappd_id>6505755</untappd_id>
+  </item>
+  <item>
+    <id>6552592</id>
+    <ecommerce_id>806292910</ecommerce_id>
+    <title>Liquid Krush</title>
+    <url>https://hopincraftbier.be/products/outer-range-brewing-co-liquid-krush</url>
+    <brewery_name>Outer Range Brewing Co.</brewery_name>
+    <price>7.33</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/806292910/5523723915.png</image>
+    <beer_description>Collab Moersleutel Hops : Krush &amp; Galaxy Outer Range Brewing Co. - Liquid Krush</beer_description>
+    <beer_style>IPA - New England / Hazy</beer_style>
+    <beer_abv>6.7%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>France</brewery_country>
+    <untappd_id>6552592</untappd_id>
+  </item>
+  <item>
+    <id>2565726</id>
+    <ecommerce_id>806292908</ecommerce_id>
+    <title>Pillow Stacks</title>
+    <url>https://hopincraftbier.be/products/outer-range-brewing-co-pillow-stacks</url>
+    <brewery_name>Outer Range Brewing Co.</brewery_name>
+    <price>7.08</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/806292908/5523726605.png</image>
+    <beer_description>DIPA. Hops: Mosaic. Tasting Notes: Dark Berries, Cannabis, Pine. ABV: 7.6% Outer Range Brewing Co. - Pillow Stacks</beer_description>
+    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
+    <beer_abv>7.6%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>France</brewery_country>
+    <untappd_id>2565726</untappd_id>
   </item>
   <item>
     <id>942</id>
@@ -7032,6 +7161,6 @@
     <date_canned>2025-03-18</date_canned>
     <untappd_id>3898085</untappd_id>
   </item>
-  <timestamp>1772032506</timestamp>
-  <gen_date>25/02/2026 16:15:06</gen_date>
+  <timestamp>1772037904</timestamp>
+  <gen_date>25/02/2026 17:45:04</gen_date>
 </feed>
