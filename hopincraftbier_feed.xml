@@ -5,6 +5,26 @@
   <link>https://hopincraftbier.be/products&lt;/link&gt;</link>
   <description>Hop In Craftbier Products feed</description>
   <item>
+    <id>8</id>
+    <ecommerce_id>818571292</ecommerce_id>
+    <title>Outer Range Brewing Co. - Outer Range Quintet</title>
+    <url>https://hopincraftbier.be/products/outer-range-brewing-co-quintet</url>
+    <brewery_name>Outer Range Brewing Co.</brewery_name>
+    <price>29.1</price>
+    <regular_price>36.04</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/818571292/5608146676.png</image>
+    <beer_description>The Outer Range Brewing Co. - Quintet contains: - CruxIPA - American | 6,5% | 440 ml - In the Steep HyperBoostIPA - New England / Hazy | 6,7% | 440 ml - BelayIPA - New England / Hazy | 7,2% | 440 ml - Buck YeahIPA - New England / Hazy | 7,2% | 440 ml - Out of the WoodsIPA - Imperial / Double New England / Hazy | 7,5% | 440 ml</beer_description>
+    <beer_style>IPA</beer_style>
+    <beer_abv>6 - 7%</beer_abv>
+    <beer_volume>5x440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>France</brewery_country>
+    <date_best_before>2026-04-21</date_best_before>
+    <beer_package_count>5</beer_package_count>
+    <beer_bundle>1</beer_bundle>
+    <bundle_skus>6296412,6282604,3338694,4953869,4367493</bundle_skus>
+  </item>
+  <item>
     <id>4</id>
     <ecommerce_id>818297261</ecommerce_id>
     <title>Fauve - Fauve Quartet</title>
@@ -7068,6 +7088,6 @@
     <date_canned>2025-03-18</date_canned>
     <untappd_id>3898085</untappd_id>
   </item>
-  <timestamp>1771943405</timestamp>
-  <gen_date>24/02/2026 15:30:05</gen_date>
+  <timestamp>1772031292</timestamp>
+  <gen_date>25/02/2026 15:54:52</gen_date>
 </feed>
