@@ -417,6 +417,38 @@
     <untappd_id>6318094</untappd_id>
   </item>
   <item>
+    <id>6567898</id>
+    <ecommerce_id>814010511</ecommerce_id>
+    <title>Double Happiness : Earth Rooster</title>
+    <url>https://hopincraftbier.be/products/maktoob-brewing-double-happiness-earth-rooster</url>
+    <brewery_name>Maktoob Brewing</brewery_name>
+    <price>6.85</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/814010511/5564964478.png</image>
+    <beer_description>The "Double Happiness" series is Maktoob's flagship brand of thick, heavy New England IPAs. For this 6th edition, Earth Rooster, they've chosen the "king of hops": Citra and Nelson Sauvin. Hazy, creamy, and intensely fruity. The Nelson Sauvin (from New Zealand) delivers unique, wine-like notes of white grapes (Sauvignon Blanc) and gooseberry. The Citra complements this perfectly with a burst of lime, grapefruit, and tropical fruit. Maktoob Brewing - Double Happiness : Earth Rooster</beer_description>
+    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
+    <beer_abv>8%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Romania</brewery_country>
+    <untappd_id>6567898</untappd_id>
+  </item>
+  <item>
+    <id>6570662</id>
+    <ecommerce_id>814012505</ecommerce_id>
+    <title>Abduction In the Desert</title>
+    <url>https://hopincraftbier.be/products/maktoob-brewing-abduction-in-the-desert</url>
+    <brewery_name>Maktoob Brewing</brewery_name>
+    <price>6.85</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/814012505/5564964993.png</image>
+    <beer_description>This 8% ABV Double IPA is double dry-hopped (DDH) and focuses on the exclusive Peacharine hop from New Zealand, supported by the ever-reliable Citra. Get ready for a stonefruit explosion. The Peacharine hop does exactly what the name promises: it delivers intense notes of juicy peach and nectarine. The Citra adds a refreshing layer of lime and grapefruit. The beer is hazy, full-bodied, and smooth in texture, making it dangerously easy to drink despite its 8% ABV. A "fruit juice" for adults. Maktoob Brewing - Abduction In the Desert</beer_description>
+    <beer_style>IPA - Imperial / Double</beer_style>
+    <beer_abv>8%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Romania</brewery_country>
+    <untappd_id>6570662</untappd_id>
+  </item>
+  <item>
     <id>939</id>
     <ecommerce_id>811899518</ecommerce_id>
     <title>Prizm Brewing Co. Pack</title>
@@ -7215,6 +7247,6 @@
     <date_canned>2025-03-18</date_canned>
     <untappd_id>3898085</untappd_id>
   </item>
-  <timestamp>1772039742</timestamp>
-  <gen_date>25/02/2026 18:15:42</gen_date>
+  <timestamp>1772094148</timestamp>
+  <gen_date>26/02/2026 09:22:28</gen_date>
 </feed>
