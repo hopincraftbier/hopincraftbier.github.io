@@ -6,7 +6,7 @@
   <description>Hop In Craftbier Products feed</description>
   <item>
     <id>P_0001</id>
-    <ecommerce_id>818795001_0001</ecommerce_id>
+    <ecommerce_id>818795001</ecommerce_id>
     <title>Maktoob Brewing - Pair</title>
     <url>https://hopincraftbier.be/products/maktoob-brewing-pair</url>
     <brewery_name>Maktoob Brewing</brewery_name>
@@ -7266,6 +7266,6 @@
     <date_canned>2025-03-18</date_canned>
     <untappd_id>3898085</untappd_id>
   </item>
-  <timestamp>1772095905</timestamp>
-  <gen_date>26/02/2026 09:51:45</gen_date>
+  <timestamp>1772100124</timestamp>
+  <gen_date>26/02/2026 11:02:04</gen_date>
 </feed>
