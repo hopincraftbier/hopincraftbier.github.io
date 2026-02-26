@@ -24,7 +24,7 @@
     <bundle_skus>6567898,6570662</bundle_skus>
   </item>
   <item>
-    <id>2</id>
+    <id>P0002</id>
     <ecommerce_id>818577955</ecommerce_id>
     <title>Mogwaï Beer Company - Mogwaï Quartet</title>
     <url>https://hopincraftbier.be/products/mogwai-beer-company-mogwai-quartet</url>
@@ -43,7 +43,7 @@
     <bundle_skus>6598385,6543423,6573966,6577155</bundle_skus>
   </item>
   <item>
-    <id>10</id>
+    <id>P0010</id>
     <ecommerce_id>818579162</ecommerce_id>
     <title>Outer Range Brewing Co. - Outer Range 2 Quintet</title>
     <url>https://hopincraftbier.be/products/outer-range-brewing-co-quintet-818579162</url>
@@ -62,7 +62,7 @@
     <bundle_skus>6552592,6590688,2565726,6505755,3948646</bundle_skus>
   </item>
   <item>
-    <id>8</id>
+    <id>P0008</id>
     <ecommerce_id>818571292</ecommerce_id>
     <title>Outer Range Brewing Co. - Outer Range Quintet</title>
     <url>https://hopincraftbier.be/products/outer-range-brewing-co-quintet</url>
@@ -82,7 +82,7 @@
     <bundle_skus>6296412,6282604,3338694,4953869,4367493</bundle_skus>
   </item>
   <item>
-    <id>4</id>
+    <id>P0004</id>
     <ecommerce_id>818297261</ecommerce_id>
     <title>Fauve - Fauve Quartet</title>
     <url>https://hopincraftbier.be/products/fauve-fauve-quartet</url>
@@ -165,7 +165,7 @@
     <untappd_id>6533907</untappd_id>
   </item>
   <item>
-    <id>7</id>
+    <id>P0007</id>
     <ecommerce_id>817728949</ecommerce_id>
     <title>The Piggy Brewing Company - Piggy Brewing Quintet</title>
     <url>https://hopincraftbier.be/products/the-piggy-brewing-company-quintet</url>
@@ -185,7 +185,7 @@
     <bundle_skus>6552171,6522822,6513775,3956966,6560471</bundle_skus>
   </item>
   <item>
-    <id>9</id>
+    <id>P0009</id>
     <ecommerce_id>817764511</ecommerce_id>
     <title>Polly's Brew Co. - Polly's 8th Birthday Triplet</title>
     <url>https://hopincraftbier.be/products/pollys-brew-co-pollys-8th-birthday-triplet</url>
@@ -205,7 +205,7 @@
     <bundle_skus>6577350,6577359,6577343</bundle_skus>
   </item>
   <item>
-    <id>6</id>
+    <id>P0006</id>
     <ecommerce_id>817736922</ecommerce_id>
     <title>Hopalaa - Hopalaa Triplet</title>
     <url>https://hopincraftbier.be/products/hopalaa-hopalaa-triplet</url>
@@ -225,7 +225,7 @@
     <bundle_skus>6560695,6527510,6446971</bundle_skus>
   </item>
   <item>
-    <id>5</id>
+    <id>P0005</id>
     <ecommerce_id>817736900</ecommerce_id>
     <title>Factory Brewing - Factory Brewing Anniversary Quartet</title>
     <url>https://hopincraftbier.be/products/factory-brewing-quartet-817736900</url>
@@ -310,7 +310,7 @@
     <untappd_id>6577155</untappd_id>
   </item>
   <item>
-    <id>20</id>
+    <id>P0020</id>
     <ecommerce_id>816172034</ecommerce_id>
     <title>Fauve - Quintet</title>
     <url>https://hopincraftbier.be/products/fauve-quintet</url>
@@ -350,7 +350,7 @@
     <bundle_skus>6189429,6015336</bundle_skus>
   </item>
   <item>
-    <id>18</id>
+    <id>P0018</id>
     <ecommerce_id>816011852</ecommerce_id>
     <title>Beak - Pair</title>
     <url>https://hopincraftbier.be/products/beak-pair</url>
@@ -371,7 +371,7 @@
     <bundle_skus>3820116,6406071</bundle_skus>
   </item>
   <item>
-    <id>17</id>
+    <id>P0017</id>
     <ecommerce_id>816016081</ecommerce_id>
     <title>Rivington Brewing Co - Pair</title>
     <url>https://hopincraftbier.be/products/rivington-brewing-co-pair</url>
@@ -7266,6 +7266,6 @@
     <date_canned>2025-03-18</date_canned>
     <untappd_id>3898085</untappd_id>
   </item>
-  <timestamp>1772100951</timestamp>
-  <gen_date>26/02/2026 11:15:51</gen_date>
+  <timestamp>1772105030</timestamp>
+  <gen_date>26/02/2026 12:23:50</gen_date>
 </feed>
