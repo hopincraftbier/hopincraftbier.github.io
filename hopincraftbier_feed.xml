@@ -5,102 +5,6 @@
   <link>https://hopincraftbier.be/products&lt;/link&gt;</link>
   <description>Hop In Craftbier Products feed</description>
   <item>
-    <id>P0001</id>
-    <ecommerce_id>818795001</ecommerce_id>
-    <title>Maktoob Brewing - Pair</title>
-    <url>https://hopincraftbier.be/products/maktoob-brewing-pair</url>
-    <brewery_name>Maktoob Brewing</brewery_name>
-    <price>13.01</price>
-    <regular_price>13.7</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/818795001/5609681288.png</image>
-    <beer_description>The Maktoob Brewing - Pair contains: - Abduction In the DesertIPA - Imperial / Double | 8% | 440 ml - Double Happiness : Earth RoosterIPA - Imperial / Double New England / Hazy | 8% | 440 ml</beer_description>
-    <beer_style>IPA</beer_style>
-    <beer_abv>8%</beer_abv>
-    <beer_volume>2x440 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Romania</brewery_country>
-    <beer_package_count>2</beer_package_count>
-    <beer_bundle>1</beer_bundle>
-    <bundle_skus>6567898,6570662</bundle_skus>
-  </item>
-  <item>
-    <id>P0002</id>
-    <ecommerce_id>818577955</ecommerce_id>
-    <title>Mogwaï Beer Company - Mogwaï Quartet</title>
-    <url>https://hopincraftbier.be/products/mogwai-beer-company-mogwai-quartet</url>
-    <brewery_name>Mogwaï Beer Company</brewery_name>
-    <price>24.59</price>
-    <regular_price>25.88</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/818577955/5608387127.png</image>
-    <beer_description>The Mogwaï Beer Company - Mogwaï Quartet contains: - Mogwaï Beer Company - Yes But Not TodayIPA - New England / Hazy | 6% | 440 ml - Mogwaï Beer Company - Pretty Stable ChaosIPA - Brown | 7,3% | 440 ml - Mogwaï Beer Company - Sauce Du Chef Series - Pinch of TabascoIPA - Imperial / Double New England / Hazy | 8,7% | 440 ml - Independent Beer Company - Cronos And the Infinite HoppinessIPA - Imperial / Double | 9% | 440 ml</beer_description>
-    <beer_style>IPA</beer_style>
-    <beer_abv>6 - 9%</beer_abv>
-    <beer_volume>4x440 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>France</brewery_country>
-    <beer_package_count>4</beer_package_count>
-    <beer_bundle>1</beer_bundle>
-    <bundle_skus>6598385,6543423,6573966,6577155</bundle_skus>
-  </item>
-  <item>
-    <id>P0010</id>
-    <ecommerce_id>818579162</ecommerce_id>
-    <title>Outer Range Brewing Co. - Outer Range 2 Quintet</title>
-    <url>https://hopincraftbier.be/products/outer-range-brewing-co-quintet-818579162</url>
-    <brewery_name>Outer Range Brewing Co.</brewery_name>
-    <price>32.55</price>
-    <regular_price>34.26</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/818579162/5608354864.png</image>
-    <beer_description>The Outer Range Brewing Co. - Quintet contains: - Liquid KrushIPA - New England / Hazy | 6,7% | 440 ml - Superdelic SignalIPA - New England / Hazy | 7% | 440 ml - Pillow StacksIPA - Imperial / Double New England / Hazy | 7,6% | 440 ml - Above the NoiseIPA - Imperial / Double New England / Hazy | 9% | 440 ml - Heightened StateStout - Imperial / Double | 14% | 330 ml</beer_description>
-    <beer_style>Stout - IPA</beer_style>
-    <beer_abv>6 - 14%</beer_abv>
-    <beer_volume>Mix</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>France</brewery_country>
-    <beer_package_count>5</beer_package_count>
-    <beer_bundle>1</beer_bundle>
-    <bundle_skus>6552592,6590688,2565726,6505755,3948646</bundle_skus>
-  </item>
-  <item>
-    <id>P0008</id>
-    <ecommerce_id>818571292</ecommerce_id>
-    <title>Outer Range Brewing Co. - Outer Range Quintet</title>
-    <url>https://hopincraftbier.be/products/outer-range-brewing-co-quintet</url>
-    <brewery_name>Outer Range Brewing Co.</brewery_name>
-    <price>29.1</price>
-    <regular_price>36.04</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/818571292/5608146676.png</image>
-    <beer_description>The Outer Range Brewing Co. - Quintet contains: - CruxIPA - American | 6,5% | 440 ml - In the Steep HyperBoostIPA - New England / Hazy | 6,7% | 440 ml - BelayIPA - New England / Hazy | 7,2% | 440 ml - Buck YeahIPA - New England / Hazy | 7,2% | 440 ml - Out of the WoodsIPA - Imperial / Double New England / Hazy | 7,5% | 440 ml</beer_description>
-    <beer_style>IPA</beer_style>
-    <beer_abv>6 - 7%</beer_abv>
-    <beer_volume>5x440 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>France</brewery_country>
-    <date_best_before>2026-04-21</date_best_before>
-    <beer_package_count>5</beer_package_count>
-    <beer_bundle>1</beer_bundle>
-    <bundle_skus>6296412,6282604,3338694,4953869,4367493</bundle_skus>
-  </item>
-  <item>
-    <id>P0004</id>
-    <ecommerce_id>818297261</ecommerce_id>
-    <title>Fauve - Fauve Quartet</title>
-    <url>https://hopincraftbier.be/products/fauve-fauve-quartet</url>
-    <brewery_name>Fauve</brewery_name>
-    <price>26.07</price>
-    <regular_price>27.44</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/818297261/5606095962.png</image>
-    <beer_description>The Fauve Quartet contains: - Rêve CosmiqueIPA - New England / Hazy | 6,5% | 440 ml - Creuser La VagueIPA - Imperial / Double | 8% | 440 ml - Quatrième DimensionIPA - Quadruple | 12% | 440 ml - Ivoire SombreStout - Imperial / Double Pastry | 12% | 330 ml</beer_description>
-    <beer_style>Stout - IPA</beer_style>
-    <beer_abv>6 - 12%</beer_abv>
-    <beer_volume>Mix</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>France</brewery_country>
-    <beer_package_count>4</beer_package_count>
-    <beer_bundle>1</beer_bundle>
-    <bundle_skus>6576351,6533907,6577278,6505603</bundle_skus>
-  </item>
-  <item>
     <id>6576351</id>
     <ecommerce_id>818287180</ecommerce_id>
     <title>Rêve Cosmique</title>
@@ -163,87 +67,6 @@
     <beer_package>can</beer_package>
     <brewery_country>France</brewery_country>
     <untappd_id>6533907</untappd_id>
-  </item>
-  <item>
-    <id>P0007</id>
-    <ecommerce_id>817728949</ecommerce_id>
-    <title>The Piggy Brewing Company - Piggy Brewing Quintet</title>
-    <url>https://hopincraftbier.be/products/the-piggy-brewing-company-quintet</url>
-    <brewery_name>The Piggy Brewing Company</brewery_name>
-    <price>32.06</price>
-    <regular_price>33.75</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/817728949/5599607431.png</image>
-    <beer_description>The The Piggy Brewing Company - Quintet contains: - West Coast PatrolIPA - American | 5,6% | 440 ml - Hop GeminiIPA - Imperial / Double New England / Hazy | 8% | 440 ml - Don JefeIPA - Imperial / Double New England / Hazy | 8% | 440 ml - Lacrima de Oro (2026)IPA - Triple New England / Hazy | 9,5% | 440 ml - MuvukaStout - Imperial / Double | 12% | 330 ml</beer_description>
-    <beer_style>Stout - IPA</beer_style>
-    <beer_abv>5 - 12%</beer_abv>
-    <beer_volume>Mix</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>France</brewery_country>
-    <date_best_before>2026-09-01</date_best_before>
-    <beer_package_count>5</beer_package_count>
-    <beer_bundle>1</beer_bundle>
-    <bundle_skus>6552171,6522822,6513775,3956966,6560471</bundle_skus>
-  </item>
-  <item>
-    <id>P0009</id>
-    <ecommerce_id>817764511</ecommerce_id>
-    <title>Polly's Brew Co. - Polly's 8th Birthday Triplet</title>
-    <url>https://hopincraftbier.be/products/pollys-brew-co-pollys-8th-birthday-triplet</url>
-    <brewery_name>Polly's Brew Co.</brewery_name>
-    <price>20.56</price>
-    <regular_price>21.64</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/817764511/5599600827.png</image>
-    <beer_description>The Polly's Brew Co. - Triplet contains: - 8th Birthday - India Pale AleIPA - English | 6,5% | 440 ml - 8th Birthday - Double India Pale AleIPA - Imperial / Double | 8,2% | 440 ml - 8th Birthday - Danish Pastry Imperial StoutStout - Imperial / Double Pastry | 11% | 440 ml</beer_description>
-    <beer_style>Stout - IPA</beer_style>
-    <beer_abv>6 - 11%</beer_abv>
-    <beer_volume>3x440 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Wales</brewery_country>
-    <date_best_before>2026-10-09</date_best_before>
-    <beer_package_count>3</beer_package_count>
-    <beer_bundle>1</beer_bundle>
-    <bundle_skus>6577350,6577359,6577343</bundle_skus>
-  </item>
-  <item>
-    <id>P0006</id>
-    <ecommerce_id>817736922</ecommerce_id>
-    <title>Hopalaa - Hopalaa Triplet</title>
-    <url>https://hopincraftbier.be/products/hopalaa-hopalaa-triplet</url>
-    <brewery_name>Hopalaa</brewery_name>
-    <price>16.49</price>
-    <regular_price>17.36</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/817736922/5599579946.png</image>
-    <beer_description>The Hopalaa - Triplet contains: - JUNGALAAIPA - Imperial / Double New England / Hazy | 8% | 440 ml - TURBULENCEIPA - Imperial / Double New England / Hazy | 8% | 440 ml - DOUBLE PASSIONIPA - Imperial / Double New England / Hazy | 8,2% | 440 ml</beer_description>
-    <beer_style>IPA</beer_style>
-    <beer_abv>8%</beer_abv>
-    <beer_volume>3x440 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Latvia</brewery_country>
-    <date_best_before>2026-11-15</date_best_before>
-    <beer_package_count>3</beer_package_count>
-    <beer_bundle>1</beer_bundle>
-    <bundle_skus>6560695,6527510,6446971</bundle_skus>
-  </item>
-  <item>
-    <id>P0005</id>
-    <ecommerce_id>817736900</ecommerce_id>
-    <title>Factory Brewing - Factory Brewing Anniversary Quartet</title>
-    <url>https://hopincraftbier.be/products/factory-brewing-quartet-817736900</url>
-    <brewery_name>Factory Brewing</brewery_name>
-    <price>28.66</price>
-    <regular_price>30.17</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/817736900/5599576619.png</image>
-    <beer_description>The Factory Brewing - Quartet contains: - Distant ClosenessIPA - New England / Hazy | 7,3% | 440 ml - Turbid DreamsIPA - Imperial / Double New England / Hazy | 8,0% | 440 ml - Perpetual MotionIPA - Triple New England / Hazy | 10,0% | 440 ml - Eye OpenerStout - Pastry | 12,0% | 440 ml</beer_description>
-    <beer_style>Stout - IPA</beer_style>
-    <beer_abv>7 - 12%</beer_abv>
-    <beer_volume>4x440 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Finland</brewery_country>
-    <date_best_before>2026-11-01</date_best_before>
-    <date_canned>2026-01-22</date_canned>
-    <beer_package_count>4</beer_package_count>
-    <beer_bundle>1</beer_bundle>
-    <bundle_skus>6574797,6574785,6574782,6574780</bundle_skus>
   </item>
   <item>
     <id>6598385</id>
@@ -315,26 +138,6 @@
     <untappd_id>6577155</untappd_id>
   </item>
   <item>
-    <id>P0020</id>
-    <ecommerce_id>816172034</ecommerce_id>
-    <title>Fauve - Quintet</title>
-    <url>https://hopincraftbier.be/products/fauve-quintet</url>
-    <brewery_name>Fauve</brewery_name>
-    <price>37.52</price>
-    <regular_price>37.52</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/816172034/5584351136.png</image>
-    <beer_description>The Fauve - Quintet contains: - Roulez JeunesseIPA - American | 6,3% | 440 ml - J'irai Où Tu IrasIPA - New England / Hazy | 6,5% | 440 ml - Renaître De Ses CendresIPA - Imperial / Double New England / Hazy | 8% | 440 ml - Chambre NoireStout - Imperial / Double | 12% | 330 ml - Révélateur D'OmbresStout - Imperial / Double | 12% | 330 ml</beer_description>
-    <beer_style>Stout - IPA</beer_style>
-    <beer_abv>6 - 12%</beer_abv>
-    <beer_volume>Mix</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>France</brewery_country>
-    <date_best_before>2026-04-03</date_best_before>
-    <beer_package_count>5</beer_package_count>
-    <beer_bundle>1</beer_bundle>
-    <bundle_skus>6375119,6343725,6292774,6314891,6314901</bundle_skus>
-  </item>
-  <item>
     <id>19</id>
     <ecommerce_id>816032762</ecommerce_id>
     <title>Emporium Microbrasserie - Pair</title>
@@ -353,48 +156,6 @@
     <beer_package_count>2</beer_package_count>
     <beer_bundle>1</beer_bundle>
     <bundle_skus>6189429,6015336</bundle_skus>
-  </item>
-  <item>
-    <id>P0018</id>
-    <ecommerce_id>816011852</ecommerce_id>
-    <title>Beak - Pair</title>
-    <url>https://hopincraftbier.be/products/beak-pair</url>
-    <brewery_name>Beak</brewery_name>
-    <price>17.41</price>
-    <regular_price>18.5</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/816011852/5582877756.png</image>
-    <beer_description>The Beak - Pair contains: - ParadeIPA - New England / Hazy | 6% | 440 ml - CannaIPA - Imperial / Double New England / Hazy | 8% | 440 ml</beer_description>
-    <beer_style>IPA</beer_style>
-    <beer_abv>6 - 8%</beer_abv>
-    <beer_volume>2x440 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>England</brewery_country>
-    <date_best_before>2026-03-02</date_best_before>
-    <date_canned>2025-09-03</date_canned>
-    <beer_package_count>2</beer_package_count>
-    <beer_bundle>1</beer_bundle>
-    <bundle_skus>3820116,6406071</bundle_skus>
-  </item>
-  <item>
-    <id>P0017</id>
-    <ecommerce_id>816016081</ecommerce_id>
-    <title>Rivington Brewing Co - Pair</title>
-    <url>https://hopincraftbier.be/products/rivington-brewing-co-pair</url>
-    <brewery_name>Rivington Brewing Co</brewery_name>
-    <price>16.74</price>
-    <regular_price>17.79</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/816016081/5582854649.png</image>
-    <beer_description>The Rivington Brewing Co - Pair contains: - Dead AliveIPA - Imperial / Double | 8% | 500 ml - West To the SandIPA - Imperial / Double | 8% | 500 ml</beer_description>
-    <beer_style>IPA</beer_style>
-    <beer_abv>8%</beer_abv>
-    <beer_volume>2x500 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>England</brewery_country>
-    <date_best_before>2026-02-21</date_best_before>
-    <date_canned>2025-08-21</date_canned>
-    <beer_package_count>2</beer_package_count>
-    <beer_bundle>1</beer_bundle>
-    <bundle_skus>6365889,6421716</bundle_skus>
   </item>
   <item>
     <id>14</id>
@@ -7276,6 +7037,6 @@
     <date_canned>2025-03-18</date_canned>
     <untappd_id>3898085</untappd_id>
   </item>
-  <timestamp>1772127905</timestamp>
-  <gen_date>26/02/2026 18:45:05</gen_date>
+  <timestamp>1772136776</timestamp>
+  <gen_date>26/02/2026 21:12:56</gen_date>
 </feed>
