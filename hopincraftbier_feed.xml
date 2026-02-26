@@ -5,6 +5,25 @@
   <link>https://hopincraftbier.be/products&lt;/link&gt;</link>
   <description>Hop In Craftbier Products feed</description>
   <item>
+    <id>P_0001</id>
+    <ecommerce_id>818795001_0001</ecommerce_id>
+    <title>Maktoob Brewing - Pair</title>
+    <url>https://hopincraftbier.be/products/maktoob-brewing-pair</url>
+    <brewery_name>Maktoob Brewing</brewery_name>
+    <price>13.01</price>
+    <regular_price>13.7</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/818795001/5609662994.png</image>
+    <beer_description>The Maktoob Brewing - Pair contains: - Abduction In the DesertIPA - Imperial / Double | 8% | 440 ml - Double Happiness : Earth RoosterIPA - Imperial / Double New England / Hazy | 8% | 440 ml</beer_description>
+    <beer_style>IPA</beer_style>
+    <beer_abv>8%</beer_abv>
+    <beer_volume>2x440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Romania</brewery_country>
+    <beer_package_count>2</beer_package_count>
+    <beer_bundle>1</beer_bundle>
+    <bundle_skus>6567898,6570662</bundle_skus>
+  </item>
+  <item>
     <id>2</id>
     <ecommerce_id>818577955</ecommerce_id>
     <title>Mogwaï Beer Company - Mogwaï Quartet</title>
@@ -7247,6 +7266,6 @@
     <date_canned>2025-03-18</date_canned>
     <untappd_id>3898085</untappd_id>
   </item>
-  <timestamp>1772094148</timestamp>
-  <gen_date>26/02/2026 09:22:28</gen_date>
+  <timestamp>1772095704</timestamp>
+  <gen_date>26/02/2026 09:48:24</gen_date>
 </feed>
