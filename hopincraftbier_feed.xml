@@ -24,7 +24,7 @@
     <bundle_skus>6567898,6570662</bundle_skus>
   </item>
   <item>
-    <id>P0003</id>
+    <id>P0019</id>
     <ecommerce_id>818577955</ecommerce_id>
     <title>Mogwaï Beer Company - Mogwaï Quartet</title>
     <url>https://hopincraftbier.be/products/mogwai-beer-company-mogwai-quartet</url>
@@ -7276,6 +7276,6 @@
     <date_canned>2025-03-18</date_canned>
     <untappd_id>3898085</untappd_id>
   </item>
-  <timestamp>1772168406</timestamp>
-  <gen_date>27/02/2026 06:00:06</gen_date>
+  <timestamp>1772181006</timestamp>
+  <gen_date>27/02/2026 09:30:06</gen_date>
 </feed>
