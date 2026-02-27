@@ -335,6 +335,47 @@
     <bundle_skus>6375119,6343725,6292774,6314891,6314901</bundle_skus>
   </item>
   <item>
+    <id>19</id>
+    <ecommerce_id>816032762</ecommerce_id>
+    <title>Emporium Microbrasserie - Pair</title>
+    <url>https://hopincraftbier.be/products/emporium-microbrasserie-pair</url>
+    <brewery_name>Emporium Microbrasserie</brewery_name>
+    <price>15.65</price>
+    <regular_price>20.86</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/816032762/5582886624.png</image>
+    <beer_description>The Emporium Microbrasserie - Pair contains: - CouleIPA - New England / Hazy | 7% | 473 ml - InfinitoIPA - New England / Hazy | 7% | 473 ml</beer_description>
+    <beer_style>IPA</beer_style>
+    <beer_abv>7%</beer_abv>
+    <beer_volume>2x473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Canada</brewery_country>
+    <date_canned>2025-03-26</date_canned>
+    <beer_package_count>2</beer_package_count>
+    <beer_bundle>1</beer_bundle>
+    <bundle_skus>6189429,6015336</bundle_skus>
+  </item>
+  <item>
+    <id>P0018</id>
+    <ecommerce_id>816011852</ecommerce_id>
+    <title>Beak - Pair</title>
+    <url>https://hopincraftbier.be/products/beak-pair</url>
+    <brewery_name>Beak</brewery_name>
+    <price>17.41</price>
+    <regular_price>18.5</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/816011852/5582877756.png</image>
+    <beer_description>The Beak - Pair contains: - ParadeIPA - New England / Hazy | 6% | 440 ml - CannaIPA - Imperial / Double New England / Hazy | 8% | 440 ml</beer_description>
+    <beer_style>IPA</beer_style>
+    <beer_abv>6 - 8%</beer_abv>
+    <beer_volume>2x440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>England</brewery_country>
+    <date_best_before>2026-03-02</date_best_before>
+    <date_canned>2025-09-03</date_canned>
+    <beer_package_count>2</beer_package_count>
+    <beer_bundle>1</beer_bundle>
+    <bundle_skus>3820116,6406071</bundle_skus>
+  </item>
+  <item>
     <id>P0017</id>
     <ecommerce_id>816016081</ecommerce_id>
     <title>Rivington Brewing Co - Pair</title>
@@ -4294,6 +4335,24 @@
     <untappd_id>4185018</untappd_id>
   </item>
   <item>
+    <id>4166507</id>
+    <ecommerce_id>772591896</ecommerce_id>
+    <title>Frothy</title>
+    <url>https://hopincraftbier.be/products/finback-brewery-frothy</url>
+    <brewery_name>Finback Brewery</brewery_name>
+    <price>8.58</price>
+    <regular_price>10,09</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5243360501.webp</image>
+    <beer_description>DDH DIPA with Enigma, Citra, Hallertau Blanc and Mosaic hops. Finback Brewery - Frothy</beer_description>
+    <beer_style>IPA - Imperial / Double</beer_style>
+    <beer_abv>8.4%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>United States</brewery_country>
+    <date_canned>2025-08-22</date_canned>
+    <untappd_id>4166507</untappd_id>
+  </item>
+  <item>
     <id>6342727</id>
     <ecommerce_id>770503529</ecommerce_id>
     <title>Tres Hekse</title>
@@ -7220,6 +7279,6 @@
     <date_canned>2025-03-18</date_canned>
     <untappd_id>3898085</untappd_id>
   </item>
-  <timestamp>1772198619</timestamp>
-  <gen_date>27/02/2026 14:23:39</gen_date>
+  <timestamp>1772235006</timestamp>
+  <gen_date>28/02/2026 00:30:06</gen_date>
 </feed>
