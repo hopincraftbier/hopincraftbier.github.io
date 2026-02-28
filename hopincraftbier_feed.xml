@@ -5564,24 +5564,6 @@
     <untappd_id>6261817</untappd_id>
   </item>
   <item>
-    <id>6274026</id>
-    <ecommerce_id>755488875</ecommerce_id>
-    <title>9 Years: Circe's Enchantment</title>
-    <url>https://hopincraftbier.be/products/moersleutel-craft-brewery-9-years-circes-enchantment</url>
-    <brewery_name>Moersleutel Craft Brewery</brewery_name>
-    <price>5.08</price>
-    <regular_price>6.77</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4955042644.webp</image>
-    <beer_description>Enchanting, fruity, and full of character. Bursting with pink grapefruit, lollipop, and watermelon, this brew features Talus, Mosaic, Nelson Sauvin, and Superdelic hops. Citrus and red fruit take the lead, with a sweet candy twist. Talus brings bright grapefruit, tropical notes, and hints of rose and pine, while Superdelic layers in bold, candy-like flavors. For a final hit of aroma, Hyperboost—a concentrated hop oil from cutting-edge supercritical extraction—is added post-centrifuge for an extra punch of pungent hop aroma. Smooth, juicy, and spellbinding—let every sip cast its charm. Moersleutel Craft Brewery - 9 Years: Circe's Enchantment</beer_description>
-    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
-    <beer_abv>7.5%</beer_abv>
-    <beer_volume>440 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>The Netherlands</brewery_country>
-    <date_best_before>2026-05-15</date_best_before>
-    <untappd_id>6274026</untappd_id>
-  </item>
-  <item>
     <id>6274022</id>
     <ecommerce_id>755488874</ecommerce_id>
     <title>9 Years: Cyclops Escape</title>
@@ -7279,6 +7261,6 @@
     <date_canned>2025-03-18</date_canned>
     <untappd_id>3898085</untappd_id>
   </item>
-  <timestamp>1772235006</timestamp>
-  <gen_date>28/02/2026 00:30:06</gen_date>
+  <timestamp>1772295306</timestamp>
+  <gen_date>28/02/2026 17:15:06</gen_date>
 </feed>
