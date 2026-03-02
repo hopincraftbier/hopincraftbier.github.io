@@ -355,27 +355,6 @@
     <bundle_skus>6189429,6015336</bundle_skus>
   </item>
   <item>
-    <id>P0018</id>
-    <ecommerce_id>816011852</ecommerce_id>
-    <title>Beak - Pair</title>
-    <url>https://hopincraftbier.be/products/beak-pair</url>
-    <brewery_name>Beak</brewery_name>
-    <price>17.41</price>
-    <regular_price>18.5</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/816011852/5582877756.png</image>
-    <beer_description>The Beak - Pair contains: - ParadeIPA - New England / Hazy | 6% | 440 ml - CannaIPA - Imperial / Double New England / Hazy | 8% | 440 ml</beer_description>
-    <beer_style>IPA</beer_style>
-    <beer_abv>6 - 8%</beer_abv>
-    <beer_volume>2x440 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>England</brewery_country>
-    <date_best_before>2026-03-02</date_best_before>
-    <date_canned>2025-09-03</date_canned>
-    <beer_package_count>2</beer_package_count>
-    <beer_bundle>1</beer_bundle>
-    <bundle_skus>3820116,6406071</bundle_skus>
-  </item>
-  <item>
     <id>P0017</id>
     <ecommerce_id>816016081</ecommerce_id>
     <title>Rivington Brewing Co - Pair</title>
@@ -2995,25 +2974,6 @@
     <untappd_id>6424109</untappd_id>
   </item>
   <item>
-    <id>3820116</id>
-    <ecommerce_id>788422903</ecommerce_id>
-    <title>Parade</title>
-    <url>https://hopincraftbier.be/products/beak-parade</url>
-    <brewery_name>Beak</brewery_name>
-    <price>6.28</price>
-    <regular_price>7,39</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5242076169.webp</image>
-    <beer_description>Saturated in Citra, Mosaic and Idaho 7 this 6% London Fog IPA is brimming with fruit bubblegum flavours of mango, orange peel, pineapple and ripe flat peaches. Beak - Parade</beer_description>
-    <beer_style>IPA - New England / Hazy</beer_style>
-    <beer_abv>6%</beer_abv>
-    <beer_volume>440 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>England</brewery_country>
-    <date_best_before>2026-03-02</date_best_before>
-    <date_canned>2025-09-03</date_canned>
-    <untappd_id>3820116</untappd_id>
-  </item>
-  <item>
     <id>6448002</id>
     <ecommerce_id>787872583</ecommerce_id>
     <title>The Way Is Shut</title>
@@ -4056,22 +4016,6 @@
     <untappd_id>5697568</untappd_id>
   </item>
   <item>
-    <id>6383222</id>
-    <ecommerce_id>778813131</ecommerce_id>
-    <title>Triple Cheeseburger</title>
-    <url>https://hopincraftbier.be/products/dankhouse-brewing-company-triple-cheeseburger</url>
-    <brewery_name>DankHouse Brewing Company</brewery_name>
-    <price>10.66</price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5260881644.webp</image>
-    <beer_description>The big brother to Double Cheeseburger, dry hopped with Rakau, Motueka, Nelson Sauvin, and Kohia Nelson Hop Kief. DankHouse Brewing Company - Triple Cheeseburger</beer_description>
-    <beer_style>IPA - Triple New England / Hazy</beer_style>
-    <beer_abv>10%</beer_abv>
-    <beer_volume>473 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>United States</brewery_country>
-    <untappd_id>6383222</untappd_id>
-  </item>
-  <item>
     <id>5755528</id>
     <ecommerce_id>778813130</ecommerce_id>
     <title>Distributed Ledger</title>
@@ -4209,22 +4153,6 @@
     <brewery_country>Canada</brewery_country>
     <date_canned>07/2025</date_canned>
     <untappd_id>6350229</untappd_id>
-  </item>
-  <item>
-    <id>6364829</id>
-    <ecommerce_id>778763014</ecommerce_id>
-    <title>Evangelion III [Sachiel] (Ghost Sachiel)</title>
-    <url>https://hopincraftbier.be/products/adroit-theory-evangelion-iii-sachiel-ghost-sachiel</url>
-    <brewery_name>Adroit Theory</brewery_name>
-    <price>10.89</price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5145475828.webp</image>
-    <beer_description>Hazy &amp; smooth...a little boozy. Well balanced... Adroit Theory - Evangelion III [Sachiel] (Ghost Sachiel)</beer_description>
-    <beer_style>IPA - Triple New England / Hazy</beer_style>
-    <beer_abv>10%</beer_abv>
-    <beer_volume>473 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>United States</brewery_country>
-    <untappd_id>6364829</untappd_id>
   </item>
   <item>
     <id>6350233</id>
@@ -4889,75 +4817,6 @@
     <untappd_id>4367493</untappd_id>
   </item>
   <item>
-    <id>6341271</id>
-    <ecommerce_id>767065955</ecommerce_id>
-    <title>Ponder</title>
-    <url>https://hopincraftbier.be/products/revenant-brewing-project-ponder</url>
-    <brewery_name>Revenant Brewing Project</brewery_name>
-    <price>6.68</price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5049166012.webp</image>
-    <beer_description>Hops: Nelson + Superdelic + Citra - Revenant Brewing Project - Ponder</beer_description>
-    <beer_style>IPA - Triple New England / Hazy</beer_style>
-    <beer_abv>9.7%</beer_abv>
-    <beer_volume>440 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Finland</brewery_country>
-    <date_best_before>Eind 04/2026</date_best_before>
-    <untappd_id>6341271</untappd_id>
-  </item>
-  <item>
-    <id>6341269</id>
-    <ecommerce_id>767062474</ecommerce_id>
-    <title>Linger</title>
-    <url>https://hopincraftbier.be/products/revenant-brewing-project-linger</url>
-    <brewery_name>Revenant Brewing Project</brewery_name>
-    <price>5.99</price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5049165751.webp</image>
-    <beer_description>Hops: Nelson - Revenant Brewing Project - Linger</beer_description>
-    <beer_style>IPA - New England / Hazy</beer_style>
-    <beer_abv>7%</beer_abv>
-    <beer_volume>440 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Finland</brewery_country>
-    <date_best_before>Eind 04/2026</date_best_before>
-    <untappd_id>6341269</untappd_id>
-  </item>
-  <item>
-    <id>6341263</id>
-    <ecommerce_id>767041052</ecommerce_id>
-    <title>Weightless</title>
-    <url>https://hopincraftbier.be/products/revenant-brewing-project-weightless</url>
-    <brewery_name>Revenant Brewing Project</brewery_name>
-    <price>5.9</price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5049176330.webp</image>
-    <beer_description>Hops: Motueka &amp; Southern Cross</beer_description>
-    <beer_style>IPA - New England / Hazy</beer_style>
-    <beer_abv>6.8%</beer_abv>
-    <beer_volume>440 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Finland</brewery_country>
-    <date_best_before>Eind 04/2026</date_best_before>
-    <untappd_id>6341263</untappd_id>
-  </item>
-  <item>
-    <id>6293352</id>
-    <ecommerce_id>765275160</ecommerce_id>
-    <title>Hops Fwd</title>
-    <url>https://hopincraftbier.be/products/noctem-artisans-brasseurs-hops-fwd</url>
-    <brewery_name>Noctem Artisans Brasseurs</brewery_name>
-    <price>9.25</price>
-    <regular_price>10.88</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5032065367.webp</image>
-    <beer_description>Quelques brasseries sont sélectionnées pour tester les nouveaux produits de houblon de Yakima Chief et il nous fait grand plaisir d'en faire partie! Cette triple NEIPA intègre le YCH803 Citra, un nouvel extrait très aromatique de houblon. Combiné avec du Nelson Sauvin, du Krush et du citra conventionnel;, ce mélange regorge de fruits tropicaux et représente un pas vers le futur des bières houblonnées! Noctem Artisans Brasseurs - Hops Fwd</beer_description>
-    <beer_style>IPA - Triple New England / Hazy</beer_style>
-    <beer_abv>10%</beer_abv>
-    <beer_volume>473 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Canada</brewery_country>
-    <date_canned>2025-05-26</date_canned>
-    <untappd_id>6293352</untappd_id>
-  </item>
-  <item>
     <id>6248577</id>
     <ecommerce_id>765275159</ecommerce_id>
     <title>Big Pharma</title>
@@ -5221,24 +5080,6 @@
     <untappd_id>3705572</untappd_id>
   </item>
   <item>
-    <id>6256812</id>
-    <ecommerce_id>756989449</ecommerce_id>
-    <title>Oban</title>
-    <url>https://hopincraftbier.be/products/noctem-artisans-brasseurs-oban</url>
-    <brewery_name>Noctem Artisans Brasseurs</brewery_name>
-    <price>9.25</price>
-    <regular_price>10.88</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4966303669.webp</image>
-    <beer_description>Noctem Artisans Brasseurs - Oban</beer_description>
-    <beer_style>IPA - Triple New England / Hazy</beer_style>
-    <beer_abv>10%</beer_abv>
-    <beer_volume>473 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Canada</brewery_country>
-    <date_canned>2025-05-20</date_canned>
-    <untappd_id>6256812</untappd_id>
-  </item>
-  <item>
     <id>6280326</id>
     <ecommerce_id>756989447</ecommerce_id>
     <title>Château</title>
@@ -5340,24 +5181,6 @@
     <beer_package>can</beer_package>
     <brewery_country>United States</brewery_country>
     <untappd_id>2776624</untappd_id>
-  </item>
-  <item>
-    <id>4589206</id>
-    <ecommerce_id>756989903</ecommerce_id>
-    <title>DDH Black Cat Sees All</title>
-    <url>https://hopincraftbier.be/products/long-live-beerworks-ddh-black-cat-sees-all</url>
-    <brewery_name>Long Live Beerworks</brewery_name>
-    <price>8.68</price>
-    <regular_price>10.21</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5438433936.webp</image>
-    <beer_description>Double IPA double dry-hopped w/ Simcoe, Citra, Galaxy, Azacca + Kohatu. 8.5% Long Live Beerworks - DDH Black Cat Sees All</beer_description>
-    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
-    <beer_abv>8.5%</beer_abv>
-    <beer_volume>473 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>United States</brewery_country>
-    <date_canned>2025-05-30</date_canned>
-    <untappd_id>4589206</untappd_id>
   </item>
   <item>
     <id>6263452</id>
@@ -6185,23 +6008,6 @@
     <brewery_country>Canada</brewery_country>
     <date_canned>2025-04-22</date_canned>
     <untappd_id>6205488</untappd_id>
-  </item>
-  <item>
-    <id>6194343</id>
-    <ecommerce_id>751543257</ecommerce_id>
-    <title>Vanilla Coffee Bourbon Barrel Dark Apparition (2025)</title>
-    <url>https://hopincraftbier.be/products/jackie-os-brewery-vanilla-coffee-bourbon-barrel-dark-apparition-2025</url>
-    <brewery_name>Jackie O’s Brewery</brewery_name>
-    <price>18.32</price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4930059442.png</image>
-    <beer_description>Seven malts were used to create deep flavors of coffee, chocolate, caramel, and molasses. A hint of bitterness and herbal character from carefully selected European and American hops help support the monolithic maltiness. This special batch was aged in bourbon barrels and conditioned on Malagasy vanilla beans and whole Thunderkiss espresso beans. This year’s vintage of Vanilla Coffee Bourbon Barrel Dark Apparition was aged in select Wild Turkey, Knob Creek and Willett barrels ranging from 13 to 26 months and conditioned on the Thuderkiss Espresso Blend and a blend of Tahitian and Madagascar vanilla beans. Jackie O’s Brewery - Vanilla Coffee Bourbon Barrel Dark Apparition (2025)</beer_description>
-    <beer_style>Stout - Russian Imperial</beer_style>
-    <beer_abv>14.6%</beer_abv>
-    <beer_volume>355 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>United States</brewery_country>
-    <date_canned>2025-02-27</date_canned>
-    <untappd_id>6194343</untappd_id>
   </item>
   <item>
     <id>5342038</id>
@@ -7261,6 +7067,6 @@
     <date_canned>2025-03-18</date_canned>
     <untappd_id>3898085</untappd_id>
   </item>
-  <timestamp>1772295306</timestamp>
-  <gen_date>28/02/2026 17:15:06</gen_date>
+  <timestamp>1772472580</timestamp>
+  <gen_date>02/03/2026 18:29:40</gen_date>
 </feed>
