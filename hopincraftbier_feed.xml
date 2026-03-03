@@ -5,6 +5,55 @@
   <link>https://hopincraftbier.be/products&lt;/link&gt;</link>
   <description>Hop In Craftbier Products feed</description>
   <item>
+    <id>6609444</id>
+    <ecommerce_id>819855932</ecommerce_id>
+    <title>PuTTTy (2026)</title>
+    <url>https://hopincraftbier.be/products/verdant-brewing-co-puttty-2026</url>
+    <brewery_name>Verdant Brewing Co</brewery_name>
+    <price>11.4</price>
+    <regular_price>11.40</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/819855932/5622838639.png</image>
+    <beer_description>PuTTTy, the hoppiest beer we ever brewed, is back for 2026... And once again, we pushed the recipe to its limit. Verdant style! With a massive 30 grams per litre dry-hop, on top of the 10 grams per litre in the whirlpool, expect a thick, creamy, hoppy and intense Triple IPA (10%). A beer this intense can only happen once a year! Verdant Brewing Co - PuTTTy (2026)</beer_description>
+    <beer_style>IPA - Triple New England / Hazy</beer_style>
+    <beer_abv>10%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>England</brewery_country>
+    <untappd_id>6609444</untappd_id>
+  </item>
+  <item>
+    <id>6606993</id>
+    <ecommerce_id>819851662</ecommerce_id>
+    <title>How You Do Anything Is How You Do Everything</title>
+    <url>https://hopincraftbier.be/products/verdant-brewing-co-how-you-do-anything-is-how-you-do-everything</url>
+    <brewery_name>Verdant Brewing Co</brewery_name>
+    <price>8.94</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/819851662/5622855017.png</image>
+    <beer_description>‘How you do anything is how you do everything’ (8%), pays homage to this attitude while dialing it up to full NZ! This brew is a bold celebration from the land of the long white cloud. Two brash experimental hops—NZH-109 and NZH-106—are paired with the powerful Nectaron. Expect incredible, exciting pungency amid pillowy soft slugs! Verdant Brewing Co - How You Do Anything Is How You Do Everything</beer_description>
+    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
+    <beer_abv>8%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>England</brewery_country>
+    <untappd_id>6606993</untappd_id>
+  </item>
+  <item>
+    <id>6614559</id>
+    <ecommerce_id>819851661</ecommerce_id>
+    <title>Off the Rack Finnish Rye Whisky 2024 By Rackhouse</title>
+    <url>https://hopincraftbier.be/products/lervig-off-the-rack-finnish-rye-whisky-2024-by-rackhouse</url>
+    <brewery_name>LERVIG</brewery_name>
+    <price>20.02</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/819851661/5622848628.png</image>
+    <beer_description>The second chapter of our new barrel favourite here in Rackhouse, Finnish Rye Whisky. These barrels have been home to this grand imperial stout for 20 months, imparting a depth of flavour and aroma of rich cacao, mild tobacco and a firm but balanced spirit character. A limited-edition Imperial Stout straight Off The Rack. LERVIG - Off the Rack Finnish Rye Whisky 2024 By Rackhouse</beer_description>
+    <beer_style>Stout - Imperial / Double</beer_style>
+    <beer_abv>14.7%</beer_abv>
+    <beer_volume>375 ml</beer_volume>
+    <beer_package>bottle</beer_package>
+    <brewery_country>Norway</brewery_country>
+    <untappd_id>6614559</untappd_id>
+  </item>
+  <item>
     <id>P0001</id>
     <ecommerce_id>818795001</ecommerce_id>
     <title>Maktoob Brewing - Pair</title>
@@ -7249,6 +7298,6 @@
     <date_canned>2025-03-18</date_canned>
     <untappd_id>3898085</untappd_id>
   </item>
-  <timestamp>1772508606</timestamp>
-  <gen_date>03/03/2026 04:30:06</gen_date>
+  <timestamp>1772559006</timestamp>
+  <gen_date>03/03/2026 18:30:06</gen_date>
 </feed>
