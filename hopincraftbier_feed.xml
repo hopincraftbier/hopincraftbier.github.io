@@ -4965,7 +4965,7 @@
     <url>https://hopincraftbier.be/products/revenant-brewing-project-ponder</url>
     <brewery_name>Revenant Brewing Project</brewery_name>
     <price>5.68</price>
-    <regular_price>6,68</regular_price>
+    <regular_price>6.68</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5049166012.webp</image>
     <beer_description>Hops: Nelson + Superdelic + Citra - Revenant Brewing Project - Ponder</beer_description>
     <beer_style>IPA - Triple New England / Hazy</beer_style>
@@ -4983,7 +4983,7 @@
     <url>https://hopincraftbier.be/products/revenant-brewing-project-linger</url>
     <brewery_name>Revenant Brewing Project</brewery_name>
     <price>5.09</price>
-    <regular_price>5,99</regular_price>
+    <regular_price>5.99</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5049165751.webp</image>
     <beer_description>Hops: Nelson - Revenant Brewing Project - Linger</beer_description>
     <beer_style>IPA - New England / Hazy</beer_style>
@@ -5001,7 +5001,7 @@
     <url>https://hopincraftbier.be/products/revenant-brewing-project-weightless</url>
     <brewery_name>Revenant Brewing Project</brewery_name>
     <price>5.02</price>
-    <regular_price>5,90</regular_price>
+    <regular_price>5.9</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5049176330.webp</image>
     <beer_description>Hops: Motueka &amp; Southern Cross</beer_description>
     <beer_style>IPA - New England / Hazy</beer_style>
@@ -7317,6 +7317,6 @@
     <date_canned>2025-03-18</date_canned>
     <untappd_id>3898085</untappd_id>
   </item>
-  <timestamp>1772590506</timestamp>
-  <gen_date>04/03/2026 03:15:06</gen_date>
+  <timestamp>1772604906</timestamp>
+  <gen_date>04/03/2026 07:15:06</gen_date>
 </feed>
