@@ -1,4 +1,4 @@
-const version = 'v6.53';
+const version = 'v6.55';
 const txtNl1 = '<div class="dtooltip"><p class="hover question">Kortingscoupon</p><p class="dtooltiptext">Afhankelijk van de gekozen betaling en levering, kunt u een kortingscoupon krijgen die te gebruiken is bij een volgende bestelling. Voor dit bier ziet u de bedragen in deze tabel</p></div><table class="discount-table"><thead><tr class="first_header"><th></th><th colspan="2">Manier van levering</th></tr><tr><th>Manier van betaling</th><th>Afhaling</th><th>Levering</th></tr></thead><tbody><tr><td class="header">Betalen bij afhaling</td><td>€ ';
 const txtNl2 = '</td><td> - </td></tr><tr><td class="header">Overschrijving</td><td>€ ';
 const txtNl3 = '</td><td>€ ';
@@ -143,8 +143,6 @@ function processStock() {
             x.style.display = 'none';
             element.insertAdjacentHTML('beforeend', '<span class="mod">' + txt + '</span>');
             mod = document.querySelector('.details-product-purchase__place span.mod');
-        } else if (mod.textContent !== txt) {
-            mod.innerHTML = txt;
         }
         const y = txt?.split(':');
         if (y && y.length > 1) {
@@ -157,11 +155,14 @@ function processStock() {
             } else if (element.style.color === 'red') {
                 element.style.color = 'black';
             }
-            if (z > 5 && mod.textContent !== y[0]) {
-                mod.innerHTML = y[0];
+            if (z > 3 && mod.textContent !== y[0]) {
+                txt = y[0];
             }
         } else if (element.style.color === 'red') {
             element.style.color = 'black';
+        }
+        if (mod.textContent !== txt) {
+            mod.innerHTML = txt;
         }
     }
     const qtyEl = document.querySelector('span.details-product-purchase__in-stock-qty');
