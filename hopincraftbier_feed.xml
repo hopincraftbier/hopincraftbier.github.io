@@ -526,6 +526,7 @@
     <price>0</price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/815008781/5574600682.png</image>
     <beer_description>Free for orders over €75 (excluding shipping). Various colors available (see photo). Please indicate your preference in the comments section during checkout.</beer_description>
+    <untappd_id>14</untappd_id>
   </item>
   <item>
     <id>6488494</id>
@@ -7377,6 +7378,6 @@
     <date_canned>2025-03-18</date_canned>
     <untappd_id>3898085</untappd_id>
   </item>
-  <timestamp>1772868605</timestamp>
-  <gen_date>07/03/2026 08:30:05</gen_date>
+  <timestamp>1772885706</timestamp>
+  <gen_date>07/03/2026 13:15:06</gen_date>
 </feed>
