@@ -1,4 +1,4 @@
-const version = 'v6.56';
+const version = 'v6.57';
 const txtNl1 = '<div class="dtooltip"><p class="hover question">Kortingscoupon</p><p class="dtooltiptext">Afhankelijk van de gekozen betaling en levering, kunt u een kortingscoupon krijgen die te gebruiken is bij een volgende bestelling. Voor dit bier ziet u de bedragen in deze tabel</p></div><table class="discount-table"><thead><tr class="first_header"><th></th><th colspan="2">Manier van levering</th></tr><tr><th>Manier van betaling</th><th>Afhaling</th><th>Levering</th></tr></thead><tbody><tr><td class="header">Betalen bij afhaling</td><td>€ ';
 const txtNl2 = '</td><td> - </td></tr><tr><td class="header">Overschrijving</td><td>€ ';
 const txtNl3 = '</td><td>€ ';
@@ -781,6 +781,16 @@ function processInfoPages() {
     if (document.querySelector('div.del_info_table')) {
         translateDeliveryInfoTable();
     }
+    document.querySelectorAll('#tile-category-collection-m4p4Gb div.ins-tile__category-content').forEach(function(it) {
+        const el = it.querySelector('span.ins-tile__category-product-count');
+        if (!el) {
+            let txt = 'Producten: 0';
+            if ('EN' === getCustomerLng()) {
+                txt = 'Products: 0';
+            }
+            it.querySelector('p.ins-tile__category-name').insertAdjacentHTML('afterend', '<span class="ins-tile__category-product-count">' + txt + '</span>');
+        }
+    });
 }
 
 function log(txt) {
@@ -813,4 +823,19 @@ function processHeader() {
             prevScrollPos = currentScrollPos;
         }
     }
+}
+function cleanCategory() {
+    document.querySelectorAll('div.grid-product__buy-now').forEach(function(it) {
+        it.remove();
+    });
+    document.querySelectorAll('div.grid-product__label').forEach(function(it) {
+        it.remove();
+    });
+    document.querySelectorAll('div.grid-product__price').forEach(function(it) {
+        it.style.marginBottom = "0";
+        it.style.paddingBottom = "2px";
+    });
+    document.querySelectorAll('header.ins-tile--header').forEach(function(it) {
+        it.remove();
+    });
 }
