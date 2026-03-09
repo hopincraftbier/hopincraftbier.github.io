@@ -4406,6 +4406,23 @@
     <untappd_id>6339811</untappd_id>
   </item>
   <item>
+    <id>6272015</id>
+    <ecommerce_id>770507752</ecommerce_id>
+    <title>City Cake 2025</title>
+    <url>https://hopincraftbier.be/products/varvar-brew-city-cake-2025</url>
+    <brewery_name>Varvar Brew</brewery_name>
+    <price>6.7</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5073876599.webp</image>
+    <beer_description>City Cake is back! ? Our annual Peanut &amp; Vanilla Imperial Stout, brewed especially for the city's holiday. And as always, it has a good portion of roasted peanuts, delicate vanilla, a pinch of salt for the perfect balance and our love. It is rich, deep, a little sweet, a little salty - just like Kyiv itself, a city with character. Varvar Brew - City Cake 2025</beer_description>
+    <beer_style>Stout - Imperial / Double Pastry</beer_style>
+    <beer_abv>11%</beer_abv>
+    <beer_volume>330 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Ukraine</brewery_country>
+    <date_canned>2025-05-19</date_canned>
+    <untappd_id>6272015</untappd_id>
+  </item>
+  <item>
     <id>6340747</id>
     <ecommerce_id>770501258</ecommerce_id>
     <title>NEEDLES</title>
@@ -7019,6 +7036,6 @@
     <date_canned>2025-03-18</date_canned>
     <untappd_id>3898085</untappd_id>
   </item>
-  <timestamp>1773080106</timestamp>
-  <gen_date>09/03/2026 19:15:06</gen_date>
+  <timestamp>1773085506</timestamp>
+  <gen_date>09/03/2026 20:45:06</gen_date>
 </feed>
