@@ -2165,7 +2165,7 @@
     <beer_volume>473 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>Canada</brewery_country>
-    <date_best_before>2025-12-09</date_best_before>
+    <date_canned>2025-12-09</date_canned>
     <untappd_id>6497918</untappd_id>
   </item>
   <item>
@@ -3703,23 +3703,6 @@
     <bundle_skus>6205524,6208805,4033335,4570140</bundle_skus>
   </item>
   <item>
-    <id>6406320</id>
-    <ecommerce_id>781533751</ecommerce_id>
-    <title>Ever Juice</title>
-    <url>https://hopincraftbier.be/products/tripping-animals-brewing-co-ever-juice</url>
-    <brewery_name>Tripping Animals Brewing Co.</brewery_name>
-    <price>9.99</price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5260880889.webp</image>
-    <beer_description>DDH hazy Double India Pale Ale brewed with Mosaic, Strata and Motueka hops. Tripping Animals Brewing Co. - Ever Juice</beer_description>
-    <beer_style>IPA - Imperial / Double</beer_style>
-    <beer_abv>8%</beer_abv>
-    <beer_volume>473 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>United States</brewery_country>
-    <date_canned>2025-09-09</date_canned>
-    <untappd_id>6406320</untappd_id>
-  </item>
-  <item>
     <id>4178441</id>
     <ecommerce_id>781516951</ecommerce_id>
     <title>Queen Snake</title>
@@ -4089,23 +4072,6 @@
     <untappd_id>6383222</untappd_id>
   </item>
   <item>
-    <id>5755528</id>
-    <ecommerce_id>778813130</ecommerce_id>
-    <title>Distributed Ledger</title>
-    <url>https://hopincraftbier.be/products/spyglass-brewing-company-distributed-ledger</url>
-    <brewery_name>Spyglass Brewing Company</brewery_name>
-    <price>11.66</price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5260880887.webp</image>
-    <beer_description>A New England style TIPA - triple dry hopped with Citra, Motueka and Simcoe. Spyglass Brewing Company - Distributed Ledger</beer_description>
-    <beer_style>IPA - Triple New England / Hazy</beer_style>
-    <beer_abv>9.8%</beer_abv>
-    <beer_volume>473 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>United States</brewery_country>
-    <date_canned>2025-09-08</date_canned>
-    <untappd_id>5755528</untappd_id>
-  </item>
-  <item>
     <id>3717200</id>
     <ecommerce_id>778817618</ecommerce_id>
     <title>Cantuccini</title>
@@ -4317,24 +4283,6 @@
     <date_best_before>05/2026</date_best_before>
     <date_canned>2025-08-05</date_canned>
     <untappd_id>6366648</untappd_id>
-  </item>
-  <item>
-    <id>6055618</id>
-    <ecommerce_id>777432751</ecommerce_id>
-    <title>BA Daybreak Speedway</title>
-    <url>https://hopincraftbier.be/products/other-half-brewing-co-ba-daybreak-speedway</url>
-    <brewery_name>Other Half Brewing Co.</brewery_name>
-    <price>30.01</price>
-    <regular_price>35.3</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5131536260.webp</image>
-    <beer_description>Imperial Stout Aged 25 Months in Bourbon Barrels with Blueberries, Vanilla, and Cloud Cover Coffee Other Half Brewing Co. - BA Daybreak Speedway</beer_description>
-    <beer_style>Stout - Imperial / Double Pastry</beer_style>
-    <beer_abv>12.5%</beer_abv>
-    <beer_volume>500 ml</beer_volume>
-    <beer_package>bottle</beer_package>
-    <brewery_country>United States</brewery_country>
-    <date_best_before>2026-03-01</date_best_before>
-    <untappd_id>6055618</untappd_id>
   </item>
   <item>
     <id>4185018</id>
@@ -7036,6 +6984,6 @@
     <date_canned>2025-03-18</date_canned>
     <untappd_id>3898085</untappd_id>
   </item>
-  <timestamp>1773085506</timestamp>
-  <gen_date>09/03/2026 20:45:06</gen_date>
+  <timestamp>1773085679</timestamp>
+  <gen_date>09/03/2026 20:47:59</gen_date>
 </feed>
