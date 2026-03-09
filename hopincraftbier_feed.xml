@@ -1360,26 +1360,6 @@
     <bundle_skus>3127108,6342727,5751661</bundle_skus>
   </item>
   <item>
-    <id>949</id>
-    <ecommerce_id>805754282</ecommerce_id>
-    <title>Verdant Brewing Co Triplet</title>
-    <url>https://hopincraftbier.be/products/verdant-brewing-co-triplet</url>
-    <brewery_name>Verdant Brewing Co</brewery_name>
-    <price>20.41</price>
-    <regular_price>29.15</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5496072870.png</image>
-    <beer_description>The Verdant Brewing Co Pack contains: - Flux: Phase 3IPA - Imperial / Double New England / Hazy | 8% | 440 ml - Whale SharksIPA - Imperial / Double New England / Hazy | 8,4% | 440 ml - The DonIPA - Triple New England / Hazy | 10% | 440 ml</beer_description>
-    <beer_style>IPA</beer_style>
-    <beer_abv>8 - 10%</beer_abv>
-    <beer_volume>3x440 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>England</brewery_country>
-    <date_best_before>2025-12-26</date_best_before>
-    <beer_package_count>3</beer_package_count>
-    <beer_bundle>1</beer_bundle>
-    <bundle_skus>6271344,4886029,6332895</bundle_skus>
-  </item>
-  <item>
     <id>950</id>
     <ecommerce_id>805740782</ecommerce_id>
     <title>KOM Beer Triplet</title>
@@ -2978,24 +2958,6 @@
     <untappd_id>6417762</untappd_id>
   </item>
   <item>
-    <id>6423029</id>
-    <ecommerce_id>790917824</ecommerce_id>
-    <title>Twilight Hyperactive</title>
-    <url>https://hopincraftbier.be/products/cervesa-espiga-twilight-hyperactive</url>
-    <brewery_name>Cervesa Espiga</brewery_name>
-    <price>6.24</price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5290661950.png</image>
-    <beer_description>As is customary for our anniversary, we're brewing Twilight Hyperactive, a Triple IPA that pays tribute to our most iconic beer: Hyperactive. This year, we wanted to capture that magical moment of twilight, when day turns to night, and translate it into an intense and silky smooth beer. Twilight Hyperactive is packed with two hops, Simcoe and Citra, which deliver greater aromatic intensity and a higher alcohol content, while retaining its juicy and enveloping character. Leave it to us through a window of tropical aromas, ripe citrus, and a subtle resinous note. It's creamy on the palate, lively, and balanced in bitterness that retains its power. This is our way of toasting you and celebrating eleven more times together in the sun; at this point between light and darkness, a new cycle begins. As is tradition for our anniversary, we're brewing Twilight Hyperactive, a Triple IPA that pays tribute to our most iconic beer: Hyperactive. This year, we wanted to capture that magical moment of twilight, when daylight gives way to night, and translate it into an intense, silky beer. Twilight Hyperactive is generously enriched with two hops, Simcoe and Citra, which provide greater aromatic intensity and a higher alcohol content, while maintaining its juicy and enveloping character. Let yourself be carried away by a host of tropical aromas, ripe citrus, and a subtle resinous note. On the palate, it's creamy and lively, with a balanced bitterness. Cervesa Espiga - Twilight Hyperactive</beer_description>
-    <beer_style>IPA - Triple New England / Hazy</beer_style>
-    <beer_abv>10%</beer_abv>
-    <beer_volume>440 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Spain</brewery_country>
-    <date_best_before>10/2026</date_best_before>
-    <date_canned>09/2025</date_canned>
-    <untappd_id>6423029</untappd_id>
-  </item>
-  <item>
     <id>5605718</id>
     <ecommerce_id>790918084</ecommerce_id>
     <title>DUPOND</title>
@@ -4442,23 +4404,6 @@
     <brewery_country>Spain</brewery_country>
     <date_canned>2025-07-02</date_canned>
     <untappd_id>6339811</untappd_id>
-  </item>
-  <item>
-    <id>6272015</id>
-    <ecommerce_id>770507752</ecommerce_id>
-    <title>City Cake 2025</title>
-    <url>https://hopincraftbier.be/products/varvar-brew-city-cake-2025</url>
-    <brewery_name>Varvar Brew</brewery_name>
-    <price>6.7</price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5073876599.webp</image>
-    <beer_description>City Cake is back! ? Our annual Peanut &amp; Vanilla Imperial Stout, brewed especially for the city's holiday. And as always, it has a good portion of roasted peanuts, delicate vanilla, a pinch of salt for the perfect balance and our love. It is rich, deep, a little sweet, a little salty - just like Kyiv itself, a city with character. Varvar Brew - City Cake 2025</beer_description>
-    <beer_style>Stout - Imperial / Double Pastry</beer_style>
-    <beer_abv>11%</beer_abv>
-    <beer_volume>330 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Ukraine</brewery_country>
-    <date_canned>2025-05-19</date_canned>
-    <untappd_id>6272015</untappd_id>
   </item>
   <item>
     <id>6340747</id>
@@ -6243,23 +6188,6 @@
     <untappd_id>2879668</untappd_id>
   </item>
   <item>
-    <id>5787651</id>
-    <ecommerce_id>751542763</ecommerce_id>
-    <title>INVOCATION</title>
-    <url>https://hopincraftbier.be/products/brewskey-invocation</url>
-    <brewery_name>BreWskey</brewery_name>
-    <price>8.21</price>
-    <regular_price>10,94</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4929385509.png</image>
-    <beer_description>DIPA Citra, Nelson Sauvin, Simcoe BreWskey - INVOCATION</beer_description>
-    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
-    <beer_abv>8.2%</beer_abv>
-    <beer_volume>473 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Canada</brewery_country>
-    <untappd_id>5787651</untappd_id>
-  </item>
-  <item>
     <id>6246517</id>
     <ecommerce_id>751537016</ecommerce_id>
     <title>MC3PO</title>
@@ -6987,23 +6915,6 @@
     <untappd_id>4980154</untappd_id>
   </item>
   <item>
-    <id>6180917</id>
-    <ecommerce_id>734051600</ecommerce_id>
-    <title>Dead Don't Die (2025)</title>
-    <url>https://hopincraftbier.be/products/third-moon-brewing-company-dead-dont-die-2025</url>
-    <brewery_name>Third Moon Brewing Company</brewery_name>
-    <price>9.49</price>
-    <regular_price>12.65</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4953184244.webp</image>
-    <beer_description>Dead Don't Die is an 8.5% Double Chocolate Milk stout that is all about the chocolate! We started with a rich base of chocolate malt and milk sugar and then layered in chocolate at every stage of the brewing process. It is light, fluffy and voluptuous and oozes chocolate in every sip. -</beer_description>
-    <beer_style>Stout - Milk / Sweet</beer_style>
-    <beer_abv>8.5%</beer_abv>
-    <beer_volume>473 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Canada</brewery_country>
-    <untappd_id>6180917</untappd_id>
-  </item>
-  <item>
     <id>4485711</id>
     <ecommerce_id>734051352</ecommerce_id>
     <title>Window of Opportunity</title>
@@ -7108,6 +7019,6 @@
     <date_canned>2025-03-18</date_canned>
     <untappd_id>3898085</untappd_id>
   </item>
-  <timestamp>1773065707</timestamp>
-  <gen_date>09/03/2026 15:15:07</gen_date>
+  <timestamp>1773080106</timestamp>
+  <gen_date>09/03/2026 19:15:06</gen_date>
 </feed>
