@@ -5,6 +5,55 @@
   <link>https://hopincraftbier.be/products&lt;/link&gt;</link>
   <description>Hop In Craftbier Products feed</description>
   <item>
+    <id>6246795</id>
+    <ecommerce_id>821796510</ecommerce_id>
+    <title>Solidøl Benrinnes</title>
+    <url>https://hopincraftbier.be/products/varvar-brew-solidol-benrinnes</url>
+    <brewery_name>Varvar Brew</brewery_name>
+    <price>13.4</price>
+    <regular_price>13.40</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/821796510/5638380352.png</image>
+    <beer_description>Solidol Benrinnes BA Barley Wine — a bold barleywine aged in ex-Benrinnes Scotch whisky barrels. Deep and complex, with notes of dried fruit, caramel, spice, and elegant oak. Made for slow sipping with character. Varvar Brew - Solidl Benrinnes</beer_description>
+    <beer_style>Barleywine - Other</beer_style>
+    <beer_abv>12.5%</beer_abv>
+    <beer_volume>375 ml</beer_volume>
+    <beer_package>bottle</beer_package>
+    <brewery_country>Ukraine</brewery_country>
+    <untappd_id>6246795</untappd_id>
+  </item>
+  <item>
+    <id>6140785</id>
+    <ecommerce_id>821796509</ecommerce_id>
+    <title>Naked 2025</title>
+    <url>https://hopincraftbier.be/products/varvar-brew-naked-2025</url>
+    <brewery_name>Varvar Brew</brewery_name>
+    <price>7.06</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/821796509/5638358821.png</image>
+    <beer_description>After endless experiments - which is not bad in itself - beer sometimes gets lost behind an incredible number of additives. Therefore, in the winter, when our colleagues from Kingpin visited us, we decided to do an experiment and brew an imperial stout without lactose, without fruit, without strange yeast and other sprinkles. Clean, unclouded taste. Nothing superfluous. Varvar Brew - Naked 2025</beer_description>
+    <beer_style>Stout - Imperial / Double</beer_style>
+    <beer_abv>12%</beer_abv>
+    <beer_volume>330 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Ukraine</brewery_country>
+    <untappd_id>6140785</untappd_id>
+  </item>
+  <item>
+    <id>6478604</id>
+    <ecommerce_id>821796278</ecommerce_id>
+    <title>Ghost Elephant 2025</title>
+    <url>https://hopincraftbier.be/products/varvar-brew-ghost-elephant-2025</url>
+    <brewery_name>Varvar Brew</brewery_name>
+    <price>14.33</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/821796278/5638380364.png</image>
+    <beer_description>The second release of Ghost Elephant Imperial Stout. We aged it again in a cask from Caol Ila - peated Scotch whisky from the island of Islay. But this time, the whisky was not mixed with red wine, but with noble Oloroso Sherry. The aroma is delicately smoky, with notes of iodine, seaweed, prunes, raisins and wood. The taste is soft, balanced, with a slight sweetness and a deep aftertaste. Varvar Brew - Ghost Elephant 2025</beer_description>
+    <beer_style>Stout - Imperial / Double</beer_style>
+    <beer_abv>12.5%</beer_abv>
+    <beer_volume>375 ml</beer_volume>
+    <beer_package>bottle</beer_package>
+    <brewery_country>Ukraine</brewery_country>
+    <untappd_id>6478604</untappd_id>
+  </item>
+  <item>
     <id>9000000023</id>
     <ecommerce_id>820762821</ecommerce_id>
     <title>White Dog Brewery - White Dog Pair #2</title>
@@ -6967,6 +7016,6 @@
     <date_canned>2025-03-18</date_canned>
     <untappd_id>3898085</untappd_id>
   </item>
-  <timestamp>1773122407</timestamp>
-  <gen_date>10/03/2026 07:00:07</gen_date>
+  <timestamp>1773174006</timestamp>
+  <gen_date>10/03/2026 21:20:06</gen_date>
 </feed>
