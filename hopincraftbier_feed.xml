@@ -3703,6 +3703,24 @@
     <bundle_skus>6205524,6208805,4033335,4570140</bundle_skus>
   </item>
   <item>
+    <id>6406320</id>
+    <ecommerce_id>781533751</ecommerce_id>
+    <title>Ever Juice</title>
+    <url>https://hopincraftbier.be/products/tripping-animals-brewing-co-ever-juice</url>
+    <brewery_name>Tripping Animals Brewing Co.</brewery_name>
+    <price>8.49</price>
+    <regular_price>9,99</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5260880889.webp</image>
+    <beer_description>DDH hazy Double India Pale Ale brewed with Mosaic, Strata and Motueka hops. Tripping Animals Brewing Co. - Ever Juice</beer_description>
+    <beer_style>IPA - Imperial / Double</beer_style>
+    <beer_abv>8%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>United States</brewery_country>
+    <date_canned>2025-09-09</date_canned>
+    <untappd_id>6406320</untappd_id>
+  </item>
+  <item>
     <id>4178441</id>
     <ecommerce_id>781516951</ecommerce_id>
     <title>Queen Snake</title>
@@ -4072,6 +4090,24 @@
     <untappd_id>6383222</untappd_id>
   </item>
   <item>
+    <id>5755528</id>
+    <ecommerce_id>778813130</ecommerce_id>
+    <title>Distributed Ledger</title>
+    <url>https://hopincraftbier.be/products/spyglass-brewing-company-distributed-ledger</url>
+    <brewery_name>Spyglass Brewing Company</brewery_name>
+    <price>9.91</price>
+    <regular_price>11,66</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5260880887.webp</image>
+    <beer_description>A New England style TIPA - triple dry hopped with Citra, Motueka and Simcoe. Spyglass Brewing Company - Distributed Ledger</beer_description>
+    <beer_style>IPA - Triple New England / Hazy</beer_style>
+    <beer_abv>9.8%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>United States</brewery_country>
+    <date_canned>2025-09-08</date_canned>
+    <untappd_id>5755528</untappd_id>
+  </item>
+  <item>
     <id>3717200</id>
     <ecommerce_id>778817618</ecommerce_id>
     <title>Cantuccini</title>
@@ -4285,6 +4321,24 @@
     <untappd_id>6366648</untappd_id>
   </item>
   <item>
+    <id>6055618</id>
+    <ecommerce_id>777432751</ecommerce_id>
+    <title>BA Daybreak Speedway</title>
+    <url>https://hopincraftbier.be/products/other-half-brewing-co-ba-daybreak-speedway</url>
+    <brewery_name>Other Half Brewing Co.</brewery_name>
+    <price>26.48</price>
+    <regular_price>35.3</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5131536260.webp</image>
+    <beer_description>Imperial Stout Aged 25 Months in Bourbon Barrels with Blueberries, Vanilla, and Cloud Cover Coffee Other Half Brewing Co. - BA Daybreak Speedway</beer_description>
+    <beer_style>Stout - Imperial / Double Pastry</beer_style>
+    <beer_abv>12.5%</beer_abv>
+    <beer_volume>500 ml</beer_volume>
+    <beer_package>bottle</beer_package>
+    <brewery_country>United States</brewery_country>
+    <date_best_before>2026-03-01</date_best_before>
+    <untappd_id>6055618</untappd_id>
+  </item>
+  <item>
     <id>4185018</id>
     <ecommerce_id>774330341</ecommerce_id>
     <title>Players 1 - Batch 2</title>
@@ -4352,23 +4406,6 @@
     <brewery_country>Spain</brewery_country>
     <date_canned>2025-07-02</date_canned>
     <untappd_id>6339811</untappd_id>
-  </item>
-  <item>
-    <id>6272015</id>
-    <ecommerce_id>770507752</ecommerce_id>
-    <title>City Cake 2025</title>
-    <url>https://hopincraftbier.be/products/varvar-brew-city-cake-2025</url>
-    <brewery_name>Varvar Brew</brewery_name>
-    <price>6.7</price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5073876599.webp</image>
-    <beer_description>City Cake is back! ? Our annual Peanut &amp; Vanilla Imperial Stout, brewed especially for the city's holiday. And as always, it has a good portion of roasted peanuts, delicate vanilla, a pinch of salt for the perfect balance and our love. It is rich, deep, a little sweet, a little salty - just like Kyiv itself, a city with character. Varvar Brew - City Cake 2025</beer_description>
-    <beer_style>Stout - Imperial / Double Pastry</beer_style>
-    <beer_abv>11%</beer_abv>
-    <beer_volume>330 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Ukraine</brewery_country>
-    <date_canned>2025-05-19</date_canned>
-    <untappd_id>6272015</untappd_id>
   </item>
   <item>
     <id>6340747</id>
@@ -5291,24 +5328,6 @@
     <beer_package>can</beer_package>
     <brewery_country>Canada</brewery_country>
     <untappd_id>6263452</untappd_id>
-  </item>
-  <item>
-    <id>6263928</id>
-    <ecommerce_id>756995312</ecommerce_id>
-    <title>5 Lives</title>
-    <url>https://hopincraftbier.be/products/long-live-beerworks-5-lives</url>
-    <brewery_name>Long Live Beerworks</brewery_name>
-    <price>8.16</price>
-    <regular_price>10,88</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5438433972.webp</image>
-    <beer_description>A triple IPA, and the next edition to this year’s Anniversary Series! The blend of Emerald Spire, Vic Secret, Simcoe, Krush and Galaxy hops for this special release offers pithy notes of ripe mango, juicy grape and saturated citrus fruits. It’s bold in flavor, while still being super drinkable. Long Live Beerworks - 5 Lives</beer_description>
-    <beer_style>IPA - Triple</beer_style>
-    <beer_abv>10%</beer_abv>
-    <beer_volume>473 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>United States</brewery_country>
-    <date_canned>2025-05-14</date_canned>
-    <untappd_id>6263928</untappd_id>
   </item>
   <item>
     <id>6273097</id>
@@ -6417,24 +6436,6 @@
     <untappd_id>6210032</untappd_id>
   </item>
   <item>
-    <id>6009134</id>
-    <ecommerce_id>739496793</ecommerce_id>
-    <title>Night Shift Vintage 2024 - Russian Imperial Stout Aged In Tennessee Whiskey Barrels</title>
-    <url>https://hopincraftbier.be/products/horizont-brewing-night-shift-vintage-2024-russian-imperial-stout-aged-in-tennessee-whiskey-barrels</url>
-    <brewery_name>HORIZONT Brewing</brewery_name>
-    <price>7.47</price>
-    <regular_price>9.96</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4847573869.png</image>
-    <beer_description>Back to our 2016 roots, this 2024 batch is aged in Tennessee Whiskey barrels. No spices, just the barrels, malt, and hops. Aged for 2 years. -</beer_description>
-    <beer_style>Stout - Russian Imperial</beer_style>
-    <beer_abv>11.3%</beer_abv>
-    <beer_volume>330 ml</beer_volume>
-    <beer_package>bottle</beer_package>
-    <brewery_country>Hungary</brewery_country>
-    <date_best_before>2029-12-31</date_best_before>
-    <untappd_id>6009134</untappd_id>
-  </item>
-  <item>
     <id>6127069</id>
     <ecommerce_id>739491522</ecommerce_id>
     <title>X Anniversary 6/10 Quadrupel BBA</title>
@@ -6612,24 +6613,6 @@
     <brewery_country>Sweden</brewery_country>
     <date_best_before>2027-01-01</date_best_before>
     <untappd_id>6121787</untappd_id>
-  </item>
-  <item>
-    <id>6150230</id>
-    <ecommerce_id>738467815</ecommerce_id>
-    <title>Kurg (Cellar Series)</title>
-    <url>https://hopincraftbier.be/products/pohjala-kurg-cellar-series</url>
-    <brewery_name>Põhjala</brewery_name>
-    <price>6.72</price>
-    <regular_price>8.96</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4842142750.png</image>
-    <beer_description>A bold a brooding imperial stout aged in alder wood smoked whisky barrels. -</beer_description>
-    <beer_style>Stout - Imperial / Double</beer_style>
-    <beer_abv>13.6%</beer_abv>
-    <beer_volume>330 ml</beer_volume>
-    <beer_package>bottle</beer_package>
-    <brewery_country>Estonia</brewery_country>
-    <date_best_before>2029-01-27</date_best_before>
-    <untappd_id>6150230</untappd_id>
   </item>
   <item>
     <id>6180169</id>
@@ -6984,6 +6967,6 @@
     <date_canned>2025-03-18</date_canned>
     <untappd_id>3898085</untappd_id>
   </item>
-  <timestamp>1773085679</timestamp>
-  <gen_date>09/03/2026 20:47:59</gen_date>
+  <timestamp>1773122407</timestamp>
+  <gen_date>10/03/2026 07:00:07</gen_date>
 </feed>
