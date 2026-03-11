@@ -1,4 +1,4 @@
-const version = 'v6.58';
+const version = 'v6.59';
 const txtNl1 = '<div class="dtooltip"><p class="hover question">Kortingscoupon</p><p class="dtooltiptext">Afhankelijk van de gekozen betaling en levering, kunt u een kortingscoupon krijgen die te gebruiken is bij een volgende bestelling. Voor dit bier ziet u de bedragen in deze tabel</p></div><table class="discount-table"><thead><tr class="first_header"><th></th><th colspan="2">Manier van levering</th></tr><tr><th>Manier van betaling</th><th>Afhaling</th><th>Levering</th></tr></thead><tbody><tr><td class="header">Betalen bij afhaling</td><td>€ ';
 const txtNl2 = '</td><td> - </td></tr><tr><td class="header">Overschrijving</td><td>€ ';
 const txtNl3 = '</td><td>€ ';
@@ -204,7 +204,7 @@ function processAttributes() {
 
                 if (attribute === 'Brouwerij:' || attribute === 'Brewery:') {
                     content.split(",").forEach((it) => {
-                        let link = lng + '/products/' + it.trim().toLowerCase().replaceAll("’", '').replaceAll('.', '').replaceAll(' ', '-');
+                        let link = lng + '/products/' + it.trim().normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase().replaceAll("’", '').replaceAll('.', '').replaceAll(' ', '-');
                         log('Link: ' + link);
                         if (newContent !== "") {
                             newContent += ", ";
@@ -222,7 +222,7 @@ function processAttributes() {
                 } else if (attribute === 'Land:' || attribute === 'Country:') {
                     content.split(",").forEach((it) => {
                         // /alle-bieren?attribute_Land
-                        let link = lng + '/products/alle-bieren?attribute_Land=' + it.trim().replaceAll("’", '').replaceAll(' ', '+');
+                        let link = lng + '/products/alle-bieren?attribute_Land=' + it.trim().normalize("NFD").replace(/[\u0300-\u036f]/g, "").replaceAll("’", '').replaceAll(' ', '+');
                         if (newContent !== "") {
                             newContent += ", ";
                         }
