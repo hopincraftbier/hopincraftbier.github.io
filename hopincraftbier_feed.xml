@@ -5666,7 +5666,7 @@
   <item>
     <id>1954247</id>
     <ecommerce_id>751542771</ecommerce_id>
-    <title>Vitamin Sea - Due North</title>
+    <title>Due North</title>
     <url>https://hopincraftbier.be/products/vitamin-sea-due-north</url>
     <brewery_name>Vitamin Sea Brewing</brewery_name>
     <price>7.7</price>
@@ -5735,7 +5735,7 @@
   <item>
     <id>2977936</id>
     <ecommerce_id>751537020</ecommerce_id>
-    <title>Vitamin Sea - Just Another T-Shirt Shop</title>
+    <title>Just Another T-Shirt Shop</title>
     <url>https://hopincraftbier.be/products/vitamin-sea-just-another-t-shirt-shop</url>
     <brewery_name>Vitamin Sea Brewing</brewery_name>
     <price>7.7</price>
@@ -5770,7 +5770,7 @@
   <item>
     <id>3708746</id>
     <ecommerce_id>751543260</ecommerce_id>
-    <title>Vitamin Sea - Double Spring</title>
+    <title>Double Spring</title>
     <url>https://hopincraftbier.be/products/vitamin-sea-double-spring</url>
     <brewery_name>Vitamin Sea Brewing</brewery_name>
     <price>7.95</price>
@@ -7065,6 +7065,6 @@
     <date_canned>2025-03-18</date_canned>
     <untappd_id>3898085</untappd_id>
   </item>
-  <timestamp>1773218706</timestamp>
-  <gen_date>11/03/2026 09:45:06</gen_date>
+  <timestamp>1773230101</timestamp>
+  <gen_date>11/03/2026 12:55:01</gen_date>
 </feed>
