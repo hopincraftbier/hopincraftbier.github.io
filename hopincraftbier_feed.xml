@@ -7,7 +7,7 @@
   <item>
     <id>6608065</id>
     <ecommerce_id>821812565</ecommerce_id>
-    <title>Laugar - WAR REQUIEM</title>
+    <title>WAR REQUIEM</title>
     <url>https://hopincraftbier.be/products/laugar-war-requiem</url>
     <brewery_name>Laugar Brewery</brewery_name>
     <price>7.61</price>
@@ -23,7 +23,7 @@
   <item>
     <id>6075170</id>
     <ecommerce_id>821812092</ecommerce_id>
-    <title>Laugar - AUPA TOVARISCH XI ANNIVERSARY</title>
+    <title>AUPA TOVARISCH XI ANNIVERSARY</title>
     <url>https://hopincraftbier.be/products/laugar-aupa-tovarisch-xi-anniversary</url>
     <brewery_name>Laugar Brewery</brewery_name>
     <price>7.71</price>
@@ -146,7 +146,7 @@
   <item>
     <id>6609444</id>
     <ecommerce_id>819855932</ecommerce_id>
-    <title>Verdant - PuTTTy (2026)</title>
+    <title>PuTTTy (2026)</title>
     <url>https://hopincraftbier.be/products/verdant-puttty-2026</url>
     <brewery_name>Verdant Brewing Co</brewery_name>
     <price>11.4</price>
@@ -165,7 +165,7 @@
   <item>
     <id>6606993</id>
     <ecommerce_id>819851662</ecommerce_id>
-    <title>Verdant - How You Do Anything Is How You Do Everything</title>
+    <title>How You Do Anything Is How You Do Everything</title>
     <url>https://hopincraftbier.be/products/verdant-how-you-do-anything-is-how-you-do-everything</url>
     <brewery_name>Verdant Brewing Co</brewery_name>
     <price>8.94</price>
@@ -449,7 +449,7 @@
   <item>
     <id>6598385</id>
     <ecommerce_id>816187536</ecommerce_id>
-    <title>Mogwaï - Yes But Not Today</title>
+    <title>Yes But Not Today</title>
     <url>https://hopincraftbier.be/products/mogwai-yes-but-not-today</url>
     <brewery_name>Mogwaï Beer Company</brewery_name>
     <price>6.62</price>
@@ -466,7 +466,7 @@
   <item>
     <id>6573966</id>
     <ecommerce_id>816173127</ecommerce_id>
-    <title>Mogwaï - Sauce Du Chef Series - Pinch of Tabasco</title>
+    <title>Sauce Du Chef Series - Pinch of Tabasco</title>
     <url>https://hopincraftbier.be/products/mogwai-sauce-du-chef-series-pinch-of-tabasco</url>
     <brewery_name>Mogwaï Beer Company</brewery_name>
     <price>6.82</price>
@@ -483,7 +483,7 @@
   <item>
     <id>6543423</id>
     <ecommerce_id>816173126</ecommerce_id>
-    <title>Mogwaï - Pretty Stable Chaos</title>
+    <title>Pretty Stable Chaos</title>
     <url>https://hopincraftbier.be/products/mogwai-pretty-stable-chaos</url>
     <brewery_name>Mogwaï Beer Company</brewery_name>
     <price>5.95</price>
@@ -500,7 +500,7 @@
   <item>
     <id>6577155</id>
     <ecommerce_id>816187535</ecommerce_id>
-    <title>Independent - Cronos And the Infinite Hoppiness</title>
+    <title>Cronos And the Infinite Hoppiness</title>
     <url>https://hopincraftbier.be/products/independent-cronos-and-the-infinite-hoppiness</url>
     <brewery_name>Independent Beer Company</brewery_name>
     <price>6.49</price>
@@ -645,7 +645,7 @@
   <item>
     <id>6567898</id>
     <ecommerce_id>814010511</ecommerce_id>
-    <title>Maktoob - Double Happiness : Earth Rooster</title>
+    <title>Double Happiness : Earth Rooster</title>
     <url>https://hopincraftbier.be/products/maktoob-double-happiness-earth-rooster</url>
     <brewery_name>Maktoob Brewing</brewery_name>
     <price>6.85</price>
@@ -662,7 +662,7 @@
   <item>
     <id>6570662</id>
     <ecommerce_id>814012505</ecommerce_id>
-    <title>Maktoob - Abduction In the Desert</title>
+    <title>Abduction In the Desert</title>
     <url>https://hopincraftbier.be/products/maktoob-abduction-in-the-desert</url>
     <brewery_name>Maktoob Brewing</brewery_name>
     <price>6.85</price>
@@ -698,7 +698,7 @@
   <item>
     <id>6489573</id>
     <ecommerce_id>811857028</ecommerce_id>
-    <title>Prizm - IUPAC</title>
+    <title>IUPAC</title>
     <url>https://hopincraftbier.be/products/prizm-iupac</url>
     <brewery_name>Prizm Brewing Co.</brewery_name>
     <price>6.68</price>
@@ -732,7 +732,7 @@
   <item>
     <id>6569053</id>
     <ecommerce_id>811861791</ecommerce_id>
-    <title>Prizm - Please The Crowds</title>
+    <title>Please The Crowds</title>
     <url>https://hopincraftbier.be/products/prizm-please-the-crowds</url>
     <brewery_name>Prizm Brewing Co.</brewery_name>
     <price>7.2</price>
@@ -750,7 +750,7 @@
   <item>
     <id>6569059</id>
     <ecommerce_id>811856563</ecommerce_id>
-    <title>Prizm - Sunken Ship</title>
+    <title>Sunken Ship</title>
     <url>https://hopincraftbier.be/products/prizm-sunken-ship</url>
     <brewery_name>Prizm Brewing Co.</brewery_name>
     <price>7.51</price>
@@ -767,7 +767,7 @@
   <item>
     <id>6489634</id>
     <ecommerce_id>811856564</ecommerce_id>
-    <title>Prizm - More Pressure</title>
+    <title>More Pressure</title>
     <url>https://hopincraftbier.be/products/prizm-more-pressure</url>
     <brewery_name>Prizm Brewing Co.</brewery_name>
     <price>6.98</price>
@@ -784,7 +784,7 @@
   <item>
     <id>6584852</id>
     <ecommerce_id>810417877</ecommerce_id>
-    <title>White Dog - Rocky Road (2026)</title>
+    <title>Rocky Road (2026)</title>
     <url>https://hopincraftbier.be/products/white-dog-rocky-road-2026</url>
     <brewery_name>White Dog Brewery</brewery_name>
     <price>7.38</price>
@@ -801,7 +801,7 @@
   <item>
     <id>6584854</id>
     <ecommerce_id>810417875</ecommerce_id>
-    <title>White Dog - Cookie &amp; Cream</title>
+    <title>Cookie &amp; Cream</title>
     <url>https://hopincraftbier.be/products/white-dog-cookie--cream</url>
     <brewery_name>White Dog Brewery</brewery_name>
     <price>7.38</price>
@@ -818,7 +818,7 @@
   <item>
     <id>5151349</id>
     <ecommerce_id>810376070</ecommerce_id>
-    <title>Stigbergets - Big Bourbon Barrel Aged Stout 2021</title>
+    <title>Big Bourbon Barrel Aged Stout 2021</title>
     <url>https://hopincraftbier.be/products/stigbergets-big-bourbon-barrel-aged-stout-2021</url>
     <brewery_name>Stigbergets Bryggeri</brewery_name>
     <price>7.47</price>
@@ -835,7 +835,7 @@
   <item>
     <id>3872382</id>
     <ecommerce_id>810376071</ecommerce_id>
-    <title>Stigbergets - BIGGER! BOLDER!</title>
+    <title>BIGGER! BOLDER!</title>
     <url>https://hopincraftbier.be/products/stigbergets-bigger-bolder</url>
     <brewery_name>Stigbergets Bryggeri</brewery_name>
     <price>6.03</price>
@@ -903,7 +903,7 @@
   <item>
     <id>6513775</id>
     <ecommerce_id>809097842</ecommerce_id>
-    <title>The Piggy - Don Jefe</title>
+    <title>Don Jefe</title>
     <url>https://hopincraftbier.be/products/the-piggy-don-jefe</url>
     <brewery_name>The Piggy Brewing Company</brewery_name>
     <price>5.9</price>
@@ -921,7 +921,7 @@
   <item>
     <id>6560471</id>
     <ecommerce_id>809098271</ecommerce_id>
-    <title>The Piggy - Muvuka</title>
+    <title>Muvuka</title>
     <url>https://hopincraftbier.be/products/the-piggy-muvuka</url>
     <brewery_name>The Piggy Brewing Company</brewery_name>
     <price>8.26</price>
@@ -938,7 +938,7 @@
   <item>
     <id>6552171</id>
     <ecommerce_id>809098270</ecommerce_id>
-    <title>The Piggy - West Coast Patrol</title>
+    <title>West Coast Patrol</title>
     <url>https://hopincraftbier.be/products/the-piggy-west-coast-patrol</url>
     <brewery_name>The Piggy Brewing Company</brewery_name>
     <price>5.65</price>
@@ -955,7 +955,7 @@
   <item>
     <id>6522822</id>
     <ecommerce_id>809098038</ecommerce_id>
-    <title>The Piggy - Hop Gemini</title>
+    <title>Hop Gemini</title>
     <url>https://hopincraftbier.be/products/the-piggy-hop-gemini</url>
     <brewery_name>The Piggy Brewing Company</brewery_name>
     <price>6.56</price>
@@ -972,7 +972,7 @@
   <item>
     <id>3956966</id>
     <ecommerce_id>809098039</ecommerce_id>
-    <title>The Piggy - Lacrima de Oro (2026)</title>
+    <title>Lacrima de Oro (2026)</title>
     <url>https://hopincraftbier.be/products/the-piggy-lacrima-de-oro-2026</url>
     <brewery_name>The Piggy Brewing Company</brewery_name>
     <price>7.38</price>
@@ -989,7 +989,7 @@
   <item>
     <id>6471643</id>
     <ecommerce_id>808672091</ecommerce_id>
-    <title>Stu Mostów - Neon Pulse</title>
+    <title>Neon Pulse</title>
     <url>https://hopincraftbier.be/products/stu-mostow-neon-pulse</url>
     <brewery_name>Browar Stu Mostów</brewery_name>
     <price>6.49</price>
@@ -1007,7 +1007,7 @@
   <item>
     <id>6567915</id>
     <ecommerce_id>808552524</ecommerce_id>
-    <title>Unseen - Latitude Zero</title>
+    <title>Latitude Zero</title>
     <url>https://hopincraftbier.be/products/unseen-latitude-zero</url>
     <brewery_name>Unseen Brewing Company</brewery_name>
     <price>3.6</price>
@@ -1024,7 +1024,7 @@
   <item>
     <id>6513873</id>
     <ecommerce_id>808552525</ecommerce_id>
-    <title>Stu Mostów - XI Anniversary | Block Party</title>
+    <title>XI Anniversary | Block Party</title>
     <url>https://hopincraftbier.be/products/stu-mostow-xi-anniversary-block-party</url>
     <brewery_name>Browar Stu Mostów</brewery_name>
     <price>6.6</price>
@@ -1043,7 +1043,7 @@
   <item>
     <id>6531339</id>
     <ecommerce_id>807794964</ecommerce_id>
-    <title>Badlands - Inky (December 2025)</title>
+    <title>Inky (December 2025)</title>
     <url>https://hopincraftbier.be/products/badlands-inky-december-2025</url>
     <brewery_name>Badlands Brewing Company</brewery_name>
     <price>31.74</price>
@@ -1059,7 +1059,7 @@
   <item>
     <id>6513908</id>
     <ecommerce_id>807097776</ecommerce_id>
-    <title>Polly's - You Can't Control</title>
+    <title>You Can't Control</title>
     <url>https://hopincraftbier.be/products/pollys-you-cant-control</url>
     <brewery_name>Polly's Brew Co.</brewery_name>
     <price>6.55</price>
@@ -1076,7 +1076,7 @@
   <item>
     <id>6577350</id>
     <ecommerce_id>807039742</ecommerce_id>
-    <title>Polly's - 8th Birthday - India Pale Ale</title>
+    <title>8th Birthday - India Pale Ale</title>
     <url>https://hopincraftbier.be/products/pollys-8th-birthday-india-pale-ale</url>
     <brewery_name>Polly's Brew Co.</brewery_name>
     <price>6.75</price>
@@ -1093,7 +1093,7 @@
   <item>
     <id>6577359</id>
     <ecommerce_id>807039737</ecommerce_id>
-    <title>Polly's - 8th Birthday - Double India Pale Ale</title>
+    <title>8th Birthday - Double India Pale Ale</title>
     <url>https://hopincraftbier.be/products/pollys-8th-birthday-double-india-pale-ale</url>
     <brewery_name>Polly's Brew Co.</brewery_name>
     <price>7.83</price>
@@ -1110,7 +1110,7 @@
   <item>
     <id>6577343</id>
     <ecommerce_id>807076879</ecommerce_id>
-    <title>Polly's - 8th Birthday - Danish Pastry Imperial Stout</title>
+    <title>8th Birthday - Danish Pastry Imperial Stout</title>
     <url>https://hopincraftbier.be/products/pollys-8th-birthday-danish-pastry-imperial-stout</url>
     <brewery_name>Polly's Brew Co.</brewery_name>
     <price>7.06</price>
@@ -1147,7 +1147,7 @@
   <item>
     <id>6514089</id>
     <ecommerce_id>806352828</ecommerce_id>
-    <title>Norm - Euphoria</title>
+    <title>Euphoria</title>
     <url>https://hopincraftbier.be/products/norm-euphoria</url>
     <brewery_name>Norm Brewing</brewery_name>
     <price>5.77</price>
@@ -1164,7 +1164,7 @@
   <item>
     <id>6491728</id>
     <ecommerce_id>806337899</ecommerce_id>
-    <title>Norm - Eclipse</title>
+    <title>Eclipse</title>
     <url>https://hopincraftbier.be/products/norm-eclipse</url>
     <brewery_name>Norm Brewing</brewery_name>
     <price>5.55</price>
@@ -1181,7 +1181,7 @@
   <item>
     <id>6491725</id>
     <ecommerce_id>806337900</ecommerce_id>
-    <title>Norm - Northern Lights</title>
+    <title>Northern Lights</title>
     <url>https://hopincraftbier.be/products/norm-northern-lights</url>
     <brewery_name>Norm Brewing</brewery_name>
     <price>6.22</price>
@@ -1198,7 +1198,7 @@
   <item>
     <id>6453136</id>
     <ecommerce_id>806337901</ecommerce_id>
-    <title>Norm - Nelson Focus</title>
+    <title>Nelson Focus</title>
     <url>https://hopincraftbier.be/products/norm-nelson-focus</url>
     <brewery_name>Norm Brewing</brewery_name>
     <price>5.77</price>
@@ -1235,7 +1235,7 @@
   <item>
     <id>6590688</id>
     <ecommerce_id>806355016</ecommerce_id>
-    <title>Outer Range - Superdelic Signal</title>
+    <title>Superdelic Signal</title>
     <url>https://hopincraftbier.be/products/outer-range-superdelic-signal</url>
     <brewery_name>Outer Range Brewing Co.</brewery_name>
     <price>6.68</price>
@@ -1252,7 +1252,7 @@
   <item>
     <id>3948646</id>
     <ecommerce_id>806293946</ecommerce_id>
-    <title>Outer Range - Heightened State</title>
+    <title>Heightened State</title>
     <url>https://hopincraftbier.be/products/outer-range-heightened-state</url>
     <brewery_name>Outer Range Brewing Co.</brewery_name>
     <price>5.9</price>
@@ -1270,7 +1270,7 @@
   <item>
     <id>6505755</id>
     <ecommerce_id>806293872</ecommerce_id>
-    <title>Outer Range - Above the Noise</title>
+    <title>Above the Noise</title>
     <url>https://hopincraftbier.be/products/outer-range-above-the-noise</url>
     <brewery_name>Outer Range Brewing Co.</brewery_name>
     <price>7.27</price>
@@ -1287,7 +1287,7 @@
   <item>
     <id>6552592</id>
     <ecommerce_id>806292910</ecommerce_id>
-    <title>Outer Range - Liquid Krush</title>
+    <title>Liquid Krush</title>
     <url>https://hopincraftbier.be/products/outer-range-liquid-krush</url>
     <brewery_name>Outer Range Brewing Co.</brewery_name>
     <price>7.33</price>
@@ -1304,7 +1304,7 @@
   <item>
     <id>2565726</id>
     <ecommerce_id>806292908</ecommerce_id>
-    <title>Outer Range - Pillow Stacks</title>
+    <title>Pillow Stacks</title>
     <url>https://hopincraftbier.be/products/outer-range-pillow-stacks</url>
     <brewery_name>Outer Range Brewing Co.</brewery_name>
     <price>7.08</price>
@@ -1504,7 +1504,7 @@
   <item>
     <id>6527542</id>
     <ecommerce_id>805525934</ecommerce_id>
-    <title>Icarus - BA Treats Of Strength</title>
+    <title>BA Treats Of Strength</title>
     <url>https://hopincraftbier.be/products/icarus-ba-treats-of-strength</url>
     <brewery_name>Icarus Brewing</brewery_name>
     <price>27.28</price>
@@ -1520,7 +1520,7 @@
   <item>
     <id>6526439</id>
     <ecommerce_id>805323120</ecommerce_id>
-    <title>Factory - Lady Cupcake #10 (Cocoa Nibs, Vanilla &amp; Caramel)</title>
+    <title>Lady Cupcake #10 (Cocoa Nibs, Vanilla &amp; Caramel)</title>
     <url>https://hopincraftbier.be/products/factory-lady-cupcake-10-cocoa-nibs-vanilla--caramel</url>
     <brewery_name>Factory Brewing</brewery_name>
     <price>7.96</price>
@@ -1637,7 +1637,7 @@
   <item>
     <id>6574780</id>
     <ecommerce_id>804689293</ecommerce_id>
-    <title>Factory - Eye Opener</title>
+    <title>Eye Opener</title>
     <url>https://hopincraftbier.be/products/factory-eye-opener</url>
     <brewery_name>Factory Brewing</brewery_name>
     <price>7.93</price>
@@ -1655,7 +1655,7 @@
   <item>
     <id>6574782</id>
     <ecommerce_id>804683535</ecommerce_id>
-    <title>Factory - Perpetual Motion</title>
+    <title>Perpetual Motion</title>
     <url>https://hopincraftbier.be/products/factory-perpetual-motion</url>
     <brewery_name>Factory Brewing</brewery_name>
     <price>7.74</price>
@@ -1673,7 +1673,7 @@
   <item>
     <id>6574797</id>
     <ecommerce_id>804684039</ecommerce_id>
-    <title>Factory - Distant Closeness</title>
+    <title>Distant Closeness</title>
     <url>https://hopincraftbier.be/products/factory-distant-closeness</url>
     <brewery_name>Factory Brewing</brewery_name>
     <price>7.1</price>
@@ -1692,7 +1692,7 @@
   <item>
     <id>6574785</id>
     <ecommerce_id>804684775</ecommerce_id>
-    <title>Factory - Turbid Dreams</title>
+    <title>Turbid Dreams</title>
     <url>https://hopincraftbier.be/products/factory-turbid-dreams</url>
     <brewery_name>Factory Brewing</brewery_name>
     <price>7.4</price>
@@ -1843,7 +1843,7 @@
   <item>
     <id>6528223</id>
     <ecommerce_id>803521752</ecommerce_id>
-    <title>Finback - Side Eye</title>
+    <title>Side Eye</title>
     <url>https://hopincraftbier.be/products/finback-side-eye</url>
     <brewery_name>Finback Brewery</brewery_name>
     <price>9.58</price>
@@ -1908,7 +1908,7 @@
   <item>
     <id>5609464</id>
     <ecommerce_id>801936386</ecommerce_id>
-    <title>Collective Arts - Origin of Darkness Imperial Stout with Maple Syrup, Pistachio, Vanilla</title>
+    <title>Origin of Darkness Imperial Stout with Maple Syrup, Pistachio, Vanilla</title>
     <url>https://hopincraftbier.be/products/collective-arts-origin-of-darkness-imperial-stout-with-maple-syrup-pistachio-vanilla</url>
     <brewery_name>Collective Arts Brewing</brewery_name>
     <price>17.96</price>
@@ -1973,7 +1973,7 @@
   <item>
     <id>6501889</id>
     <ecommerce_id>801936314</ecommerce_id>
-    <title>Fine Balance - Encore</title>
+    <title>Encore</title>
     <url>https://hopincraftbier.be/products/fine-balance-encore</url>
     <brewery_name>Fine Balance Brewing</brewery_name>
     <price>13.9</price>
@@ -1991,7 +1991,7 @@
   <item>
     <id>6500393</id>
     <ecommerce_id>801905584</ecommerce_id>
-    <title>Sofia Electric - Gauntlet</title>
+    <title>Gauntlet</title>
     <url>https://hopincraftbier.be/products/sofia-electric-gauntlet</url>
     <brewery_name>Sofia Electric Brewing</brewery_name>
     <price>10.71</price>
@@ -2008,7 +2008,7 @@
   <item>
     <id>6454681</id>
     <ecommerce_id>801905583</ecommerce_id>
-    <title>Sofia Electric - Atavistic Beast</title>
+    <title>Atavistic Beast</title>
     <url>https://hopincraftbier.be/products/sofia-electric-atavistic-beast</url>
     <brewery_name>Sofia Electric Brewing</brewery_name>
     <price>5.62</price>
@@ -2200,7 +2200,7 @@
   <item>
     <id>6558377</id>
     <ecommerce_id>798972867</ecommerce_id>
-    <title>Badlands - Kiwi (2026)</title>
+    <title>Kiwi (2026)</title>
     <url>https://hopincraftbier.be/products/badlands-kiwi-2026</url>
     <brewery_name>Badlands Brewing Company</brewery_name>
     <price>10.58</price>
@@ -2251,7 +2251,7 @@
   <item>
     <id>6479992</id>
     <ecommerce_id>798975559</ecommerce_id>
-    <title>Revolution - Straight Jacket (2025)</title>
+    <title>Straight Jacket (2025)</title>
     <url>https://hopincraftbier.be/products/revolution-straight-jacket-2025</url>
     <brewery_name>Revolution Brewing</brewery_name>
     <price>11.76</price>
@@ -2268,7 +2268,7 @@
   <item>
     <id>6480717</id>
     <ecommerce_id>798972866</ecommerce_id>
-    <title>Equilibrium - Life After Death Star (Batch 7) 2025</title>
+    <title>Life After Death Star (Batch 7) 2025</title>
     <url>https://hopincraftbier.be/products/equilibrium-life-after-death-star-batch-7-2025</url>
     <brewery_name>Equilibrium Brewery</brewery_name>
     <price>24.6</price>
@@ -2303,7 +2303,7 @@
   <item>
     <id>6421473</id>
     <ecommerce_id>797997508</ecommerce_id>
-    <title>Jackie O’s - Prodigality (2025)</title>
+    <title>Prodigality (2025)</title>
     <url>https://hopincraftbier.be/products/jackie-os-prodigality-2025</url>
     <brewery_name>Jackie O’s Brewery</brewery_name>
     <price>17.81</price>
@@ -2320,7 +2320,7 @@
   <item>
     <id>6473817</id>
     <ecommerce_id>797998005</ecommerce_id>
-    <title>Counterpart - Don't Fear the Reaper</title>
+    <title>Don't Fear the Reaper</title>
     <url>https://hopincraftbier.be/products/counterpart-dont-fear-the-reaper</url>
     <brewery_name>Counterpart Brewing</brewery_name>
     <price>11.91</price>
@@ -2388,7 +2388,7 @@
   <item>
     <id>6222183</id>
     <ecommerce_id>797997504</ecommerce_id>
-    <title>Drekker - Swirlee - Raspberry Creamsicle</title>
+    <title>Swirlee - Raspberry Creamsicle</title>
     <url>https://hopincraftbier.be/products/drekker-swirlee-raspberry-creamsicle</url>
     <brewery_name>Drekker Brewing Company</brewery_name>
     <price>11.24</price>
@@ -2404,7 +2404,7 @@
   <item>
     <id>6497366</id>
     <ecommerce_id>797998003</ecommerce_id>
-    <title>All My Friends - Towers</title>
+    <title>Towers</title>
     <url>https://hopincraftbier.be/products/all-my-friends-towers</url>
     <brewery_name>All My Friends Beer Co.</brewery_name>
     <price>9.58</price>
@@ -2420,7 +2420,7 @@
   <item>
     <id>6497368</id>
     <ecommerce_id>797997267</ecommerce_id>
-    <title>All My Friends - Surprise</title>
+    <title>Surprise</title>
     <url>https://hopincraftbier.be/products/all-my-friends-surprise</url>
     <brewery_name>All My Friends Beer Co.</brewery_name>
     <price>10.58</price>
@@ -2436,7 +2436,7 @@
   <item>
     <id>6399165</id>
     <ecommerce_id>797681262</ecommerce_id>
-    <title>Bereta - Reversed 6(66)</title>
+    <title>Reversed 6(66)</title>
     <url>https://hopincraftbier.be/products/bereta-reversed-6-66</url>
     <brewery_name>Bereta Brewing Co.</brewery_name>
     <price>13.35</price>
@@ -2452,7 +2452,7 @@
   <item>
     <id>6489383</id>
     <ecommerce_id>797597930</ecommerce_id>
-    <title>Basqueland - Zugarramurdi</title>
+    <title>Zugarramurdi</title>
     <url>https://hopincraftbier.be/products/basqueland-zugarramurdi</url>
     <brewery_name>Basqueland Brewing</brewery_name>
     <price>15.24</price>
@@ -2469,7 +2469,7 @@
   <item>
     <id>6471744</id>
     <ecommerce_id>797597702</ecommerce_id>
-    <title>Basqueland - Aiako Harria / Peñas De Aia</title>
+    <title>Aiako Harria / Peñas De Aia</title>
     <url>https://hopincraftbier.be/products/basqueland-aiako-harria-penas-de-aia</url>
     <brewery_name>Basqueland Brewing</brewery_name>
     <price>7.36</price>
@@ -2486,7 +2486,7 @@
   <item>
     <id>6359238</id>
     <ecommerce_id>794188753</ecommerce_id>
-    <title>Blackout - Profan</title>
+    <title>Profan</title>
     <url>https://hopincraftbier.be/products/blackout-profan</url>
     <brewery_name>Blackout Brewing</brewery_name>
     <price>10.45</price>
@@ -2503,7 +2503,7 @@
   <item>
     <id>6399012</id>
     <ecommerce_id>794188506</ecommerce_id>
-    <title>Blackout - Port &amp; Bourbon BA - Sunset Damage</title>
+    <title>Port &amp; Bourbon BA - Sunset Damage</title>
     <url>https://hopincraftbier.be/products/blackout-port--bourbon-ba-sunset-damage</url>
     <brewery_name>Blackout Brewing</brewery_name>
     <price>10.45</price>
@@ -2520,7 +2520,7 @@
   <item>
     <id>6380681</id>
     <ecommerce_id>794188505</ecommerce_id>
-    <title>Blackout - Coffee Series - Indonesia</title>
+    <title>Coffee Series - Indonesia</title>
     <url>https://hopincraftbier.be/products/blackout-coffee-series-indonesia</url>
     <brewery_name>Blackout Brewing</brewery_name>
     <price>7.5</price>
@@ -2553,7 +2553,7 @@
   <item>
     <id>6437817</id>
     <ecommerce_id>794172618</ecommerce_id>
-    <title>Menno Olivier - THE GAZE</title>
+    <title>THE GAZE</title>
     <url>https://hopincraftbier.be/products/menno-olivier-the-gaze</url>
     <brewery_name>Menno Olivier Brewing</brewery_name>
     <price>8.25</price>
@@ -2570,7 +2570,7 @@
   <item>
     <id>6393493</id>
     <ecommerce_id>794172619</ecommerce_id>
-    <title>Blackout - Ego Death - Heaven Hill BA</title>
+    <title>Ego Death - Heaven Hill BA</title>
     <url>https://hopincraftbier.be/products/blackout-ego-death-heaven-hill-ba</url>
     <brewery_name>Blackout Brewing</brewery_name>
     <price>10.45</price>
@@ -2587,7 +2587,7 @@
   <item>
     <id>6472889</id>
     <ecommerce_id>793903724</ecommerce_id>
-    <title>Third Moon - Bestowed - Oreo Brownie</title>
+    <title>Bestowed - Oreo Brownie</title>
     <url>https://hopincraftbier.be/products/third-moon-bestowed-oreo-brownie</url>
     <brewery_name>Third Moon Brewing Company</brewery_name>
     <price>14.23</price>
@@ -2603,7 +2603,7 @@
   <item>
     <id>6441478</id>
     <ecommerce_id>793903723</ecommerce_id>
-    <title>Noctem Artisanss - Tranquillité Rhum Jamaique</title>
+    <title>Tranquillité Rhum Jamaique</title>
     <url>https://hopincraftbier.be/products/noctem-artisanss-tranquillite-rhum-jamaique</url>
     <brewery_name>Noctem Artisans Brasseurs</brewery_name>
     <price>10.17</price>
@@ -2619,7 +2619,7 @@
   <item>
     <id>6441702</id>
     <ecommerce_id>793910017</ecommerce_id>
-    <title>Noctem Artisanss - Tranquillité Whisky Canadien</title>
+    <title>Tranquillité Whisky Canadien</title>
     <url>https://hopincraftbier.be/products/noctem-artisanss-tranquillite-whisky-canadien</url>
     <brewery_name>Noctem Artisans Brasseurs</brewery_name>
     <price>10.17</price>
@@ -2652,7 +2652,7 @@
   <item>
     <id>6459166</id>
     <ecommerce_id>793369573</ecommerce_id>
-    <title>Brasserie Sir John - P'tit Monstre</title>
+    <title>P'tit Monstre</title>
     <url>https://hopincraftbier.be/products/brasserie-sir-john-ptit-monstre</url>
     <brewery_name>Brasserie Sir John Brewing Co.</brewery_name>
     <price>10.25</price>
@@ -2668,7 +2668,7 @@
   <item>
     <id>40890</id>
     <ecommerce_id>793369572</ecommerce_id>
-    <title>Oskar Blues® - Barrel-Aged Ten FIDY®</title>
+    <title>Barrel-Aged Ten FIDY®</title>
     <url>https://hopincraftbier.be/products/oskar-blues-r-barrel-aged-ten-fidy-r</url>
     <brewery_name>Oskar Blues Brewery®</brewery_name>
     <price>9.18</price>
@@ -2685,7 +2685,7 @@
   <item>
     <id>3485002</id>
     <ecommerce_id>793369571</ecommerce_id>
-    <title>Mikerphone - Imperial Smells Like Bean Spirit - Pecan Pie</title>
+    <title>Imperial Smells Like Bean Spirit - Pecan Pie</title>
     <url>https://hopincraftbier.be/products/mikerphone-imperial-smells-like-bean-spirit-pecan-pie</url>
     <brewery_name>Mikerphone Brewing</brewery_name>
     <price>11.24</price>
@@ -2701,7 +2701,7 @@
   <item>
     <id>6430291</id>
     <ecommerce_id>793373329</ecommerce_id>
-    <title>Brasserie Sir John - À L'ombre De L'Ange</title>
+    <title>À L'ombre De L'Ange</title>
     <url>https://hopincraftbier.be/products/brasserie-sir-john-a-lombre-de-lange</url>
     <brewery_name>Brasserie Sir John Brewing Co.</brewery_name>
     <price>25.93</price>
@@ -2717,7 +2717,7 @@
   <item>
     <id>6517160</id>
     <ecommerce_id>793369570</ecommerce_id>
-    <title>Tired Hands - TDH Eviscerated Pathway of Beauty</title>
+    <title>TDH Eviscerated Pathway of Beauty</title>
     <url>https://hopincraftbier.be/products/tired-hands-tdh-eviscerated-pathway-of-beauty</url>
     <brewery_name>Tired Hands Brewing Company</brewery_name>
     <price>12.24</price>
@@ -2734,7 +2734,7 @@
   <item>
     <id>6454216</id>
     <ecommerce_id>793369569</ecommerce_id>
-    <title>Brasserie Sir John - Avant L'effondrement</title>
+    <title>Avant L'effondrement</title>
     <url>https://hopincraftbier.be/products/brasserie-sir-john-avant-leffondrement</url>
     <brewery_name>Brasserie Sir John Brewing Co.</brewery_name>
     <price>10.58</price>
@@ -2751,7 +2751,7 @@
   <item>
     <id>1029314</id>
     <ecommerce_id>793369356</ecommerce_id>
-    <title>Tired Hands - Eviscerated Pathway of Beauty</title>
+    <title>Eviscerated Pathway of Beauty</title>
     <url>https://hopincraftbier.be/products/tired-hands-eviscerated-pathway-of-beauty</url>
     <brewery_name>Tired Hands Brewing Company</brewery_name>
     <price>10.91</price>
@@ -2768,7 +2768,7 @@
   <item>
     <id>6531336</id>
     <ecommerce_id>793373326</ecommerce_id>
-    <title>Badlands - Evolve Or Die (2025)</title>
+    <title>Evolve Or Die (2025)</title>
     <url>https://hopincraftbier.be/products/badlands-evolve-or-die-2025</url>
     <brewery_name>Badlands Brewing Company</brewery_name>
     <price>11.58</price>
@@ -2785,7 +2785,7 @@
   <item>
     <id>6172299</id>
     <ecommerce_id>793373327</ecommerce_id>
-    <title>Hoof Hearted - Slø Turbo (2025)</title>
+    <title>Slø Turbo (2025)</title>
     <url>https://hopincraftbier.be/products/hoof-hearted-slo-turbo-2025</url>
     <brewery_name>Hoof Hearted Brewing</brewery_name>
     <price>10.25</price>
@@ -2819,7 +2819,7 @@
   <item>
     <id>6503011</id>
     <ecommerce_id>793369355</ecommerce_id>
-    <title>Badlands - Bad Moon Rising (2025)</title>
+    <title>Bad Moon Rising (2025)</title>
     <url>https://hopincraftbier.be/products/badlands-bad-moon-rising-2025</url>
     <brewery_name>Badlands Brewing Company</brewery_name>
     <price>10.91</price>
@@ -2886,7 +2886,7 @@
   <item>
     <id>6384423</id>
     <ecommerce_id>792864070</ecommerce_id>
-    <title>Neon Raptor - Ninth Birthday Impy</title>
+    <title>Ninth Birthday Impy</title>
     <url>https://hopincraftbier.be/products/neon-raptor-ninth-birthday-impy</url>
     <brewery_name>Neon Raptor Brewing Co.</brewery_name>
     <price>8.02</price>
@@ -2903,7 +2903,7 @@
   <item>
     <id>6211524</id>
     <ecommerce_id>792863593</ecommerce_id>
-    <title>Neon Raptor - You For Coffee</title>
+    <title>You For Coffee</title>
     <url>https://hopincraftbier.be/products/neon-raptor-you-for-coffee</url>
     <brewery_name>Neon Raptor Brewing Co.</brewery_name>
     <price>5.91</price>
@@ -2954,7 +2954,7 @@
   <item>
     <id>6451748</id>
     <ecommerce_id>791004838</ecommerce_id>
-    <title>HORIZONT - Night Shift Vintage 2025 / Imperial Pastry Stout Aged In Rum Barrels With Coconut &amp; Chocolate</title>
+    <title>Night Shift Vintage 2025 / Imperial Pastry Stout Aged In Rum Barrels With Coconut &amp; Chocolate</title>
     <url>https://hopincraftbier.be/products/horizont-night-shift-vintage-2025-imperial-pastry-stout-aged-in-rum-barrels-with-coconut--chocolate</url>
     <brewery_name>HORIZONT Brewing</brewery_name>
     <price>9.99</price>
@@ -2971,7 +2971,7 @@
   <item>
     <id>6451744</id>
     <ecommerce_id>791004837</ecommerce_id>
-    <title>HORIZONT - Night Shift Vintage 2025 / RIS Aged In Rhum And Vanilla Macadamia Rum Barrels</title>
+    <title>Night Shift Vintage 2025 / RIS Aged In Rhum And Vanilla Macadamia Rum Barrels</title>
     <url>https://hopincraftbier.be/products/horizont-night-shift-vintage-2025-ris-aged-in-rhum-and-vanilla-macadamia-rum-barrels</url>
     <brewery_name>HORIZONT Brewing</brewery_name>
     <price>9.99</price>
@@ -2988,7 +2988,7 @@
   <item>
     <id>6451726</id>
     <ecommerce_id>790998117</ecommerce_id>
-    <title>HORIZONT - Night Shift Vintage 2025 / Double Chocolate Imperial Milk Porter Aged In Bourbon Barrels</title>
+    <title>Night Shift Vintage 2025 / Double Chocolate Imperial Milk Porter Aged In Bourbon Barrels</title>
     <url>https://hopincraftbier.be/products/horizont-night-shift-vintage-2025-double-chocolate-imperial-milk-porter-aged-in-bourbon-barrels</url>
     <brewery_name>HORIZONT Brewing</brewery_name>
     <price>9.99</price>
@@ -3005,7 +3005,7 @@
   <item>
     <id>6451740</id>
     <ecommerce_id>791004836</ecommerce_id>
-    <title>HORIZONT - Night Shift Vintage 2025 / RIS Aged In Bourbon Maple Syrup Barrels With Chocolate &amp; Coffee</title>
+    <title>Night Shift Vintage 2025 / RIS Aged In Bourbon Maple Syrup Barrels With Chocolate &amp; Coffee</title>
     <url>https://hopincraftbier.be/products/horizont-night-shift-vintage-2025-ris-aged-in-bourbon-maple-syrup-barrels-with-chocolate--coffee</url>
     <brewery_name>HORIZONT Brewing</brewery_name>
     <price>9.99</price>
@@ -3111,7 +3111,7 @@
   <item>
     <id>6448002</id>
     <ecommerce_id>787872583</ecommerce_id>
-    <title>Prizm - The Way Is Shut</title>
+    <title>The Way Is Shut</title>
     <url>https://hopincraftbier.be/products/prizm-the-way-is-shut</url>
     <brewery_name>Prizm Brewing Co.</brewery_name>
     <price>6.94</price>
@@ -3128,7 +3128,7 @@
   <item>
     <id>6447710</id>
     <ecommerce_id>787873338</ecommerce_id>
-    <title>Prizm - Built on Ashes</title>
+    <title>Built on Ashes</title>
     <url>https://hopincraftbier.be/products/prizm-built-on-ashes</url>
     <brewery_name>Prizm Brewing Co.</brewery_name>
     <price>6.97</price>
@@ -3145,7 +3145,7 @@
   <item>
     <id>6447706</id>
     <ecommerce_id>787872546</ecommerce_id>
-    <title>Prizm - Kiss The Ring</title>
+    <title>Kiss The Ring</title>
     <url>https://hopincraftbier.be/products/prizm-kiss-the-ring</url>
     <brewery_name>Prizm Brewing Co.</brewery_name>
     <price>6.97</price>
@@ -3162,7 +3162,7 @@
   <item>
     <id>6214738</id>
     <ecommerce_id>787878768</ecommerce_id>
-    <title>Prizm - Strange Casualties</title>
+    <title>Strange Casualties</title>
     <url>https://hopincraftbier.be/products/prizm-strange-casualties</url>
     <brewery_name>Prizm Brewing Co.</brewery_name>
     <price>6.94</price>
@@ -3179,7 +3179,7 @@
   <item>
     <id>6306816</id>
     <ecommerce_id>787869764</ecommerce_id>
-    <title>Prizm - Drums of Liberation</title>
+    <title>Drums of Liberation</title>
     <url>https://hopincraftbier.be/products/prizm-drums-of-liberation</url>
     <brewery_name>Prizm Brewing Co.</brewery_name>
     <price>6.53</price>
@@ -3196,7 +3196,7 @@
   <item>
     <id>6406186</id>
     <ecommerce_id>787881503</ecommerce_id>
-    <title>Prizm - Dawn</title>
+    <title>Dawn</title>
     <url>https://hopincraftbier.be/products/prizm-dawn</url>
     <brewery_name>Prizm Brewing Co.</brewery_name>
     <price>6.97</price>
@@ -3213,7 +3213,7 @@
   <item>
     <id>4478126</id>
     <ecommerce_id>787747547</ecommerce_id>
-    <title>Trillium - Fuzz Effect</title>
+    <title>Fuzz Effect</title>
     <url>https://hopincraftbier.be/products/trillium-fuzz-effect</url>
     <brewery_name>Trillium Brewing Company</brewery_name>
     <price>10.91</price>
@@ -3230,7 +3230,7 @@
   <item>
     <id>5314503</id>
     <ecommerce_id>787747056</ecommerce_id>
-    <title>WeldWerks - Extra Extra Broccoli</title>
+    <title>Extra Extra Broccoli</title>
     <url>https://hopincraftbier.be/products/weldwerks-extra-extra-broccoli</url>
     <brewery_name>WeldWerks Brewing Co.</brewery_name>
     <price>10.25</price>
@@ -3247,7 +3247,7 @@
   <item>
     <id>2921116</id>
     <ecommerce_id>787747055</ecommerce_id>
-    <title>Goose Island - Bourbon County Brand Coffee Barleywine (2018)</title>
+    <title>Bourbon County Brand Coffee Barleywine (2018)</title>
     <url>https://hopincraftbier.be/products/goose-island-bourbon-county-brand-coffee-barleywine-2018</url>
     <brewery_name>Goose Island Beer Co.</brewery_name>
     <price>16.63</price>
@@ -3264,7 +3264,7 @@
   <item>
     <id>6407737</id>
     <ecommerce_id>787747054</ecommerce_id>
-    <title>Revolution - Deth's Tar (2025)</title>
+    <title>Deth's Tar (2025)</title>
     <url>https://hopincraftbier.be/products/revolution-deths-tar-2025</url>
     <brewery_name>Revolution Brewing</brewery_name>
     <price>12.16</price>
@@ -3297,7 +3297,7 @@
   <item>
     <id>6435834</id>
     <ecommerce_id>787743587</ecommerce_id>
-    <title>Fremont - Barrel Aged Dark Star (2025)</title>
+    <title>Barrel Aged Dark Star (2025)</title>
     <url>https://hopincraftbier.be/products/fremont-barrel-aged-dark-star-2025</url>
     <brewery_name>Fremont Brewing</brewery_name>
     <price>39.64</price>
@@ -3313,7 +3313,7 @@
   <item>
     <id>6379068</id>
     <ecommerce_id>787747052</ecommerce_id>
-    <title>Fremont - 16th Anniversary – Barrel-Aged Barleywine Ale (2025)</title>
+    <title>16th Anniversary – Barrel-Aged Barleywine Ale (2025)</title>
     <url>https://hopincraftbier.be/products/fremont-16th-anniversary-barrel-aged-barleywine-ale-2025</url>
     <brewery_name>Fremont Brewing</brewery_name>
     <price>39.64</price>
@@ -3329,7 +3329,7 @@
   <item>
     <id>3242306</id>
     <ecommerce_id>787747051</ecommerce_id>
-    <title>Vitamin Sea - 33</title>
+    <title>33</title>
     <url>https://hopincraftbier.be/products/vitamin-sea-33</url>
     <brewery_name>Vitamin Sea Brewing</brewery_name>
     <price>10.99</price>
@@ -3346,7 +3346,7 @@
   <item>
     <id>2166301</id>
     <ecommerce_id>787747546</ecommerce_id>
-    <title>Bissell Brothers - Here's To Feeling Good All the Time</title>
+    <title>Here's To Feeling Good All the Time</title>
     <url>https://hopincraftbier.be/products/bissell-brothers-heres-to-feeling-good-all-the-time</url>
     <brewery_name>Bissell Brothers Brewing Company</brewery_name>
     <price>10.25</price>
@@ -3363,7 +3363,7 @@
   <item>
     <id>4214697</id>
     <ecommerce_id>787743586</ecommerce_id>
-    <title>Frequentem - Natural Flavors (Tangerine)</title>
+    <title>Natural Flavors (Tangerine)</title>
     <url>https://hopincraftbier.be/products/frequentem-natural-flavors-tangerine</url>
     <brewery_name>Frequentem Brewing Co.</brewery_name>
     <price>9.91</price>
@@ -3379,7 +3379,7 @@
   <item>
     <id>6393502</id>
     <ecommerce_id>787743585</ecommerce_id>
-    <title>Willibald Farm Distillery &amp; - Mania!</title>
+    <title>Mania!</title>
     <url>https://hopincraftbier.be/products/willibald-farm-distillery--mania</url>
     <brewery_name>Willibald Farm Distillery &amp; Brewery</brewery_name>
     <price>9.92</price>
@@ -3396,7 +3396,7 @@
   <item>
     <id>6421716</id>
     <ecommerce_id>787475908</ecommerce_id>
-    <title>Rivington - West To the Sand</title>
+    <title>West To the Sand</title>
     <url>https://hopincraftbier.be/products/rivington-west-to-the-sand</url>
     <brewery_name>Rivington Brewing Co</brewery_name>
     <price>6.95</price>
@@ -3415,7 +3415,7 @@
   <item>
     <id>6365889</id>
     <ecommerce_id>787475909</ecommerce_id>
-    <title>Rivington - Dead Alive</title>
+    <title>Dead Alive</title>
     <url>https://hopincraftbier.be/products/rivington-dead-alive</url>
     <brewery_name>Rivington Brewing Co</brewery_name>
     <price>7.21</price>
@@ -3485,7 +3485,7 @@
   <item>
     <id>6408280</id>
     <ecommerce_id>784590115</ecommerce_id>
-    <title>Nepo - Dolcita - Meet Our Friends from USA - Yakima Chief Hops</title>
+    <title>Dolcita - Meet Our Friends from USA - Yakima Chief Hops</title>
     <url>https://hopincraftbier.be/products/nepo-dolcita-meet-our-friends-from-usa-yakima-chief-hops</url>
     <brewery_name>Nepo Brewing</brewery_name>
     <price>6.14</price>
@@ -3502,7 +3502,7 @@
   <item>
     <id>6355397</id>
     <ecommerce_id>784590114</ecommerce_id>
-    <title>Nepo - Discover the Barycz Valley</title>
+    <title>Discover the Barycz Valley</title>
     <url>https://hopincraftbier.be/products/nepo-discover-the-barycz-valley</url>
     <brewery_name>Nepo Brewing</brewery_name>
     <price>5.69</price>
@@ -3519,7 +3519,7 @@
   <item>
     <id>6415833</id>
     <ecommerce_id>784594126</ecommerce_id>
-    <title>Nepo - D-Tonacja 9th Edition</title>
+    <title>D-Tonacja 9th Edition</title>
     <url>https://hopincraftbier.be/products/nepo-d-tonacja-9th-edition</url>
     <brewery_name>Nepo Brewing</brewery_name>
     <price>7.45</price>
@@ -3536,7 +3536,7 @@
   <item>
     <id>6371184</id>
     <ecommerce_id>784594124</ecommerce_id>
-    <title>Nepo - Crazy Lines Series: Avalanche</title>
+    <title>Crazy Lines Series: Avalanche</title>
     <url>https://hopincraftbier.be/products/nepo-crazy-lines-series-avalanche</url>
     <brewery_name>Nepo Brewing</brewery_name>
     <price>6.87</price>
@@ -3553,7 +3553,7 @@
   <item>
     <id>6395737</id>
     <ecommerce_id>784594123</ecommerce_id>
-    <title>Nepo - Crazy Lines Series: Polar Shift</title>
+    <title>Crazy Lines Series: Polar Shift</title>
     <url>https://hopincraftbier.be/products/nepo-crazy-lines-series-polar-shift</url>
     <brewery_name>Nepo Brewing</brewery_name>
     <price>5.73</price>
@@ -3570,7 +3570,7 @@
   <item>
     <id>6362970</id>
     <ecommerce_id>784590113</ecommerce_id>
-    <title>Nepo - Crazy Lines Series: Fun</title>
+    <title>Crazy Lines Series: Fun</title>
     <url>https://hopincraftbier.be/products/nepo-crazy-lines-series-fun</url>
     <brewery_name>Nepo Brewing</brewery_name>
     <price>5.77</price>
@@ -3587,7 +3587,7 @@
   <item>
     <id>6404035</id>
     <ecommerce_id>784590102</ecommerce_id>
-    <title>Basqueland - Genesis</title>
+    <title>Genesis</title>
     <url>https://hopincraftbier.be/products/basqueland-genesis</url>
     <brewery_name>Basqueland Brewing</brewery_name>
     <price>6.13</price>
@@ -3604,7 +3604,7 @@
   <item>
     <id>6402383</id>
     <ecommerce_id>784587841</ecommerce_id>
-    <title>Basqueland - TopTen</title>
+    <title>TopTen</title>
     <url>https://hopincraftbier.be/products/basqueland-topten</url>
     <brewery_name>Basqueland Brewing</brewery_name>
     <price>7.15</price>
@@ -3621,7 +3621,7 @@
   <item>
     <id>3483906</id>
     <ecommerce_id>784594095</ecommerce_id>
-    <title>Basqueland - Winner Winner Citra Dinner</title>
+    <title>Winner Winner Citra Dinner</title>
     <url>https://hopincraftbier.be/products/basqueland-winner-winner-citra-dinner</url>
     <brewery_name>Basqueland Brewing</brewery_name>
     <price>7.15</price>
@@ -3638,7 +3638,7 @@
   <item>
     <id>6423967</id>
     <ecommerce_id>784587840</ecommerce_id>
-    <title>Basqueland - Omnivore</title>
+    <title>Omnivore</title>
     <url>https://hopincraftbier.be/products/basqueland-omnivore</url>
     <brewery_name>Basqueland Brewing</brewery_name>
     <price>6.41</price>
@@ -3655,7 +3655,7 @@
   <item>
     <id>6415743</id>
     <ecommerce_id>784475150</ecommerce_id>
-    <title>Factory - Phases</title>
+    <title>Phases</title>
     <url>https://hopincraftbier.be/products/factory-phases</url>
     <brewery_name>Factory Brewing</brewery_name>
     <price>7.51</price>
@@ -3674,7 +3674,7 @@
   <item>
     <id>6415742</id>
     <ecommerce_id>784475149</ecommerce_id>
-    <title>Factory - Effortless Motion</title>
+    <title>Effortless Motion</title>
     <url>https://hopincraftbier.be/products/factory-effortless-motion</url>
     <brewery_name>Factory Brewing</brewery_name>
     <price>7.85</price>
@@ -3709,7 +3709,7 @@
   <item>
     <id>6415131</id>
     <ecommerce_id>784475108</ecommerce_id>
-    <title>Slake - Swim</title>
+    <title>Swim</title>
     <url>https://hopincraftbier.be/products/slake-swim</url>
     <brewery_name>Slake Brewing</brewery_name>
     <price>9.99</price>
@@ -3785,7 +3785,7 @@
   <item>
     <id>6406320</id>
     <ecommerce_id>781533751</ecommerce_id>
-    <title>Tripping Animals - Ever Juice</title>
+    <title>Ever Juice</title>
     <url>https://hopincraftbier.be/products/tripping-animals-ever-juice</url>
     <brewery_name>Tripping Animals Brewing Co.</brewery_name>
     <price>8.49</price>
@@ -3803,7 +3803,7 @@
   <item>
     <id>4178441</id>
     <ecommerce_id>781516951</ecommerce_id>
-    <title>District 96 - Queen Snake</title>
+    <title>Queen Snake</title>
     <url>https://hopincraftbier.be/products/district-96-queen-snake</url>
     <brewery_name>District 96 Beer Factory</brewery_name>
     <price>10.99</price>
@@ -3819,7 +3819,7 @@
   <item>
     <id>4229403</id>
     <ecommerce_id>781516950</ecommerce_id>
-    <title>District 96 - Snake Eyes</title>
+    <title>Snake Eyes</title>
     <url>https://hopincraftbier.be/products/district-96-snake-eyes</url>
     <brewery_name>District 96 Beer Factory</brewery_name>
     <price>10.32</price>
@@ -3835,7 +3835,7 @@
   <item>
     <id>6439269</id>
     <ecommerce_id>781411003</ecommerce_id>
-    <title>Goose Island - Bourbon County Brand Chocolate Praline Stout (2025)</title>
+    <title>Bourbon County Brand Chocolate Praline Stout (2025)</title>
     <url>https://hopincraftbier.be/products/goose-island-bourbon-county-brand-chocolate-praline-stout-2025</url>
     <brewery_name>Goose Island Beer Co.</brewery_name>
     <price>18.76</price>
@@ -3852,7 +3852,7 @@
   <item>
     <id>6455415</id>
     <ecommerce_id>781338741</ecommerce_id>
-    <title>Goose Island - Bourbon County Brand Stout (2025)</title>
+    <title>Bourbon County Brand Stout (2025)</title>
     <url>https://hopincraftbier.be/products/goose-island-bourbon-county-brand-stout-2025</url>
     <brewery_name>Goose Island Beer Co.</brewery_name>
     <price>11.2</price>
@@ -3869,7 +3869,7 @@
   <item>
     <id>6300505</id>
     <ecommerce_id>780633044</ecommerce_id>
-    <title>Azvex - Drake Passage</title>
+    <title>Drake Passage</title>
     <url>https://hopincraftbier.be/products/azvex-drake-passage</url>
     <brewery_name>Azvex Brewing Company</brewery_name>
     <price>6.93</price>
@@ -3887,7 +3887,7 @@
   <item>
     <id>6359265</id>
     <ecommerce_id>780631773</ecommerce_id>
-    <title>Azvex - Mariana's Web</title>
+    <title>Mariana's Web</title>
     <url>https://hopincraftbier.be/products/azvex-marianas-web</url>
     <brewery_name>Azvex Brewing Company</brewery_name>
     <price>6.87</price>
@@ -3904,7 +3904,7 @@
   <item>
     <id>5559381</id>
     <ecommerce_id>780359012</ecommerce_id>
-    <title>Firestone Walker - Rip This Joint (2023)</title>
+    <title>Rip This Joint (2023)</title>
     <url>https://hopincraftbier.be/products/firestone-walker-rip-this-joint-2023</url>
     <brewery_name>Firestone Walker Brewing Company</brewery_name>
     <price>13.98</price>
@@ -3920,7 +3920,7 @@
   <item>
     <id>6247096</id>
     <ecommerce_id>780359011</ecommerce_id>
-    <title>Firestone Walker - Midnight Merkin (2025)</title>
+    <title>Midnight Merkin (2025)</title>
     <url>https://hopincraftbier.be/products/firestone-walker-midnight-merkin-2025</url>
     <brewery_name>Firestone Walker Brewing Company</brewery_name>
     <price>13.98</price>
@@ -3936,7 +3936,7 @@
   <item>
     <id>6384350</id>
     <ecommerce_id>779025872</ecommerce_id>
-    <title>Norm - Coastbusters</title>
+    <title>Coastbusters</title>
     <url>https://hopincraftbier.be/products/norm-coastbusters</url>
     <brewery_name>Norm Brewing</brewery_name>
     <price>5.88</price>
@@ -3953,7 +3953,7 @@
   <item>
     <id>6384345</id>
     <ecommerce_id>779028141</ecommerce_id>
-    <title>Norm - Bouncy Ride</title>
+    <title>Bouncy Ride</title>
     <url>https://hopincraftbier.be/products/norm-bouncy-ride</url>
     <brewery_name>Norm Brewing</brewery_name>
     <price>6.09</price>
@@ -4073,7 +4073,7 @@
   <item>
     <id>4886997</id>
     <ecommerce_id>778812647</ecommerce_id>
-    <title>Mortalis - Clock Tower Swirls</title>
+    <title>Clock Tower Swirls</title>
     <url>https://hopincraftbier.be/products/mortalis-clock-tower-swirls</url>
     <brewery_name>Mortalis Brewing Company</brewery_name>
     <price>31.48</price>
@@ -4106,7 +4106,7 @@
   <item>
     <id>5697352</id>
     <ecommerce_id>778813132</ecommerce_id>
-    <title>Firestone Walker - ParabaNoche (2024)</title>
+    <title>ParabaNoche (2024)</title>
     <url>https://hopincraftbier.be/products/firestone-walker-parabanoche-2024</url>
     <brewery_name>Firestone Walker Brewing Company</brewery_name>
     <price>12.64</price>
@@ -4123,7 +4123,7 @@
   <item>
     <id>5689810</id>
     <ecommerce_id>778812646</ecommerce_id>
-    <title>DankHouse - Mashish W/Peanut Butter, Chocolate, And Marshmallow</title>
+    <title>Mashish W/Peanut Butter, Chocolate, And Marshmallow</title>
     <url>https://hopincraftbier.be/products/dankhouse-mashish-w-peanut-butter-chocolate-and-marshmallow</url>
     <brewery_name>DankHouse Brewing Company</brewery_name>
     <price>10.66</price>
@@ -4139,7 +4139,7 @@
   <item>
     <id>5697568</id>
     <ecommerce_id>778812645</ecommerce_id>
-    <title>Firestone Walker - Sleep Mode (2024)</title>
+    <title>Sleep Mode (2024)</title>
     <url>https://hopincraftbier.be/products/firestone-walker-sleep-mode-2024</url>
     <brewery_name>Firestone Walker Brewing Company</brewery_name>
     <price>13.97</price>
@@ -4155,7 +4155,7 @@
   <item>
     <id>6383222</id>
     <ecommerce_id>778813131</ecommerce_id>
-    <title>DankHouse - Triple Cheeseburger</title>
+    <title>Triple Cheeseburger</title>
     <url>https://hopincraftbier.be/products/dankhouse-triple-cheeseburger</url>
     <brewery_name>DankHouse Brewing Company</brewery_name>
     <price>9.06</price>
@@ -4172,7 +4172,7 @@
   <item>
     <id>5755528</id>
     <ecommerce_id>778813130</ecommerce_id>
-    <title>Spyglass - Distributed Ledger</title>
+    <title>Distributed Ledger</title>
     <url>https://hopincraftbier.be/products/spyglass-distributed-ledger</url>
     <brewery_name>Spyglass Brewing Company</brewery_name>
     <price>9.91</price>
@@ -4190,7 +4190,7 @@
   <item>
     <id>3717200</id>
     <ecommerce_id>778817618</ecommerce_id>
-    <title>Brasserie Sir John - Cantuccini</title>
+    <title>Cantuccini</title>
     <url>https://hopincraftbier.be/products/brasserie-sir-john-cantuccini</url>
     <brewery_name>Brasserie Sir John Brewing Co.</brewery_name>
     <price>10.32</price>
@@ -4207,7 +4207,7 @@
   <item>
     <id>6365435</id>
     <ecommerce_id>778817619</ecommerce_id>
-    <title>Tripping Animals - Sun JUJU</title>
+    <title>Sun JUJU</title>
     <url>https://hopincraftbier.be/products/tripping-animals-sun-juju</url>
     <brewery_name>Tripping Animals Brewing Co.</brewery_name>
     <price>9.32</price>
@@ -4224,7 +4224,7 @@
   <item>
     <id>6376660</id>
     <ecommerce_id>778812582</ecommerce_id>
-    <title>Finback - Living Large</title>
+    <title>Living Large</title>
     <url>https://hopincraftbier.be/products/finback-living-large</url>
     <brewery_name>Finback Brewery</brewery_name>
     <price>8.87</price>
@@ -4242,7 +4242,7 @@
   <item>
     <id>6377695</id>
     <ecommerce_id>778817582</ecommerce_id>
-    <title>HOMES - TERNION</title>
+    <title>TERNION</title>
     <url>https://hopincraftbier.be/products/homes-ternion</url>
     <brewery_name>HOMES Brewery</brewery_name>
     <price>10.02</price>
@@ -4276,7 +4276,7 @@
   <item>
     <id>6346854</id>
     <ecommerce_id>778763016</ecommerce_id>
-    <title>Fine Balance - Triple Nelson &amp; Cream</title>
+    <title>Triple Nelson &amp; Cream</title>
     <url>https://hopincraftbier.be/products/fine-balance-triple-nelson--cream</url>
     <brewery_name>Fine Balance Brewing</brewery_name>
     <price>9.25</price>
@@ -4294,7 +4294,7 @@
   <item>
     <id>6350229</id>
     <ecommerce_id>778763013</ecommerce_id>
-    <title>Fine Balance - Nelson &amp; Cream</title>
+    <title>Nelson &amp; Cream</title>
     <url>https://hopincraftbier.be/products/fine-balance-nelson--cream</url>
     <brewery_name>Fine Balance Brewing</brewery_name>
     <price>8.68</price>
@@ -4329,7 +4329,7 @@
   <item>
     <id>6350233</id>
     <ecommerce_id>778760017</ecommerce_id>
-    <title>Fine Balance - Double Nelson &amp; Cream</title>
+    <title>Double Nelson &amp; Cream</title>
     <url>https://hopincraftbier.be/products/fine-balance-double-nelson--cream</url>
     <brewery_name>Fine Balance Brewing</brewery_name>
     <price>8.97</price>
@@ -4365,7 +4365,7 @@
   <item>
     <id>6381462</id>
     <ecommerce_id>777450537</ecommerce_id>
-    <title>Factory - My Favorite Things</title>
+    <title>My Favorite Things</title>
     <url>https://hopincraftbier.be/products/factory-my-favorite-things</url>
     <brewery_name>Factory Brewing</brewery_name>
     <price>7.21</price>
@@ -4384,7 +4384,7 @@
   <item>
     <id>6366648</id>
     <ecommerce_id>777450053</ecommerce_id>
-    <title>Factory - Daydreamer 2025</title>
+    <title>Daydreamer 2025</title>
     <url>https://hopincraftbier.be/products/factory-daydreamer-2025</url>
     <brewery_name>Factory Brewing</brewery_name>
     <price>7.51</price>
@@ -4403,7 +4403,7 @@
   <item>
     <id>6055618</id>
     <ecommerce_id>777432751</ecommerce_id>
-    <title>Other Half - BA Daybreak Speedway</title>
+    <title>BA Daybreak Speedway</title>
     <url>https://hopincraftbier.be/products/other-half-ba-daybreak-speedway</url>
     <brewery_name>Other Half Brewing Co.</brewery_name>
     <price>26.48</price>
@@ -4421,7 +4421,7 @@
   <item>
     <id>4185018</id>
     <ecommerce_id>774330341</ecommerce_id>
-    <title>Equilibrium - Players 1 - Batch 2</title>
+    <title>Players 1 - Batch 2</title>
     <url>https://hopincraftbier.be/products/equilibrium-players-1-batch-2</url>
     <brewery_name>Equilibrium Brewery</brewery_name>
     <price>23.17</price>
@@ -4437,7 +4437,7 @@
   <item>
     <id>4166507</id>
     <ecommerce_id>772591896</ecommerce_id>
-    <title>Finback - Frothy</title>
+    <title>Frothy</title>
     <url>https://hopincraftbier.be/products/finback-frothy</url>
     <brewery_name>Finback Brewery</brewery_name>
     <price>8.58</price>
@@ -4472,7 +4472,7 @@
   <item>
     <id>6339811</id>
     <ecommerce_id>770507753</ecommerce_id>
-    <title>Garage - Georgia Gold</title>
+    <title>Georgia Gold</title>
     <url>https://hopincraftbier.be/products/garage-georgia-gold</url>
     <brewery_name>Garage Beer Co.</brewery_name>
     <price>6.28</price>
@@ -4490,7 +4490,7 @@
   <item>
     <id>6340747</id>
     <ecommerce_id>770501258</ecommerce_id>
-    <title>Garage - NEEDLES</title>
+    <title>NEEDLES</title>
     <url>https://hopincraftbier.be/products/garage-needles</url>
     <brewery_name>Garage Beer Co.</brewery_name>
     <price>6.04</price>
@@ -4508,7 +4508,7 @@
   <item>
     <id>6337778</id>
     <ecommerce_id>770501259</ecommerce_id>
-    <title>Garage - CROWNS</title>
+    <title>CROWNS</title>
     <url>https://hopincraftbier.be/products/garage-crowns</url>
     <brewery_name>Garage Beer Co.</brewery_name>
     <price>6.72</price>
@@ -4525,7 +4525,7 @@
   <item>
     <id>4977403</id>
     <ecommerce_id>769161768</ecommerce_id>
-    <title>Firestone Walker - Heavy Things (2022)</title>
+    <title>Heavy Things (2022)</title>
     <url>https://hopincraftbier.be/products/firestone-walker-heavy-things-2022</url>
     <brewery_name>Firestone Walker Brewing Company</brewery_name>
     <price>14.64</price>
@@ -4541,7 +4541,7 @@
   <item>
     <id>4969423</id>
     <ecommerce_id>769146258</ecommerce_id>
-    <title>Firestone Walker - Rye Double DBA (2022)</title>
+    <title>Rye Double DBA (2022)</title>
     <url>https://hopincraftbier.be/products/firestone-walker-rye-double-dba-2022</url>
     <brewery_name>Firestone Walker Brewing Company</brewery_name>
     <price>21.95</price>
@@ -4557,7 +4557,7 @@
   <item>
     <id>6332895</id>
     <ecommerce_id>768807105</ecommerce_id>
-    <title>Verdant - The Don</title>
+    <title>The Don</title>
     <url>https://hopincraftbier.be/products/verdant-the-don</url>
     <brewery_name>Verdant Brewing Co</brewery_name>
     <price>8.02</price>
@@ -4575,7 +4575,7 @@
   <item>
     <id>6271344</id>
     <ecommerce_id>768809793</ecommerce_id>
-    <title>Verdant - Flux: Phase 3</title>
+    <title>Flux: Phase 3</title>
     <url>https://hopincraftbier.be/products/verdant-flux-phase-3</url>
     <brewery_name>Verdant Brewing Co</brewery_name>
     <price>7.08</price>
@@ -4629,7 +4629,7 @@
   <item>
     <id>6316537</id>
     <ecommerce_id>767352721</ecommerce_id>
-    <title>DankHouse - Chasing Trees: Strain 24</title>
+    <title>Chasing Trees: Strain 24</title>
     <url>https://hopincraftbier.be/products/dankhouse-chasing-trees-strain-24</url>
     <brewery_name>DankHouse Brewing Company</brewery_name>
     <price>8.79</price>
@@ -4647,7 +4647,7 @@
   <item>
     <id>4092023</id>
     <ecommerce_id>767352720</ecommerce_id>
-    <title>Finback - High-Low</title>
+    <title>High-Low</title>
     <url>https://hopincraftbier.be/products/finback-high-low</url>
     <brewery_name>Finback Brewery</brewery_name>
     <price>8.97</price>
@@ -4665,7 +4665,7 @@
   <item>
     <id>6316546</id>
     <ecommerce_id>767361433</ecommerce_id>
-    <title>DankHouse - Mutant Turtle Pizza</title>
+    <title>Mutant Turtle Pizza</title>
     <url>https://hopincraftbier.be/products/dankhouse-mutant-turtle-pizza</url>
     <brewery_name>DankHouse Brewing Company</brewery_name>
     <price>9.26</price>
@@ -4701,7 +4701,7 @@
   <item>
     <id>6331773</id>
     <ecommerce_id>767352716</ecommerce_id>
-    <title>Commonwealth - Dirty Monkey</title>
+    <title>Dirty Monkey</title>
     <url>https://hopincraftbier.be/products/commonwealth-dirty-monkey</url>
     <brewery_name>Commonwealth Brewing Company</brewery_name>
     <price>10.33</price>
@@ -4717,7 +4717,7 @@
   <item>
     <id>5689711</id>
     <ecommerce_id>767352718</ecommerce_id>
-    <title>DankHouse - Digi Digi Digi</title>
+    <title>Digi Digi Digi</title>
     <url>https://hopincraftbier.be/products/dankhouse-digi-digi-digi</url>
     <brewery_name>DankHouse Brewing Company</brewery_name>
     <price>9.55</price>
@@ -4803,7 +4803,7 @@
   <item>
     <id>4027002</id>
     <ecommerce_id>767352654</ecommerce_id>
-    <title>Finback - Cats Are People Too</title>
+    <title>Cats Are People Too</title>
     <url>https://hopincraftbier.be/products/finback-cats-are-people-too</url>
     <brewery_name>Finback Brewery</brewery_name>
     <price>9.09</price>
@@ -4820,7 +4820,7 @@
   <item>
     <id>6318598</id>
     <ecommerce_id>767347693</ecommerce_id>
-    <title>Finback - Maniac Brainiac</title>
+    <title>Maniac Brainiac</title>
     <url>https://hopincraftbier.be/products/finback-maniac-brainiac</url>
     <brewery_name>Finback Brewery</brewery_name>
     <price>8.32</price>
@@ -4837,7 +4837,7 @@
   <item>
     <id>6306505</id>
     <ecommerce_id>767347694</ecommerce_id>
-    <title>Brasserie Sir John - Serpentin</title>
+    <title>Serpentin</title>
     <url>https://hopincraftbier.be/products/brasserie-sir-john-serpentin</url>
     <brewery_name>Brasserie Sir John Brewing Co.</brewery_name>
     <price>8.91</price>
@@ -4855,7 +4855,7 @@
   <item>
     <id>6299087</id>
     <ecommerce_id>767361371</ecommerce_id>
-    <title>Brasserie Sir John - Balle Perdue</title>
+    <title>Balle Perdue</title>
     <url>https://hopincraftbier.be/products/brasserie-sir-john-balle-perdue</url>
     <brewery_name>Brasserie Sir John Brewing Co.</brewery_name>
     <price>28.95</price>
@@ -4871,7 +4871,7 @@
   <item>
     <id>6296412</id>
     <ecommerce_id>767289656</ecommerce_id>
-    <title>Outer Range - Crux</title>
+    <title>Crux</title>
     <url>https://hopincraftbier.be/products/outer-range-crux</url>
     <brewery_name>Outer Range Brewing Co.</brewery_name>
     <price>6.87</price>
@@ -4888,7 +4888,7 @@
   <item>
     <id>4696593</id>
     <ecommerce_id>767292177</ecommerce_id>
-    <title>Outer Range - Super Ultra Mega Classic</title>
+    <title>Super Ultra Mega Classic</title>
     <url>https://hopincraftbier.be/products/outer-range-super-ultra-mega-classic</url>
     <brewery_name>Outer Range Brewing Co.</brewery_name>
     <price>5.99</price>
@@ -4906,7 +4906,7 @@
   <item>
     <id>4953869</id>
     <ecommerce_id>767289655</ecommerce_id>
-    <title>Outer Range - Buck Yeah</title>
+    <title>Buck Yeah</title>
     <url>https://hopincraftbier.be/products/outer-range-buck-yeah</url>
     <brewery_name>Outer Range Brewing Co.</brewery_name>
     <price>6.9</price>
@@ -4923,7 +4923,7 @@
   <item>
     <id>3338694</id>
     <ecommerce_id>767292176</ecommerce_id>
-    <title>Outer Range - Belay</title>
+    <title>Belay</title>
     <url>https://hopincraftbier.be/products/outer-range-belay</url>
     <brewery_name>Outer Range Brewing Co.</brewery_name>
     <price>7.48</price>
@@ -4940,7 +4940,7 @@
   <item>
     <id>6282604</id>
     <ecommerce_id>767291144</ecommerce_id>
-    <title>Outer Range - In the Steep HyperBoost</title>
+    <title>In the Steep HyperBoost</title>
     <url>https://hopincraftbier.be/products/outer-range-in-the-steep-hyperboost</url>
     <brewery_name>Outer Range Brewing Co.</brewery_name>
     <price>7.45</price>
@@ -4957,7 +4957,7 @@
   <item>
     <id>4367493</id>
     <ecommerce_id>767291143</ecommerce_id>
-    <title>Outer Range - Out of the Woods</title>
+    <title>Out of the Woods</title>
     <url>https://hopincraftbier.be/products/outer-range-out-of-the-woods</url>
     <brewery_name>Outer Range Brewing Co.</brewery_name>
     <price>7.34</price>
@@ -4974,7 +4974,7 @@
   <item>
     <id>6341269</id>
     <ecommerce_id>767062474</ecommerce_id>
-    <title>Revenant - Linger</title>
+    <title>Linger</title>
     <url>https://hopincraftbier.be/products/revenant-linger</url>
     <brewery_name>Revenant Brewing Project</brewery_name>
     <price>5.09</price>
@@ -4992,7 +4992,7 @@
   <item>
     <id>6341263</id>
     <ecommerce_id>767041052</ecommerce_id>
-    <title>Revenant - Weightless</title>
+    <title>Weightless</title>
     <url>https://hopincraftbier.be/products/revenant-weightless</url>
     <brewery_name>Revenant Brewing Project</brewery_name>
     <price>5.02</price>
@@ -5010,7 +5010,7 @@
   <item>
     <id>6293352</id>
     <ecommerce_id>765275160</ecommerce_id>
-    <title>Noctem Artisanss - Hops Fwd</title>
+    <title>Hops Fwd</title>
     <url>https://hopincraftbier.be/products/noctem-artisanss-hops-fwd</url>
     <brewery_name>Noctem Artisans Brasseurs</brewery_name>
     <price>8.16</price>
@@ -5028,7 +5028,7 @@
   <item>
     <id>6248577</id>
     <ecommerce_id>765275159</ecommerce_id>
-    <title>District 96 - Big Pharma</title>
+    <title>Big Pharma</title>
     <url>https://hopincraftbier.be/products/district-96-big-pharma</url>
     <brewery_name>District 96 Beer Factory</brewery_name>
     <price>9.83</price>
@@ -5045,7 +5045,7 @@
   <item>
     <id>2906239</id>
     <ecommerce_id>765275158</ecommerce_id>
-    <title>District 96 - Trade War</title>
+    <title>Trade War</title>
     <url>https://hopincraftbier.be/products/district-96-trade-war</url>
     <brewery_name>District 96 Beer Factory</brewery_name>
     <price>8.39</price>
@@ -5098,7 +5098,7 @@
   <item>
     <id>6307418</id>
     <ecommerce_id>762752710</ecommerce_id>
-    <title>Galea - A Deathless Song</title>
+    <title>A Deathless Song</title>
     <url>https://hopincraftbier.be/products/galea-a-deathless-song</url>
     <brewery_name>Galea Craft Beers</brewery_name>
     <price>8.65</price>
@@ -5115,7 +5115,7 @@
   <item>
     <id>6164819</id>
     <ecommerce_id>762752711</ecommerce_id>
-    <title>Galea - The Mind of Annapurna Bourbon Barrel Aged</title>
+    <title>The Mind of Annapurna Bourbon Barrel Aged</title>
     <url>https://hopincraftbier.be/products/galea-the-mind-of-annapurna-bourbon-barrel-aged</url>
     <brewery_name>Galea Craft Beers</brewery_name>
     <price>7.35</price>
@@ -5133,7 +5133,7 @@
   <item>
     <id>5894573</id>
     <ecommerce_id>761859075</ecommerce_id>
-    <title>Stigbergets - MEGA MUFFIN</title>
+    <title>MEGA MUFFIN</title>
     <url>https://hopincraftbier.be/products/stigbergets-mega-muffin</url>
     <brewery_name>Stigbergets Bryggeri</brewery_name>
     <price>7.04</price>
@@ -5150,7 +5150,7 @@
   <item>
     <id>6016175</id>
     <ecommerce_id>761858328</ecommerce_id>
-    <title>Stigbergets - EL CAPITANO</title>
+    <title>EL CAPITANO</title>
     <url>https://hopincraftbier.be/products/stigbergets-el-capitano</url>
     <brewery_name>Stigbergets Bryggeri</brewery_name>
     <price>7.18</price>
@@ -5167,7 +5167,7 @@
   <item>
     <id>6187809</id>
     <ecommerce_id>761858327</ecommerce_id>
-    <title>Stigbergets - TOP PICK</title>
+    <title>TOP PICK</title>
     <url>https://hopincraftbier.be/products/stigbergets-top-pick</url>
     <brewery_name>Stigbergets Bryggeri</brewery_name>
     <price>11.01</price>
@@ -5220,7 +5220,7 @@
   <item>
     <id>3482012</id>
     <ecommerce_id>757089763</ecommerce_id>
-    <title>Hoof Hearted - Everybody Wants Some!! 3X (Citra)</title>
+    <title>Everybody Wants Some!! 3X (Citra)</title>
     <url>https://hopincraftbier.be/products/hoof-hearted-everybody-wants-some-3x-citra</url>
     <brewery_name>Hoof Hearted Brewing</brewery_name>
     <price>8.27</price>
@@ -5256,7 +5256,7 @@
   <item>
     <id>6256812</id>
     <ecommerce_id>756989449</ecommerce_id>
-    <title>Noctem Artisanss - Oban</title>
+    <title>Oban</title>
     <url>https://hopincraftbier.be/products/noctem-artisanss-oban</url>
     <brewery_name>Noctem Artisans Brasseurs</brewery_name>
     <price>8.16</price>
@@ -5308,7 +5308,7 @@
   <item>
     <id>6250418</id>
     <ecommerce_id>756989446</ecommerce_id>
-    <title>Energy City - Bistro Peach Strawberry Rhubarb Cobbler</title>
+    <title>Bistro Peach Strawberry Rhubarb Cobbler</title>
     <url>https://hopincraftbier.be/products/energy-city-bistro-peach-strawberry-rhubarb-cobbler</url>
     <brewery_name>Energy City Brewing</brewery_name>
     <price>11.22</price>
@@ -5325,7 +5325,7 @@
   <item>
     <id>6240932</id>
     <ecommerce_id>756989443</ecommerce_id>
-    <title>Barreled Souls - 12yr Wild Turkey BA Dark Matter (2025)</title>
+    <title>12yr Wild Turkey BA Dark Matter (2025)</title>
     <url>https://hopincraftbier.be/products/barreled-souls-12yr-wild-turkey-ba-dark-matter-2025</url>
     <brewery_name>Barreled Souls Brewing Company</brewery_name>
     <price>32.96</price>
@@ -5360,7 +5360,7 @@
   <item>
     <id>2776624</id>
     <ecommerce_id>756989442</ecommerce_id>
-    <title>District 96 - Nuclear Option</title>
+    <title>Nuclear Option</title>
     <url>https://hopincraftbier.be/products/district-96-nuclear-option</url>
     <brewery_name>District 96 Beer Factory</brewery_name>
     <price>9.18</price>
@@ -5395,7 +5395,7 @@
   <item>
     <id>6263452</id>
     <ecommerce_id>756995311</ecommerce_id>
-    <title>All My Friends - Feral</title>
+    <title>Feral</title>
     <url>https://hopincraftbier.be/products/all-my-friends-feral</url>
     <brewery_name>All My Friends Beer Co.</brewery_name>
     <price>7.5</price>
@@ -5446,7 +5446,7 @@
   <item>
     <id>2986552</id>
     <ecommerce_id>756995310</ecommerce_id>
-    <title>District 96 - Mother of All Photo Bombs</title>
+    <title>Mother of All Photo Bombs</title>
     <url>https://hopincraftbier.be/products/district-96-mother-of-all-photo-bombs</url>
     <brewery_name>District 96 Beer Factory</brewery_name>
     <price>8.17</price>
@@ -5463,7 +5463,7 @@
   <item>
     <id>6277002</id>
     <ecommerce_id>756995309</ecommerce_id>
-    <title>Imprint - BA Sticky Situation</title>
+    <title>BA Sticky Situation</title>
     <url>https://hopincraftbier.be/products/imprint-ba-sticky-situation</url>
     <brewery_name>Imprint Beer Co.</brewery_name>
     <price>33.3</price>
@@ -5495,7 +5495,7 @@
   <item>
     <id>6253097</id>
     <ecommerce_id>756989898</ecommerce_id>
-    <title>Energy City - Bistro Cabana Watermelon &amp; Pomegranate</title>
+    <title>Bistro Cabana Watermelon &amp; Pomegranate</title>
     <url>https://hopincraftbier.be/products/energy-city-bistro-cabana-watermelon--pomegranate</url>
     <brewery_name>Energy City Brewing</brewery_name>
     <price>11.22</price>
@@ -5512,7 +5512,7 @@
   <item>
     <id>1298579</id>
     <ecommerce_id>756995308</ecommerce_id>
-    <title>Great Notion - Double Stack</title>
+    <title>Double Stack</title>
     <url>https://hopincraftbier.be/products/great-notion-double-stack</url>
     <brewery_name>Great Notion Brewing</brewery_name>
     <price>13.26</price>
@@ -5528,7 +5528,7 @@
   <item>
     <id>6263449</id>
     <ecommerce_id>756995306</ecommerce_id>
-    <title>All My Friends - Sancticide</title>
+    <title>Sancticide</title>
     <url>https://hopincraftbier.be/products/all-my-friends-sancticide</url>
     <brewery_name>All My Friends Beer Co.</brewery_name>
     <price>8.42</price>
@@ -5563,7 +5563,7 @@
   <item>
     <id>6261817</id>
     <ecommerce_id>756873722</ecommerce_id>
-    <title>Anchorage - Headless</title>
+    <title>Headless</title>
     <url>https://hopincraftbier.be/products/anchorage-headless</url>
     <brewery_name>Anchorage Brewing Company</brewery_name>
     <price>9.74</price>
@@ -5581,7 +5581,7 @@
   <item>
     <id>6274029</id>
     <ecommerce_id>755489654</ecommerce_id>
-    <title>Moersleutel - 9 Years: Siren Encounter</title>
+    <title>9 Years: Siren Encounter</title>
     <url>https://hopincraftbier.be/products/moersleutel-9-years-siren-encounter</url>
     <brewery_name>Moersleutel Craft Brewery</brewery_name>
     <price>5.26</price>
@@ -5599,7 +5599,7 @@
   <item>
     <id>6189005</id>
     <ecommerce_id>752744063</ecommerce_id>
-    <title>Blackout - Vilify</title>
+    <title>Vilify</title>
     <url>https://hopincraftbier.be/products/blackout-vilify</url>
     <brewery_name>Blackout Brewing</brewery_name>
     <price>10.17</price>
@@ -5616,7 +5616,7 @@
   <item>
     <id>6263801</id>
     <ecommerce_id>752451307</ecommerce_id>
-    <title>Blackout - Memnu - Barton 1792 BA</title>
+    <title>Memnu - Barton 1792 BA</title>
     <url>https://hopincraftbier.be/products/blackout-memnu-barton-1792-ba</url>
     <brewery_name>Blackout Brewing</brewery_name>
     <price>9.99</price>
@@ -5649,7 +5649,7 @@
   <item>
     <id>4486704</id>
     <ecommerce_id>751537022</ecommerce_id>
-    <title>The Drowned Lands - Tillage</title>
+    <title>Tillage</title>
     <url>https://hopincraftbier.be/products/the-drowned-lands-tillage</url>
     <brewery_name>The Drowned Lands Brewery</brewery_name>
     <price>6.92</price>
@@ -5666,7 +5666,7 @@
   <item>
     <id>1954247</id>
     <ecommerce_id>751542771</ecommerce_id>
-    <title>Vitamin Sea - Due North</title>
+    <title>Due North</title>
     <url>https://hopincraftbier.be/products/vitamin-sea-due-north</url>
     <brewery_name>Vitamin Sea Brewing</brewery_name>
     <price>7.7</price>
@@ -5684,7 +5684,7 @@
   <item>
     <id>6242680</id>
     <ecommerce_id>751542515</ecommerce_id>
-    <title>Tin Barn - Be Kind, Rewind</title>
+    <title>Be Kind, Rewind</title>
     <url>https://hopincraftbier.be/products/tin-barn-be-kind-rewind</url>
     <brewery_name>Tin Barn Brewing</brewery_name>
     <price>8.98</price>
@@ -5701,7 +5701,7 @@
   <item>
     <id>3832900</id>
     <ecommerce_id>751542513</ecommerce_id>
-    <title>Spyglass - Aspect Oriented</title>
+    <title>Aspect Oriented</title>
     <url>https://hopincraftbier.be/products/spyglass-aspect-oriented</url>
     <brewery_name>Spyglass Brewing Company</brewery_name>
     <price>8.72</price>
@@ -5735,7 +5735,7 @@
   <item>
     <id>2977936</id>
     <ecommerce_id>751537020</ecommerce_id>
-    <title>Vitamin Sea - Just Another T-Shirt Shop</title>
+    <title>Just Another T-Shirt Shop</title>
     <url>https://hopincraftbier.be/products/vitamin-sea-just-another-t-shirt-shop</url>
     <brewery_name>Vitamin Sea Brewing</brewery_name>
     <price>7.7</price>
@@ -5753,7 +5753,7 @@
   <item>
     <id>4400900</id>
     <ecommerce_id>751529018</ecommerce_id>
-    <title>The Drowned Lands - Terra Mosaic</title>
+    <title>Terra Mosaic</title>
     <url>https://hopincraftbier.be/products/the-drowned-lands-terra-mosaic</url>
     <brewery_name>The Drowned Lands Brewery</brewery_name>
     <price>7.44</price>
@@ -5770,7 +5770,7 @@
   <item>
     <id>3708746</id>
     <ecommerce_id>751543260</ecommerce_id>
-    <title>Vitamin Sea - Double Spring</title>
+    <title>Double Spring</title>
     <url>https://hopincraftbier.be/products/vitamin-sea-double-spring</url>
     <brewery_name>Vitamin Sea Brewing</brewery_name>
     <price>7.95</price>
@@ -5788,7 +5788,7 @@
   <item>
     <id>6242674</id>
     <ecommerce_id>751542512</ecommerce_id>
-    <title>Tin Barn - Baby G.O.A.T.</title>
+    <title>Baby G.O.A.T.</title>
     <url>https://hopincraftbier.be/products/tin-barn-baby-g-o-a-t</url>
     <brewery_name>Tin Barn Brewing</brewery_name>
     <price>8.46</price>
@@ -5821,7 +5821,7 @@
   <item>
     <id>6257025</id>
     <ecommerce_id>751529280</ecommerce_id>
-    <title>Tin Barn - Mosaic Monster</title>
+    <title>Mosaic Monster</title>
     <url>https://hopincraftbier.be/products/tin-barn-mosaic-monster</url>
     <brewery_name>Tin Barn Brewing</brewery_name>
     <price>8.72</price>
@@ -5855,7 +5855,7 @@
   <item>
     <id>6221131</id>
     <ecommerce_id>751542770</ecommerce_id>
-    <title>Spyglass - Kung Fu Time Bomb</title>
+    <title>Kung Fu Time Bomb</title>
     <url>https://hopincraftbier.be/products/spyglass-kung-fu-time-bomb</url>
     <brewery_name>Spyglass Brewing Company</brewery_name>
     <price>8.72</price>
@@ -5907,7 +5907,7 @@
   <item>
     <id>6204619</id>
     <ecommerce_id>751543259</ecommerce_id>
-    <title>Willibald Farm - Prickle Kitty</title>
+    <title>Prickle Kitty</title>
     <url>https://hopincraftbier.be/products/willibald-farm-prickle-kitty</url>
     <brewery_name>Willibald Farm Brewery</brewery_name>
     <price>7.95</price>
@@ -5977,7 +5977,7 @@
   <item>
     <id>3523256</id>
     <ecommerce_id>751529274</ecommerce_id>
-    <title>Mortalis - Hydra | Apricot + Mango + Raspberry</title>
+    <title>Hydra | Apricot + Mango + Raspberry</title>
     <url>https://hopincraftbier.be/products/mortalis-hydra-apricot-mango-raspberry</url>
     <brewery_name>Mortalis Brewing Company</brewery_name>
     <price>13.33</price>
@@ -5993,7 +5993,7 @@
   <item>
     <id>4990447</id>
     <ecommerce_id>751542509</ecommerce_id>
-    <title>Jackie O’s - Abandon The Halogens (2022)</title>
+    <title>Abandon The Halogens (2022)</title>
     <url>https://hopincraftbier.be/products/jackie-os-abandon-the-halogens-2022</url>
     <brewery_name>Jackie O’s Brewery</brewery_name>
     <price>25.23</price>
@@ -6009,7 +6009,7 @@
   <item>
     <id>6215483</id>
     <ecommerce_id>751529273</ecommerce_id>
-    <title>Badlands - Dora #79</title>
+    <title>Dora #79</title>
     <url>https://hopincraftbier.be/products/badlands-dora-79</url>
     <brewery_name>Badlands Brewing Company</brewery_name>
     <price>8.31</price>
@@ -6045,7 +6045,7 @@
   <item>
     <id>6248503</id>
     <ecommerce_id>751542507</ecommerce_id>
-    <title>Equilibrium - The Juice Awakens</title>
+    <title>The Juice Awakens</title>
     <url>https://hopincraftbier.be/products/equilibrium-the-juice-awakens</url>
     <brewery_name>Equilibrium Brewery</brewery_name>
     <price>7.44</price>
@@ -6081,7 +6081,7 @@
   <item>
     <id>6214473</id>
     <ecommerce_id>751529271</ecommerce_id>
-    <title>Counterpart - Double Drip (Motueka, Rakau, Peacharine, Southern Cross Hop Kief)</title>
+    <title>Double Drip (Motueka, Rakau, Peacharine, Southern Cross Hop Kief)</title>
     <url>https://hopincraftbier.be/products/counterpart-double-drip-motueka-rakau-peacharine-southern-cross-hop-kief</url>
     <brewery_name>Counterpart Brewing</brewery_name>
     <price>8.46</price>
@@ -6099,7 +6099,7 @@
   <item>
     <id>6194337</id>
     <ecommerce_id>751542767</ecommerce_id>
-    <title>Jackie O’s - Bourbon Barrel Black Maple (2025)</title>
+    <title>Bourbon Barrel Black Maple (2025)</title>
     <url>https://hopincraftbier.be/products/jackie-os-bourbon-barrel-black-maple-2025</url>
     <brewery_name>Jackie O’s Brewery</brewery_name>
     <price>15.28</price>
@@ -6117,7 +6117,7 @@
   <item>
     <id>6222118</id>
     <ecommerce_id>751542766</ecommerce_id>
-    <title>Drekker - Braaaaaaaains - Billions of Peaches</title>
+    <title>Braaaaaaaains - Billions of Peaches</title>
     <url>https://hopincraftbier.be/products/drekker-braaaaaaaains-billions-of-peaches</url>
     <brewery_name>Drekker Brewing Company</brewery_name>
     <price>11.96</price>
@@ -6151,7 +6151,7 @@
   <item>
     <id>6194343</id>
     <ecommerce_id>751543257</ecommerce_id>
-    <title>Jackie O’s - Vanilla Coffee Bourbon Barrel Dark Apparition (2025)</title>
+    <title>Vanilla Coffee Bourbon Barrel Dark Apparition (2025)</title>
     <url>https://hopincraftbier.be/products/jackie-os-vanilla-coffee-bourbon-barrel-dark-apparition-2025</url>
     <brewery_name>Jackie O’s Brewery</brewery_name>
     <price>15.57</price>
@@ -6169,7 +6169,7 @@
   <item>
     <id>5342038</id>
     <ecommerce_id>751543256</ecommerce_id>
-    <title>Equilibrium - Churro Puffs</title>
+    <title>Churro Puffs</title>
     <url>https://hopincraftbier.be/products/equilibrium-churro-puffs</url>
     <brewery_name>Equilibrium Brewery</brewery_name>
     <price>24.59</price>
@@ -6219,7 +6219,7 @@
   <item>
     <id>6259353</id>
     <ecommerce_id>751537017</ecommerce_id>
-    <title>Counterpart - Shoot To Thrill</title>
+    <title>Shoot To Thrill</title>
     <url>https://hopincraftbier.be/products/counterpart-shoot-to-thrill</url>
     <brewery_name>Counterpart Brewing</brewery_name>
     <price>9.23</price>
@@ -6237,7 +6237,7 @@
   <item>
     <id>2879668</id>
     <ecommerce_id>751542506</ecommerce_id>
-    <title>Equilibrium - Straight Outta The Laboratory</title>
+    <title>Straight Outta The Laboratory</title>
     <url>https://hopincraftbier.be/products/equilibrium-straight-outta-the-laboratory</url>
     <brewery_name>Equilibrium Brewery</brewery_name>
     <price>8.72</price>
@@ -6254,7 +6254,7 @@
   <item>
     <id>6246517</id>
     <ecommerce_id>751537016</ecommerce_id>
-    <title>Equilibrium - MC3PO</title>
+    <title>MC3PO</title>
     <url>https://hopincraftbier.be/products/equilibrium-mc3po</url>
     <brewery_name>Equilibrium Brewery</brewery_name>
     <price>6.52</price>
@@ -6272,7 +6272,7 @@
   <item>
     <id>3484014</id>
     <ecommerce_id>751529011</ecommerce_id>
-    <title>Humble Forager - Gypsy Outpost - Coconut, Vanilla Beans, Cocoa Nibs and Cinnamon</title>
+    <title>Gypsy Outpost - Coconut, Vanilla Beans, Cocoa Nibs and Cinnamon</title>
     <url>https://hopincraftbier.be/products/humble-forager-gypsy-outpost-coconut-vanilla-beans-cocoa-nibs-and-cinnamon</url>
     <brewery_name>Humble Forager Brewery</brewery_name>
     <price>10.13</price>
@@ -6306,7 +6306,7 @@
   <item>
     <id>6047751</id>
     <ecommerce_id>751529009</ecommerce_id>
-    <title>Mortalis - Strange Philosophies 112</title>
+    <title>Strange Philosophies 112</title>
     <url>https://hopincraftbier.be/products/mortalis-strange-philosophies-112</url>
     <brewery_name>Mortalis Brewing Company</brewery_name>
     <price>9.23</price>
@@ -6323,7 +6323,7 @@
   <item>
     <id>6231627</id>
     <ecommerce_id>751542762</ecommerce_id>
-    <title>Counterpart - The World Is Mine</title>
+    <title>The World Is Mine</title>
     <url>https://hopincraftbier.be/products/counterpart-the-world-is-mine</url>
     <brewery_name>Counterpart Brewing</brewery_name>
     <price>7.54</price>
@@ -6341,7 +6341,7 @@
   <item>
     <id>6228772</id>
     <ecommerce_id>751542761</ecommerce_id>
-    <title>All My Friends - SEVER</title>
+    <title>SEVER</title>
     <url>https://hopincraftbier.be/products/all-my-friends-sever</url>
     <brewery_name>All My Friends Beer Co.</brewery_name>
     <price>9.92</price>
@@ -6358,7 +6358,7 @@
   <item>
     <id>6262557</id>
     <ecommerce_id>751542503</ecommerce_id>
-    <title>Anchorage - Oh No</title>
+    <title>Oh No</title>
     <url>https://hopincraftbier.be/products/anchorage-oh-no</url>
     <brewery_name>Anchorage Brewing Company</brewery_name>
     <price>8.46</price>
@@ -6376,7 +6376,7 @@
   <item>
     <id>6228775</id>
     <ecommerce_id>751537012</ecommerce_id>
-    <title>All My Friends - Chemistry</title>
+    <title>Chemistry</title>
     <url>https://hopincraftbier.be/products/all-my-friends-chemistry</url>
     <brewery_name>All My Friends Beer Co.</brewery_name>
     <price>7.54</price>
@@ -6394,7 +6394,7 @@
   <item>
     <id>6244270</id>
     <ecommerce_id>751529268</ecommerce_id>
-    <title>Badlands - Sensescape (2025)</title>
+    <title>Sensescape (2025)</title>
     <url>https://hopincraftbier.be/products/badlands-sensescape-2025</url>
     <brewery_name>Badlands Brewing Company</brewery_name>
     <price>8.72</price>
@@ -6500,7 +6500,7 @@
   <item>
     <id>6210032</id>
     <ecommerce_id>742665251</ecommerce_id>
-    <title>Ārpus - Ārpus X Brasserie Popihn Imperial Cascadian Dark Ale</title>
+    <title>Ārpus X Brasserie Popihn Imperial Cascadian Dark Ale</title>
     <url>https://hopincraftbier.be/products/arpus-arpus-x-brasserie-popihn-imperial-cascadian-dark-ale</url>
     <brewery_name>Ārpus Brewing Co.</brewery_name>
     <price>4.55</price>
@@ -6518,7 +6518,7 @@
   <item>
     <id>6127069</id>
     <ecommerce_id>739491522</ecommerce_id>
-    <title>Stu Mostów - X Anniversary 6/10 Quadrupel BBA</title>
+    <title>X Anniversary 6/10 Quadrupel BBA</title>
     <url>https://hopincraftbier.be/products/stu-mostow-x-anniversary-6-10-quadrupel-bba</url>
     <brewery_name>Browar Stu Mostów</brewery_name>
     <price>11.11</price>
@@ -6535,7 +6535,7 @@
   <item>
     <id>6149303</id>
     <ecommerce_id>739494041</ecommerce_id>
-    <title>Sudden Death - Shedding Skin</title>
+    <title>Shedding Skin</title>
     <url>https://hopincraftbier.be/products/sudden-death-shedding-skin</url>
     <brewery_name>Sudden Death Brewing Co.</brewery_name>
     <price>3.37</price>
@@ -6553,7 +6553,7 @@
   <item>
     <id>6204470</id>
     <ecommerce_id>738817001</ecommerce_id>
-    <title>Brasserie Sir John - Faire Le Vide</title>
+    <title>Faire Le Vide</title>
     <url>https://hopincraftbier.be/products/brasserie-sir-john-faire-le-vide</url>
     <brewery_name>Brasserie Sir John Brewing Co.</brewery_name>
     <price>7.95</price>
@@ -6607,7 +6607,7 @@
   <item>
     <id>4579569</id>
     <ecommerce_id>738472474</ecommerce_id>
-    <title>Trial &amp; Ale - 30,000 Steps</title>
+    <title>30,000 Steps</title>
     <url>https://hopincraftbier.be/products/trial--ale-30-000-steps</url>
     <brewery_name>Trial &amp; Ale Brewing Company</brewery_name>
     <price>6.19</price>
@@ -6643,7 +6643,7 @@
   <item>
     <id>6065243</id>
     <ecommerce_id>738467821</ecommerce_id>
-    <title>Moersleutel - The 4 Elements: Fire</title>
+    <title>The 4 Elements: Fire</title>
     <url>https://hopincraftbier.be/products/moersleutel-the-4-elements-fire</url>
     <brewery_name>Moersleutel Craft Brewery</brewery_name>
     <price>5.77</price>
@@ -6679,7 +6679,7 @@
   <item>
     <id>3127108</id>
     <ecommerce_id>738467167</ecommerce_id>
-    <title>Alefarm - Hollow Names</title>
+    <title>Hollow Names</title>
     <url>https://hopincraftbier.be/products/alefarm-hollow-names</url>
     <brewery_name>Alefarm Brewing</brewery_name>
     <price>3.51</price>
@@ -6715,7 +6715,7 @@
   <item>
     <id>6180169</id>
     <ecommerce_id>735435487</ecommerce_id>
-    <title>AleSmith - Speedway Stout: Peanut Butter Cup Edition</title>
+    <title>Speedway Stout: Peanut Butter Cup Edition</title>
     <url>https://hopincraftbier.be/products/alesmith-speedway-stout-peanut-butter-cup-edition</url>
     <brewery_name>AleSmith Brewing Company</brewery_name>
     <price>7.44</price>
@@ -6733,7 +6733,7 @@
   <item>
     <id>5689828</id>
     <ecommerce_id>735435486</ecommerce_id>
-    <title>AleSmith - Barrel-Aged Speedway Stout: Vanilla Shake (2024)</title>
+    <title>Barrel-Aged Speedway Stout: Vanilla Shake (2024)</title>
     <url>https://hopincraftbier.be/products/alesmith-barrel-aged-speedway-stout-vanilla-shake-2024</url>
     <brewery_name>AleSmith Brewing Company</brewery_name>
     <price>12.56</price>
@@ -6751,7 +6751,7 @@
   <item>
     <id>6117115</id>
     <ecommerce_id>735435484</ecommerce_id>
-    <title>DankHouse - Granny's Candy Bowl</title>
+    <title>Granny's Candy Bowl</title>
     <url>https://hopincraftbier.be/products/dankhouse-grannys-candy-bowl</url>
     <brewery_name>DankHouse Brewing Company</brewery_name>
     <price>7.7</price>
@@ -6769,7 +6769,7 @@
   <item>
     <id>4785691</id>
     <ecommerce_id>735435932</ecommerce_id>
-    <title>Knotted Root - Moist Green Organic</title>
+    <title>Moist Green Organic</title>
     <url>https://hopincraftbier.be/products/knotted-root-moist-green-organic</url>
     <brewery_name>Knotted Root Brewing Company</brewery_name>
     <price>7.95</price>
@@ -6786,7 +6786,7 @@
   <item>
     <id>6189429</id>
     <ecommerce_id>735452033</ecommerce_id>
-    <title>Emporium - Coule</title>
+    <title>Coule</title>
     <url>https://hopincraftbier.be/products/emporium-coule</url>
     <brewery_name>Emporium Microbrasserie</brewery_name>
     <price>7.7</price>
@@ -6803,7 +6803,7 @@
   <item>
     <id>6015336</id>
     <ecommerce_id>735435726</ecommerce_id>
-    <title>Emporium - Infinito</title>
+    <title>Infinito</title>
     <url>https://hopincraftbier.be/products/emporium-infinito</url>
     <brewery_name>Emporium Microbrasserie</brewery_name>
     <price>7.95</price>
@@ -6821,7 +6821,7 @@
   <item>
     <id>5391734</id>
     <ecommerce_id>735435933</ecommerce_id>
-    <title>Knotted Root - Steak And Eggs</title>
+    <title>Steak And Eggs</title>
     <url>https://hopincraftbier.be/products/knotted-root-steak-and-eggs</url>
     <brewery_name>Knotted Root Brewing Company</brewery_name>
     <price>8.21</price>
@@ -6838,7 +6838,7 @@
   <item>
     <id>4316618</id>
     <ecommerce_id>735435930</ecommerce_id>
-    <title>Belleflower - Barn Hex (Mosaic, Strata, El Dorado)</title>
+    <title>Barn Hex (Mosaic, Strata, El Dorado)</title>
     <url>https://hopincraftbier.be/products/belleflower-barn-hex-mosaic-strata-el-dorado</url>
     <brewery_name>Belleflower Brewing</brewery_name>
     <price>7.44</price>
@@ -6856,7 +6856,7 @@
   <item>
     <id>2721589</id>
     <ecommerce_id>735435724</ecommerce_id>
-    <title>Hudson Valley - Holocene</title>
+    <title>Holocene</title>
     <url>https://hopincraftbier.be/products/hudson-valley-holocene</url>
     <brewery_name>Hudson Valley Brewery</brewery_name>
     <price>7.7</price>
@@ -6874,7 +6874,7 @@
   <item>
     <id>5847902</id>
     <ecommerce_id>735435723</ecommerce_id>
-    <title>DankHouse - Dank Hunt</title>
+    <title>Dank Hunt</title>
     <url>https://hopincraftbier.be/products/dankhouse-dank-hunt</url>
     <brewery_name>DankHouse Brewing Company</brewery_name>
     <price>8.46</price>
@@ -6892,7 +6892,7 @@
   <item>
     <id>3620252</id>
     <ecommerce_id>735435928</ecommerce_id>
-    <title>Drekker - Doomsday Device</title>
+    <title>Doomsday Device</title>
     <url>https://hopincraftbier.be/products/drekker-doomsday-device</url>
     <brewery_name>Drekker Brewing Company</brewery_name>
     <price>8.21</price>
@@ -6909,7 +6909,7 @@
   <item>
     <id>5995080</id>
     <ecommerce_id>735435725</ecommerce_id>
-    <title>DankHouse - Deady Bears</title>
+    <title>Deady Bears</title>
     <url>https://hopincraftbier.be/products/dankhouse-deady-bears</url>
     <brewery_name>DankHouse Brewing Company</brewery_name>
     <price>8.21</price>
@@ -6927,7 +6927,7 @@
   <item>
     <id>6186139</id>
     <ecommerce_id>735452031</ecommerce_id>
-    <title>Spyglass - Color Theory</title>
+    <title>Color Theory</title>
     <url>https://hopincraftbier.be/products/spyglass-color-theory</url>
     <brewery_name>Spyglass Brewing Company</brewery_name>
     <price>8.46</price>
@@ -6945,7 +6945,7 @@
   <item>
     <id>4980154</id>
     <ecommerce_id>735435927</ecommerce_id>
-    <title>Spyglass - Turbulent Flow</title>
+    <title>Turbulent Flow</title>
     <url>https://hopincraftbier.be/products/spyglass-turbulent-flow</url>
     <brewery_name>Spyglass Brewing Company</brewery_name>
     <price>8.98</price>
@@ -6963,7 +6963,7 @@
   <item>
     <id>4485711</id>
     <ecommerce_id>734051352</ecommerce_id>
-    <title>Equilibrium - Window of Opportunity</title>
+    <title>Window of Opportunity</title>
     <url>https://hopincraftbier.be/products/equilibrium-window-of-opportunity</url>
     <brewery_name>Equilibrium Brewery</brewery_name>
     <price>18.44</price>
@@ -6980,7 +6980,7 @@
   <item>
     <id>6197367</id>
     <ecommerce_id>734051599</ecommerce_id>
-    <title>Third Moon - From Underneath (2025)</title>
+    <title>From Underneath (2025)</title>
     <url>https://hopincraftbier.be/products/third-moon-from-underneath-2025</url>
     <brewery_name>Third Moon Brewing Company</brewery_name>
     <price>10.51</price>
@@ -6997,7 +6997,7 @@
   <item>
     <id>6186985</id>
     <ecommerce_id>734050895</ecommerce_id>
-    <title>Brasserie Sir John - Sous Pression</title>
+    <title>Sous Pression</title>
     <url>https://hopincraftbier.be/products/brasserie-sir-john-sous-pression</url>
     <brewery_name>Brasserie Sir John Brewing Co.</brewery_name>
     <price>7.54</price>
@@ -7015,7 +7015,7 @@
   <item>
     <id>6207626</id>
     <ecommerce_id>734050894</ecommerce_id>
-    <title>Hoof Hearted - Wet When Slippery (Pineapple &amp; Mango)</title>
+    <title>Wet When Slippery (Pineapple &amp; Mango)</title>
     <url>https://hopincraftbier.be/products/hoof-hearted-wet-when-slippery-pineapple--mango</url>
     <brewery_name>Hoof Hearted Brewing</brewery_name>
     <price>8.21</price>
@@ -7033,7 +7033,7 @@
   <item>
     <id>5263247</id>
     <ecommerce_id>734051123</ecommerce_id>
-    <title>Equilibrium - Cosmic Proportions</title>
+    <title>Cosmic Proportions</title>
     <url>https://hopincraftbier.be/products/equilibrium-cosmic-proportions</url>
     <brewery_name>Equilibrium Brewery</brewery_name>
     <price>7.44</price>
@@ -7065,6 +7065,6 @@
     <date_canned>2025-03-18</date_canned>
     <untappd_id>3898085</untappd_id>
   </item>
-  <timestamp>1773232902</timestamp>
-  <gen_date>11/03/2026 13:41:42</gen_date>
+  <timestamp>1773233076</timestamp>
+  <gen_date>11/03/2026 13:44:36</gen_date>
 </feed>
