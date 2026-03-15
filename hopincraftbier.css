@@ -1,4 +1,4 @@
-/* HopInCraftbier custom css v3.61 */
+/* HopInCraftbier custom css v3.62 */
 #tile-product-details div.ins-tile__wrap {
     margin-top: 30px;
     min-width: 80%
@@ -711,6 +711,10 @@ div.ins-tile__product-item--small.ins-tile__product-item.ins-tile__item:nth-chil
     font-family: system-ui, Ubuntu;
     min-width:300px;
     box-shadow:0 0 20px rgba(0, 0, 0, 0.15) !important;
+    -webkit-animation: discount-fade 1s;
+    -moz-animation: discount-fade 1s;
+    -o-animation: discount-fade 1s;
+    animation: discount-fade 1s;
 }
 .discount-table thead tr {
     color:#ffffff !important;
@@ -1099,3 +1103,23 @@ div#deliveryInfoSidebar {
         left: 125%;
     }
 }
+@-webkit-keyframes discount-fade {
+    from { box-shadow: 0 0 20px rgba(0, 0, 0) !important; }
+    to { box-shadow:0 0 20px rgba(0, 0, 0, 0.15) !important; }
+}
+
+@-moz-keyframes discount-fade {
+    from { box-shadow: 0 0 20px rgba(0, 0, 0) !important; }
+    to { box-shadow:0 0 20px rgba(0, 0, 0, 0.15) !important; }
+}
+
+@-o-keyframes discount-fade {
+    from { box-shadow: 0 0 20px rgba(0, 0, 0) !important; }
+    to { box-shadow:0 0 20px rgba(0, 0, 0, 0.15) !important; }
+}
+
+@keyframes discount-fade {
+    from { box-shadow: 0 0 20px rgba(0, 0, 0) !important; }
+    to { box-shadow:0 0 20px rgba(0, 0, 0, 0.15) !important; }
+}
+
