@@ -682,6 +682,78 @@
     <untappd_id>6570662</untappd_id>
   </item>
   <item>
+    <id>6584589</id>
+    <ecommerce_id>813456819</ecommerce_id>
+    <title>Yeastmode</title>
+    <url>https://hopincraftbier.be/products/ziemia-obiecana-yeastmode</url>
+    <brewery_name>Ziemia Obiecana</brewery_name>
+    <price>5.94</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/813456819/5561990260.png</image>
+    <beer_description>Fresh harvest Mosaic 2025 Double IPA with Yeast Side Labs. 18°Blg Ziemia Obiecana - Yeastmode</beer_description>
+    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
+    <beer_abv>7%</beer_abv>
+    <beer_volume>500 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Poland</brewery_country>
+    <date_best_before>2026-08-05</date_best_before>
+    <date_canned>2026-02-05</date_canned>
+    <untappd_id>6584589</untappd_id>
+  </item>
+  <item>
+    <id>6576599</id>
+    <ecommerce_id>813455096</ecommerce_id>
+    <title>When In Prague</title>
+    <url>https://hopincraftbier.be/products/ziemia-obiecana-when-in-prague</url>
+    <brewery_name>Ziemia Obiecana</brewery_name>
+    <price>5.85</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/813455096/5651425860.png</image>
+    <beer_description>Tropical IPA Southern Cross, El Dorado, Nelson Sauvin Maui Pineapple Ziemia Obiecana - When In Prague</beer_description>
+    <beer_style>IPA - Milkshake</beer_style>
+    <beer_abv>7%</beer_abv>
+    <beer_volume>500 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Poland</brewery_country>
+    <date_best_before>2026-08-12</date_best_before>
+    <date_canned>2026-02-12</date_canned>
+    <untappd_id>6576599</untappd_id>
+  </item>
+  <item>
+    <id>6573098</id>
+    <ecommerce_id>813456818</ecommerce_id>
+    <title>Smuteczki</title>
+    <url>https://hopincraftbier.be/products/ziemia-obiecana-smuteczki</url>
+    <brewery_name>Ziemia Obiecana</brewery_name>
+    <price>5.93</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/813456818/5651425914.png</image>
+    <beer_description>Double Sour Gujawa, Marakuja, Kokos 20 blg Ziemia Obiecana - Smuteczki</beer_description>
+    <beer_style>Sour - Smoothie / Pastry</beer_style>
+    <beer_abv>5.5%</beer_abv>
+    <beer_volume>500 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Poland</brewery_country>
+    <date_best_before>2016-07-22</date_best_before>
+    <date_canned>2026-01-22</date_canned>
+    <untappd_id>6573098</untappd_id>
+  </item>
+  <item>
+    <id>6564099</id>
+    <ecommerce_id>813455095</ecommerce_id>
+    <title>Kruszynka</title>
+    <url>https://hopincraftbier.be/products/ziemia-obiecana-kruszynka</url>
+    <brewery_name>Ziemia Obiecana</brewery_name>
+    <price>6.19</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/813455095/5561986554.png</image>
+    <beer_description>Triple IPA SH Nelson Kohia 21 blg Ziemia Obiecana - Kruszynka</beer_description>
+    <beer_style>IPA - Triple</beer_style>
+    <beer_abv>9%</beer_abv>
+    <beer_volume>500 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Poland</brewery_country>
+    <date_best_before>2026-07-15</date_best_before>
+    <date_canned>2026-01-15</date_canned>
+    <untappd_id>6564099</untappd_id>
+  </item>
+  <item>
     <id>939</id>
     <ecommerce_id>811899518</ecommerce_id>
     <title>Prizm Brewing Co. Pack</title>
@@ -7018,6 +7090,6 @@
     <date_canned>2025-03-18</date_canned>
     <untappd_id>3898085</untappd_id>
   </item>
-  <timestamp>1773410405</timestamp>
-  <gen_date>13/03/2026 15:00:05</gen_date>
+  <timestamp>1773687606</timestamp>
+  <gen_date>16/03/2026 20:00:06</gen_date>
 </feed>
