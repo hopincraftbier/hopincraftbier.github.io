@@ -1883,26 +1883,6 @@
     <bundle_skus>6228771,6228772,6228775</bundle_skus>
   </item>
   <item>
-    <id>964</id>
-    <ecommerce_id>803897806</ecommerce_id>
-    <title>Brasserie Sir John IPA Pair</title>
-    <url>https://hopincraftbier.be/products/brasserie-sir-john-ipa-pair</url>
-    <brewery_name>Brasserie Sir John Brewing Co.</brewery_name>
-    <price>14.45</price>
-    <regular_price>20.65</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5470057739.png</image>
-    <beer_description>The Brasserie Sir John IPA Duo pack contains: - Sous PressionIPA - New England / Hazy | 7% | 473 ml - Faire Le VideIPA - Imperial / Double New England / Hazy | 8,5% | 473 ml</beer_description>
-    <beer_style>IPA</beer_style>
-    <beer_abv>7 - 8%</beer_abv>
-    <beer_volume>2x473 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Canada</brewery_country>
-    <date_canned>2025-03-17</date_canned>
-    <beer_package_count>2</beer_package_count>
-    <beer_bundle>1</beer_bundle>
-    <bundle_skus>6186985,6204470</bundle_skus>
-  </item>
-  <item>
     <id>6526650</id>
     <ecommerce_id>803521751</ecommerce_id>
     <title>George Le Crapaud</title>
@@ -4147,23 +4127,6 @@
     <untappd_id>4886997</untappd_id>
   </item>
   <item>
-    <id>2873940</id>
-    <ecommerce_id>778813133</ecommerce_id>
-    <title>Néron</title>
-    <url>https://hopincraftbier.be/products/brasserie-du-bas-canada-neron</url>
-    <brewery_name>Brasserie du Bas-Canada</brewery_name>
-    <price>11.32</price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5260880910.webp</image>
-    <beer_description>Double IPA aux houblons Galaxy, Citra &amp; Amarillo. Brasserie du Bas-Canada - Neron</beer_description>
-    <beer_style>IPA - Imperial / Double</beer_style>
-    <beer_abv>8%</beer_abv>
-    <beer_volume>473 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Canada</brewery_country>
-    <date_canned>2025-09-16</date_canned>
-    <untappd_id>2873940</untappd_id>
-  </item>
-  <item>
     <id>5697352</id>
     <ecommerce_id>778813132</ecommerce_id>
     <title>ParabaNoche (2024)</title>
@@ -5138,24 +5101,6 @@
     <brewery_country>Spain</brewery_country>
     <date_best_before>2025-12-19</date_best_before>
     <untappd_id>6308971</untappd_id>
-  </item>
-  <item>
-    <id>6300151</id>
-    <ecommerce_id>763629294</ecommerce_id>
-    <title>Turbo</title>
-    <url>https://hopincraftbier.be/products/soma-beer-turbo</url>
-    <brewery_name>SOMA Beer</brewery_name>
-    <price>5.77</price>
-    <regular_price>7.69</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5015854232.webp</image>
-    <beer_description>Nectaron &amp; Riwaka SOMA Beer - Turbo</beer_description>
-    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
-    <beer_abv>8%</beer_abv>
-    <beer_volume>440 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Spain</brewery_country>
-    <date_best_before>2025-12-16</date_best_before>
-    <untappd_id>6300151</untappd_id>
   </item>
   <item>
     <id>6307418</id>
@@ -7041,24 +6986,6 @@
     <untappd_id>6197367</untappd_id>
   </item>
   <item>
-    <id>6186985</id>
-    <ecommerce_id>734050895</ecommerce_id>
-    <title>Sous Pression</title>
-    <url>https://hopincraftbier.be/products/brasserie-sir-john-sous-pression</url>
-    <brewery_name>Brasserie Sir John Brewing Co.</brewery_name>
-    <price>7.54</price>
-    <regular_price>10.05</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5470101340.png</image>
-    <beer_description>Everyone knows, of course, the famous song by Queen and the Starman, David Bowie. Few people know that they were all very close to a certain Sir John who, at the time, was only at the stage of refining his IPA recipes. This beautiful IPA, far from its British counterparts, is typical of big American juices. Hopped with NelSon Sauvin, Nelson Sauvin Cryo, Rakau, Cascade NZ and Hopkief from Southern Cross, it has also been boosted with a nice dose of honey during the boil to add roundness and creaminess to this beautiful hop bomb. So, do like Ziggy and put on your éclair or do like Freddy and don your best mustache and party on! -</beer_description>
-    <beer_style>IPA - New England / Hazy</beer_style>
-    <beer_abv>7%</beer_abv>
-    <beer_volume>473 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Canada</brewery_country>
-    <date_canned>2025-03-17</date_canned>
-    <untappd_id>6186985</untappd_id>
-  </item>
-  <item>
     <id>6207626</id>
     <ecommerce_id>734050894</ecommerce_id>
     <title>Wet When Slippery (Pineapple &amp; Mango)</title>
@@ -7075,23 +7002,6 @@
     <brewery_country>United States</brewery_country>
     <date_canned>2025-03-25</date_canned>
     <untappd_id>6207626</untappd_id>
-  </item>
-  <item>
-    <id>5263247</id>
-    <ecommerce_id>734051123</ecommerce_id>
-    <title>Cosmic Proportions</title>
-    <url>https://hopincraftbier.be/products/equilibrium-cosmic-proportions</url>
-    <brewery_name>Equilibrium Brewery</brewery_name>
-    <price>7.44</price>
-    <regular_price>9.92</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4819964294.png</image>
-    <beer_description>We are happy to introduce Cosmic Proportions, a collaboration with Modist Brewing. Cosmic Proportions is our first beer with Omega Yeast's Cosmic Punch yeast, a thiolized strain that features vibrant grapefruit, passion fruit, and guava notes through biotransformation. Cosmic Proportions uses Nelson and Citra in the whirlpool, with a Nelson, Citra, and HBC 586 combination in the dry hop. A hazy yellow pour opens up with aromas of freeze-squeezed OJ, tropical fruit skittles, and lime wedges. Flavors of guava, passionfruit, assorted citrus, mango, green grape, and lime come together in a super pillowy texture with a pop of « EQ juice » and a balanced finish. -</beer_description>
-    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
-    <beer_abv>8%</beer_abv>
-    <beer_volume>473 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>United States</brewery_country>
-    <untappd_id>5263247</untappd_id>
   </item>
   <item>
     <id>3898085</id>
@@ -7111,6 +7021,6 @@
     <date_canned>2025-03-18</date_canned>
     <untappd_id>3898085</untappd_id>
   </item>
-  <timestamp>1773738005</timestamp>
-  <gen_date>17/03/2026 10:00:05</gen_date>
+  <timestamp>1773738105</timestamp>
+  <gen_date>17/03/2026 10:01:45</gen_date>
 </feed>
