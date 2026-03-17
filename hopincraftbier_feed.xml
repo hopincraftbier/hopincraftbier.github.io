@@ -588,6 +588,91 @@
     <bundle_skus>6365889,6421716</bundle_skus>
   </item>
   <item>
+    <id>6606459</id>
+    <ecommerce_id>815697020</ecommerce_id>
+    <title>Half-Shell Heroes (Red Edition) - FULLY LOADED</title>
+    <url>https://hopincraftbier.be/products/sudden-death-half-shell-heroes-red-edition-fully-loaded</url>
+    <brewery_name>Sudden Death Brewing Co.</brewery_name>
+    <price>7.44</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/815697020/5596251650.png</image>
+    <beer_description>FULLY LOADED Hazy Double IPA with Citra, El Dorado, Rakau. Contains barley, wheat, oats. -</beer_description>
+    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
+    <beer_abv>8%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Germany</brewery_country>
+    <date_best_before>2027-02-18</date_best_before>
+    <date_canned>2026-02-18</date_canned>
+    <untappd_id>6606459</untappd_id>
+  </item>
+  <item>
+    <id>6606443</id>
+    <ecommerce_id>815697018</ecommerce_id>
+    <title>Divine Jobless</title>
+    <url>https://hopincraftbier.be/products/sudden-death-divine-jobless</url>
+    <brewery_name>Sudden Death Brewing Co.</brewery_name>
+    <price>6.9</price>
+    <regular_price>6.90</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/815697018/5596251700.png</image>
+    <beer_description>Double dry hopped Hazy IPA with Citra, Strata, Nectaron. Contains barley, wheat, oats. -</beer_description>
+    <beer_style>IPA - New England / Hazy</beer_style>
+    <beer_abv>6.50%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Germany</brewery_country>
+    <untappd_id>6606443</untappd_id>
+  </item>
+  <item>
+    <id>6568894</id>
+    <ecommerce_id>815706502</ecommerce_id>
+    <title>Welcome Back, Freaks (2026)</title>
+    <url>https://hopincraftbier.be/products/sudden-death-welcome-back-freaks-2026</url>
+    <brewery_name>Sudden Death Brewing Co.</brewery_name>
+    <price>6.81</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/815706502/5580061937.png</image>
+    <beer_description>Hazy IPA with Citra, Enigma. Contains barley, wheat, oats. Sudden Death Brewing Co. - Welcome Back, Freaks (2026)</beer_description>
+    <beer_style>IPA - New England / Hazy</beer_style>
+    <beer_abv>6%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Germany</brewery_country>
+    <date_best_before>2027-01-16</date_best_before>
+    <untappd_id>6568894</untappd_id>
+  </item>
+  <item>
+    <id>6606460</id>
+    <ecommerce_id>815697004</ecommerce_id>
+    <title>Space Doom Vacuum (2026)</title>
+    <url>https://hopincraftbier.be/products/sudden-death-space-doom-vacuum-2026</url>
+    <brewery_name>Sudden Death Brewing Co.</brewery_name>
+    <price>8.09</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/815697004/5580074352.png</image>
+    <beer_description>2026 version: Heavily fruited Smoothie Sour with blackcurrant, sweet cherry, sour cherry. Contains barley, wheat, oats, lactose. The Primeval One. Our 'Big Bang' sour. Space Doom Vacuum cemented our standing as one of the top fruit sour brewers in Europe. This fruit bomb was conditioned on a whopping 500 g. 4 L of blackcurrant, sweet cherry, and sour cherry purée and concentrate, and rounded out with vanilla and sea salt. Still fresh, luxurious, and flavourful as ever. Get it while you can! Sudden Death Brewing Co. - Space Doom Vacuum (2026)</beer_description>
+    <beer_style>Sour - Smoothie / Pastry</beer_style>
+    <beer_abv>6%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Germany</brewery_country>
+    <untappd_id>6606460</untappd_id>
+  </item>
+  <item>
+    <id>6568901</id>
+    <ecommerce_id>815706501</ecommerce_id>
+    <title>Luna Mortua</title>
+    <url>https://hopincraftbier.be/products/sudden-death-luna-mortua</url>
+    <brewery_name>Sudden Death Brewing Co.</brewery_name>
+    <price>7.06</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/815706501/5580083759.png</image>
+    <beer_description>Hazy IPA with Citra, Mosaic, Motueka. Contains barley, wheat, oats. Sudden Death Brewing Co. - Luna Mortua</beer_description>
+    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
+    <beer_abv>8%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Germany</brewery_country>
+    <date_best_before>2027-01-13</date_best_before>
+    <untappd_id>6568901</untappd_id>
+  </item>
+  <item>
     <id>14</id>
     <ecommerce_id>815008781</ecommerce_id>
     <title>Herbruikbare blikjes clip (4 blikjes)</title>
@@ -7076,6 +7161,6 @@
     <date_canned>2025-03-18</date_canned>
     <untappd_id>3898085</untappd_id>
   </item>
-  <timestamp>1773774908</timestamp>
-  <gen_date>17/03/2026 20:15:08</gen_date>
+  <timestamp>1773779940</timestamp>
+  <gen_date>17/03/2026 21:39:00</gen_date>
 </feed>
