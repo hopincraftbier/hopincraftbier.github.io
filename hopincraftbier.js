@@ -1,4 +1,4 @@
-const version = 'v6.62';
+const version = 'v6.63';
 const txtNl1 = '<div class="dtooltip"><p class="hover question">Kortingscoupon</p><p class="dtooltiptext">Afhankelijk van de gekozen betaling en levering, kunt u een kortingscoupon krijgen die te gebruiken is bij een volgende bestelling. Voor dit bier ziet u de bedragen in deze tabel</p></div><table class="discount-table"><thead><tr class="first_header"><th></th><th colspan="2">Manier van levering</th></tr><tr><th>Manier van betaling</th><th>Afhaling</th><th>Levering</th></tr></thead><tbody><tr><td class="header">Betalen bij afhaling</td><td>€ ';
 const txtNl2 = '</td><td> - </td></tr><tr><td class="header">Overschrijving</td><td>€ ';
 const txtNl3 = '</td><td>€ ';
@@ -411,10 +411,6 @@ function soonLabel() {
         newElement.innerHTML = verwachtTxt;
         if (soldOutEl2 && soldOutEl2.textContent !== newElement.textContent) {
             soldOutEl2.innerHTML = verwachtTxt;
-        }
-        if (prodMode) {
-            let soldOutTxt = document.querySelector('div.details-product-purchase__place');
-            if (soldOutTxt && soldOutTxt.style.display !== 'none') soldOutTxt.style.display = 'none'
         }
     }
 }
