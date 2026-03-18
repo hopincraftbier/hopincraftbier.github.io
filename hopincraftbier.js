@@ -1,4 +1,4 @@
-const version = 'v6.60';
+const version = 'v6.61';
 const txtNl1 = '<div class="dtooltip"><p class="hover question">Kortingscoupon</p><p class="dtooltiptext">Afhankelijk van de gekozen betaling en levering, kunt u een kortingscoupon krijgen die te gebruiken is bij een volgende bestelling. Voor dit bier ziet u de bedragen in deze tabel</p></div><table class="discount-table"><thead><tr class="first_header"><th></th><th colspan="2">Manier van levering</th></tr><tr><th>Manier van betaling</th><th>Afhaling</th><th>Levering</th></tr></thead><tbody><tr><td class="header">Betalen bij afhaling</td><td>€ ';
 const txtNl2 = '</td><td> - </td></tr><tr><td class="header">Overschrijving</td><td>€ ';
 const txtNl3 = '</td><td>€ ';
@@ -829,12 +829,10 @@ function processHeader() {
 }
 
 function setServicePointWarnings() {
-    if (!prodMode) {
-        setServicePointWarning('BPost-postal-point-delivery', '!! Make sure you select a <strong>BPost service point</strong>, otherwise delivery may be delayed !!')
-        setServicePointWarning('PostNL-point-delivery', '!! Make sure you select a <strong>PostNL service point</strong>, otherwise delivery may be delayed !!')
-        setServicePointWarning('BPost-post-punt-levering', '!! Zorg ervoor dat u een <strong>BPost-servicepunt</strong> selecteert, anders kan de levering vertraging oplopen !!')
-        setServicePointWarning('PostNL-punt-levering', '!! Zorg ervoor dat u een <strong>PostNL-servicepunt</strong> selecteert, anders kan de levering vertraging oplopen. !!')
-    }
+    setServicePointWarning('BPost-postal-point-delivery', '!! Make sure you select a <strong>BPost service point</strong>, otherwise delivery may be delayed !!')
+    setServicePointWarning('PostNL-point-delivery', '!! Make sure you select a <strong>PostNL service point</strong>, otherwise delivery may be delayed !!')
+    setServicePointWarning('BPost-post-punt-levering', '!! Zorg ervoor dat u een <strong>BPost-servicepunt</strong> selecteert, anders kan de levering vertraging oplopen !!')
+    setServicePointWarning('PostNL-punt-levering', '!! Zorg ervoor dat u een <strong>PostNL-servicepunt</strong> selecteert, anders kan de levering vertraging oplopen. !!')
 }
 
 function setServicePointWarning(cls, txt) {
