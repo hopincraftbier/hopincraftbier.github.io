@@ -1,4 +1,4 @@
-const version = 'v6.59';
+const version = 'v6.60';
 const txtNl1 = '<div class="dtooltip"><p class="hover question">Kortingscoupon</p><p class="dtooltiptext">Afhankelijk van de gekozen betaling en levering, kunt u een kortingscoupon krijgen die te gebruiken is bij een volgende bestelling. Voor dit bier ziet u de bedragen in deze tabel</p></div><table class="discount-table"><thead><tr class="first_header"><th></th><th colspan="2">Manier van levering</th></tr><tr><th>Manier van betaling</th><th>Afhaling</th><th>Levering</th></tr></thead><tbody><tr><td class="header">Betalen bij afhaling</td><td>€ ';
 const txtNl2 = '</td><td> - </td></tr><tr><td class="header">Overschrijving</td><td>€ ';
 const txtNl3 = '</td><td>€ ';
@@ -687,6 +687,7 @@ function processCartPage() {
         translateCheckoutNotice();
         addDeliveryInfoLink();
         showCouponBlock();
+        setServicePointWarnings();
     }
     if (document.querySelector('.ecwid-productBrowser-ElmCheckoutShippingAddressPage')) {
         removeCountries();
@@ -826,6 +827,47 @@ function processHeader() {
         }
     }
 }
+
+function setServicePointWarnings() {
+    if (!prodMode) {
+        setServicePointWarning('BPost-postal-point-delivery', '!! Make sure you select a <strong>BPost service point</strong>, otherwise delivery may be delayed !!')
+        setServicePointWarning('PostNL-point-delivery', '!! Make sure you select a <strong>PostNL service point</strong>, otherwise delivery may be delayed !!')
+        setServicePointWarning('BPost-post-punt-levering', '!! Zorg ervoor dat u een <strong>BPost-servicepunt</strong> selecteert, anders kan de levering vertraging oplopen !!')
+        setServicePointWarning('PostNL-punt-levering', '!! Zorg ervoor dat u een <strong>PostNL-servicepunt</strong> selecteert, anders kan de levering vertraging oplopen. !!')
+    }
+}
+
+function setServicePointWarning(cls, txt) {
+    const selector = 'div.ec-cart-step--delivery label.ec-radiogroup__item--' + cls + ':not(.ec-radiogroup__item--disabled)';
+    const x = document.querySelector(selector);
+    if (x) {
+        let pEl = x.querySelector(selector + ' div.ec-radiogroup__text div p');
+        if (pEl) {
+            if (x.classList.contains('ec-radiogroup__item--checked') && pEl.style.color !== '#eb5454') {
+                pEl.style.color = '#eb5454';
+            }
+            if (!x.classList.contains('ec-radiogroup__item--checked') && pEl.style.color !== 'rgb(111, 111, 111)') {
+                pEl.style.color = 'rgb(111, 111, 111)';
+            }
+            return;
+        }
+        console.log('x ' + x);
+        pEl = document.createElement('p');
+        pEl.style.marginBottom = '0';
+        pEl.style.fontSize = '14px';
+        console.log('classList' + x.classList);
+        if (x.classList.contains('ec-radiogroup__item--checked')) {
+            pEl.style.color = '#eb5454';
+        } else {
+            pEl.style.color = 'rgb(111, 111, 111)';
+        }
+
+        pEl.innerHTML = txt;
+
+        x.querySelector(selector + ' div.ec-radiogroup__text div').appendChild(pEl);
+    }
+}
+
 function cleanCategory() {
     document.querySelectorAll('div.grid-product__buy-now').forEach(function(it) {
         it.remove();
