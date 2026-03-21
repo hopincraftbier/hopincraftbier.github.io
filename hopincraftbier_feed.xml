@@ -1737,27 +1737,6 @@
     <bundle_skus>5894573,6016175,6187809</bundle_skus>
   </item>
   <item>
-    <id>946</id>
-    <ecommerce_id>805754352</ecommerce_id>
-    <title>Varvar Brew Triplet</title>
-    <url>https://hopincraftbier.be/products/varvar-brew-triplet</url>
-    <brewery_name>Varvar Brew</brewery_name>
-    <price>17.03</price>
-    <regular_price>24.33</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5496153342.png</image>
-    <beer_description>The Varvar Brew Pack contains: - Love PotionStout - Imperial / Double Milk | 7% | 330 ml - D'Rye 2024Sour - Other | 7,8% | 375 ml - City Cake 2025Stout - Imperial / Double Pastry | 11% | 330 ml</beer_description>
-    <beer_style>Stout - Sour</beer_style>
-    <beer_abv>7 - 11%</beer_abv>
-    <beer_volume>Mix</beer_volume>
-    <beer_package>mix</beer_package>
-    <brewery_country>Ukraine</brewery_country>
-    <date_best_before>2027-08-27</date_best_before>
-    <date_canned>2025-02-03</date_canned>
-    <beer_package_count>3</beer_package_count>
-    <beer_bundle>1</beer_bundle>
-    <bundle_skus>6149265,5978945,6272015</bundle_skus>
-  </item>
-  <item>
     <id>947</id>
     <ecommerce_id>805761110</ecommerce_id>
     <title>Revenant Brewing Project Triplet</title>
@@ -7408,6 +7387,6 @@
     <date_canned>2025-03-18</date_canned>
     <untappd_id>3898085</untappd_id>
   </item>
-  <timestamp>1774000806</timestamp>
-  <gen_date>20/03/2026 11:00:06</gen_date>
+  <timestamp>1774092607</timestamp>
+  <gen_date>21/03/2026 12:30:07</gen_date>
 </feed>
