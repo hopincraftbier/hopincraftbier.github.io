@@ -1,4 +1,4 @@
-const version = 'v6.64';
+const version = 'v6.65';
 const txtNl1 = '<div class="dtooltip"><p class="hover question">Kortingscoupon</p><p class="dtooltiptext">Afhankelijk van de gekozen betaling en levering, kunt u een kortingscoupon krijgen die te gebruiken is bij een volgende bestelling. Voor dit bier ziet u de bedragen in deze tabel</p></div><table class="discount-table"><thead><tr class="first_header"><th></th><th colspan="2">Manier van levering</th></tr><tr><th>Manier van betaling</th><th>Afhaling</th><th>Levering</th></tr></thead><tbody><tr><td class="header">Betalen bij afhaling</td><td>€ ';
 const txtNl2 = '</td><td> - </td></tr><tr><td class="header">Overschrijving</td><td>€ ';
 const txtNl3 = '</td><td>€ ';
@@ -391,9 +391,9 @@ function soonLabel() {
                 notSoldOut = true;
                 verwachtTxt = item.textContent.trim() + ' ' + item.parentElement.childNodes[1]?.textContent?.trim();
                 if (item.textContent.trim() === 'Verwacht:') {
-                    verwachtTxt = verwachtTxt + "<p class='reserve'>Stuur ons een <a href='mailto:info@hopincraftbier.be'>email</a> of een <a href='https://wa.me/32494626330' target='_blank'>whatsapp bericht</a> om dit bier te 'reserveren' en krijg <strong>5% korting</strong>. <a href='https://hopincraftbier.be/products/verwacht' target='_blank'>Meer info.</a></p>";
+                    verwachtTxt = verwachtTxt + "<p class='reserve'>Stuur ons een <a href='mailto:info@hopincraftbier.be'>email</a> of een <a href='https://wa.me/32494626330' target='_blank'>whatsapp bericht</a> om dit bier te 'reserveren' en krijg <span style=\"font-family: 'Bangers', Ubuntu, system-ui;letter-spacing: 1.4px;font-size: 15px;color: red;\">5% korting</span>. <a href='https://hopincraftbier.be/products/verwacht' target='_blank'>Meer info.</a></p>";
                 } else {
-                    verwachtTxt = verwachtTxt + "<p class='reserve'>Send us an <a href='mailto:info@hopincraftbier.be'>email</a> or a <a href='https://wa.me/32494626330' target='_blank'>whatsapp</a> message to ‘reserve’ this beer and get a <strong>5% discount</strong>. <a href='https://hopincraftbier.be/en/products/verwacht' target='_blank'>More info.</a></p>";
+                    verwachtTxt = verwachtTxt + "<p class='reserve'>Send us an <a href='mailto:info@hopincraftbier.be'>email</a> or a <a href='https://wa.me/32494626330' target='_blank'>whatsapp</a> message to ‘reserve’ this beer and get a <span style=\"font-family: 'Bangers', Ubuntu, system-ui;letter-spacing: 1.4px;font-size: 15px;color: red;\">5% discount</span>. <a href='https://hopincraftbier.be/en/products/verwacht' target='_blank'>More info.</a></p>";
                 }
             }
         });
