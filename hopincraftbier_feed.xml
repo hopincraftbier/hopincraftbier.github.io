@@ -43,20 +43,21 @@
     <untappd_id>6608065</untappd_id>
   </item>
   <item>
-    <id>6075170</id>
+    <id>6632483</id>
     <ecommerce_id>821812092</ecommerce_id>
     <title>AUPA TOVARISCH XI ANNIVERSARY</title>
     <url>https://hopincraftbier.be/products/laugar-aupa-tovarisch-xi-anniversary</url>
     <brewery_name>Laugar Brewery</brewery_name>
     <price>7.71</price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/821812092/5638423692.png</image>
-    <beer_description>They are back with a very special edition of their most iconic beer, their Aupa Tovarisch 11th Anniversary. View on Laugar site Laugar Brewery - AUPA TOVARISCH 10th ANNIVERSARY</beer_description>
-    <beer_style>Stout - Russian Imperial</beer_style>
+    <beer_description>They are back with a very special edition of their most iconic beer, their Aupa Tovarisch 11th Anniversary. Laugar Brewery - AUPA TOVARISCH XI ANNIVERSARY</beer_description>
+    <beer_style>Stout - Imperial / Double</beer_style>
     <beer_abv>14%</beer_abv>
     <beer_volume>330 ml</beer_volume>
     <beer_package>bottle</beer_package>
     <brewery_country>Spain</brewery_country>
     <date_best_before>03/2031</date_best_before>
+    <untappd_id>6632483</untappd_id>
   </item>
   <item>
     <id>6246795</id>
@@ -7367,6 +7368,6 @@
     <date_canned>2025-03-18</date_canned>
     <untappd_id>3898085</untappd_id>
   </item>
-  <timestamp>1774253706</timestamp>
-  <gen_date>23/03/2026 09:15:06</gen_date>
+  <timestamp>1774260006</timestamp>
+  <gen_date>23/03/2026 11:00:06</gen_date>
 </feed>
