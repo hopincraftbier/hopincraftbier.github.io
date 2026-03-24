@@ -5,6 +5,54 @@
   <link>https://hopincraftbier.be/products&lt;/link&gt;</link>
   <description>Hop In Craftbier Products feed</description>
   <item>
+    <id>6581011</id>
+    <ecommerce_id>824777416</ecommerce_id>
+    <title>You Won’t Believe It’s Not Crumble!</title>
+    <url>https://hopincraftbier.be/products/vault-city-you-wont-believe-its-not-crumble</url>
+    <brewery_name>Vault City Brewing</brewery_name>
+    <price>9.61</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/824777416/5667817656.webp</image>
+    <beer_description>Brought to you with our pals at Sudden Death Brewing Co., this smoothie sour is fresh out the oven. Jam packed with unfermented cherries, strawberries plums and apples, then layered with cinnamon warmth and pastry sweetness. “I genuinely can’t believe it’s not crumble!” – Joe Cruickshank, Sour Beer Enthusiast. Sour Scale:3 Allergens: Malted Barley &amp; Oats (Gluten) Vault City Brewing - You Wont Believe Its Not Crumble!</beer_description>
+    <beer_style>Sour - Smoothie / Pastry</beer_style>
+    <beer_abv>6%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Scotland</brewery_country>
+    <untappd_id>6581011</untappd_id>
+  </item>
+  <item>
+    <id>6596050</id>
+    <ecommerce_id>824777415</ecommerce_id>
+    <title>Stoopid: Passionfruit, Apricot, Mango &amp; Coconut</title>
+    <url>https://hopincraftbier.be/products/vault-city-stoopid-passionfruit-apricot-mango--coconut</url>
+    <brewery_name>Vault City Brewing</brewery_name>
+    <price>9.73</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/824777415/5667817914.webp</image>
+    <beer_description>Our series of smoothie sours is dedicated to anyone who’s ever asked; “why can’t beer just taste like beer?”. Jam-packed with juicy mango, passion fruit, apricot and the smooth taste of creamy coconut. Thicc, juicy and outrageously tasty in every stoopid sip. Allergens: Malted Barley (Gluten) Vault City Brewing - Stoopid: Passionfruit, Apricot, Mango &amp; Coconut</beer_description>
+    <beer_style>Sour - Smoothie / Pastry</beer_style>
+    <beer_abv>6.2%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Scotland</brewery_country>
+    <untappd_id>6596050</untappd_id>
+  </item>
+  <item>
+    <id>6621296</id>
+    <ecommerce_id>824778133</ecommerce_id>
+    <title>Caramel Eggs</title>
+    <url>https://hopincraftbier.be/products/vault-city-caramel-eggs</url>
+    <brewery_name>Vault City Brewing</brewery_name>
+    <price>8.94</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/824778133/5667817666.webp</image>
+    <beer_description>Our latest imperial stout was inspired by the sweet taste of a certain chocolate caramel egg... With each sip there’s a velvety texture among layers of intense chocolate and smooth caramel. Through an extended boil we’ve dialled those Maillard reactions into overdrive, encapsulating the unique gooey goodness and caramelised sweetness in a decadent dessert stout. Vault City Brewing - Caramel Eggs</beer_description>
+    <beer_style>Stout - Imperial / Double Pastry</beer_style>
+    <beer_abv>12%</beer_abv>
+    <beer_volume>330 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Scotland</brewery_country>
+    <untappd_id>6621296</untappd_id>
+  </item>
+  <item>
     <id>9000000024</id>
     <ecommerce_id>823093565</ecommerce_id>
     <title>Ziemia Obiecana - Quartet</title>
@@ -7368,6 +7416,6 @@
     <date_canned>2025-03-18</date_canned>
     <untappd_id>3898085</untappd_id>
   </item>
-  <timestamp>1774260006</timestamp>
-  <gen_date>23/03/2026 11:00:06</gen_date>
+  <timestamp>1774375206</timestamp>
+  <gen_date>24/03/2026 19:00:06</gen_date>
 </feed>
