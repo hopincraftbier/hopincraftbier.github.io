@@ -1,4 +1,4 @@
-const version = 'v6.66';
+const version = 'v6.67';
 const txtNl1 = '<div class="dtooltip"><p class="hover question">Kortingscoupon</p><p class="dtooltiptext">Afhankelijk van de gekozen betaling en levering, kunt u een kortingscoupon krijgen die te gebruiken is bij een volgende bestelling. Voor dit bier ziet u de bedragen in deze tabel</p></div><table class="discount-table"><thead><tr class="first_header"><th></th><th colspan="2">Manier van levering</th></tr><tr><th>Manier van betaling</th><th>Afhaling</th><th>Levering</th></tr></thead><tbody><tr><td class="header">Betalen bij afhaling</td><td>€ ';
 const txtNl2 = '</td><td> - </td></tr><tr><td class="header">Overschrijving</td><td>€ ';
 const txtNl3 = '</td><td>€ ';
@@ -831,10 +831,10 @@ function processHeader() {
 }
 
 function setServicePointWarnings() {
-    setServicePointWarning('BPost-postal-point-delivery', '!! Make sure you select a <strong>BPost service point</strong>, otherwise delivery may be delayed !!')
-    setServicePointWarning('PostNL-point-delivery', '!! Make sure you select a <strong>PostNL service point</strong>, otherwise delivery may be delayed !!')
-    setServicePointWarning('BPost-post-punt-levering', '!! Zorg ervoor dat u een <strong>BPost-servicepunt</strong> selecteert, anders kan de levering vertraging oplopen !!')
-    setServicePointWarning('PostNL-punt-levering', '!! Zorg ervoor dat u een <strong>PostNL-servicepunt</strong> selecteert, anders kan de levering vertraging oplopen. !!')
+    setServicePointWarning('BPost-postal-point-delivery', '!! Make sure you select a <img src="https://hopincraftbier.github.io/bpost.svg" height="40px" width="40px" style="margin:0 5px;"><strong>BPost service point</strong>, otherwise delivery may be delayed !!')
+    setServicePointWarning('PostNL-point-delivery', '!! Make sure you select a <img src="https://hopincraftbier.github.io/postnl.svg" height="40px" width="40px" style="margin:0 5px;"><strong>PostNL service point</strong>, otherwise delivery may be delayed !!')
+    setServicePointWarning('BPost-post-punt-levering', '!! Zorg ervoor dat u een <img src="https://hopincraftbier.github.io/bpost.svg" height="40px" width="40px" style="margin:0 5px;"><strong>BPost-servicepunt</strong>&nbsp;selecteert, anders kan de levering vertraging oplopen !!')
+    setServicePointWarning('PostNL-punt-levering', '!! Zorg ervoor dat u een <img src="https://hopincraftbier.github.io/postnl.svg" height="40px" width="40px" style="margin:0 5px;"><strong>PostNL-servicepunt</strong>&nbsp;selecteert, anders kan de levering vertraging oplopen !!')
 }
 
 function setServicePointWarning(cls, txt) {
@@ -855,6 +855,7 @@ function setServicePointWarning(cls, txt) {
         pEl = document.createElement('p');
         pEl.style.marginBottom = '0';
         pEl.style.fontSize = '14px';
+        pEl.style.display = 'inline-flex';
         console.log('classList' + x.classList);
         if (x.classList.contains('ec-radiogroup__item--checked')) {
             pEl.style.color = '#eb5454';
