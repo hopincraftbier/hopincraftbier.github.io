@@ -2174,7 +2174,7 @@
     <brewery_name>All My Friends Beer Co.</brewery_name>
     <price>21.82</price>
     <regular_price>30.91</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5475103896.png</image>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/804212466/5475103896.png</image>
     <beer_description>The All My Friends Beer Co. Pack pack contains: - ChemistryIPA - New England / Hazy | 6,5% | 473 ml - SEVERStout - Pastry | 7,5% | 473 ml - BB Kush - 2025IPA - Imperial / Double New England / Hazy | 8,2% | 473 ml</beer_description>
     <beer_style>Stout - IPA</beer_style>
     <beer_abv>6 - 8%</beer_abv>
@@ -7416,6 +7416,6 @@
     <date_canned>2025-03-18</date_canned>
     <untappd_id>3898085</untappd_id>
   </item>
-  <timestamp>1774375206</timestamp>
-  <gen_date>24/03/2026 19:00:06</gen_date>
+  <timestamp>1774554306</timestamp>
+  <gen_date>26/03/2026 20:45:06</gen_date>
 </feed>
