@@ -2923,7 +2923,7 @@
     <url>https://hopincraftbier.be/products/brew-your-mind-blue-echo</url>
     <brewery_name>Brew Your Mind</brewery_name>
     <price>4.93</price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5344878538.png</image>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/794172620/5344878538.png</image>
     <beer_description>Hazy IPA with Citra and Motueka hops. A lighter version of Green Echo. Brew Your Mind - Blue Echo</beer_description>
     <beer_style>IPA - New England / Hazy</beer_style>
     <beer_abv>6.7%</beer_abv>
@@ -3633,7 +3633,7 @@
     <url>https://hopincraftbier.be/products/goose-island-bourbon-county-brand-coffee-barleywine-2018</url>
     <brewery_name>Goose Island Beer Co.</brewery_name>
     <price>16.63</price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5247401357.webp</image>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/787747055/5247401357.webp</image>
     <beer_description>Working with our friends at Intelligentsia, we flew down to Guatemala to source some of the world's best coffee to use as we release the first-ever Coffee Barleywine. The beer is an English-style Barleywine, meaning malt forward, and aged in 4+ year old Heaven Hill Bourbon barrels before adding La Soledad coffee beans right before packaging to retain a bold coffee aroma and flavor. Goose Island Beer Co. - Bourbon County Brand Coffee Barleywine (2018)</beer_description>
     <beer_style>Barleywine - English</beer_style>
     <beer_abv>15.1%</beer_abv>
@@ -3839,7 +3839,7 @@
     <url>https://hopincraftbier.be/products/brew-your-mind-money-cannon</url>
     <brewery_name>Brew Your Mind</brewery_name>
     <price>5.38</price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5242091020.webp</image>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/787278459/5242091020.webp</image>
     <beer_description>This double New England insired IPA is a collaboration with our good friend armando_otchoa. This one comes with a blast of tropical fruit flavors and a velvety mouthfeel. Made with 30g/L australian and american hops. Amarillo, Galaxy, Citra Brew Your Mind - Money Cannon</beer_description>
     <beer_style>IPA - Imperial / Double</beer_style>
     <beer_abv>8.3%</beer_abv>
@@ -5071,7 +5071,7 @@
     <url>https://hopincraftbier.be/products/commonwealth-dirty-monkey</url>
     <brewery_name>Commonwealth Brewing Company</brewery_name>
     <price>10.33</price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5145623791.webp</image>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/767352716/5145623791.webp</image>
     <beer_description>Imperial Stout w/Banana, Coffee, Chocolate, Pineapple and Coconut Commonwealth Brewing Company - Dirty Monkey</beer_description>
     <beer_style>Stout - Imperial / Double Coffee</beer_style>
     <beer_abv>12%</beer_abv>
@@ -5260,7 +5260,7 @@
     <brewery_name>Outer Range Brewing Co.</brewery_name>
     <price>5.99</price>
     <regular_price>7,98</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5243283818.webp</image>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/767292177/5243283818.webp</image>
     <beer_description>Hops: Citra Cryo • El Dorado • Galaxy Tasting Notes: Honey Dew • Red Grapefruit • Blood Orange Outer Range Brewing Co. - Super Ultra Mega Classic</beer_description>
     <beer_style>IPA - Triple New England / Hazy</beer_style>
     <beer_abv>10.5%</beer_abv>
@@ -6644,7 +6644,7 @@
     <brewery_name>Messorem</brewery_name>
     <price>9.01</price>
     <regular_price>10.60</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5438350245.webp</image>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/751537014/5438350245.webp</image>
     <beer_description>IPA - Motueka, Riwaka, Citra Dynaboost Messorem - Demoliri 0001</beer_description>
     <beer_style>IPA - New England / Hazy</beer_style>
     <beer_abv>7%</beer_abv>
@@ -7416,6 +7416,6 @@
     <date_canned>2025-03-18</date_canned>
     <untappd_id>3898085</untappd_id>
   </item>
-  <timestamp>1774554306</timestamp>
-  <gen_date>26/03/2026 20:45:06</gen_date>
+  <timestamp>1774558805</timestamp>
+  <gen_date>26/03/2026 22:00:05</gen_date>
 </feed>
