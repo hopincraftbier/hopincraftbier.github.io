@@ -6046,22 +6046,6 @@
     <untappd_id>6263801</untappd_id>
   </item>
   <item>
-    <id>5699491</id>
-    <ecommerce_id>751542772</ecommerce_id>
-    <title>Pass A Good Time</title>
-    <url>https://hopincraftbier.be/products/the-bruery-pass-a-good-time</url>
-    <brewery_name>The Bruery</brewery_name>
-    <price>28.08</price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4932666633.png</image>
-    <beer_description>Bourbon barrel-aged imperial stout with cocoa powder, powdered sugar, vanilla, and milk sugar Nothing says Mardi Gras like a chocolate-covered beignet, which is exactly what we set out to recreate with this Fat Twosday descendant. This blend of top-shelf imperial stouts—Black Tuesday with just the right blend of imperial milk stouts—was treated with cocoa powder and powdered sugar with a touch of vanilla and milk sugar for sweetness. The Bruery - Pass A Good Time</beer_description>
-    <beer_style>Stout - Imperial / Double</beer_style>
-    <beer_abv>16.7%</beer_abv>
-    <beer_volume>750 ml</beer_volume>
-    <beer_package>bottle</beer_package>
-    <brewery_country>United States</brewery_country>
-    <untappd_id>5699491</untappd_id>
-  </item>
-  <item>
     <id>4486704</id>
     <ecommerce_id>751537022</ecommerce_id>
     <title>Tillage</title>
@@ -6216,22 +6200,6 @@
     <beer_package>can</beer_package>
     <brewery_country>United States</brewery_country>
     <untappd_id>6242674</untappd_id>
-  </item>
-  <item>
-    <id>5965255</id>
-    <ecommerce_id>751537018</ecommerce_id>
-    <title>Heavenly Blis</title>
-    <url>https://hopincraftbier.be/products/the-bruery-heavenly-blis</url>
-    <brewery_name>The Bruery</brewery_name>
-    <price>38.32</price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4932669426.png</image>
-    <beer_description>Double Barrel-Aged Imperial Stout finished in Bourbon Maple Syrup Barrels The Bruery - Heavenly Blis</beer_description>
-    <beer_style>Stout - Imperial / Double</beer_style>
-    <beer_abv>20.5%</beer_abv>
-    <beer_volume>750 ml</beer_volume>
-    <beer_package>bottle</beer_package>
-    <brewery_country>United States</brewery_country>
-    <untappd_id>5965255</untappd_id>
   </item>
   <item>
     <id>6257025</id>
@@ -7480,6 +7448,6 @@
     <date_canned>2025-03-18</date_canned>
     <untappd_id>3898085</untappd_id>
   </item>
-  <timestamp>1774613705</timestamp>
-  <gen_date>27/03/2026 13:15:05</gen_date>
+  <timestamp>1774629907</timestamp>
+  <gen_date>27/03/2026 17:45:07</gen_date>
 </feed>
