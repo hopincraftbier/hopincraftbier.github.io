@@ -5,6 +5,70 @@
   <link>https://hopincraftbier.be/products&lt;/link&gt;</link>
   <description>Hop In Craftbier Products feed</description>
   <item>
+    <id>6611811</id>
+    <ecommerce_id>825522358</ecommerce_id>
+    <title>Good Morning Pineapple (Looking Very Good, Very Nice)</title>
+    <url>https://hopincraftbier.be/products/maktoob-good-morning-pineapple-looking-very-good-very-nice</url>
+    <brewery_name>Maktoob Brewing</brewery_name>
+    <price>8.49</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/825522358/5674151141.png</image>
+    <beer_description>For some mysterious reason, stringing together a couple of rhymes about tropical fruits on top of catchy percussion rhythms, causes, almost indubitably, to almost everyone, a rush of joyful emotions that may lead to uncontrollable humming and body moving. Some made careers out of this rather straightforward recipe. Now take one of these musical motifs and put it on top of a reel, one that preferably involves cats. Now that's the kind of online brainrot we happily indulge in. Good morning, to the Watermelon Juicy juicy sugar lemon tingalingaling tingalingalingaling Maktoob Brewing - Good Morning Pineapple (Looking Very Good, Very Nice)</beer_description>
+    <beer_style>Sour - Smoothie / Pastry</beer_style>
+    <beer_abv>6%</beer_abv>
+    <beer_volume>500 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Romania</brewery_country>
+    <untappd_id>6611811</untappd_id>
+  </item>
+  <item>
+    <id>6628147</id>
+    <ecommerce_id>825523879</ecommerce_id>
+    <title>Trench Coat Contraband</title>
+    <url>https://hopincraftbier.be/products/hop-hooligans-trench-coat-contraband</url>
+    <brewery_name>Hop Hooligans</brewery_name>
+    <price>7.89</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/825523879/5674160413.png</image>
+    <beer_description>Water, Barley malt (Golden Promise, Heidelberg), Wheat malt (Heidelberg Wheat), Oat Flakes, Hops (McKenzie, Hand Selected Citra, Chinook, Columbus), Yeast (BRY-97) Hop Hooligans - Trench Coat Contraband</beer_description>
+    <beer_style>IPA - Triple</beer_style>
+    <beer_abv>10%</beer_abv>
+    <beer_volume>500 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Romania</brewery_country>
+    <untappd_id>6628147</untappd_id>
+  </item>
+  <item>
+    <id>6598500</id>
+    <ecommerce_id>825522357</ecommerce_id>
+    <title>Lost Carcosa</title>
+    <url>https://hopincraftbier.be/products/hop-hooligans-lost-carcosa</url>
+    <brewery_name>Hop Hooligans</brewery_name>
+    <price>8.03</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/825522357/5674186578.png</image>
+    <beer_description>Water, Barley malt, Wheat malt, Oat flakes, Chit malt, Hops (Pacifica, Citra, Cryo Pop, Super Sauvin), Yeast (London Ale III, Anchor Alchemy II). Hop Hooligans - Lost Carcosa</beer_description>
+    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
+    <beer_abv>16%</beer_abv>
+    <beer_volume>500 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Romania</brewery_country>
+    <untappd_id>6598500</untappd_id>
+  </item>
+  <item>
+    <id>6598489</id>
+    <ecommerce_id>825522356</ecommerce_id>
+    <title>Fortunio</title>
+    <url>https://hopincraftbier.be/products/hop-hooligans-fortunio</url>
+    <brewery_name>Hop Hooligans</brewery_name>
+    <price>6.87</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/825522356/5674186596.png</image>
+    <beer_description>Water, Barley Malt, Wheat Malt, Oat Flakes, Hops (Hand Selected El Dorado, Mega Motueka), Yeast (London Ale III) Hop Hooligans - Fortunio</beer_description>
+    <beer_style>IPA - New England / Hazy</beer_style>
+    <beer_abv>6%</beer_abv>
+    <beer_volume>500 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Romania</brewery_country>
+    <untappd_id>6598489</untappd_id>
+  </item>
+  <item>
     <id>6581011</id>
     <ecommerce_id>824777416</ecommerce_id>
     <title>You Won’t Believe It’s Not Crumble!</title>
@@ -7416,6 +7480,6 @@
     <date_canned>2025-03-18</date_canned>
     <untappd_id>3898085</untappd_id>
   </item>
-  <timestamp>1774560605</timestamp>
-  <gen_date>26/03/2026 22:30:05</gen_date>
+  <timestamp>1774611283</timestamp>
+  <gen_date>27/03/2026 12:34:43</gen_date>
 </feed>
