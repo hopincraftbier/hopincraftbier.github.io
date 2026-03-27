@@ -6327,7 +6327,7 @@
     <brewery_name>Willibald Farm Brewery</brewery_name>
     <price>7.95</price>
     <regular_price>10,60</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4933243774.png</image>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/751543259/4933243774.png</image>
     <beer_description>Double IPA with Simcoe, Sabro, and El Dorado. Willibald Farm Brewery - Prickle Kitty</beer_description>
     <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
     <beer_abv>8.3%</beer_abv>
@@ -7480,6 +7480,6 @@
     <date_canned>2025-03-18</date_canned>
     <untappd_id>3898085</untappd_id>
   </item>
-  <timestamp>1774611283</timestamp>
-  <gen_date>27/03/2026 12:34:43</gen_date>
+  <timestamp>1774613705</timestamp>
+  <gen_date>27/03/2026 13:15:05</gen_date>
 </feed>
