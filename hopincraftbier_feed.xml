@@ -7035,7 +7035,7 @@
     <brewery_name>Alefarm Brewing</brewery_name>
     <price>3.51</price>
     <regular_price>7.01</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4840926929.png</image>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/738467167/4840926929.png</image>
     <beer_description>DIPA with Mosaic BBC and Amarillo BBC.</beer_description>
     <beer_style>IPA - Imperial / Double</beer_style>
     <beer_abv>8%</beer_abv>
@@ -7212,7 +7212,7 @@
     <brewery_name>Hudson Valley Brewery</brewery_name>
     <price>7.7</price>
     <regular_price>10.26</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5476644528.png</image>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/735435724/5476644528.png</image>
     <beer_description>Sour IPA with raw wheat, malted oat, milk sugar, mango purée and vanilla beans. -</beer_description>
     <beer_style>IPA - Sour</beer_style>
     <beer_abv>6%</beer_abv>
@@ -7416,6 +7416,6 @@
     <date_canned>2025-03-18</date_canned>
     <untappd_id>3898085</untappd_id>
   </item>
-  <timestamp>1774689306</timestamp>
-  <gen_date>28/03/2026 10:15:06</gen_date>
+  <timestamp>1774694706</timestamp>
+  <gen_date>28/03/2026 11:45:06</gen_date>
 </feed>
