@@ -419,24 +419,6 @@
     <untappd_id>6576351</untappd_id>
   </item>
   <item>
-    <id>6505603</id>
-    <ecommerce_id>818297256</ecommerce_id>
-    <title>Quatrième Dimension</title>
-    <url>https://hopincraftbier.be/products/fauve-quatrieme-dimension</url>
-    <brewery_name>Fauve</brewery_name>
-    <price>7.62</price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/818297256/5606057716.png</image>
-    <beer_description>Buckle up... Here's our very first Quadruple NEIPA DDH! We've literally pushed the boundaries of hoppy beers with this hazy &amp; juicy monster saturated with Mosaic, Simcoe, Strata, and Nectaron. Powered by a malty base rich in wheat and oats, it explodes with tropical and stone fruit notes you love, with a dank, resinous finish. So if you love hops, trust us, you won't be disappointed! Fauve - Quatrieme Dimension</beer_description>
-    <beer_style>IPA - Quadruple</beer_style>
-    <beer_abv>12%</beer_abv>
-    <beer_volume>440 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>France</brewery_country>
-    <date_best_before>2026-09-06</date_best_before>
-    <date_canned>2025-12-05</date_canned>
-    <untappd_id>6505603</untappd_id>
-  </item>
-  <item>
     <id>6577278</id>
     <ecommerce_id>818297255</ecommerce_id>
     <title>Ivoire Sombre</title>
@@ -2159,23 +2141,6 @@
     <untappd_id>6574785</untappd_id>
   </item>
   <item>
-    <id>6563033</id>
-    <ecommerce_id>804575234</ecommerce_id>
-    <title>Whistling Nothing</title>
-    <url>https://hopincraftbier.be/products/hoppy-people-804575234</url>
-    <brewery_name>Hoppy People</brewery_name>
-    <price>7.32</price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5481624066.png</image>
-    <beer_description>Dry hopped with HBC 630, Audacia, Ekuanot, El Dorado and Simcoe. canned 21.01.2026</beer_description>
-    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
-    <beer_abv>7.6%</beer_abv>
-    <beer_volume>440 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Switzerland</brewery_country>
-    <date_best_before>2026-09-21</date_best_before>
-    <untappd_id>6563033</untappd_id>
-  </item>
-  <item>
     <id>959</id>
     <ecommerce_id>804410827</ecommerce_id>
     <title>Mortalis Brewing Company Triplet</title>
@@ -2697,23 +2662,6 @@
     <brewery_country>Canada</brewery_country>
     <date_canned>2025-12-09</date_canned>
     <untappd_id>6497918</untappd_id>
-  </item>
-  <item>
-    <id>6479992</id>
-    <ecommerce_id>798975559</ecommerce_id>
-    <title>Straight Jacket (2025)</title>
-    <url>https://hopincraftbier.be/products/revolution-straight-jacket-2025</url>
-    <brewery_name>Revolution Brewing</brewery_name>
-    <price>11.76</price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5409426870.png</image>
-    <beer_description>The soul of Barleywine channeled through vivifying bourbon barrels and blended with an alchemist's touch. Summon notes of caramel, stone fruit, brown sugar, and vanilla with each generous swirl. Revolution Brewing - Straight Jacket (2025)</beer_description>
-    <beer_style>Barleywine - English</beer_style>
-    <beer_abv>15%</beer_abv>
-    <beer_volume>355 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>United States</brewery_country>
-    <date_canned>2025-10-28</date_canned>
-    <untappd_id>6479992</untappd_id>
   </item>
   <item>
     <id>6480717</id>
@@ -4989,24 +4937,6 @@
     <untappd_id>4969423</untappd_id>
   </item>
   <item>
-    <id>6332895</id>
-    <ecommerce_id>768807105</ecommerce_id>
-    <title>The Don</title>
-    <url>https://hopincraftbier.be/products/verdant-the-don</url>
-    <brewery_name>Verdant Brewing Co</brewery_name>
-    <price>8.02</price>
-    <regular_price>10,69</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5062293847.webp</image>
-    <beer_description>THE DON. 30g/l dry hop. This is it. This is it turned up to 11. This is peak Citra and Galaxy. Gigantic in every way. Verdant Brewing Co - The Don</beer_description>
-    <beer_style>IPA - Triple New England / Hazy</beer_style>
-    <beer_abv>10%</beer_abv>
-    <beer_volume>440 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>England</brewery_country>
-    <date_best_before>2026-01-05</date_best_before>
-    <untappd_id>6332895</untappd_id>
-  </item>
-  <item>
     <id>6271344</id>
     <ecommerce_id>768809793</ecommerce_id>
     <title>Flux: Phase 3</title>
@@ -6743,24 +6673,6 @@
     <untappd_id>6262557</untappd_id>
   </item>
   <item>
-    <id>6228775</id>
-    <ecommerce_id>751537012</ecommerce_id>
-    <title>Chemistry</title>
-    <url>https://hopincraftbier.be/products/all-my-friends-chemistry</url>
-    <brewery_name>All My Friends Beer Co.</brewery_name>
-    <price>7.54</price>
-    <regular_price>10,05</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5475139804.png</image>
-    <beer_description>Citra, Motueka, Rakau, Terpenes - Collab with BAOS Podcast All My Friends Beer Co. - Chemistry</beer_description>
-    <beer_style>IPA - New England / Hazy</beer_style>
-    <beer_abv>6.5%</beer_abv>
-    <beer_volume>473 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Canada</brewery_country>
-    <date_canned>2025-04-14</date_canned>
-    <untappd_id>6228775</untappd_id>
-  </item>
-  <item>
     <id>6244270</id>
     <ecommerce_id>751529268</ecommerce_id>
     <title>Sensescape (2025)</title>
@@ -6811,24 +6723,6 @@
     <brewery_country>United States</brewery_country>
     <date_canned>2025-04-22</date_canned>
     <untappd_id>6241102</untappd_id>
-  </item>
-  <item>
-    <id>3123821</id>
-    <ecommerce_id>751529266</ecommerce_id>
-    <title>Bank Hotel</title>
-    <url>https://hopincraftbier.be/products/brasserie-du-bas-canada-bank-hotel</url>
-    <brewery_name>Brasserie du Bas-Canada</brewery_name>
-    <price>7.79</price>
-    <regular_price>10,39</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4929268877.png</image>
-    <beer_description>India Pale Ale aux houblons Sabro &amp; Citra Brasserie du Bas-Canada - Bank Hotel</beer_description>
-    <beer_style>IPA - American</beer_style>
-    <beer_abv>7.1%</beer_abv>
-    <beer_volume>473 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Canada</brewery_country>
-    <date_canned>2025-04-30</date_canned>
-    <untappd_id>3123821</untappd_id>
   </item>
   <item>
     <id>6224263</id>
@@ -7294,24 +7188,6 @@
     <untappd_id>6186139</untappd_id>
   </item>
   <item>
-    <id>4980154</id>
-    <ecommerce_id>735435927</ecommerce_id>
-    <title>Turbulent Flow</title>
-    <url>https://hopincraftbier.be/products/spyglass-turbulent-flow</url>
-    <brewery_name>Spyglass Brewing Company</brewery_name>
-    <price>8.98</price>
-    <regular_price>11.97</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4842403234.png</image>
-    <beer_description>A New England style Double IPA hopped with Citra and Rakau hops. -</beer_description>
-    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
-    <beer_abv>8.3%</beer_abv>
-    <beer_volume>473 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>United States</brewery_country>
-    <date_canned>2025-04-07</date_canned>
-    <untappd_id>4980154</untappd_id>
-  </item>
-  <item>
     <id>4485711</id>
     <ecommerce_id>734051352</ecommerce_id>
     <title>Window of Opportunity</title>
@@ -7364,24 +7240,6 @@
     <untappd_id>6186985</untappd_id>
   </item>
   <item>
-    <id>6207626</id>
-    <ecommerce_id>734050894</ecommerce_id>
-    <title>Wet When Slippery (Pineapple &amp; Mango)</title>
-    <url>https://hopincraftbier.be/products/hoof-hearted-wet-when-slippery-pineapple--mango</url>
-    <brewery_name>Hoof Hearted Brewing</brewery_name>
-    <price>8.21</price>
-    <regular_price>10.94</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4953184905.webp</image>
-    <beer_description>Wet When Slippery DIPA with Pineapple &amp; Mango. -</beer_description>
-    <beer_style>IPA - Imperial / Double</beer_style>
-    <beer_abv>9%</beer_abv>
-    <beer_volume>473 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>United States</brewery_country>
-    <date_canned>2025-03-25</date_canned>
-    <untappd_id>6207626</untappd_id>
-  </item>
-  <item>
     <id>5263247</id>
     <ecommerce_id>734051123</ecommerce_id>
     <title>Cosmic Proportions</title>
@@ -7416,6 +7274,6 @@
     <date_canned>2025-03-18</date_canned>
     <untappd_id>3898085</untappd_id>
   </item>
-  <timestamp>1774694706</timestamp>
-  <gen_date>28/03/2026 11:45:06</gen_date>
+  <timestamp>1774792806</timestamp>
+  <gen_date>29/03/2026 16:00:06</gen_date>
 </feed>
