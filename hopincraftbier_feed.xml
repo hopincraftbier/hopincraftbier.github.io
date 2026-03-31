@@ -5,6 +5,23 @@
   <link>https://hopincraftbier.be/products&lt;/link&gt;</link>
   <description>Hop In Craftbier Products feed</description>
   <item>
+    <id>6178075</id>
+    <ecommerce_id>826381626</ecommerce_id>
+    <title>TDH Riwaka X Galaxy DIPA</title>
+    <url>https://hopincraftbier.be/products/arpus-brewing-co-tdh-riwaka-x-galaxy-dipa</url>
+    <brewery_name>Ārpus Brewing Co.</brewery_name>
+    <price>4.51</price>
+    <regular_price>6.01</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/826381626/5681725308.png</image>
+    <beer_description>Hazy Double IPA hopped with Riwaka and Galaxy -</beer_description>
+    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
+    <beer_abv>8%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Latvia</brewery_country>
+    <date_best_before>2026-02-28</date_best_before>
+  </item>
+  <item>
     <id>6611811</id>
     <ecommerce_id>825522358</ecommerce_id>
     <title>Good Morning Pineapple (Looking Very Good, Very Nice)</title>
@@ -207,26 +224,6 @@
     <untappd_id>6478604</untappd_id>
   </item>
   <item>
-    <id>9000000023</id>
-    <ecommerce_id>820762821</ecommerce_id>
-    <title>White Dog Brewery - White Dog Pair #2</title>
-    <url>https://hopincraftbier.be/products/white-dog-brewery-pair-820762821</url>
-    <brewery_name>White Dog Brewery</brewery_name>
-    <price>14.02</price>
-    <regular_price>14.76</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/820762821/5629332410.png</image>
-    <beer_description>The White Dog Brewery - Pair contains: - Cookie &amp; CreamStout - Imperial / Pastry | 11% | 440 ml - Rocky Road (2026)Stout - Imperial / Pastry | 11% | 440 ml</beer_description>
-    <beer_style>Stout</beer_style>
-    <beer_abv>11%</beer_abv>
-    <beer_volume>2x440 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>The Netherlands</brewery_country>
-    <date_best_before>2028-02-01</date_best_before>
-    <beer_package_count>2</beer_package_count>
-    <beer_bundle>1</beer_bundle>
-    <bundle_skus>6584854,6584852</bundle_skus>
-  </item>
-  <item>
     <id>6609444</id>
     <ecommerce_id>819855932</ecommerce_id>
     <title>PuTTTy (2026)</title>
@@ -262,83 +259,6 @@
     <date_best_before>2026-08-13</date_best_before>
     <date_canned>2026-02-11</date_canned>
     <untappd_id>6606993</untappd_id>
-  </item>
-  <item>
-    <id>9000000001</id>
-    <ecommerce_id>818795001</ecommerce_id>
-    <title>Maktoob Brewing - Pair</title>
-    <url>https://hopincraftbier.be/products/maktoob-brewing-pair</url>
-    <brewery_name>Maktoob Brewing</brewery_name>
-    <price>13.01</price>
-    <regular_price>13.7</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/818795001/5609681288.png</image>
-    <beer_description>The Maktoob Brewing - Pair contains: - Abduction In the DesertIPA - Imperial / Double | 8% | 440 ml - Double Happiness : Earth RoosterIPA - Imperial / Double New England / Hazy | 8% | 440 ml</beer_description>
-    <beer_style>IPA</beer_style>
-    <beer_abv>8%</beer_abv>
-    <beer_volume>2x440 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Romania</brewery_country>
-    <beer_package_count>2</beer_package_count>
-    <beer_bundle>1</beer_bundle>
-    <bundle_skus>6567898,6570662</bundle_skus>
-  </item>
-  <item>
-    <id>9000000019</id>
-    <ecommerce_id>818577955</ecommerce_id>
-    <title>Mogwaï Beer Company - Mogwaï Quartet</title>
-    <url>https://hopincraftbier.be/products/mogwai-beer-company-mogwai-quartet</url>
-    <brewery_name>Mogwaï Beer Company</brewery_name>
-    <price>24.59</price>
-    <regular_price>25.88</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/818577955/5608387127.png</image>
-    <beer_description>The Mogwaï Beer Company - Mogwaï Quartet contains: - Mogwaï Beer Company - Yes But Not TodayIPA - New England / Hazy | 6% | 440 ml - Mogwaï Beer Company - Pretty Stable ChaosIPA - Brown | 7,3% | 440 ml - Mogwaï Beer Company - Sauce Du Chef Series - Pinch of TabascoIPA - Imperial / Double New England / Hazy | 8,7% | 440 ml - Independent Beer Company - Cronos And the Infinite HoppinessIPA - Imperial / Double | 9% | 440 ml</beer_description>
-    <beer_style>IPA</beer_style>
-    <beer_abv>6 - 9%</beer_abv>
-    <beer_volume>4x440 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>France</brewery_country>
-    <beer_package_count>4</beer_package_count>
-    <beer_bundle>1</beer_bundle>
-    <bundle_skus>6598385,6543423,6573966,6577155</bundle_skus>
-  </item>
-  <item>
-    <id>9000000010</id>
-    <ecommerce_id>818579162</ecommerce_id>
-    <title>Outer Range Brewing Co. - Outer Range 2 Quintet</title>
-    <url>https://hopincraftbier.be/products/outer-range-brewing-co-quintet-818579162</url>
-    <brewery_name>Outer Range Brewing Co.</brewery_name>
-    <price>32.55</price>
-    <regular_price>34.26</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/818579162/5608354864.png</image>
-    <beer_description>The Outer Range Brewing Co. - Quintet contains: - Liquid KrushIPA - New England / Hazy | 6,7% | 440 ml - Superdelic SignalIPA - New England / Hazy | 7% | 440 ml - Pillow StacksIPA - Imperial / Double New England / Hazy | 7,6% | 440 ml - Above the NoiseIPA - Imperial / Double New England / Hazy | 9% | 440 ml - Heightened StateStout - Imperial / Double | 14% | 330 ml</beer_description>
-    <beer_style>Stout - IPA</beer_style>
-    <beer_abv>6 - 14%</beer_abv>
-    <beer_volume>Mix</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>France</brewery_country>
-    <beer_package_count>5</beer_package_count>
-    <beer_bundle>1</beer_bundle>
-    <bundle_skus>6552592,6590688,2565726,6505755,3948646</bundle_skus>
-  </item>
-  <item>
-    <id>9000000008</id>
-    <ecommerce_id>818571292</ecommerce_id>
-    <title>Outer Range Brewing Co. - Outer Range Quintet</title>
-    <url>https://hopincraftbier.be/products/outer-range-brewing-co-quintet</url>
-    <brewery_name>Outer Range Brewing Co.</brewery_name>
-    <price>29.1</price>
-    <regular_price>36.04</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/818571292/5608146676.png</image>
-    <beer_description>The Outer Range Brewing Co. - Quintet contains: - CruxIPA - American | 6,5% | 440 ml - In the Steep HyperBoostIPA - New England / Hazy | 6,7% | 440 ml - BelayIPA - New England / Hazy | 7,2% | 440 ml - Buck YeahIPA - New England / Hazy | 7,2% | 440 ml - Out of the WoodsIPA - Imperial / Double New England / Hazy | 7,5% | 440 ml</beer_description>
-    <beer_style>IPA</beer_style>
-    <beer_abv>6 - 7%</beer_abv>
-    <beer_volume>5x440 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>France</brewery_country>
-    <date_best_before>2026-04-21</date_best_before>
-    <beer_package_count>5</beer_package_count>
-    <beer_bundle>1</beer_bundle>
-    <bundle_skus>6296412,6282604,3338694,4953869,4367493</bundle_skus>
   </item>
   <item>
     <id>6576351</id>
@@ -413,87 +333,6 @@
     <untappd_id>6533907</untappd_id>
   </item>
   <item>
-    <id>9000000007</id>
-    <ecommerce_id>817728949</ecommerce_id>
-    <title>The Piggy Brewing Company - Piggy Brewing Quintet</title>
-    <url>https://hopincraftbier.be/products/the-piggy-brewing-company-quintet</url>
-    <brewery_name>The Piggy Brewing Company</brewery_name>
-    <price>32.06</price>
-    <regular_price>33.75</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/817728949/5599607431.png</image>
-    <beer_description>The The Piggy Brewing Company - Quintet contains: - West Coast PatrolIPA - American | 5,6% | 440 ml - Hop GeminiIPA - Imperial / Double New England / Hazy | 8% | 440 ml - Don JefeIPA - Imperial / Double New England / Hazy | 8% | 440 ml - Lacrima de Oro (2026)IPA - Triple New England / Hazy | 9,5% | 440 ml - MuvukaStout - Imperial / Double | 12% | 330 ml</beer_description>
-    <beer_style>Stout - IPA</beer_style>
-    <beer_abv>5 - 12%</beer_abv>
-    <beer_volume>Mix</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>France</brewery_country>
-    <date_best_before>2026-09-01</date_best_before>
-    <beer_package_count>5</beer_package_count>
-    <beer_bundle>1</beer_bundle>
-    <bundle_skus>6552171,6522822,6513775,3956966,6560471</bundle_skus>
-  </item>
-  <item>
-    <id>9000000009</id>
-    <ecommerce_id>817764511</ecommerce_id>
-    <title>Polly's Brew Co. - Polly's 8th Birthday Triplet</title>
-    <url>https://hopincraftbier.be/products/pollys-brew-co-pollys-8th-birthday-triplet</url>
-    <brewery_name>Polly's Brew Co.</brewery_name>
-    <price>20.56</price>
-    <regular_price>21.64</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/817764511/5599600827.png</image>
-    <beer_description>The Polly's Brew Co. - Triplet contains: - 8th Birthday - India Pale AleIPA - English | 6,5% | 440 ml - 8th Birthday - Double India Pale AleIPA - Imperial / Double | 8,2% | 440 ml - 8th Birthday - Danish Pastry Imperial StoutStout - Imperial / Double Pastry | 11% | 440 ml</beer_description>
-    <beer_style>Stout - IPA</beer_style>
-    <beer_abv>6 - 11%</beer_abv>
-    <beer_volume>3x440 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Wales</brewery_country>
-    <date_best_before>2026-10-09</date_best_before>
-    <beer_package_count>3</beer_package_count>
-    <beer_bundle>1</beer_bundle>
-    <bundle_skus>6577350,6577359,6577343</bundle_skus>
-  </item>
-  <item>
-    <id>9000000006</id>
-    <ecommerce_id>817736922</ecommerce_id>
-    <title>Hopalaa - Hopalaa Triplet</title>
-    <url>https://hopincraftbier.be/products/hopalaa-hopalaa-triplet</url>
-    <brewery_name>Hopalaa</brewery_name>
-    <price>16.49</price>
-    <regular_price>17.36</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/817736922/5599579946.png</image>
-    <beer_description>The Hopalaa - Triplet contains: - JUNGALAAIPA - Imperial / Double New England / Hazy | 8% | 440 ml - TURBULENCEIPA - Imperial / Double New England / Hazy | 8% | 440 ml - DOUBLE PASSIONIPA - Imperial / Double New England / Hazy | 8,2% | 440 ml</beer_description>
-    <beer_style>IPA</beer_style>
-    <beer_abv>8%</beer_abv>
-    <beer_volume>3x440 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Latvia</brewery_country>
-    <date_best_before>2026-11-15</date_best_before>
-    <beer_package_count>3</beer_package_count>
-    <beer_bundle>1</beer_bundle>
-    <bundle_skus>6560695,6527510,6446971</bundle_skus>
-  </item>
-  <item>
-    <id>9000000005</id>
-    <ecommerce_id>817736900</ecommerce_id>
-    <title>Factory Brewing - Factory Brewing Anniversary Quartet</title>
-    <url>https://hopincraftbier.be/products/factory-brewing-quartet-817736900</url>
-    <brewery_name>Factory Brewing</brewery_name>
-    <price>28.66</price>
-    <regular_price>30.17</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/817736900/5599576619.png</image>
-    <beer_description>The Factory Brewing - Quartet contains: - Distant ClosenessIPA - New England / Hazy | 7,3% | 440 ml - Turbid DreamsIPA - Imperial / Double New England / Hazy | 8,0% | 440 ml - Perpetual MotionIPA - Triple New England / Hazy | 10,0% | 440 ml - Eye OpenerStout - Pastry | 12,0% | 440 ml</beer_description>
-    <beer_style>Stout - IPA</beer_style>
-    <beer_abv>7 - 12%</beer_abv>
-    <beer_volume>4x440 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Finland</brewery_country>
-    <date_best_before>2026-11-01</date_best_before>
-    <date_canned>2026-01-22</date_canned>
-    <beer_package_count>4</beer_package_count>
-    <beer_bundle>1</beer_bundle>
-    <bundle_skus>6574797,6574785,6574782,6574780</bundle_skus>
-  </item>
-  <item>
     <id>6598385</id>
     <ecommerce_id>816187536</ecommerce_id>
     <title>Yes But Not Today</title>
@@ -561,88 +400,6 @@
     <date_best_before>2027-01-20</date_best_before>
     <date_canned>2026-01-20</date_canned>
     <untappd_id>6577155</untappd_id>
-  </item>
-  <item>
-    <id>9000000020</id>
-    <ecommerce_id>816172034</ecommerce_id>
-    <title>Fauve - Quintet</title>
-    <url>https://hopincraftbier.be/products/fauve-quintet</url>
-    <brewery_name>Fauve</brewery_name>
-    <price>31.89</price>
-    <regular_price>37.52</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/816172034/5584351136.png</image>
-    <beer_description>The Fauve - Quintet contains: - Roulez JeunesseIPA - American | 6,3% | 440 ml - J'irai Où Tu IrasIPA - New England / Hazy | 6,5% | 440 ml - Renaître De Ses CendresIPA - Imperial / Double New England / Hazy | 8% | 440 ml - Chambre NoireStout - Imperial / Double | 12% | 330 ml - Révélateur D'OmbresStout - Imperial / Double | 12% | 330 ml</beer_description>
-    <beer_style>Stout - IPA</beer_style>
-    <beer_abv>6 - 12%</beer_abv>
-    <beer_volume>Mix</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>France</brewery_country>
-    <date_best_before>2026-04-03</date_best_before>
-    <beer_package_count>5</beer_package_count>
-    <beer_bundle>1</beer_bundle>
-    <bundle_skus>6375119,6343725,6292774,6314891,6314901</bundle_skus>
-  </item>
-  <item>
-    <id>19</id>
-    <ecommerce_id>816032762</ecommerce_id>
-    <title>Emporium Microbrasserie - Pair</title>
-    <url>https://hopincraftbier.be/products/emporium-microbrasserie-pair</url>
-    <brewery_name>Emporium Microbrasserie</brewery_name>
-    <price>15.65</price>
-    <regular_price>20.86</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/816032762/5582886624.png</image>
-    <beer_description>The Emporium Microbrasserie - Pair contains: - CouleIPA - New England / Hazy | 7% | 473 ml - InfinitoIPA - New England / Hazy | 7% | 473 ml</beer_description>
-    <beer_style>IPA</beer_style>
-    <beer_abv>7%</beer_abv>
-    <beer_volume>2x473 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Canada</brewery_country>
-    <date_canned>2025-03-26</date_canned>
-    <beer_package_count>2</beer_package_count>
-    <beer_bundle>1</beer_bundle>
-    <bundle_skus>6189429,6015336</bundle_skus>
-  </item>
-  <item>
-    <id>9000000018</id>
-    <ecommerce_id>816011852</ecommerce_id>
-    <title>Beak - Pair</title>
-    <url>https://hopincraftbier.be/products/beak-pair</url>
-    <brewery_name>Beak</brewery_name>
-    <price>13.88</price>
-    <regular_price>18.5</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/816011852/5582877756.png</image>
-    <beer_description>The Beak - Pair contains: - ParadeIPA - New England / Hazy | 6% | 440 ml - CannaIPA - Imperial / Double New England / Hazy | 8% | 440 ml</beer_description>
-    <beer_style>IPA</beer_style>
-    <beer_abv>6 - 8%</beer_abv>
-    <beer_volume>2x440 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>England</brewery_country>
-    <date_best_before>2026-03-02</date_best_before>
-    <date_canned>2025-09-03</date_canned>
-    <beer_package_count>2</beer_package_count>
-    <beer_bundle>1</beer_bundle>
-    <bundle_skus>3820116,6406071</bundle_skus>
-  </item>
-  <item>
-    <id>9000000017</id>
-    <ecommerce_id>816016081</ecommerce_id>
-    <title>Rivington Brewing Co - Pair</title>
-    <url>https://hopincraftbier.be/products/rivington-brewing-co-pair</url>
-    <brewery_name>Rivington Brewing Co</brewery_name>
-    <price>13.34</price>
-    <regular_price>17.79</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/816016081/5582854649.png</image>
-    <beer_description>The Rivington Brewing Co - Pair contains: - Dead AliveIPA - Imperial / Double | 8% | 500 ml - West To the SandIPA - Imperial / Double | 8% | 500 ml</beer_description>
-    <beer_style>IPA</beer_style>
-    <beer_abv>8%</beer_abv>
-    <beer_volume>2x500 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>England</brewery_country>
-    <date_best_before>2026-02-21</date_best_before>
-    <date_canned>2025-08-21</date_canned>
-    <beer_package_count>2</beer_package_count>
-    <beer_bundle>1</beer_bundle>
-    <bundle_skus>6365889,6421716</bundle_skus>
   </item>
   <item>
     <id>6606459</id>
@@ -950,23 +707,93 @@
     <untappd_id>6580748</untappd_id>
   </item>
   <item>
-    <id>939</id>
-    <ecommerce_id>811899518</ecommerce_id>
-    <title>Prizm Brewing Co. Pack</title>
-    <url>https://hopincraftbier.be/products/prizm-brewing-co-pack</url>
-    <brewery_name>Prizm Brewing Co.</brewery_name>
-    <price>26.95</price>
-    <regular_price>28.37</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/811899518/5551624314.png</image>
-    <beer_description>The Prizm Brewing Co. Pack contains: - More PressureSour - Smoothie / Pastry | 6% | 440 ml - IUPACIPA - New England / Hazy | 6% | 440 ml - Please The CrowdsIPA - Imperial / Double New England / Hazy | 8% | 440 ml - Sunken ShipIPA - Triple New England / Hazy | 9% | 440 ml</beer_description>
-    <beer_style>IPA - Sour</beer_style>
-    <beer_abv>6 - 9%</beer_abv>
-    <beer_volume>4x440 ml</beer_volume>
+    <id>6208805</id>
+    <ecommerce_id>812141516</ecommerce_id>
+    <title>Thistle Dew</title>
+    <url>https://hopincraftbier.be/products/wood-brothers-thistle-dew</url>
+    <brewery_name>Wood Brothers Brewing Co.</brewery_name>
+    <price>10.05</price>
+    <regular_price>10.05</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/812141516/5552896126.png</image>
+    <beer_description>West coast IPA. Cascade, Centennial ans Simcoe hops. - Wood Brothers Brewing Co. - Thistle Dew</beer_description>
+    <beer_style>IPA - American</beer_style>
+    <beer_abv>7.5%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
     <beer_package>can</beer_package>
-    <brewery_country>France</brewery_country>
-    <beer_package_count>4</beer_package_count>
-    <beer_bundle>1</beer_bundle>
-    <bundle_skus>6489634,6489573,6569053,6569059</bundle_skus>
+    <brewery_country>Canada</brewery_country>
+    <untappd_id>6208805</untappd_id>
+  </item>
+  <item>
+    <id>4570140</id>
+    <ecommerce_id>812141515</ecommerce_id>
+    <title>Blind Fog</title>
+    <url>https://hopincraftbier.be/products/wood-brothers-blind-fog</url>
+    <brewery_name>Wood Brothers Brewing Co.</brewery_name>
+    <price>11.62</price>
+    <regular_price>11.62</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/812141515/5552911284.png</image>
+    <beer_description>Brewed with Citra, Citra Incognito and Galaxy hops. -</beer_description>
+    <beer_style>IPA - Triple New England / Hazy</beer_style>
+    <beer_abv>9%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Canada</brewery_country>
+    <date_canned>2025-04-02</date_canned>
+    <untappd_id>4570140</untappd_id>
+  </item>
+  <item>
+    <id>6205524</id>
+    <ecommerce_id>812145282</ecommerce_id>
+    <title>Neca-Tron (2025)</title>
+    <url>https://hopincraftbier.be/products/wood-brothers-neca-tron-2025</url>
+    <brewery_name>Wood Brothers Brewing Co.</brewery_name>
+    <price>10.39</price>
+    <regular_price>10.39</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/812145282/5552896132.png</image>
+    <beer_description>Brewed with Nectaron and Riwaka -</beer_description>
+    <beer_style>IPA - New England / Hazy</beer_style>
+    <beer_abv>6.5%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Canada</brewery_country>
+    <date_canned>2025-03-26</date_canned>
+    <untappd_id>6205524</untappd_id>
+  </item>
+  <item>
+    <id>4033335</id>
+    <ecommerce_id>812141512</ecommerce_id>
+    <title>Holy Hazel</title>
+    <url>https://hopincraftbier.be/products/wood-brothers-holy-hazel</url>
+    <brewery_name>Wood Brothers Brewing Co.</brewery_name>
+    <price>11.28</price>
+    <regular_price>11.28</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/812141512/5552911290.png</image>
+    <beer_description>DIPA brewed with Citra, Motueka &amp; Nelson Sauvin hops -</beer_description>
+    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
+    <beer_abv>8%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Canada</brewery_country>
+    <date_canned>2025-04-02</date_canned>
+    <untappd_id>4033335</untappd_id>
+  </item>
+  <item>
+    <id>6102160</id>
+    <ecommerce_id>812141502</ecommerce_id>
+    <title>Hipodèrmia</title>
+    <url>https://hopincraftbier.be/products/menno-olivier-hipodermia</url>
+    <brewery_name>Menno Olivier Brewing</brewery_name>
+    <price>7.5</price>
+    <regular_price>7.5</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/812141502/5552850032.png</image>
+    <beer_description>Coffee imperial Stout Bourbon barrel aged -</beer_description>
+    <beer_style>Stout - Imperial / Double Coffee</beer_style>
+    <beer_abv>10.5%</beer_abv>
+    <beer_volume>330 ml</beer_volume>
+    <beer_package>bottle</beer_package>
+    <brewery_country>Spain</brewery_country>
+    <date_best_before>2029-07-10</date_best_before>
+    <untappd_id>6102160</untappd_id>
   </item>
   <item>
     <id>6489573</id>
@@ -1494,26 +1321,6 @@
     <untappd_id>6577343</untappd_id>
   </item>
   <item>
-    <id>940</id>
-    <ecommerce_id>806954618</ecommerce_id>
-    <title>Norm Brewing Quartet</title>
-    <url>https://hopincraftbier.be/products/norm-brewing-quartet</url>
-    <brewery_name>Norm Brewing</brewery_name>
-    <price>22.14</price>
-    <regular_price>23.31</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5504773364.png</image>
-    <beer_description>The Norm Brewing Pack contains: - EclipseIPA - New England / Hazy | 7% | 440 ml - EuphoriaIPA - Imperial / Double New England / Hazy | 8% | 440 ml - Nelson FocusIPA - Imperial / Double New England / Hazy | 8% | 440 ml - Northern LightsIPA - Triple New England / Hazy | 9,5% | 440 ml</beer_description>
-    <beer_style>IPA</beer_style>
-    <beer_abv>7 - 9%</beer_abv>
-    <beer_volume>4x440 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Belgium</brewery_country>
-    <date_best_before>2026-07-01</date_best_before>
-    <beer_package_count>4</beer_package_count>
-    <beer_bundle>1</beer_bundle>
-    <bundle_skus>6491728,6514089,6453136,6491725</bundle_skus>
-  </item>
-  <item>
     <id>3039829</id>
     <ecommerce_id>806411460</ecommerce_id>
     <title>Hydra | Raspberry + Strawberry + Pink Guava</title>
@@ -1648,26 +1455,6 @@
     <untappd_id>6453136</untappd_id>
   </item>
   <item>
-    <id>941</id>
-    <ecommerce_id>806337849</ecommerce_id>
-    <title>Norm Brewing Triplet</title>
-    <url>https://hopincraftbier.be/products/norm-brewing-triplet</url>
-    <brewery_name>Norm Brewing</brewery_name>
-    <price>15.62</price>
-    <regular_price>18.38</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5499873310.png</image>
-    <beer_description>The Norm Brewing Pack contains: - CoastbustersIPA - American | 6,6% | 440 ml - Bouncy RideIPA - Imperial / Double New England / Hazy | 8% | 440 ml - PolyghostIPA - Triple New England / Hazy | 9,2% | 440 ml</beer_description>
-    <beer_style>IPA</beer_style>
-    <beer_abv>6 - 9%</beer_abv>
-    <beer_volume>3x440 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Belgium</brewery_country>
-    <date_best_before>2026-05-01</date_best_before>
-    <beer_package_count>3</beer_package_count>
-    <beer_bundle>1</beer_bundle>
-    <bundle_skus>6384350,6384345,6384339</bundle_skus>
-  </item>
-  <item>
     <id>6590688</id>
     <ecommerce_id>806355016</ecommerce_id>
     <title>Superdelic Signal</title>
@@ -1754,148 +1541,6 @@
     <untappd_id>2565726</untappd_id>
   </item>
   <item>
-    <id>942</id>
-    <ecommerce_id>806047375</ecommerce_id>
-    <title>Fine Balance Brewing Triplet</title>
-    <url>https://hopincraftbier.be/products/fine-balance-brewing-triplet</url>
-    <brewery_name>Fine Balance Brewing</brewery_name>
-    <price>25.31</price>
-    <regular_price>31.64</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5497679447.png</image>
-    <beer_description>The Fine Balance Brewing Pack contains: - Nelson &amp; CreamIPA - New England / Hazy | 6,5% | 473 ml - Double Nelson &amp; CreamIPA - Imperial / Double New England / Hazy | 8% | 473 ml - Triple Nelson &amp; CreamIPA - Triple New England / Hazy | 10% | 473 ml</beer_description>
-    <beer_style>IPA</beer_style>
-    <beer_abv>6 - 10%</beer_abv>
-    <beer_volume>3x473 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Canada</brewery_country>
-    <date_canned>2025-07-01</date_canned>
-    <beer_package_count>3</beer_package_count>
-    <beer_bundle>1</beer_bundle>
-    <bundle_skus>6350229,6350233,6346854</bundle_skus>
-  </item>
-  <item>
-    <id>945</id>
-    <ecommerce_id>805789032</ecommerce_id>
-    <title>Stigbergets Bryggeri Triplet</title>
-    <url>https://hopincraftbier.be/products/stigbergets-bryggeri-triplet</url>
-    <brewery_name>Stigbergets Bryggeri</brewery_name>
-    <price>21.45</price>
-    <regular_price>25.23</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5496319627.png</image>
-    <beer_description>The Stigbergets Bryggeri Pack contains: - MEGA MUFFINIPA - New England / Hazy | 7,5% | 440 ml - EL CAPITANOIPA - Imperial / Double New England / Hazy | 8,3% | 440 ml - TOP PICKStout - Russian Imperial | 15% | 440 ml</beer_description>
-    <beer_style>Stout - IPA</beer_style>
-    <beer_abv>7 - 15%</beer_abv>
-    <beer_volume>3x440 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Sweden</brewery_country>
-    <date_best_before>2026-05-22</date_best_before>
-    <beer_package_count>3</beer_package_count>
-    <beer_bundle>1</beer_bundle>
-    <bundle_skus>5894573,6016175,6187809</bundle_skus>
-  </item>
-  <item>
-    <id>947</id>
-    <ecommerce_id>805761110</ecommerce_id>
-    <title>Revenant Brewing Project Triplet</title>
-    <url>https://hopincraftbier.be/products/revenant-brewing-project-triplet</url>
-    <brewery_name>Revenant Brewing Project</brewery_name>
-    <price>15.78</price>
-    <regular_price>18.57</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5496112481.png</image>
-    <beer_description>The Revenant Brewing Project Pack contains: - WeightlessIPA - New England / Hazy | 6,8% | 440 ml - LingerIPA - New England / Hazy | 7% | 440 ml - PonderIPA - Triple New England / Hazy | 9,7% | 440 ml</beer_description>
-    <beer_style>IPA</beer_style>
-    <beer_abv>6 - 9%</beer_abv>
-    <beer_volume>3x440 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Finland</brewery_country>
-    <date_best_before>2026-04-01</date_best_before>
-    <beer_package_count>3</beer_package_count>
-    <beer_bundle>1</beer_bundle>
-    <bundle_skus>6341263,6341269,6341271</bundle_skus>
-  </item>
-  <item>
-    <id>948</id>
-    <ecommerce_id>805761100</ecommerce_id>
-    <title>Denmark Triplet</title>
-    <url>https://hopincraftbier.be/products/denmark-triplet</url>
-    <brewery_name>Alefarm Brewing, To Øl</brewery_name>
-    <price>22.76</price>
-    <regular_price>32.24</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5496083193.png</image>
-    <beer_description>The Denmark Pack contains: - Hollow NamesIPA - Imperial / Double | 8% | 440 ml - Tres HekseIPA - Triple New England / Hazy | 10% | 440 ml - Through the Ages: A Concept of Linearity (Bourbon Barrel Coconut 2023 Edition)Stout - Imperial / Double | 11,8% | 375 ml</beer_description>
-    <beer_style>Stout - IPA</beer_style>
-    <beer_abv>8 - 11%</beer_abv>
-    <beer_volume>Mix</beer_volume>
-    <beer_package>mix</beer_package>
-    <brewery_country>Denmark</brewery_country>
-    <date_best_before>2026-01-28</date_best_before>
-    <beer_package_count>3</beer_package_count>
-    <beer_bundle>1</beer_bundle>
-    <bundle_skus>3127108,6342727,5751661</bundle_skus>
-  </item>
-  <item>
-    <id>950</id>
-    <ecommerce_id>805740782</ecommerce_id>
-    <title>KOM Beer Triplet</title>
-    <url>https://hopincraftbier.be/products/kom-beer-triplet</url>
-    <brewery_name>KOM Beer</brewery_name>
-    <price>17.94</price>
-    <regular_price>21.1</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5496026948.png</image>
-    <beer_description>The KOM Beer Pack contains: - DUPONDIPA - Imperial / Double New England / Hazy | 8% | 440 ml - Kome LupulosIPA - Imperial / Double New England / Hazy | 8% | 440 ml - DUPONTIPA - Imperial / Double New England / Hazy | 8% | 440 ml</beer_description>
-    <beer_style>IPA</beer_style>
-    <beer_abv>8%</beer_abv>
-    <beer_volume>3x440 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Spain</brewery_country>
-    <date_best_before>2026-05-26</date_best_before>
-    <date_canned>2025-08-25</date_canned>
-    <beer_package_count>3</beer_package_count>
-    <beer_bundle>1</beer_bundle>
-    <bundle_skus>5605718,6417762,5605713</bundle_skus>
-  </item>
-  <item>
-    <id>951</id>
-    <ecommerce_id>805718612</ecommerce_id>
-    <title>Garage Beer Co. Triplet</title>
-    <url>https://hopincraftbier.be/products/garage-beer-co-triplet</url>
-    <brewery_name>Garage Beer Co.</brewery_name>
-    <price>17.93</price>
-    <regular_price>22.41</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5495975429.png</image>
-    <beer_description>The Garage Beer Co. Pack contains: - Georgia GoldIPA - American | 6,5% | 440 ml - NEEDLESIPA - American | 7% | 440 ml - CROWNSIPA - Imperial / Double | 8,5% | 440 ml</beer_description>
-    <beer_style>IPA</beer_style>
-    <beer_abv>6 - 8%</beer_abv>
-    <beer_volume>3x440 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Spain</brewery_country>
-    <date_canned>2025-07-02</date_canned>
-    <beer_package_count>3</beer_package_count>
-    <beer_bundle>1</beer_bundle>
-    <bundle_skus>6339811,6340747,6337778</bundle_skus>
-  </item>
-  <item>
-    <id>952</id>
-    <ecommerce_id>805723321</ecommerce_id>
-    <title>Spanish Mix Quartet</title>
-    <url>https://hopincraftbier.be/products/spanish-mix-quartet</url>
-    <brewery_name>Garage Beer Co., Menno Olivier Brewing, Oso Brew Co, SOMA Beer</brewery_name>
-    <price>21.09</price>
-    <regular_price>30.13</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5495965201.png</image>
-    <beer_description>The Spanish Mix Pack contains: - 60KG CashmereIPA - New England / Hazy | 6,8% | 440 ml - CROWNSIPA - Imperial / Double | 8,5% | 440 ml - HologramIPA - Triple New England / Hazy | 10% | 440 ml - HipodèrmiaStout - Imperial / Double Coffee | 10,5% | 330 ml</beer_description>
-    <beer_style>Stout - IPA</beer_style>
-    <beer_abv>6 - 10%</beer_abv>
-    <beer_volume>Mix</beer_volume>
-    <beer_package>mix</beer_package>
-    <brewery_country>Spain</brewery_country>
-    <date_best_before>2025-12-19</date_best_before>
-    <date_canned>2025-07-08</date_canned>
-    <beer_package_count>4</beer_package_count>
-    <beer_bundle>1</beer_bundle>
-    <bundle_skus>6172982,6337778,6308971,6102160</bundle_skus>
-  </item>
-  <item>
     <id>6527542</id>
     <ecommerce_id>805525934</ecommerce_id>
     <title>BA Treats Of Strength</title>
@@ -1944,85 +1589,6 @@
     <beer_package>bottle</beer_package>
     <brewery_country>United States</brewery_country>
     <untappd_id>6602321</untappd_id>
-  </item>
-  <item>
-    <id>954</id>
-    <ecommerce_id>804802763</ecommerce_id>
-    <title>Knotted Root Brewing Pair</title>
-    <url>https://hopincraftbier.be/products/knotted-root-brewing-pair</url>
-    <brewery_name>Knotted Root Brewing Company</brewery_name>
-    <price>15.08</price>
-    <regular_price>21.54</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5484692336.png</image>
-    <beer_description>The Knotted Root Brewing Duo contains: - Moist Green OrganicIPA - New England / Hazy | 7,4% | 473 ml - Steak And EggsIPA - Imperial / Double New England / Hazy | 8% | 473 ml</beer_description>
-    <beer_style>IPA</beer_style>
-    <beer_abv>7 - 8%</beer_abv>
-    <beer_volume>2x473 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>United States</brewery_country>
-    <beer_package_count>2</beer_package_count>
-    <beer_bundle>1</beer_bundle>
-    <bundle_skus>4785691,5391734</bundle_skus>
-  </item>
-  <item>
-    <id>955</id>
-    <ecommerce_id>804804253</ecommerce_id>
-    <title>Parish Brewing Ghost Pair</title>
-    <url>https://hopincraftbier.be/products/parish-brewing-ghost-pair</url>
-    <brewery_name>Parish Brewing Co.</brewery_name>
-    <price>14.6</price>
-    <regular_price>20.86</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5484670782.png</image>
-    <beer_description>The Parish Brewing Ghost Duo contains: - Ghost-Fu!IPA - Imperial / Double | 8% | 473 ml - Ghost In the Machine (2025)IPA - Imperial / Double New England / Hazy | 8% | 473 ml</beer_description>
-    <beer_style>IPA - Imperial / Double</beer_style>
-    <beer_abv>8%</beer_abv>
-    <beer_volume>2x473 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>United States</brewery_country>
-    <date_canned>2025-03-27</date_canned>
-    <beer_package_count>2</beer_package_count>
-    <beer_bundle>1</beer_bundle>
-    <bundle_skus>6202658,593083</bundle_skus>
-  </item>
-  <item>
-    <id>957</id>
-    <ecommerce_id>804717118</ecommerce_id>
-    <title>Spyglass Pair</title>
-    <url>https://hopincraftbier.be/products/spyglass-pair</url>
-    <brewery_name>Spyglass Brewing Company</brewery_name>
-    <price>16.28</price>
-    <regular_price>23.25</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5483224730.png</image>
-    <beer_description>The Spyglass Duo contains: - Color TheorySour - Fruited | 6,2% | 473 ml - Turbulent FlowIPA - Imperial / Double New England / Hazy | 8,3% | 473 ml</beer_description>
-    <beer_style>IPA &amp; Sour</beer_style>
-    <beer_abv>6 - 8%</beer_abv>
-    <beer_volume>2x473 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>United States</brewery_country>
-    <date_canned>2025-03-20</date_canned>
-    <beer_package_count>2</beer_package_count>
-    <beer_bundle>1</beer_bundle>
-    <bundle_skus>6186139,4980154</bundle_skus>
-  </item>
-  <item>
-    <id>958</id>
-    <ecommerce_id>804717106</ecommerce_id>
-    <title>Sour Pack Elmeleven vs Drekker Quartet</title>
-    <url>https://hopincraftbier.be/products/sour-pack-elmeleven-vs-drekker-quartet</url>
-    <brewery_name>Drekker Brewing Company, Elmeleven</brewery_name>
-    <price>30.03</price>
-    <regular_price>40.04</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5483209431.png</image>
-    <beer_description>The Sour Pack Elmeleven vs Drekker contains: - Starfield Project (PULP • w. Vault City)Sour - Smoothie / Pastry | 5% | 440 ml - Planet 2 (PULP)Sour - Smoothie / Pastry | 5% | 440 ml - Braaaaaaaains - Billions of PeachesSour - Smoothie / Pastry | 6,5% | 473 ml - CHONK: Dark CherrySour - Smoothie / Pastry | 6,6% | 473 ml</beer_description>
-    <beer_style>Sour - Smoothie / Pastry</beer_style>
-    <beer_abv>5 - 6%</beer_abv>
-    <beer_volume>Mix</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>United States , Sweden</brewery_country>
-    <date_best_before>2027-01-01</date_best_before>
-    <beer_package_count>4</beer_package_count>
-    <beer_bundle>1</beer_bundle>
-    <bundle_skus>6121788,6121787,6222118,6189849</bundle_skus>
   </item>
   <item>
     <id>6574780</id>
@@ -2097,105 +1663,6 @@
     <date_best_before>11/2026</date_best_before>
     <date_canned>2026-01-22</date_canned>
     <untappd_id>6574785</untappd_id>
-  </item>
-  <item>
-    <id>959</id>
-    <ecommerce_id>804410827</ecommerce_id>
-    <title>Mortalis Brewing Company Triplet</title>
-    <url>https://hopincraftbier.be/products/mortalis-brewing-company-triplet</url>
-    <brewery_name>Mortalis Brewing Company</brewery_name>
-    <price>27.28</price>
-    <regular_price>38.97</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5478765651.png</image>
-    <beer_description>The Mortalis Brewing Company pack contains: - Hydra | Apricot + Mango + RaspberrySour - Smoothie / Pastry | 7% | 473 ml - Hydra | Push PopSour - Smoothie / Pastry | 7% | 473 ml - Strange Philosophies 112IPA - Imperial / Double New England / Hazy | 8% | 473 ml</beer_description>
-    <beer_style>IPA - Sour</beer_style>
-    <beer_abv>7 - 8%</beer_abv>
-    <beer_volume>3x473 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>United States</brewery_country>
-    <beer_package_count>3</beer_package_count>
-    <beer_bundle>1</beer_bundle>
-    <bundle_skus>3523256,6210906,6047751</bundle_skus>
-  </item>
-  <item>
-    <id>961</id>
-    <ecommerce_id>804324115</ecommerce_id>
-    <title>Mix Brouwerij IPA Triplet</title>
-    <url>https://hopincraftbier.be/products/mix-brouwerij-ipa-triplet</url>
-    <brewery_name>Belleflower Brewing, Hudson Valley Brewery, Foam Brewers</brewery_name>
-    <price>21.79</price>
-    <regular_price>31.12</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5476634176.png</image>
-    <beer_description>The Mix Brouwerij IPA Pack pack contains: - HoloceneIPA - Sour | 6% | 473 ml - Barn Hex (Mosaic, Strata, El Dorado)IPA - Imperial / Double New England / Hazy | 8,5% | 473 ml - Bizarre Celebrations: Cloud 9IPA - Imperial / Double | 9% | 473 ml</beer_description>
-    <beer_style>IPA</beer_style>
-    <beer_abv>6 - 9%</beer_abv>
-    <beer_volume>3x473 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>United States</brewery_country>
-    <date_canned>2025-03-18</date_canned>
-    <beer_package_count>3</beer_package_count>
-    <beer_bundle>1</beer_bundle>
-    <bundle_skus>2721589,6241102,4316618</bundle_skus>
-  </item>
-  <item>
-    <id>962</id>
-    <ecommerce_id>804314134</ecommerce_id>
-    <title>Stout Bottle Triplet</title>
-    <url>https://hopincraftbier.be/products/stout-bottle-triplet</url>
-    <brewery_name>Nano Cinco, Prairie Artisan Ales, Jackie O’s Brewery</brewery_name>
-    <price>53.58</price>
-    <regular_price>70.03</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5476608438.png</image>
-    <beer_description>The Stout Bottle Pack pack contains: - Hello My Name Is - VanilleStout - Imperial / Double | 11,9% | 500 ml - Bomb!Stout - Imperial / Double Coffee | 13% | 355 ml - Abandon The Halogens (2022)Stout - Imperial / Double Milk | 13,8% | 375 ml</beer_description>
-    <beer_style>Stout</beer_style>
-    <beer_abv>11 - 13%</beer_abv>
-    <beer_volume>Mix</beer_volume>
-    <beer_package>bottle</beer_package>
-    <brewery_country>United States , Canada</brewery_country>
-    <date_canned>2024-12-24</date_canned>
-    <beer_package_count>3</beer_package_count>
-    <beer_bundle>1</beer_bundle>
-    <bundle_skus>348850,6092135,4990447</bundle_skus>
-  </item>
-  <item>
-    <id>963</id>
-    <ecommerce_id>804212466</ecommerce_id>
-    <title>All My Friends Beer Co. Triplet</title>
-    <url>https://hopincraftbier.be/products/all-my-friends-beer-co-triplet</url>
-    <brewery_name>All My Friends Beer Co.</brewery_name>
-    <price>21.82</price>
-    <regular_price>30.91</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/804212466/5475103896.png</image>
-    <beer_description>The All My Friends Beer Co. Pack pack contains: - ChemistryIPA - New England / Hazy | 6,5% | 473 ml - SEVERStout - Pastry | 7,5% | 473 ml - BB Kush - 2025IPA - Imperial / Double New England / Hazy | 8,2% | 473 ml</beer_description>
-    <beer_style>Stout - IPA</beer_style>
-    <beer_abv>6 - 8%</beer_abv>
-    <beer_volume>3x473 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Canada</brewery_country>
-    <date_canned>2025-04-14</date_canned>
-    <beer_package_count>3</beer_package_count>
-    <beer_bundle>1</beer_bundle>
-    <bundle_skus>6228771,6228772,6228775</bundle_skus>
-  </item>
-  <item>
-    <id>964</id>
-    <ecommerce_id>803897806</ecommerce_id>
-    <title>Brasserie Sir John IPA Pair</title>
-    <url>https://hopincraftbier.be/products/brasserie-sir-john-ipa-pair</url>
-    <brewery_name>Brasserie Sir John Brewing Co.</brewery_name>
-    <price>9.64</price>
-    <regular_price>20.65</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5470057739.png</image>
-    <beer_description>The Brasserie Sir John IPA Duo pack contains: - Sous PressionIPA - New England / Hazy | 7% | 473 ml - Faire Le VideIPA - Imperial / Double New England / Hazy | 8,5% | 473 ml</beer_description>
-    <beer_style>IPA</beer_style>
-    <beer_abv>7 - 8%</beer_abv>
-    <beer_volume>2x473 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Canada</brewery_country>
-    <date_canned>2025-03-17</date_canned>
-    <beer_package_count>2</beer_package_count>
-    <beer_bundle>1</beer_bundle>
-    <bundle_skus>6186985,6204470</bundle_skus>
   </item>
   <item>
     <id>6526650</id>
@@ -2394,164 +1861,6 @@
     <brewery_country>Bulgaria</brewery_country>
     <date_best_before>2027-10-21</date_best_before>
     <untappd_id>6454681</untappd_id>
-  </item>
-  <item>
-    <id>965</id>
-    <ecommerce_id>801257164</ecommerce_id>
-    <title>FUERST WIACEK Berlin Quartet</title>
-    <url>https://hopincraftbier.be/products/fuerst-wiacek-berlin-quartet</url>
-    <brewery_name>FUERST WIACEK Berlin</brewery_name>
-    <price>18.03</price>
-    <regular_price>25.76</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5441542969.png</image>
-    <beer_description>The FUERST WIACEK Berlin pack contains: - Soft FocusIPA - New England / Hazy | 6,2% | 440 ml - MelodyIPA - New England / Hazy | 6,2% | 440 ml - Chin Music 2025IPA - New England / Hazy | 6,8% | 440 ml - Feral (2025)IPA - Imperial / Double New England / Hazy | 8% | 440 ml</beer_description>
-    <beer_style>IPA</beer_style>
-    <beer_abv>6 - 8%</beer_abv>
-    <beer_volume>4x440 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Germany</brewery_country>
-    <date_best_before>2026-01-07</date_best_before>
-    <beer_package_count>4</beer_package_count>
-    <beer_bundle>1</beer_bundle>
-    <bundle_skus>6220762,6223449,6238201,6224263</bundle_skus>
-  </item>
-  <item>
-    <id>970</id>
-    <ecommerce_id>801005331</ecommerce_id>
-    <title>Long Live Beerworks Quartet</title>
-    <url>https://hopincraftbier.be/products/long-live-beerworks-quartet</url>
-    <brewery_name>Long Live Beerworks</brewery_name>
-    <price>27.98</price>
-    <regular_price>39.64</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5438444518.png</image>
-    <beer_description>The Long Live Beerworks Pack pack contains: - DDH AttitudeIPA - New England / Hazy | 6% | 473 ml - 6 LivesIPA - New England / Hazy | 7,5% | 473 ml - DDH Black Cat Sees AllIPA - Imperial / Double New England / Hazy | 8,5% | 473 ml - 5 LivesIPA - Triple | 10% | 473 ml</beer_description>
-    <beer_style>IPA</beer_style>
-    <beer_abv>6 - 10%</beer_abv>
-    <beer_volume>4x473 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>United States</brewery_country>
-    <date_canned>2025-04-14</date_canned>
-    <beer_package_count>4</beer_package_count>
-    <beer_bundle>1</beer_bundle>
-    <bundle_skus>4744499,4589206,6263928,6227368</bundle_skus>
-  </item>
-  <item>
-    <id>971</id>
-    <ecommerce_id>801005274</ecommerce_id>
-    <title>Equilibrium Brewery Triplet</title>
-    <url>https://hopincraftbier.be/products/equilibrium-brewery-triplet</url>
-    <brewery_name>Equilibrium Brewery</brewery_name>
-    <price>21.34</price>
-    <regular_price>30.23</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5438371427.png</image>
-    <beer_description>The Equilibrium Brewery pack contains: - MC3POIPA - New England / Hazy | 6,7% | 473 ml - The Juice AwakensIPA - Imperial / Double New England / Hazy | 8,2% | 473 ml - Straight Outta The LaboratoryIPA - Triple | 10,2% | 473 ml</beer_description>
-    <beer_style>IPA</beer_style>
-    <beer_abv>6 - 10%</beer_abv>
-    <beer_volume>3x473 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>United States</brewery_country>
-    <date_canned>2025-04-29</date_canned>
-    <beer_package_count>3</beer_package_count>
-    <beer_bundle>1</beer_bundle>
-    <bundle_skus>6246517,2879668,6248503</bundle_skus>
-  </item>
-  <item>
-    <id>973</id>
-    <ecommerce_id>800943249</ecommerce_id>
-    <title>Counterpart Brewing Triplet</title>
-    <url>https://hopincraftbier.be/products/counterpart-brewing-triplet</url>
-    <brewery_name>Counterpart Brewing</brewery_name>
-    <price>23.75</price>
-    <regular_price>33.64</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5438351307.png</image>
-    <beer_description>The Counterpart Brewing pack contains: - The World Is MineIPA - New England / Hazy | 6,5% | 473 ml - Double Drip (Motueka, Rakau, Peacharine, Southern Cross Hop Kief)IPA - Imperial / Double New England / Hazy | 8,2% | 473 ml - Shoot To ThrillIPA - Triple New England / Hazy | 10% | 473 ml</beer_description>
-    <beer_style>IPA</beer_style>
-    <beer_abv>6 - 10%</beer_abv>
-    <beer_volume>3x473 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Canada</brewery_country>
-    <date_canned>2025-04-02</date_canned>
-    <beer_package_count>3</beer_package_count>
-    <beer_bundle>1</beer_bundle>
-    <bundle_skus>6214473,6259353,6231627</bundle_skus>
-  </item>
-  <item>
-    <id>974</id>
-    <ecommerce_id>800983350</ecommerce_id>
-    <title>Le Ketch IPA Triplet</title>
-    <url>https://hopincraftbier.be/products/le-ketch-ipa-triplet</url>
-    <brewery_name>Le Ketch</brewery_name>
-    <price>25.2</price>
-    <regular_price>35.7</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5438318483.png</image>
-    <beer_description>The Le Ketch pack contains: - Dock 111 - Citra, Cascade NZ, Motueka &amp; PacificaIPA - New England / Hazy | 6,5% | 473 ml - Dock 72 - Peacharine, Galaxy &amp; Nelson Sauvin (2025)IPA - Imperial / Double New England / Hazy | 8% | 473 ml - Dock 73 - NELSON SAUVIN, CITRA &amp; SOUTHERN CROSS (2025)IPA - Triple New England / Hazy | 10% | 473 ml</beer_description>
-    <beer_style>IPA</beer_style>
-    <beer_abv>6 - 10%</beer_abv>
-    <beer_volume>3x473 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Canada</brewery_country>
-    <date_canned>2025-04-07</date_canned>
-    <beer_package_count>3</beer_package_count>
-    <beer_bundle>1</beer_bundle>
-    <bundle_skus>6205485,6166277,6205488</bundle_skus>
-  </item>
-  <item>
-    <id>975</id>
-    <ecommerce_id>800983338</ecommerce_id>
-    <title>Tin Barn Brewing IPA Triplet 2</title>
-    <url>https://hopincraftbier.be/products/tin-barn-brewing-ipa-triplet-2</url>
-    <brewery_name>Tin Barn Brewing</brewery_name>
-    <price>24.62</price>
-    <regular_price>34.87</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5438312543.png</image>
-    <beer_description>The Tin Barn IPA Pack 2 contains: - Baby G.O.A.T.IPA - New England / Hazy | 7,2% | 473 ml - Mosaic MonsterIPA - Imperial / Double New England / Hazy | 8,4% | 473 ml - Be Kind, RewindIPA - Triple New England / Hazy | 9,5% | 473 ml</beer_description>
-    <beer_style>IPA</beer_style>
-    <beer_abv>7 - 9%</beer_abv>
-    <beer_volume>3x473 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>United States</brewery_country>
-    <beer_package_count>3</beer_package_count>
-    <beer_bundle>1</beer_bundle>
-    <bundle_skus>6242680,6242674,6257025</bundle_skus>
-  </item>
-  <item>
-    <id>976</id>
-    <ecommerce_id>800892694</ecommerce_id>
-    <title>Vitamin Sea IPA Triplet</title>
-    <url>https://hopincraftbier.be/products/vitamin-sea-ipa-triplet</url>
-    <brewery_name>Vitamin Sea Brewing</brewery_name>
-    <price>21.97</price>
-    <regular_price>31.12</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5438292105.png</image>
-    <beer_description>The Vitamin Sea Brewing pack contains: - Vitamin Sea - Just Another T-Shirt ShopIPA - New England / Hazy | 6,8% | 473 ml - Vitamin Sea - Due NorthIPA - New England / Hazy | 7,6% | 473 ml - Vitamin Sea - Double SpringIPA - Imperial / Double New England / Hazy | 8% | 473 ml</beer_description>
-    <beer_style>IPA</beer_style>
-    <beer_abv>6 - 8%</beer_abv>
-    <beer_volume>3x473 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>United States</brewery_country>
-    <date_canned>2025-04-17</date_canned>
-    <beer_package_count>3</beer_package_count>
-    <beer_bundle>1</beer_bundle>
-    <bundle_skus>3708746,1954247,2977936</bundle_skus>
-  </item>
-  <item>
-    <id>977</id>
-    <ecommerce_id>800858177</ecommerce_id>
-    <title>Nano Cinco IPA Triplet</title>
-    <url>https://hopincraftbier.be/products/nano-cinco-ipa-triplet</url>
-    <brewery_name>Nano Cinco</brewery_name>
-    <price>23.69</price>
-    <regular_price>33.56</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5436128755.png</image>
-    <beer_description>The Nano Cinco pack contains: - Bain D'agrumesIPA - New England / Hazy | 6,8% | 473 ml - CincoIPA - Imperial / Double New England / Hazy | 8,2% | 473 ml - PatronIPA - Triple New England / Hazy | 9,6% | 473 ml</beer_description>
-    <beer_style>IPA</beer_style>
-    <beer_abv>6.8 - 9.6%</beer_abv>
-    <beer_volume>3x473 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Canada</brewery_country>
-    <beer_package_count>3</beer_package_count>
-    <beer_bundle>1</beer_bundle>
-    <bundle_skus>6241284,6237648,6231524</bundle_skus>
   </item>
   <item>
     <id>6285476</id>
@@ -3516,6 +2825,23 @@
     <untappd_id>6447706</untappd_id>
   </item>
   <item>
+    <id>6214738</id>
+    <ecommerce_id>787878768</ecommerce_id>
+    <title>Strange Casualties</title>
+    <url>https://hopincraftbier.be/products/prizm-strange-casualties</url>
+    <brewery_name>Prizm Brewing Co.</brewery_name>
+    <price>6.94</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5249373741.png</image>
+    <beer_description>The Prizm – Strange Casualties is a coconut imperial stout with an alcohol content of 12%. We wanted an intense and delicious stout, so we came up with a trio that does the job: coconut, tonka, vanilla . Strange Casualties is a bit like biting into a coconut ball or a Bounty. The tonka brings this almost woody roundness, and the vanilla smooths the whole thing out. On the palate it is rich , velvety , with a nice length. Prizm Brewing Co. - Strange Casualties</beer_description>
+    <beer_style>Stout - Imperial / Double Pastry</beer_style>
+    <beer_abv>12%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>France</brewery_country>
+    <date_best_before>04/2027</date_best_before>
+    <untappd_id>6214738</untappd_id>
+  </item>
+  <item>
     <id>6306816</id>
     <ecommerce_id>787869764</ecommerce_id>
     <title>Drums of Liberation</title>
@@ -4062,46 +3388,6 @@
     <untappd_id>6415131</untappd_id>
   </item>
   <item>
-    <id>981</id>
-    <ecommerce_id>782303683</ecommerce_id>
-    <title>DankHouse Brewing Company Triplet</title>
-    <url>https://hopincraftbier.be/products/dankhouse-brewing-company-triplet</url>
-    <brewery_name>DankHouse Brewing Company</brewery_name>
-    <price>16.24</price>
-    <regular_price>32.48</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5170225153.webp</image>
-    <beer_description>The DankHouse Brewing Company pack consists of: - Granny's Candy BowlSour - Fruited | 6% | 473 ml - Deady BearsIPA - Imperial / Double New England / Hazy | 8,5% | 473 ml - Dank HuntIPA - Triple New England / Hazy | 10% | 473 ml</beer_description>
-    <beer_style>Sour - IPA</beer_style>
-    <beer_abv>6 - 10%</beer_abv>
-    <beer_volume>3x473 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>United States</brewery_country>
-    <date_canned>2025-03-20</date_canned>
-    <beer_package_count>3</beer_package_count>
-    <beer_bundle>1</beer_bundle>
-    <bundle_skus>6117115,5995080,5847902</bundle_skus>
-  </item>
-  <item>
-    <id>983</id>
-    <ecommerce_id>782303625</ecommerce_id>
-    <title>Wood Brothers Brewing Co. Quartet</title>
-    <url>https://hopincraftbier.be/products/wood-brothers-brewing-co-quartet</url>
-    <brewery_name>Wood Brothers Brewing Co.</brewery_name>
-    <price>30.34</price>
-    <regular_price>43.34</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5170146143.webp</image>
-    <beer_description>The Wood Brothers Brewing pack consists of: - Neca-Tron (2025)IPA - New England / Hazy | 6,5% | 473 ml - Thistle DewIPA - American | 7,5% | 473 ml - Holy HazelIPA - Imperial / Double New England / Hazy | 8% | 473 ml - Blind FogIPA - Triple New England / Hazy | 9% | 473 ml</beer_description>
-    <beer_style>IPA</beer_style>
-    <beer_abv>6.5 - 9%</beer_abv>
-    <beer_volume>4x473 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Canada</brewery_country>
-    <date_canned>2025-03-26</date_canned>
-    <beer_package_count>4</beer_package_count>
-    <beer_bundle>1</beer_bundle>
-    <bundle_skus>6205524,6208805,4033335,4570140</bundle_skus>
-  </item>
-  <item>
     <id>6406320</id>
     <ecommerce_id>781533751</ecommerce_id>
     <title>Ever Juice</title>
@@ -4287,6 +3573,23 @@
     <brewery_country>Belgium</brewery_country>
     <date_best_before>05/2026</date_best_before>
     <untappd_id>6384345</untappd_id>
+  </item>
+  <item>
+    <id>6384339</id>
+    <ecommerce_id>779031980</ecommerce_id>
+    <title>Polyghost</title>
+    <url>https://hopincraftbier.be/products/norm-polyghost</url>
+    <brewery_name>Norm Brewing</brewery_name>
+    <price>6.41</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5500059485.png</image>
+    <beer_description>Here is the third and last birthday collab with the one and only Ophiussa Brewing ! After 2 collabs at his place, the wonderful Setubal, and several meetings with Daniel, one of the nicest guys we met in the beer industry, it was time to get a return collab ! We decided to brew the “biggest” beer of these 3 releases and show you one more time our shared passion for saturated and hazy beer. Polyghost is a Triple New England IPA bursting at 9,2% and saturated with Nectaron, Citra, CRYO Citra, Strata and GCX Strata… This TIPA will let shine wonderful pineapple and peach flavors, citrus-like notes followed by very dank flavors, strawberry, melon and some funky bubblegum. Hops : Nectaron, Citra, CRYO Citra, Strata &amp; GCX Strata Norm Brewing - Polyghost</beer_description>
+    <beer_style>IPA - Triple New England / Hazy</beer_style>
+    <beer_abv>9.2%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Belgium</brewery_country>
+    <date_best_before>05/2026</date_best_before>
+    <untappd_id>6384339</untappd_id>
   </item>
   <item>
     <id>6375119</id>
@@ -5278,6 +4581,24 @@
     <untappd_id>4367493</untappd_id>
   </item>
   <item>
+    <id>6341271</id>
+    <ecommerce_id>767065955</ecommerce_id>
+    <title>Ponder</title>
+    <url>https://hopincraftbier.be/products/revenant-ponder</url>
+    <brewery_name>Revenant Brewing Project</brewery_name>
+    <price>6.68</price>
+    <regular_price>6.68</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5049166012.webp</image>
+    <beer_description>Hops: Nelson + Superdelic + Citra - Revenant Brewing Project - Ponder</beer_description>
+    <beer_style>IPA - Triple New England / Hazy</beer_style>
+    <beer_abv>9.7%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Finland</brewery_country>
+    <date_best_before>Eind 04/2026</date_best_before>
+    <untappd_id>6341271</untappd_id>
+  </item>
+  <item>
     <id>6341269</id>
     <ecommerce_id>767062474</ecommerce_id>
     <title>Linger</title>
@@ -5470,24 +4791,58 @@
     <untappd_id>6187809</untappd_id>
   </item>
   <item>
-    <id>988</id>
-    <ecommerce_id>760124883</ecommerce_id>
-    <title>Moersleutel Craft Brewery - 9 Years Anniversary Set</title>
-    <url>https://hopincraftbier.be/products/moersleutel-craft-brewery-9-years-anniversary-set</url>
+    <id>6299163</id>
+    <ecommerce_id>760115316</ecommerce_id>
+    <title>9 Years: Helios' Island</title>
+    <url>https://hopincraftbier.be/products/moersleutel-9-years-helios-island</url>
     <brewery_name>Moersleutel Craft Brewery</brewery_name>
-    <price>57.07</price>
-    <regular_price>76.09</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4984850055.webp</image>
-    <beer_description>The 9 Year Anniversary Set consists of: - 9 Years: Cyclops EscapeIPA - New England / Hazy | 6% | 440 ml - 9 Years: Circe's EnchantmentIPA - Imperial / Double New England / Hazy | 7,5% | 440 ml - 9 Years: Siren EncounterStout - English | 8% | 440 ml - 9 Years: Journey To HadesIPA - Triple | 9% | 440 ml - 9 Years: Confronting SuitorsStout - Imperial / Double | 11% | 440 ml - 9 Years: Helios' IslandStout - Imperial / Double Pastry | 11% | 440 ml - 9 Years: Scylla And CharybdisStout - Imperial / Double Pastry | 11% | 440 ml - 9 Years: Return To IthacaBelgian Quadrupel | 11% | 440 ml - 9 Years: Calypso’s TemptationStout - Imperial / Double Pastry | 14% | 440 ml</beer_description>
-    <beer_style>Various</beer_style>
-    <beer_abv>6 - 14%</beer_abv>
-    <beer_volume>9x440ml</beer_volume>
+    <price>8.09</price>
+    <regular_price>8.09</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4984824502.webp</image>
+    <beer_description>A stout that takes you to the legendary island of Helios, where alluring flavors captivate you. This 11% mega stout combines tonka, muscovado, vanilla, and Colombian coffee and cacao for a rich, layered experience. With muscovado from Barbados, adding rich molasses, toffee, and lightly smoky notes, along with deep flavors of cacao, coffee, and caramel, this beer is full and complex. The Colombian cacao contributes hints of cocoa, citrus, dried fruit, and walnuts, while the coffee brings honeyed aromas and a touch of red berries. Tonka and vanilla add a subtle creaminess that perfectly balances the smoky and earthy notes. Seductive flavors that would even distract Odysseus from his quest. Moersleutel Craft Brewery - 9 Years: Helios' Island</beer_description>
+    <beer_style>Stout - Imperial / Double Pastry</beer_style>
+    <beer_abv>11%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>The Netherlands</brewery_country>
     <date_best_before>2026-05-06</date_best_before>
-    <beer_package_count>9</beer_package_count>
-    <beer_bundle>1</beer_bundle>
-    <bundle_skus>6308977,6299163,6294931,6291430,6291425,6291421,6274029,6274026,6274022</bundle_skus>
+    <untappd_id>6299163</untappd_id>
+  </item>
+  <item>
+    <id>6294931</id>
+    <ecommerce_id>760115315</ecommerce_id>
+    <title>9 Years: Calypso’s Temptation</title>
+    <url>https://hopincraftbier.be/products/moersleutel-9-years-calypsos-temptation</url>
+    <brewery_name>Moersleutel Craft Brewery</brewery_name>
+    <price>12.55</price>
+    <regular_price>12.55</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4984813137.webp</image>
+    <beer_description>Everything about this beer is luxurious – from the carefully selected whiskey barrels to the rare vanilla. Seductive, extravagant, and irresistible. This stout was aged in three American whiskey barrels: Weller Wheated (sweet and smooth), Sazerac Rye (spicy, lightly smoky), and Heaven Hill (reliable and well-balanced). To complete the temptation, we added vanilla from Madagascar, Papua New Guinea, and rare beans from the Comoros Islands – offering rich, pastry-like depth with a hint of tobacco. Layers of creamy vanilla, warm whiskey notes, oak, and spice make this beer both complex and captivating. This stout is like Calypso herself: luxurious, enchanting, and nearly impossible to resist. Moersleutel Craft Brewery - 9 Years: Calypsos Temptation</beer_description>
+    <beer_style>Stout - Imperial / Double Pastry</beer_style>
+    <beer_abv>14%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>The Netherlands</brewery_country>
+    <date_best_before>2028-04-22</date_best_before>
+    <untappd_id>6294931</untappd_id>
+  </item>
+  <item>
+    <id>6308977</id>
+    <ecommerce_id>760124308</ecommerce_id>
+    <title>9 Years: Confronting Suitors</title>
+    <url>https://hopincraftbier.be/products/moersleutel-9-years-confronting-suitors</url>
+    <brewery_name>Moersleutel Craft Brewery</brewery_name>
+    <price>12.55</price>
+    <regular_price>12.55</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4984810987.webp</image>
+    <beer_description>This beer is the crown jewel of Moersleutel’s 9th anniversary series, the ultimate expression of luxury and complexity. We’ve pulled out all the stops for this non-adjunct barrel-aged stout. This beer has aged on two exceptional barrels. The first, originally used not for spirits but for high grade maple syrup, imparts a deep, salty sweetness that’s truly one of a kind. In contrast, the spicy, lightly smoky character of Sazerac Rye bourbon barrels adds depth. Together, they create a beer that’s both robust and refined, with a layered complexity that keeps surprising. Just as Odysseus returned to confront the suitors, this stout marks the grand finale of our 9-year brewing journey: powerful, intense, and unmistakably Moersleutel. Expect rich notes of salty maple, spicy rye whiskey, smoky oak, and a full-bodied finish that lingers. An epic finale to an epic anniversary celebration. Cheers Sleutelaars! Moersleutel Craft Brewery - 9 Years: Helios' Island</beer_description>
+    <beer_style>Stout - Imperial / Double</beer_style>
+    <beer_abv>11%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>The Netherlands</brewery_country>
+    <date_best_before>2028-04-15</date_best_before>
+    <untappd_id>6308977</untappd_id>
   </item>
   <item>
     <id>5571412</id>
@@ -5505,6 +4860,60 @@
     <beer_package>can</beer_package>
     <brewery_country>United States</brewery_country>
     <untappd_id>5571412</untappd_id>
+  </item>
+  <item>
+    <id>6291421</id>
+    <ecommerce_id>758587302</ecommerce_id>
+    <title>9 Years: Journey To Hades</title>
+    <url>https://hopincraftbier.be/products/moersleutel-9-years-journey-to-hades</url>
+    <brewery_name>Moersleutel Craft Brewery</brewery_name>
+    <price>7.51</price>
+    <regular_price>7.51</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4972515071.webp</image>
+    <beer_description>A trip to the underworld has never been this tropical. Journey to Hades is a bold TIPA bursting with flavors of passionfruit, lemon zest, and tangerine. Brewed with Riwaka in T90, Cryo, and Amplifire Oil, plus Idaho-7 and Citra in T90, Cryo, and hop oil extract form. Riwaka stands out with its intense passionfruit and citrus punch – truly breathtaking. The Amplifire Oil is made from ultra-fresh Riwaka hops, processed into oil the same day they're picked. You can’t get any fresher than that. Double mashed and packed with character. Over the top? Absolutely. But above all: seriously delicious. Moersleutel Craft Brewery - 9 Years: Journey To Hades</beer_description>
+    <beer_style>IPA - Triple</beer_style>
+    <beer_abv>9%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>The Netherlands</brewery_country>
+    <date_best_before>2026-05-28</date_best_before>
+    <untappd_id>6291421</untappd_id>
+  </item>
+  <item>
+    <id>6291425</id>
+    <ecommerce_id>758587301</ecommerce_id>
+    <title>9 Years: Return To Ithaca</title>
+    <url>https://hopincraftbier.be/products/moersleutel-9-years-return-to-ithaca</url>
+    <brewery_name>Moersleutel Craft Brewery</brewery_name>
+    <price>7.65</price>
+    <regular_price>7.65</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4972502476.webp</image>
+    <beer_description>Coming home after a long journey – that feeling is captured in every sip of this quadrupel. Layered with notes of raisins, dried fruit, and smooth caramel—a beer steeped in warmth and memory. What sets it apart is its nuanced oak treatment: spirals, cubes, and a touch of liquid tannins lend soft vanilla, gentle spice, and refined wood tones that elevate without overpowering. Brewed with barley, rye, wheat, and spelt, it boasts a full, rounded body and a deeply expressive malt character. A beer full of stories—complex, comforting, and unforgettable Moersleutel Craft Brewery - 9 Years: Return To Ithaca</beer_description>
+    <beer_style>Belgian Quadrupel</beer_style>
+    <beer_abv>11%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>The Netherlands</brewery_country>
+    <date_best_before>2028-05-01</date_best_before>
+    <untappd_id>6291425</untappd_id>
+  </item>
+  <item>
+    <id>6291430</id>
+    <ecommerce_id>758588299</ecommerce_id>
+    <title>9 Years: Scylla And Charybdis</title>
+    <url>https://hopincraftbier.be/products/moersleutel-9-years-scylla-and-charybdis</url>
+    <brewery_name>Moersleutel Craft Brewery</brewery_name>
+    <price>7.65</price>
+    <regular_price>7.65</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4972502481.webp</image>
+    <beer_description>A stout that challenges you, just like the legendary sea monsters Scylla and Charybdis. This rich 11% stout delivers an irresistible combination of peanuts, cacao, and nougat – inspired by a famous candy bar, but even better. With 300 kg of peanuts and 60 kg of Bolivian cacao, known for its natural nutty flavor, you get a deep and rich foundation. Bold roasted coffee adds earthy depth, while vanilla rounds everything out with a smooth, creamy finish. Complex and full of character, yet always perfectly balanced. A stout so captivating, even the raging sea monsters pause to enjoy this treat. Moersleutel Craft Brewery - 9 Years: Scylla And Charybdis</beer_description>
+    <beer_style>Stout - Imperial / Double Pastry</beer_style>
+    <beer_abv>11%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>The Netherlands</brewery_country>
+    <date_best_before>2027-04-29</date_best_before>
+    <untappd_id>6291430</untappd_id>
   </item>
   <item>
     <id>3482012</id>
@@ -5699,6 +5108,24 @@
     <untappd_id>6263452</untappd_id>
   </item>
   <item>
+    <id>6263928</id>
+    <ecommerce_id>756995312</ecommerce_id>
+    <title>5 Lives</title>
+    <url>https://hopincraftbier.be/products/long-live-beerworks-5-lives</url>
+    <brewery_name>Long Live Beerworks</brewery_name>
+    <price>10.88</price>
+    <regular_price>10,88</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5438433972.webp</image>
+    <beer_description>A triple IPA, and the next edition to this year’s Anniversary Series! The blend of Emerald Spire, Vic Secret, Simcoe, Krush and Galaxy hops for this special release offers pithy notes of ripe mango, juicy grape and saturated citrus fruits. It’s bold in flavor, while still being super drinkable. Long Live Beerworks - 5 Lives</beer_description>
+    <beer_style>IPA - Triple</beer_style>
+    <beer_abv>10%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>United States</brewery_country>
+    <date_canned>2025-05-14</date_canned>
+    <untappd_id>6263928</untappd_id>
+  </item>
+  <item>
     <id>6273097</id>
     <ecommerce_id>756989902</ecommerce_id>
     <title>RAGE (Ghost RAGE)</title>
@@ -5849,6 +5276,42 @@
     <brewery_country>United States</brewery_country>
     <date_canned>2025-04-25</date_canned>
     <untappd_id>6261817</untappd_id>
+  </item>
+  <item>
+    <id>6274026</id>
+    <ecommerce_id>755488875</ecommerce_id>
+    <title>9 Years: Circe's Enchantment</title>
+    <url>https://hopincraftbier.be/products/moersleutel-9-years-circes-enchantment</url>
+    <brewery_name>Moersleutel Craft Brewery</brewery_name>
+    <price>6.77</price>
+    <regular_price>6.77</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4955042644.webp</image>
+    <beer_description>Enchanting, fruity, and full of character. Bursting with pink grapefruit, lollipop, and watermelon, this brew features Talus, Mosaic, Nelson Sauvin, and Superdelic hops. Citrus and red fruit take the lead, with a sweet candy twist. Talus brings bright grapefruit, tropical notes, and hints of rose and pine, while Superdelic layers in bold, candy-like flavors. For a final hit of aroma, Hyperboost—a concentrated hop oil from cutting-edge supercritical extraction—is added post-centrifuge for an extra punch of pungent hop aroma. Smooth, juicy, and spellbinding—let every sip cast its charm. Moersleutel Craft Brewery - 9 Years: Circe's Enchantment</beer_description>
+    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
+    <beer_abv>7.5%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>The Netherlands</brewery_country>
+    <date_best_before>2026-05-15</date_best_before>
+    <untappd_id>6274026</untappd_id>
+  </item>
+  <item>
+    <id>6274022</id>
+    <ecommerce_id>755488874</ecommerce_id>
+    <title>9 Years: Cyclops Escape</title>
+    <url>https://hopincraftbier.be/products/moersleutel-9-years-cyclops-escape</url>
+    <brewery_name>Moersleutel Craft Brewery</brewery_name>
+    <price>6.31</price>
+    <regular_price>6.31</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4955042654.webp</image>
+    <beer_description>Cyclops Escape kicks off our new 9 Year Anniversary series with a tropical New England IPA bursting with peach, pear, and juicy stone fruit. Dry-hopped with Peacharine, El Dorado (T90 + Cryo), Citra (Dynaboost + Cryo), and Nelson Sauvin. Expect a vibrant fruit bomb—ripe peach, crisp pear, and a touch of watermelon on a soft, smooth body. Dangerously drinkable. The Cyclops is loose. Escape now—eight more adventures await. Moersleutel Craft Brewery - 9 Years: Cyclops Escape</beer_description>
+    <beer_style>IPA - New England / Hazy</beer_style>
+    <beer_abv>6%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>The Netherlands</brewery_country>
+    <date_best_before>2026-05-13</date_best_before>
+    <untappd_id>6274022</untappd_id>
   </item>
   <item>
     <id>6274029</id>
@@ -6093,6 +5556,23 @@
     <untappd_id>3736086</untappd_id>
   </item>
   <item>
+    <id>6231524</id>
+    <ecommerce_id>751542511</ecommerce_id>
+    <title>Patron</title>
+    <url>https://hopincraftbier.be/products/nano-cinco-patron</url>
+    <brewery_name>Nano Cinco</brewery_name>
+    <price>11.62</price>
+    <regular_price>11,62</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5438330705.webp</image>
+    <beer_description>Here's our latest triple NEIPA, intensely hopped with Nectaron, Nelson Sauvin Cryo, Nelson Sauvin Subzero Hop Kief, and Citra cultivars. A tropical explosion with notes of passion fruit, ripe nectarine, and a hint of Sauvignon Blanc. All carried by a silky texture and a refreshing finish that leaves you wanting more despite its high ABV. Nano Cinco - Patron</beer_description>
+    <beer_style>IPA - Triple New England / Hazy</beer_style>
+    <beer_abv>9.6%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Canada</brewery_country>
+    <untappd_id>6231524</untappd_id>
+  </item>
+  <item>
     <id>6221131</id>
     <ecommerce_id>751542770</ecommerce_id>
     <title>Kung Fu Time Bomb</title>
@@ -6197,6 +5677,24 @@
     <untappd_id>348850</untappd_id>
   </item>
   <item>
+    <id>6205485</id>
+    <ecommerce_id>751529275</ecommerce_id>
+    <title>Dock 73 - NELSON SAUVIN, CITRA &amp; SOUTHERN CROSS (2025)</title>
+    <url>https://hopincraftbier.be/products/le-ketch-dock-73-nelson-sauvin-citra--southern-cross-2025</url>
+    <brewery_name>Le Ketch</brewery_name>
+    <price>12.65</price>
+    <regular_price>12,65</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5438318477.png</image>
+    <beer_description>TRIPLE NEW ENGLAND IPA AU MIEL. HOUBLONS: NELSON SAUVIN, CITRA &amp; SOUTHERN CROSS Le Ketch - Dock 73 - NELSON SAUVIN, CITRA &amp; SOUTHERN CROSS (2025)</beer_description>
+    <beer_style>IPA - Triple New England / Hazy</beer_style>
+    <beer_abv>10%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Canada</brewery_country>
+    <date_canned>2025-04-07</date_canned>
+    <untappd_id>6205485</untappd_id>
+  </item>
+  <item>
     <id>6236757</id>
     <ecommerce_id>751529276</ecommerce_id>
     <title>Aspect of Taurus</title>
@@ -6229,6 +5727,23 @@
     <beer_package>can</beer_package>
     <brewery_country>United States</brewery_country>
     <untappd_id>3523256</untappd_id>
+  </item>
+  <item>
+    <id>6210906</id>
+    <ecommerce_id>751542510</ecommerce_id>
+    <title>Hydra | Push Pop</title>
+    <url>https://hopincraftbier.be/products/mortalis-hydra-push-pop</url>
+    <brewery_name>Mortalis Brewing Company</brewery_name>
+    <price>13.33</price>
+    <regular_price>13.33</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4932639103.png</image>
+    <beer_description>This Fruited Smoothie Sour was brewed in collaboration with Yah Brew. We blended Banana, Strawberry, Cantaloupe, and marshmallow to form just one of this monster’s many heads. A little taste of 90’s nostalgia while you keep your eyes peeled for even more flavor combinations. Mortalis Brewing Company - Hydra | Push Pop</beer_description>
+    <beer_style>Sour - Smoothie / Pastry</beer_style>
+    <beer_abv>7%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>United States</brewery_country>
+    <untappd_id>6210906</untappd_id>
   </item>
   <item>
     <id>4990447</id>
@@ -6561,6 +6076,24 @@
     <untappd_id>6047751</untappd_id>
   </item>
   <item>
+    <id>6228771</id>
+    <ecommerce_id>751542502</ecommerce_id>
+    <title>BB Kush - 2025</title>
+    <url>https://hopincraftbier.be/products/all-my-friends-bb-kush-2025</url>
+    <brewery_name>All My Friends Beer Co.</brewery_name>
+    <price>10.94</price>
+    <regular_price>10,94</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5475139798.png</image>
+    <beer_description>Citra, Superdelic, Terpenes - Collab with Blood Brothers All My Friends Beer Co. - BB Kush - 2025</beer_description>
+    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
+    <beer_abv>8.2%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Canada</brewery_country>
+    <date_canned>2025-04-14</date_canned>
+    <untappd_id>6228771</untappd_id>
+  </item>
+  <item>
     <id>6231627</id>
     <ecommerce_id>751542762</ecommerce_id>
     <title>The World Is Mine</title>
@@ -6612,6 +6145,24 @@
     <brewery_country>United States</brewery_country>
     <date_canned>2025-04-24</date_canned>
     <untappd_id>6262557</untappd_id>
+  </item>
+  <item>
+    <id>6228775</id>
+    <ecommerce_id>751537012</ecommerce_id>
+    <title>Chemistry</title>
+    <url>https://hopincraftbier.be/products/all-my-friends-chemistry</url>
+    <brewery_name>All My Friends Beer Co.</brewery_name>
+    <price>10.05</price>
+    <regular_price>10,05</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5475139804.png</image>
+    <beer_description>Citra, Motueka, Rakau, Terpenes - Collab with BAOS Podcast All My Friends Beer Co. - Chemistry</beer_description>
+    <beer_style>IPA - New England / Hazy</beer_style>
+    <beer_abv>6.5%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Canada</brewery_country>
+    <date_canned>2025-04-14</date_canned>
+    <untappd_id>6228775</untappd_id>
   </item>
   <item>
     <id>6244270</id>
@@ -6666,6 +6217,24 @@
     <untappd_id>6241102</untappd_id>
   </item>
   <item>
+    <id>6238201</id>
+    <ecommerce_id>749241861</ecommerce_id>
+    <title>Melody</title>
+    <url>https://hopincraftbier.be/products/fuerst-wiacek-berlin-melody</url>
+    <brewery_name>FUERST WIACEK Berlin</brewery_name>
+    <price>6.14</price>
+    <regular_price>6.14</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5441568034.png</image>
+    <beer_description>Dry hopped IPA with Citra, Motueka &amp; Galaxy. FUERST WIACEK Berlin - Melody</beer_description>
+    <beer_style>IPA - New England / Hazy</beer_style>
+    <beer_abv>6.2%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Germany</brewery_country>
+    <date_best_before>2026-01-22</date_best_before>
+    <untappd_id>6238201</untappd_id>
+  </item>
+  <item>
     <id>6224263</id>
     <ecommerce_id>743661247</ecommerce_id>
     <title>Feral (2025)</title>
@@ -6702,6 +6271,41 @@
     <untappd_id>6220762</untappd_id>
   </item>
   <item>
+    <id>6223449</id>
+    <ecommerce_id>743669894</ecommerce_id>
+    <title>Chin Music 2025</title>
+    <url>https://hopincraftbier.be/products/fuerst-wiacek-berlin-chin-music-2025</url>
+    <brewery_name>FUERST WIACEK Berlin</brewery_name>
+    <price>6.47</price>
+    <regular_price>6.47</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5441568076.png</image>
+    <beer_description>DDH IPA – Dry hopped with Mosaic &amp; Talus. - FUERST WIACEK Berlin - Chin Music 2025</beer_description>
+    <beer_style>IPA - New England / Hazy</beer_style>
+    <beer_abv>6.8%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Germany</brewery_country>
+    <date_best_before>2026-01-07</date_best_before>
+    <untappd_id>6223449</untappd_id>
+  </item>
+  <item>
+    <id>6189849</id>
+    <ecommerce_id>743661489</ecommerce_id>
+    <title>CHONK: Dark Cherry</title>
+    <url>https://hopincraftbier.be/products/drekker-chonk-dark-cherry</url>
+    <brewery_name>Drekker Brewing Company</brewery_name>
+    <price>11.96</price>
+    <regular_price>11.96</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5484692282.png</image>
+    <beer_description>OH LAWD HE BACK AGAIN! Our lovable absolute unit returns with our latest exploration into complete absurdity. This chonky boi is diggin’ deep within the darkest corners of the freezer, scoopin’ up gobs of dark cherry and decadent dark chocolate. Cue the intensified heavy breathing. *CONTAINS LACTOSE - Drekker Brewing Company - CHONK: Dark Cherry</beer_description>
+    <beer_style>Sour - Smoothie / Pastry</beer_style>
+    <beer_abv>6.6%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>United States</brewery_country>
+    <untappd_id>6189849</untappd_id>
+  </item>
+  <item>
     <id>6210032</id>
     <ecommerce_id>742665251</ecommerce_id>
     <title>Ārpus X Brasserie Popihn Imperial Cascadian Dark Ale</title>
@@ -6735,6 +6339,24 @@
     <brewery_country>Poland</brewery_country>
     <date_best_before>2027-01-10</date_best_before>
     <untappd_id>6127069</untappd_id>
+  </item>
+  <item>
+    <id>6202658</id>
+    <ecommerce_id>738803012</ecommerce_id>
+    <title>Ghost-Fu!</title>
+    <url>https://hopincraftbier.be/products/parish-ghost-fu</url>
+    <brewery_name>Parish Brewing Co.</brewery_name>
+    <price>10.94</price>
+    <regular_price>10.94</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5484692264.png</image>
+    <beer_description>If crafting hazy IPAs were martial arts, our latest collab with @NorthPark represents a twirling 360 drop kick. Presenting: Ghost-Fu! Over the years we’ve become good friends, hanging out at beer fests across the globe, and now we’ve finally teamed up with these IPA legends to brew a rad West Coast DIPA using some of the processes and procedures they do in San Diego! North Park’s Hop-Fu! is their quintessential West Coast IPA that we’ve used as a starting point for Ghost-Fu! Dosed heavily with Simcoe Dynaboost and dry-hopped with Citra, Mosaic, and Amarillo, it packs the familiar juicy punch of Ghost in the Machine but isn’t hazy and drinks smooth for a Double IPA. Hii-yah! - Parish Brewing Co. - Ghost-Fu!</beer_description>
+    <beer_style>IPA - Imperial / Double</beer_style>
+    <beer_abv>8%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>United States</brewery_country>
+    <date_canned>2025-03-28</date_canned>
+    <untappd_id>6202658</untappd_id>
   </item>
   <item>
     <id>6204470</id>
@@ -6845,6 +6467,24 @@
     <untappd_id>6065243</untappd_id>
   </item>
   <item>
+    <id>5751661</id>
+    <ecommerce_id>738467820</ecommerce_id>
+    <title>Through the Ages: A Concept of Linearity (Bourbon Barrel Coconut 2023 Edition)</title>
+    <url>https://hopincraftbier.be/products/alefarm-through-the-ages-a-concept-of-linearity-bourbon-barrel-coconut-2023-edition</url>
+    <brewery_name>Alefarm Brewing</brewery_name>
+    <price>17</price>
+    <regular_price>17.00</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4840928220.png</image>
+    <beer_description>Imperial Stout aged in Bourbon barrels for 17 months and conditioned on coconut flakes. -</beer_description>
+    <beer_style>Stout - Imperial / Double</beer_style>
+    <beer_abv>11.8%</beer_abv>
+    <beer_volume>375 ml</beer_volume>
+    <beer_package>bottle</beer_package>
+    <brewery_country>Denmark</brewery_country>
+    <date_best_before>10/2028</date_best_before>
+    <untappd_id>5751661</untappd_id>
+  </item>
+  <item>
     <id>6121788</id>
     <ecommerce_id>738466946</ecommerce_id>
     <title>Starfield Project (PULP • w. Vault City)</title>
@@ -6861,6 +6501,24 @@
     <brewery_country>Sweden</brewery_country>
     <date_best_before>2027-03-01</date_best_before>
     <untappd_id>6121788</untappd_id>
+  </item>
+  <item>
+    <id>3127108</id>
+    <ecommerce_id>738467167</ecommerce_id>
+    <title>Hollow Names</title>
+    <url>https://hopincraftbier.be/products/alefarm-hollow-names</url>
+    <brewery_name>Alefarm Brewing</brewery_name>
+    <price>7.01</price>
+    <regular_price>7.01</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/738467167/4840926929.png</image>
+    <beer_description>DIPA with Mosaic BBC and Amarillo BBC.</beer_description>
+    <beer_style>IPA - Imperial / Double</beer_style>
+    <beer_abv>8%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Denmark</brewery_country>
+    <date_best_before>2026-01-28</date_best_before>
+    <untappd_id>3127108</untappd_id>
   </item>
   <item>
     <id>6121787</id>
@@ -7111,6 +6769,24 @@
     <untappd_id>6186139</untappd_id>
   </item>
   <item>
+    <id>4980154</id>
+    <ecommerce_id>735435927</ecommerce_id>
+    <title>Turbulent Flow</title>
+    <url>https://hopincraftbier.be/products/spyglass-turbulent-flow</url>
+    <brewery_name>Spyglass Brewing Company</brewery_name>
+    <price>11.97</price>
+    <regular_price>11.97</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4842403234.png</image>
+    <beer_description>A New England style Double IPA hopped with Citra and Rakau hops. -</beer_description>
+    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
+    <beer_abv>8.3%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>United States</brewery_country>
+    <date_canned>2025-04-07</date_canned>
+    <untappd_id>4980154</untappd_id>
+  </item>
+  <item>
     <id>4485711</id>
     <ecommerce_id>734051352</ecommerce_id>
     <title>Window of Opportunity</title>
@@ -7197,6 +6873,24 @@
     <date_canned>2025-03-18</date_canned>
     <untappd_id>3898085</untappd_id>
   </item>
-  <timestamp>1774980005</timestamp>
-  <gen_date>31/03/2026 20:00:05</gen_date>
+  <item>
+    <id>593083</id>
+    <ecommerce_id>734051348</ecommerce_id>
+    <title>Ghost In the Machine (2025)</title>
+    <url>https://hopincraftbier.be/products/parish-ghost-in-the-machine-2025</url>
+    <brewery_name>Parish Brewing Co.</brewery_name>
+    <price>9.92</price>
+    <regular_price>9.92</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5484670076.png</image>
+    <beer_description>Welcome to the future. Our collective human consciousness, or Ghost in the Machine, has gained a tolerance for hops beyond what mankind has ever known before. This double India Pale Ale is the necessary outcome. Brewed with obscene quantities of hand-selected Citra hops from our favorite farm in Yakima Valley, WA. Expect pungent grapefruit aromas and flavors, tropical fruit, and less harsh bitterness than most DIPAs. -</beer_description>
+    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
+    <beer_abv>8%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>United States</brewery_country>
+    <date_canned>2025-03-27</date_canned>
+    <untappd_id>593083</untappd_id>
+  </item>
+  <timestamp>1774980906</timestamp>
+  <gen_date>31/03/2026 20:15:06</gen_date>
 </feed>
