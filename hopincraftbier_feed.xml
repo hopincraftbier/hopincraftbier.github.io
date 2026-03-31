@@ -2945,23 +2945,6 @@
     <untappd_id>5314503</untappd_id>
   </item>
   <item>
-    <id>2921116</id>
-    <ecommerce_id>787747055</ecommerce_id>
-    <title>Bourbon County Brand Coffee Barleywine (2018)</title>
-    <url>https://hopincraftbier.be/products/goose-island-bourbon-county-brand-coffee-barleywine-2018</url>
-    <brewery_name>Goose Island Beer Co.</brewery_name>
-    <price>14.14</price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/787747055/5247401357.webp</image>
-    <beer_description>Working with our friends at Intelligentsia, we flew down to Guatemala to source some of the world's best coffee to use as we release the first-ever Coffee Barleywine. The beer is an English-style Barleywine, meaning malt forward, and aged in 4+ year old Heaven Hill Bourbon barrels before adding La Soledad coffee beans right before packaging to retain a bold coffee aroma and flavor. Goose Island Beer Co. - Bourbon County Brand Coffee Barleywine (2018)</beer_description>
-    <beer_style>Barleywine - English</beer_style>
-    <beer_abv>15.1%</beer_abv>
-    <beer_volume>500 ml</beer_volume>
-    <beer_package>bottle</beer_package>
-    <brewery_country>United States</brewery_country>
-    <date_canned>2018-09-27</date_canned>
-    <untappd_id>2921116</untappd_id>
-  </item>
-  <item>
     <id>6407737</id>
     <ecommerce_id>787747054</ecommerce_id>
     <title>Deth's Tar (2025)</title>
@@ -4216,24 +4199,6 @@
     <untappd_id>4969423</untappd_id>
   </item>
   <item>
-    <id>6271344</id>
-    <ecommerce_id>768809793</ecommerce_id>
-    <title>Flux: Phase 3</title>
-    <url>https://hopincraftbier.be/products/verdant-flux-phase-3</url>
-    <brewery_name>Verdant Brewing Co</brewery_name>
-    <price>4.72</price>
-    <regular_price>9,44</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5062294321.webp</image>
-    <beer_description>An 8% DIPA that lets NZH-101 off the leash! Lime, lemonade, dank. A thing of beauty. FLUX is a really special three beer collaboration with Track. Brewing Co. We have combined our hoppy knowledge to create levels of saturation, flavours and aromatics bordering on the insane! Each beer in the series is an absolute monster with a different New Zealand hop leading the charge: Nelson Sauvin, Nectaron and NZH-101. Verdant Brewing Co - Flux: Phase 3</beer_description>
-    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
-    <beer_abv>8%</beer_abv>
-    <beer_volume>440 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>England</brewery_country>
-    <date_best_before>2026-01-18</date_best_before>
-    <untappd_id>6271344</untappd_id>
-  </item>
-  <item>
     <id>3527025</id>
     <ecommerce_id>767352722</ecommerce_id>
     <title>Vertige</title>
@@ -4969,24 +4934,6 @@
     <untappd_id>3482012</untappd_id>
   </item>
   <item>
-    <id>3705572</id>
-    <ecommerce_id>757090255</ecommerce_id>
-    <title>Ces Vipères</title>
-    <url>https://hopincraftbier.be/products/messorem-ces-viperes</url>
-    <brewery_name>Messorem</brewery_name>
-    <price>5.69</price>
-    <regular_price>11,38</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5438371287.png</image>
-    <beer_description>DIPA - Citra, Galaxy, Strata, El Dorado Messorem - Ces Viperes</beer_description>
-    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
-    <beer_abv>9.1%</beer_abv>
-    <beer_volume>473 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Canada</brewery_country>
-    <date_canned>2025-06-02</date_canned>
-    <untappd_id>3705572</untappd_id>
-  </item>
-  <item>
     <id>6256812</id>
     <ecommerce_id>756989449</ecommerce_id>
     <title>Oban</title>
@@ -5469,22 +5416,6 @@
     <brewery_country>United States</brewery_country>
     <date_canned>2025-04-24</date_canned>
     <untappd_id>3832900</untappd_id>
-  </item>
-  <item>
-    <id>5850335</id>
-    <ecommerce_id>751537021</ecommerce_id>
-    <title>Double Double Mash</title>
-    <url>https://hopincraftbier.be/products/the-bruery-double-double-mash</url>
-    <brewery_name>The Bruery</brewery_name>
-    <price>16.72</price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4932668390.png</image>
-    <beer_description>Double Bourbon Barrel-Aged Barleywine Ale Double Double Mash is a double barrel-aged barleywine ale that packs double the indulgence. Aged first in Buffalo Trace bourbon barrels, then Heaven Hill bourbon barrels for another year, it offers rich aromas of oak, vanilla and fig. The velvety caramel toast and fig jam flavors mingle with charred vanilla notes. The journey concludes with a mildly sweet and clean finish, a testament to refined craftsmanship. The Bruery - Double Double Mash</beer_description>
-    <beer_style>Barleywine - American</beer_style>
-    <beer_abv>15.7%</beer_abv>
-    <beer_volume>375 ml</beer_volume>
-    <beer_package>bottle</beer_package>
-    <brewery_country>United States</brewery_country>
-    <untappd_id>5850335</untappd_id>
   </item>
   <item>
     <id>2977936</id>
@@ -5971,24 +5902,6 @@
     <beer_package>bottle</beer_package>
     <brewery_country>United States</brewery_country>
     <untappd_id>5342038</untappd_id>
-  </item>
-  <item>
-    <id>6228732</id>
-    <ecommerce_id>751543252</ecommerce_id>
-    <title>Des Bonnes Gouttes</title>
-    <url>https://hopincraftbier.be/products/messorem-des-bonnes-gouttes</url>
-    <brewery_name>Messorem</brewery_name>
-    <price>5.64</price>
-    <regular_price>11.28</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5438371501.webp</image>
-    <beer_description>Double IPA - Citra, Citra Cryo, Citra Dynaboost, Citra Hyperboost, Motueka Messorem - Des Bonnes Gouttes</beer_description>
-    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
-    <beer_abv>8%</beer_abv>
-    <beer_volume>473 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Canada</brewery_country>
-    <date_best_before>2026-04-14</date_best_before>
-    <untappd_id>6228732</untappd_id>
   </item>
   <item>
     <id>4739060</id>
@@ -6592,24 +6505,6 @@
     <untappd_id>6180169</untappd_id>
   </item>
   <item>
-    <id>5689828</id>
-    <ecommerce_id>735435486</ecommerce_id>
-    <title>Barrel-Aged Speedway Stout: Vanilla Shake (2024)</title>
-    <url>https://hopincraftbier.be/products/alesmith-barrel-aged-speedway-stout-vanilla-shake-2024</url>
-    <brewery_name>AleSmith Brewing Company</brewery_name>
-    <price>8.37</price>
-    <regular_price>16.74</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4827551426.png</image>
-    <beer_description>This Barrel-Aged blend of Speedway Stout and Beer Geek Vanilla Shake has been aged in Premium Bourbon barrels with the addition of locally roasted coffee and three varieties of vanilla beans. Each sip transports your taste buds to a world of silky smoothness, where the bold flavors of coffee and vanilla dance harmoniously with the subtle hints of sweet bourbon. Mikkeller collab. -</beer_description>
-    <beer_style>Stout - Imperial / Double Coffee</beer_style>
-    <beer_abv>14%</beer_abv>
-    <beer_volume>473 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>United States</brewery_country>
-    <date_canned>2024-03-08</date_canned>
-    <untappd_id>5689828</untappd_id>
-  </item>
-  <item>
     <id>6117115</id>
     <ecommerce_id>735435484</ecommerce_id>
     <title>Granny's Candy Bowl</title>
@@ -6891,24 +6786,6 @@
     <untappd_id>5263247</untappd_id>
   </item>
   <item>
-    <id>3898085</id>
-    <ecommerce_id>734051595</ecommerce_id>
-    <title>One Hunna : Galaxy</title>
-    <url>https://hopincraftbier.be/products/messorem-one-hunna-galaxy</url>
-    <brewery_name>Messorem</brewery_name>
-    <price>5.64</price>
-    <regular_price>11.28</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4824305239.png</image>
-    <beer_description>Double IPA - Galaxy - Messorem - One Hunna : Galaxy</beer_description>
-    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
-    <beer_abv>8%</beer_abv>
-    <beer_volume>473 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Canada</brewery_country>
-    <date_canned>2025-03-18</date_canned>
-    <untappd_id>3898085</untappd_id>
-  </item>
-  <item>
     <id>593083</id>
     <ecommerce_id>734051348</ecommerce_id>
     <title>Ghost In the Machine (2025)</title>
@@ -6926,6 +6803,6 @@
     <date_canned>2025-03-27</date_canned>
     <untappd_id>593083</untappd_id>
   </item>
-  <timestamp>1774994406</timestamp>
-  <gen_date>01/04/2026 00:00:06</gen_date>
+  <timestamp>1774995306</timestamp>
+  <gen_date>01/04/2026 00:15:06</gen_date>
 </feed>
