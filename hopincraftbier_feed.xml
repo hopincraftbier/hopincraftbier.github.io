@@ -4728,7 +4728,7 @@
     <url>https://hopincraftbier.be/products/galea-a-deathless-song</url>
     <brewery_name>Galea Craft Beers</brewery_name>
     <price>8.65</price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5015384976.webp</image>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/762752710/5015384976.webp</image>
     <beer_description>This Barrel aged Tiramisu stout was created for the wedding of Caitlin and Robin. Aged for 1,5 years on a Jamaican Rum barrel and 2 Bourbon Barrels. Brewed with typical Boudoir cookies and coffeebeans, infused with homemade Amaretto. Galea Craft Beers - A Deathless Song</beer_description>
     <beer_style>Stout - Imperial / Double</beer_style>
     <beer_abv>11.5%</beer_abv>
@@ -5666,7 +5666,7 @@
     <url>https://hopincraftbier.be/products/nano-cinco-hello-my-name-is-vanille</url>
     <brewery_name>Nano Cinco</brewery_name>
     <price>28.68</price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5476598884.png</image>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/751543258/5476598884.png</image>
     <beer_description>Imperial stout aged in rye whisky barrels that previously held maple syrup, then finished with Mexican vanilla. A particularly rich and syrupy beer with notes of maple syrup, vanilla, cocoa, and spirits. Nano Cinco - Hello My Name Is - Vanille</beer_description>
     <beer_style>Stout - Imperial / Double</beer_style>
     <beer_abv>11.9%</beer_abv>
@@ -6908,6 +6908,6 @@
     <date_canned>2025-03-27</date_canned>
     <untappd_id>593083</untappd_id>
   </item>
-  <timestamp>1774981805</timestamp>
-  <gen_date>31/03/2026 20:30:05</gen_date>
+  <timestamp>1774984505</timestamp>
+  <gen_date>31/03/2026 21:15:05</gen_date>
 </feed>
