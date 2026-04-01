@@ -5282,23 +5282,6 @@
     <untappd_id>1298579</untappd_id>
   </item>
   <item>
-    <id>6263449</id>
-    <ecommerce_id>756995306</ecommerce_id>
-    <title>Sancticide</title>
-    <url>https://hopincraftbier.be/products/all-my-friends-sancticide</url>
-    <brewery_name>All My Friends Beer Co.</brewery_name>
-    <price>5.62</price>
-    <regular_price>11,23</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/756995306/4965523097.webp</image>
-    <beer_description>It’s safe to say our love for the guys over at Third Moon cannot be overstated. Not only are they amazing at making great beer but they are some of the best humans we have met during our journey as a brewery. Sancticide is another great beer brewed between friends. Santicide was brewed with pale colour and thick haze in mind. Pouring extremely pale yellow, with a thick creamy haze. This DIPA boasts a nose of lime, melon, and tropical citrus. So so silky smooth with a luscious full mouthfeel carrying flavours of key lime pie, papaya, mango, and zesty citrus. Delicious and so easy to drink with a dry clean finish. All My Friends Beer Co. - Sancticide</beer_description>
-    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
-    <beer_abv>8.2%</beer_abv>
-    <beer_volume>473 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Canada</brewery_country>
-    <untappd_id>6263449</untappd_id>
-  </item>
-  <item>
     <id>6267193</id>
     <ecommerce_id>756871743</ecommerce_id>
     <title>Turbinis</title>
@@ -6065,23 +6048,6 @@
     <untappd_id>6229806</untappd_id>
   </item>
   <item>
-    <id>6047751</id>
-    <ecommerce_id>751529009</ecommerce_id>
-    <title>Strange Philosophies 112</title>
-    <url>https://hopincraftbier.be/products/mortalis-strange-philosophies-112</url>
-    <brewery_name>Mortalis Brewing Company</brewery_name>
-    <price>6.16</price>
-    <regular_price>12,31</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4932639791.png</image>
-    <beer_description>This Double IPA is part of our exploration series. Too often, we become complacent and forget to push the boundaries and search the unending hop combinations to find a stroke of genius. Time to get back to class! This version features Freestyle Nelson and Freestyle Nelson Subzero Hop Kief. Cheers! Mortalis Brewing Company - Strange Philosophies 112</beer_description>
-    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
-    <beer_abv>8%</beer_abv>
-    <beer_volume>473 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>United States</brewery_country>
-    <untappd_id>6047751</untappd_id>
-  </item>
-  <item>
     <id>6228771</id>
     <ecommerce_id>751542502</ecommerce_id>
     <title>BB Kush - 2025</title>
@@ -6843,6 +6809,6 @@
     <date_canned>2025-03-27</date_canned>
     <untappd_id>593083</untappd_id>
   </item>
-  <timestamp>1775036705</timestamp>
-  <gen_date>01/04/2026 11:45:05</gen_date>
+  <timestamp>1775037605</timestamp>
+  <gen_date>01/04/2026 12:00:05</gen_date>
 </feed>
