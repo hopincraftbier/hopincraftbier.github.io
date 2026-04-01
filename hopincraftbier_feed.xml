@@ -877,24 +877,6 @@
     <untappd_id>6208805</untappd_id>
   </item>
   <item>
-    <id>6205524</id>
-    <ecommerce_id>812145282</ecommerce_id>
-    <title>Neca-Tron (2025)</title>
-    <url>https://hopincraftbier.be/products/wood-brothers-neca-tron-2025</url>
-    <brewery_name>Wood Brothers Brewing Co.</brewery_name>
-    <price>5.2</price>
-    <regular_price>10.39</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/812145282/5552896132.png</image>
-    <beer_description>Brewed with Nectaron and Riwaka -</beer_description>
-    <beer_style>IPA - New England / Hazy</beer_style>
-    <beer_abv>6.5%</beer_abv>
-    <beer_volume>473 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Canada</brewery_country>
-    <date_canned>2025-03-26</date_canned>
-    <untappd_id>6205524</untappd_id>
-  </item>
-  <item>
     <id>6102160</id>
     <ecommerce_id>812141502</ecommerce_id>
     <title>Hipodèrmia</title>
@@ -3669,23 +3651,6 @@
     <untappd_id>6384350</untappd_id>
   </item>
   <item>
-    <id>6384345</id>
-    <ecommerce_id>779028141</ecommerce_id>
-    <title>Bouncy Ride</title>
-    <url>https://hopincraftbier.be/products/norm-bouncy-ride</url>
-    <brewery_name>Norm Brewing</brewery_name>
-    <price>3.05</price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5500080391.png</image>
-    <beer_description>Bouncy, bumpy, shaky, that’s what we love when meeting our favorite and the loveliest hooligans ever ! We used what we love the most, NZ hops, a bit of science, high hop charges, love and everything in a sticky Double Hazy IPA. A hint of science during the whirpool with a charge of YCH 702 / Dynaboost Mosaic to start with what we are excepting from a DIPA, tropics, mango and guava. Then to give some more complexity, we massively dry hopped with Waimea and Nectaron to bring bright citrus, pomelo, stone &amp; tropical fruits, peachy and apricoty like notes before going to a slight piney finish. Norm Brewing - Bouncy Ride</beer_description>
-    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
-    <beer_abv>8%</beer_abv>
-    <beer_volume>440 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Belgium</brewery_country>
-    <date_best_before>05/2026</date_best_before>
-    <untappd_id>6384345</untappd_id>
-  </item>
-  <item>
     <id>6375119</id>
     <ecommerce_id>779012801</ecommerce_id>
     <title>Roulez Jeunesse</title>
@@ -4655,24 +4620,6 @@
     <brewery_country>France</brewery_country>
     <date_best_before>2026-05-11</date_best_before>
     <untappd_id>4367493</untappd_id>
-  </item>
-  <item>
-    <id>6341271</id>
-    <ecommerce_id>767065955</ecommerce_id>
-    <title>Ponder</title>
-    <url>https://hopincraftbier.be/products/revenant-ponder</url>
-    <brewery_name>Revenant Brewing Project</brewery_name>
-    <price>3.34</price>
-    <regular_price>6.68</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5049166012.webp</image>
-    <beer_description>Hops: Nelson + Superdelic + Citra - Revenant Brewing Project - Ponder</beer_description>
-    <beer_style>IPA - Triple New England / Hazy</beer_style>
-    <beer_abv>9.7%</beer_abv>
-    <beer_volume>440 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Finland</brewery_country>
-    <date_best_before>Eind 04/2026</date_best_before>
-    <untappd_id>6341271</untappd_id>
   </item>
   <item>
     <id>6341269</id>
@@ -6634,6 +6581,6 @@
     <date_canned>2025-03-27</date_canned>
     <untappd_id>593083</untappd_id>
   </item>
-  <timestamp>1775059205</timestamp>
-  <gen_date>01/04/2026 18:00:05</gen_date>
+  <timestamp>1775067306</timestamp>
+  <gen_date>01/04/2026 20:15:06</gen_date>
 </feed>
