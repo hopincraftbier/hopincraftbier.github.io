@@ -2059,23 +2059,6 @@
     <untappd_id>6497918</untappd_id>
   </item>
   <item>
-    <id>6479992</id>
-    <ecommerce_id>798975559</ecommerce_id>
-    <title>Straight Jacket (2025)</title>
-    <url>https://hopincraftbier.be/products/revolution-straight-jacket-2025</url>
-    <brewery_name>Revolution Brewing</brewery_name>
-    <price>11.76</price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/798975559/5409426870.png</image>
-    <beer_description>The soul of Barleywine channeled through vivifying bourbon barrels and blended with an alchemist's touch. Summon notes of caramel, stone fruit, brown sugar, and vanilla with each generous swirl. Revolution Brewing - Straight Jacket (2025)</beer_description>
-    <beer_style>Barleywine - English</beer_style>
-    <beer_abv>15%</beer_abv>
-    <beer_volume>355 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>United States</brewery_country>
-    <date_canned>2025-10-28</date_canned>
-    <untappd_id>6479992</untappd_id>
-  </item>
-  <item>
     <id>6480717</id>
     <ecommerce_id>798972866</ecommerce_id>
     <title>Life After Death Star (Batch 7) 2025</title>
@@ -4955,24 +4938,6 @@
     <untappd_id>5571412</untappd_id>
   </item>
   <item>
-    <id>6291421</id>
-    <ecommerce_id>758587302</ecommerce_id>
-    <title>9 Years: Journey To Hades</title>
-    <url>https://hopincraftbier.be/products/moersleutel-9-years-journey-to-hades</url>
-    <brewery_name>Moersleutel Craft Brewery</brewery_name>
-    <price>3.76</price>
-    <regular_price>7.51</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4972515071.webp</image>
-    <beer_description>A trip to the underworld has never been this tropical. Journey to Hades is a bold TIPA bursting with flavors of passionfruit, lemon zest, and tangerine. Brewed with Riwaka in T90, Cryo, and Amplifire Oil, plus Idaho-7 and Citra in T90, Cryo, and hop oil extract form. Riwaka stands out with its intense passionfruit and citrus punch – truly breathtaking. The Amplifire Oil is made from ultra-fresh Riwaka hops, processed into oil the same day they're picked. You can’t get any fresher than that. Double mashed and packed with character. Over the top? Absolutely. But above all: seriously delicious. Moersleutel Craft Brewery - 9 Years: Journey To Hades</beer_description>
-    <beer_style>IPA - Triple</beer_style>
-    <beer_abv>9%</beer_abv>
-    <beer_volume>440 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>The Netherlands</brewery_country>
-    <date_best_before>2026-05-28</date_best_before>
-    <untappd_id>6291421</untappd_id>
-  </item>
-  <item>
     <id>6291425</id>
     <ecommerce_id>758587301</ecommerce_id>
     <title>9 Years: Return To Ithaca</title>
@@ -5060,23 +5025,6 @@
     <beer_package>can</beer_package>
     <brewery_country>Canada</brewery_country>
     <untappd_id>6280326</untappd_id>
-  </item>
-  <item>
-    <id>6280321</id>
-    <ecommerce_id>756989448</ecommerce_id>
-    <title>Forteresse</title>
-    <url>https://hopincraftbier.be/products/nano-cinco-forteresse</url>
-    <brewery_name>Nano Cinco</brewery_name>
-    <price>6.12</price>
-    <regular_price>12,24</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4966298112.webp</image>
-    <beer_description>Forteresse is a New England Quadruple IPA brewed in collaboration with our friends at Bière Boréale. Intensely hopped, it showcases an exceptional selection of hops from Freestyle Hops and Jackson Hop Farm: Peacharine, Nelson Sauvin, Motueka SubZero Hop Kief (Freestyle), and ID-158 Pink (Jackson). This combination unfolds vibrant aromas of Sauvignon Blanc, nectarine, and citrus, carried by a silky texture. A powerful beer whose velvety smoothness cleverly masks its high alcohol content. Nano Cinco - Forteresse</beer_description>
-    <beer_style>IPA - Quadruple</beer_style>
-    <beer_abv>11%</beer_abv>
-    <beer_volume>473 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Canada</brewery_country>
-    <untappd_id>6280321</untappd_id>
   </item>
   <item>
     <id>6250418</id>
@@ -6704,6 +6652,6 @@
     <date_canned>2025-03-27</date_canned>
     <untappd_id>593083</untappd_id>
   </item>
-  <timestamp>1775052906</timestamp>
-  <gen_date>01/04/2026 16:15:06</gen_date>
+  <timestamp>1775057406</timestamp>
+  <gen_date>01/04/2026 17:30:06</gen_date>
 </feed>
