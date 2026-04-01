@@ -11,7 +11,7 @@ const txtEn3 = '</td><td>€ ';
 const txtEn4 = '</td></tr><tr><td class="header">Online payment</td><td>€ ';
 const txtEn5 = '</td><td>€ 0</td></tr></tbody></table></div>';
 
-const countries = ['BE','NL','FR','DE','LU','ES','FI','IT','DE','AT','LV','LT','EE','IE','PT','SE','PL','GR','RO','CZ','HU','HR'];
+const countries = ['BE','NL','FR','DE','LU','ES','FI','IT','DE','AT','LV','LT','EE','IE','PT','SE','PL','GR','RO','CZ','HU','HR', 'DK'];
 
 let debug = false;
 let prodMode = true;
