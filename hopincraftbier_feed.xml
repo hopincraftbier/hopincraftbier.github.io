@@ -4974,24 +4974,6 @@
     <untappd_id>6291430</untappd_id>
   </item>
   <item>
-    <id>3482012</id>
-    <ecommerce_id>757089763</ecommerce_id>
-    <title>Everybody Wants Some!! 3X (Citra)</title>
-    <url>https://hopincraftbier.be/products/hoof-hearted-everybody-wants-some-3x-citra</url>
-    <brewery_name>Hoof Hearted Brewing</brewery_name>
-    <price>5.52</price>
-    <regular_price>11,03</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4966119989.webp</image>
-    <beer_description>Hoof Hearted Brewing - Everybody Wants Some!! 3X (Citra)</beer_description>
-    <beer_style>IPA - Triple New England / Hazy</beer_style>
-    <beer_abv>9.2%</beer_abv>
-    <beer_volume>473 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>United States</brewery_country>
-    <date_canned>2025-06-04</date_canned>
-    <untappd_id>3482012</untappd_id>
-  </item>
-  <item>
     <id>6256812</id>
     <ecommerce_id>756989449</ecommerce_id>
     <title>Oban</title>
@@ -6652,6 +6634,6 @@
     <date_canned>2025-03-27</date_canned>
     <untappd_id>593083</untappd_id>
   </item>
-  <timestamp>1775057406</timestamp>
-  <gen_date>01/04/2026 17:30:06</gen_date>
+  <timestamp>1775059205</timestamp>
+  <gen_date>01/04/2026 18:00:05</gen_date>
 </feed>
