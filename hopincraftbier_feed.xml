@@ -101,6 +101,56 @@
     <untappd_id>6596577</untappd_id>
   </item>
   <item>
+    <id>6591597</id>
+    <ecommerce_id>826594427</ecommerce_id>
+    <title>L'Éveil Des Géants</title>
+    <url>https://hopincraftbier.be/products/fauve-leveil-des-geants</url>
+    <brewery_name>Fauve</brewery_name>
+    <price>7.1</price>
+    <regular_price>7.10</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/826594427/5683888375.png</image>
+    <beer_description>We worked on the malt bill of this Double NEIPA DDH as a marriage of barley, oats and wheat capable of creating a smooth and indulgent body, on the basis of which the hops can express themselves as if by magic: the Nelson Sauvin releases its white grape thiols, on which the exoticism of Mosaic and Sabro combines wonderfully! Fauve - L'Eveil Des Geants</beer_description>
+    <beer_style>IPA - Imperial / Double</beer_style>
+    <beer_abv>8%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>France</brewery_country>
+    <untappd_id>6591597</untappd_id>
+  </item>
+  <item>
+    <id>6596570</id>
+    <ecommerce_id>826591949</ecommerce_id>
+    <title>L'Or Du Soir</title>
+    <url>https://hopincraftbier.be/products/fauve-lor-du-soir</url>
+    <brewery_name>Fauve</brewery_name>
+    <price>8.12</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/826591949/5683888151.png</image>
+    <beer_description>This beer is a blend of an Imperial Stout aged for 30 months in French whisky barrels and a young Barley White aged for 4 months in Bourbon barrels. After blending, we infused beautiful vanilla pods to add a rich, smooth flavor to this blend! Fauve - L'Or Du Soir</beer_description>
+    <beer_style>Stout - Imperial / Double</beer_style>
+    <beer_abv>11%</beer_abv>
+    <beer_volume>330 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>France</brewery_country>
+    <untappd_id>6596570</untappd_id>
+  </item>
+  <item>
+    <id>6622277</id>
+    <ecommerce_id>826600188</ecommerce_id>
+    <title>Hommage aux Cent Ponts</title>
+    <url>https://hopincraftbier.be/products/fauve-hommage-aux-cent-ponts</url>
+    <brewery_name>Fauve</brewery_name>
+    <price>7.1</price>
+    <regular_price>7.10</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/826600188/5683888157.png</image>
+    <beer_description>This beer is the result of a collaboration with our Polish friends at Browar Stu Mostów. Its name, "Homage to the Hundred Bridges," is a nod to their city of Wrocław, the "Polish Venice." Brewed for the 2026 edition of Beer Geek Madness, this beer features three iconic hops: Nectaron, Galaxy, and Simcoe, which together develop delicious notes of juicy pineapple and passion fruit, with a wonderfully resinous finish. Fauve - Hommage aux Cent Ponts</beer_description>
+    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
+    <beer_abv>7.5%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>France</brewery_country>
+    <untappd_id>6622277</untappd_id>
+  </item>
+  <item>
     <id>6178075</id>
     <ecommerce_id>826381626</ecommerce_id>
     <title>TDH Riwaka X Galaxy DIPA</title>
@@ -5239,7 +5289,7 @@
     <brewery_name>All My Friends Beer Co.</brewery_name>
     <price>5.62</price>
     <regular_price>11,23</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4965523097.webp</image>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/756995306/4965523097.webp</image>
     <beer_description>It’s safe to say our love for the guys over at Third Moon cannot be overstated. Not only are they amazing at making great beer but they are some of the best humans we have met during our journey as a brewery. Sancticide is another great beer brewed between friends. Santicide was brewed with pale colour and thick haze in mind. Pouring extremely pale yellow, with a thick creamy haze. This DIPA boasts a nose of lime, melon, and tropical citrus. So so silky smooth with a luscious full mouthfeel carrying flavours of key lime pie, papaya, mango, and zesty citrus. Delicious and so easy to drink with a dry clean finish. All My Friends Beer Co. - Sancticide</beer_description>
     <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
     <beer_abv>8.2%</beer_abv>
@@ -6783,7 +6833,7 @@
     <brewery_name>Parish Brewing Co.</brewery_name>
     <price>4.96</price>
     <regular_price>9.92</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5484670076.png</image>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/734051348/5484670076.png</image>
     <beer_description>Welcome to the future. Our collective human consciousness, or Ghost in the Machine, has gained a tolerance for hops beyond what mankind has ever known before. This double India Pale Ale is the necessary outcome. Brewed with obscene quantities of hand-selected Citra hops from our favorite farm in Yakima Valley, WA. Expect pungent grapefruit aromas and flavors, tropical fruit, and less harsh bitterness than most DIPAs. -</beer_description>
     <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
     <beer_abv>8%</beer_abv>
@@ -6793,6 +6843,6 @@
     <date_canned>2025-03-27</date_canned>
     <untappd_id>593083</untappd_id>
   </item>
-  <timestamp>1775036432</timestamp>
-  <gen_date>01/04/2026 11:40:32</gen_date>
+  <timestamp>1775036705</timestamp>
+  <gen_date>01/04/2026 11:45:05</gen_date>
 </feed>
