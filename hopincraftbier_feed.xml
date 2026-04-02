@@ -4905,23 +4905,6 @@
     <untappd_id>6280326</untappd_id>
   </item>
   <item>
-    <id>6280321</id>
-    <ecommerce_id>756989448</ecommerce_id>
-    <title>Forteresse</title>
-    <url>https://hopincraftbier.be/products/nano-cinco-forteresse</url>
-    <brewery_name>Nano Cinco</brewery_name>
-    <price>6.12</price>
-    <regular_price>12,24</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4966298112.webp</image>
-    <beer_description>Forteresse is a New England Quadruple IPA brewed in collaboration with our friends at Bière Boréale. Intensely hopped, it showcases an exceptional selection of hops from Freestyle Hops and Jackson Hop Farm: Peacharine, Nelson Sauvin, Motueka SubZero Hop Kief (Freestyle), and ID-158 Pink (Jackson). This combination unfolds vibrant aromas of Sauvignon Blanc, nectarine, and citrus, carried by a silky texture. A powerful beer whose velvety smoothness cleverly masks its high alcohol content. Nano Cinco - Forteresse</beer_description>
-    <beer_style>IPA - Quadruple</beer_style>
-    <beer_abv>11%</beer_abv>
-    <beer_volume>473 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Canada</brewery_country>
-    <untappd_id>6280321</untappd_id>
-  </item>
-  <item>
     <id>6250418</id>
     <ecommerce_id>756989446</ecommerce_id>
     <title>Bistro Peach Strawberry Rhubarb Cobbler</title>
@@ -5071,24 +5054,6 @@
     <beer_package>can</beer_package>
     <brewery_country>United States</brewery_country>
     <untappd_id>1298579</untappd_id>
-  </item>
-  <item>
-    <id>6267193</id>
-    <ecommerce_id>756871743</ecommerce_id>
-    <title>Turbinis</title>
-    <url>https://hopincraftbier.be/products/brasserie-du-bas-canada-turbinis</url>
-    <brewery_name>Brasserie du Bas-Canada</brewery_name>
-    <price>6.22</price>
-    <regular_price>12,44</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/756871743/4965652164.webp</image>
-    <beer_description>Triple IPA aux houblons Riwaka, Rakau, Motueka &amp; Nelson Sauvin Brasserie du Bas-Canada - Turbinis</beer_description>
-    <beer_style>IPA - Triple</beer_style>
-    <beer_abv>10%</beer_abv>
-    <beer_volume>473 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Canada</brewery_country>
-    <date_canned>2025-05-01</date_canned>
-    <untappd_id>6267193</untappd_id>
   </item>
   <item>
     <id>6261817</id>
@@ -6458,6 +6423,6 @@
     <brewery_country>United States</brewery_country>
     <untappd_id>5263247</untappd_id>
   </item>
-  <timestamp>1775161580</timestamp>
-  <gen_date>02/04/2026 22:26:20</gen_date>
+  <timestamp>1775164506</timestamp>
+  <gen_date>02/04/2026 23:15:06</gen_date>
 </feed>
