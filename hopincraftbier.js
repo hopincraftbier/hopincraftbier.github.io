@@ -1,4 +1,4 @@
-const version = 'v6.68';
+const version = 'v6.69';
 const txtNl1 = '<div class="dtooltip"><p class="hover question">Kortingscoupon</p><p class="dtooltiptext">Afhankelijk van de gekozen betaling en levering, kunt u een kortingscoupon krijgen die te gebruiken is bij een volgende bestelling. Voor dit bier ziet u de bedragen in deze tabel</p></div><table class="discount-table"><thead><tr class="first_header"><th></th><th colspan="2">Manier van levering</th></tr><tr><th>Manier van betaling</th><th>Afhaling</th><th>Levering</th></tr></thead><tbody><tr><td class="header">Betalen bij afhaling</td><td>€ ';
 const txtNl2 = '</td><td> - </td></tr><tr><td class="header">Overschrijving</td><td>€ ';
 const txtNl3 = '</td><td>€ ';
@@ -11,7 +11,7 @@ const txtEn3 = '</td><td>€ ';
 const txtEn4 = '</td></tr><tr><td class="header">Online payment</td><td>€ ';
 const txtEn5 = '</td><td>€ 0</td></tr></tbody></table></div>';
 
-const countries = ['BE','NL','FR','DE','LU','ES','FI','IT','DE','AT','LV','LT','EE','IE','PT','SE','PL','GR','RO','CZ','HU','HR', 'DK'];
+const countries = ['BE','NL','FR','DE','LU','ES','FI','IT','DE','AT','LV','LT','EE','IE','PT','SE','PL','GR','RO','CZ','HU','HR', 'DK', 'IS'];
 
 let debug = false;
 let prodMode = true;
