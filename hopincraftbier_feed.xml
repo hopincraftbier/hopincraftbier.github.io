@@ -4144,7 +4144,7 @@
     <title>Georgia Gold</title>
     <url>https://hopincraftbier.be/products/garage-georgia-gold</url>
     <brewery_name>Garage Beer Co.</brewery_name>
-    <price>5.54</price>
+    <price>3.7</price>
     <regular_price>7,39</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5073876592.webp</image>
     <beer_description>NO PEACH OR PASSIONFRUIT ADDED! Inspired by the peach and nectarine groves blossoming around Penedès, where the fruit swells day by day. Imagine biting into the juiciest peach ever — dripping down your arms and ruining your t-shirt, but you don’t care. Fermented with White Labs’ London Fog yeast, this brew naturally develops bright passionfruit notes, blending into the ultimate fruit salad with a raspberry drizzle on top. Garage Beer Co. - Georgia Gold</beer_description>
@@ -4162,7 +4162,7 @@
     <title>NEEDLES</title>
     <url>https://hopincraftbier.be/products/garage-needles</url>
     <brewery_name>Garage Beer Co.</brewery_name>
-    <price>5.33</price>
+    <price>3.56</price>
     <regular_price>7,11</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5073875380.webp</image>
     <beer_description>WEST COAST IPA ELABORADA CON CITRA T90 Y SPECTRUM, MOSAIC SPECTRUM, SIMCOE Y COLUMBUS PARA CONSEGUIR SABORES A PIEL DE CÍTRICOS Y PINO Garage Beer Co. - NEEDLES</beer_description>
@@ -4180,7 +4180,7 @@
     <title>CROWNS</title>
     <url>https://hopincraftbier.be/products/garage-crowns</url>
     <brewery_name>Garage Beer Co.</brewery_name>
-    <price>5.93</price>
+    <price>3.96</price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5073875370.webp</image>
     <beer_description>DIPA ELABORADA CON CITRA, STRATA Y MOSAIC (T90 Y SPECTRUM) PARA LOGRAR SABORES A PIÑA Garage Beer Co. - CROWNS</beer_description>
     <beer_style>IPA - Imperial / Double</beer_style>
@@ -6600,6 +6600,6 @@
     <date_canned>2025-03-27</date_canned>
     <untappd_id>593083</untappd_id>
   </item>
-  <timestamp>1775121305</timestamp>
-  <gen_date>02/04/2026 11:15:05</gen_date>
+  <timestamp>1775123106</timestamp>
+  <gen_date>02/04/2026 11:45:06</gen_date>
 </feed>
