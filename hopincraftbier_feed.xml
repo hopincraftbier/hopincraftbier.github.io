@@ -69,6 +69,7 @@
     <beer_volume>440 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>France</brewery_country>
+    <date_best_before>2026-12-12</date_best_before>
     <untappd_id>6622304</untappd_id>
   </item>
   <item>
@@ -818,6 +819,7 @@
     <beer_volume>473 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>Canada</brewery_country>
+    <date_best_before>2027-01-20</date_best_before>
     <untappd_id>6576983</untappd_id>
   </item>
   <item>
@@ -834,6 +836,7 @@
     <beer_volume>473 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>Canada</brewery_country>
+    <date_canned>01/2026</date_canned>
     <untappd_id>6580747</untappd_id>
   </item>
   <item>
@@ -850,6 +853,7 @@
     <beer_volume>473 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>Canada</brewery_country>
+    <date_canned>01/2026</date_canned>
     <untappd_id>6580743</untappd_id>
   </item>
   <item>
@@ -867,6 +871,7 @@
     <beer_volume>473 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>Canada</brewery_country>
+    <date_canned>01/2026</date_canned>
     <untappd_id>6580748</untappd_id>
   </item>
   <item>
@@ -1004,6 +1009,7 @@
     <beer_volume>473 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>Canada</brewery_country>
+    <date_canned>01/2026</date_canned>
     <untappd_id>6013135</untappd_id>
   </item>
   <item>
@@ -1037,6 +1043,7 @@
     <beer_volume>500 ml</beer_volume>
     <beer_package>bottle</beer_package>
     <brewery_country>United States</brewery_country>
+    <date_canned>01/2025</date_canned>
     <untappd_id>4570108</untappd_id>
   </item>
   <item>
@@ -1484,6 +1491,7 @@
     <beer_volume>473 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>United States</brewery_country>
+    <date_canned>2026-01-28</date_canned>
     <untappd_id>1802264</untappd_id>
   </item>
   <item>
@@ -1500,6 +1508,7 @@
     <beer_volume>473 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>Canada</brewery_country>
+    <date_best_before>2027-07-14</date_best_before>
     <untappd_id>6343178</untappd_id>
   </item>
   <item>
@@ -6401,6 +6410,6 @@
     <brewery_country>United States</brewery_country>
     <untappd_id>5263247</untappd_id>
   </item>
-  <timestamp>1775222105</timestamp>
-  <gen_date>03/04/2026 15:15:05</gen_date>
+  <timestamp>1775223005</timestamp>
+  <gen_date>03/04/2026 15:30:05</gen_date>
 </feed>
