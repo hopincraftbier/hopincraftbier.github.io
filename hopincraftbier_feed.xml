@@ -18,6 +18,7 @@
     <beer_volume>440 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>France</brewery_country>
+    <date_best_before>02/2028</date_best_before>
     <untappd_id>6628237</untappd_id>
   </item>
   <item>
@@ -1698,6 +1699,7 @@
     <beer_volume>355 ml</beer_volume>
     <beer_package>bottle</beer_package>
     <brewery_country>United States</brewery_country>
+    <date_canned>2026-01-17</date_canned>
     <untappd_id>6602321</untappd_id>
   </item>
   <item>
@@ -6387,6 +6389,6 @@
     <brewery_country>United States</brewery_country>
     <untappd_id>5263247</untappd_id>
   </item>
-  <timestamp>1775213105</timestamp>
-  <gen_date>03/04/2026 12:45:05</gen_date>
+  <timestamp>1775221206</timestamp>
+  <gen_date>03/04/2026 15:00:06</gen_date>
 </feed>
