@@ -5688,24 +5688,6 @@
     <untappd_id>6228772</untappd_id>
   </item>
   <item>
-    <id>6228775</id>
-    <ecommerce_id>751537012</ecommerce_id>
-    <title>Chemistry</title>
-    <url>https://hopincraftbier.be/products/all-my-friends-chemistry</url>
-    <brewery_name>All My Friends Beer Co.</brewery_name>
-    <price>5.03</price>
-    <regular_price>10,05</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5475139804.png</image>
-    <beer_description>Citra, Motueka, Rakau, Terpenes - Collab with BAOS Podcast All My Friends Beer Co. - Chemistry</beer_description>
-    <beer_style>IPA - New England / Hazy</beer_style>
-    <beer_abv>6.5%</beer_abv>
-    <beer_volume>473 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Canada</brewery_country>
-    <date_canned>2025-04-14</date_canned>
-    <untappd_id>6228775</untappd_id>
-  </item>
-  <item>
     <id>6244270</id>
     <ecommerce_id>751529268</ecommerce_id>
     <title>Sensescape (2025)</title>
@@ -6324,6 +6306,6 @@
     <brewery_country>United States</brewery_country>
     <untappd_id>5263247</untappd_id>
   </item>
-  <timestamp>1775304005</timestamp>
-  <gen_date>04/04/2026 14:00:05</gen_date>
+  <timestamp>1775394004</timestamp>
+  <gen_date>05/04/2026 15:00:04</gen_date>
 </feed>
