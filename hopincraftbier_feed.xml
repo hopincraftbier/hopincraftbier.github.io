@@ -907,7 +907,8 @@
     <title>IUPAC</title>
     <url>https://hopincraftbier.be/products/prizm-iupac</url>
     <brewery_name>Prizm Brewing Co.</brewery_name>
-    <price>6.68</price>
+    <price>5.68</price>
+    <regular_price>6.68</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/811857028/5551432759.png</image>
     <beer_description>With this NEIPA we wanted to go beyond the dank side of our favorite hops so we called our friends from Gross in Spain and together we made a super terpene charged NEIPA full of weedy flavours. NO THC ;) Prizm Brewing Co. - IUPAC</beer_description>
     <beer_style>IPA - New England / Hazy</beer_style>
@@ -924,7 +925,8 @@
     <title>Peadair</title>
     <url>https://hopincraftbier.be/products/funky-fluid-peadair</url>
     <brewery_name>Funky Fluid</brewery_name>
-    <price>14.15</price>
+    <price>12.03</price>
+    <regular_price>14.15</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/811857027/5551432765.png</image>
     <beer_description>A birthday brew from Gliwice’s Beer Brothers - a peat-smoked, intense, and uncompromising Imperial Stout aged in Wild Turkey bourbon barrels. 36blg Funky Fluid - Peadair</beer_description>
     <beer_style>Stout - Imperial / Double</beer_style>
@@ -941,7 +943,7 @@
     <title>Please The Crowds</title>
     <url>https://hopincraftbier.be/products/prizm-please-the-crowds</url>
     <brewery_name>Prizm Brewing Co.</brewery_name>
-    <price>7.2</price>
+    <price>6.12</price>
     <regular_price>7.20</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/811861791/5551425958.png</image>
     <beer_description>FEATURING – Please the crowds DDH Double NEIPA – 8 % Houblons : Citra / Galaxy / Mosaic / Sabro Collab : SOMA (??) Prizm Brewing Co. - Please The Crowds</beer_description>
@@ -959,7 +961,8 @@
     <title>Sunken Ship</title>
     <url>https://hopincraftbier.be/products/prizm-sunken-ship</url>
     <brewery_name>Prizm Brewing Co.</brewery_name>
-    <price>7.51</price>
+    <price>6.38</price>
+    <regular_price>7.51</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/811856563/5551424383.png</image>
     <beer_description>FEATURING – Sunken Ship DDH Triple NEIPA – 9 % Houblons : Citra / Strata / Nectaron Collab : Browar Stu Mostów (??) Prizm Brewing Co. - Sunken Ship</beer_description>
     <beer_style>IPA - Triple New England / Hazy</beer_style>
@@ -976,7 +979,8 @@
     <title>More Pressure</title>
     <url>https://hopincraftbier.be/products/prizm-more-pressure</url>
     <brewery_name>Prizm Brewing Co.</brewery_name>
-    <price>6.98</price>
+    <price>5.93</price>
+    <regular_price>6.98</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/811856564/5551424401.png</image>
     <beer_description>Our first ever Smoothie Sour with our dear friends from Les Intenables in Alsace. Unfermented fruit purees to keep all the juicyness and flavours. Lactose free - Vegan Prizm Brewing Co. - More Pressure</beer_description>
     <beer_style>Sour - Smoothie / Pastry</beer_style>
@@ -1130,7 +1134,8 @@
     <title>Big Bourbon Barrel Aged Stout 2021</title>
     <url>https://hopincraftbier.be/products/stigbergets-big-bourbon-barrel-aged-stout-2021</url>
     <brewery_name>Stigbergets Bryggeri</brewery_name>
-    <price>7.47</price>
+    <price>6.35</price>
+    <regular_price>7.47</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/810376070/5532188630.png</image>
     <beer_description>2021’s iteration of our annual barrel aged stout release. For the bourbon lovers, for the imperial stout lovers and for the lovers of two great alcoholic beverages colliding to make one beautiful beer. Not on the other hand, for the calorie conscious. Imperial Stout aged on Bourbon barrels. Matured for a year on Jim Beam, Woodford Reserve and King’s Country distillery barrels, for an imperial stout emboldened with the deep, rich flavours of a bourbon. Intensely sweet, with a low roasted bitterness, rich aromas of oak, vanilla, brown sugar, molasses and more. Stigbergets Bryggeri - Big Bourbon Barrel Aged Stout 2021</beer_description>
     <beer_style>Stout - Imperial / Double</beer_style>
@@ -1147,7 +1152,8 @@
     <title>BIGGER! BOLDER!</title>
     <url>https://hopincraftbier.be/products/stigbergets-bigger-bolder</url>
     <brewery_name>Stigbergets Bryggeri</brewery_name>
-    <price>6.03</price>
+    <price>5.13</price>
+    <regular_price>6.03</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/810376071/5532188672.png</image>
     <beer_description>Bigger! Bolder! is a really beefed up version of New &amp; Improved. IPA has become DIPA here, a stronger and more flavorful beer. It is Nelson Sauvin, Mosaic and Citra that give the lightly cloudy beer its tropical fruitiness. Stigbergets Bryggeri - BIGGER! BOLDER!</beer_description>
     <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
@@ -1182,7 +1188,8 @@
     <title>TURBULENCE</title>
     <url>https://hopincraftbier.be/products/hopalaa-turbulence</url>
     <brewery_name>Hopalaa</brewery_name>
-    <price>5.67</price>
+    <price>4.82</price>
+    <regular_price>5.67</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/809698341/5526711732.png</image>
     <beer_description>TURBULENCE - HAZY DIPA. Elani and Citra Lupomax hops. /// IBU - 30 /// EBC - 11 /// ABV - 8.0 Hopalaa - TURBULENCE</beer_description>
     <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
@@ -1217,7 +1224,7 @@
     <title>Don Jefe</title>
     <url>https://hopincraftbier.be/products/the-piggy-don-jefe</url>
     <brewery_name>The Piggy Brewing Company</brewery_name>
-    <price>5.9</price>
+    <price>5.02</price>
     <regular_price>5.90</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/809097842/5520175642.png</image>
     <beer_description>Hops : Mosaic The Piggy Brewing Company - Don Jefe</beer_description>
@@ -1235,7 +1242,8 @@
     <title>Muvuka</title>
     <url>https://hopincraftbier.be/products/the-piggy-muvuka</url>
     <brewery_name>The Piggy Brewing Company</brewery_name>
-    <price>8.26</price>
+    <price>7.02</price>
+    <regular_price>8.26</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/809098271/5520175624.png</image>
     <beer_description>Barrel Aged Imperial Stout. Cacao, Tonka beans The Piggy Brewing Company - Muvuka</beer_description>
     <beer_style>Stout - Imperial / Double</beer_style>
@@ -1252,7 +1260,8 @@
     <title>West Coast Patrol</title>
     <url>https://hopincraftbier.be/products/the-piggy-west-coast-patrol</url>
     <brewery_name>The Piggy Brewing Company</brewery_name>
-    <price>5.65</price>
+    <price>4.8</price>
+    <regular_price>5.65</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/809098270/5520175618.png</image>
     <beer_description>Modern West Coast IPA Hops : Centennial, Krush, Mosaic The Piggy Brewing Company - West Coast Patrol</beer_description>
     <beer_style>IPA - American</beer_style>
@@ -1287,7 +1296,8 @@
     <title>Lacrima de Oro (2026)</title>
     <url>https://hopincraftbier.be/products/the-piggy-lacrima-de-oro-2026</url>
     <brewery_name>The Piggy Brewing Company</brewery_name>
-    <price>7.38</price>
+    <price>6.27</price>
+    <regular_price>7.38</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/809098039/5520190349.png</image>
     <beer_description>The Magic Beer 'Lacrima de Oro' is a 10% ABV Triple NEIPA. Hops: Mosaic, Sabro. Last batch at 9.5% The Piggy Brewing Company - Lacrima de Oro</beer_description>
     <beer_style>IPA - Triple New England / Hazy</beer_style>
@@ -1323,7 +1333,7 @@
     <title>Latitude Zero</title>
     <url>https://hopincraftbier.be/products/unseen-latitude-zero</url>
     <brewery_name>Unseen Brewing Company</brewery_name>
-    <price>3.6</price>
+    <price>3.06</price>
     <regular_price>3.60</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/808552524/5517902151.png</image>
     <beer_description>NEIPA with Citra &amp; Nelson Sauvin Unseen Brewing Company - Latitude Zero</beer_description>
@@ -1393,7 +1403,8 @@
     <title>8th Birthday - India Pale Ale</title>
     <url>https://hopincraftbier.be/products/pollys-8th-birthday-india-pale-ale</url>
     <brewery_name>Polly's Brew Co.</brewery_name>
-    <price>6.75</price>
+    <price>5.74</price>
+    <regular_price>6.75</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5505408896.png</image>
     <beer_description>POLLY'S 8th BIRTHDAY We’ve been huge fans of the wonderful Beak pretty much since they first landed on our radars - operating a similar philosophy to ourselves in largely focusing on and perfecting their pale and hoppy output, we’ve been very lucky to share festival spaces with our friends from Lewes over the last twelve months, fostering a working friendship based on mutual approaches to where modern beer is placed in 2026. Coming together to collaborate for our eighth birthday meant there could only be one style we could brew - an IPA at that magical ABV in which the sweet spot lies for both breweries. Wanting to make a conscious effort to embrace the progression of our industry with the recipe on this beer, we’ve brought no less than five hop varieties to the party; showcasing current and progressive technologies in the brewing process. With a dry hop charge of 20g/l, pushing toward DIPA levels of intensity, we’ve utilised Idaho 7 and Nelson Sauvin in their classic T90 pellet form, along with their CGX versions - the latest technology from Crosby Hops using cryogenic processes to concentrate the flavour and intensity brought to the table. With a final flourish of New Zealand Hop’s latest experimental variety NZ-106 and a whisper of Abstrax Hops Skyfarm Pineapple, the result is a pillowy soft IPA, singing with guava, mango, and passionfruit, with bright pine and citrus notes underneath. Taking the artwork on this one is local enigma Jim Jones, who leaned into the German heritage of the bauhaus Polly's - 8th Birthday - India Pale Ale</beer_description>
     <beer_style>IPA - English</beer_style>
@@ -1410,7 +1421,8 @@
     <title>8th Birthday - Double India Pale Ale</title>
     <url>https://hopincraftbier.be/products/pollys-8th-birthday-double-india-pale-ale</url>
     <brewery_name>Polly's Brew Co.</brewery_name>
-    <price>7.83</price>
+    <price>6.66</price>
+    <regular_price>7.83</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5505398530.png</image>
     <beer_description>POLLY'S 8th BIRTHDAY Our friendship with the legendary Cloudwater extends for as long as Polly’s has existed at this point. As a source of sage advice and guidance throughout our brewing journey, we’re proud to have been able to share experiences with the titans of Manchester in both working and personal capacities over our eight years in the game. When it came to filling the collaboration slot for a big, bold double IPA we could only look to the innovators of modern beer in the UK to join us for our eighth birthday, not only on the brewing side of things but the artwork to boot, with Cloudwater’s go-to designer, the Manchester based Textbook Studio handling the label design. Wanting to embrace the progressive nature of the industry we operate within, and showcase the skills our respective brew teams are capable of, we’ve turned the hype dial up to eleven on this DIPA. We’d already been enchanted by our first use of Eggers Special hops, so when the prospect of working with another New Zealand blend in Mega Motueka came about in our initial discussions we leapt at the opportunity. Utilising further dry hop charges of Lupomax Citra and Nectaron Cryo, this DIPA solely focuses on hype and hype alone. Our finished product is a DIPA that positively rinses every last drop of lively lemon, muddled lime with brown sugar, tropical fruits, passionfruit, soft peach flavours, and pineapple backed up with a light dankness. Polly's - 8th Birthday - Double India Pale Ale</beer_description>
     <beer_style>IPA - Imperial / Double</beer_style>
@@ -1933,7 +1945,8 @@
     <title>Gasping Dust</title>
     <url>https://hopincraftbier.be/products/autodidact-beer-gasping-dust</url>
     <brewery_name>Autodidact Beer</brewery_name>
-    <price>10.25</price>
+    <price>8.71</price>
+    <regular_price>10.25</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5447266765.png</image>
     <beer_description>A bed of white wheat and oats lay a lush foundation for two of our favorite hops to coalesce and intensify. Motueka and Nelson deliver waves of lime zest, tropical fruit mélange, and ambrosial orange sorbet. Autodidact Beer - Gasping Dust</beer_description>
     <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
@@ -1949,7 +1962,7 @@
     <title>Encore</title>
     <url>https://hopincraftbier.be/products/fine-balance-encore</url>
     <brewery_name>Fine Balance Brewing</brewery_name>
-    <price>13.9</price>
+    <price>11.82</price>
     <regular_price>13.90</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5447266771.png</image>
     <beer_description>Encore Maple Barrel Aged Imperial Stout comes roughly one year after the release of Fête, our fourth anniversary barrel aged sweet stout (which was aged in bourbon barrels previously filled with maple syrup). For about 16 months we've had this big, smooth imperial stout ageing in rye whiskey barrels that were previously housed maple syrup. We're delighted with how this beer turned out. It has a creamy mouthfeel, with a hint of sweetness cut by a touch of whiskey. Encore is big at 11.9% ABV, but smooth and easy drinking. It's a great winter treat. Fine Balance Brewing - Encore</beer_description>
@@ -2086,7 +2099,8 @@
     <title>Temporalis #0047</title>
     <url>https://hopincraftbier.be/products/messorem-temporalis-0047</url>
     <brewery_name>Messorem</brewery_name>
-    <price>11.24</price>
+    <price>9.55</price>
+    <regular_price>11.24</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5409145537.png</image>
     <beer_description>Triple IPA - Citra, Mosaic, Simcoe, Simcoe Dynaboost, Simcoe Hyperboost Messorem - Temporalis #0047</beer_description>
     <beer_style>IPA - Triple New England / Hazy</beer_style>
@@ -2104,7 +2118,8 @@
     <title>Prodigality (2025)</title>
     <url>https://hopincraftbier.be/products/jackie-os-prodigality-2025</url>
     <brewery_name>Jackie O’s Brewery</brewery_name>
-    <price>17.81</price>
+    <price>15.14</price>
+    <regular_price>17.81</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5409084164.png</image>
     <beer_description>Churning out complexity through time &amp; heat. The solo grain, Maris Otter, brims the mash tun for a long soak. Part of the first runnings were boiled &amp; reduced, triggering the Maillard Reaction; through which, the vigorous heating of sugars adds a deeper color &amp; flavor. Continuing on with an extended boil to increase said reaction. A prolonged nap of 20 months in bourbon barrels finishes off this luxurious prize. Indulge in Prodigality’s warm embrace. This batch of Prodigality gracefully rested for 20 months in well aged 19 year Elijah Craig barrels. By windfall, this blend offers robust honey tones that we typically don’t see in Prodigality, and is steadied by the well-aged character the barrels impart. Jackie Os Brewery - Prodigality (2025)</beer_description>
     <beer_style>Barleywine - English</beer_style>
@@ -2121,7 +2136,8 @@
     <title>Don't Fear the Reaper</title>
     <url>https://hopincraftbier.be/products/counterpart-dont-fear-the-reaper</url>
     <brewery_name>Counterpart Brewing</brewery_name>
-    <price>11.91</price>
+    <price>10.12</price>
+    <regular_price>11.91</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5409082110.png</image>
     <beer_description>Hazy Triple IPA w/ Nelson Sauvin, Motueka &amp; Motueka Hop Kief brewed in collaboration w/ Messorem Big, juice laden flavours of sauv blanc, gooseberry, apricot, lime zest and pineapple with a balanced, candy-like sweetness. Counterpart Brewing - Don't Fear the Reaper</beer_description>
     <beer_style>IPA - Triple New England / Hazy</beer_style>
@@ -2138,7 +2154,8 @@
     <title>Temporalis #0046</title>
     <url>https://hopincraftbier.be/products/messorem-temporalis-0046</url>
     <brewery_name>Messorem</brewery_name>
-    <price>11.24</price>
+    <price>9.55</price>
+    <regular_price>11.24</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5409098251.png</image>
     <beer_description>Triple IPA - NZ Cascade, Citra, Simcoe &amp; Simcoe Dynaboost. Messorem - Temporalis #0046</beer_description>
     <beer_style>IPA - Triple New England / Hazy</beer_style>
@@ -2156,7 +2173,8 @@
     <title>IMPERIAL P-NUT BUSTER - AMANDE</title>
     <url>https://hopincraftbier.be/products/brewskey-imperial-p-nut-buster-amande</url>
     <brewery_name>BreWskey</brewery_name>
-    <price>11.58</price>
+    <price>9.84</price>
+    <regular_price>11.58</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5409084118.png</image>
     <beer_description>Stout chocolat, arachides, coco, vanille... et amande BreWskey - IMPERIAL P-NUT BUSTER - AMANDE</beer_description>
     <beer_style>Stout - Imperial / Double Pastry</beer_style>
@@ -2173,7 +2191,8 @@
     <title>YQB-N5</title>
     <url>https://hopincraftbier.be/products/nano-cinco-yqb-n5</url>
     <brewery_name>Nano Cinco</brewery_name>
-    <price>11.24</price>
+    <price>9.55</price>
+    <regular_price>11.24</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5409098263.png</image>
     <beer_description>YQB-N5 is a New England Quadruple IPA brewed with Riwaka, Rakau, and Motueka hops (used in three forms: T90, Hop Kief, and Amplifire). Its name and design are a nod to the Beluga, the colossal aircraft designed to transport other aircraft. It boasts intense aromas of Sauvignon Blanc and citrus, carried by a silky, enveloping texture. A beer whose sweetness skillfully masks its alcoholic strength. Nano Cinco - YQB-N5</beer_description>
     <beer_style>IPA - Quadruple</beer_style>
@@ -2189,7 +2208,8 @@
     <title>Swirlee - Raspberry Creamsicle</title>
     <url>https://hopincraftbier.be/products/drekker-swirlee-raspberry-creamsicle</url>
     <brewery_name>Drekker Brewing Company</brewery_name>
-    <price>11.24</price>
+    <price>9.55</price>
+    <regular_price>11.24</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5409084200.png</image>
     <beer_description>Swirlee is a creamsicle sour series that is far beyond your wildest, swirliest dreams, but don’t you worry, we went out and scooped it all up for you. This one is a tasty pairing of a whole buncha raspberry and vanilla ice cream, and if you drink too many, your noggin might turn into an ice cream cone so enjoy responsibly! Drekker Brewing Company - Swirlee - Raspberry Creamsicle</beer_description>
     <beer_style>Sour - Smoothie / Pastry</beer_style>
@@ -2205,7 +2225,8 @@
     <title>Towers</title>
     <url>https://hopincraftbier.be/products/all-my-friends-towers</url>
     <brewery_name>All My Friends Beer Co.</brewery_name>
-    <price>9.58</price>
+    <price>8.14</price>
+    <regular_price>9.58</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5409074477.png</image>
     <beer_description>Towers pours a hazy golden yellow with a light cap of fluffy foam. The nose hits with sticky tropical fruit and fresh strawberries. Strata, a hop variety we have rarely used in the past is quickly becoming one of our favourites. We get delicious flavours of cotton candy, fresh berries, pithy oranges, and mild pine. The sip is zippy and refreshing, with a clean bitterness that keeps everything balanced and easy to drink. All My Friends Beer Co. - Towers</beer_description>
     <beer_style>IPA - New England / Hazy</beer_style>
@@ -2221,7 +2242,8 @@
     <title>Surprise</title>
     <url>https://hopincraftbier.be/products/all-my-friends-surprise</url>
     <brewery_name>All My Friends Beer Co.</brewery_name>
-    <price>10.58</price>
+    <price>8.99</price>
+    <regular_price>10.58</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5409084218.png</image>
     <beer_description>Surprise pours a light straw yellow with tight, lingering bubbles. Dank, overripe fruit hits the nose as soon as you crack the can, with hints of white wine and pineapple. Nectaron has been impressing us this year, and in this beer it doesn’t disappoint. Combined with Nelson Sauvin from Freestyle hop farms and a Mosaic that brings that classic berry note, we get huge flavours of peach, blueberry, passionfruit, and guava. All of it coasting on a wonderfully soft and creamy mouthfeel that finishes super clean. Another banger in our books. All My Friends Beer Co. - Surprise</beer_description>
     <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
@@ -2453,7 +2475,8 @@
     <title>P'tit Monstre</title>
     <url>https://hopincraftbier.be/products/brasserie-sir-john-ptit-monstre</url>
     <brewery_name>Brasserie Sir John Brewing Co.</brewery_name>
-    <price>10.25</price>
+    <price>8.71</price>
+    <regular_price>10.25</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5330715457.png</image>
     <beer_description>Every brewery has one. That slightly petty or frivolous employee who always teeters on the edge of being respectable and dishonorable. It's in honor of these little monsters of the brewing world that we've teamed up for the very first time with the Quebec City crew at Nano Cinco! Triple IPA EXXXXXTRA juicy, this beer will make your ears tingle! Hopped with NZ Cascade, Pacifica, Nelson Sauvin Bliss, Riwaka, and a generous dose of Riwaka and Nelson Sauvin hopkief, this beer is made, like Kellogg's Frosties, to unleash your inner beast! It's ridiculously smooth, with a slight piney bitterness but a lovely juicy presence reminiscent of tropical fruits! We're super proud of this beer brewed with our new buddies from Quebec City. Until the next one, CHEERS! Brasserie Sir John Brewing Co. - P'tit Monstre</beer_description>
     <beer_style>IPA - Triple New England / Hazy</beer_style>
@@ -2469,7 +2492,8 @@
     <title>Barrel-Aged Ten FIDY®</title>
     <url>https://hopincraftbier.be/products/oskar-blues-r-barrel-aged-ten-fidy-r</url>
     <brewery_name>Oskar Blues Brewery®</brewery_name>
-    <price>9.18</price>
+    <price>7.8</price>
+    <regular_price>9.18</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5330804306.png</image>
     <beer_description>Aged through four seasons and from a blend of the top Bourbons around, this Ten Fidy has morphed into a monster of cranked up flavor. Espresso, burnt sugar, rich chocolate, caramel notes are now driving alongside the vanilla, oak, bourbon from the barrel and been smoothed out during maturation. Even at 12.9% (75 IBUs) it is cool and drinkable, letting each sip add more and more complexity. Oskar Blues Brewery - Barrel-Aged Ten FIDY</beer_description>
     <beer_style>Stout - Imperial / Double</beer_style>
@@ -2486,7 +2510,8 @@
     <title>Imperial Smells Like Bean Spirit - Pecan Pie</title>
     <url>https://hopincraftbier.be/products/mikerphone-imperial-smells-like-bean-spirit-pecan-pie</url>
     <brewery_name>Mikerphone Brewing</brewery_name>
-    <price>11.24</price>
+    <price>9.55</price>
+    <regular_price>11.24</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5330850781.png</image>
     <beer_description>Imperial Breakfast Stout w/ Maple Syrup, Coffee, Brown Sugar, Pecans, and Vanilla. Mikerphone Brewing - Imperial Smells Like Bean Spirit - Pecan Pie</beer_description>
     <beer_style>Stout - Imperial / Double Coffee</beer_style>
@@ -2502,7 +2527,8 @@
     <title>À L'ombre De L'Ange</title>
     <url>https://hopincraftbier.be/products/brasserie-sir-john-a-lombre-de-lange</url>
     <brewery_name>Brasserie Sir John Brewing Co.</brewery_name>
-    <price>25.93</price>
+    <price>22.04</price>
+    <regular_price>25.93</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5330707236.png</image>
     <beer_description>Far from being a reference to an Éric Lapointe song, À l'ombre de l'ange (In the Shadow of the Angel) is a truly fantastic blend. Made from a barley wine aged for 19 months in Heaven Hill bourbon barrels and an imperial stout aged for 24 months in MGP bourbon barrels, this beer embodies the tenderness of dark beers. It has a velvety, sweet character, enveloped by the warmth of the alcohol and the bourbon barrel aging. Lightly carbonated, it leans more towards the caramelized notes typical of these types of beers, almost like a sponge toffee. Easy (too easy, even) to drink, it's the kind of dark beer that brings you just close enough to gustatory heaven, or, as we like to call it, to the shadow of the angel. Brasserie Sir John Brewing Co. - A L'ombre De L'Ange</beer_description>
     <beer_style>Strong Ale - Other</beer_style>
@@ -2518,7 +2544,8 @@
     <title>TDH Eviscerated Pathway of Beauty</title>
     <url>https://hopincraftbier.be/products/tired-hands-tdh-eviscerated-pathway-of-beauty</url>
     <brewery_name>Tired Hands Brewing Company</brewery_name>
-    <price>12.24</price>
+    <price>10.4</price>
+    <regular_price>12.24</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/793369570/5557294558.png</image>
     <beer_description>Triple Dry Hopped Eviscerated Pathway of Beauty is a new take on one of our favorite Double IPAs. Like classic Eviscerated, this one starts with a base of 2 row, oat malt, and flaked oats. Hopped in the kettle with Citra, and then dry hopped again, and again, and AGAIN with EVEN MORE Citra for a bright and zesty flavor experience! Notes of tangerine gummies, lychee sorbet, and overripe honeydew. Tired Hands Brewing Company - TDH Eviscerated Pathway of Beauty</beer_description>
     <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
@@ -2535,7 +2562,8 @@
     <title>Avant L'effondrement</title>
     <url>https://hopincraftbier.be/products/brasserie-sir-john-avant-leffondrement</url>
     <brewery_name>Brasserie Sir John Brewing Co.</brewery_name>
-    <price>10.58</price>
+    <price>8.99</price>
+    <regular_price>10.58</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5330892679.png</image>
     <beer_description>Your senses will be overwhelmed by this Quadruple IPA, which will tantalize your palate in every direction. Between the warming presence of the alcohol and the tantalizing burst of flavor from the astronomical amount of hops, this Quad IPA will give you the same sensation as the ground giving way beneath your feet, leaving you weightless. Beneath its mountain of Simcoe and Nectaron, we indulged ourselves with our favorite hop, Citra, using it in practically every form available. From regular pellets to Cryo, Incognito, Hyperboost, and Dynaboost varieties, practically all we were missing was fresh Citra in pots to have all the available options. Once blended, however, it creates a harmonious mix of sweet, dank notes of citrus zest and orange blossom on a piney base. Kudos to the artist Metafable for the label! Cheers! Brasserie Sir John Brewing Co. - Avant L'effondrement</beer_description>
     <beer_style>IPA - Quadruple</beer_style>
@@ -2552,7 +2580,8 @@
     <title>Eviscerated Pathway of Beauty</title>
     <url>https://hopincraftbier.be/products/tired-hands-eviscerated-pathway-of-beauty</url>
     <brewery_name>Tired Hands Brewing Company</brewery_name>
-    <price>10.91</price>
+    <price>9.27</price>
+    <regular_price>10.91</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5330853713.png</image>
     <beer_description>Citra Double IPA. Brewed with oats. Hopped intensely and singularly with Citra. Tired Hands Brewing Company - Eviscerated Pathway of Beauty</beer_description>
     <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
@@ -2569,7 +2598,8 @@
     <title>Evolve Or Die (2025)</title>
     <url>https://hopincraftbier.be/products/badlands-evolve-or-die-2025</url>
     <brewery_name>Badlands Brewing Company</brewery_name>
-    <price>11.58</price>
+    <price>9.84</price>
+    <regular_price>11.58</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5330948949.png</image>
     <beer_description>Our annual triple IPA where we push the hopping rates to their illogical extreme. The goal of this beer is to implement everything we’ve learned through our Dora and monthly DIPA series’. Each one is a different experiment that pushes our hoppy beer into distinctly different directions, always with the intent of making a more densely layered, and intense hop experience while still remaining soft, and endlessly drinkable. Stagnation, complacency and comfort are the enemy of progress and innovation. This is the culmination of everything we’ve learned over the past year about hoppy beer. Evolve, or die. Hopped with Citra, Mosaic, Motueka and Galaxy, this is a deeply hop saturated beer that is as undeniably cost prohibitive as it is delectably drinkable. We taste intense notes of pineapple, mango, tangerine, mojito lime, peach and tropical fruit. The hopping rate of this beer is approximately 26lbs/bbl (101g/L). Fun fact: there’s about $2.91 of hops in every can!!! Badlands Brewing Company - Evolve Or Die (2024)</beer_description>
     <beer_style>IPA - Triple</beer_style>
@@ -2586,7 +2616,8 @@
     <title>Slø Turbo (2025)</title>
     <url>https://hopincraftbier.be/products/hoof-hearted-slo-turbo-2025</url>
     <brewery_name>Hoof Hearted Brewing</brewery_name>
-    <price>10.25</price>
+    <price>8.71</price>
+    <regular_price>10.25</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5330978558.png</image>
     <beer_description>Unleaded super diesel icon 'Heavy Nelson' slides off from the stage and into the crowd. He's locked eyes on Gary and needs to strike while the lights stay low.'Pizza Pizza Pizza', he croons as a conga line grows behind him. Looking back, two thoughts occur in quick succession. The first: DIPA's hopped exclusively w/ New Zealand varietals and a laser-focus on Nelson Sauvin make all the girls want to get to know you. The second: he's only got one chance to make this right for everybody.'Heyyyy Gary from back the office who likes to order broccoli on the casual Friday staff pizza and only takes one piece for himself..' Dipa with whole cone Southern Hemisphere Hops. Hoof Hearted Brewing - Sl Turbo (2025)</beer_description>
     <beer_style>IPA - New England / Hazy</beer_style>
@@ -2603,7 +2634,8 @@
     <title>Les Angles Morts</title>
     <url>https://hopincraftbier.be/products/messorem-les-angles-morts</url>
     <brewery_name>Messorem</brewery_name>
-    <price>11.24</price>
+    <price>9.55</price>
+    <regular_price>11.24</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5330978638.png</image>
     <beer_description>Triple IPA - Superdelic, Citra, Citra Incognito, Citra Lupomax. Many things are outside our field of vision and lurk in blind spots… In particular, the raw power of a beer that may seem relatively mild at first, but is in fact the complete opposite. This is what awaits you around the bend with this Triple IPA, featuring an explosive hopping of Superdelic, Citra, Citra Incognito, and Citra Lupomax. A new sensation from New Zealand, showcasing Citra in various forms. Messorem - Les Angles Morts</beer_description>
     <beer_style>IPA - Triple New England / Hazy</beer_style>
@@ -2620,7 +2652,8 @@
     <title>Bad Moon Rising (2025)</title>
     <url>https://hopincraftbier.be/products/badlands-bad-moon-rising-2025</url>
     <brewery_name>Badlands Brewing Company</brewery_name>
-    <price>10.91</price>
+    <price>9.27</price>
+    <regular_price>10.91</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5330943701.png</image>
     <beer_description>We got together with our friends at Third Moon to brew a DIPA! For our version we used Third Moons typical DIPA malt base, and then brewed the beer with our equipment and processes. This beer was brewed with Cascade hops grown in three different regions (Washington, Australia and Ontario), technically making this a Cascade single hop beer. However, every regions Cascade presents so differently. It’s incredibly cool to be able to open three different hop bags from three different growing regions, of the same hop cultivar, and get three totally different aromas, all of which are excellent in their own right. This is Cascade, in all its classic, timeless, and multi-faceted beauty. Badlands Brewing Company - Bad Moon Rising</beer_description>
     <beer_style>IPA - Imperial / Double</beer_style>
@@ -3114,7 +3147,8 @@
     <title>Mania!</title>
     <url>https://hopincraftbier.be/products/willibald-farm-distillery--mania</url>
     <brewery_name>Willibald Farm Distillery &amp; Brewery</brewery_name>
-    <price>9.92</price>
+    <price>8.43</price>
+    <regular_price>9.92</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5260616558.webp</image>
     <beer_description>Triple IPA with Citra, Mosaic, and Krush Hyperboost. Willibald Farm Brewery - Mania!</beer_description>
     <beer_style>IPA - Triple New England / Hazy</beer_style>
@@ -6304,6 +6338,6 @@
     <brewery_country>United States</brewery_country>
     <untappd_id>5263247</untappd_id>
   </item>
-  <timestamp>1775512805</timestamp>
-  <gen_date>07/04/2026 00:00:05</gen_date>
+  <timestamp>1775513705</timestamp>
+  <gen_date>07/04/2026 00:15:05</gen_date>
 </feed>
