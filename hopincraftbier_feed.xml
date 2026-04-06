@@ -6262,7 +6262,7 @@
     <brewery_name>Third Moon Brewing Company</brewery_name>
     <price>7.01</price>
     <regular_price>14.01</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4953184234.webp</image>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/734051599/4953184234.webp</image>
     <beer_description>From Underneath is our 10% ABV chocolate porter which is brewed with a rich blend of chocolate &amp; brown malts and an excessive amount of the finest chocolate we can source. Expect a medium-bodied beer that has huge notes of milk and baker's chocolate with some light cold brewed coffee on the finish. - Third Moon - From Underneath (2025)</beer_description>
     <beer_style>Porter - Imperial / Double</beer_style>
     <beer_abv>10%</beer_abv>
@@ -6306,6 +6306,6 @@
     <brewery_country>United States</brewery_country>
     <untappd_id>5263247</untappd_id>
   </item>
-  <timestamp>1775465105</timestamp>
-  <gen_date>06/04/2026 10:45:05</gen_date>
+  <timestamp>1775468706</timestamp>
+  <gen_date>06/04/2026 11:45:06</gen_date>
 </feed>
