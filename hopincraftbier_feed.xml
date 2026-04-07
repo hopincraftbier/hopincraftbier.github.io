@@ -668,24 +668,6 @@
     <untappd_id>14</untappd_id>
   </item>
   <item>
-    <id>6488494</id>
-    <ecommerce_id>814427570</ecommerce_id>
-    <title>MAZOUT - Speyside Barrel Aged [2025]</title>
-    <url>https://hopincraftbier.be/products/hoppy-road-mazout-speyside-barrel-aged-2025</url>
-    <brewery_name>Hoppy Road</brewery_name>
-    <price>6.32</price>
-    <regular_price>7.43</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/814427570/5568713514.png</image>
-    <beer_description>After 29 months of aging in oak barrels, this second iteration of Mazout Speyside is both indulgent and complex. From the outset, it offers pastry notes of dark chocolate, cocoa powder, and toffee, supported and tempered by fruity notes emblematic of the whisky from this region, as well as a subtle salinity. A truly long and enjoyable tasting experience. Hoppy Road - MAZOUT - Speyside Barrel Aged [2025]</beer_description>
-    <beer_style>Stout - Russian Imperial</beer_style>
-    <beer_abv>16%</beer_abv>
-    <beer_volume>330 ml</beer_volume>
-    <beer_package>bottle</beer_package>
-    <brewery_country>France</brewery_country>
-    <date_best_before>2030-11-01</date_best_before>
-    <untappd_id>6488494</untappd_id>
-  </item>
-  <item>
     <id>6318094</id>
     <ecommerce_id>814428562</ecommerce_id>
     <title>Vuurboetmeester 205 – Brandy Barrel Aged Barleywine</title>
@@ -2834,24 +2816,6 @@
     <untappd_id>6451740</untappd_id>
   </item>
   <item>
-    <id>5605718</id>
-    <ecommerce_id>790918084</ecommerce_id>
-    <title>DUPOND</title>
-    <url>https://hopincraftbier.be/products/kom-beer-dupond</url>
-    <brewery_name>KOM Beer</brewery_name>
-    <price>3.5</price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5496028950.png</image>
-    <beer_description>Single hop Mosaic! Offers aromas and flavors of tropical fruit, citrus, and a hint of pine. It is characterized by a smooth, fruity, and full-bodied taste. KOM Beer - DUPOND</beer_description>
-    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
-    <beer_abv>8%</beer_abv>
-    <beer_volume>440 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Spain</brewery_country>
-    <date_best_before>2026-05-26</date_best_before>
-    <date_canned>2025-08-25</date_canned>
-    <untappd_id>5605718</untappd_id>
-  </item>
-  <item>
     <id>6424109</id>
     <ecommerce_id>788856433</ecommerce_id>
     <title>Imposing Will</title>
@@ -3933,25 +3897,6 @@
     <untappd_id>6345864</untappd_id>
   </item>
   <item>
-    <id>6381462</id>
-    <ecommerce_id>777450537</ecommerce_id>
-    <title>My Favorite Things</title>
-    <url>https://hopincraftbier.be/products/factory-my-favorite-things</url>
-    <brewery_name>Factory Brewing</brewery_name>
-    <price>3.61</price>
-    <regular_price>7.21</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5260426097.webp</image>
-    <beer_description>A Hazy IPA with Motueka &amp; Nelson Sauvin 'The 2025 crops of Motueka and Nelson are here, so of course I need to put my favorite things together. Tons of saturated aroma in this one, expect white wine, grapefruit, lime, melon and some nice earthy funkiness.' Head Brewer Jirka Ordén Factory Brewing - My Favorite Things</beer_description>
-    <beer_style>IPA - New England / Hazy</beer_style>
-    <beer_abv>7.3%</beer_abv>
-    <beer_volume>440 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Finland</brewery_country>
-    <date_best_before>05/2026</date_best_before>
-    <date_canned>2025-08-12</date_canned>
-    <untappd_id>6381462</untappd_id>
-  </item>
-  <item>
     <id>4185018</id>
     <ecommerce_id>774330341</ecommerce_id>
     <title>Players 1 - Batch 2</title>
@@ -4402,24 +4347,6 @@
     <untappd_id>4367493</untappd_id>
   </item>
   <item>
-    <id>6341263</id>
-    <ecommerce_id>767041052</ecommerce_id>
-    <title>Weightless</title>
-    <url>https://hopincraftbier.be/products/revenant-weightless</url>
-    <brewery_name>Revenant Brewing Project</brewery_name>
-    <price>2.95</price>
-    <regular_price>5.9</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5049176330.webp</image>
-    <beer_description>Hops: Motueka &amp; Southern Cross Revenant - Weightless</beer_description>
-    <beer_style>IPA - New England / Hazy</beer_style>
-    <beer_abv>6.8%</beer_abv>
-    <beer_volume>440 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Finland</brewery_country>
-    <date_best_before>Eind 04/2026</date_best_before>
-    <untappd_id>6341263</untappd_id>
-  </item>
-  <item>
     <id>6293352</id>
     <ecommerce_id>765275160</ecommerce_id>
     <title>Hops Fwd</title>
@@ -4698,24 +4625,6 @@
     <untappd_id>6240932</untappd_id>
   </item>
   <item>
-    <id>4744499</id>
-    <ecommerce_id>756989444</ecommerce_id>
-    <title>DDH Attitude</title>
-    <url>https://hopincraftbier.be/products/long-live-beerworks-ddh-attitude</url>
-    <brewery_name>Long Live Beerworks</brewery_name>
-    <price>4.66</price>
-    <regular_price>9,32</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5438433954.webp</image>
-    <beer_description>IPA double dry-hopped w/ Mosaic + Citra. 6% Long Live Beerworks - DDH Attitude</beer_description>
-    <beer_style>IPA - New England / Hazy</beer_style>
-    <beer_abv>6%</beer_abv>
-    <beer_volume>473 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>United States</brewery_country>
-    <date_canned>2025-05-15</date_canned>
-    <untappd_id>4744499</untappd_id>
-  </item>
-  <item>
     <id>6263452</id>
     <ecommerce_id>756995311</ecommerce_id>
     <title>Feral</title>
@@ -4831,24 +4740,6 @@
     <brewery_country>United States</brewery_country>
     <date_canned>2025-04-25</date_canned>
     <untappd_id>6261817</untappd_id>
-  </item>
-  <item>
-    <id>6274022</id>
-    <ecommerce_id>755488874</ecommerce_id>
-    <title>9 Years: Cyclops Escape</title>
-    <url>https://hopincraftbier.be/products/moersleutel-9-years-cyclops-escape</url>
-    <brewery_name>Moersleutel Craft Brewery</brewery_name>
-    <price>3.16</price>
-    <regular_price>6.31</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4955042654.webp</image>
-    <beer_description>Cyclops Escape kicks off our new 9 Year Anniversary series with a tropical New England IPA bursting with peach, pear, and juicy stone fruit. Dry-hopped with Peacharine, El Dorado (T90 + Cryo), Citra (Dynaboost + Cryo), and Nelson Sauvin. Expect a vibrant fruit bomb—ripe peach, crisp pear, and a touch of watermelon on a soft, smooth body. Dangerously drinkable. The Cyclops is loose. Escape now—eight more adventures await. Moersleutel Craft Brewery - 9 Years: Cyclops Escape</beer_description>
-    <beer_style>IPA - New England / Hazy</beer_style>
-    <beer_abv>6%</beer_abv>
-    <beer_volume>440 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>The Netherlands</brewery_country>
-    <date_best_before>2026-05-13</date_best_before>
-    <untappd_id>6274022</untappd_id>
   </item>
   <item>
     <id>6274029</id>
@@ -5686,24 +5577,6 @@
     <untappd_id>6149265</untappd_id>
   </item>
   <item>
-    <id>6121788</id>
-    <ecommerce_id>738466946</ecommerce_id>
-    <title>Starfield Project (PULP • w. Vault City)</title>
-    <url>https://hopincraftbier.be/products/elmeleven-starfield-project-pulp--w-vault-city</url>
-    <brewery_name>Elmeleven</brewery_name>
-    <price>4.03</price>
-    <regular_price>8.06</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5484692276.png</image>
-    <beer_description>Raspberry Whipped Cream And Honey Cranachan PULP! Collaboration with our great buddies from Vault City Brewing in Edinburgh! Flip can to mix, this beer contains high levels of fruit that may settle in the can! After mixing, let the can rest for a few minutes to avoid foaming from the can. Store cold! This beer is NOT vegan. - Elmeleven - Starfield Project (PULP w. Vault City)</beer_description>
-    <beer_style>Sour - Smoothie / Pastry</beer_style>
-    <beer_abv>5%</beer_abv>
-    <beer_volume>440 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Sweden</brewery_country>
-    <date_best_before>2027-03-01</date_best_before>
-    <untappd_id>6121788</untappd_id>
-  </item>
-  <item>
     <id>3127108</id>
     <ecommerce_id>738467167</ecommerce_id>
     <title>Hollow Names</title>
@@ -5967,6 +5840,6 @@
     <date_canned>2025-03-17</date_canned>
     <untappd_id>6186985</untappd_id>
   </item>
-  <timestamp>1775580307</timestamp>
-  <gen_date>07/04/2026 18:45:07</gen_date>
+  <timestamp>1775589304</timestamp>
+  <gen_date>07/04/2026 21:15:04</gen_date>
 </feed>
