@@ -2909,7 +2909,8 @@
     <title>Extra Extra Broccoli</title>
     <url>https://hopincraftbier.be/products/weldwerks-extra-extra-broccoli</url>
     <brewery_name>WeldWerks Brewing Co.</brewery_name>
-    <price>10.25</price>
+    <price>8.71</price>
+    <regular_price>10,25</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5260635975.webp</image>
     <beer_description>Hazy Double India Pale Ale WeldWerks Brewing Co. - Extra Extra Broccoli</beer_description>
     <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
@@ -2976,7 +2977,8 @@
     <title>Natural Flavors (Tangerine)</title>
     <url>https://hopincraftbier.be/products/frequentem-natural-flavors-tangerine</url>
     <brewery_name>Frequentem Brewing Co.</brewery_name>
-    <price>9.91</price>
+    <price>8.42</price>
+    <regular_price>9,91</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5260644589.webp</image>
     <beer_description>Kettle Soured, Azacca &amp; Idaho 7, Tangerine Frequentem Brewing Co. - Natural Flavors (Tangerine)</beer_description>
     <beer_style>IPA - Sour</beer_style>
@@ -2992,7 +2994,8 @@
     <title>Mania!</title>
     <url>https://hopincraftbier.be/products/willibald-farm-distillery--mania</url>
     <brewery_name>Willibald Farm Distillery &amp; Brewery</brewery_name>
-    <price>9.92</price>
+    <price>8.43</price>
+    <regular_price>9,92</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5260616558.webp</image>
     <beer_description>Triple IPA with Citra, Mosaic, and Krush Hyperboost. Willibald Farm Brewery - Mania!</beer_description>
     <beer_style>IPA - Triple New England / Hazy</beer_style>
@@ -3234,7 +3237,8 @@
     <title>Winner Winner Citra Dinner</title>
     <url>https://hopincraftbier.be/products/basqueland-winner-winner-citra-dinner</url>
     <brewery_name>Basqueland Brewing</brewery_name>
-    <price>7.15</price>
+    <price>6.08</price>
+    <regular_price>7,15</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5242222879.webp</image>
     <beer_description>10th ANNIVERSARY SERIES: 10 beers, 10 moments that made history. To celebrate our 10th anniversary, we’ve brought back Winner Winner Citra Dinner, one of the most influential beers in our history. We were pioneers in combining different formats of the same hop to maximize its aromatic power. In this case, it’s all about Citra. We’ve blended Citra T90, Citra BBC, Citra Cryo, Citra Incognito, and Citra Hyperboost to unleash a winning intensity and range of aromas: grapefruit, lime, guava, passion fruit, along with resinous and “dank” notes. It’s a true celebration of one of our most beloved hops. Basqueland Brewing - Winner Winner Citra Dinner</beer_description>
     <beer_style>IPA - Imperial / Double</beer_style>
@@ -3303,7 +3307,8 @@
     <title>Swim</title>
     <url>https://hopincraftbier.be/products/slake-swim</url>
     <brewery_name>Slake Brewing</brewery_name>
-    <price>9.99</price>
+    <price>8.49</price>
+    <regular_price>9,99</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5260881626.webp</image>
     <beer_description>Brewed for Slake's 5th anniversary Slake Brewing - Swim</beer_description>
     <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
@@ -3389,7 +3394,8 @@
     <title>Mariana's Web</title>
     <url>https://hopincraftbier.be/products/azvex-marianas-web</url>
     <brewery_name>Azvex Brewing Company</brewery_name>
-    <price>6.87</price>
+    <price>5.84</price>
+    <regular_price>6,87</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5159964496.webp</image>
     <beer_description>Mosaic, Nelson Sauvin, Waimea &amp; Peacharine Azvex Brewing Company - Mariana's Web</beer_description>
     <beer_style>IPA - New England / Hazy</beer_style>
@@ -3490,7 +3496,8 @@
     <title>J'irai Où Tu Iras</title>
     <url>https://hopincraftbier.be/products/fauve-jirai-ou-tu-iras</url>
     <brewery_name>Fauve</brewery_name>
-    <price>6.5</price>
+    <price>5.53</price>
+    <regular_price>6,50</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5147846919.webp</image>
     <beer_description>This NEIPA DDH is the result of a collaboration with Brasserie du Bas-Canada. These Quebec hop stars crossed the Atlantic with their own Citra in their suitcases, which we married with ours, adding Motueka and Simcoe. It's an aromatic bomb, juicy as can be, and resolutely transatlantic. We hope you find it as harmonious as a legendary Celine Dion / JJG duet. Fauve - J'irai Ou Tu Iras</beer_description>
     <beer_style>IPA - New England / Hazy</beer_style>
@@ -3524,7 +3531,8 @@
     <title>Les Fleurs Du Mal</title>
     <url>https://hopincraftbier.be/products/brasserie-du-bas-canada-les-fleurs-du-mal</url>
     <brewery_name>Brasserie du Bas-Canada</brewery_name>
-    <price>11.99</price>
+    <price>10.19</price>
+    <regular_price>11,99</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5260881836.webp</image>
     <beer_description>Collaboration avec Xul Beer Co. - Triple IPA aux houblons Citra, Peacharine, Rakau, Kohia Nelson, Citra Incognito &amp; Citra Hyber Boost Brasserie du Bas-Canada - Les Fleurs Du Mal</beer_description>
     <beer_style>IPA - Triple</beer_style>
@@ -3886,7 +3894,7 @@
     <title>Georgia Gold</title>
     <url>https://hopincraftbier.be/products/garage-georgia-gold</url>
     <brewery_name>Garage Beer Co.</brewery_name>
-    <price>6.28</price>
+    <price>5.54</price>
     <regular_price>7,39</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5073876592.webp</image>
     <beer_description>NO PEACH OR PASSIONFRUIT ADDED! Inspired by the peach and nectarine groves blossoming around Penedès, where the fruit swells day by day. Imagine biting into the juiciest peach ever — dripping down your arms and ruining your t-shirt, but you don’t care. Fermented with White Labs’ London Fog yeast, this brew naturally develops bright passionfruit notes, blending into the ultimate fruit salad with a raspberry drizzle on top. Garage Beer Co. - Georgia Gold</beer_description>
@@ -3904,7 +3912,7 @@
     <title>NEEDLES</title>
     <url>https://hopincraftbier.be/products/garage-needles</url>
     <brewery_name>Garage Beer Co.</brewery_name>
-    <price>6.04</price>
+    <price>5.33</price>
     <regular_price>7,11</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5073875380.webp</image>
     <beer_description>WEST COAST IPA ELABORADA CON CITRA T90 Y SPECTRUM, MOSAIC SPECTRUM, SIMCOE Y COLUMBUS PARA CONSEGUIR SABORES A PIEL DE CÍTRICOS Y PINO Garage Beer Co. - NEEDLES</beer_description>
@@ -3922,7 +3930,8 @@
     <title>CROWNS</title>
     <url>https://hopincraftbier.be/products/garage-crowns</url>
     <brewery_name>Garage Beer Co.</brewery_name>
-    <price>6.72</price>
+    <price>5.93</price>
+    <regular_price>7,91</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5073875370.webp</image>
     <beer_description>DIPA ELABORADA CON CITRA, STRATA Y MOSAIC (T90 Y SPECTRUM) PARA LOGRAR SABORES A PIÑA Garage Beer Co. - CROWNS</beer_description>
     <beer_style>IPA - Imperial / Double</beer_style>
@@ -4183,7 +4192,8 @@
     <title>Maniac Brainiac</title>
     <url>https://hopincraftbier.be/products/finback-maniac-brainiac</url>
     <brewery_name>Finback Brewery</brewery_name>
-    <price>8.32</price>
+    <price>7.34</price>
+    <regular_price>9,79</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5099899445.webp</image>
     <beer_description>Finback Brewery - Maniac Brainiac</beer_description>
     <beer_style>IPA - New England / Hazy</beer_style>
@@ -4200,7 +4210,7 @@
     <title>Serpentin</title>
     <url>https://hopincraftbier.be/products/brasserie-sir-john-serpentin</url>
     <brewery_name>Brasserie Sir John Brewing Co.</brewery_name>
-    <price>8.91</price>
+    <price>7.86</price>
     <regular_price>10,48</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5099898640.webp</image>
     <beer_description>This first collaboration with the beautiful gang from All My Friends, in Prince Edward County, Ontario, is truly silly! A finish just sweet enough to camouflage the bitterness and highlight the alcohol that comes to play with your jowls. It's green, but balanced, saturated in hops, but with a thiccccc mouthfeel. With Nelson Sauvin Bliss, Nelson Sauvin Cryo, Citra, Citra Dynaboost and Peacharine hops, in addition to a late variant of Nelson Sauvin that provides different notes - more towards grapefruit and guava than the traditional winey notes - we have a gigantic hop bomb, perfect to accompany you in your misfortunes with friends. Wishing you as much fun as we had with the gang from All My Friends. Cheers! Brasserie Sir John Brewing Co. - Serpentin</beer_description>
@@ -4234,7 +4244,8 @@
     <title>Crux</title>
     <url>https://hopincraftbier.be/products/outer-range-crux</url>
     <brewery_name>Outer Range Brewing Co.</brewery_name>
-    <price>6.87</price>
+    <price>5.84</price>
+    <regular_price>6,87</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5243283992.webp</image>
     <beer_description>Hops: Strata • Krush Tasting Notes: Peach • Strawberry • Pine ABV: 6.5% Outer Range Brewing Co. - Crux</beer_description>
     <beer_style>IPA - American</beer_style>
@@ -4251,7 +4262,8 @@
     <title>Belay</title>
     <url>https://hopincraftbier.be/products/outer-range-belay</url>
     <brewery_name>Outer Range Brewing Co.</brewery_name>
-    <price>7.48</price>
+    <price>6.36</price>
+    <regular_price>7,48</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5243284128.webp</image>
     <beer_description>Colombus, Nelson Sauvin &amp; Citra Outer Range Brewing Co. - Belay</beer_description>
     <beer_style>IPA - New England / Hazy</beer_style>
@@ -4303,7 +4315,7 @@
     <title>Big Pharma</title>
     <url>https://hopincraftbier.be/products/district-96-big-pharma</url>
     <brewery_name>District 96 Beer Factory</brewery_name>
-    <price>9.83</price>
+    <price>8.67</price>
     <regular_price>11,56</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5032086311.webp</image>
     <beer_description>Hawaiian tropical vibes District 96 Beer Factory - Big Pharma</beer_description>
@@ -4320,7 +4332,7 @@
     <title>Trade War</title>
     <url>https://hopincraftbier.be/products/district-96-trade-war</url>
     <brewery_name>District 96 Beer Factory</brewery_name>
-    <price>8.39</price>
+    <price>7.4</price>
     <regular_price>9,87</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5032065449.webp</image>
     <beer_description>Hopped with Enigma and Vic secret. Orange, berry, and tropical fruits. District 96 Beer Factory - Trade War</beer_description>
@@ -5356,7 +5368,7 @@
     <title>Melody</title>
     <url>https://hopincraftbier.be/products/fuerst-wiacek-berlin-melody</url>
     <brewery_name>FUERST WIACEK Berlin</brewery_name>
-    <price>6.14</price>
+    <price>4.61</price>
     <regular_price>6.14</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5441568034.png</image>
     <beer_description>Dry hopped IPA with Citra, Motueka &amp; Galaxy. FUERST WIACEK Berlin - Melody</beer_description>
@@ -5516,7 +5528,7 @@
     <title>Hollow Names</title>
     <url>https://hopincraftbier.be/products/alefarm-hollow-names</url>
     <brewery_name>Alefarm Brewing</brewery_name>
-    <price>7.01</price>
+    <price>5.26</price>
     <regular_price>7.01</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/738467167/4840926929.png</image>
     <beer_description>DIPA with Mosaic BBC and Amarillo BBC. Alefarm - Hollow Names</beer_description>
@@ -5774,6 +5786,6 @@
     <date_canned>2025-03-17</date_canned>
     <untappd_id>6186985</untappd_id>
   </item>
-  <timestamp>1775600105</timestamp>
-  <gen_date>08/04/2026 00:15:05</gen_date>
+  <timestamp>1775601004</timestamp>
+  <gen_date>08/04/2026 00:30:04</gen_date>
 </feed>
