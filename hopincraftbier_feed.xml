@@ -3642,23 +3642,6 @@
     <untappd_id>6247096</untappd_id>
   </item>
   <item>
-    <id>6384350</id>
-    <ecommerce_id>779025872</ecommerce_id>
-    <title>Coastbusters</title>
-    <url>https://hopincraftbier.be/products/norm-coastbusters</url>
-    <brewery_name>Norm Brewing</brewery_name>
-    <price>2.94</price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5500080415.png</image>
-    <beer_description>If there's something strange… In your neighborhood… Who you gonna call ? Coastbusters is our collab with our friends from Schwarze Rose (Main, Germany). The idea was to be in the middle of the two coasts. West coast-ish grain bill and water, East coast-ish yeast and hops. No big haze, not really crystal clear… Precisely what we wanted ! Speaking about hops, we selected Amarillo and Simcoe for a west side touch and Rakau and Eclipse for the east side. It’s a pacific hops tour and already sounds like your new favorite pacific IPA (if it’s really existing?!). Norm Brewing - Coastbusters</beer_description>
-    <beer_style>IPA - American</beer_style>
-    <beer_abv>6.6%</beer_abv>
-    <beer_volume>440 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Belgium</brewery_country>
-    <date_best_before>05/2026</date_best_before>
-    <untappd_id>6384350</untappd_id>
-  </item>
-  <item>
     <id>6375119</id>
     <ecommerce_id>779012801</ecommerce_id>
     <title>Roulez Jeunesse</title>
@@ -4592,24 +4575,6 @@
     <brewery_country>France</brewery_country>
     <date_best_before>2026-05-11</date_best_before>
     <untappd_id>4367493</untappd_id>
-  </item>
-  <item>
-    <id>6341269</id>
-    <ecommerce_id>767062474</ecommerce_id>
-    <title>Linger</title>
-    <url>https://hopincraftbier.be/products/revenant-linger</url>
-    <brewery_name>Revenant Brewing Project</brewery_name>
-    <price>3</price>
-    <regular_price>5.99</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5049165751.webp</image>
-    <beer_description>Hops: Nelson - Revenant Brewing Project - Linger</beer_description>
-    <beer_style>IPA - New England / Hazy</beer_style>
-    <beer_abv>7%</beer_abv>
-    <beer_volume>440 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Finland</brewery_country>
-    <date_best_before>Eind 04/2026</date_best_before>
-    <untappd_id>6341269</untappd_id>
   </item>
   <item>
     <id>6341263</id>
@@ -5633,24 +5598,6 @@
     <untappd_id>4739060</untappd_id>
   </item>
   <item>
-    <id>6259353</id>
-    <ecommerce_id>751537017</ecommerce_id>
-    <title>Shoot To Thrill</title>
-    <url>https://hopincraftbier.be/products/counterpart-shoot-to-thrill</url>
-    <brewery_name>Counterpart Brewing</brewery_name>
-    <price>6.16</price>
-    <regular_price>12,31</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5438339953.png</image>
-    <beer_description>Hazy Triple IPA w/ Freestyle Mega Terps: Motueka, Southern Cross, Rakau &amp; Phantasm brewed in collaboration w/ Blood Brothers Brewing A full creamy mouthfeel and juice-like sweetness carrying a melange of guava, lychee, lemon candy, nectarine, papaya and sauvignon blanc. Counterpart Brewing - Shoot To Thrill</beer_description>
-    <beer_style>IPA - Triple New England / Hazy</beer_style>
-    <beer_abv>10%</beer_abv>
-    <beer_volume>473 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Canada</brewery_country>
-    <date_canned>2025-04-30</date_canned>
-    <untappd_id>6259353</untappd_id>
-  </item>
-  <item>
     <id>6246517</id>
     <ecommerce_id>751537016</ecommerce_id>
     <title>MC3PO</title>
@@ -6284,6 +6231,6 @@
     <brewery_country>United States</brewery_country>
     <untappd_id>5263247</untappd_id>
   </item>
-  <timestamp>1775549705</timestamp>
-  <gen_date>07/04/2026 10:15:05</gen_date>
+  <timestamp>1775555105</timestamp>
+  <gen_date>07/04/2026 11:45:05</gen_date>
 </feed>
