@@ -5,6 +5,182 @@
   <link>https://hopincraftbier.be/products&lt;/link&gt;</link>
   <description>Hop In Craftbier Products feed</description>
   <item>
+    <id>6654927</id>
+    <ecommerce_id>828437254</ecommerce_id>
+    <title>Bless This Mess Vol. 2</title>
+    <url>https://hopincraftbier.be/products/blackout-bless-this-mess-vol-2</url>
+    <brewery_name>Blackout Brewing</brewery_name>
+    <price>11.53</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/828437254/5697561802.webp</image>
+    <beer_description>Blackout Brewing - Bless This Mess Vol. 2</beer_description>
+    <beer_style>Stout - Imperial / Double Milk</beer_style>
+    <beer_abv>10%</beer_abv>
+    <beer_volume>330 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Romania</brewery_country>
+    <untappd_id>6654927</untappd_id>
+  </item>
+  <item>
+    <id>6647162</id>
+    <ecommerce_id>828437253</ecommerce_id>
+    <title>Bless This Mess Vol 1</title>
+    <url>https://hopincraftbier.be/products/blackout-bless-this-mess-vol-1</url>
+    <brewery_name>Blackout Brewing</brewery_name>
+    <price>11.53</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/828437253/5697657781.png</image>
+    <beer_description>The first volume of our barrel aged cream stout series: Barrel - Chattanooga Tennessee Bourbon Adjuncts - salted caramel ice cream soft serve, coconut cream, condensed milk Blackout Brewing - Bless This Mess Vol 1</beer_description>
+    <beer_style>Stout - Imperial / Double Pastry</beer_style>
+    <beer_abv>10%</beer_abv>
+    <beer_volume>330 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Romania</brewery_country>
+    <untappd_id>6647162</untappd_id>
+  </item>
+  <item>
+    <id>6634182</id>
+    <ecommerce_id>828437252</ecommerce_id>
+    <title>Bezna - Bourbon BA</title>
+    <url>https://hopincraftbier.be/products/blackout-bezna-bourbon-ba</url>
+    <brewery_name>Blackout Brewing</brewery_name>
+    <price>11.53</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/828437252/5697652563.png</image>
+    <beer_description>SHAKE BEFORE POURING!!! This is the BA version of our collab with Ophiussa. Contains a shitload of pistachio ice cream, coconut cream and condensed milk. Blackout Brewing - Bezna - Bourbon BA</beer_description>
+    <beer_style>Stout - Imperial / Double Pastry</beer_style>
+    <beer_abv>10%</beer_abv>
+    <beer_volume>330 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Romania</brewery_country>
+    <untappd_id>6634182</untappd_id>
+  </item>
+  <item>
+    <id>6634191</id>
+    <ecommerce_id>828426296</ecommerce_id>
+    <title>VII-DIPA</title>
+    <url>https://hopincraftbier.be/products/blackout-vii-dipa</url>
+    <brewery_name>Blackout Brewing</brewery_name>
+    <price>6.39</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/828426296/5697652849.png</image>
+    <beer_description>Super Sauvin | Nelson Sauvin | Peacherine | Quantum Citra Blackout Brewing - VII-DIPA</beer_description>
+    <beer_style>IPA - Imperial / Double</beer_style>
+    <beer_abv>8%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Romania</brewery_country>
+    <untappd_id>6634191</untappd_id>
+  </item>
+  <item>
+    <id>6613525</id>
+    <ecommerce_id>828366119</ecommerce_id>
+    <title>VII-CAKE</title>
+    <url>https://hopincraftbier.be/products/blackout-vii-cake</url>
+    <brewery_name>Blackout Brewing</brewery_name>
+    <price>11.32</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/828366119/5697655150.webp</image>
+    <beer_description>7th Anniversary imperial stout. Barrels: 2 Alberta Rhum 1 Martinique Rhum Adjuncts: roasted Solomon Island cocoa nibs, roasted Iranian pistachios, pistachio extract 1050 bottles in existence. Blackout Brewing - VII-CAKE</beer_description>
+    <beer_style>Stout - Imperial / Double Pastry</beer_style>
+    <beer_abv>13%</beer_abv>
+    <beer_volume>330 ml</beer_volume>
+    <beer_package>bottle</beer_package>
+    <brewery_country>Romania</brewery_country>
+    <untappd_id>6613525</untappd_id>
+  </item>
+  <item>
+    <id>6613519</id>
+    <ecommerce_id>828426295</ecommerce_id>
+    <title>VII-BW</title>
+    <url>https://hopincraftbier.be/products/blackout-vii-bw</url>
+    <brewery_name>Blackout Brewing</brewery_name>
+    <price>10.72</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/828426295/5697655120.png</image>
+    <beer_description>7th anniversary barleywine. Barrels: 1 x 6th Street Bourbon 1 x Smooth Ambler Rye Whiskey 928 bottles in existence. Blackout Brewing - VII-BW</beer_description>
+    <beer_style>Barleywine - American</beer_style>
+    <beer_abv>12%</beer_abv>
+    <beer_volume>330 ml</beer_volume>
+    <beer_package>bottle</beer_package>
+    <brewery_country>Romania</brewery_country>
+    <untappd_id>6613519</untappd_id>
+  </item>
+  <item>
+    <id>6613515</id>
+    <ecommerce_id>828426294</ecommerce_id>
+    <title>VII-BLEND</title>
+    <url>https://hopincraftbier.be/products/blackout-vii-blend</url>
+    <brewery_name>Blackout Brewing</brewery_name>
+    <price>10.72</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/828426294/5697657775.png</image>
+    <beer_description>7th anniversary blend. Barrels: 1 Kilchoman (slightly peated) 1 MGP bourbon. No adjuncts. 1006 bottles in existence. Blackout Brewing - VII-BLEND</beer_description>
+    <beer_style>Stout - Imperial / Double</beer_style>
+    <beer_abv>11.5%</beer_abv>
+    <beer_volume>330 ml</beer_volume>
+    <beer_package>bottle</beer_package>
+    <brewery_country>Romania</brewery_country>
+    <untappd_id>6613515</untappd_id>
+  </item>
+  <item>
+    <id>6622663</id>
+    <ecommerce_id>828366118</ecommerce_id>
+    <title>VII-ANTICAKE</title>
+    <url>https://hopincraftbier.be/products/blackout-vii-anticake</url>
+    <brewery_name>Blackout Brewing</brewery_name>
+    <price>11.32</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/828366118/5697657799.webp</image>
+    <beer_description>Barrels: 1 x Laird’s Apple Brandy 1 x Still Austin Bourbon Adjuncts: • Coffee - Njemu Estate Kenya beans, custom roasted by Yume for this beer • Madagascar vanilla beans • Toasted and untoasted coconut flakes 912 bottles in existence Blackout Brewing - VII-ANTICAKE</beer_description>
+    <beer_style>Stout - Imperial / Double Coffee</beer_style>
+    <beer_abv>11.5%</beer_abv>
+    <beer_volume>330 ml</beer_volume>
+    <beer_package>bottle</beer_package>
+    <brewery_country>Romania</brewery_country>
+    <untappd_id>6622663</untappd_id>
+  </item>
+  <item>
+    <id>6619635</id>
+    <ecommerce_id>828426293</ecommerce_id>
+    <title>Triple Chemicals</title>
+    <url>https://hopincraftbier.be/products/blackout-triple-chemicals</url>
+    <brewery_name>Blackout Brewing</brewery_name>
+    <price>7.03</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/828426293/5697652855.png</image>
+    <beer_description>Super Sauvin | Peacherine Blackout Brewing - Triple Chemicals</beer_description>
+    <beer_style>IPA - Triple New England / Hazy</beer_style>
+    <beer_abv>9.5%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Romania</brewery_country>
+    <untappd_id>6619635</untappd_id>
+  </item>
+  <item>
+    <id>5586339</id>
+    <ecommerce_id>828316224</ecommerce_id>
+    <title>Junk Deluxe - Rye Whiskey BA</title>
+    <url>https://hopincraftbier.be/products/blackout-junk-deluxe-rye-whiskey-ba</url>
+    <brewery_name>Blackout Brewing</brewery_name>
+    <price>11.13</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/828316224/5697652986.png</image>
+    <beer_description>Maple, chocolate, hazelnut. Batch 1: brewed at Hophead. Batch 2: brewed at our facility. Blackout Brewing - Junk Deluxe - Rye Whiskey BA</beer_description>
+    <beer_style>Stout - Imperial / Double Pastry</beer_style>
+    <beer_abv>12%</beer_abv>
+    <beer_volume>330 ml</beer_volume>
+    <beer_package>bottle</beer_package>
+    <brewery_country>Romania</brewery_country>
+    <untappd_id>5586339</untappd_id>
+  </item>
+  <item>
+    <id>6081385</id>
+    <ecommerce_id>828426292</ecommerce_id>
+    <title>Deadly Splendor - Bourbon BA</title>
+    <url>https://hopincraftbier.be/products/blackout-deadly-splendor-bourbon-ba</url>
+    <brewery_name>Blackout Brewing</brewery_name>
+    <price>11.13</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/828426292/5697652915.png</image>
+    <beer_description>Batch 2 in cans: Aged in a Tennessee bourbon barrel. Brewed at our facility. Batch 1 in bottles: Blend of Buffalo Trace and Barton 1792 bourbon barrel aged stout, finished with a shitload of vanilla beans and creme brulee. Brewed and cared for at Bere a la Cluj. Blackout Brewing - Deadly Splendor - Bourbon BA</beer_description>
+    <beer_style>Stout - Imperial / Double Pastry</beer_style>
+    <beer_abv>12%</beer_abv>
+    <beer_volume>330 ml</beer_volume>
+    <beer_package>bottle</beer_package>
+    <brewery_country>Romania</brewery_country>
+    <untappd_id>6081385</untappd_id>
+  </item>
+  <item>
     <id>6628237</id>
     <ecommerce_id>826591951</ecommerce_id>
     <title>Rubicon</title>
@@ -5786,6 +5962,6 @@
     <date_canned>2025-03-17</date_canned>
     <untappd_id>6186985</untappd_id>
   </item>
-  <timestamp>1775605505</timestamp>
-  <gen_date>08/04/2026 01:45:05</gen_date>
+  <timestamp>1775640605</timestamp>
+  <gen_date>08/04/2026 11:30:05</gen_date>
 </feed>
