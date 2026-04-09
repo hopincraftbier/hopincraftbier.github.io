@@ -5779,7 +5779,7 @@
     <brewery_name>Spyglass Brewing Company</brewery_name>
     <price>5.99</price>
     <regular_price>11.97</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4842403234.png</image>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/735435927/4842403234.png</image>
     <beer_description>A New England style Double IPA hopped with Citra and Rakau hops. - Spyglass - Turbulent Flow</beer_description>
     <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
     <beer_abv>8.3%</beer_abv>
@@ -5841,6 +5841,6 @@
     <date_canned>2025-03-17</date_canned>
     <untappd_id>6186985</untappd_id>
   </item>
-  <timestamp>1775712604</timestamp>
-  <gen_date>09/04/2026 07:30:04</gen_date>
+  <timestamp>1775715305</timestamp>
+  <gen_date>09/04/2026 08:15:05</gen_date>
 </feed>
