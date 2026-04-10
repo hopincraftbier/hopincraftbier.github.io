@@ -171,8 +171,8 @@
     <url>https://hopincraftbier.be/products/blackout-deadly-splendor-bourbon-ba</url>
     <brewery_name>Blackout Brewing</brewery_name>
     <price>11.13</price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/828426292/5697652915.png</image>
-    <beer_description>Batch 2 in cans: Aged in a Tennessee bourbon barrel. Brewed at our facility. Batch 1 in bottles: Blend of Buffalo Trace and Barton 1792 bourbon barrel aged stout, finished with a shitload of vanilla beans and creme brulee. Brewed and cared for at Bere a la Cluj. Blackout Brewing - Deadly Splendor - Bourbon BA</beer_description>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/828426292/5701733713.webp</image>
+    <beer_description>Batch 2 in cans: Aged in a Tennessee bourbon barrel. Brewed at facility of Blackout. Blackout Brewing - Deadly Splendor - Bourbon BA</beer_description>
     <beer_style>Stout - Imperial / Double Pastry</beer_style>
     <beer_abv>12%</beer_abv>
     <beer_volume>330 ml</beer_volume>
@@ -5841,6 +5841,6 @@
     <date_canned>2025-03-17</date_canned>
     <untappd_id>6186985</untappd_id>
   </item>
-  <timestamp>1775716205</timestamp>
-  <gen_date>09/04/2026 08:30:05</gen_date>
+  <timestamp>1775812505</timestamp>
+  <gen_date>10/04/2026 11:15:05</gen_date>
 </feed>
