@@ -5193,7 +5193,7 @@
     <brewery_name>Prairie Artisan Ales</brewery_name>
     <price>13.7</price>
     <regular_price>16,12</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5476634118.png</image>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/751529277/5476634118.png</image>
     <beer_description>Bomb! is an imperial stout aged on Spaceship Earth espresso beans, chocolate, vanilla beans, and ancho chile peppers. All the flavors meld to create a truly unique beer. The peppers add just the right amount of heat to complement the intense coffee and chocolate flavors. Prairie Artisan Ales - Bomb!</beer_description>
     <beer_style>Stout - Imperial / Double Coffee</beer_style>
     <beer_abv>13%</beer_abv>
@@ -5752,7 +5752,7 @@
     <brewery_name>AleSmith Brewing Company</brewery_name>
     <price>7.44</price>
     <regular_price>9.92</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4827556438.png</image>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/735435487/4827556438.png</image>
     <beer_description>Imperial Stout with Cacao Nibs, Roasted Peanuts, Sea Salt, and Coffee. We’ve transformed our classic Speedway Stout into a decadent peanut butter cup-inspired treat. Roasted peanuts blend with rich chocolate malts, bold coffee, and Dominican cacao nibs. The result is a perfect balance of salty, roasty peanuts and rich, decadent chocolate. Subtle sweetness, warming alcohol, and smooth chocolate create a well-rounded sip. - AleSmith - Speedway Stout: Peanut Butter Cup Edition</beer_description>
     <beer_style>Stout - Imperial / Double Coffee</beer_style>
     <beer_abv>12%</beer_abv>
@@ -5937,6 +5937,6 @@
     <date_canned>2025-03-17</date_canned>
     <untappd_id>6186985</untappd_id>
   </item>
-  <timestamp>1775926805</timestamp>
-  <gen_date>11/04/2026 19:00:05</gen_date>
+  <timestamp>1775930405</timestamp>
+  <gen_date>11/04/2026 20:00:05</gen_date>
 </feed>
