@@ -11,8 +11,8 @@
     <url>https://hopincraftbier.be/products/blackout-bless-this-mess-vol-2</url>
     <brewery_name>Blackout Brewing</brewery_name>
     <price>11.53</price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/828437254/5697561802.webp</image>
-    <beer_description>Blackout Brewing - Bless This Mess Vol. 2</beer_description>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/828437254/5703873372.png</image>
+    <beer_description>The 2nd volume of our barrel aged cream stout series Blackout Brewing - Bless This Mess Vol. 2</beer_description>
     <beer_style>Stout - Imperial / Double Milk</beer_style>
     <beer_abv>10%</beer_abv>
     <beer_volume>330 ml</beer_volume>
@@ -27,7 +27,7 @@
     <url>https://hopincraftbier.be/products/blackout-bless-this-mess-vol-1</url>
     <brewery_name>Blackout Brewing</brewery_name>
     <price>11.53</price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/828437253/5697657781.png</image>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/828437253/5703879545.png</image>
     <beer_description>The first volume of our barrel aged cream stout series: Barrel - Chattanooga Tennessee Bourbon Adjuncts - salted caramel ice cream soft serve, coconut cream, condensed milk Blackout Brewing - Bless This Mess Vol 1</beer_description>
     <beer_style>Stout - Imperial / Double Pastry</beer_style>
     <beer_abv>10%</beer_abv>
@@ -75,7 +75,7 @@
     <url>https://hopincraftbier.be/products/blackout-vii-cake</url>
     <brewery_name>Blackout Brewing</brewery_name>
     <price>11.32</price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/828366119/5697655150.webp</image>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/828366119/5703873406.png</image>
     <beer_description>7th Anniversary imperial stout. Barrels: 2 Alberta Rhum 1 Martinique Rhum Adjuncts: roasted Solomon Island cocoa nibs, roasted Iranian pistachios, pistachio extract 1050 bottles in existence. Blackout Brewing - VII-CAKE</beer_description>
     <beer_style>Stout - Imperial / Double Pastry</beer_style>
     <beer_abv>13%</beer_abv>
@@ -91,7 +91,7 @@
     <url>https://hopincraftbier.be/products/blackout-vii-bw</url>
     <brewery_name>Blackout Brewing</brewery_name>
     <price>10.72</price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/828426295/5697655120.png</image>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/828426295/5703879641.png</image>
     <beer_description>7th anniversary barleywine. Barrels: 1 x 6th Street Bourbon 1 x Smooth Ambler Rye Whiskey 928 bottles in existence. Blackout Brewing - VII-BW</beer_description>
     <beer_style>Barleywine - American</beer_style>
     <beer_abv>12%</beer_abv>
@@ -107,7 +107,7 @@
     <url>https://hopincraftbier.be/products/blackout-vii-blend</url>
     <brewery_name>Blackout Brewing</brewery_name>
     <price>10.72</price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/828426294/5697657775.png</image>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/828426294/5703871493.png</image>
     <beer_description>7th anniversary blend. Barrels: 1 Kilchoman (slightly peated) 1 MGP bourbon. No adjuncts. 1006 bottles in existence. Blackout Brewing - VII-BLEND</beer_description>
     <beer_style>Stout - Imperial / Double</beer_style>
     <beer_abv>11.5%</beer_abv>
@@ -5841,6 +5841,6 @@
     <date_canned>2025-03-17</date_canned>
     <untappd_id>6186985</untappd_id>
   </item>
-  <timestamp>1775901606</timestamp>
-  <gen_date>11/04/2026 12:00:06</gen_date>
+  <timestamp>1775917805</timestamp>
+  <gen_date>11/04/2026 16:30:05</gen_date>
 </feed>
