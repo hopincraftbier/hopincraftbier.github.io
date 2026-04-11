@@ -123,7 +123,7 @@
     <url>https://hopincraftbier.be/products/blackout-vii-anticake</url>
     <brewery_name>Blackout Brewing</brewery_name>
     <price>11.32</price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/828366118/5697657799.webp</image>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/828366118/5703885005.png</image>
     <beer_description>Barrels: 1 x Laird’s Apple Brandy 1 x Still Austin Bourbon Adjuncts: • Coffee - Njemu Estate Kenya beans, custom roasted by Yume for this beer • Madagascar vanilla beans • Toasted and untoasted coconut flakes 912 bottles in existence Blackout Brewing - VII-ANTICAKE</beer_description>
     <beer_style>Stout - Imperial / Double Coffee</beer_style>
     <beer_abv>11.5%</beer_abv>
@@ -155,7 +155,7 @@
     <url>https://hopincraftbier.be/products/blackout-junk-deluxe-rye-whiskey-ba</url>
     <brewery_name>Blackout Brewing</brewery_name>
     <price>11.13</price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/828316224/5697652986.png</image>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/828316224/5703885146.png</image>
     <beer_description>Maple, chocolate, hazelnut. Batch 1: brewed at Hophead. Batch 2: brewed at our facility. Blackout Brewing - Junk Deluxe - Rye Whiskey BA</beer_description>
     <beer_style>Stout - Imperial / Double Pastry</beer_style>
     <beer_abv>12%</beer_abv>
@@ -171,7 +171,7 @@
     <url>https://hopincraftbier.be/products/blackout-deadly-splendor-bourbon-ba</url>
     <brewery_name>Blackout Brewing</brewery_name>
     <price>11.13</price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/828426292/5701733713.webp</image>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/828426292/5703887614.png</image>
     <beer_description>Batch 2 in cans: Aged in a Tennessee bourbon barrel. Brewed at facility of Blackout. Blackout Brewing - Deadly Splendor - Bourbon BA</beer_description>
     <beer_style>Stout - Imperial / Double Pastry</beer_style>
     <beer_abv>12%</beer_abv>
@@ -5841,6 +5841,6 @@
     <date_canned>2025-03-17</date_canned>
     <untappd_id>6186985</untappd_id>
   </item>
-  <timestamp>1775917805</timestamp>
-  <gen_date>11/04/2026 16:30:05</gen_date>
+  <timestamp>1775918705</timestamp>
+  <gen_date>11/04/2026 16:45:05</gen_date>
 </feed>
