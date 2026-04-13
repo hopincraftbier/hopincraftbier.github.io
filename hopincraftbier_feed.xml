@@ -3011,7 +3011,8 @@
     <title>Imposing Will</title>
     <url>https://hopincraftbier.be/products/autodidact-beer-imposing-will</url>
     <brewery_name>Autodidact Beer</brewery_name>
-    <price>14</price>
+    <price>11.9</price>
+    <regular_price>14,00</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5260880874.webp</image>
     <beer_description>with Garston Hops Riwaka and Nelson Sauvin Autodidact Beer - Imposing Will</beer_description>
     <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
@@ -3250,7 +3251,7 @@
     <title>Mania!</title>
     <url>https://hopincraftbier.be/products/willibald-farm-distillery--mania</url>
     <brewery_name>Willibald Farm Distillery &amp; Brewery</brewery_name>
-    <price>9.92</price>
+    <price>8.43</price>
     <regular_price>9,92</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/787743585/5260616558.webp</image>
     <beer_description>Triple IPA with Citra, Mosaic, and Krush Hyperboost. Willibald Farm Brewery - Mania!</beer_description>
@@ -3994,7 +3995,7 @@
     <title>Triple Nelson &amp; Cream</title>
     <url>https://hopincraftbier.be/products/fine-balance-triple-nelson--cream</url>
     <brewery_name>Fine Balance Brewing</brewery_name>
-    <price>9.25</price>
+    <price>8.16</price>
     <regular_price>10,88</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5145649923.webp</image>
     <beer_description>The third release in our Nelson Oat Cream IPA Series features a large dry-hop of Nelson Sauvin, Peacharine, and Riwaka hops. Expect big citrus, grapefruit, and passionfruit notes in a smooth, creamy, easy-drinking body. Fine Balance Brewing - Triple Nelson &amp; Cream</beer_description>
@@ -4012,7 +4013,7 @@
     <title>Nelson &amp; Cream</title>
     <url>https://hopincraftbier.be/products/fine-balance-nelson--cream</url>
     <brewery_name>Fine Balance Brewing</brewery_name>
-    <price>8.68</price>
+    <price>7.66</price>
     <regular_price>10,21</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5145653801.webp</image>
     <beer_description>The first in our quadruple Nelson Oat Cream IPA Series, Nelson &amp; Cream IPA was dry-hopped with Nelson Sauvin and Nelson Sauvin Hyperboost from Yakima Valley. Expect a smooth, creamy mouthfleel, with big tropical stone fruit flavours. Fine Balance Brewing - Nelson &amp; Cream</beer_description>
@@ -4047,7 +4048,7 @@
     <title>Double Nelson &amp; Cream</title>
     <url>https://hopincraftbier.be/products/fine-balance-double-nelson--cream</url>
     <brewery_name>Fine Balance Brewing</brewery_name>
-    <price>8.97</price>
+    <price>7.91</price>
     <regular_price>10,55</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5145657587.webp</image>
     <beer_description>The second in our Nelson Oat Cream IPA Series, this DIPA was dry-hopped with Nelson Sauvin, Motueka &amp; Mosaic. Expect notes of over-ripe tropical fruit, pineapple, and mango with a sightly dank finish and piney finish. Fine Balance Brewing - Double Nelson &amp; Cream</beer_description>
@@ -4256,7 +4257,7 @@
     <title>Chasing Trees: Strain 24</title>
     <url>https://hopincraftbier.be/products/dankhouse-chasing-trees-strain-24</url>
     <brewery_name>DankHouse Brewing Company</brewery_name>
-    <price>8.79</price>
+    <price>7.76</price>
     <regular_price>10,34</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5145623756.webp</image>
     <beer_description>Dry hopped with Vera, Anchovy, and Citra. DankHouse Brewing Company - Chasing Trees: Strain 24</beer_description>
@@ -4274,7 +4275,7 @@
     <title>High-Low</title>
     <url>https://hopincraftbier.be/products/finback-high-low</url>
     <brewery_name>Finback Brewery</brewery_name>
-    <price>8.97</price>
+    <price>7.91</price>
     <regular_price>10,55</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5145458707.webp</image>
     <beer_description>double dry hopped with Mosaic, Amarillo, Citra, Belma, Blanc, El Dorado, Waimea, Idaho 7 and Nelson Finback Brewery - High-Low</beer_description>
@@ -4502,7 +4503,8 @@
     <title>Out of the Woods</title>
     <url>https://hopincraftbier.be/products/outer-range-out-of-the-woods</url>
     <brewery_name>Outer Range Brewing Co.</brewery_name>
-    <price>7.34</price>
+    <price>6.24</price>
+    <regular_price>7,34</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5243284198.webp</image>
     <beer_description>DIPA. Hops: Nelson, Citra, Simcoe. Tasting Notes: Hint of Pine, Passion Fruit, Guava. ABV: 7.5% Outer Range Brewing Co. - Out of the Woods</beer_description>
     <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
@@ -4564,24 +4566,6 @@
     <beer_package>can</beer_package>
     <brewery_country>United States</brewery_country>
     <untappd_id>2906239</untappd_id>
-  </item>
-  <item>
-    <id>6308971</id>
-    <ecommerce_id>763624563</ecommerce_id>
-    <title>Hologram</title>
-    <url>https://hopincraftbier.be/products/soma-beer-hologram</url>
-    <brewery_name>SOMA Beer</brewery_name>
-    <price>6.05</price>
-    <regular_price>8.07</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5015854941.webp</image>
-    <beer_description>Idaho 7 CGX, Citra &amp; Krush SOMA Beer - Hologram</beer_description>
-    <beer_style>IPA - Triple New England / Hazy</beer_style>
-    <beer_abv>10%</beer_abv>
-    <beer_volume>440 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Spain</brewery_country>
-    <date_best_before>2025-12-19</date_best_before>
-    <untappd_id>6308971</untappd_id>
   </item>
   <item>
     <id>6307418</id>
@@ -5100,24 +5084,6 @@
     <untappd_id>3736086</untappd_id>
   </item>
   <item>
-    <id>6221131</id>
-    <ecommerce_id>751542770</ecommerce_id>
-    <title>Kung Fu Time Bomb</title>
-    <url>https://hopincraftbier.be/products/spyglass-kung-fu-time-bomb</url>
-    <brewery_name>Spyglass Brewing Company</brewery_name>
-    <price>8.72</price>
-    <regular_price>11,62</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4963595192.webp</image>
-    <beer_description>In collaboration with Incandescent Brewing. A DIPA hopped with Citra Incognito, Krush, Citra, Motueka, and Strata Quantum Brite. Spyglass Brewing Company - Kung Fu Time Bomb</beer_description>
-    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
-    <beer_abv>8%</beer_abv>
-    <beer_volume>473 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>United States</brewery_country>
-    <date_canned>2025-04-09</date_canned>
-    <untappd_id>6221131</untappd_id>
-  </item>
-  <item>
     <id>6237648</id>
     <ecommerce_id>751542768</ecommerce_id>
     <title>Bain D'agrumes</title>
@@ -5186,24 +5152,6 @@
     <untappd_id>6092135</untappd_id>
   </item>
   <item>
-    <id>348850</id>
-    <ecommerce_id>751529277</ecommerce_id>
-    <title>Bomb!</title>
-    <url>https://hopincraftbier.be/products/prairie-artisan-ales-bomb</url>
-    <brewery_name>Prairie Artisan Ales</brewery_name>
-    <price>13.7</price>
-    <regular_price>16,12</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/751529277/5476634118.png</image>
-    <beer_description>Bomb! is an imperial stout aged on Spaceship Earth espresso beans, chocolate, vanilla beans, and ancho chile peppers. All the flavors meld to create a truly unique beer. The peppers add just the right amount of heat to complement the intense coffee and chocolate flavors. Prairie Artisan Ales - Bomb!</beer_description>
-    <beer_style>Stout - Imperial / Double Coffee</beer_style>
-    <beer_abv>13%</beer_abv>
-    <beer_volume>355 ml</beer_volume>
-    <beer_package>bottle</beer_package>
-    <brewery_country>United States</brewery_country>
-    <date_canned>2024-12-24</date_canned>
-    <untappd_id>348850</untappd_id>
-  </item>
-  <item>
     <id>6236757</id>
     <ecommerce_id>751529276</ecommerce_id>
     <title>Aspect of Taurus</title>
@@ -5254,42 +5202,6 @@
     <untappd_id>4990447</untappd_id>
   </item>
   <item>
-    <id>6215483</id>
-    <ecommerce_id>751529273</ecommerce_id>
-    <title>Dora #79</title>
-    <url>https://hopincraftbier.be/products/badlands-dora-79</url>
-    <brewery_name>Badlands Brewing Company</brewery_name>
-    <price>8.31</price>
-    <regular_price>11,08</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4927488830.png</image>
-    <beer_description>Dora is our exploratory series of beers where we mess around with anything/everything from ingredients to process. For this version of Dora we decided we wanted to try a new blend of pale oats and wheat than we typically use. Hopped exclusively with Citra, we taste huge pineapple, papaya and mixed citrus Badlands Brewing Company - Dora #79</beer_description>
-    <beer_style>IPA - American</beer_style>
-    <beer_abv>6.5%</beer_abv>
-    <beer_volume>473 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Canada</brewery_country>
-    <date_canned>2025-04-09</date_canned>
-    <untappd_id>6215483</untappd_id>
-  </item>
-  <item>
-    <id>6166277</id>
-    <ecommerce_id>751542508</ecommerce_id>
-    <title>Dock 111 - Citra, Cascade NZ, Motueka &amp; Pacifica</title>
-    <url>https://hopincraftbier.be/products/le-ketch-dock-111-citra-cascade-nz-motueka--pacifica</url>
-    <brewery_name>Le Ketch</brewery_name>
-    <price>8.31</price>
-    <regular_price>11,08</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5438318471.png</image>
-    <beer_description>NEW ENGLAND IPA AU MIEL. HOUBLONS: CITRA, CASCADE NZ, MOTUEKA &amp; PACIFICA Le Ketch - Dock 111 - Citra, Cascade NZ, Motueka &amp; Pacifica</beer_description>
-    <beer_style>IPA - New England / Hazy</beer_style>
-    <beer_abv>6.5%</beer_abv>
-    <beer_volume>473 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Canada</brewery_country>
-    <date_canned>2025-04-07</date_canned>
-    <untappd_id>6166277</untappd_id>
-  </item>
-  <item>
     <id>6248503</id>
     <ecommerce_id>751542507</ecommerce_id>
     <title>The Juice Awakens</title>
@@ -5324,24 +5236,6 @@
     <brewery_country>United States</brewery_country>
     <date_canned>2025-04-14</date_canned>
     <untappd_id>6227368</untappd_id>
-  </item>
-  <item>
-    <id>6214473</id>
-    <ecommerce_id>751529271</ecommerce_id>
-    <title>Double Drip (Motueka, Rakau, Peacharine, Southern Cross Hop Kief)</title>
-    <url>https://hopincraftbier.be/products/counterpart-double-drip-motueka-rakau-peacharine-southern-cross-hop-kief</url>
-    <brewery_name>Counterpart Brewing</brewery_name>
-    <price>8.46</price>
-    <regular_price>11,28</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5438351337.png</image>
-    <beer_description>Hazy Double IPA w/ Motueka, Rakau, Peacharine &amp; Southern Cross SubZero Hop Kief A full pillowy mouthfeel delivering a wave of fresh peach, lychee, orange, guava, nectarine and lime zest. Counterpart Brewing - Double Drip (Motueka, Rakau, Peacharine, Southern Cross Hop Kief)</beer_description>
-    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
-    <beer_abv>8.2%</beer_abv>
-    <beer_volume>473 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Canada</brewery_country>
-    <date_canned>2025-04-02</date_canned>
-    <untappd_id>6214473</untappd_id>
   </item>
   <item>
     <id>6194337</id>
@@ -5485,8 +5379,8 @@
     <title>Demoliri 0001</title>
     <url>https://hopincraftbier.be/products/messorem-demoliri-0001</url>
     <brewery_name>Messorem</brewery_name>
-    <price>9.01</price>
-    <regular_price>10.60</regular_price>
+    <price>7.95</price>
+    <regular_price>10,60</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/751537014/5438350245.webp</image>
     <beer_description>IPA - Motueka, Riwaka, Citra Dynaboost Messorem - Demoliri 0001</beer_description>
     <beer_style>IPA - New England / Hazy</beer_style>
@@ -5937,6 +5831,6 @@
     <date_canned>2025-03-17</date_canned>
     <untappd_id>6186985</untappd_id>
   </item>
-  <timestamp>1775941204</timestamp>
-  <gen_date>11/04/2026 23:00:04</gen_date>
+  <timestamp>1776069841</timestamp>
+  <gen_date>13/04/2026 10:44:01</gen_date>
 </feed>
