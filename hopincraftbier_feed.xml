@@ -455,6 +455,21 @@
     <untappd_id>6621296</untappd_id>
   </item>
   <item>
+    <id>6656696</id>
+    <ecommerce_id>824005598</ecommerce_id>
+    <title>Siren Maiden '25</title>
+    <url>https://hopincraftbier.be/products/siren-craft-brew-maiden-2025</url>
+    <brewery_name>Siren Craft Brew</brewery_name>
+    <price>13.34</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/824005598/5659919113.png</image>
+    <beer_description>Maiden is our Anniversary celebration, a blend of barley wine aged in a multitude of barrels sourced from the finest wine and spirit producers worldwide. Each year's vintage is unique, so see below to learn more about the blend within this bottle. Barrel Blend: Rum 23%, Tequila 12%, Rye 10%, Bourbon 9%, Red Wine 7%, Banyuls 7%, Port 7%, Cognac 6%, Fresh 19%. Siren Craft Brew - Siren Maiden '25</beer_description>
+    <beer_style>Barleywine - American</beer_style>
+    <beer_abv>10%</beer_abv>
+    <beer_volume>375 ml</beer_volume>
+    <beer_package>bottle</beer_package>
+    <untappd_id>6656696</untappd_id>
+  </item>
+  <item>
     <id>6515342</id>
     <ecommerce_id>824005597</ecommerce_id>
     <title>Valhall Hiernagla Whisky Cask</title>
@@ -469,6 +484,86 @@
     <beer_package>can</beer_package>
     <brewery_country>Norway</brewery_country>
     <untappd_id>6515342</untappd_id>
+  </item>
+  <item>
+    <id>6515346</id>
+    <ecommerce_id>824015789</ecommerce_id>
+    <title>Valhall Hiernagla Peated Whisky Cask</title>
+    <url>https://hopincraftbier.be/products/rygr-brygghus-valhall-hiernagla-peated-whisky-cask</url>
+    <brewery_name>RYGR Brygghús</brewery_name>
+    <price>16.78</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/824015789/5659919137.png</image>
+    <beer_description>A barley wine brewed using birch sap. Birch sap gives a unique flavor and this is amplified after maturation in whisky barrels from Hiernagla Distillery in Norway. RYGR Brygghus - Valhall Hiernagla Peated Whisky Cask</beer_description>
+    <beer_style>Barleywine - American</beer_style>
+    <beer_abv>16%</beer_abv>
+    <beer_volume>330 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Norway</brewery_country>
+    <untappd_id>6515346</untappd_id>
+  </item>
+  <item>
+    <id>6632163</id>
+    <ecommerce_id>822047926</ecommerce_id>
+    <title>Browar Bytow - Special Series: Creation</title>
+    <url>https://hopincraftbier.be/products/browar-bytow-special-series-creation</url>
+    <brewery_name>Bytów Browar Kaszubski</brewery_name>
+    <price>9.13</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/822047926/5640448554.png</image>
+    <beer_description>Pastry Stout with Vanilla and Maple Syrup. Creation is the delectable variant enriched with luscious vanilla and rich maple syrup. A thick, heavy dessert at 10.0% alcohol that evokes memories of the heyday of Maltgarden. The beer flows into the glass like pitch-black, thick motor oil, topped with a dark, mocha-colored head. As soon as you take a sniff, you imagine yourself in an American diner: the intense, sweet scent of maple syrup clashes brilliantly with warm, creamy vanilla and dark chocolate. On the palate, this Imperial Stout feels bizarrely full, syrupy, and opulent. The sweetness of the syrup and vanilla is fantastically balanced by the robust, roasted malt base and the heartwarming 10.0% alcohol. A liquid breakfast dessert. Browar Bytow - Special Series: Creation</beer_description>
+    <beer_style>Stout - Stout - Imperial / Pastry</beer_style>
+    <beer_abv>10%</beer_abv>
+    <beer_volume>500 ml</beer_volume>
+    <beer_package>bottle</beer_package>
+    <brewery_country>Poland</brewery_country>
+    <untappd_id>6632163</untappd_id>
+  </item>
+  <item>
+    <id>6650154</id>
+    <ecommerce_id>822047925</ecommerce_id>
+    <title>Browar Bytow - Momentum</title>
+    <url>https://hopincraftbier.be/products/browar-bytow-momentum</url>
+    <brewery_name>Bytów Browar Kaszubski</brewery_name>
+    <price>9.13</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/822047925/5640448560.png</image>
+    <beer_description>Pastry stout with peanut butter. Momentum is the decadent peanut butter variant. It is a massive, syrupy 10.0% dessert beer that flawlessly revives the heyday of the renowned Maltgarden stouts. The beer flows into your glass like thick, opaque motor oil, topped with a dark brown head. The aroma is an absolute dream for those with a sweet tooth: intense aromas of freshly roasted peanuts blend with luscious dark chocolate, immediately bringing to mind a liquid Reese's Peanut Butter Cup. On the palate, this Imperial Stout feels unimaginably full, thick, and syrupy. The rich, sweet chocolate flavor is fantastically balanced by the subtle, savory saltiness of the peanut butter and the robust, warming kick of 10.0% alcohol. Browar Bytow - Momentum</beer_description>
+    <beer_style>Stout - Stout - Imperial / Pastry</beer_style>
+    <beer_abv>10.32%</beer_abv>
+    <beer_volume>500 ml</beer_volume>
+    <beer_package>bottle</beer_package>
+    <brewery_country>Poland</brewery_country>
+    <untappd_id>6650154</untappd_id>
+  </item>
+  <item>
+    <id>6650518</id>
+    <ecommerce_id>822047923</ecommerce_id>
+    <title>Browar Bytow - Promotion</title>
+    <url>https://hopincraftbier.be/products/browar-bytow-promotion</url>
+    <brewery_name>Bytów Browar Kaszubski</brewery_name>
+    <price>9.13</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/822047923/5640439882.png</image>
+    <beer_description>Pastry Stout with Hazelnuts. Promotion is the tropical, decadent variant in this series, richly endowed with coconut. It is a heavy, syrupy dessert beer at 10.0% that immediately revives the magic of Maltgarden. The beer flows into the glass like thick, jet-black motor oil and develops a dark, mocha-colored head. The aroma is irresistible: a massive wave of sweet, roasted coconut wafts towards you, beautifully interwoven with deep notes of dark chocolate and roasted malt. It immediately brings to mind a luxurious, liquid Bounty bar. On the palate, this Imperial Stout feels bizarrely full, lush, and syrupy. The sweet, creamy coconut flavor is masterfully balanced by a light bitter touch from the dark malt and the warming, robust base of 10.0% alcohol. Browar Bytow - Promotion</beer_description>
+    <beer_style>Stout - Stout - Imperial / Pastry</beer_style>
+    <beer_abv>10.32%</beer_abv>
+    <beer_volume>500 ml</beer_volume>
+    <beer_package>bottle</beer_package>
+    <brewery_country>Poland</brewery_country>
+    <untappd_id>6650518</untappd_id>
+  </item>
+  <item>
+    <id>6650347</id>
+    <ecommerce_id>822047878</ecommerce_id>
+    <title>Browar Bytow - Reality</title>
+    <url>https://hopincraftbier.be/products/browar-bytow-reality</url>
+    <brewery_name>Bytów Browar Kaszubski</brewery_name>
+    <price>9.13</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/822047878/5640448588.png</image>
+    <beer_description>Pastry Stout with Hazelnuts. A heavy, syrupy dessert beer with 10.0% alcohol that liquefies the glory days of Maltgarden. The beer flows into the glass like thick, pitch-black motor oil and is topped with a deep brown, mocha-colored head. The aroma is a dream for every praline lover: a massive, luscious waft of freshly roasted hazelnuts blends seamlessly with warm dark chocolate and roasted malt. The liquid equivalent of a luxury hazelnut truffle or decadent hazelnut paste. On the palate, this Imperial Stout is bizarrely full, creamy, and syrupy. The sweet, nutty flavors are perfectly kept in check by the robust malts and the heartwarming 10.0% alcohol. Browar Bytow - Reality</beer_description>
+    <beer_style>Stout - Stout - Imperial / Pastry</beer_style>
+    <beer_abv>10.32%</beer_abv>
+    <beer_volume>500 ml</beer_volume>
+    <beer_package>bottle</beer_package>
+    <brewery_country>Poland</brewery_country>
+    <untappd_id>6650347</untappd_id>
   </item>
   <item>
     <id>6608065</id>
@@ -5859,6 +5954,6 @@
     <date_canned>2025-03-17</date_canned>
     <untappd_id>6186985</untappd_id>
   </item>
-  <timestamp>1776232134</timestamp>
-  <gen_date>15/04/2026 07:48:54</gen_date>
+  <timestamp>1776251324</timestamp>
+  <gen_date>15/04/2026 13:08:44</gen_date>
 </feed>
