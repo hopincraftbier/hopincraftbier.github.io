@@ -858,23 +858,6 @@
     <untappd_id>6605916</untappd_id>
   </item>
   <item>
-    <id>6595050</id>
-    <ecommerce_id>817629673</ecommerce_id>
-    <title>Midnight Solera</title>
-    <url>https://hopincraftbier.be/products/badlands-midnight-solera</url>
-    <brewery_name>Badlands Brewing Company</brewery_name>
-    <price>31.5</price>
-    <regular_price>31.50</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/817629673/5598126695.png</image>
-    <beer_description>Midnight solera is a bourbon barrel aged stout inspired by the solera method. The solera method is a fractional blending system where the oldest liquid is drawn from the bottom of the vessel and the space is then filled by a younger batch, creating a “waterfall” of aging. We employed this blending method throughout our stout lineup this past year. As a result this blend has pieces of all the stouts we released in 2025 in it. It is composed of a small portion of #SELECT BBA, Wheat Stout, Streams, Moon Port, and Inky December 2025 and then was topped up with a particularly unctuous barrel of wheat stout that rested in a Willett Bourbon barrel for 35 months. This is a uniquely complex and delectable blend of stout. One that took over 3 years to produce, and many months to blend. An extravagant treat inspired by a blending method that dates back to the 18th century. We hope you love it as much as we do! Badlands Brewing Company - Midnight Solera</beer_description>
-    <beer_style>Stout - Imperial / Double</beer_style>
-    <beer_abv>11.9%</beer_abv>
-    <beer_volume>500 ml</beer_volume>
-    <beer_package>bottle</beer_package>
-    <brewery_country>Canada</brewery_country>
-    <untappd_id>6595050</untappd_id>
-  </item>
-  <item>
     <id>6598385</id>
     <ecommerce_id>816187536</ecommerce_id>
     <title>Yes But Not Today</title>
@@ -6342,6 +6325,6 @@
     <date_canned>2025-03-17</date_canned>
     <untappd_id>6186985</untappd_id>
   </item>
-  <timestamp>1776276905</timestamp>
-  <gen_date>15/04/2026 20:15:05</gen_date>
+  <timestamp>1776326405</timestamp>
+  <gen_date>16/04/2026 10:00:05</gen_date>
 </feed>
