@@ -352,6 +352,88 @@
     <untappd_id>6622277</untappd_id>
   </item>
   <item>
+    <id>6603163</id>
+    <ecommerce_id>825605985</ecommerce_id>
+    <title>Ārpus X Sudden Death QDH Riwaka X Strata X Nelson Sauvin TIPA</title>
+    <url>https://hopincraftbier.be/products/arpus-arpus-x-sudden-death-qdh-riwaka-x-strata-x-nelson-sauvin-tipa</url>
+    <brewery_name>Ārpus Brewing Co.</brewery_name>
+    <price>7.05</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/825605985/5675303319.png</image>
+    <beer_description>Arpus Brewing Co. - Arpus X Sudden Death QDH Riwaka X Strata X Nelson Sauvin TIPA</beer_description>
+    <beer_style>IPA - Triple New England / Hazy</beer_style>
+    <beer_abv>10%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Latvia</brewery_country>
+    <untappd_id>6603163</untappd_id>
+  </item>
+  <item>
+    <id>6639657</id>
+    <ecommerce_id>825654272</ecommerce_id>
+    <title>TDH Hand-Selected Riwaka DIPA</title>
+    <url>https://hopincraftbier.be/products/arpus-tdh-hand-selected-riwaka-dipa</url>
+    <brewery_name>Ārpus Brewing Co.</brewery_name>
+    <price>6.72</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/825654272/5675303433.png</image>
+    <beer_description>Ārpus Brewing Co. presents a bold, hop-driven Double IPA - Hand-Selected Riwaka DIPA. This beer is brewed with Riwaka hops we personally selected in New Zealand last year, choosing each lot ourselves during hop harvest. Expect an intense burst of passionfruit, grapefruit, and fresh citrus, wrapped in a soft, juicy body with a saturated hop profile. A true showcase of one of New Zealand’s most expressive hop varieties. Arpus Brewing Co. - TDH Hand-Selected Riwaka DIPA</beer_description>
+    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
+    <beer_abv>8%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Latvia</brewery_country>
+    <untappd_id>6639657</untappd_id>
+  </item>
+  <item>
+    <id>6603173</id>
+    <ecommerce_id>825654271</ecommerce_id>
+    <title>Portuguese Brandy Barrel Aged Imperial Stout</title>
+    <url>https://hopincraftbier.be/products/arpus-portuguese-brandy-barrel-aged-imperial-stout</url>
+    <brewery_name>Ārpus Brewing Co.</brewery_name>
+    <price>9.97</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/825654271/5675310505.png</image>
+    <beer_description>This Imperial Stout was aged for 12 months in Portuguese brandy barrels from Lourinhã. Lourinhã Brandy is a DOC-protected spirit, much like Cognac or Armagnac — but uniquely Portuguese. The result is a rich and complex stout with deep roasted malt character, layered with elegant brandy warmth, subtle oak, dried fruit notes, and a smooth, lingering finish. A beer made for slow sipping and special moments. Arpus Brewing Co. - Portuguese Brandy Barrel Aged Imperial Stout</beer_description>
+    <beer_style>Stout - Imperial / Double</beer_style>
+    <beer_abv>12%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Latvia</brewery_country>
+    <untappd_id>6603173</untappd_id>
+  </item>
+  <item>
+    <id>6639662</id>
+    <ecommerce_id>825654270</ecommerce_id>
+    <title>Hazelnut X Chocolate X Vanilla Imperial Stout</title>
+    <url>https://hopincraftbier.be/products/arpus-hazelnut-x-chocolate-x-vanilla-imperial-stout</url>
+    <brewery_name>Ārpus Brewing Co.</brewery_name>
+    <price>7.5</price>
+    <regular_price>7.50</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/825654270/5675300159.png</image>
+    <beer_description>A deep, full-bodied Imperial Stout layered with roasted malt character and smooth sweetness. Rich chocolate leads the way, followed by toasted hazelnut and soft vanilla, creating a creamy, dessert-like experience with a long, satisfying finish. Indulgent, smooth, and made for slow enjoyment. Arpus Brewing Co. - Hazelnut X Chocolate X Vanilla Imperial Stout</beer_description>
+    <beer_style>Stout - Imperial / Double Pastry</beer_style>
+    <beer_abv>13%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Latvia</brewery_country>
+    <untappd_id>6639662</untappd_id>
+  </item>
+  <item>
+    <id>6639661</id>
+    <ecommerce_id>825605984</ecommerce_id>
+    <title>Apple X Banana X Mango X Vanilla Smoothie Sour Ale</title>
+    <url>https://hopincraftbier.be/products/arpus-apple-x-banana-x-mango-x-vanilla-smoothie-sour-ale</url>
+    <brewery_name>Ārpus Brewing Co.</brewery_name>
+    <price>7.5</price>
+    <regular_price>7.50</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/825605984/5675312771.png</image>
+    <beer_description>Arpus Brewing Co. - Apple X Banana X Mango X Vanilla Smoothie Sour Ale</beer_description>
+    <beer_style>Sour - Smoothie / Pastry</beer_style>
+    <beer_abv>4.5%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Latvia</brewery_country>
+    <untappd_id>6639661</untappd_id>
+  </item>
+  <item>
     <id>6611811</id>
     <ecommerce_id>825522358</ecommerce_id>
     <title>Good Morning Pineapple (Looking Very Good, Very Nice)</title>
@@ -6328,6 +6410,6 @@
     <date_canned>2025-03-17</date_canned>
     <untappd_id>6186985</untappd_id>
   </item>
-  <timestamp>1776347106</timestamp>
-  <gen_date>16/04/2026 15:45:06</gen_date>
+  <timestamp>1776363764</timestamp>
+  <gen_date>16/04/2026 20:22:44</gen_date>
 </feed>
