@@ -483,6 +483,7 @@
     <beer_abv>10%</beer_abv>
     <beer_volume>375 ml</beer_volume>
     <beer_package>bottle</beer_package>
+    <date_canned>2026-02-26</date_canned>
     <untappd_id>6656696</untappd_id>
   </item>
   <item>
@@ -6327,6 +6328,6 @@
     <date_canned>2025-03-17</date_canned>
     <untappd_id>6186985</untappd_id>
   </item>
-  <timestamp>1776345305</timestamp>
-  <gen_date>16/04/2026 15:15:05</gen_date>
+  <timestamp>1776347106</timestamp>
+  <gen_date>16/04/2026 15:45:06</gen_date>
 </feed>
