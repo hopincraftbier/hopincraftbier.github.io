@@ -421,6 +421,24 @@
     <untappd_id>6639662</untappd_id>
   </item>
   <item>
+    <id>6639661</id>
+    <ecommerce_id>825605984</ecommerce_id>
+    <title>Apple X Banana X Mango X Vanilla Smoothie Sour Ale</title>
+    <url>https://hopincraftbier.be/products/arpus-apple-x-banana-x-mango-x-vanilla-smoothie-sour-ale</url>
+    <brewery_name>Ārpus Brewing Co.</brewery_name>
+    <price>7.5</price>
+    <regular_price>7.50</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/825605984/5675312771.png</image>
+    <beer_description>A smooth and creamy blend where crisp apple meets ripe banana and tropical mango, rounded out with soft vanilla sweetness. Arpus Brewing Co. - Apple X Banana X Mango X Vanilla Smoothie Sour Ale</beer_description>
+    <beer_style>Sour - Smoothie / Pastry</beer_style>
+    <beer_abv>4.5%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Latvia</brewery_country>
+    <date_best_before>2027-03-31</date_best_before>
+    <untappd_id>6639661</untappd_id>
+  </item>
+  <item>
     <id>6611811</id>
     <ecommerce_id>825522358</ecommerce_id>
     <title>Good Morning Pineapple (Looking Very Good, Very Nice)</title>
@@ -6379,6 +6397,6 @@
     <date_canned>2025-03-17</date_canned>
     <untappd_id>6186985</untappd_id>
   </item>
-  <timestamp>1776494827</timestamp>
-  <gen_date>18/04/2026 08:47:07</gen_date>
+  <timestamp>1776507307</timestamp>
+  <gen_date>18/04/2026 12:15:07</gen_date>
 </feed>
