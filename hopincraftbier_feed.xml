@@ -439,6 +439,23 @@
     <untappd_id>6639661</untappd_id>
   </item>
   <item>
+    <id>6611811</id>
+    <ecommerce_id>825522358</ecommerce_id>
+    <title>Good Morning Pineapple (Looking Very Good, Very Nice)</title>
+    <url>https://hopincraftbier.be/products/maktoob-good-morning-pineapple-looking-very-good-very-nice</url>
+    <brewery_name>Maktoob Brewing</brewery_name>
+    <price>8.49</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/825522358/5674151141.png</image>
+    <beer_description>For some mysterious reason, stringing together a couple of rhymes about tropical fruits on top of catchy percussion rhythms, causes, almost indubitably, to almost everyone, a rush of joyful emotions that may lead to uncontrollable humming and body moving. Some made careers out of this rather straightforward recipe. Now take one of these musical motifs and put it on top of a reel, one that preferably involves cats. Now that's the kind of online brainrot we happily indulge in. Good morning, to the Watermelon Juicy juicy sugar lemon tingalingaling tingalingalingaling Maktoob Brewing - Good Morning Pineapple (Looking Very Good, Very Nice)</beer_description>
+    <beer_style>Sour - Smoothie / Pastry</beer_style>
+    <beer_abv>6%</beer_abv>
+    <beer_volume>500 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Romania</brewery_country>
+    <date_best_before>2028-02-26</date_best_before>
+    <untappd_id>6611811</untappd_id>
+  </item>
+  <item>
     <id>6628147</id>
     <ecommerce_id>825523879</ecommerce_id>
     <title>Trench Coat Contraband</title>
@@ -6380,6 +6397,6 @@
     <date_canned>2025-03-17</date_canned>
     <untappd_id>6186985</untappd_id>
   </item>
-  <timestamp>1776581442</timestamp>
-  <gen_date>19/04/2026 08:50:42</gen_date>
+  <timestamp>1776593708</timestamp>
+  <gen_date>19/04/2026 12:15:08</gen_date>
 </feed>
