@@ -28,7 +28,7 @@
     <brewery_name>Blackout Brewing</brewery_name>
     <price>11.53</price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/828437254/5703873372.png</image>
-    <beer_description>The 2nd volume of our barrel aged cream stout series Blackout Brewing - Bless This Mess Vol. 2</beer_description>
+    <beer_description>The 2nd volume of our barrel aged cream stout series Barrel - Still Austin Bourbon Adjuncts - condensed milk, coconut cream, coffee (roasted by @yumeroasters ) and dulce de leche ‼️Shake before pouring. Blackout Brewing - Bless This Mess Vol. 2</beer_description>
     <beer_style>Stout - Imperial / Double Milk</beer_style>
     <beer_abv>10%</beer_abv>
     <beer_volume>330 ml</beer_volume>
@@ -44,7 +44,7 @@
     <brewery_name>Blackout Brewing</brewery_name>
     <price>11.53</price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/828437253/5703879545.png</image>
-    <beer_description>The first volume of our barrel aged cream stout series: Barrel - Chattanooga Tennessee Bourbon Adjuncts - salted caramel ice cream soft serve, coconut cream, condensed milk Blackout Brewing - Bless This Mess Vol 1</beer_description>
+    <beer_description>The first volume of our barrel aged cream stout series: Barrel - Chattanooga Tennessee Bourbon Adjuncts - salted caramel ice cream soft serve, coconut cream, condensed milk Shake before pouring. Blackout Brewing - Bless This Mess Vol 1</beer_description>
     <beer_style>Stout - Imperial / Double Pastry</beer_style>
     <beer_abv>10%</beer_abv>
     <beer_volume>330 ml</beer_volume>
@@ -6402,6 +6402,6 @@
     <date_canned>2025-03-17</date_canned>
     <untappd_id>6186985</untappd_id>
   </item>
-  <timestamp>1776854707</timestamp>
-  <gen_date>22/04/2026 12:45:07</gen_date>
+  <timestamp>1776926705</timestamp>
+  <gen_date>23/04/2026 08:45:05</gen_date>
 </feed>
