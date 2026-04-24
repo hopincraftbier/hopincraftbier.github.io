@@ -1,4 +1,4 @@
-/* HopInCraftbier custom css v4.02 */
+/* HopInCraftbier custom css v4.03 */
 /** start homepage **/
 body {
     margin: auto;
@@ -1823,17 +1823,21 @@ div#deliveryInfoSidebar {
 
 .del_info_table.belned .country {
     width: 15%;
+    min-width: 100px;
 }
 .del_info_table.belned .shippingmethod {
     width: 30%;
+    min-width: 100px;
 }
 .del_info_table .country {
     width: 20%;
+    min-width: 100px;
     padding-left:10px !important;
     text-align: left;
 }
 .del_info_table .shippingmethod {
     width: 20%;
+    min-width: 100px;
 }
 .del_info_table .ordervalue {
     width: calc(55%/3);
