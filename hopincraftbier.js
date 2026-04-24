@@ -1,4 +1,4 @@
-const version = 'v7.01';
+const version = 'v7.02';
 let currentLanguage;
 
 const txtNl1 = '<div class="dtooltip"><p class="hover question">Kortingscoupon</p><p class="dtooltiptext">Afhankelijk van de gekozen betaling en levering, kunt u een kortingscoupon krijgen die te gebruiken is bij een volgende bestelling. Voor dit bier ziet u de bedragen in deze tabel</p></div><table class="discount-table"><thead><tr class="first_header"><th></th><th colspan="2">Manier van levering</th></tr><tr><th>Manier van betaling</th><th>Afhaling</th><th>Levering</th></tr></thead><tbody><tr><td class="header">Betalen bij afhaling</td><td>€ ';
@@ -808,15 +808,15 @@ function processInfoPages() {
         translateDeliveryInfoTable();
         let countrySelectorEn = document.querySelector('#del_cntry_en');
         if (countrySelectorEn) {
-            countrySelectorEn.onChange(function (e) {
+            countrySelectorEn.onchange = function(){
                 filterCountry(this.value);
-            });
+            };
         }
         let countrySelectorNl = document.querySelector('#del_cntry_nl');
         if (countrySelectorNl) {
-            countrySelectorNl.onChange(function (e) {
+            countrySelectorNl.onchange = function(){
                 filterCountry(this.value);
-            });
+            };
         }
     }
     document.querySelectorAll('#tile-category-collection-m4p4Gb div.ins-tile__category-content').forEach(function(it) {
