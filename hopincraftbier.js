@@ -1,4 +1,6 @@
-const version = 'v6.70';
+const version = 'v7.00';
+let currentLanguage;
+
 const txtNl1 = '<div class="dtooltip"><p class="hover question">Kortingscoupon</p><p class="dtooltiptext">Afhankelijk van de gekozen betaling en levering, kunt u een kortingscoupon krijgen die te gebruiken is bij een volgende bestelling. Voor dit bier ziet u de bedragen in deze tabel</p></div><table class="discount-table"><thead><tr class="first_header"><th></th><th colspan="2">Manier van levering</th></tr><tr><th>Manier van betaling</th><th>Afhaling</th><th>Levering</th></tr></thead><tbody><tr><td class="header">Betalen bij afhaling</td><td>€ ';
 const txtNl2 = '</td><td> - </td></tr><tr><td class="header">Overschrijving</td><td>€ ';
 const txtNl3 = '</td><td>€ ';
@@ -656,11 +658,16 @@ function translateDeliveryInfoTable() {
 }
 
 function getCustomerLng() {
+    if (currentLanguage) {
+        return currentLanguage;
+    }
     const lngElement = document.querySelector('a.ins-header__language-link--active');
     if (lngElement) {
-        return lngElement.textContent.trim();
+        currentLanguage = lngElement.textContent.trim();
+    } else {
+        currentLanguage = 'NL';
     }
-    return 'NL';
+    return currentLanguage;
 }
 
 function processProductPage(toScroll) {
@@ -783,6 +790,20 @@ function showDeliveryInfo(countryCode) {
 }
 
 function processInfoPages() {
+    let pElement = document.querySelector('#tile-cover-HaXq6F > div.ins-tile__wrap > h1 > span');
+    if (pElement) {
+        if ('EN' === getCustomerLng()) {
+            pElement.setAttribute('title', 'Craftbeer for your pleasure!');
+        } else {
+            pElement.setAttribute('title', 'Craftbier voor úw plezier!');
+        }
+    }
+
+    if (document.querySelector('#tile-cover-HaXq6F div.ins-tile__image')) document.querySelector('#tile-cover-HaXq6F div.ins-tile__image').onclick = function() {window.location = 'products/alle-bieren';}
+    if (document.querySelector('#tile-cover-HaXq6F div.ins-tile__wrap')) document.querySelector('#tile-cover-HaXq6F div.ins-tile__wrap').onclick = function() {window.location = 'products/alle-bieren';}
+    if (document.querySelector('#tile-category-products-QTXrLB div.ins-tile__body')) document.querySelector('#tile-category-products-QTXrLB div.ins-tile__body').onclick = function() {window.location = 'products/packs';}
+    if (document.querySelector('#tile-call-to-action-S4XLJn div.ins-tile__wrap')) document.querySelector('#tile-call-to-action-S4XLJn div.ins-tile__wrap').onclick = function() {window.location = 'products/sale?attribute_Land=Canada+%F0%9F%87%A8%F0%9F%87%A6,Verenigde+Staten+%F0%9F%87%BA%F0%9F%87%B8&limit=24';}
+
     if (document.querySelector('div.del_info_table')) {
         translateDeliveryInfoTable();
     }
