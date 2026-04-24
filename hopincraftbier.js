@@ -1,4 +1,4 @@
-const version = 'v7.02';
+const version = 'v7.03';
 let currentLanguage;
 
 const txtNl1 = '<div class="dtooltip"><p class="hover question">Kortingscoupon</p><p class="dtooltiptext">Afhankelijk van de gekozen betaling en levering, kunt u een kortingscoupon krijgen die te gebruiken is bij een volgende bestelling. Voor dit bier ziet u de bedragen in deze tabel</p></div><table class="discount-table"><thead><tr class="first_header"><th></th><th colspan="2">Manier van levering</th></tr><tr><th>Manier van betaling</th><th>Afhaling</th><th>Levering</th></tr></thead><tbody><tr><td class="header">Betalen bij afhaling</td><td>€ ';
@@ -647,6 +647,8 @@ function renameBuyButtonToPreorder() {
 
 function translateDeliveryInfoTable() {
     log('translateDeliveryInfoTable');
+    let countrySelectorEn = document.querySelector('#del_cntry_en');
+    let countrySelectorNl = document.querySelector('#del_cntry_nl');
     if ('EN' === getCustomerLng()) {
         document.querySelectorAll('div.del_info_table span.en').forEach(function (p) {
             if (p.style.display !== 'inline') {
@@ -654,6 +656,25 @@ function translateDeliveryInfoTable() {
                 p.parentElement.querySelector('span.nl').style.display = 'none';
             }
         });
+        if (countrySelectorNl) {
+            countrySelectorNl.style.display = 'none';
+        }
+        if (countrySelectorEn) {
+            countrySelectorEn.style.display = 'inline-block';
+            countrySelectorEn.onchange = function(){
+                filterCountry(this.value);
+            };
+        }
+    } else {
+        if (countrySelectorEn) {
+            countrySelectorEn.style.display = 'none';
+        }
+        if (countrySelectorNl) {
+            countrySelectorNl.style.display = 'inline-block';
+            countrySelectorNl.onchange = function(){
+                filterCountry(this.value);
+            };
+        }
     }
 }
 
@@ -806,18 +827,6 @@ function processInfoPages() {
 
     if (document.querySelector('div.del_info_table')) {
         translateDeliveryInfoTable();
-        let countrySelectorEn = document.querySelector('#del_cntry_en');
-        if (countrySelectorEn) {
-            countrySelectorEn.onchange = function(){
-                filterCountry(this.value);
-            };
-        }
-        let countrySelectorNl = document.querySelector('#del_cntry_nl');
-        if (countrySelectorNl) {
-            countrySelectorNl.onchange = function(){
-                filterCountry(this.value);
-            };
-        }
     }
     document.querySelectorAll('#tile-category-collection-m4p4Gb div.ins-tile__category-content').forEach(function(it) {
         const el = it.querySelector('span.ins-tile__category-product-count');
