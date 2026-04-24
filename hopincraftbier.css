@@ -1,4 +1,4 @@
-/* HopInCraftbier custom css v4.01 */
+/* HopInCraftbier custom css v4.02 */
 /** start homepage **/
 body {
     margin: auto;
@@ -1769,6 +1769,7 @@ div#deliveryInfoSidebar {
     border: 1px solid #dededf;
     height: 100%;
     width: 100%;
+    min-width: 600px;
     table-layout: auto;
     border-collapse: collapse;
     border-spacing: 1px;
