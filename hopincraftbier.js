@@ -1,4 +1,4 @@
-const version = 'v7.00';
+const version = 'v7.01';
 let currentLanguage;
 
 const txtNl1 = '<div class="dtooltip"><p class="hover question">Kortingscoupon</p><p class="dtooltiptext">Afhankelijk van de gekozen betaling en levering, kunt u een kortingscoupon krijgen die te gebruiken is bij een volgende bestelling. Voor dit bier ziet u de bedragen in deze tabel</p></div><table class="discount-table"><thead><tr class="first_header"><th></th><th colspan="2">Manier van levering</th></tr><tr><th>Manier van betaling</th><th>Afhaling</th><th>Levering</th></tr></thead><tbody><tr><td class="header">Betalen bij afhaling</td><td>€ ';
@@ -13,7 +13,7 @@ const txtEn3 = '</td><td>€ ';
 const txtEn4 = '</td></tr><tr><td class="header">Online payment</td><td>€ ';
 const txtEn5 = '</td><td>€ 0</td></tr></tbody></table></div>';
 
-const countries = ['BE','NL','FR','DE','LU','ES','FI','IT','DE','AT','LV','LT','EE','IE','PT','SE','PL','GR','RO','CZ','HU','HR', 'DK', 'SI', 'SK'];
+const countries = ['BE','NL','FR','DE','LU','ES','FI','IT','AT','LV','LT','EE','IE','PT','SE','PL','GR','RO','CZ','HU','HR', 'DK', 'SI', 'SK'];
 
 let debug = false;
 let prodMode = true;
@@ -806,6 +806,18 @@ function processInfoPages() {
 
     if (document.querySelector('div.del_info_table')) {
         translateDeliveryInfoTable();
+        let countrySelectorEn = document.querySelector('#del_cntry_en');
+        if (countrySelectorEn) {
+            countrySelectorEn.onChange(function (e) {
+                filterCountry(this.value);
+            });
+        }
+        let countrySelectorNl = document.querySelector('#del_cntry_nl');
+        if (countrySelectorNl) {
+            countrySelectorNl.onChange(function (e) {
+                filterCountry(this.value);
+            });
+        }
     }
     document.querySelectorAll('#tile-category-collection-m4p4Gb div.ins-tile__category-content').forEach(function(it) {
         const el = it.querySelector('span.ins-tile__category-product-count');
@@ -889,6 +901,55 @@ function setServicePointWarning(cls, txt) {
         x.querySelector(selector + ' div.ec-radiogroup__text div').appendChild(pEl);
     }
 }
+
+function filterCountry(value) {
+    countries.forEach(function(it) {
+        let c = "tbody:has(span.fi-"+it.toLowerCase()+")";
+        document.querySelector(c).style.display = 'table-row-group';
+    });
+    document.querySelector("div.del_info_table.belned").style.display = 'block';
+    document.querySelector("#tile-custom-code-kkLSia").style.display = 'block';
+    document.querySelector("div.del_info_table.other1").style.display = 'block';
+    document.querySelector("div.del_info_table.other2").style.display = 'block';
+    document.querySelector("div.del_info_table.other3").style.display = 'block';
+    document.querySelector("div.del_info_table.other4").style.display = 'block';
+    document.querySelector("div.del_info_table.other5").style.display = 'block';
+    if (value === 'be' || value === 'nl') {
+        if (value === 'be') {
+            let c = "tbody:has(span.fi-nl)";
+            document.querySelector(c).style.display = 'none';
+            c = "tbody:has(span.fi-be)";
+            document.querySelector(c).style.display = 'table-row-group';
+        } else {
+            let c = "tbody:has(span.fi-nl)";
+            document.querySelector(c).style.display = 'table-row-group';
+            c = "tbody:has(span.fi-be)";
+            document.querySelector(c).style.display = 'none';
+        }
+        document.querySelector("#tile-custom-code-kkLSia").style.display = 'none';
+        document.querySelector("div.del_info_table.other1").style.display = 'none';
+        document.querySelector("div.del_info_table.other2").style.display = 'none';
+        document.querySelector("div.del_info_table.other3").style.display = 'none';
+        document.querySelector("div.del_info_table.other4").style.display = 'none';
+        document.querySelector("div.del_info_table.other5").style.display = 'none';
+    } else if (value !== '-1') {
+        countries.forEach(function(it) {
+            if (value.toLowerCase() !== it.toLowerCase()) {
+                let c = "tbody:has(span.fi-"+it.toLowerCase()+")";
+                document.querySelector(c).style.display = 'none';
+            }
+        });
+
+        document.querySelector("div.del_info_table.belned").style.display = 'none';
+        document.querySelector("#tile-custom-code-kkLSia").style.display = 'block';
+        document.querySelector("div.del_info_table.other1").style.display = 'block';
+        document.querySelector("div.del_info_table.other2").style.display = 'block';
+        document.querySelector("div.del_info_table.other3").style.display = 'block';
+        document.querySelector("div.del_info_table.other4").style.display = 'block';
+        document.querySelector("div.del_info_table.other5").style.display = 'block';
+    }
+}
+
 
 function cleanCategory() {
     document.querySelectorAll('div.grid-product__buy-now').forEach(function(it) {
