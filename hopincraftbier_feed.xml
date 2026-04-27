@@ -5,6 +5,71 @@
   <link>https://hopincraftbier.be/products&lt;/link&gt;</link>
   <description>Hop In Craftbier Products feed</description>
   <item>
+    <id>6681644</id>
+    <ecommerce_id>832174029</ecommerce_id>
+    <title>Riwaka Focus</title>
+    <url>https://hopincraftbier.be/products/norm-riwaka-focus</url>
+    <brewery_name>Norm Brewing</brewery_name>
+    <price>5.89</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/832174029/5732870465.png</image>
+    <beer_description>Double New England IPA brewed only with Riwaka (Late harvest Eggers hops) Norm Brewing - Riwaka Focus</beer_description>
+    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
+    <beer_abv>8%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Belgium</brewery_country>
+    <untappd_id>6681644</untappd_id>
+  </item>
+  <item>
+    <id>6681641</id>
+    <ecommerce_id>832174028</ecommerce_id>
+    <title>Reason In Madness</title>
+    <url>https://hopincraftbier.be/products/norm-reason-in-madness</url>
+    <brewery_name>Norm Brewing</brewery_name>
+    <price>6</price>
+    <regular_price>6.00</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/832174028/5732870471.png</image>
+    <beer_description>Fruited sour smoothie made with our friends from Metanoia (Ro) brewed with raspberry and passion fruit purée ! Nothing but fruits puree before canning ! Reason in madness because we wanted to keep it really sour with a nice portion of fruit puree keeping it properly drinkable. Norm Brewing - Reason In Madness</beer_description>
+    <beer_style>Sour - Smoothie / Pastry</beer_style>
+    <beer_abv>5%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Belgium</brewery_country>
+    <untappd_id>6681641</untappd_id>
+  </item>
+  <item>
+    <id>6655426</id>
+    <ecommerce_id>832163571</ecommerce_id>
+    <title>Krush On You</title>
+    <url>https://hopincraftbier.be/products/norm-krush-on-you</url>
+    <brewery_name>Norm Brewing</brewery_name>
+    <price>5.53</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/832163571/5732870483.png</image>
+    <beer_description>New England IPA hopped and dry hopped with Krush (50%), Simcoe, Motueka and Citra. A bouquet of fresh citrus, stone fruits, pine resin, woody notes and earthy undertones. Norm Brewing - Krush On You</beer_description>
+    <beer_style>IPA - New England / Hazy</beer_style>
+    <beer_abv>6.8%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Belgium</brewery_country>
+    <untappd_id>6655426</untappd_id>
+  </item>
+  <item>
+    <id>6655425</id>
+    <ecommerce_id>832174027</ecommerce_id>
+    <title>Every Cloud</title>
+    <url>https://hopincraftbier.be/products/norm-every-cloud</url>
+    <brewery_name>Norm Brewing</brewery_name>
+    <price>6.05</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/832174027/5732871482.png</image>
+    <beer_description>DDH Triple New England IPA : Superdelic Nectaron Waimea Idaho 7 (Dynaboost) Bursting with mainly New Zealand hops line up, Superdelic, super star Nectaron paired with its sister Waimea. Last but not least, Idaho 7 (Dynaboost) is joining for a storm of hops. Load of tropical fruits, berries, red fruits, sweet manguo, citrus, peaches ! Norm Brewing - Every Cloud</beer_description>
+    <beer_style>IPA - Triple New England / Hazy</beer_style>
+    <beer_abv>9.5%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Belgium</brewery_country>
+    <untappd_id>6655425</untappd_id>
+  </item>
+  <item>
     <id>3683189</id>
     <ecommerce_id>828543684</ecommerce_id>
     <title>Political Flow</title>
@@ -4160,6 +4225,24 @@
     <untappd_id>6292774</untappd_id>
   </item>
   <item>
+    <id>6343725</id>
+    <ecommerce_id>779008272</ecommerce_id>
+    <title>J'irai Où Tu Iras</title>
+    <url>https://hopincraftbier.be/products/fauve-jirai-ou-tu-iras</url>
+    <brewery_name>Fauve</brewery_name>
+    <price>4.88</price>
+    <regular_price>6,50</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5147846919.webp</image>
+    <beer_description>This NEIPA DDH is the result of a collaboration with Brasserie du Bas-Canada. These Quebec hop stars crossed the Atlantic with their own Citra in their suitcases, which we married with ours, adding Motueka and Simcoe. It's an aromatic bomb, juicy as can be, and resolutely transatlantic. We hope you find it as harmonious as a legendary Celine Dion / JJG duet. Fauve - J'irai Ou Tu Iras</beer_description>
+    <beer_style>IPA - New England / Hazy</beer_style>
+    <beer_abv>6.5%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>France</brewery_country>
+    <date_best_before>2026-04-25</date_best_before>
+    <untappd_id>6343725</untappd_id>
+  </item>
+  <item>
     <id>6314891</id>
     <ecommerce_id>779008273</ecommerce_id>
     <title>Chambre Noire</title>
@@ -5014,6 +5097,24 @@
     <untappd_id>6307418</untappd_id>
   </item>
   <item>
+    <id>6164819</id>
+    <ecommerce_id>762752711</ecommerce_id>
+    <title>The Mind of Annapurna Bourbon Barrel Aged</title>
+    <url>https://hopincraftbier.be/products/galea-the-mind-of-annapurna-bourbon-barrel-aged</url>
+    <brewery_name>Galea Craft Beers</brewery_name>
+    <price>6.49</price>
+    <regular_price>8,65</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5015394065.webp</image>
+    <beer_description>The Mind of Annapurna BA, is a imperial Chai Latté Milk Stout aged for 2 years in 2nd fill Buffalo Trace Bourbon Barrels. 2nd fill in this case means a Bourbon finished on a Bourbon barrel. So 2 times filled with a Bourbon before our stout. The taste of the spices in the beer is more round, some vanilla and barrel notes and a nice bourbon flavour. Galea Craft Beers - The Mind of Annapurna Bourbon Barrel Aged</beer_description>
+    <beer_style>Stout - Imperial / Double Milk</beer_style>
+    <beer_abv>12.5%</beer_abv>
+    <beer_volume>330 ml</beer_volume>
+    <beer_package>bottle</beer_package>
+    <brewery_country>Belgium</brewery_country>
+    <date_canned>2025-01-25</date_canned>
+    <untappd_id>6164819</untappd_id>
+  </item>
+  <item>
     <id>5894573</id>
     <ecommerce_id>761859075</ecommerce_id>
     <title>MEGA MUFFIN</title>
@@ -5285,6 +5386,24 @@
     <beer_package>can</beer_package>
     <brewery_country>United States</brewery_country>
     <untappd_id>1298579</untappd_id>
+  </item>
+  <item>
+    <id>6261817</id>
+    <ecommerce_id>756873722</ecommerce_id>
+    <title>Headless</title>
+    <url>https://hopincraftbier.be/products/anchorage-headless</url>
+    <brewery_name>Anchorage Brewing Company</brewery_name>
+    <price>6.5</price>
+    <regular_price>12,99</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4962101839.webp</image>
+    <beer_description>India Pale Ale Brewed with citra hops. DDH with Citra and Mosaic hops. Fermented with hazy chico yeast. Anchorage Brewing Company - Headless</beer_description>
+    <beer_style>IPA - New England / Hazy</beer_style>
+    <beer_abv>6.2%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>United States</brewery_country>
+    <date_canned>2025-04-25</date_canned>
+    <untappd_id>6261817</untappd_id>
   </item>
   <item>
     <id>6274029</id>
@@ -6315,6 +6434,6 @@
     <date_canned>2025-03-17</date_canned>
     <untappd_id>6186985</untappd_id>
   </item>
-  <timestamp>1777113894</timestamp>
-  <gen_date>25/04/2026 12:44:54</gen_date>
+  <timestamp>1777287285</timestamp>
+  <gen_date>27/04/2026 12:54:45</gen_date>
 </feed>
