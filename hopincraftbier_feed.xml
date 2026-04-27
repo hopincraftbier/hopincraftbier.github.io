@@ -5566,24 +5566,6 @@
     <untappd_id>4400900</untappd_id>
   </item>
   <item>
-    <id>3708746</id>
-    <ecommerce_id>751543260</ecommerce_id>
-    <title>Double Spring</title>
-    <url>https://hopincraftbier.be/products/vitamin-sea-double-spring</url>
-    <brewery_name>Vitamin Sea Brewing</brewery_name>
-    <price>5.3</price>
-    <regular_price>10,60</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5438330699.png</image>
-    <beer_description>DIPA hopped with Galaxy, Cascade and Columbus Vitamin Sea Brewing - Double Spring</beer_description>
-    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
-    <beer_abv>8%</beer_abv>
-    <beer_volume>473 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>United States</brewery_country>
-    <date_canned>2025-04-17</date_canned>
-    <untappd_id>3708746</untappd_id>
-  </item>
-  <item>
     <id>6242674</id>
     <ecommerce_id>751542512</ecommerce_id>
     <title>Baby G.O.A.T.</title>
@@ -6016,24 +5998,6 @@
     <untappd_id>3484014</untappd_id>
   </item>
   <item>
-    <id>6229806</id>
-    <ecommerce_id>751537014</ecommerce_id>
-    <title>Demoliri 0001</title>
-    <url>https://hopincraftbier.be/products/messorem-demoliri-0001</url>
-    <brewery_name>Messorem</brewery_name>
-    <price>7.95</price>
-    <regular_price>10,60</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/751537014/5438350245.webp</image>
-    <beer_description>IPA - Motueka, Riwaka, Citra Dynaboost Messorem - Demoliri 0001</beer_description>
-    <beer_style>IPA - New England / Hazy</beer_style>
-    <beer_abv>7%</beer_abv>
-    <beer_volume>473 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Canada</brewery_country>
-    <date_best_before>2026-04-11</date_best_before>
-    <untappd_id>6229806</untappd_id>
-  </item>
-  <item>
     <id>6231627</id>
     <ecommerce_id>751542762</ecommerce_id>
     <title>The World Is Mine</title>
@@ -6119,24 +6083,6 @@
     <brewery_country>United States</brewery_country>
     <date_canned>2025-04-22</date_canned>
     <untappd_id>6241102</untappd_id>
-  </item>
-  <item>
-    <id>6238201</id>
-    <ecommerce_id>749241861</ecommerce_id>
-    <title>Melody</title>
-    <url>https://hopincraftbier.be/products/fuerst-wiacek-berlin-melody</url>
-    <brewery_name>FUERST WIACEK Berlin</brewery_name>
-    <price>3.07</price>
-    <regular_price>6.14</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5441568034.png</image>
-    <beer_description>Dry hopped IPA with Citra, Motueka &amp; Galaxy. FUERST WIACEK Berlin - Melody</beer_description>
-    <beer_style>IPA - New England / Hazy</beer_style>
-    <beer_abv>6.2%</beer_abv>
-    <beer_volume>440 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Germany</brewery_country>
-    <date_best_before>2026-01-22</date_best_before>
-    <untappd_id>6238201</untappd_id>
   </item>
   <item>
     <id>6189849</id>
@@ -6368,24 +6314,6 @@
     <untappd_id>5391734</untappd_id>
   </item>
   <item>
-    <id>5995080</id>
-    <ecommerce_id>735435725</ecommerce_id>
-    <title>Deady Bears</title>
-    <url>https://hopincraftbier.be/products/dankhouse-deady-bears</url>
-    <brewery_name>DankHouse Brewing Company</brewery_name>
-    <price>5.47</price>
-    <regular_price>10.94</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4953165807.webp</image>
-    <beer_description>Dry hopped with Riwaka, Motueka, Nelson Sauvin, and Riwaka Hop Kief. - DankHouse - Deady Bears</beer_description>
-    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
-    <beer_abv>8.5%</beer_abv>
-    <beer_volume>473 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>United States</brewery_country>
-    <date_canned>2025-03-20</date_canned>
-    <untappd_id>5995080</untappd_id>
-  </item>
-  <item>
     <id>6186139</id>
     <ecommerce_id>735452031</ecommerce_id>
     <title>Color Theory</title>
@@ -6473,6 +6401,6 @@
     <date_canned>2025-03-17</date_canned>
     <untappd_id>6186985</untappd_id>
   </item>
-  <timestamp>1777310105</timestamp>
-  <gen_date>27/04/2026 19:15:05</gen_date>
+  <timestamp>1777320005</timestamp>
+  <gen_date>27/04/2026 22:00:05</gen_date>
 </feed>
