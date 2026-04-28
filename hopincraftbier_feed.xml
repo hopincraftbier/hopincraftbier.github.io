@@ -6033,24 +6033,6 @@
     <untappd_id>6228772</untappd_id>
   </item>
   <item>
-    <id>6244270</id>
-    <ecommerce_id>751529268</ecommerce_id>
-    <title>Sensescape (2025)</title>
-    <url>https://hopincraftbier.be/products/badlands-sensescape-2025</url>
-    <brewery_name>Badlands Brewing Company</brewery_name>
-    <price>8.72</price>
-    <regular_price>11,62</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4927488624.png</image>
-    <beer_description>The return of one of our all time favorite hop blends! SenseScape is a made up word that we think does a good job of encompassing the entirety of your various senses. Smell, see, taste, feel. The ultimate package for perceiving the world around you. This beer was designed to satiate all of them at once, which is why we hopped it with arguably our favorite blend of hops: Citra, Galaxy, and Nelson Sauvin. Built on a cloud like malt base, we taste notes of papaya, tangerine flesh, candied peaches and rich tropical fruit. Badlands Brewing Company - Sensescape (2025)</beer_description>
-    <beer_style>IPA - American</beer_style>
-    <beer_abv>8.2%</beer_abv>
-    <beer_volume>473 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Canada</brewery_country>
-    <date_canned>2025-04-30</date_canned>
-    <untappd_id>6244270</untappd_id>
-  </item>
-  <item>
     <id>5919609</id>
     <ecommerce_id>751537011</ecommerce_id>
     <title>All That I Have Learned (Ghost 1587)</title>
@@ -6263,23 +6245,6 @@
     <untappd_id>6117115</untappd_id>
   </item>
   <item>
-    <id>4785691</id>
-    <ecommerce_id>735435932</ecommerce_id>
-    <title>Moist Green Organic</title>
-    <url>https://hopincraftbier.be/products/knotted-root-moist-green-organic</url>
-    <brewery_name>Knotted Root Brewing Company</brewery_name>
-    <price>5.3</price>
-    <regular_price>10.6</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/735435932/4827746068.png</image>
-    <beer_description>'Moist Green Organic' is an Unfiltered double dry-hopped IPA brewed with a delicate base of flaked oats, white wheat, honey malt, and a heavy whirlpool addition of Kohatu. With multiple dry hop additions of Motueka, Riwaka, Waimea, and Ekuanot, I can smell the colors outside on my lawn. 'I get so overwhelmed by olfactory hues.' Think tropical green starburst, orange skittles, and fresh squeezed clementine juice. - Knotted Root - Moist Green Organic</beer_description>
-    <beer_style>IPA - New England / Hazy</beer_style>
-    <beer_abv>7.4%</beer_abv>
-    <beer_volume>473 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>United States</brewery_country>
-    <untappd_id>4785691</untappd_id>
-  </item>
-  <item>
     <id>6189429</id>
     <ecommerce_id>735452033</ecommerce_id>
     <title>Coule</title>
@@ -6401,6 +6366,6 @@
     <date_canned>2025-03-17</date_canned>
     <untappd_id>6186985</untappd_id>
   </item>
-  <timestamp>1777320005</timestamp>
-  <gen_date>27/04/2026 22:00:05</gen_date>
+  <timestamp>1777363205</timestamp>
+  <gen_date>28/04/2026 10:00:05</gen_date>
 </feed>
