@@ -5,6 +5,54 @@
   <link>https://hopincraftbier.be/products&lt;/link&gt;</link>
   <description>Hop In Craftbier Products feed</description>
   <item>
+    <id>6664191</id>
+    <ecommerce_id>832456660</ecommerce_id>
+    <title>We Sing At Six And A Half</title>
+    <url>https://hopincraftbier.be/products/verdant-we-sing-at-six-and-a-half</url>
+    <brewery_name>Verdant Brewing Co</brewery_name>
+    <price>7.01</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/832456660/5735426953.png</image>
+    <beer_description>Over the years, we realised that there is a specific moment in the brewing process where the science stops being just data &amp; process, and starts to feel more like music. And for our head brewer, James, there’s a magic frequency sitting exactly at 6.5% abv. It’s the 'Goldilocks zone' of the Verdant range. The precise ABV where the Verdant style truly begins to sing. To celebrate this sweet spot, we’ve used that special harmony in our newest IPA: We Sing at Six and a Half. Hazy 6.5% IPAs are comfortably in our wheelhouse, but this new one feels like a calibration of everything we love. It pours a beautiful pale golden yellow, it’s hazy as hell and as soft as a fluffy white cloud. Expect a devilishly moreish and precise drinking experience packed with bright citrus &amp; tropical fruits, thanks to a heavy-hitting hop bill of Citra, NZH-101, and Nectaron. What else? Deep, complex 'Verdant' undertones that anchor the fruit with our signature dankness, using our house yeast characteristics. Verdant Brewing Co - We Sing At Six And A Half</beer_description>
+    <beer_style>IPA - New England / Hazy</beer_style>
+    <beer_abv>6.5%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>England</brewery_country>
+    <untappd_id>6664191</untappd_id>
+  </item>
+  <item>
+    <id>4675334</id>
+    <ecommerce_id>832453242</ecommerce_id>
+    <title>Timing’s End</title>
+    <url>https://hopincraftbier.be/products/verdant-timings-end</url>
+    <brewery_name>Verdant Brewing Co</brewery_name>
+    <price>7.01</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/832453242/5735426959.png</image>
+    <beer_description>Our selected lots of Mac Hops Motueka and Nelson Sauvin are the star of the show here. Grapes, gooseberries and unctuous creamy limes atop a feathery mouthfeel of joy. Verdant Brewing Co - Timings End</beer_description>
+    <beer_style>IPA - New Zealand</beer_style>
+    <beer_abv>6.5%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>England</brewery_country>
+    <untappd_id>4675334</untappd_id>
+  </item>
+  <item>
+    <id>6682878</id>
+    <ecommerce_id>832453241</ecommerce_id>
+    <title>Sideways</title>
+    <url>https://hopincraftbier.be/products/verdant-sideways</url>
+    <brewery_name>Verdant Brewing Co</brewery_name>
+    <price>8.98</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/832453241/5735426947.png</image>
+    <beer_description>Time isn’t just about moving forward. When the arrow reaches its limit, when we hit Timing’s End, where do we go next? At Verdant, we like to go Sideways! Introducing 'Sideways', the big brother to our Nelson/Motueka superstar Timing's End, an 8% DIPA that takes the same punchy hop profile and expands it into a new dimension. Think of it as a panoramic view of everything you love about the original. By pushing the ABV and the hop dosage, we’ve shifted the perspective. If the IPA is the point of impact, this DIPA is the ripple effect. Verdant Brewing Co - Sideways</beer_description>
+    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
+    <beer_abv>8%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>England</brewery_country>
+    <untappd_id>6682878</untappd_id>
+  </item>
+  <item>
     <id>9000000028</id>
     <ecommerce_id>832205777</ecommerce_id>
     <title>Basqueland Brewing - Triplet</title>
@@ -6366,6 +6414,6 @@
     <date_canned>2025-03-17</date_canned>
     <untappd_id>6186985</untappd_id>
   </item>
-  <timestamp>1777363205</timestamp>
-  <gen_date>28/04/2026 10:00:05</gen_date>
+  <timestamp>1777396954</timestamp>
+  <gen_date>28/04/2026 19:22:34</gen_date>
 </feed>
