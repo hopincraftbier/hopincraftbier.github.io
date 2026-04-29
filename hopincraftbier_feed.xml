@@ -117,7 +117,7 @@
     <price>6</price>
     <regular_price>6.00</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/832174028/5732870471.png</image>
-    <beer_description>Fruited sour smoothie made with our friends from Metanoia (Ro) brewed with raspberry and passion fruit purée ! Nothing but fruits puree before canning ! Reason in madness because we wanted to keep it really sour with a nice portion of fruit puree keeping it properly drinkable. Norm Brewing - Reason In Madness</beer_description>
+    <beer_description>Roll the can lightly before opening. Do not shake. Fruited sour smoothie made with our friends from Metanoia (Ro) brewed with raspberry and passion fruit purée ! Nothing but fruits puree before canning ! Reason in madness because we wanted to keep it really sour with a nice portion of fruit puree keeping it properly drinkable. Norm Brewing - Reason In Madness</beer_description>
     <beer_style>Sour - Smoothie / Pastry</beer_style>
     <beer_abv>5%</beer_abv>
     <beer_volume>440 ml</beer_volume>
@@ -6401,6 +6401,6 @@
     <date_canned>2025-03-17</date_canned>
     <untappd_id>6186985</untappd_id>
   </item>
-  <timestamp>1777471205</timestamp>
-  <gen_date>29/04/2026 16:00:05</gen_date>
+  <timestamp>1777479306</timestamp>
+  <gen_date>29/04/2026 18:15:06</gen_date>
 </feed>
