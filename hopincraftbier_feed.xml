@@ -92,6 +92,7 @@
     <beer_volume>3x440 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>Belgium</brewery_country>
+    <date_best_before>12/2026</date_best_before>
     <beer_package_count>3</beer_package_count>
     <beer_bundle>1</beer_bundle>
     <bundle_skus>6655426,6681644,6655425</bundle_skus>
@@ -110,7 +111,7 @@
     <beer_volume>440 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>Belgium</brewery_country>
-    <date_best_before>2026-01-15</date_best_before>
+    <date_best_before>2027-01-15</date_best_before>
     <untappd_id>6681644</untappd_id>
   </item>
   <item>
@@ -4077,24 +4078,6 @@
     <untappd_id>6402383</untappd_id>
   </item>
   <item>
-    <id>3483906</id>
-    <ecommerce_id>784594095</ecommerce_id>
-    <title>Winner Winner Citra Dinner</title>
-    <url>https://hopincraftbier.be/products/basqueland-winner-winner-citra-dinner</url>
-    <brewery_name>Basqueland Brewing</brewery_name>
-    <price>6.08</price>
-    <regular_price>7,15</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5242222879.webp</image>
-    <beer_description>10th ANNIVERSARY SERIES: 10 beers, 10 moments that made history. To celebrate our 10th anniversary, we’ve brought back Winner Winner Citra Dinner, one of the most influential beers in our history. We were pioneers in combining different formats of the same hop to maximize its aromatic power. In this case, it’s all about Citra. We’ve blended Citra T90, Citra BBC, Citra Cryo, Citra Incognito, and Citra Hyperboost to unleash a winning intensity and range of aromas: grapefruit, lime, guava, passion fruit, along with resinous and “dank” notes. It’s a true celebration of one of our most beloved hops. Basqueland Brewing - Winner Winner Citra Dinner</beer_description>
-    <beer_style>IPA - Imperial / Double</beer_style>
-    <beer_abv>8.6%</beer_abv>
-    <beer_volume>440 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Spain</brewery_country>
-    <date_best_before>05/2026</date_best_before>
-    <untappd_id>3483906</untappd_id>
-  </item>
-  <item>
     <id>6423967</id>
     <ecommerce_id>784587840</ecommerce_id>
     <title>Omnivore</title>
@@ -4232,24 +4215,6 @@
     <brewery_country>England</brewery_country>
     <date_best_before>2026-03-11</date_best_before>
     <untappd_id>6300505</untappd_id>
-  </item>
-  <item>
-    <id>6359265</id>
-    <ecommerce_id>780631773</ecommerce_id>
-    <title>Mariana's Web</title>
-    <url>https://hopincraftbier.be/products/azvex-marianas-web</url>
-    <brewery_name>Azvex Brewing Company</brewery_name>
-    <price>5.84</price>
-    <regular_price>6,87</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5159964496.webp</image>
-    <beer_description>Mosaic, Nelson Sauvin, Waimea &amp; Peacharine Azvex Brewing Company - Mariana's Web</beer_description>
-    <beer_style>IPA - New England / Hazy</beer_style>
-    <beer_abv>6.4%</beer_abv>
-    <beer_volume>440 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>England</brewery_country>
-    <date_best_before>2026-04-30</date_best_before>
-    <untappd_id>6359265</untappd_id>
   </item>
   <item>
     <id>5559381</id>
@@ -5085,24 +5050,6 @@
     <untappd_id>6299087</untappd_id>
   </item>
   <item>
-    <id>6296412</id>
-    <ecommerce_id>767289656</ecommerce_id>
-    <title>Crux</title>
-    <url>https://hopincraftbier.be/products/outer-range-crux</url>
-    <brewery_name>Outer Range Brewing Co.</brewery_name>
-    <price>5.84</price>
-    <regular_price>6,87</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5243283992.webp</image>
-    <beer_description>Hops: Strata • Krush Tasting Notes: Peach • Strawberry • Pine ABV: 6.5% Outer Range Brewing Co. - Crux</beer_description>
-    <beer_style>IPA - American</beer_style>
-    <beer_abv>6.5%</beer_abv>
-    <beer_volume>440 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>France</brewery_country>
-    <date_best_before>2026-04-28</date_best_before>
-    <untappd_id>6296412</untappd_id>
-  </item>
-  <item>
     <id>4367493</id>
     <ecommerce_id>767291143</ecommerce_id>
     <title>Out of the Woods</title>
@@ -5243,23 +5190,6 @@
     <brewery_country>Sweden</brewery_country>
     <date_best_before>2026-05-22</date_best_before>
     <untappd_id>5894573</untappd_id>
-  </item>
-  <item>
-    <id>6016175</id>
-    <ecommerce_id>761858328</ecommerce_id>
-    <title>EL CAPITANO</title>
-    <url>https://hopincraftbier.be/products/stigbergets-el-capitano</url>
-    <brewery_name>Stigbergets Bryggeri</brewery_name>
-    <price>7.18</price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5000915486.webp</image>
-    <beer_description>Let’s do a pelican but call it EL CAPITANO. The captain of all DIPA. Stigbergets Bryggeri - EL CAPITANO</beer_description>
-    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
-    <beer_abv>8.3%</beer_abv>
-    <beer_volume>440 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Sweden</brewery_country>
-    <date_best_before>2026-05-27</date_best_before>
-    <untappd_id>6016175</untappd_id>
   </item>
   <item>
     <id>6187809</id>
@@ -5587,24 +5517,6 @@
     <untappd_id>6242680</untappd_id>
   </item>
   <item>
-    <id>2977936</id>
-    <ecommerce_id>751537020</ecommerce_id>
-    <title>Just Another T-Shirt Shop</title>
-    <url>https://hopincraftbier.be/products/vitamin-sea-just-another-t-shirt-shop</url>
-    <brewery_name>Vitamin Sea Brewing</brewery_name>
-    <price>7.7</price>
-    <regular_price>10,26</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5438339801.png</image>
-    <beer_description>Our flagship Hazy IPA. This one has intense aromas of tropical fruits, citrus, passionfruit and peach flavors. This combination of hops has a flavor profile bursting with ripe pineapple, mango, and papaya along with a bright citrus punch from the Citra hops. Vitamin Sea Brewing - Just Another T-Shirt Shop</beer_description>
-    <beer_style>IPA - New England / Hazy</beer_style>
-    <beer_abv>6.8%</beer_abv>
-    <beer_volume>473 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>United States</brewery_country>
-    <date_canned>2025-05-01</date_canned>
-    <untappd_id>2977936</untappd_id>
-  </item>
-  <item>
     <id>4400900</id>
     <ecommerce_id>751529018</ecommerce_id>
     <title>Terra Mosaic</title>
@@ -5864,24 +5776,6 @@
     <untappd_id>6166277</untappd_id>
   </item>
   <item>
-    <id>6248503</id>
-    <ecommerce_id>751542507</ecommerce_id>
-    <title>The Juice Awakens</title>
-    <url>https://hopincraftbier.be/products/equilibrium-the-juice-awakens</url>
-    <brewery_name>Equilibrium Brewery</brewery_name>
-    <price>7.44</price>
-    <regular_price>9,92</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5438371647.webp</image>
-    <beer_description>In a galaxy not so far away, the haze is thick, and the juice awakens in the power of our new collaboration with @greatnotion. The Juice Awakens (DIPA) is the beginning of a delicious rebellion using an incredible blend of some of our favorite hop varieties with a hop bill of Citra Incognito, Citra Lupomax, Citra, Strata, Eclipse, and Krush. Bursting with navel orange and lemon-lime spritz aromas, expect a tropical flavor force of pineapple, orange, and ruby red grapefruit with assorted tropical berry Pez, dank candied orange peel, and saturated mango key lime smoothie. A textured mouthfeel loaded with rainbow melon builds up with a force of hoppiness and a custard-like finish. Equilibrium Brewery - The Juice Awakens</beer_description>
-    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
-    <beer_abv>8.2%</beer_abv>
-    <beer_volume>473 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>United States</brewery_country>
-    <date_canned>2025-05-01</date_canned>
-    <untappd_id>6248503</untappd_id>
-  </item>
-  <item>
     <id>6227368</id>
     <ecommerce_id>751529272</ecommerce_id>
     <title>6 Lives</title>
@@ -6018,24 +5912,6 @@
     <beer_package>can</beer_package>
     <brewery_country>Canada</brewery_country>
     <untappd_id>4739060</untappd_id>
-  </item>
-  <item>
-    <id>6246517</id>
-    <ecommerce_id>751537016</ecommerce_id>
-    <title>MC3PO</title>
-    <url>https://hopincraftbier.be/products/equilibrium-mc3po</url>
-    <brewery_name>Equilibrium Brewery</brewery_name>
-    <price>6.52</price>
-    <regular_price>8,69</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5438365247.webp</image>
-    <beer_description>Brewed in collaboration with Great Notion Deep in the dark lab, two legendary forces collide to study all things science. Whether it’s mass-energy equivalence of a neutron star, trying to survive another council meeting on Coruscant, or creating the newest IPA, MC3PO is there. With a space-time-bending mix of hops to keep the droid in you satisfied, MC3PO starts off with a 2-row and white wheat base before a Mosaic Incognito, Mosaic Lupomax, Mosaic, Strata, and Amarillo hop bill to keep all your taste bud circuits firing. Smooth and bright flavors of pineapple and mango meet bright citrus with a touch of lime and a complex, dank earthiness and a touch of resinous bitterness. Equilibrium Brewery - MC3PO</beer_description>
-    <beer_style>IPA - New England / Hazy</beer_style>
-    <beer_abv>6.7%</beer_abv>
-    <beer_volume>473 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>United States</brewery_country>
-    <date_canned>2025-04-29</date_canned>
-    <untappd_id>6246517</untappd_id>
   </item>
   <item>
     <id>3484014</id>
@@ -6229,24 +6105,6 @@
     <untappd_id>6149265</untappd_id>
   </item>
   <item>
-    <id>3127108</id>
-    <ecommerce_id>738467167</ecommerce_id>
-    <title>Hollow Names</title>
-    <url>https://hopincraftbier.be/products/alefarm-hollow-names</url>
-    <brewery_name>Alefarm Brewing</brewery_name>
-    <price>5.26</price>
-    <regular_price>7.01</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/738467167/4840926929.png</image>
-    <beer_description>DIPA with Mosaic BBC and Yellow BBC. Alefarm - Hollow Names</beer_description>
-    <beer_style>IPA - Imperial / Double</beer_style>
-    <beer_abv>8%</beer_abv>
-    <beer_volume>440 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Denmark</brewery_country>
-    <date_best_before>2026-01-28</date_best_before>
-    <untappd_id>3127108</untappd_id>
-  </item>
-  <item>
     <id>6121787</id>
     <ecommerce_id>738467165</ecommerce_id>
     <title>Planet 2 (PULP)</title>
@@ -6422,6 +6280,6 @@
     <date_canned>2025-03-17</date_canned>
     <untappd_id>6186985</untappd_id>
   </item>
-  <timestamp>1777614306</timestamp>
-  <gen_date>01/05/2026 07:45:06</gen_date>
+  <timestamp>1777621234</timestamp>
+  <gen_date>01/05/2026 09:40:34</gen_date>
 </feed>
