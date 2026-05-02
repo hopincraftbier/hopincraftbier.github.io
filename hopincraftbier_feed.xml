@@ -975,6 +975,25 @@
     <untappd_id>6606993</untappd_id>
   </item>
   <item>
+    <id>9000000001</id>
+    <ecommerce_id>818795001</ecommerce_id>
+    <title>Maktoob Brewing - Pair</title>
+    <url>https://hopincraftbier.be/products/maktoob-brewing-pair</url>
+    <brewery_name>Maktoob Brewing</brewery_name>
+    <price>13.01</price>
+    <regular_price>13.7</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/818795001/5609681288.png</image>
+    <beer_description>The Maktoob Brewing - Pair contains: - Abduction In the DesertIPA - Imperial / Double | 8% | 440 ml - Double Happiness : Earth RoosterIPA - Imperial / Double New England / Hazy | 8% | 440 ml Maktoob Brewing - Pair</beer_description>
+    <beer_style>IPA</beer_style>
+    <beer_abv>8%</beer_abv>
+    <beer_volume>2x440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Romania</brewery_country>
+    <beer_package_count>2</beer_package_count>
+    <beer_bundle>1</beer_bundle>
+    <bundle_skus>6567898,6570662</bundle_skus>
+  </item>
+  <item>
     <id>6576351</id>
     <ecommerce_id>818287180</ecommerce_id>
     <title>Rêve Cosmique</title>
@@ -1045,6 +1064,26 @@
     <date_best_before>2026-09-16</date_best_before>
     <date_canned>2026-12-16</date_canned>
     <untappd_id>6533907</untappd_id>
+  </item>
+  <item>
+    <id>9000000006</id>
+    <ecommerce_id>817736922</ecommerce_id>
+    <title>Hopalaa - Hopalaa Triplet</title>
+    <url>https://hopincraftbier.be/products/hopalaa-hopalaa-triplet</url>
+    <brewery_name>Hopalaa</brewery_name>
+    <price>16.49</price>
+    <regular_price>17.36</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/817736922/5599579946.png</image>
+    <beer_description>The Hopalaa - Triplet contains: - JUNGALAAIPA - Imperial / Double New England / Hazy | 8% | 440 ml - TURBULENCEIPA - Imperial / Double New England / Hazy | 8% | 440 ml - DOUBLE PASSIONIPA - Imperial / Double New England / Hazy | 8,2% | 440 ml Hopalaa - Hopalaa Triplet</beer_description>
+    <beer_style>IPA</beer_style>
+    <beer_abv>8%</beer_abv>
+    <beer_volume>3x440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Latvia</brewery_country>
+    <date_best_before>2026-11-15</date_best_before>
+    <beer_package_count>3</beer_package_count>
+    <beer_bundle>1</beer_bundle>
+    <bundle_skus>6560695,6527510,6446971</bundle_skus>
   </item>
   <item>
     <id>6584511</id>
@@ -6447,6 +6486,6 @@
     <date_canned>2025-03-17</date_canned>
     <untappd_id>6186985</untappd_id>
   </item>
-  <timestamp>1777734906</timestamp>
-  <gen_date>02/05/2026 17:15:06</gen_date>
+  <timestamp>1777736706</timestamp>
+  <gen_date>02/05/2026 17:45:06</gen_date>
 </feed>
