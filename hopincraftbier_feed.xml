@@ -12,7 +12,7 @@
     <brewery_name>Verdant Brewing Co</brewery_name>
     <price>7.01</price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/832456660/5735426953.png</image>
-    <beer_description>Over the years, we realised that there is a specific moment in the brewing process where the science stops being just data &amp; process, and starts to feel more like music. And for our head brewer, James, there’s a magic frequency sitting exactly at 6.5% abv. It’s the 'Goldilocks zone' of the Verdant range. The precise ABV where the Verdant style truly begins to sing. To celebrate this sweet spot, we’ve used that special harmony in our newest IPA: We Sing at Six and a Half. Hazy 6.5% IPAs are comfortably in our wheelhouse, but this new one feels like a calibration of everything we love. It pours a beautiful pale golden yellow, it’s hazy as hell and as soft as a fluffy white cloud. Expect a devilishly moreish and precise drinking experience packed with bright citrus &amp; tropical fruits, thanks to a heavy-hitting hop bill of Citra, NZH-101, and Nectaron. What else? Deep, complex 'Verdant' undertones that anchor the fruit with our signature dankness, using our house yeast characteristics. Verdant Brewing Co - We Sing At Six And A Half</beer_description>
+    <beer_description>Over the years, we realised that there is a specific moment in the brewing process where the science stops being just data &amp; process, and starts to feel more like music. And for our head brewer, James, there’s a magic frequency sitting exactly at 6.5% abv. It’s the 'Goldilocks zone' of the Verdant range. The precise ABV where the Verdant style truly begins to sing. To celebrate this sweet spot, we’ve used that special harmony in our newest IPA: We Sing at Six and a Half. Hazy 6.5% IPAs are comfortably in our wheelhouse, but this new one feels like a calibration of everything we love. It pours a beautiful pale golden yellow, it’s hazy as hell and as soft as a fluffy white cloud. Expect a devilishly moreish and precise drinking experience packed with bright citrus &amp; tropical fruits, thanks to a heavy-hitting hop bill of Citra, NZH-101, and Nectaron. What else? Deep, complex 'Verdant' undertones that anchor the fruit with our signature dankness, using our house yeast characteristics. Verdant - We Sing At Six And A Half</beer_description>
     <beer_style>IPA - New England / Hazy</beer_style>
     <beer_abv>6.5%</beer_abv>
     <beer_volume>440 ml</beer_volume>
@@ -29,7 +29,7 @@
     <brewery_name>Verdant Brewing Co</brewery_name>
     <price>7.01</price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/832453242/5735453170.png</image>
-    <beer_description>Our selected lots of Mac Hops Motueka and Nelson Sauvin are the star of the show here. Grapes, gooseberries and unctuous creamy limes atop a feathery mouthfeel of joy. Verdant Brewing Co - Timings End</beer_description>
+    <beer_description>Our selected lots of Mac Hops Motueka and Nelson Sauvin are the star of the show here. Grapes, gooseberries and unctuous creamy limes atop a feathery mouthfeel of joy. Verdant - Timings End</beer_description>
     <beer_style>IPA - New Zealand</beer_style>
     <beer_abv>6.5%</beer_abv>
     <beer_volume>440 ml</beer_volume>
@@ -47,7 +47,7 @@
     <brewery_name>Verdant Brewing Co</brewery_name>
     <price>8.98</price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/832453241/5735454913.png</image>
-    <beer_description>Time isn’t just about moving forward. When the arrow reaches its limit, when we hit Timing’s End, where do we go next? At Verdant, we like to go Sideways! Introducing 'Sideways', the big brother to our Nelson/Motueka superstar Timing's End, an 8% DIPA that takes the same punchy hop profile and expands it into a new dimension. Think of it as a panoramic view of everything you love about the original. By pushing the ABV and the hop dosage, we’ve shifted the perspective. If the IPA is the point of impact, this DIPA is the ripple effect. Verdant Brewing Co - Sideways</beer_description>
+    <beer_description>Time isn’t just about moving forward. When the arrow reaches its limit, when we hit Timing’s End, where do we go next? At Verdant, we like to go Sideways! Introducing 'Sideways', the big brother to our Nelson/Motueka superstar Timing's End, an 8% DIPA that takes the same punchy hop profile and expands it into a new dimension. Think of it as a panoramic view of everything you love about the original. By pushing the ABV and the hop dosage, we’ve shifted the perspective. If the IPA is the point of impact, this DIPA is the ripple effect. Verdant - Sideways</beer_description>
     <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
     <beer_abv>8%</beer_abv>
     <beer_volume>440 ml</beer_volume>
@@ -105,7 +105,7 @@
     <brewery_name>Norm Brewing</brewery_name>
     <price>5.89</price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/832174029/5732870465.png</image>
-    <beer_description>Double New England IPA brewed only with Riwaka (Late harvest Eggers hops) Norm Brewing - Riwaka Focus</beer_description>
+    <beer_description>Double New England IPA brewed only with Riwaka (Late harvest Eggers hops) Norm - Riwaka Focus</beer_description>
     <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
     <beer_abv>8%</beer_abv>
     <beer_volume>440 ml</beer_volume>
@@ -123,7 +123,7 @@
     <price>6</price>
     <regular_price>6.00</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/832174028/5732870471.png</image>
-    <beer_description>Roll the can lightly before opening. Do not shake. Fruited sour smoothie made with our friends from Metanoia (Ro) brewed with raspberry and passion fruit purée ! Nothing but fruits puree before canning ! Reason in madness because we wanted to keep it really sour with a nice portion of fruit puree keeping it properly drinkable. Norm Brewing - Reason In Madness</beer_description>
+    <beer_description>Roll the can lightly before opening. Do not shake. Fruited sour smoothie made with our friends from Metanoia (Ro) brewed with raspberry and passion fruit purée ! Nothing but fruits puree before canning ! Reason in madness because we wanted to keep it really sour with a nice portion of fruit puree keeping it properly drinkable. Norm - Reason In Madness</beer_description>
     <beer_style>Sour - Smoothie / Pastry</beer_style>
     <beer_abv>5%</beer_abv>
     <beer_volume>440 ml</beer_volume>
@@ -140,7 +140,7 @@
     <brewery_name>Norm Brewing</brewery_name>
     <price>5.53</price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/832163571/5732870483.png</image>
-    <beer_description>New England IPA hopped and dry hopped with Krush (50%), Simcoe, Motueka and Citra. A bouquet of fresh citrus, stone fruits, pine resin, woody notes and earthy undertones. Norm Brewing - Krush On You</beer_description>
+    <beer_description>New England IPA hopped and dry hopped with Krush (50%), Simcoe, Motueka and Citra. A bouquet of fresh citrus, stone fruits, pine resin, woody notes and earthy undertones. Norm - Krush On You</beer_description>
     <beer_style>IPA - New England / Hazy</beer_style>
     <beer_abv>6.8%</beer_abv>
     <beer_volume>440 ml</beer_volume>
@@ -157,7 +157,7 @@
     <brewery_name>Norm Brewing</brewery_name>
     <price>6.05</price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/832174027/5732871482.png</image>
-    <beer_description>DDH Triple New England IPA : Superdelic Nectaron Waimea Idaho 7 (Dynaboost) Bursting with mainly New Zealand hops line up, Superdelic, super star Nectaron paired with its sister Waimea. Last but not least, Idaho 7 (Dynaboost) is joining for a storm of hops. Load of tropical fruits, berries, red fruits, sweet manguo, citrus, peaches ! Norm Brewing - Every Cloud</beer_description>
+    <beer_description>DDH Triple New England IPA : Superdelic Nectaron Waimea Idaho 7 (Dynaboost) Bursting with mainly New Zealand hops line up, Superdelic, super star Nectaron paired with its sister Waimea. Last but not least, Idaho 7 (Dynaboost) is joining for a storm of hops. Load of tropical fruits, berries, red fruits, sweet manguo, citrus, peaches ! Norm - Every Cloud</beer_description>
     <beer_style>IPA - Triple New England / Hazy</beer_style>
     <beer_abv>9.5%</beer_abv>
     <beer_volume>440 ml</beer_volume>
@@ -174,7 +174,7 @@
     <brewery_name>District 96 Beer Factory</brewery_name>
     <price>10.67</price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/828543684/5698773451.png</image>
-    <beer_description>Our first collab with Obercreek and super excited how it came out. We too More Flow ipa and Political Juice and mashed them togeather and this monster was born. Notes of Pineapple, Mango, Papaya, And Cream, (No Lactose Added) District 96 Beer Factory - Political Flow</beer_description>
+    <beer_description>Our first collab with Obercreek and super excited how it came out. We too More Flow ipa and Political Juice and mashed them togeather and this monster was born. Notes of Pineapple, Mango, Papaya, And Cream, (No Lactose Added) District 96 - Political Flow</beer_description>
     <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
     <beer_abv>8%</beer_abv>
     <beer_volume>473 ml</beer_volume>
@@ -190,7 +190,7 @@
     <brewery_name>Blackout Brewing</brewery_name>
     <price>11.53</price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/828437254/5703873372.png</image>
-    <beer_description>The 2nd volume of our barrel aged cream stout series Barrel - Still Austin Bourbon Adjuncts - condensed milk, coconut cream, coffee (roasted by @yumeroasters ) and dulce de leche ‼️Shake before pouring. Blackout Brewing - Bless This Mess Vol. 2</beer_description>
+    <beer_description>The 2nd volume of our barrel aged cream stout series Barrel - Still Austin Bourbon Adjuncts - condensed milk, coconut cream, coffee (roasted by @yumeroasters ) and dulce de leche ‼️Shake before pouring. Blackout - Bless This Mess Vol. 2</beer_description>
     <beer_style>Stout - Imperial / Double Milk</beer_style>
     <beer_abv>10%</beer_abv>
     <beer_volume>330 ml</beer_volume>
@@ -206,7 +206,7 @@
     <brewery_name>Blackout Brewing</brewery_name>
     <price>11.53</price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/828437253/5703879545.png</image>
-    <beer_description>The first volume of our barrel aged cream stout series: Barrel - Chattanooga Tennessee Bourbon Adjuncts - salted caramel ice cream soft serve, coconut cream, condensed milk Shake before pouring. Blackout Brewing - Bless This Mess Vol 1</beer_description>
+    <beer_description>The first volume of our barrel aged cream stout series: Barrel - Chattanooga Tennessee Bourbon Adjuncts - salted caramel ice cream soft serve, coconut cream, condensed milk Shake before pouring. Blackout - Bless This Mess Vol 1</beer_description>
     <beer_style>Stout - Imperial / Double Pastry</beer_style>
     <beer_abv>10%</beer_abv>
     <beer_volume>330 ml</beer_volume>
@@ -222,7 +222,7 @@
     <brewery_name>Blackout Brewing</brewery_name>
     <price>11.53</price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/828437252/5697652563.png</image>
-    <beer_description>This is the BA version of our collab with Ophiussa. Contains a shitload of pistachio ice cream, coconut cream and condensed milk. ‼️Shake before pouring Blackout Brewing - Bezna - Bourbon BA</beer_description>
+    <beer_description>This is the BA version of our collab with Ophiussa. Contains a shitload of pistachio ice cream, coconut cream and condensed milk. ‼️Shake before pouring Blackout - Bezna - Bourbon BA</beer_description>
     <beer_style>Stout - Imperial / Double Pastry</beer_style>
     <beer_abv>10%</beer_abv>
     <beer_volume>330 ml</beer_volume>
@@ -238,7 +238,7 @@
     <brewery_name>Blackout Brewing</brewery_name>
     <price>6.39</price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/828426296/5697652849.png</image>
-    <beer_description>Super Sauvin | Nelson Sauvin | Peacherine | Quantum Citra Blackout Brewing - VII-DIPA</beer_description>
+    <beer_description>Super Sauvin | Nelson Sauvin | Peacherine | Quantum Citra Blackout - VII-DIPA</beer_description>
     <beer_style>IPA - Imperial / Double</beer_style>
     <beer_abv>8%</beer_abv>
     <beer_volume>440 ml</beer_volume>
@@ -254,7 +254,7 @@
     <brewery_name>Blackout Brewing</brewery_name>
     <price>11.32</price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/828366119/5703873406.png</image>
-    <beer_description>7th Anniversary imperial stout. Barrels: 2 Alberta Rhum 1 Martinique Rhum Adjuncts: roasted Solomon Island cocoa nibs, roasted Iranian pistachios, pistachio extract 1050 bottles in existence. Blackout Brewing - VII-CAKE</beer_description>
+    <beer_description>7th Anniversary imperial stout. Barrels: 2 Alberta Rhum 1 Martinique Rhum Adjuncts: roasted Solomon Island cocoa nibs, roasted Iranian pistachios, pistachio extract 1050 bottles in existence. Blackout - VII-CAKE</beer_description>
     <beer_style>Stout - Imperial / Double Pastry</beer_style>
     <beer_abv>13%</beer_abv>
     <beer_volume>330 ml</beer_volume>
@@ -270,7 +270,7 @@
     <brewery_name>Blackout Brewing</brewery_name>
     <price>10.72</price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/828426295/5703879641.png</image>
-    <beer_description>7th anniversary barleywine. Barrels: 1 x 6th Street Bourbon 1 x Smooth Ambler Rye Whiskey 928 bottles in existence. Blackout Brewing - VII-BW</beer_description>
+    <beer_description>7th anniversary barleywine. Barrels: 1 x 6th Street Bourbon 1 x Smooth Ambler Rye Whiskey 928 bottles in existence. Blackout - VII-BW</beer_description>
     <beer_style>Barleywine - American</beer_style>
     <beer_abv>12%</beer_abv>
     <beer_volume>330 ml</beer_volume>
@@ -286,7 +286,7 @@
     <brewery_name>Blackout Brewing</brewery_name>
     <price>10.72</price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/828426294/5703871493.png</image>
-    <beer_description>7th anniversary blend. Barrels: 1 Kilchoman (slightly peated) 1 MGP bourbon. No adjuncts. 1006 bottles in existence. Blackout Brewing - VII-BLEND</beer_description>
+    <beer_description>7th anniversary blend. Barrels: 1 Kilchoman (slightly peated) 1 MGP bourbon. No adjuncts. 1006 bottles in existence. Blackout - VII-BLEND</beer_description>
     <beer_style>Stout - Imperial / Double</beer_style>
     <beer_abv>11.5%</beer_abv>
     <beer_volume>330 ml</beer_volume>
@@ -302,7 +302,7 @@
     <brewery_name>Blackout Brewing</brewery_name>
     <price>11.32</price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/828366118/5703885005.png</image>
-    <beer_description>Barrels: 1 x Laird’s Apple Brandy 1 x Still Austin Bourbon Adjuncts: • Coffee - Njemu Estate Kenya beans, custom roasted by Yume for this beer • Madagascar vanilla beans • Toasted and untoasted coconut flakes 912 bottles in existence Blackout Brewing - VII-ANTICAKE</beer_description>
+    <beer_description>Barrels: 1 x Laird’s Apple Brandy 1 x Still Austin Bourbon Adjuncts: • Coffee - Njemu Estate Kenya beans, custom roasted by Yume for this beer • Madagascar vanilla beans • Toasted and untoasted coconut flakes 912 bottles in existence Blackout - VII-ANTICAKE</beer_description>
     <beer_style>Stout - Imperial / Double Coffee</beer_style>
     <beer_abv>11.5%</beer_abv>
     <beer_volume>330 ml</beer_volume>
@@ -318,7 +318,7 @@
     <brewery_name>Blackout Brewing</brewery_name>
     <price>7.03</price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/828426293/5697652855.png</image>
-    <beer_description>Super Sauvin | Peacherine Blackout Brewing - Triple Chemicals</beer_description>
+    <beer_description>Super Sauvin | Peacherine Blackout - Triple Chemicals</beer_description>
     <beer_style>IPA - Triple New England / Hazy</beer_style>
     <beer_abv>9.5%</beer_abv>
     <beer_volume>440 ml</beer_volume>
@@ -334,7 +334,7 @@
     <brewery_name>Blackout Brewing</brewery_name>
     <price>11.13</price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/828316224/5703885146.png</image>
-    <beer_description>Maple, chocolate, hazelnut. Batch 1: brewed at Hophead. Batch 2: brewed at our facility. Blackout Brewing - Junk Deluxe - Rye Whiskey BA</beer_description>
+    <beer_description>Maple, chocolate, hazelnut. Batch 1: brewed at Hophead. Batch 2: brewed at our facility. Blackout - Junk Deluxe - Rye Whiskey BA</beer_description>
     <beer_style>Stout - Imperial / Double Pastry</beer_style>
     <beer_abv>12%</beer_abv>
     <beer_volume>330 ml</beer_volume>
@@ -350,7 +350,7 @@
     <brewery_name>Blackout Brewing</brewery_name>
     <price>11.13</price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/828426292/5703887614.png</image>
-    <beer_description>Batch 2 in cans: Aged in a Tennessee bourbon barrel. Brewed at facility of Blackout. Blackout Brewing - Deadly Splendor - Bourbon BA</beer_description>
+    <beer_description>Batch 2 in cans: Aged in a Tennessee bourbon barrel. Brewed at facility of Blackout. Blackout - Deadly Splendor - Bourbon BA</beer_description>
     <beer_style>Stout - Imperial / Double Pastry</beer_style>
     <beer_abv>12%</beer_abv>
     <beer_volume>330 ml</beer_volume>
@@ -366,7 +366,7 @@
     <brewery_name>Prizm Brewing Co.</brewery_name>
     <price>7.74</price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/826591951/5683869983.png</image>
-    <beer_description>RUBICON Imperial stout – 12 % Yops : Cacahuète / Noisette / Cacao RUBICON is a massive, velvety stout that hits hard from the first sip. Waves of roasted peanut, toasted hazelnut, and deep cocoa roll across the palate. Dark, rich, and dangerously smooth. 12% of pure liquid darkness. Prizm Brewing Co. - Rubicon</beer_description>
+    <beer_description>RUBICON Imperial stout – 12 % Yops : Cacahuète / Noisette / Cacao RUBICON is a massive, velvety stout that hits hard from the first sip. Waves of roasted peanut, toasted hazelnut, and deep cocoa roll across the palate. Dark, rich, and dangerously smooth. 12% of pure liquid darkness. Prizm - Rubicon</beer_description>
     <beer_style>Stout - Imperial / Double</beer_style>
     <beer_abv>12%</beer_abv>
     <beer_volume>440 ml</beer_volume>
@@ -383,7 +383,7 @@
     <brewery_name>Prizm Brewing Co.</brewery_name>
     <price>7.31</price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/826600191/5683888091.png</image>
-    <beer_description>Big, ultra-juicy DIPA balanced with two of our favorite NZ hops: Nelson Sauvin x Riwaka. Explosion of tropical fruits: pineapple, mango, passion fruit, peach and grapefruit. A light pine resin to finish cleanly. ⚠️ 8% that goes down (a little too) easily… Excessive alcohol consumption is dangerous for your health, consume in moderation. Prizm Brewing Co. - Limgrave</beer_description>
+    <beer_description>Big, ultra-juicy DIPA balanced with two of our favorite NZ hops: Nelson Sauvin x Riwaka. Explosion of tropical fruits: pineapple, mango, passion fruit, peach and grapefruit. A light pine resin to finish cleanly. ⚠️ 8% that goes down (a little too) easily… Excessive alcohol consumption is dangerous for your health, consume in moderation. Prizm - Limgrave</beer_description>
     <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
     <beer_abv>8%</beer_abv>
     <beer_volume>440 ml</beer_volume>
@@ -400,7 +400,7 @@
     <brewery_name>Prizm Brewing Co.</brewery_name>
     <price>7.64</price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/826591950/5683888103.png</image>
-    <beer_description>After a first collaboration in 2023 at their's we finally invited our dear friends from Dry &amp; Bitter, Copenhagen to come and brew at ours. As a result, we are found with a massive Triple NEIPA (or DDH TIPA as you wish), with Citra T90, Cryo and Hyperboost &amp; Nelson Sauvin Cryo, Bliss Process and Subzero Hop Kief from Freestyle Hops Thick, juicy, citrusy, graprefruity, and Nelsony, whatever that may mean. Cheers ! Prizm Brewing Co. - End of All We Know</beer_description>
+    <beer_description>After a first collaboration in 2023 at their's we finally invited our dear friends from Dry &amp; Bitter, Copenhagen to come and brew at ours. As a result, we are found with a massive Triple NEIPA (or DDH TIPA as you wish), with Citra T90, Cryo and Hyperboost &amp; Nelson Sauvin Cryo, Bliss Process and Subzero Hop Kief from Freestyle Hops Thick, juicy, citrusy, graprefruity, and Nelsony, whatever that may mean. Cheers ! Prizm - End of All We Know</beer_description>
     <beer_style>IPA - Triple New England / Hazy</beer_style>
     <beer_abv>9%</beer_abv>
     <beer_volume>440 ml</beer_volume>
@@ -521,7 +521,7 @@
     <brewery_name>Ārpus Brewing Co.</brewery_name>
     <price>7.05</price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/825605985/5675303319.png</image>
-    <beer_description>Arpus Brewing Co. - Arpus X Sudden Death QDH Riwaka X Strata X Nelson Sauvin TIPA</beer_description>
+    <beer_description>Arpus - Arpus X Sudden Death QDH Riwaka X Strata X Nelson Sauvin TIPA</beer_description>
     <beer_style>IPA - Triple New England / Hazy</beer_style>
     <beer_abv>10%</beer_abv>
     <beer_volume>440 ml</beer_volume>
@@ -538,7 +538,7 @@
     <brewery_name>Ārpus Brewing Co.</brewery_name>
     <price>6.72</price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/825654272/5675303433.png</image>
-    <beer_description>Ārpus Brewing Co. presents a bold, hop-driven Double IPA - Hand-Selected Riwaka DIPA. This beer is brewed with Riwaka hops we personally selected in New Zealand last year, choosing each lot ourselves during hop harvest. Expect an intense burst of passionfruit, grapefruit, and fresh citrus, wrapped in a soft, juicy body with a saturated hop profile. A true showcase of one of New Zealand’s most expressive hop varieties. Arpus Brewing Co. - TDH Hand-Selected Riwaka DIPA</beer_description>
+    <beer_description>Ārpus Brewing Co. presents a bold, hop-driven Double IPA - Hand-Selected Riwaka DIPA. This beer is brewed with Riwaka hops we personally selected in New Zealand last year, choosing each lot ourselves during hop harvest. Expect an intense burst of passionfruit, grapefruit, and fresh citrus, wrapped in a soft, juicy body with a saturated hop profile. A true showcase of one of New Zealand’s most expressive hop varieties. Arpus - TDH Hand-Selected Riwaka DIPA</beer_description>
     <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
     <beer_abv>8%</beer_abv>
     <beer_volume>440 ml</beer_volume>
@@ -555,7 +555,7 @@
     <brewery_name>Ārpus Brewing Co.</brewery_name>
     <price>9.97</price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/825654271/5675310505.png</image>
-    <beer_description>This Imperial Stout was aged for 12 months in Portuguese brandy barrels from Lourinhã. Lourinhã Brandy is a DOC-protected spirit, much like Cognac or Armagnac — but uniquely Portuguese. The result is a rich and complex stout with deep roasted malt character, layered with elegant brandy warmth, subtle oak, dried fruit notes, and a smooth, lingering finish. A beer made for slow sipping and special moments. Arpus Brewing Co. - Portuguese Brandy Barrel Aged Imperial Stout</beer_description>
+    <beer_description>This Imperial Stout was aged for 12 months in Portuguese brandy barrels from Lourinhã. Lourinhã Brandy is a DOC-protected spirit, much like Cognac or Armagnac — but uniquely Portuguese. The result is a rich and complex stout with deep roasted malt character, layered with elegant brandy warmth, subtle oak, dried fruit notes, and a smooth, lingering finish. A beer made for slow sipping and special moments. Arpus - Portuguese Brandy Barrel Aged Imperial Stout</beer_description>
     <beer_style>Stout - Imperial / Double</beer_style>
     <beer_abv>12%</beer_abv>
     <beer_volume>440 ml</beer_volume>
@@ -573,7 +573,7 @@
     <price>7.5</price>
     <regular_price>7.50</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/825654270/5675300159.png</image>
-    <beer_description>A deep, full-bodied Imperial Stout layered with roasted malt character and smooth sweetness. Rich chocolate leads the way, followed by toasted hazelnut and soft vanilla, creating a creamy, dessert-like experience with a long, satisfying finish. Indulgent, smooth, and made for slow enjoyment. Arpus Brewing Co. - Hazelnut X Chocolate X Vanilla Imperial Stout</beer_description>
+    <beer_description>A deep, full-bodied Imperial Stout layered with roasted malt character and smooth sweetness. Rich chocolate leads the way, followed by toasted hazelnut and soft vanilla, creating a creamy, dessert-like experience with a long, satisfying finish. Indulgent, smooth, and made for slow enjoyment. Arpus - Hazelnut X Chocolate X Vanilla Imperial Stout</beer_description>
     <beer_style>Stout - Imperial / Double Pastry</beer_style>
     <beer_abv>13%</beer_abv>
     <beer_volume>440 ml</beer_volume>
@@ -591,7 +591,7 @@
     <price>7.5</price>
     <regular_price>7.50</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/825605984/5675312771.png</image>
-    <beer_description>A smooth and creamy blend where crisp apple meets ripe banana and tropical mango, rounded out with soft vanilla sweetness. Arpus Brewing Co. - Apple X Banana X Mango X Vanilla Smoothie Sour Ale</beer_description>
+    <beer_description>A smooth and creamy blend where crisp apple meets ripe banana and tropical mango, rounded out with soft vanilla sweetness. Arpus - Apple X Banana X Mango X Vanilla Smoothie Sour Ale</beer_description>
     <beer_style>Sour - Smoothie / Pastry</beer_style>
     <beer_abv>4.5%</beer_abv>
     <beer_volume>440 ml</beer_volume>
@@ -608,7 +608,7 @@
     <brewery_name>Maktoob Brewing</brewery_name>
     <price>8.49</price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/825522358/5674151141.png</image>
-    <beer_description>For some mysterious reason, stringing together a couple of rhymes about tropical fruits on top of catchy percussion rhythms, causes, almost indubitably, to almost everyone, a rush of joyful emotions that may lead to uncontrollable humming and body moving. Some made careers out of this rather straightforward recipe. Now take one of these musical motifs and put it on top of a reel, one that preferably involves cats. Now that's the kind of online brainrot we happily indulge in. Good morning, to the Watermelon Juicy juicy sugar lemon tingalingaling tingalingalingaling Maktoob Brewing - Good Morning Pineapple (Looking Very Good, Very Nice)</beer_description>
+    <beer_description>For some mysterious reason, stringing together a couple of rhymes about tropical fruits on top of catchy percussion rhythms, causes, almost indubitably, to almost everyone, a rush of joyful emotions that may lead to uncontrollable humming and body moving. Some made careers out of this rather straightforward recipe. Now take one of these musical motifs and put it on top of a reel, one that preferably involves cats. Now that's the kind of online brainrot we happily indulge in. Good morning, to the Watermelon Juicy juicy sugar lemon tingalingaling tingalingalingaling Maktoob - Good Morning Pineapple (Looking Very Good, Very Nice)</beer_description>
     <beer_style>Sour - Smoothie / Pastry</beer_style>
     <beer_abv>6%</beer_abv>
     <beer_volume>500 ml</beer_volume>
@@ -676,7 +676,7 @@
     <brewery_name>Vault City Brewing</brewery_name>
     <price>9.61</price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/824777416/5667817656.webp</image>
-    <beer_description>Brought to you with our pals at Sudden Death Brewing Co., this smoothie sour is fresh out the oven. Jam packed with unfermented cherries, strawberries plums and apples, then layered with cinnamon warmth and pastry sweetness. “I genuinely can’t believe it’s not crumble!” – Joe Cruickshank, Sour Beer Enthusiast. Sour Scale:3 Allergens: Malted Barley &amp; Oats (Gluten) Vault City Brewing - You Wont Believe Its Not Crumble!</beer_description>
+    <beer_description>Brought to you with our pals at Sudden Death Brewing Co., this smoothie sour is fresh out the oven. Jam packed with unfermented cherries, strawberries plums and apples, then layered with cinnamon warmth and pastry sweetness. “I genuinely can’t believe it’s not crumble!” – Joe Cruickshank, Sour Beer Enthusiast. Sour Scale:3 Allergens: Malted Barley &amp; Oats (Gluten) Vault City - You Wont Believe Its Not Crumble!</beer_description>
     <beer_style>Sour - Smoothie / Pastry</beer_style>
     <beer_abv>6%</beer_abv>
     <beer_volume>440 ml</beer_volume>
@@ -693,7 +693,7 @@
     <brewery_name>Vault City Brewing</brewery_name>
     <price>9.73</price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/824777415/5667817914.webp</image>
-    <beer_description>Our series of smoothie sours is dedicated to anyone who’s ever asked; “why can’t beer just taste like beer?”. Jam-packed with juicy mango, passion fruit, apricot and the smooth taste of creamy coconut. Thicc, juicy and outrageously tasty in every stoopid sip. Allergens: Malted Barley (Gluten) Vault City Brewing - Stoopid: Passionfruit, Apricot, Mango &amp; Coconut</beer_description>
+    <beer_description>Our series of smoothie sours is dedicated to anyone who’s ever asked; “why can’t beer just taste like beer?”. Jam-packed with juicy mango, passion fruit, apricot and the smooth taste of creamy coconut. Thicc, juicy and outrageously tasty in every stoopid sip. Allergens: Malted Barley (Gluten) Vault City - Stoopid: Passionfruit, Apricot, Mango &amp; Coconut</beer_description>
     <beer_style>Sour - Smoothie / Pastry</beer_style>
     <beer_abv>6.2%</beer_abv>
     <beer_volume>440 ml</beer_volume>
@@ -710,7 +710,7 @@
     <brewery_name>Vault City Brewing</brewery_name>
     <price>8.94</price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/824778133/5667817666.webp</image>
-    <beer_description>Our latest imperial stout was inspired by the sweet taste of a certain chocolate caramel egg... With each sip there’s a velvety texture among layers of intense chocolate and smooth caramel. Through an extended boil we’ve dialled those Maillard reactions into overdrive, encapsulating the unique gooey goodness and caramelised sweetness in a decadent dessert stout. Vault City Brewing - Caramel Eggs</beer_description>
+    <beer_description>Our latest imperial stout was inspired by the sweet taste of a certain chocolate caramel egg... With each sip there’s a velvety texture among layers of intense chocolate and smooth caramel. Through an extended boil we’ve dialled those Maillard reactions into overdrive, encapsulating the unique gooey goodness and caramelised sweetness in a decadent dessert stout. Vault City - Caramel Eggs</beer_description>
     <beer_style>Stout - Imperial / Double Pastry</beer_style>
     <beer_abv>12%</beer_abv>
     <beer_volume>330 ml</beer_volume>
@@ -841,7 +841,7 @@
     <brewery_name>Laugar Brewery</brewery_name>
     <price>7.61</price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/821812565/5639536011.png</image>
-    <beer_description>Imperial Stout aged in Scotch Whisky casks. The most intense battle comes to your cup Laugar Brewery - WAR REQUIEM</beer_description>
+    <beer_description>Imperial Stout aged in Scotch Whisky casks. The most intense battle comes to your cup Laugar - WAR REQUIEM</beer_description>
     <beer_style>Stout - Imperial / Double</beer_style>
     <beer_abv>10.5%</beer_abv>
     <beer_volume>330 ml</beer_volume>
@@ -858,7 +858,7 @@
     <brewery_name>Laugar Brewery</brewery_name>
     <price>7.71</price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/821812092/5638423692.png</image>
-    <beer_description>They are back with a very special edition of their most iconic beer, their Aupa Tovarisch 11th Anniversary. Laugar Brewery - AUPA TOVARISCH XI ANNIVERSARY</beer_description>
+    <beer_description>They are back with a very special edition of their most iconic beer, their Aupa Tovarisch 11th Anniversary. Laugar - AUPA TOVARISCH XI ANNIVERSARY</beer_description>
     <beer_style>Stout - Imperial / Double</beer_style>
     <beer_abv>14%</beer_abv>
     <beer_volume>330 ml</beer_volume>
@@ -6424,6 +6424,6 @@
     <date_canned>2025-03-17</date_canned>
     <untappd_id>6186985</untappd_id>
   </item>
-  <timestamp>1777630507</timestamp>
-  <gen_date>01/05/2026 12:15:07</gen_date>
+  <timestamp>1777711505</timestamp>
+  <gen_date>02/05/2026 10:45:05</gen_date>
 </feed>
