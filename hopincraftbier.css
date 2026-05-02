@@ -1,4 +1,4 @@
-/* HopInCraftbier custom css v4.04 */
+/* HopInCraftbier custom css v4.05 */
 /** start homepage **/
 body {
     margin: auto;
@@ -199,6 +199,7 @@ div.ins-tile__product-image div.ins-tile__product-label {
     }
 }
 #tile-category-collection-m4p4Gb {
+    margin-top: 40px !important;
     padding-top: 20px !important;
     p.ins-tile__category-name {
         font-size: 18px;
