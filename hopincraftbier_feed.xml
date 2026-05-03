@@ -2907,7 +2907,7 @@
     <brewery_name>Tin Barn Brewing</brewery_name>
     <price>32.82</price>
     <regular_price>34.87</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5438312543.png</image>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/800983338/5438312543.png</image>
     <beer_description>The Tin Barn IPA Pack 2 contains: - Baby G.O.A.T.IPA - New England / Hazy | 7,2% | 473 ml - Mosaic MonsterIPA - Imperial / Double New England / Hazy | 8,4% | 473 ml - Be Kind, RewindIPA - Triple New England / Hazy | 9,5% | 473 ml Tin Barn Brewing IPA Triplet 2</beer_description>
     <beer_style>IPA</beer_style>
     <beer_abv>7 - 9%</beer_abv>
@@ -6512,6 +6512,6 @@
     <date_canned>2025-03-17</date_canned>
     <untappd_id>6186985</untappd_id>
   </item>
-  <timestamp>1777797007</timestamp>
-  <gen_date>03/05/2026 10:30:07</gen_date>
+  <timestamp>1777800606</timestamp>
+  <gen_date>03/05/2026 11:30:06</gen_date>
 </feed>
