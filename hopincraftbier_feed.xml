@@ -1066,6 +1066,26 @@
     <untappd_id>6533907</untappd_id>
   </item>
   <item>
+    <id>9000000007</id>
+    <ecommerce_id>817728949</ecommerce_id>
+    <title>The Piggy - Piggy Brewing Quintet</title>
+    <url>https://hopincraftbier.be/products/the-piggy-brewing-company-quintet</url>
+    <brewery_name>The Piggy Brewing Company</brewery_name>
+    <price>32.06</price>
+    <regular_price>33.75</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/817728949/5599607431.png</image>
+    <beer_description>The Piggy Brewing Company - Quintet contains: - West Coast PatrolIPA - American | 5,6% | 440 ml - Hop GeminiIPA - Imperial / Double New England / Hazy | 8% | 440 ml - Don JefeIPA - Imperial / Double New England / Hazy | 8% | 440 ml - Lacrima de Oro (2026)IPA - Triple New England / Hazy | 9,5% | 440 ml - MuvukaStout - Imperial / Double | 12% | 330 ml The Piggy Brewing Company - Piggy Brewing Quintet</beer_description>
+    <beer_style>Stout - IPA</beer_style>
+    <beer_abv>5 - 12%</beer_abv>
+    <beer_volume>Mix</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>France</brewery_country>
+    <date_best_before>2026-09-01</date_best_before>
+    <beer_package_count>5</beer_package_count>
+    <beer_bundle>1</beer_bundle>
+    <bundle_skus>6552171,6522822,6513775,3956966,6560471</bundle_skus>
+  </item>
+  <item>
     <id>9000000006</id>
     <ecommerce_id>817736922</ecommerce_id>
     <title>Hopalaa - Hopalaa Triplet</title>
@@ -1221,6 +1241,27 @@
     <date_best_before>2027-01-20</date_best_before>
     <date_canned>2026-01-20</date_canned>
     <untappd_id>6577155</untappd_id>
+  </item>
+  <item>
+    <id>9000000018</id>
+    <ecommerce_id>816011852</ecommerce_id>
+    <title>Beak - Pair</title>
+    <url>https://hopincraftbier.be/products/beak-pair</url>
+    <brewery_name>Beak</brewery_name>
+    <price>18.5</price>
+    <regular_price>18.5</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/816011852/5582877756.png</image>
+    <beer_description>The Beak - Pair contains: - ParadeIPA - New England / Hazy | 6% | 440 ml - CannaIPA - Imperial / Double New England / Hazy | 8% | 440 ml Beak - Pair</beer_description>
+    <beer_style>IPA</beer_style>
+    <beer_abv>6 - 8%</beer_abv>
+    <beer_volume>2x440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>England</brewery_country>
+    <date_best_before>2026-03-02</date_best_before>
+    <date_canned>2025-09-03</date_canned>
+    <beer_package_count>2</beer_package_count>
+    <beer_bundle>1</beer_bundle>
+    <bundle_skus>3820116,6406071</bundle_skus>
   </item>
   <item>
     <id>6593999</id>
@@ -1953,23 +1994,6 @@
     <brewery_country>United States</brewery_country>
     <date_canned>01/2025</date_canned>
     <untappd_id>4570108</untappd_id>
-  </item>
-  <item>
-    <id>5820004</id>
-    <ecommerce_id>810376219</ecommerce_id>
-    <title>Mirroring Dimensions</title>
-    <url>https://hopincraftbier.be/products/bissell-brothers-mirroring-dimensions</url>
-    <brewery_name>Bissell Brothers Brewing Company</brewery_name>
-    <price>28.61</price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/810376219/5532669074.png</image>
-    <beer_description>A standout from our barrel program, Mirroring Dimensions is our award-winning, double barrel-aged Rye wine. The reflection begins with a massive, rye-heavy grist. The beer then slumbers in Buffalo Trace barrels for a year, is transferred for a finishing 10 month catnap in Dad's Hat Rye casks, and ultimately emerges with a profound depth of character. Absolutely swirling with beguiling spice, charred stone fruit, and a cosmic complexity. Bissell Brothers - Mirroring Dimensions</beer_description>
-    <beer_style>Rye Wine</beer_style>
-    <beer_abv>14.7%</beer_abv>
-    <beer_volume>500 ml</beer_volume>
-    <beer_package>bottle</beer_package>
-    <brewery_country>United States</brewery_country>
-    <date_canned>11/2025</date_canned>
-    <untappd_id>5820004</untappd_id>
   </item>
   <item>
     <id>5513278</id>
@@ -2874,6 +2898,25 @@
     <brewery_country>Bulgaria</brewery_country>
     <date_best_before>2027-10-21</date_best_before>
     <untappd_id>6454681</untappd_id>
+  </item>
+  <item>
+    <id>975</id>
+    <ecommerce_id>800983338</ecommerce_id>
+    <title>Tin Barn Brewing IPA Triplet 2</title>
+    <url>https://hopincraftbier.be/products/tin-barn-brewing-ipa-triplet-2</url>
+    <brewery_name>Tin Barn Brewing</brewery_name>
+    <price>32.82</price>
+    <regular_price>34.87</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5438312543.png</image>
+    <beer_description>The Tin Barn IPA Pack 2 contains: - Baby G.O.A.T.IPA - New England / Hazy | 7,2% | 473 ml - Mosaic MonsterIPA - Imperial / Double New England / Hazy | 8,4% | 473 ml - Be Kind, RewindIPA - Triple New England / Hazy | 9,5% | 473 ml Tin Barn Brewing IPA Triplet 2</beer_description>
+    <beer_style>IPA</beer_style>
+    <beer_abv>7 - 9%</beer_abv>
+    <beer_volume>3x473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>United States</brewery_country>
+    <beer_package_count>3</beer_package_count>
+    <beer_bundle>1</beer_bundle>
+    <bundle_skus>6242680,6242674,6257025</bundle_skus>
   </item>
   <item>
     <id>6285476</id>
@@ -6435,23 +6478,6 @@
     <untappd_id>4980154</untappd_id>
   </item>
   <item>
-    <id>4485711</id>
-    <ecommerce_id>734051352</ecommerce_id>
-    <title>Window of Opportunity</title>
-    <url>https://hopincraftbier.be/products/equilibrium-window-of-opportunity</url>
-    <brewery_name>Equilibrium Brewery</brewery_name>
-    <price>18.44</price>
-    <regular_price>24.59</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4952175097.png</image>
-    <beer_description>Window of Opportunity pours a thiccc midnight black with a creamy mocha head. Aromas of Nutella and Fluff lead into big flavors of Hershey syrup, coconut snowballs, vanilla caramel macchiato, and graham crackers. This beer is the liquid version of Mallomar dipped in sweet coconut flakes with a silky decadent finish. Equilibrium - Window of Opportunity</beer_description>
-    <beer_style>Stout - Imperial / Double Pastry</beer_style>
-    <beer_abv>11%</beer_abv>
-    <beer_volume>500 ml</beer_volume>
-    <beer_package>bottle</beer_package>
-    <brewery_country>United States</brewery_country>
-    <untappd_id>4485711</untappd_id>
-  </item>
-  <item>
     <id>6197367</id>
     <ecommerce_id>734051599</ecommerce_id>
     <title>From Underneath (2025)</title>
@@ -6486,6 +6512,6 @@
     <date_canned>2025-03-17</date_canned>
     <untappd_id>6186985</untappd_id>
   </item>
-  <timestamp>1777736706</timestamp>
-  <gen_date>02/05/2026 17:45:06</gen_date>
+  <timestamp>1777797007</timestamp>
+  <gen_date>03/05/2026 10:30:07</gen_date>
 </feed>
