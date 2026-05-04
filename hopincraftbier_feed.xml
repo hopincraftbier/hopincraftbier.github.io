@@ -5,6 +5,82 @@
   <link>https://hopincraftbier.be/products&lt;/link&gt;</link>
   <description>Hop In Craftbier Products feed</description>
   <item>
+    <id>6672862</id>
+    <ecommerce_id>833479390</ecommerce_id>
+    <title>Phantom of the Hopera</title>
+    <url>https://hopincraftbier.be/products/seven-island-phantom-of-the-hopera</url>
+    <brewery_name>Seven Island Brewery</brewery_name>
+    <price>6.37</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/833479390/5745708730.png</image>
+    <beer_description>Double hazy ipa with citra ,strata,mosaic hops , collab with Mikerphone Seven Island Brewery - Phantom of the Hopera</beer_description>
+    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
+    <beer_abv>8%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <untappd_id>6672862</untappd_id>
+  </item>
+  <item>
+    <id>6672851</id>
+    <ecommerce_id>833479645</ecommerce_id>
+    <title>Hop Massacre</title>
+    <url>https://hopincraftbier.be/products/seven-island-hop-massacre</url>
+    <brewery_name>Seven Island Brewery</brewery_name>
+    <price>6.51</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/833479645/5745731004.png</image>
+    <beer_description>Triple Hazy IPA with Citra ,Hbc630 and Cryo pop ,collab with barrel theory Seven Island Brewery - Hop Massacre</beer_description>
+    <beer_style>IPA - Triple New England / Hazy</beer_style>
+    <beer_abv>9.2%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <untappd_id>6672851</untappd_id>
+  </item>
+  <item>
+    <id>6672856</id>
+    <ecommerce_id>833479644</ecommerce_id>
+    <title>Forager of the Hop Skulls</title>
+    <url>https://hopincraftbier.be/products/seven-island-forager-of-the-hop-skulls</url>
+    <brewery_name>Seven Island Brewery</brewery_name>
+    <price>6.52</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/833479644/5745731022.png</image>
+    <beer_description>Triple hazy ipa with Citra ,Cryo Pop and strata hops ,collab with Forager Seven Island Brewery - Forager of the Hop Skulls</beer_description>
+    <beer_style>IPA - Triple New England / Hazy</beer_style>
+    <beer_abv>9.2%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <untappd_id>6672856</untappd_id>
+  </item>
+  <item>
+    <id>6672861</id>
+    <ecommerce_id>833479643</ecommerce_id>
+    <title>Dimensional Hop Rage</title>
+    <url>https://hopincraftbier.be/products/seven-island-dimensional-hop-rage</url>
+    <brewery_name>Seven Island Brewery</brewery_name>
+    <price>6.37</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/833479643/5745683072.webp</image>
+    <beer_description>Double Hazy IPA with Citra ,Simcoe and Cryo pop Seven Island Brewery - Dimensional Hop Rage</beer_description>
+    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
+    <beer_abv>8%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <untappd_id>6672861</untappd_id>
+  </item>
+  <item>
+    <id>6516889</id>
+    <ecommerce_id>833479389</ecommerce_id>
+    <title>Giotto 2024</title>
+    <url>https://hopincraftbier.be/products/crak-giotto-2024</url>
+    <brewery_name>CRAK Brewery</brewery_name>
+    <price>13.17</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/833479389/5745732006.png</image>
+    <beer_description>In collaboration with Pasticceria Giotto we made panettone with our beer, Magma Bianco. Then we used the same panettone and created Giotto. Giotto is a flat, non-bubble Pastry Stout, matured for 24 months in chardonnay barrels with a large amount of Panettone. Tricky, oily and obviously tastes like panettone….Giotto. Store in a cool, dry place, away from direct sunlight. CRAK Brewery - Giotto 2024</beer_description>
+    <beer_style>Stout - Imperial / Double Pastry</beer_style>
+    <beer_abv>12%</beer_abv>
+    <beer_volume>375 ml</beer_volume>
+    <beer_package>bottle</beer_package>
+    <brewery_country>Italy</brewery_country>
+    <untappd_id>6516889</untappd_id>
+  </item>
+  <item>
     <id>6664191</id>
     <ecommerce_id>832456660</ecommerce_id>
     <title>We Sing At Six And A Half</title>
@@ -6512,6 +6588,6 @@
     <date_canned>2025-03-17</date_canned>
     <untappd_id>6186985</untappd_id>
   </item>
-  <timestamp>1777818605</timestamp>
-  <gen_date>03/05/2026 16:30:05</gen_date>
+  <timestamp>1777900040</timestamp>
+  <gen_date>04/05/2026 15:07:20</gen_date>
 </feed>
