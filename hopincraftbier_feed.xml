@@ -5754,23 +5754,6 @@
     <untappd_id>6263801</untappd_id>
   </item>
   <item>
-    <id>4486704</id>
-    <ecommerce_id>751537022</ecommerce_id>
-    <title>Tillage</title>
-    <url>https://hopincraftbier.be/products/the-drowned-lands-tillage</url>
-    <brewery_name>The Drowned Lands Brewery</brewery_name>
-    <price>6.92</price>
-    <regular_price>9,23</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4933369509.png</image>
-    <beer_description>This DIPA is brewed with pilsner malt, flaked oats, and an absurd amount of unmalted wheat. Hopped aggressively in the kettle with the favorites Citra and Mosaic. Then we double dry hopped this murky DIPA with almost all Nelson. We are tasting white grape juice, fresh Georgia peaches, and frothy cream. The Drowned Lands - Tillage</beer_description>
-    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
-    <beer_abv>8%</beer_abv>
-    <beer_volume>473 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>United States</brewery_country>
-    <untappd_id>4486704</untappd_id>
-  </item>
-  <item>
     <id>6242680</id>
     <ecommerce_id>751542515</ecommerce_id>
     <title>Be Kind, Rewind</title>
@@ -6554,24 +6537,6 @@
     <untappd_id>6186139</untappd_id>
   </item>
   <item>
-    <id>4980154</id>
-    <ecommerce_id>735435927</ecommerce_id>
-    <title>Turbulent Flow</title>
-    <url>https://hopincraftbier.be/products/spyglass-turbulent-flow</url>
-    <brewery_name>Spyglass Brewing Company</brewery_name>
-    <price>5.99</price>
-    <regular_price>11.97</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/735435927/4842403234.png</image>
-    <beer_description>A New England style Double IPA hopped with Citra and Rakau hops. Spyglass - Turbulent Flow</beer_description>
-    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
-    <beer_abv>8.3%</beer_abv>
-    <beer_volume>473 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>United States</brewery_country>
-    <date_canned>2025-04-07</date_canned>
-    <untappd_id>4980154</untappd_id>
-  </item>
-  <item>
     <id>6197367</id>
     <ecommerce_id>734051599</ecommerce_id>
     <title>From Underneath (2025)</title>
@@ -6606,6 +6571,6 @@
     <date_canned>2025-03-17</date_canned>
     <untappd_id>6186985</untappd_id>
   </item>
-  <timestamp>1777901667</timestamp>
-  <gen_date>04/05/2026 15:34:27</gen_date>
+  <timestamp>1778013006</timestamp>
+  <gen_date>05/05/2026 22:30:06</gen_date>
 </feed>
