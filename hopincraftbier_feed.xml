@@ -3918,7 +3918,8 @@
     <title>Drums of Liberation</title>
     <url>https://hopincraftbier.be/products/prizm-drums-of-liberation</url>
     <brewery_name>Prizm Brewing Co.</brewery_name>
-    <price>6.53</price>
+    <price>5.55</price>
+    <regular_price>6,53</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5249373705.png</image>
     <beer_description>DRUMS OF LIBERATION is an 8% Double Dry Hopped Double IPA (DDH DIPA), brewed with PRIZM Brewing Co.'s hoppy spirit. • Hops: Citra, Mosaic, Nelson Sauvin, Hallertau Blanc Cryo • Limited Edition Prizm - Drums of Liberation</beer_description>
     <beer_style>IPA - Imperial / Double</beer_style>
@@ -6538,6 +6539,6 @@
     <date_canned>2025-03-17</date_canned>
     <untappd_id>6186985</untappd_id>
   </item>
-  <timestamp>1778093322</timestamp>
-  <gen_date>06/05/2026 20:48:42</gen_date>
+  <timestamp>1778094005</timestamp>
+  <gen_date>06/05/2026 21:00:05</gen_date>
 </feed>
