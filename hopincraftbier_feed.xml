@@ -39,70 +39,6 @@
     <untappd_id>6672862</untappd_id>
   </item>
   <item>
-    <id>6672851</id>
-    <ecommerce_id>833479645</ecommerce_id>
-    <title>Hop Massacre</title>
-    <url>https://hopincraftbier.be/products/seven-island-hop-massacre</url>
-    <brewery_name>Seven Island Brewery</brewery_name>
-    <price>6.51</price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/833479645/5745731004.png</image>
-    <beer_description>Triple Hazy IPA with Citra ,Hbc630 and Cryo pop ,collab with barrel theory Seven Island Brewery - Hop Massacre</beer_description>
-    <beer_style>IPA - Triple New England / Hazy</beer_style>
-    <beer_abv>9.2%</beer_abv>
-    <beer_volume>440 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <date_best_before>2027-06-28</date_best_before>
-    <untappd_id>6672851</untappd_id>
-  </item>
-  <item>
-    <id>6672856</id>
-    <ecommerce_id>833479644</ecommerce_id>
-    <title>Forager of the Hop Skulls</title>
-    <url>https://hopincraftbier.be/products/seven-island-forager-of-the-hop-skulls</url>
-    <brewery_name>Seven Island Brewery</brewery_name>
-    <price>6.52</price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/833479644/5745731022.png</image>
-    <beer_description>Triple hazy ipa with Citra ,Cryo Pop and strata hops ,collab with Forager Seven Island Brewery - Forager of the Hop Skulls</beer_description>
-    <beer_style>IPA - Triple New England / Hazy</beer_style>
-    <beer_abv>9.2%</beer_abv>
-    <beer_volume>440 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <date_best_before>2027-06-28</date_best_before>
-    <untappd_id>6672856</untappd_id>
-  </item>
-  <item>
-    <id>6672861</id>
-    <ecommerce_id>833479643</ecommerce_id>
-    <title>Dimensional Hop Rage</title>
-    <url>https://hopincraftbier.be/products/seven-island-dimensional-hop-rage</url>
-    <brewery_name>Seven Island Brewery</brewery_name>
-    <price>6.37</price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/833479643/5745816774.png</image>
-    <beer_description>Double Hazy IPA with Citra ,Simcoe and Cryo pop Seven Island Brewery - Dimensional Hop Rage</beer_description>
-    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
-    <beer_abv>8%</beer_abv>
-    <beer_volume>440 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <date_best_before>2027-06-28</date_best_before>
-    <untappd_id>6672861</untappd_id>
-  </item>
-  <item>
-    <id>6516889</id>
-    <ecommerce_id>833479389</ecommerce_id>
-    <title>Giotto 2024</title>
-    <url>https://hopincraftbier.be/products/crak-giotto-2024</url>
-    <brewery_name>CRAK Brewery</brewery_name>
-    <price>13.17</price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/833479389/5745732006.png</image>
-    <beer_description>In collaboration with Pasticceria Giotto we made panettone with our beer, Magma Bianco. Then we used the same panettone and created Giotto. Giotto is a flat, non-bubble Pastry Stout, matured for 24 months in chardonnay barrels with a large amount of Panettone. Tricky, oily and obviously tastes like panettone….Giotto. Store in a cool, dry place, away from direct sunlight. CRAK Brewery - Giotto 2024</beer_description>
-    <beer_style>Stout - Imperial / Double Pastry</beer_style>
-    <beer_abv>12%</beer_abv>
-    <beer_volume>375 ml</beer_volume>
-    <beer_package>bottle</beer_package>
-    <brewery_country>Italy</brewery_country>
-    <untappd_id>6516889</untappd_id>
-  </item>
-  <item>
     <id>6664191</id>
     <ecommerce_id>832456660</ecommerce_id>
     <title>We Sing At Six And A Half</title>
@@ -3486,38 +3422,6 @@
     <untappd_id>40890</untappd_id>
   </item>
   <item>
-    <id>3485002</id>
-    <ecommerce_id>793369571</ecommerce_id>
-    <title>Imperial Smells Like Bean Spirit - Pecan Pie</title>
-    <url>https://hopincraftbier.be/products/mikerphone-imperial-smells-like-bean-spirit-pecan-pie</url>
-    <brewery_name>Mikerphone Brewing</brewery_name>
-    <price>11.24</price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5330850781.png</image>
-    <beer_description>Imperial Breakfast Stout w/ Maple Syrup, Coffee, Brown Sugar, Pecans, and Vanilla. Mikerphone - Imperial Smells Like Bean Spirit - Pecan Pie</beer_description>
-    <beer_style>Stout - Imperial / Double Coffee</beer_style>
-    <beer_abv>11%</beer_abv>
-    <beer_volume>473 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>United States</brewery_country>
-    <untappd_id>3485002</untappd_id>
-  </item>
-  <item>
-    <id>6430291</id>
-    <ecommerce_id>793373329</ecommerce_id>
-    <title>À L'ombre De L'Ange</title>
-    <url>https://hopincraftbier.be/products/brasserie-sir-john-a-lombre-de-lange</url>
-    <brewery_name>Brasserie Sir John Brewing Co.</brewery_name>
-    <price>25.93</price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5330707236.png</image>
-    <beer_description>Far from being a reference to an Éric Lapointe song, À l'ombre de l'ange (In the Shadow of the Angel) is a truly fantastic blend. Made from a barley wine aged for 19 months in Heaven Hill bourbon barrels and an imperial stout aged for 24 months in MGP bourbon barrels, this beer embodies the tenderness of dark beers. It has a velvety, sweet character, enveloped by the warmth of the alcohol and the bourbon barrel aging. Lightly carbonated, it leans more towards the caramelized notes typical of these types of beers, almost like a sponge toffee. Easy (too easy, even) to drink, it's the kind of dark beer that brings you just close enough to gustatory heaven, or, as we like to call it, to the shadow of the angel. Brasserie Sir John - A L'ombre De L'Ange</beer_description>
-    <beer_style>Strong Ale - Other</beer_style>
-    <beer_abv>11.9%</beer_abv>
-    <beer_volume>500 ml</beer_volume>
-    <beer_package>bottle</beer_package>
-    <brewery_country>Canada</brewery_country>
-    <untappd_id>6430291</untappd_id>
-  </item>
-  <item>
     <id>6517160</id>
     <ecommerce_id>793369570</ecommerce_id>
     <title>TDH Eviscerated Pathway of Beauty</title>
@@ -6538,6 +6442,6 @@
     <date_canned>2025-03-17</date_canned>
     <untappd_id>6186985</untappd_id>
   </item>
-  <timestamp>1778072407</timestamp>
-  <gen_date>06/05/2026 15:00:07</gen_date>
+  <timestamp>1778073386</timestamp>
+  <gen_date>06/05/2026 15:16:26</gen_date>
 </feed>
