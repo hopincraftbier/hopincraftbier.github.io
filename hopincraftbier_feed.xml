@@ -2332,24 +2332,6 @@
     <untappd_id>3956966</untappd_id>
   </item>
   <item>
-    <id>6471643</id>
-    <ecommerce_id>808672091</ecommerce_id>
-    <title>Neon Pulse</title>
-    <url>https://hopincraftbier.be/products/stu-mostow-neon-pulse</url>
-    <brewery_name>Browar Stu Mostów</brewery_name>
-    <price>6.49</price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/808672091/5517038890.png</image>
-    <beer_description>New England DIPA with a classic grain bill featuring oats that emphasizes haze, malty fullness and a bright, pale color. Nelson Sauvin hops in the whirlpool and dry hop provide a stable, beautiful haze and plenty of white fruit character. Citra adds the signature citrusy hop notes, while Dolcita, a new variety previously known under the trade number 1019, brings bold and expressive character to the mix. A perfect beer for fans of double dry hopping and juicy hop intensity. Stu Mostow - Neon Pulse</beer_description>
-    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
-    <beer_abv>7.5%</beer_abv>
-    <beer_volume>440 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Poland</brewery_country>
-    <date_best_before>2026-06-06</date_best_before>
-    <date_canned>2025-11-06</date_canned>
-    <untappd_id>6471643</untappd_id>
-  </item>
-  <item>
     <id>6567915</id>
     <ecommerce_id>808552524</ecommerce_id>
     <title>Latitude Zero</title>
@@ -3137,23 +3119,6 @@
     <untappd_id>6421473</untappd_id>
   </item>
   <item>
-    <id>6473817</id>
-    <ecommerce_id>797998005</ecommerce_id>
-    <title>Don't Fear the Reaper</title>
-    <url>https://hopincraftbier.be/products/counterpart-dont-fear-the-reaper</url>
-    <brewery_name>Counterpart Brewing</brewery_name>
-    <price>11.91</price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5409082110.png</image>
-    <beer_description>Hazy Triple IPA w/ Nelson Sauvin, Motueka &amp; Motueka Hop Kief brewed in collaboration w/ Messorem Big, juice laden flavours of sauv blanc, gooseberry, apricot, lime zest and pineapple with a balanced, candy-like sweetness. Counterpart - Don't Fear the Reaper</beer_description>
-    <beer_style>IPA - Triple New England / Hazy</beer_style>
-    <beer_abv>10%</beer_abv>
-    <beer_volume>473 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Canada</brewery_country>
-    <date_canned>2025-10-29</date_canned>
-    <untappd_id>6473817</untappd_id>
-  </item>
-  <item>
     <id>6498668</id>
     <ecommerce_id>797997507</ecommerce_id>
     <title>Temporalis #0046</title>
@@ -3458,7 +3423,8 @@
     <title>P'tit Monstre</title>
     <url>https://hopincraftbier.be/products/brasserie-sir-john-ptit-monstre</url>
     <brewery_name>Brasserie Sir John Brewing Co.</brewery_name>
-    <price>10.25</price>
+    <price>8.71</price>
+    <regular_price>10,25</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5330715457.png</image>
     <beer_description>Every brewery has one. That slightly petty or frivolous employee who always teeters on the edge of being respectable and dishonorable. It's in honor of these little monsters of the brewing world that we've teamed up for the very first time with the Quebec City crew at Nano Cinco! Triple IPA EXXXXXTRA juicy, this beer will make your ears tingle! Hopped with NZ Cascade, Pacifica, Nelson Sauvin Bliss, Riwaka, and a generous dose of Riwaka and Nelson Sauvin hopkief, this beer is made, like Kellogg's Frosties, to unleash your inner beast! It's ridiculously smooth, with a slight piney bitterness but a lovely juicy presence reminiscent of tropical fruits! We're super proud of this beer brewed with our new buddies from Quebec City. Until the next one, CHEERS! Brasserie Sir John - P'tit Monstre</beer_description>
     <beer_style>IPA - Triple New England / Hazy</beer_style>
@@ -3592,7 +3558,8 @@
     <title>Slø Turbo (2025)</title>
     <url>https://hopincraftbier.be/products/hoof-hearted-slo-turbo-2025</url>
     <brewery_name>Hoof Hearted Brewing</brewery_name>
-    <price>10.25</price>
+    <price>8.71</price>
+    <regular_price>10,25</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5330978558.png</image>
     <beer_description>Unleaded super diesel icon 'Heavy Nelson' slides off from the stage and into the crowd. He's locked eyes on Gary and needs to strike while the lights stay low.'Pizza Pizza Pizza', he croons as a conga line grows behind him. Looking back, two thoughts occur in quick succession. The first: DIPA's hopped exclusively w/ New Zealand varietals and a laser-focus on Nelson Sauvin make all the girls want to get to know you. The second: he's only got one chance to make this right for everybody.'Heyyyy Gary from back the office who likes to order broccoli on the casual Friday staff pizza and only takes one piece for himself..' Dipa with whole cone Southern Hemisphere Hops. Hoof Hearted - Sl Turbo (2025)</beer_description>
     <beer_style>IPA - New England / Hazy</beer_style>
@@ -4727,24 +4694,6 @@
     <brewery_country>United States</brewery_country>
     <date_canned>2025-09-12</date_canned>
     <untappd_id>6365435</untappd_id>
-  </item>
-  <item>
-    <id>6376660</id>
-    <ecommerce_id>778812582</ecommerce_id>
-    <title>Living Large</title>
-    <url>https://hopincraftbier.be/products/finback-living-large</url>
-    <brewery_name>Finback Brewery</brewery_name>
-    <price>8.87</price>
-    <regular_price>10,43</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5243358564.webp</image>
-    <beer_description>Finback - Living Large</beer_description>
-    <beer_style>IPA - Triple New England / Hazy</beer_style>
-    <beer_abv>10%</beer_abv>
-    <beer_volume>473 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>United States</brewery_country>
-    <date_canned>2025-08-08</date_canned>
-    <untappd_id>6376660</untappd_id>
   </item>
   <item>
     <id>6377695</id>
@@ -6539,6 +6488,6 @@
     <date_canned>2025-03-17</date_canned>
     <untappd_id>6186985</untappd_id>
   </item>
-  <timestamp>1778094005</timestamp>
-  <gen_date>06/05/2026 21:00:05</gen_date>
+  <timestamp>1778223399</timestamp>
+  <gen_date>08/05/2026 08:56:39</gen_date>
 </feed>
