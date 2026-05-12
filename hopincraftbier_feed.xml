@@ -697,7 +697,8 @@
     <title>Double Black Mash (2026) Original</title>
     <url>https://hopincraftbier.be/products/amager-bryghus-double-black-mash-2026-original</url>
     <brewery_name>Amager Bryghus</brewery_name>
-    <price>10.57</price>
+    <price>10.97</price>
+    <regular_price>10.57</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/826383595/5681595288.png</image>
     <beer_description>Brewed with the motto: "Only malt, no bullshit". All Grain Double Mash Imperial Stout Amager Bryghus - Double Black Mash (2026) Original</beer_description>
     <beer_style>Stout - Imperial / Double</beer_style>
@@ -712,7 +713,8 @@
     <title>Double Black Mash (2026) Maple Syrup Barrel Aged Edition</title>
     <url>https://hopincraftbier.be/products/amager-bryghus-double-black-mash-2026-maple-syrup-barrel-aged-edition</url>
     <brewery_name>Amager Bryghus</brewery_name>
-    <price>13.96</price>
+    <price>14.15</price>
+    <regular_price>13.96</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/826381605/5681577238.png</image>
     <beer_description>Aged for 10 months in ex-bourbon oak barrels that previously contained maple syrup. Amager Bryghus - Double Black Mash (2026) Maple Syrup Barrel Aged Edition</beer_description>
     <beer_style>Stout - Imperial / Double</beer_style>
@@ -6746,6 +6748,6 @@
     <date_canned>2025-03-17</date_canned>
     <untappd_id>6186985</untappd_id>
   </item>
-  <timestamp>1778609705</timestamp>
-  <gen_date>12/05/2026 20:15:05</gen_date>
+  <timestamp>1778609848</timestamp>
+  <gen_date>12/05/2026 20:17:28</gen_date>
 </feed>
