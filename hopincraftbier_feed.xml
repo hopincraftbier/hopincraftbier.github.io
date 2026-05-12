@@ -863,38 +863,6 @@
     <untappd_id>6686217</untappd_id>
   </item>
   <item>
-    <id>6689025</id>
-    <ecommerce_id>824778210</ecommerce_id>
-    <title>Kia Ora</title>
-    <url>https://hopincraftbier.be/products/anagram-kia-ora</url>
-    <brewery_name>Anagram Brewery</brewery_name>
-    <price>6.78</price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/824778210/5668066559.png</image>
-    <beer_description>This DDHDIPA brings together a trio of New Zealand hops—Motueka, Nectaron, and Nelson Sauvin—each adding its own voice to the mix. Bright tropical notes lead the way, followed by bursts of white grape and lime, all wrapped in a soft, hazy body. Vibrant, layered, and open from the first sip – a greeting, an invitation, a way in, just like the name suggests*. (*”Kia ora” is a Māori phrase commonly used in New Zealand as a warm, informal greeting (hello, hi), a way to say thank you, or to wish someone well. It originates from the Māori language, literally meaning “be well” or “have life”.) Hops: Motueka, Nectaron, Nelson Sauvin Anagram - Kia Ora</beer_description>
-    <beer_style>IPA - Imperial / Double</beer_style>
-    <beer_abv>8.4%</beer_abv>
-    <beer_volume>440 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Romania</brewery_country>
-    <untappd_id>6689025</untappd_id>
-  </item>
-  <item>
-    <id>6555777</id>
-    <ecommerce_id>824777201</ecommerce_id>
-    <title>Mellow Radical</title>
-    <url>https://hopincraftbier.be/products/anagram-mellow-radical</url>
-    <brewery_name>Anagram Brewery</brewery_name>
-    <price>6.78</price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/824777201/5668066571.png</image>
-    <beer_description>A double–dry hopped IPA built on a plush body and energized by a dynamic mix of hops: Simcoe (DynaBoost), Krush (HyperBoost), Talus, and Nectaron (T90). Expect a surge of ripe tropical fruit, bright citrus peel, and a touch of resin wrapped in a smooth, easy-drinking finish. Ingredients: water, barley, oats, hops, yeast Hops: Simcoe – DynaBoost, Krush – HyperBoost, Talus, Nectaron – T90 45 kcal/100 ml Anagram - Mellow Radical</beer_description>
-    <beer_style>IPA - Imperial / Double</beer_style>
-    <beer_abv>8%</beer_abv>
-    <beer_volume>440 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Romania</brewery_country>
-    <untappd_id>6555777</untappd_id>
-  </item>
-  <item>
     <id>6573368</id>
     <ecommerce_id>824777200</ecommerce_id>
     <title>DARK MATTER</title>
@@ -6748,6 +6716,6 @@
     <date_canned>2025-03-17</date_canned>
     <untappd_id>6186985</untappd_id>
   </item>
-  <timestamp>1778412605</timestamp>
-  <gen_date>10/05/2026 13:30:05</gen_date>
+  <timestamp>1778577308</timestamp>
+  <gen_date>12/05/2026 11:15:08</gen_date>
 </feed>
