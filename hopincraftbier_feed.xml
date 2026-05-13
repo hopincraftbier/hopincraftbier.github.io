@@ -265,6 +265,74 @@
     <untappd_id>6655425</untappd_id>
   </item>
   <item>
+    <id>6599719</id>
+    <ecommerce_id>829909418</ecommerce_id>
+    <title>TORTA</title>
+    <url>https://hopincraftbier.be/products/tuletorn-torta</url>
+    <brewery_name>Tuletorn Brewing</brewery_name>
+    <price>7.74</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/829909418/5712077424.png</image>
+    <beer_description>A chocolate-almond stout, inspired by the famous Italian Torta Caprese rich flourless cake. Tuletorn - TORTA</beer_description>
+    <beer_style>Stout - Other</beer_style>
+    <beer_abv>10.5%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Estonia</brewery_country>
+    <date_best_before>2028-03-18</date_best_before>
+    <untappd_id>6599719</untappd_id>
+  </item>
+  <item>
+    <id>6615715</id>
+    <ecommerce_id>829909417</ecommerce_id>
+    <title>Memme Musi</title>
+    <url>https://hopincraftbier.be/products/tuletorn-memme-musi</url>
+    <brewery_name>Tuletorn Brewing</brewery_name>
+    <price>7.84</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/829909417/5712077195.png</image>
+    <beer_description>Apple-rhubarb pie inspired smoothie sour, brewed to celebrate Tuletorn's second birthday. Name means 'grandma's kiss' in Estonian Tuletorn - Memme Musi</beer_description>
+    <beer_style>Sour - Smoothie / Pastry</beer_style>
+    <beer_abv>5.3%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Estonia</brewery_country>
+    <date_best_before>2027-04-03</date_best_before>
+    <untappd_id>6615715</untappd_id>
+  </item>
+  <item>
+    <id>6637252</id>
+    <ecommerce_id>829911373</ecommerce_id>
+    <title>Give the People What They Really Want</title>
+    <url>https://hopincraftbier.be/products/tuletorn-give-the-people-what-they-really-want</url>
+    <brewery_name>Tuletorn Brewing</brewery_name>
+    <price>7.96</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/829911373/5712077394.png</image>
+    <beer_description>We love making stouts and we love making smoothies, come on, it was only a matter of time. Brewed to celebrate our second birthday. Tuletorn - Give the People What They Really Want</beer_description>
+    <beer_style>Stout - Imperial / Double Pastry</beer_style>
+    <beer_abv>10%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Estonia</brewery_country>
+    <date_best_before>2028-04-03</date_best_before>
+    <untappd_id>6637252</untappd_id>
+  </item>
+  <item>
+    <id>6615705</id>
+    <ecommerce_id>829911372</ecommerce_id>
+    <title>Cuckoo Sunshine</title>
+    <url>https://hopincraftbier.be/products/tuletorn-cuckoo-sunshine</url>
+    <brewery_name>Tuletorn Brewing</brewery_name>
+    <price>7.53</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/829911372/5712077201.png</image>
+    <beer_description>Mango-pineapple smoothie sour Tuletorn - Cuckoo Sunshine</beer_description>
+    <beer_style>Sour - Smoothie / Pastry</beer_style>
+    <beer_abv>5.5%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Estonia</brewery_country>
+    <date_best_before>2027-03-19</date_best_before>
+    <untappd_id>6615705</untappd_id>
+  </item>
+  <item>
     <id>3683189</id>
     <ecommerce_id>828543684</ecommerce_id>
     <title>Political Flow</title>
@@ -279,6 +347,23 @@
     <beer_package>can</beer_package>
     <brewery_country>United States</brewery_country>
     <untappd_id>3683189</untappd_id>
+  </item>
+  <item>
+    <id>6668465</id>
+    <ecommerce_id>828437394</ecommerce_id>
+    <title>Fadewalker</title>
+    <url>https://hopincraftbier.be/products/blech-brut-fadewalker</url>
+    <brewery_name>Blech.Brut</brewery_name>
+    <price>14.87</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/828437394/5697693706.png</image>
+    <beer_description>Bourbon Barrel Aged Imperial Stout with Vanilla Fadewalker is a masterful Barrel Aged Imperial Stout from the German precision brewers at BLECH.BRUT. Known for their tight and technical approach to beer, this time they took the time to age a heavy and complex brew in selected Bourbon barrels. During this process, vanilla was used liberally, creating a silky texture that beautifully softens the robust base of roasted malts. Fadewalker is designed as a "slow sipper," a beer that evolves slowly as it warms up in the glass. Blech.Brut - Fadewalker</beer_description>
+    <beer_style>Stout - Imperial / Double</beer_style>
+    <beer_abv>10.7%</beer_abv>
+    <beer_volume>500 ml</beer_volume>
+    <beer_package>bottle</beer_package>
+    <brewery_country>Germany</brewery_country>
+    <date_best_before>2031-12-20</date_best_before>
+    <untappd_id>6668465</untappd_id>
   </item>
   <item>
     <id>6654927</id>
@@ -612,6 +697,40 @@
     <untappd_id>6622277</untappd_id>
   </item>
   <item>
+    <id>6632091</id>
+    <ecommerce_id>826383595</ecommerce_id>
+    <title>Double Black Mash (2026) Original</title>
+    <url>https://hopincraftbier.be/products/amager-bryghus-double-black-mash-2026-original</url>
+    <brewery_name>Amager Bryghus</brewery_name>
+    <price>10.97</price>
+    <regular_price>10.57</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/826383595/5681595288.png</image>
+    <beer_description>Brewed with the motto: "Only malt, no bullshit". All Grain Double Mash Imperial Stout Amager Bryghus - Double Black Mash (2026) Original</beer_description>
+    <beer_style>Stout - Imperial / Double</beer_style>
+    <beer_abv>12%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <date_best_before>04/2031</date_best_before>
+    <untappd_id>6632091</untappd_id>
+  </item>
+  <item>
+    <id>6632097</id>
+    <ecommerce_id>826381605</ecommerce_id>
+    <title>Double Black Mash (2026) Maple Syrup Barrel Aged Edition</title>
+    <url>https://hopincraftbier.be/products/amager-bryghus-double-black-mash-2026-maple-syrup-barrel-aged-edition</url>
+    <brewery_name>Amager Bryghus</brewery_name>
+    <price>14.15</price>
+    <regular_price>13.96</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/826381605/5681577238.png</image>
+    <beer_description>Aged for 10 months in ex-bourbon oak barrels that previously contained maple syrup. Amager Bryghus - Double Black Mash (2026) Maple Syrup Barrel Aged Edition</beer_description>
+    <beer_style>Stout - Imperial / Double</beer_style>
+    <beer_abv>12.5%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <date_best_before>04/2031</date_best_before>
+    <untappd_id>6632097</untappd_id>
+  </item>
+  <item>
     <id>6603163</id>
     <ecommerce_id>825605985</ecommerce_id>
     <title>Ārpus X Sudden Death QDH Riwaka X Strata X Nelson Sauvin TIPA</title>
@@ -765,6 +884,40 @@
     <brewery_country>Romania</brewery_country>
     <date_best_before>2026-10-16</date_best_before>
     <untappd_id>6598489</untappd_id>
+  </item>
+  <item>
+    <id>6686217</id>
+    <ecommerce_id>824778211</ecommerce_id>
+    <title>Underrated</title>
+    <url>https://hopincraftbier.be/products/anagram-underrated</url>
+    <brewery_name>Anagram Brewery</brewery_name>
+    <price>6.78</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/824778211/5668060356.png</image>
+    <beer_description>This 8.3% Hazy DIPA is an absolute tropical surprise. The hop blend is particularly interesting: Riwaka provides bright passion fruit and citrus, while the related duo Sabro and Talus add a completely unique, almost creamy dimension of coconut, pink grapefruit, and floral notes. The result is a heavy, lush fruit bomb that absolutely should not be underrated. Anagram - Underrated</beer_description>
+    <beer_style>IPA - Imperial / Double</beer_style>
+    <beer_abv>8.3%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Romania</brewery_country>
+    <date_best_before>2027-04-21</date_best_before>
+    <untappd_id>6686217</untappd_id>
+  </item>
+  <item>
+    <id>6573368</id>
+    <ecommerce_id>824777200</ecommerce_id>
+    <title>DARK MATTER</title>
+    <url>https://hopincraftbier.be/products/anagram-dark-matter</url>
+    <brewery_name>Anagram Brewery</brewery_name>
+    <price>7.27</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/824777200/5668060412.png</image>
+    <beer_description>It is a massive, heavy, and unprecedentedly dark brew. By aging the beer in oak, the already robust base of roasted malts gains an extra, luxurious dimension. The wood imparts complex tannins and soft vanilla notes that blend perfectly with the warmth of the alcohol. This is a magnificent cellaring beer to sip in peace. Anagram - DARK MATTER</beer_description>
+    <beer_style>Stout - Imperial / Double</beer_style>
+    <beer_abv>13%</beer_abv>
+    <beer_volume>330 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Romania</brewery_country>
+    <date_best_before>2028-01-15</date_best_before>
+    <untappd_id>6573368</untappd_id>
   </item>
   <item>
     <id>6581011</id>
@@ -5635,23 +5788,6 @@
     <untappd_id>6240932</untappd_id>
   </item>
   <item>
-    <id>6263452</id>
-    <ecommerce_id>756995311</ecommerce_id>
-    <title>Feral</title>
-    <url>https://hopincraftbier.be/products/all-my-friends-feral</url>
-    <brewery_name>All My Friends Beer Co.</brewery_name>
-    <price>7.5</price>
-    <regular_price>10,00</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5067705869.webp</image>
-    <beer_description>The team at Slake have become more than just good neighbours and friends—they’re true companions. Always up for a hang or a good chat, we love bouncing ideas around, lending a hand, sharing ingredients, dropping off kegs, or cracking open fresh cans for a taste test. Where would we be without them? Still brewing beer—but it’d be a lot less fun. Feral is a testament to the fearless ingredient experimentation both our breweries live for. This Nelson-3-ways IPA pours a pale straw yellow with a milky haze and a cap of lingering white bubbles. It bursts with unexpected orange on the nose and palate—bright citrus, pithy spice, and just a touch of white grape. Soft and juicy upfront, finishing ultra clean. All My Friends - Feral</beer_description>
-    <beer_style>IPA - New England / Hazy</beer_style>
-    <beer_abv>7%</beer_abv>
-    <beer_volume>473 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Canada</brewery_country>
-    <untappd_id>6263452</untappd_id>
-  </item>
-  <item>
     <id>6277002</id>
     <ecommerce_id>756995309</ecommerce_id>
     <title>BA Sticky Situation</title>
@@ -6043,24 +6179,6 @@
     <beer_package>bottle</beer_package>
     <brewery_country>United States</brewery_country>
     <untappd_id>4990447</untappd_id>
-  </item>
-  <item>
-    <id>6215483</id>
-    <ecommerce_id>751529273</ecommerce_id>
-    <title>Dora #79</title>
-    <url>https://hopincraftbier.be/products/badlands-dora-79</url>
-    <brewery_name>Badlands Brewing Company</brewery_name>
-    <price>5.54</price>
-    <regular_price>11,08</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4927488830.png</image>
-    <beer_description>Dora is our exploratory series of beers where we mess around with anything/everything from ingredients to process. For this version of Dora we decided we wanted to try a new blend of pale oats and wheat than we typically use. Hopped exclusively with Citra, we taste huge pineapple, papaya and mixed citrus Badlands - Dora #79</beer_description>
-    <beer_style>IPA - American</beer_style>
-    <beer_abv>6.5%</beer_abv>
-    <beer_volume>473 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Canada</brewery_country>
-    <date_canned>2025-04-09</date_canned>
-    <untappd_id>6215483</untappd_id>
   </item>
   <item>
     <id>6166277</id>
@@ -6535,23 +6653,6 @@
     <untappd_id>6189429</untappd_id>
   </item>
   <item>
-    <id>5391734</id>
-    <ecommerce_id>735435933</ecommerce_id>
-    <title>Steak And Eggs</title>
-    <url>https://hopincraftbier.be/products/knotted-root-steak-and-eggs</url>
-    <brewery_name>Knotted Root Brewing Company</brewery_name>
-    <price>5.47</price>
-    <regular_price>10.94</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4932345149.png</image>
-    <beer_description>Steak and Eggs is an Unfiltered New Zealand DIPA brewed with a protein-rich base of flaked oats, flaked wheat, and white wheat. Being a medium-rare member of NZ Hops 'Bract Brewer Program,' we hopped this juicy steak exclusively with NZ-101. These trials help shape the future of commercial hop production in New Zealand. Think hearty breakfast from Denny's, Cracker Barrel, and Bob Evans. Knotted Root - Steak And Eggs</beer_description>
-    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
-    <beer_abv>8%</beer_abv>
-    <beer_volume>473 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>United States</brewery_country>
-    <untappd_id>5391734</untappd_id>
-  </item>
-  <item>
     <id>6186139</id>
     <ecommerce_id>735452031</ecommerce_id>
     <title>Color Theory</title>
@@ -6604,6 +6705,6 @@
     <date_canned>2025-03-17</date_canned>
     <untappd_id>6186985</untappd_id>
   </item>
-  <timestamp>1778668698</timestamp>
-  <gen_date>13/05/2026 12:38:18</gen_date>
+  <timestamp>1778693317</timestamp>
+  <gen_date>13/05/2026 19:28:37</gen_date>
 </feed>
