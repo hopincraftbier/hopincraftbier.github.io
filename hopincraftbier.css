@@ -1,4 +1,4 @@
-/* HopInCraftbier custom css v4.10 */
+/* HopInCraftbier custom css v4.11 */
 /** start homepage **/
 body {
     margin: auto;
@@ -1339,6 +1339,10 @@ div.ec-cart-step--address, div.ec-cart-step--delivery {
 div.ecwid-productBrowser {
     background-color: #f7f5c610 !important;
 }
+div.grid-product__subtitle-inner {
+    color: white;
+    font-weight: 600;
+}
 div.ec-cart {
     div.ec-cart__item {
         background-color: #F5F5F5;
@@ -1891,15 +1895,15 @@ div#deliveryInfoSidebar {
 }
 .product-details__product-hop-title {
     p.brewery {
-        font-family: 'Bangers', Ubuntu, system-ui, sans-serif;
-        letter-spacing: 1px;
-        font-size: 20px;
+        font-family: 'Bangers', Ubuntu, system-ui, sans-serif !important;
+        letter-spacing: 1px !important;
+        font-size: 20px !important;
     }
 
     p.title {
-        font-family: Ubuntu, system-ui, sans-serif;
-        font-size: 26px;
-        font-weight: 600;
+        font-family: Ubuntu, system-ui, sans-serif !important;
+        font-size: 26px !important;
+        font-weight: 600 !important;
     }
 }
 .ec-size:not(.ec-size--s) .ec-store.ec-store__account-page .ec-cart-step--bag,.ec-size:not(.ec-size--s) .ec-store.ec-store__account-page .ec-cart-step--favorites {
