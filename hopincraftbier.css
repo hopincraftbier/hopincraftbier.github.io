@@ -1256,6 +1256,9 @@ div.ec-cart-step--address, div.ec-cart-step--delivery {
         }
     }
 }
+div.ecwid-productBrowser {
+    background-color: #f7f5c666;
+}
 #tile-product-details:has(div.ecwid-productBrowser-CartPage),
 #tile-product-details:has(div.ec-store__checkout-page),
 #tile-product-details:has(div.ec-store__confirmation-page),
