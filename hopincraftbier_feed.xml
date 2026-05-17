@@ -951,6 +951,38 @@
     <untappd_id>6621296</untappd_id>
   </item>
   <item>
+    <id>5197743</id>
+    <ecommerce_id>824015943</ecommerce_id>
+    <title>PB&amp;J Mixtape: Grape</title>
+    <url>https://hopincraftbier.be/products/xul-pbj-mixtape-grape</url>
+    <brewery_name>Xul Beer Company</brewery_name>
+    <price>10.67</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/824015943/5662941789.png</image>
+    <beer_description>Peanut Butter &amp; Jelly Gluten-Free Sour. Straight from your childhood. Xul - PB&amp;J Mixtape: Grape</beer_description>
+    <beer_style>Sour - Fruited</beer_style>
+    <beer_abv>6.5%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <untappd_id>5197743</untappd_id>
+  </item>
+  <item>
+    <id>6538987</id>
+    <ecommerce_id>824015876</ecommerce_id>
+    <title>Fading Hours</title>
+    <url>https://hopincraftbier.be/products/false-hope-fading-hours</url>
+    <brewery_name>False Hope Brewing</brewery_name>
+    <price>10</price>
+    <regular_price>10.00</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/824015876/5662878913.png</image>
+    <beer_description>Imperial Stout with Coffee, Chocolate, and Maple Syrup False Hope - Fading Hours</beer_description>
+    <beer_style>Stout - Imperial / Double Pastry</beer_style>
+    <beer_abv>12%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>United States</brewery_country>
+    <untappd_id>6538987</untappd_id>
+  </item>
+  <item>
     <id>6656696</id>
     <ecommerce_id>824005598</ecommerce_id>
     <title>Siren Maiden '25</title>
@@ -1086,6 +1118,103 @@
     <untappd_id>6650347</untappd_id>
   </item>
   <item>
+    <id>6654410</id>
+    <ecommerce_id>822047757</ecommerce_id>
+    <title>BBA Chinchilla</title>
+    <url>https://hopincraftbier.be/products/commonwealth-bba-chinchilla</url>
+    <brewery_name>Commonwealth Brewing Company</brewery_name>
+    <price>24.14</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/822047757/5687768648.png</image>
+    <beer_description>Bourbon Barrel Aged Imperial Stout w/ Hazelnut, Cacao Nibs, &amp; Vanilla Commonwealth - BBA Chinchilla</beer_description>
+    <beer_style>Stout - Imperial / Double</beer_style>
+    <beer_abv>12.5%</beer_abv>
+    <beer_volume>500 ml</beer_volume>
+    <beer_package>bottle</beer_package>
+    <brewery_country>United States</brewery_country>
+    <untappd_id>6654410</untappd_id>
+  </item>
+  <item>
+    <id>6638463</id>
+    <ecommerce_id>822032269</ecommerce_id>
+    <title>Dark Pyramid</title>
+    <url>https://hopincraftbier.be/products/finback-dark-pyramid-822032269</url>
+    <brewery_name>Finback Brewery</brewery_name>
+    <price>10.33</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/822032269/5654705322.png</image>
+    <beer_description>Triple IPA, dry hopped with Citra, Riwaka, Bru-1 Lupomax, and Talus Cryo. Brewed in collaboration with GLASS PYRAMID out of Helsinki, Finland. Known for their over the top smoothy sours, we wanted to channel those fruity, tropical vibes into an elegant triple IPA. Triples are rich and full, finishing with a balanced sweetness and big tropical hop notes of pineapple, coconut, and passionfruit. Finback - Dark Pyramid</beer_description>
+    <beer_style>IPA - Triple New England / Hazy</beer_style>
+    <beer_abv>10%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>United States</brewery_country>
+    <untappd_id>6638463</untappd_id>
+  </item>
+  <item>
+    <id>6653102</id>
+    <ecommerce_id>822032268</ecommerce_id>
+    <title>Same Team</title>
+    <url>https://hopincraftbier.be/products/finback-same-team-822032268</url>
+    <brewery_name>Finback Brewery</brewery_name>
+    <price>9.33</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/822032268/5693880065.png</image>
+    <beer_description>IPA New England with Nelson Sauvin &amp; Moutere hops Finback - Same Team</beer_description>
+    <beer_style>IPA - New England / Hazy</beer_style>
+    <beer_abv>6.5%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>United States</brewery_country>
+    <untappd_id>6653102</untappd_id>
+  </item>
+  <item>
+    <id>6040196</id>
+    <ecommerce_id>821991288</ecommerce_id>
+    <title>Vacuum Sealed</title>
+    <url>https://hopincraftbier.be/products/dankhouse-vacuum-sealed</url>
+    <brewery_name>DankHouse Brewing Company</brewery_name>
+    <price>9.67</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/821991288/5654641322.png</image>
+    <beer_description>Dry hopped with Citra, Nectaron, Superdelic, Nelson Bliss, and then conditioned on oranges. DankHouse - Vacuum Sealed</beer_description>
+    <beer_style>IPA - New England / Hazy</beer_style>
+    <beer_abv>7%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>United States</brewery_country>
+    <untappd_id>6040196</untappd_id>
+  </item>
+  <item>
+    <id>5267443</id>
+    <ecommerce_id>821996541</ecommerce_id>
+    <title>Triple Beam Dream</title>
+    <url>https://hopincraftbier.be/products/dankhouse-triple-beam-dream</url>
+    <brewery_name>DankHouse Brewing Company</brewery_name>
+    <price>10.34</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/821996541/5654638388.png</image>
+    <beer_description>Clearly, we're the triple beam dream. One thousand grams of uncut hops to the gut. We hopped up this Biggie with Citra, Galaxy, and Nectaron. DankHouse - Triple Beam Dream</beer_description>
+    <beer_style>IPA - Triple New England / Hazy</beer_style>
+    <beer_abv>10%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>United States</brewery_country>
+    <untappd_id>5267443</untappd_id>
+  </item>
+  <item>
+    <id>6561762</id>
+    <ecommerce_id>821996540</ecommerce_id>
+    <title>Double Dose of Superdelic</title>
+    <url>https://hopincraftbier.be/products/dankhouse-double-dose-of-superdelic</url>
+    <brewery_name>DankHouse Brewing Company</brewery_name>
+    <price>10</price>
+    <regular_price>10.00</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/821996540/5654641380.png</image>
+    <beer_description>21 years of age and over. Take down a few glasses every couple of hours, or as needed. Side effects will include happiness, having a great time with friends, relaxation, and peacefulness. Dry hopped with all SuperDelic. DankHouse - Double Dose of Superdelic</beer_description>
+    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
+    <beer_abv>8%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>United States</brewery_country>
+    <untappd_id>6561762</untappd_id>
+  </item>
+  <item>
     <id>6608065</id>
     <ecommerce_id>821812565</ecommerce_id>
     <title>WAR REQUIEM</title>
@@ -1172,6 +1301,54 @@
     <beer_package_count>2</beer_package_count>
     <beer_bundle>1</beer_bundle>
     <bundle_skus>6584854,6584852</bundle_skus>
+  </item>
+  <item>
+    <id>1966328</id>
+    <ecommerce_id>820762603</ecommerce_id>
+    <title>Key Bump (2026)</title>
+    <url>https://hopincraftbier.be/products/hoof-hearted-key-bump-2026</url>
+    <brewery_name>Hoof Hearted Brewing</brewery_name>
+    <price>10.67</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/820762603/5629371791.png</image>
+    <beer_description>Clean off your mirrored glass table and grab a hundo. Key Bump bout to pack your nose full of those oh-so tropical tones. Passionfruit, guava, pineapple(s), calamansi and kumquat barrel down the mountain as quick as Alberto Tomba on an Olympic qualifying run. Hopped with the most dangerous weapon in the game (ElMoMoCoe) + fermented w/ the fruity flyboi Orenthal, Key Bump's the pick-me-up you can't put down. To quote the great Clyde Von Damme, 'What the hell is Dim Mak?' 2026 version of Hoof Hearted - Key Bump (2026)</beer_description>
+    <beer_style>IPA - Triple</beer_style>
+    <beer_abv>10.5%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>United States</brewery_country>
+    <untappd_id>1966328</untappd_id>
+  </item>
+  <item>
+    <id>6623327</id>
+    <ecommerce_id>820762807</ecommerce_id>
+    <title>Backcountry Trail</title>
+    <url>https://hopincraftbier.be/products/finback-backcountry-trail</url>
+    <brewery_name>Finback Brewery</brewery_name>
+    <price>9.66</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/820762807/5653574118.png</image>
+    <beer_description>DIPA with citra, evergreen, mosaic, superdelic Finback - Backcountry Trail</beer_description>
+    <beer_style>IPA - Imperial / Double</beer_style>
+    <beer_abv>8%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>United States</brewery_country>
+    <untappd_id>6623327</untappd_id>
+  </item>
+  <item>
+    <id>6572097</id>
+    <ecommerce_id>820762599</ecommerce_id>
+    <title>Zombie HWhip: Blood Orange Raspberry Lemonade</title>
+    <url>https://hopincraftbier.be/products/beer-zombies-zombie-hwhip-blood-orange-raspberry-lemonade</url>
+    <brewery_name>Beer Zombies Brewing Co.</brewery_name>
+    <price>11.67</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/820762599/5654617850.png</image>
+    <beer_description>A bright, brain-freezing blast of undead, refreshment. Zombie Hwhip: Blood Orange Raspberry Lemonade takes our zombie berliner base and overloads it with juicy blood orange, tart raspberry, and zesty lemonade. Heavily fruited, tangy, and wildly refreshing, this sour balances sweet citrus punch with a mouthwatering bite that refuses to stay dead. Beer Zombies - Zombie HWhip: Blood Orange Raspberry Lemonade</beer_description>
+    <beer_style>Sour - Fruited</beer_style>
+    <beer_abv>4.3%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>United States</brewery_country>
+    <untappd_id>6572097</untappd_id>
   </item>
   <item>
     <id>5143531</id>
@@ -3225,6 +3402,23 @@
     <brewery_country>Canada</brewery_country>
     <date_canned>2026-01-07</date_canned>
     <untappd_id>6558377</untappd_id>
+  </item>
+  <item>
+    <id>6430511</id>
+    <ecommerce_id>798975561</ecommerce_id>
+    <title>Black Tuesday Blender's Choice (2025)</title>
+    <url>https://hopincraftbier.be/products/the-bruery-black-tuesday-blenders-choice-2025</url>
+    <brewery_name>The Bruery</brewery_name>
+    <price>32.55</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5409430296.png</image>
+    <beer_description>Blended Barrel-Aged Imperial Stout Blended from our finest barrels, this is Black Tuesday Blender's Choice (2025). We hand-selected Peerless Rye barrels, Four Gate Bourbon barrels, Ruby Port barrels, and Zinfandel barrels for an exquisite Imperial Stout. Revel in notes of rich vanilla, deep oak, dark fruit leather, and robust chocolate. Perfect with a Kansas City Strip Steak. The Bruery - Black Tuesday Blender's Choice (2025)</beer_description>
+    <beer_style>Stout - Imperial / Double</beer_style>
+    <beer_abv>19.9%</beer_abv>
+    <beer_volume>375 ml</beer_volume>
+    <beer_package>bottle</beer_package>
+    <brewery_country>United States</brewery_country>
+    <date_canned>2025-09-17</date_canned>
+    <untappd_id>6430511</untappd_id>
   </item>
   <item>
     <id>6430511</id>
@@ -6615,6 +6809,6 @@
     <date_canned>2025-03-17</date_canned>
     <untappd_id>6186985</untappd_id>
   </item>
-  <timestamp>1779018307</timestamp>
-  <gen_date>17/05/2026 13:45:07</gen_date>
+  <timestamp>1779028063</timestamp>
+  <gen_date>17/05/2026 16:27:43</gen_date>
 </feed>
