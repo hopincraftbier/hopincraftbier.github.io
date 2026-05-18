@@ -1916,24 +1916,6 @@
     <untappd_id>5143531</untappd_id>
   </item>
   <item>
-    <id>6606993</id>
-    <ecommerce_id>819851662</ecommerce_id>
-    <title>How You Do Anything Is How You Do Everything</title>
-    <url>https://hopincraftbier.be/products/verdant-how-you-do-anything-is-how-you-do-everything</url>
-    <brewery_name>Verdant Brewing Co</brewery_name>
-    <price>8.94</price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/819851662/5622855017.png</image>
-    <beer_description>‘How you do anything is how you do everything’ (8%), pays homage to this attitude while dialing it up to full NZ! This brew is a bold celebration from the land of the long white cloud. Two brash experimental hops—NZH-109 and NZH-106—are paired with the powerful Nectaron. Expect incredible, exciting pungency amid pillowy soft slugs! Verdant - How You Do Anything Is How You Do Everything</beer_description>
-    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
-    <beer_abv>8%</beer_abv>
-    <beer_volume>440 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>England</brewery_country>
-    <date_best_before>2026-08-13</date_best_before>
-    <date_canned>2026-02-11</date_canned>
-    <untappd_id>6606993</untappd_id>
-  </item>
-  <item>
     <id>6640093</id>
     <ecommerce_id>819633332</ecommerce_id>
     <title>#Hautes-Plaines Is Trending</title>
@@ -7357,6 +7339,6 @@
     <date_canned>2025-03-17</date_canned>
     <untappd_id>6186985</untappd_id>
   </item>
-  <timestamp>1779047107</timestamp>
-  <gen_date>17/05/2026 21:45:07</gen_date>
+  <timestamp>1779115506</timestamp>
+  <gen_date>18/05/2026 16:45:06</gen_date>
 </feed>
