@@ -1066,9 +1066,9 @@
     <untappd_id>6648535</untappd_id>
   </item>
   <item>
-    <id>6656696</id>
+    <id>6647277</id>
     <ecommerce_id>824005598</ecommerce_id>
-    <title>Siren Maiden '25</title>
+    <title>Maiden 2025</title>
     <url>https://hopincraftbier.be/products/siren-craft-brew-maiden-2025</url>
     <brewery_name>Siren Craft Brew</brewery_name>
     <price>13.34</price>
@@ -1079,7 +1079,7 @@
     <beer_volume>375 ml</beer_volume>
     <beer_package>bottle</beer_package>
     <date_canned>2026-02-26</date_canned>
-    <untappd_id>6656696</untappd_id>
+    <untappd_id>6647277</untappd_id>
   </item>
   <item>
     <id>6515342</id>
@@ -1137,10 +1137,10 @@
     <bundle_skus>6573098,6584589,6576599,6564099</bundle_skus>
   </item>
   <item>
-    <id>6632163</id>
+    <id>6662061</id>
     <ecommerce_id>822047926</ecommerce_id>
-    <title>Browar Bytow - Special Series: Creation</title>
-    <url>https://hopincraftbier.be/products/browar-bytow-special-series-creation</url>
+    <title>Browar Bytow - Creation</title>
+    <url>https://hopincraftbier.be/products/browar-bytow-creation</url>
     <brewery_name>Bytów Browar Kaszubski</brewery_name>
     <price>9.13</price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/822047926/5640448554.png</image>
@@ -1150,7 +1150,7 @@
     <beer_volume>500 ml</beer_volume>
     <beer_package>bottle</beer_package>
     <brewery_country>Poland</brewery_country>
-    <untappd_id>6632163</untappd_id>
+    <untappd_id>6662061</untappd_id>
   </item>
   <item>
     <id>6650154</id>
@@ -7339,6 +7339,6 @@
     <date_canned>2025-03-17</date_canned>
     <untappd_id>6186985</untappd_id>
   </item>
-  <timestamp>1779115506</timestamp>
-  <gen_date>18/05/2026 16:45:06</gen_date>
+  <timestamp>1779127205</timestamp>
+  <gen_date>18/05/2026 20:00:05</gen_date>
 </feed>
