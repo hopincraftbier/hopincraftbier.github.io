@@ -539,6 +539,22 @@
     <untappd_id>6655090</untappd_id>
   </item>
   <item>
+    <id>6628386</id>
+    <ecommerce_id>827630015</ecommerce_id>
+    <title>Crashing the Boards</title>
+    <url>https://hopincraftbier.be/products/other-half-crashing-the-boards</url>
+    <brewery_name>Other Half Brewing Co.</brewery_name>
+    <price>8.56</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/827630015/5690887359.png</image>
+    <beer_description>A hazy Imperial IPA dunked with a shattering amount of hand-selected hops giving notes of peach-apricot nectar, pineapple concentrate, and lychee. Brewed with: Citra, Vista, Peacharine, Citra Cryo Other Half - Crashing the Boards</beer_description>
+    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
+    <beer_abv>8%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>United States</brewery_country>
+    <untappd_id>6628386</untappd_id>
+  </item>
+  <item>
     <id>6628237</id>
     <ecommerce_id>826591951</ecommerce_id>
     <title>Rubicon</title>
@@ -7339,6 +7355,6 @@
     <date_canned>2025-03-17</date_canned>
     <untappd_id>6186985</untappd_id>
   </item>
-  <timestamp>1779127205</timestamp>
-  <gen_date>18/05/2026 20:00:05</gen_date>
+  <timestamp>1779269248</timestamp>
+  <gen_date>20/05/2026 11:27:28</gen_date>
 </feed>
