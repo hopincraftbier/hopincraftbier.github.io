@@ -193,7 +193,7 @@
     <title>Basqueland Brewing - Triplet</title>
     <url>https://hopincraftbier.be/products/basqueland-brewing-triplet</url>
     <brewery_name>Basqueland Brewing</brewery_name>
-    <price>16.74</price>
+    <price>13.9</price>
     <regular_price>19.69</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/832205777/5733519939.png</image>
     <beer_description>The Basqueland Brewing - Triplet contains: - Basqueland - GenesisIPA - New England / Hazy | 5,8% | 440 ml - Basqueland - OmnivoreIPA - Other | 6,2% | 440 ml - Basqueland - TopTenIPA - Imperial / Double New England / Hazy | 8% | 440 ml</beer_description>
@@ -1038,6 +1038,42 @@
     <brewery_country>Romania</brewery_country>
     <date_best_before>2028-01-15</date_best_before>
     <untappd_id>6573368</untappd_id>
+  </item>
+  <item>
+    <id>6581011</id>
+    <ecommerce_id>824777416</ecommerce_id>
+    <title>You Won’t Believe It’s Not Crumble!</title>
+    <url>https://hopincraftbier.be/products/vault-city-you-wont-believe-its-not-crumble</url>
+    <brewery_name>Vault City Brewing</brewery_name>
+    <price>8.17</price>
+    <regular_price>9,61</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/824777416/5667817656.webp</image>
+    <beer_description>Brought to you with our pals at Sudden Death Brewing Co., this smoothie sour is fresh out the oven. Jam packed with unfermented cherries, strawberries plums and apples, then layered with cinnamon warmth and pastry sweetness. “I genuinely can’t believe it’s not crumble!” – Joe Cruickshank, Sour Beer Enthusiast. Sour Scale:3 Allergens: Malted Barley &amp; Oats (Gluten) Vault City - You Wont Believe Its Not Crumble!</beer_description>
+    <beer_style>Sour - Smoothie / Pastry</beer_style>
+    <beer_abv>6%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Scotland</brewery_country>
+    <date_best_before>2026-07-19</date_best_before>
+    <untappd_id>6581011</untappd_id>
+  </item>
+  <item>
+    <id>6596050</id>
+    <ecommerce_id>824777415</ecommerce_id>
+    <title>Stoopid: Passionfruit, Apricot, Mango &amp; Coconut</title>
+    <url>https://hopincraftbier.be/products/vault-city-stoopid-passionfruit-apricot-mango--coconut</url>
+    <brewery_name>Vault City Brewing</brewery_name>
+    <price>8.27</price>
+    <regular_price>9,73</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/824777415/5667817914.webp</image>
+    <beer_description>Our series of smoothie sours is dedicated to anyone who’s ever asked; “why can’t beer just taste like beer?”. Jam-packed with juicy mango, passion fruit, apricot and the smooth taste of creamy coconut. Thicc, juicy and outrageously tasty in every stoopid sip. Allergens: Malted Barley (Gluten) Vault City - Stoopid: Passionfruit, Apricot, Mango &amp; Coconut</beer_description>
+    <beer_style>Sour - Smoothie / Pastry</beer_style>
+    <beer_abv>6.2%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Scotland</brewery_country>
+    <date_best_before>2026-08-02</date_best_before>
+    <untappd_id>6596050</untappd_id>
   </item>
   <item>
     <id>6621296</id>
@@ -3351,6 +3387,24 @@
     <untappd_id>6531339</untappd_id>
   </item>
   <item>
+    <id>6513908</id>
+    <ecommerce_id>807097776</ecommerce_id>
+    <title>You Can't Control</title>
+    <url>https://hopincraftbier.be/products/pollys-you-cant-control</url>
+    <brewery_name>Polly's Brew Co.</brewery_name>
+    <price>5.57</price>
+    <regular_price>6,55</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5505440361.png</image>
+    <beer_description>Galaxy, Mosaic, Mosaic Lupomax Polly's - You Can't Control</beer_description>
+    <beer_style>IPA - New England / Hazy</beer_style>
+    <beer_abv>6.9%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Wales</brewery_country>
+    <date_best_before>2026-08-20</date_best_before>
+    <untappd_id>6513908</untappd_id>
+  </item>
+  <item>
     <id>6577350</id>
     <ecommerce_id>807039742</ecommerce_id>
     <title>8th Birthday - India Pale Ale</title>
@@ -3383,6 +3437,24 @@
     <brewery_country>Wales</brewery_country>
     <date_best_before>2026-10-15</date_best_before>
     <untappd_id>6577359</untappd_id>
+  </item>
+  <item>
+    <id>6577343</id>
+    <ecommerce_id>807076879</ecommerce_id>
+    <title>8th Birthday - Danish Pastry Imperial Stout</title>
+    <url>https://hopincraftbier.be/products/pollys-8th-birthday-danish-pastry-imperial-stout</url>
+    <brewery_name>Polly's Brew Co.</brewery_name>
+    <price>6</price>
+    <regular_price>7,06</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5505372860.png</image>
+    <beer_description>POLLY'S 8th BIRTHDAY It’s always a given that when it comes to Birthday Beer time, we’re always going to dip over to the dark side. Who better then to extend an invitation to share knowledge and expertise with than one of the best in the game today when it comes to imperial stouts, and one which we’ve worked closely with since their launch, Azvex? As longtime admirers of their big, decadent pastry stouts, we couldn’t think of anyone better to work with than our friends from just over the water in Liverpool. Working our recipe around the fika breaks we have at Polly’s every working day, we loved the idea of creating the flavour profile of a danish pastry in this beer - utilising the fresh vanilla we’ve applied to our Oat Cream beers, alongside raisin for a subtle fruit sweetness, and a final flourish of cinnamon to balance everything out. Featuring artwork produced by the wonderful local artist and good friend of the brewery Jake Cross, this beer took up a grand total of five separate brew slots in our brewing week, with a ridiculous twenty-four hour slow rolling boil to concentrate all those sugars. the result is a slick, oily and decadent imperial stout - rich in flavour but not cloying, and widely regarded within the brewery as our best imperial stout brewed over our eight year history. Polly's - 8th Birthday - Danish Pastry Imperial Stout</beer_description>
+    <beer_style>Stout - Imperial / Double Pastry</beer_style>
+    <beer_abv>11%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Wales</brewery_country>
+    <date_best_before>2027-01-12</date_best_before>
+    <untappd_id>6577343</untappd_id>
   </item>
   <item>
     <id>3039829</id>
@@ -3468,6 +3540,60 @@
     <brewery_country>Belgium</brewery_country>
     <date_best_before>2026-09-01</date_best_before>
     <untappd_id>6514089</untappd_id>
+  </item>
+  <item>
+    <id>6491728</id>
+    <ecommerce_id>806337899</ecommerce_id>
+    <title>Eclipse</title>
+    <url>https://hopincraftbier.be/products/norm-eclipse</url>
+    <brewery_name>Norm Brewing</brewery_name>
+    <price>4.72</price>
+    <regular_price>5,55</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5500055513.png</image>
+    <beer_description>DDH IPA Hops : Eclipse / Nelson Sauvin IPA at 7%, slightly stronger than usual (winter is coming) and brewed with a combo we deeply love ! 2 hops and 2 countries, Eclipse from Australia and Nelson Sauvin from New Zealand. It’s actually pretty long since we used a hop from Australia ! Eclipse offers sweet mandarin flavors and zesty citrus peel and fresh pine needles. We pair it with our house favorite, Nelson Sauvin. Bringing his famous and distinct gooseberry and Sauvignon Blanc grapes. Juicy, fresh and balanced ! Norm - Eclipse</beer_description>
+    <beer_style>IPA - New England / Hazy</beer_style>
+    <beer_abv>7%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Belgium</brewery_country>
+    <date_best_before>2026-08-01</date_best_before>
+    <untappd_id>6491728</untappd_id>
+  </item>
+  <item>
+    <id>6491725</id>
+    <ecommerce_id>806337900</ecommerce_id>
+    <title>Northern Lights</title>
+    <url>https://hopincraftbier.be/products/norm-northern-lights</url>
+    <brewery_name>Norm Brewing</brewery_name>
+    <price>5.29</price>
+    <regular_price>6,22</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5500024981.png</image>
+    <beer_description>DDH TIPA HOPS : RAKAU / NECTARON / CITRA Triple New England IPA double dry hopped with Rakau, Nectaron, Rakau Sub Zero and Citra. Rakau burst with apricot, plum, mango, pear, and other stone fruits while Nectaron brings huge aroma of passion fruit, peach, grapefruit, and pineapple. Just a hint of Citra to give so more tropical notes. The aromatic is fruity, clean and explosive ! Norm - Northern Lights</beer_description>
+    <beer_style>IPA - Triple New England / Hazy</beer_style>
+    <beer_abv>9.5%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Belgium</brewery_country>
+    <date_best_before>2026-08-01</date_best_before>
+    <untappd_id>6491725</untappd_id>
+  </item>
+  <item>
+    <id>6453136</id>
+    <ecommerce_id>806337901</ecommerce_id>
+    <title>Nelson Focus</title>
+    <url>https://hopincraftbier.be/products/norm-nelson-focus</url>
+    <brewery_name>Norm Brewing</brewery_name>
+    <price>4.9</price>
+    <regular_price>5,77</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5500024971.png</image>
+    <beer_description>Focus Series #1 : Nelson T90 2025 x Nelson Sauvin CRYO x Nelson Sauvin Hop Kief sub zero (Freestyle hops) Here is the first beer of our focus series. A series of beers focus on one hop ! Nelson Sauvin : Probably the perfect hop to start with ! The star of New Zealand, a true classic that never disappoint, the one you can always rely on, the hop we could use in every beer ! Nelson Sauvin is shining here with its crushed gooseberries, white wine, grapes, citrus and pink grapefruit vibes. Norm - Nelson Focus</beer_description>
+    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
+    <beer_abv>8%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Belgium</brewery_country>
+    <date_best_before>2026-07-01</date_best_before>
+    <untappd_id>6453136</untappd_id>
   </item>
   <item>
     <id>6590688</id>
@@ -4191,6 +4317,24 @@
     <untappd_id>6489383</untappd_id>
   </item>
   <item>
+    <id>6471744</id>
+    <ecommerce_id>797597702</ecommerce_id>
+    <title>Aiako Harria / Peñas De Aia</title>
+    <url>https://hopincraftbier.be/products/basqueland-aiako-harria-penas-de-aia</url>
+    <brewery_name>Basqueland Brewing</brewery_name>
+    <price>6.26</price>
+    <regular_price>7,36</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5389986251.png</image>
+    <beer_description>Aiako Harria is a Double India Pale Ale, bold in character yet super smooth on the palate, with an exuberant, fruity, and uniquely expressive aroma profile. We’ve climbed to the top alongside our friends in Cornwall, Verdant Brewing, to toast this hop-forward collaborative gem for our 10th anniversary. Hops play a starring role in this beer: on one hand, Simcoe and Mosaic, classic varieties that bring familiar aromas with citrusy and tropical notes; on the other, Riwaka and Strata, more distinctive, giving Aia’s Peaks character, personality, and an unexpected touch that makes it unique. This is the sixth of nine collaborations celebrating our 10th anniversary, a beer that combines juiciness, texture, and hop-forward creativity. Basqueland - Aiako Harria / Penas De Aia</beer_description>
+    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
+    <beer_abv>8.2%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Spain</brewery_country>
+    <date_best_before>2026-07-01</date_best_before>
+    <untappd_id>6471744</untappd_id>
+  </item>
+  <item>
     <id>6359238</id>
     <ecommerce_id>794188753</ecommerce_id>
     <title>Profan</title>
@@ -4579,6 +4723,24 @@
     <untappd_id>6384423</untappd_id>
   </item>
   <item>
+    <id>6211524</id>
+    <ecommerce_id>792863593</ecommerce_id>
+    <title>You For Coffee</title>
+    <url>https://hopincraftbier.be/products/neon-raptor-you-for-coffee</url>
+    <brewery_name>Neon Raptor Brewing Co.</brewery_name>
+    <price>5.02</price>
+    <regular_price>5,91</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5324118772.png</image>
+    <beer_description>On our worldwide beer travels we can almost guarantee seeing our Polish friends Stu Mostow, so this imperial breakfast stout collaboration is long overdue. Rich coffee and sinful chocolate combined will inspire you to go for coffee yourself! Water, Barley (Gluten), Oats, Lactose (Milk), Liquid Cacao, Coffee, Hops, Yeast Neon Raptor - You For Coffee</beer_description>
+    <beer_style>Stout - Imperial / Double Coffee</beer_style>
+    <beer_abv>11%</beer_abv>
+    <beer_volume>330 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>England</brewery_country>
+    <date_best_before>2026-09-24</date_best_before>
+    <untappd_id>6211524</untappd_id>
+  </item>
+  <item>
     <id>6413314</id>
     <ecommerce_id>792864069</ecommerce_id>
     <title>Confection By Rackhouse</title>
@@ -4786,6 +4948,42 @@
     <untappd_id>6214738</untappd_id>
   </item>
   <item>
+    <id>6306816</id>
+    <ecommerce_id>787869764</ecommerce_id>
+    <title>Drums of Liberation</title>
+    <url>https://hopincraftbier.be/products/prizm-drums-of-liberation</url>
+    <brewery_name>Prizm Brewing Co.</brewery_name>
+    <price>4.9</price>
+    <regular_price>6,53</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5249373705.png</image>
+    <beer_description>DRUMS OF LIBERATION is an 8% Double Dry Hopped Double IPA (DDH DIPA), brewed with PRIZM Brewing Co.'s hoppy spirit. • Hops: Citra, Mosaic, Nelson Sauvin, Hallertau Blanc Cryo • Limited Edition Prizm - Drums of Liberation</beer_description>
+    <beer_style>IPA - Imperial / Double</beer_style>
+    <beer_abv>8%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>France</brewery_country>
+    <date_best_before>06/2026</date_best_before>
+    <untappd_id>6306816</untappd_id>
+  </item>
+  <item>
+    <id>6406186</id>
+    <ecommerce_id>787881503</ecommerce_id>
+    <title>Dawn</title>
+    <url>https://hopincraftbier.be/products/prizm-dawn</url>
+    <brewery_name>Prizm Brewing Co.</brewery_name>
+    <price>5.92</price>
+    <regular_price>6,97</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5249371239.png</image>
+    <beer_description>A massive dose of flaked oats and 25 g/L of Hand Selected Strata and Citra on the dry hop. Strata has been selected with Hops Company in Barcelona The Citra has been selected in the Yakima valley at Yakima Chief Hops Prizm - Dawn</beer_description>
+    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
+    <beer_abv>8%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>France</brewery_country>
+    <date_best_before>07/2026</date_best_before>
+    <untappd_id>6406186</untappd_id>
+  </item>
+  <item>
     <id>4478126</id>
     <ecommerce_id>787747547</ecommerce_id>
     <title>Fuzz Effect</title>
@@ -4979,6 +5177,24 @@
     <untappd_id>6408280</untappd_id>
   </item>
   <item>
+    <id>6355397</id>
+    <ecommerce_id>784590114</ecommerce_id>
+    <title>Discover the Barycz Valley</title>
+    <url>https://hopincraftbier.be/products/nepo-discover-the-barycz-valley</url>
+    <brewery_name>Nepo Brewing</brewery_name>
+    <price>4.84</price>
+    <regular_price>5,69</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5242198214.webp</image>
+    <beer_description>Inspired by the extraordinary nature of the Barycza Valley and the picturesque Milicki Ponds, they created a beer that captures the lightness and freshness of this place. It's Session Hazy IPA – hazy, juicy hops, and easy to drink, perfect for discovering new flavors in good company. Nepo - Discover the Barycz Valley</beer_description>
+    <beer_style>IPA - Session</beer_style>
+    <beer_abv>5.5%</beer_abv>
+    <beer_volume>500 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Poland</brewery_country>
+    <date_best_before>2026-07-10</date_best_before>
+    <untappd_id>6355397</untappd_id>
+  </item>
+  <item>
     <id>6415833</id>
     <ecommerce_id>784594126</ecommerce_id>
     <title>D-Tonacja 9th Edition</title>
@@ -4994,6 +5210,132 @@
     <brewery_country>Poland</brewery_country>
     <date_best_before>2027-06-04</date_best_before>
     <untappd_id>6415833</untappd_id>
+  </item>
+  <item>
+    <id>6371184</id>
+    <ecommerce_id>784594124</ecommerce_id>
+    <title>Crazy Lines Series: Avalanche</title>
+    <url>https://hopincraftbier.be/products/nepo-crazy-lines-series-avalanche</url>
+    <brewery_name>Nepo Brewing</brewery_name>
+    <price>5.84</price>
+    <regular_price>6,87</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5242198172.webp</image>
+    <beer_description>This beer is brewed with a classic "holy trinity" blend of modern hops: Citra, Nelson Sauvin, and Motueka. Expect a soft, full, and hazy body that delivers a massive and multi-layered explosion of flavour. The profile is an intense wave of juicy tropical fruit (passionfruit), bright citrus (lime, grapefruit), and elegant white wine grape. Nepo - Crazy Lines Series: Avalanche</beer_description>
+    <beer_style>IPA - Triple New England / Hazy</beer_style>
+    <beer_abv>8.5%</beer_abv>
+    <beer_volume>500 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Poland</brewery_country>
+    <date_best_before>2026-08-04</date_best_before>
+    <untappd_id>6371184</untappd_id>
+  </item>
+  <item>
+    <id>6395737</id>
+    <ecommerce_id>784594123</ecommerce_id>
+    <title>Crazy Lines Series: Polar Shift</title>
+    <url>https://hopincraftbier.be/products/nepo-crazy-lines-series-polar-shift</url>
+    <brewery_name>Nepo Brewing</brewery_name>
+    <price>4.87</price>
+    <regular_price>5,73</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5242198196.webp</image>
+    <beer_description>A hearty and refreshing beer where hops take center stage. Tropical fruits, citrus, and resin notes meet a distinct bitterness to create an intense, new wave character. Nepo - Crazy Lines Series: Polar Shift</beer_description>
+    <beer_style>IPA - Cold</beer_style>
+    <beer_abv>6.6%</beer_abv>
+    <beer_volume>500 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Poland</brewery_country>
+    <date_best_before>2026-08-16</date_best_before>
+    <untappd_id>6395737</untappd_id>
+  </item>
+  <item>
+    <id>6362970</id>
+    <ecommerce_id>784590113</ecommerce_id>
+    <title>Crazy Lines Series: Fun</title>
+    <url>https://hopincraftbier.be/products/nepo-crazy-lines-series-fun</url>
+    <brewery_name>Nepo Brewing</brewery_name>
+    <price>4.9</price>
+    <regular_price>5,77</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5242202834.webp</image>
+    <beer_description>Neipa hopped with the HBC 630 variety Nepo - Crazy Lines Series: Fun</beer_description>
+    <beer_style>IPA - New England / Hazy</beer_style>
+    <beer_abv>6.4%</beer_abv>
+    <beer_volume>500 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Poland</brewery_country>
+    <date_best_before>2026-07-09</date_best_before>
+    <untappd_id>6362970</untappd_id>
+  </item>
+  <item>
+    <id>6404035</id>
+    <ecommerce_id>784590102</ecommerce_id>
+    <title>Genesis</title>
+    <url>https://hopincraftbier.be/products/basqueland-genesis</url>
+    <brewery_name>Basqueland Brewing</brewery_name>
+    <price>4.6</price>
+    <regular_price>6,13</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5242233040.webp</image>
+    <beer_description>Genesis is a Hazy IPA that pours a pale golden color. It has a dry-hop of Palisade and Cashmere hops, which creates a kaleidoscope of aromas with notes of ripe melon, pineapple, and fresh-cut grass. Each sip reveals a soft body that fills the palate with refreshing fruity and floral flavors. A micro-universe of compounds for a universe of flavors. Basqueland - Genesis</beer_description>
+    <beer_style>IPA - New England / Hazy</beer_style>
+    <beer_abv>5.8%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Spain</brewery_country>
+    <date_best_before>06/2026</date_best_before>
+    <untappd_id>6404035</untappd_id>
+  </item>
+  <item>
+    <id>6402383</id>
+    <ecommerce_id>784587841</ecommerce_id>
+    <title>TopTen</title>
+    <url>https://hopincraftbier.be/products/basqueland-topten</url>
+    <brewery_name>Basqueland Brewing</brewery_name>
+    <price>5.36</price>
+    <regular_price>7,15</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5242233052.webp</image>
+    <beer_description>For ten years, our mission has been to brew exceptional beers. To celebrate this milestone, we've created Top Ten, the centerpiece of our anniversary series and the official beer of our tenth birthday. This commemorative DDH DIPA represents everything we've learned and everything we're passionate about. Its design is a tribute to the landscapes, flora, and fauna of the Basque Country, which make our land so special. We've selected the best hops to give it a lush and powerful character, with 25g/L of hops that highlight the intense tropical notes accompanied by red fruits like currants, with an intense 'dank' character and a rounded flavor that take the beer straight to the top. Basqueland - TopTen</beer_description>
+    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
+    <beer_abv>8%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Spain</brewery_country>
+    <date_best_before>06/2026</date_best_before>
+    <untappd_id>6402383</untappd_id>
+  </item>
+  <item>
+    <id>3483906</id>
+    <ecommerce_id>784594095</ecommerce_id>
+    <title>Winner Winner Citra Dinner</title>
+    <url>https://hopincraftbier.be/products/basqueland-winner-winner-citra-dinner</url>
+    <brewery_name>Basqueland Brewing</brewery_name>
+    <price>3.58</price>
+    <regular_price>7,15</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5242222879.webp</image>
+    <beer_description>10th ANNIVERSARY SERIES: 10 beers, 10 moments that made history. To celebrate our 10th anniversary, we’ve brought back Winner Winner Citra Dinner, one of the most influential beers in our history. We were pioneers in combining different formats of the same hop to maximize its aromatic power. In this case, it’s all about Citra. We’ve blended Citra T90, Citra BBC, Citra Cryo, Citra Incognito, and Citra Hyperboost to unleash a winning intensity and range of aromas: grapefruit, lime, guava, passion fruit, along with resinous and “dank” notes. It’s a true celebration of one of our most beloved hops. Basqueland - Winner Winner Citra Dinner</beer_description>
+    <beer_style>IPA - Imperial / Double</beer_style>
+    <beer_abv>8.6%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Spain</brewery_country>
+    <date_best_before>05/2026</date_best_before>
+    <untappd_id>3483906</untappd_id>
+  </item>
+  <item>
+    <id>6423967</id>
+    <ecommerce_id>784587840</ecommerce_id>
+    <title>Omnivore</title>
+    <url>https://hopincraftbier.be/products/basqueland-omnivore</url>
+    <brewery_name>Basqueland Brewing</brewery_name>
+    <price>4.81</price>
+    <regular_price>6,41</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5242208483.webp</image>
+    <beer_description>Our brewers, in a stroke of genius, have forged a new path, crafting a Vegan Oat Cream IPA so smooth it feels like a dream. We bypassed the trad ways, skipping the lactose and let the colossal dose of oats make its magic. The result is a body as soft and boundless as a cloud. It's bursting with intense tropical aromas of passion fruit, and mango balanced with a 'dank' hemp profile. A truly snackable hop bite with a oat heart. Basqueland - Omnivore</beer_description>
+    <beer_style>IPA - Other</beer_style>
+    <beer_abv>6.2%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Spain</brewery_country>
+    <date_best_before>06/2026</date_best_before>
+    <untappd_id>6423967</untappd_id>
   </item>
   <item>
     <id>6415742</id>
@@ -5100,6 +5442,42 @@
     <untappd_id>4229403</untappd_id>
   </item>
   <item>
+    <id>6300505</id>
+    <ecommerce_id>780633044</ecommerce_id>
+    <title>Drake Passage</title>
+    <url>https://hopincraftbier.be/products/azvex-drake-passage</url>
+    <brewery_name>Azvex Brewing Company</brewery_name>
+    <price>4.08</price>
+    <regular_price>8,15</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5159974003.webp</image>
+    <beer_description>Citra, Peacharine and Nelson Sauvin Imperial IPA. Azvex - Drake Passage</beer_description>
+    <beer_style>IPA - Imperial / Double</beer_style>
+    <beer_abv>8%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>England</brewery_country>
+    <date_best_before>2026-03-11</date_best_before>
+    <untappd_id>6300505</untappd_id>
+  </item>
+  <item>
+    <id>6359265</id>
+    <ecommerce_id>780631773</ecommerce_id>
+    <title>Mariana's Web</title>
+    <url>https://hopincraftbier.be/products/azvex-marianas-web</url>
+    <brewery_name>Azvex Brewing Company</brewery_name>
+    <price>3.44</price>
+    <regular_price>6,87</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5159964496.webp</image>
+    <beer_description>Mosaic, Nelson Sauvin, Waimea &amp; Peacharine Azvex - Mariana's Web</beer_description>
+    <beer_style>IPA - New England / Hazy</beer_style>
+    <beer_abv>6.4%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>England</brewery_country>
+    <date_best_before>2026-04-30</date_best_before>
+    <untappd_id>6359265</untappd_id>
+  </item>
+  <item>
     <id>5559381</id>
     <ecommerce_id>780359012</ecommerce_id>
     <title>Rip This Joint (2023)</title>
@@ -5132,6 +5510,24 @@
     <untappd_id>6247096</untappd_id>
   </item>
   <item>
+    <id>6375119</id>
+    <ecommerce_id>779012801</ecommerce_id>
+    <title>Roulez Jeunesse</title>
+    <url>https://hopincraftbier.be/products/fauve-roulez-jeunesse</url>
+    <brewery_name>Fauve</brewery_name>
+    <price>3.18</price>
+    <regular_price>6,36</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5147846893.webp</image>
+    <beer_description>West Coast IPA DDH that combines tradition and modernity with 'old school' hops, Centennial and Chinook, which bring their resinous and racy aroma, and Citra for a very fruity explosiveness! Collab' with the Burgundy brewery Independent Beer Co. Fauve - Roulez Jeunesse</beer_description>
+    <beer_style>IPA - American</beer_style>
+    <beer_abv>6.3%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>France</brewery_country>
+    <date_best_before>2026-05-19</date_best_before>
+    <untappd_id>6375119</untappd_id>
+  </item>
+  <item>
     <id>6314901</id>
     <ecommerce_id>779008794</ecommerce_id>
     <title>Révélateur D'Ombres</title>
@@ -5147,6 +5543,42 @@
     <brewery_country>France</brewery_country>
     <date_best_before>2030-06-13</date_best_before>
     <untappd_id>6314901</untappd_id>
+  </item>
+  <item>
+    <id>6292774</id>
+    <ecommerce_id>779012800</ecommerce_id>
+    <title>Renaître De Ses Cendres</title>
+    <url>https://hopincraftbier.be/products/fauve-renaitre-de-ses-cendres</url>
+    <brewery_name>Fauve</brewery_name>
+    <price>3.72</price>
+    <regular_price>7,44</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5147846912.webp</image>
+    <beer_description>A double NEIPA DDH, in collaboration with the German brewery Sudden Death. Powerful and juicy, it's brewed with three characterful hops: Mosaic, Nelson Sauvin, and Sabro, for an explosion of tropical flavors, freshness, and roundness. A beer that proves that, even after the shock, we can always come back stronger. And that the best response to sudden death... is rebirth. Fauve - Renaitre De Ses Cendres</beer_description>
+    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
+    <beer_abv>8%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>France</brewery_country>
+    <date_best_before>2026-04-03</date_best_before>
+    <untappd_id>6292774</untappd_id>
+  </item>
+  <item>
+    <id>6343725</id>
+    <ecommerce_id>779008272</ecommerce_id>
+    <title>J'irai Où Tu Iras</title>
+    <url>https://hopincraftbier.be/products/fauve-jirai-ou-tu-iras</url>
+    <brewery_name>Fauve</brewery_name>
+    <price>3.25</price>
+    <regular_price>6,50</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5147846919.webp</image>
+    <beer_description>This NEIPA DDH is the result of a collaboration with Brasserie du Bas-Canada. These Quebec hop stars crossed the Atlantic with their own Citra in their suitcases, which we married with ours, adding Motueka and Simcoe. It's an aromatic bomb, juicy as can be, and resolutely transatlantic. We hope you find it as harmonious as a legendary Celine Dion / JJG duet. Fauve - J'irai Ou Tu Iras</beer_description>
+    <beer_style>IPA - New England / Hazy</beer_style>
+    <beer_abv>6.5%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>France</brewery_country>
+    <date_best_before>2026-04-25</date_best_before>
+    <untappd_id>6343725</untappd_id>
   </item>
   <item>
     <id>6314891</id>
@@ -5512,6 +5944,24 @@
     <untappd_id>4166507</untappd_id>
   </item>
   <item>
+    <id>6342727</id>
+    <ecommerce_id>770503529</ecommerce_id>
+    <title>Tres Hekse</title>
+    <url>https://hopincraftbier.be/products/to-ol-tres-hekse</url>
+    <brewery_name>To Øl</brewery_name>
+    <price>7</price>
+    <regular_price>8,23</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/770503529/5073875430.webp</image>
+    <beer_description>Cross-continental hop witchcraft with our friends at Brujos — Idaho 7, Citra, Simcoe, and experimental Rakau from New Zealand for extra tropical juiciness. This hazy triple hits with tropical aromatics that'll transport you from Copenhagen to Mexico City in one sip. To l - Tres Hekse</beer_description>
+    <beer_style>IPA - Triple New England / Hazy</beer_style>
+    <beer_abv>10%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Denmark</brewery_country>
+    <date_best_before>2026-07-01</date_best_before>
+    <untappd_id>6342727</untappd_id>
+  </item>
+  <item>
     <id>6339811</id>
     <ecommerce_id>770507753</ecommerce_id>
     <title>Georgia Gold</title>
@@ -5862,6 +6312,42 @@
     <untappd_id>6299087</untappd_id>
   </item>
   <item>
+    <id>6296412</id>
+    <ecommerce_id>767289656</ecommerce_id>
+    <title>Crux</title>
+    <url>https://hopincraftbier.be/products/outer-range-crux</url>
+    <brewery_name>Outer Range Brewing Co.</brewery_name>
+    <price>3.44</price>
+    <regular_price>6,87</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5243283992.webp</image>
+    <beer_description>Hops: Strata • Krush Tasting Notes: Peach • Strawberry • Pine ABV: 6.5% Outer Range - Crux</beer_description>
+    <beer_style>IPA - American</beer_style>
+    <beer_abv>6.5%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>France</brewery_country>
+    <date_best_before>2026-04-28</date_best_before>
+    <untappd_id>6296412</untappd_id>
+  </item>
+  <item>
+    <id>4367493</id>
+    <ecommerce_id>767291143</ecommerce_id>
+    <title>Out of the Woods</title>
+    <url>https://hopincraftbier.be/products/outer-range-out-of-the-woods</url>
+    <brewery_name>Outer Range Brewing Co.</brewery_name>
+    <price>3.67</price>
+    <regular_price>7,34</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5243284198.webp</image>
+    <beer_description>DIPA. Hops: Nelson, Citra, Simcoe. Tasting Notes: Hint of Pine, Passion Fruit, Guava. ABV: 7.5% Outer Range - Out of the Woods</beer_description>
+    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
+    <beer_abv>7.5%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>France</brewery_country>
+    <date_best_before>2026-05-11</date_best_before>
+    <untappd_id>4367493</untappd_id>
+  </item>
+  <item>
     <id>6293352</id>
     <ecommerce_id>765275160</ecommerce_id>
     <title>Hops Fwd</title>
@@ -5950,6 +6436,42 @@
     <untappd_id>6164819</untappd_id>
   </item>
   <item>
+    <id>5894573</id>
+    <ecommerce_id>761859075</ecommerce_id>
+    <title>MEGA MUFFIN</title>
+    <url>https://hopincraftbier.be/products/stigbergets-mega-muffin</url>
+    <brewery_name>Stigbergets Bryggeri</brewery_name>
+    <price>5.28</price>
+    <regular_price>7,04</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5000921830.webp</image>
+    <beer_description>with YCH 701 HyperBoost Stigbergets - MEGA MUFFIN</beer_description>
+    <beer_style>IPA - New England / Hazy</beer_style>
+    <beer_abv>7.5%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Sweden</brewery_country>
+    <date_best_before>2026-05-22</date_best_before>
+    <untappd_id>5894573</untappd_id>
+  </item>
+  <item>
+    <id>6016175</id>
+    <ecommerce_id>761858328</ecommerce_id>
+    <title>EL CAPITANO</title>
+    <url>https://hopincraftbier.be/products/stigbergets-el-capitano</url>
+    <brewery_name>Stigbergets Bryggeri</brewery_name>
+    <price>5.39</price>
+    <regular_price>7,18</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5000915486.webp</image>
+    <beer_description>Let’s do a pelican but call it EL CAPITANO. The captain of all DIPA. Stigbergets - EL CAPITANO</beer_description>
+    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
+    <beer_abv>8.3%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Sweden</brewery_country>
+    <date_best_before>2026-05-27</date_best_before>
+    <untappd_id>6016175</untappd_id>
+  </item>
+  <item>
     <id>6187809</id>
     <ecommerce_id>761858327</ecommerce_id>
     <title>TOP PICK</title>
@@ -6020,6 +6542,24 @@
     <untappd_id>6291430</untappd_id>
   </item>
   <item>
+    <id>6256812</id>
+    <ecommerce_id>756989449</ecommerce_id>
+    <title>Oban</title>
+    <url>https://hopincraftbier.be/products/noctem-artisanss-oban</url>
+    <brewery_name>Noctem Artisans Brasseurs</brewery_name>
+    <price>5.44</price>
+    <regular_price>10,88</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4966303669.webp</image>
+    <beer_description>Noctem Artisanss - Oban</beer_description>
+    <beer_style>IPA - Triple New England / Hazy</beer_style>
+    <beer_abv>10%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Canada</brewery_country>
+    <date_canned>2025-05-20</date_canned>
+    <untappd_id>6256812</untappd_id>
+  </item>
+  <item>
     <id>6280326</id>
     <ecommerce_id>756989447</ecommerce_id>
     <title>Château</title>
@@ -6085,6 +6625,23 @@
     <beer_package>bottle</beer_package>
     <brewery_country>United States</brewery_country>
     <untappd_id>6277002</untappd_id>
+  </item>
+  <item>
+    <id>4201496</id>
+    <ecommerce_id>756989899</ecommerce_id>
+    <title>Neo-baa-litan (Chocolate)</title>
+    <url>https://hopincraftbier.be/products/baa-baa-brewhouse-neo-baa-litan-chocolate</url>
+    <brewery_name>Baa Baa Brewhouse</brewery_name>
+    <price>9.95</price>
+    <regular_price>13,26</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4965606648.webp</image>
+    <beer_description>Strawberry, Chocolate, and Fluff - series inspired by AJ Baa Baa Brewhouse - Neo-baa-litan (Chocolate)</beer_description>
+    <beer_style>Sour - Fruited</beer_style>
+    <beer_abv>5.51%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>United States</brewery_country>
+    <untappd_id>4201496</untappd_id>
   </item>
   <item>
     <id>6253097</id>
@@ -6190,6 +6747,23 @@
     <untappd_id>6263801</untappd_id>
   </item>
   <item>
+    <id>6242680</id>
+    <ecommerce_id>751542515</ecommerce_id>
+    <title>Be Kind, Rewind</title>
+    <url>https://hopincraftbier.be/products/tin-barn-be-kind-rewind</url>
+    <brewery_name>Tin Barn Brewing</brewery_name>
+    <price>5.99</price>
+    <regular_price>11,97</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5438330689.webp</image>
+    <beer_description>Because Beer is Better with Friends, Be Kind, Rewind is a collab with our Carolina friends Leah &amp; JT of @replaybrewing &amp; Carly &amp; Nick of @funguysbrewing . This Triple New England was hopped with Citra, Nectaron and HBC 638. We timed this release so that we could have it ready to pour along side our friends at @yah_brew_mountjoy 90’s inspired beer fest this weekend, Fresh Brews in Pennsylvania. . Tin Barn - Be Kind, Rewind</beer_description>
+    <beer_style>IPA - Triple New England / Hazy</beer_style>
+    <beer_abv>9.5%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>United States</brewery_country>
+    <untappd_id>6242680</untappd_id>
+  </item>
+  <item>
     <id>2977936</id>
     <ecommerce_id>751537020</ecommerce_id>
     <title>Just Another T-Shirt Shop</title>
@@ -6206,6 +6780,110 @@
     <brewery_country>United States</brewery_country>
     <date_canned>2025-05-01</date_canned>
     <untappd_id>2977936</untappd_id>
+  </item>
+  <item>
+    <id>6242674</id>
+    <ecommerce_id>751542512</ecommerce_id>
+    <title>Baby G.O.A.T.</title>
+    <url>https://hopincraftbier.be/products/tin-barn-baby-g-o-a-t</url>
+    <brewery_name>Tin Barn Brewing</brewery_name>
+    <price>5.64</price>
+    <regular_price>11,28</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5438339783.webp</image>
+    <beer_description>Introducing the newest in our Baby Animal Series - Baby G.O.A.T! This single New England IPA was hopped with Citra, Bru-1, and Motueka to create a juicy pineapple bomb that is the Greatest of All Time! Tin Barn - Baby G.O.A.T.</beer_description>
+    <beer_style>IPA - New England / Hazy</beer_style>
+    <beer_abv>7.2%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>United States</brewery_country>
+    <untappd_id>6242674</untappd_id>
+  </item>
+  <item>
+    <id>6257025</id>
+    <ecommerce_id>751529280</ecommerce_id>
+    <title>Mosaic Monster</title>
+    <url>https://hopincraftbier.be/products/tin-barn-mosaic-monster</url>
+    <brewery_name>Tin Barn Brewing</brewery_name>
+    <price>5.81</price>
+    <regular_price>11,62</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5438339789.webp</image>
+    <beer_description>This hazy beast of a Double New England IPA is double dry-hopped with an unruly dose of Mosaic and Citra. This juicy titan unleashes an explosive bouquet of mango, candied orange peel, and dank tropical haze to tame the monster within. It’s dangerously drinkable — unleash with caution. Tin Barn - Mosaic Monster</beer_description>
+    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
+    <beer_abv>8.4%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>United States</brewery_country>
+    <untappd_id>6257025</untappd_id>
+  </item>
+  <item>
+    <id>3736086</id>
+    <ecommerce_id>751529017</ecommerce_id>
+    <title>Tiny Esses</title>
+    <url>https://hopincraftbier.be/products/prairie-artisan-ales-tiny-esses</url>
+    <brewery_name>Prairie Artisan Ales</brewery_name>
+    <price>4.11</price>
+    <regular_price>8,22</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4962450125.webp</image>
+    <beer_description>Sour ale with Skittles Prairie Artisan Ales - Tiny Esses</beer_description>
+    <beer_style>Sour - Other</beer_style>
+    <beer_abv>5.9%</beer_abv>
+    <beer_volume>355 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>United States</brewery_country>
+    <date_canned>2025-03-18</date_canned>
+    <untappd_id>3736086</untappd_id>
+  </item>
+  <item>
+    <id>6237648</id>
+    <ecommerce_id>751542768</ecommerce_id>
+    <title>Bain D'agrumes</title>
+    <url>https://hopincraftbier.be/products/nano-cinco-bain-dagrumes</url>
+    <brewery_name>Nano Cinco</brewery_name>
+    <price>4.85</price>
+    <regular_price>9,70</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5438334691.webp</image>
+    <beer_description>Citrus Bath is a New England IPA in which we've taken the Citra experience to the next level: Citra T90 pellets (Coleman Agriculture), Citra Dynaboost (Yakima Chief) hot, and Citra Spectrum (John I. Haas) cold. And for even more zing, we added bitter orange peel and blood orange slices during the hot brewing process. The result? An ultra-juicy citrus explosion, with vibrant notes of lemon, grapefruit, and especially explosive orange notes. A true hoppy orange juice! Nano Cinco - Bain D'agrumes</beer_description>
+    <beer_style>IPA - New England / Hazy</beer_style>
+    <beer_abv>6.8%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Canada</brewery_country>
+    <untappd_id>6237648</untappd_id>
+  </item>
+  <item>
+    <id>6241284</id>
+    <ecommerce_id>751529015</ecommerce_id>
+    <title>Cinco</title>
+    <url>https://hopincraftbier.be/products/nano-cinco-cinco</url>
+    <brewery_name>Nano Cinco</brewery_name>
+    <price>5.47</price>
+    <regular_price>10,94</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5438334697.webp</image>
+    <beer_description>Cinco is a Double New England IPA hopped with Nelson Sauvin, HBC 1019, and Peacharine. It offers a silky body and an explosion of aromas of peach, nectarine, and ripe stone fruit. Cinco isn't just the name of the beer; it's also the name of Mathieu's dog, the brewmaster and co-founder of the brewery. It was Cinco who inspired the brewery's name almost 10 years ago, when we were just a group of friends brewing beer for fun in Mathieu's apartment. A name that stuck! A loyal, curious companion who was always underfoot during brewing. Nano Cinco - Cinco</beer_description>
+    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
+    <beer_abv>8.2%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Canada</brewery_country>
+    <untappd_id>6241284</untappd_id>
+  </item>
+  <item>
+    <id>6204619</id>
+    <ecommerce_id>751543259</ecommerce_id>
+    <title>Prickle Kitty</title>
+    <url>https://hopincraftbier.be/products/willibald-farm-prickle-kitty</url>
+    <brewery_name>Willibald Farm Brewery</brewery_name>
+    <price>5.3</price>
+    <regular_price>10,60</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/751543259/4933243774.png</image>
+    <beer_description>Double IPA with Simcoe, Sabro, and El Dorado. Willibald Farm - Prickle Kitty</beer_description>
+    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
+    <beer_abv>8.3%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Canada</brewery_country>
+    <date_canned>D1625</date_canned>
+    <untappd_id>6204619</untappd_id>
   </item>
   <item>
     <id>6092135</id>
@@ -6258,6 +6936,23 @@
     <brewery_country>United States</brewery_country>
     <date_canned>2025-04-21</date_canned>
     <untappd_id>6236757</untappd_id>
+  </item>
+  <item>
+    <id>3523256</id>
+    <ecommerce_id>751529274</ecommerce_id>
+    <title>Hydra | Apricot + Mango + Raspberry</title>
+    <url>https://hopincraftbier.be/products/mortalis-hydra-apricot-mango-raspberry</url>
+    <brewery_name>Mortalis Brewing Company</brewery_name>
+    <price>6.67</price>
+    <regular_price>13,33</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4932639897.png</image>
+    <beer_description>This Fruited Sour blends apricot, mango, and raspberry to form just one of this monster’s many heads. Keep your eyes peeled for even more flavor combinations. Mortalis - Hydra | Apricot + Mango + Raspberry</beer_description>
+    <beer_style>Sour - Smoothie / Pastry</beer_style>
+    <beer_abv>7%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>United States</brewery_country>
+    <untappd_id>3523256</untappd_id>
   </item>
   <item>
     <id>4990447</id>
@@ -6364,6 +7059,23 @@
     <brewery_country>United States</brewery_country>
     <date_canned>2025-01-23</date_canned>
     <untappd_id>6194337</untappd_id>
+  </item>
+  <item>
+    <id>6222118</id>
+    <ecommerce_id>751542766</ecommerce_id>
+    <title>Braaaaaaaains - Billions of Peaches</title>
+    <url>https://hopincraftbier.be/products/drekker-braaaaaaaains-billions-of-peaches</url>
+    <brewery_name>Drekker Brewing Company</brewery_name>
+    <price>5.98</price>
+    <regular_price>11,96</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5484670818.png</image>
+    <beer_description>Billions of Peaches Braaaaaaaains is loaded up with three commas worth of peaches, more peaches, a few more peaches, apricot and some more apricot. Then we hit it with our double secret smoothie treatment of sea salt, lactose and vanilla beans. Drekker - Braaaaaaaains - Billions of Peaches</beer_description>
+    <beer_style>Sour - Smoothie / Pastry</beer_style>
+    <beer_abv>6.5%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>United States</brewery_country>
+    <untappd_id>6222118</untappd_id>
   </item>
   <item>
     <id>6205488</id>
@@ -6521,6 +7233,23 @@
     <untappd_id>6241102</untappd_id>
   </item>
   <item>
+    <id>6189849</id>
+    <ecommerce_id>743661489</ecommerce_id>
+    <title>CHONK: Dark Cherry</title>
+    <url>https://hopincraftbier.be/products/drekker-chonk-dark-cherry</url>
+    <brewery_name>Drekker Brewing Company</brewery_name>
+    <price>5.98</price>
+    <regular_price>11.96</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/743661489/5484692282.png</image>
+    <beer_description>OH LAWD HE BACK AGAIN! Our lovable absolute unit returns with our latest exploration into complete absurdity. This chonky boi is diggin’ deep within the darkest corners of the freezer, scoopin’ up gobs of dark cherry and decadent dark chocolate. Cue the intensified heavy breathing. *CONTAINS LACTOSE Drekker - CHONK: Dark Cherry</beer_description>
+    <beer_style>Sour - Smoothie / Pastry</beer_style>
+    <beer_abv>6.6%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>United States</brewery_country>
+    <untappd_id>6189849</untappd_id>
+  </item>
+  <item>
     <id>6127069</id>
     <ecommerce_id>739491522</ecommerce_id>
     <title>X Anniversary 6/10 Quadrupel BBA</title>
@@ -6664,6 +7393,24 @@
     <untappd_id>6180169</untappd_id>
   </item>
   <item>
+    <id>6117115</id>
+    <ecommerce_id>735435484</ecommerce_id>
+    <title>Granny's Candy Bowl</title>
+    <url>https://hopincraftbier.be/products/dankhouse-grannys-candy-bowl</url>
+    <brewery_name>DankHouse Brewing Company</brewery_name>
+    <price>5.13</price>
+    <regular_price>10.26</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4953164746.webp</image>
+    <beer_description>We fruited this thing with Strawberry, Raspberry, Blackberry, and Cherry. DankHouse - Granny's Candy Bowl</beer_description>
+    <beer_style>Sour - Fruited</beer_style>
+    <beer_abv>6%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>United States</brewery_country>
+    <date_canned>2025-03-24</date_canned>
+    <untappd_id>6117115</untappd_id>
+  </item>
+  <item>
     <id>6189429</id>
     <ecommerce_id>735452033</ecommerce_id>
     <title>Coule</title>
@@ -6679,6 +7426,24 @@
     <beer_package>can</beer_package>
     <brewery_country>Canada</brewery_country>
     <untappd_id>6189429</untappd_id>
+  </item>
+  <item>
+    <id>6186139</id>
+    <ecommerce_id>735452031</ecommerce_id>
+    <title>Color Theory</title>
+    <url>https://hopincraftbier.be/products/spyglass-color-theory</url>
+    <brewery_name>Spyglass Brewing Company</brewery_name>
+    <price>5.64</price>
+    <regular_price>11.28</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4953184860.webp</image>
+    <beer_description>A Sour Ale with papayas, pistachio nuts, raspberries, and vanilla soft serve. Spyglass - Color Theory</beer_description>
+    <beer_style>Sour - Fruited</beer_style>
+    <beer_abv>6.2%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>United States</brewery_country>
+    <date_canned>2025-03-20</date_canned>
+    <untappd_id>6186139</untappd_id>
   </item>
   <item>
     <id>6197367</id>
@@ -6715,6 +7480,6 @@
     <date_canned>2025-03-17</date_canned>
     <untappd_id>6186985</untappd_id>
   </item>
-  <timestamp>1779286717</timestamp>
-  <gen_date>20/05/2026 16:18:37</gen_date>
+  <timestamp>1779290108</timestamp>
+  <gen_date>20/05/2026 17:15:08</gen_date>
 </feed>
