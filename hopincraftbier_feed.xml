@@ -1045,7 +1045,8 @@
     <title>You Won’t Believe It’s Not Crumble!</title>
     <url>https://hopincraftbier.be/products/vault-city-you-wont-believe-its-not-crumble</url>
     <brewery_name>Vault City Brewing</brewery_name>
-    <price>9.61</price>
+    <price>8.17</price>
+    <regular_price>9,61</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/824777416/5667817656.webp</image>
     <beer_description>Brought to you with our pals at Sudden Death Brewing Co., this smoothie sour is fresh out the oven. Jam packed with unfermented cherries, strawberries plums and apples, then layered with cinnamon warmth and pastry sweetness. “I genuinely can’t believe it’s not crumble!” – Joe Cruickshank, Sour Beer Enthusiast. Sour Scale:3 Allergens: Malted Barley &amp; Oats (Gluten) Vault City - You Wont Believe Its Not Crumble!</beer_description>
     <beer_style>Sour - Smoothie / Pastry</beer_style>
@@ -1062,7 +1063,8 @@
     <title>Stoopid: Passionfruit, Apricot, Mango &amp; Coconut</title>
     <url>https://hopincraftbier.be/products/vault-city-stoopid-passionfruit-apricot-mango--coconut</url>
     <brewery_name>Vault City Brewing</brewery_name>
-    <price>9.73</price>
+    <price>8.27</price>
+    <regular_price>9,73</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/824777415/5667817914.webp</image>
     <beer_description>Our series of smoothie sours is dedicated to anyone who’s ever asked; “why can’t beer just taste like beer?”. Jam-packed with juicy mango, passion fruit, apricot and the smooth taste of creamy coconut. Thicc, juicy and outrageously tasty in every stoopid sip. Allergens: Malted Barley (Gluten) Vault City - Stoopid: Passionfruit, Apricot, Mango &amp; Coconut</beer_description>
     <beer_style>Sour - Smoothie / Pastry</beer_style>
@@ -3390,7 +3392,8 @@
     <title>You Can't Control</title>
     <url>https://hopincraftbier.be/products/pollys-you-cant-control</url>
     <brewery_name>Polly's Brew Co.</brewery_name>
-    <price>6.55</price>
+    <price>5.57</price>
+    <regular_price>6,55</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5505440361.png</image>
     <beer_description>Galaxy, Mosaic, Mosaic Lupomax Polly's - You Can't Control</beer_description>
     <beer_style>IPA - New England / Hazy</beer_style>
@@ -3441,7 +3444,8 @@
     <title>8th Birthday - Danish Pastry Imperial Stout</title>
     <url>https://hopincraftbier.be/products/pollys-8th-birthday-danish-pastry-imperial-stout</url>
     <brewery_name>Polly's Brew Co.</brewery_name>
-    <price>7.06</price>
+    <price>6</price>
+    <regular_price>7,06</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5505372860.png</image>
     <beer_description>POLLY'S 8th BIRTHDAY It’s always a given that when it comes to Birthday Beer time, we’re always going to dip over to the dark side. Who better then to extend an invitation to share knowledge and expertise with than one of the best in the game today when it comes to imperial stouts, and one which we’ve worked closely with since their launch, Azvex? As longtime admirers of their big, decadent pastry stouts, we couldn’t think of anyone better to work with than our friends from just over the water in Liverpool. Working our recipe around the fika breaks we have at Polly’s every working day, we loved the idea of creating the flavour profile of a danish pastry in this beer - utilising the fresh vanilla we’ve applied to our Oat Cream beers, alongside raisin for a subtle fruit sweetness, and a final flourish of cinnamon to balance everything out. Featuring artwork produced by the wonderful local artist and good friend of the brewery Jake Cross, this beer took up a grand total of five separate brew slots in our brewing week, with a ridiculous twenty-four hour slow rolling boil to concentrate all those sugars. the result is a slick, oily and decadent imperial stout - rich in flavour but not cloying, and widely regarded within the brewery as our best imperial stout brewed over our eight year history. Polly's - 8th Birthday - Danish Pastry Imperial Stout</beer_description>
     <beer_style>Stout - Imperial / Double Pastry</beer_style>
@@ -3543,7 +3547,8 @@
     <title>Eclipse</title>
     <url>https://hopincraftbier.be/products/norm-eclipse</url>
     <brewery_name>Norm Brewing</brewery_name>
-    <price>5.55</price>
+    <price>4.72</price>
+    <regular_price>5,55</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5500055513.png</image>
     <beer_description>DDH IPA Hops : Eclipse / Nelson Sauvin IPA at 7%, slightly stronger than usual (winter is coming) and brewed with a combo we deeply love ! 2 hops and 2 countries, Eclipse from Australia and Nelson Sauvin from New Zealand. It’s actually pretty long since we used a hop from Australia ! Eclipse offers sweet mandarin flavors and zesty citrus peel and fresh pine needles. We pair it with our house favorite, Nelson Sauvin. Bringing his famous and distinct gooseberry and Sauvignon Blanc grapes. Juicy, fresh and balanced ! Norm - Eclipse</beer_description>
     <beer_style>IPA - New England / Hazy</beer_style>
@@ -3560,7 +3565,8 @@
     <title>Northern Lights</title>
     <url>https://hopincraftbier.be/products/norm-northern-lights</url>
     <brewery_name>Norm Brewing</brewery_name>
-    <price>6.22</price>
+    <price>5.29</price>
+    <regular_price>6,22</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5500024981.png</image>
     <beer_description>DDH TIPA HOPS : RAKAU / NECTARON / CITRA Triple New England IPA double dry hopped with Rakau, Nectaron, Rakau Sub Zero and Citra. Rakau burst with apricot, plum, mango, pear, and other stone fruits while Nectaron brings huge aroma of passion fruit, peach, grapefruit, and pineapple. Just a hint of Citra to give so more tropical notes. The aromatic is fruity, clean and explosive ! Norm - Northern Lights</beer_description>
     <beer_style>IPA - Triple New England / Hazy</beer_style>
@@ -7462,6 +7468,6 @@
     <date_canned>2025-03-17</date_canned>
     <untappd_id>6186985</untappd_id>
   </item>
-  <timestamp>1779285607</timestamp>
-  <gen_date>20/05/2026 16:00:07</gen_date>
+  <timestamp>1779286506</timestamp>
+  <gen_date>20/05/2026 16:15:06</gen_date>
 </feed>
