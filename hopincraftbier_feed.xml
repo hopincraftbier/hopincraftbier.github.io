@@ -313,6 +313,70 @@
     <untappd_id>6615705</untappd_id>
   </item>
   <item>
+    <id>6655572</id>
+    <ecommerce_id>829909416</ecommerce_id>
+    <title>TNT</title>
+    <url>https://hopincraftbier.be/products/hoppy-people-tnt</url>
+    <brewery_name>Hoppy People</brewery_name>
+    <price>7.42</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/829909416/5712077231.png</image>
+    <beer_description>This beer was brewed in collaboration with Xül and dry hopped with Citra, Simcoe, Riwaka and Nelson Sauvin. Canned on the 27th of April 2026. Hoppy People - TNT</beer_description>
+    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
+    <beer_abv>8%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Switzerland</brewery_country>
+    <untappd_id>6655572</untappd_id>
+  </item>
+  <item>
+    <id>6655575</id>
+    <ecommerce_id>829911371</ecommerce_id>
+    <title>Soul Destroyer</title>
+    <url>https://hopincraftbier.be/products/hoppy-people-soul-destroyer</url>
+    <brewery_name>Hoppy People</brewery_name>
+    <price>7.43</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/829911371/5712077237.png</image>
+    <beer_description>This beer was brewed in collaboration with Messorem and dry hopped with Galaxy, Eclipse, Citra, Mosaic and Riwaka. Canned on the 27th of April 2026. Hoppy People - Soul Destroyer</beer_description>
+    <beer_style>IPA - Triple New England / Hazy</beer_style>
+    <beer_abv>10%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Switzerland</brewery_country>
+    <untappd_id>6655575</untappd_id>
+  </item>
+  <item>
+    <id>6655577</id>
+    <ecommerce_id>829908914</ecommerce_id>
+    <title>Hops With Benefits</title>
+    <url>https://hopincraftbier.be/products/hoppy-people-hops-with-benefits</url>
+    <brewery_name>Hoppy People</brewery_name>
+    <price>7.42</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/829908914/5712077485.png</image>
+    <beer_description>This beer was brewed in collaboration with Yakima Chief Hops and dry hopped with Citra Cryo, Simcoe Cryo, Mosaic Cryo, Simcoe T90 and Citra Hyperboost. Canned on the 27th of April 2026. Hoppy People - Hops With Benefits</beer_description>
+    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
+    <beer_abv>8%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Switzerland</brewery_country>
+    <untappd_id>6655577</untappd_id>
+  </item>
+  <item>
+    <id>6655567</id>
+    <ecommerce_id>829911370</ecommerce_id>
+    <title>Extratropical Cyclone</title>
+    <url>https://hopincraftbier.be/products/hoppy-people-extratropical-cyclone</url>
+    <brewery_name>Hoppy People</brewery_name>
+    <price>8.31</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/829911370/5712093023.png</image>
+    <beer_description>This beer was made in collaboration with Elmeleven and contains huge addition of Coconut from Philippines, Mango, Passionfruit and Banana. Hoppy People - Extratropical Cyclone</beer_description>
+    <beer_style>Sour - Smoothie / Pastry</beer_style>
+    <beer_abv>5.3%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Switzerland</brewery_country>
+    <untappd_id>6655567</untappd_id>
+  </item>
+  <item>
     <id>3683189</id>
     <ecommerce_id>828543684</ecommerce_id>
     <title>Political Flow</title>
@@ -7355,6 +7419,6 @@
     <date_canned>2025-03-17</date_canned>
     <untappd_id>6186985</untappd_id>
   </item>
-  <timestamp>1779269248</timestamp>
-  <gen_date>20/05/2026 11:27:28</gen_date>
+  <timestamp>1779270305</timestamp>
+  <gen_date>20/05/2026 11:45:05</gen_date>
 </feed>
