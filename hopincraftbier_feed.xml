@@ -654,6 +654,22 @@
     <untappd_id>6655090</untappd_id>
   </item>
   <item>
+    <id>6645967</id>
+    <ecommerce_id>827630016</ecommerce_id>
+    <title>Actias Prime</title>
+    <url>https://hopincraftbier.be/products/parish-actias-prime</url>
+    <brewery_name>Parish Brewing Co.</brewery_name>
+    <price>10.21</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/827630016/5690885629.png</image>
+    <beer_description>Prime means: In its original form. But metamorphosis is inevitable, natural, bright, and full of life. Actias Prime is a massive Triple IPA hopped with Strata and Strata CGX Nuvo, un-kilned whole cones flash-frozen at harvest to capture fresh hops at their most vibrant. This process locks in pure passion fruit intensity and juicy hop character. No brightness is lost between the farm and fermentation. Bold, saturated, and bursting with tropical fruit. From earth to glass, this is fresh hops fully realized, bursting with the kind of fruity notes that only happen when you capture nature at its prime. 9.6% ABV Parish - Actias Prime</beer_description>
+    <beer_style>IPA - Triple New England / Hazy</beer_style>
+    <beer_abv>9.6%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>United States</brewery_country>
+    <untappd_id>6645967</untappd_id>
+  </item>
+  <item>
     <id>6628386</id>
     <ecommerce_id>827630015</ecommerce_id>
     <title>Crashing the Boards</title>
@@ -7471,6 +7487,6 @@
     <date_canned>2025-03-17</date_canned>
     <untappd_id>6186985</untappd_id>
   </item>
-  <timestamp>1779444908</timestamp>
-  <gen_date>22/05/2026 12:15:08</gen_date>
+  <timestamp>1779446252</timestamp>
+  <gen_date>22/05/2026 12:37:32</gen_date>
 </feed>
