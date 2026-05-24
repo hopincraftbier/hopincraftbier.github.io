@@ -11,7 +11,7 @@
     <url>https://hopincraftbier.be/products/fuerst-wiacek-berlin-quartet-837368608</url>
     <brewery_name>FUERST WIACEK Berlin</brewery_name>
     <price>24.7</price>
-    <regular_price>0</regular_price>
+    <regular_price>26</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/837368608/5782838794.png</image>
     <beer_description>The FUERST WIACEK Berlin - Quartet contains: - It's All WavyIPA - New England / Hazy | 6,8% | 440 ml - Soft ApocalypseIPA - New England / Hazy | 6,8% | 440 ml - Hawt (2026)IPA - Imperial / Double New England / Hazy | 8% | 440 ml - Nelson Krush (2026)IPA - Imperial / Double | 8% | 440 ml</beer_description>
     <beer_style>IPA</beer_style>
@@ -7570,6 +7570,6 @@
     <date_canned>2025-03-17</date_canned>
     <untappd_id>6186985</untappd_id>
   </item>
-  <timestamp>1779614604</timestamp>
-  <gen_date>24/05/2026 11:23:24</gen_date>
+  <timestamp>1779615421</timestamp>
+  <gen_date>24/05/2026 11:37:01</gen_date>
 </feed>
