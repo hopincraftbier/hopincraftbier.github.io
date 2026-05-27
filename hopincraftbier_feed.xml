@@ -235,6 +235,22 @@
     <bundle_skus>6355397,6362970,6395737,6408280,6371184</bundle_skus>
   </item>
   <item>
+    <id>6672041</id>
+    <ecommerce_id>837354899</ecommerce_id>
+    <title>Port Wine X Brandy Barrel Aged Imperial Stout</title>
+    <url>https://hopincraftbier.be/products/arpus-port-wine-x-brandy-barrel-aged-imperial-stout</url>
+    <brewery_name>Ārpus Brewing Co.</brewery_name>
+    <price>9.93</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/837354899/5782849358.png</image>
+    <beer_description>A deep and luxurious Imperial Stout aged in a blend of Port wine and brandy barrels — all sourced from Portugal. Layers of dark chocolate, dried fruits, and rich malt meet notes of oak, warming spirit character, and subtle sweetness from the barrels. Complex, smooth, and built for slow enjoyment. Arpus Brewing Co. - Port Wine X Brandy Barrel Aged Imperial Stout</beer_description>
+    <beer_style>Stout - Imperial / Double</beer_style>
+    <beer_abv>13%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Latvia</brewery_country>
+    <untappd_id>6672041</untappd_id>
+  </item>
+  <item>
     <id>9000000030</id>
     <ecommerce_id>837368608</ecommerce_id>
     <title>FUERST WIACEK Berlin - Quartet</title>
@@ -7831,6 +7847,6 @@
     <date_canned>2025-03-17</date_canned>
     <untappd_id>6186985</untappd_id>
   </item>
-  <timestamp>1779876909</timestamp>
-  <gen_date>27/05/2026 12:15:09</gen_date>
+  <timestamp>1779877807</timestamp>
+  <gen_date>27/05/2026 12:30:07</gen_date>
 </feed>
