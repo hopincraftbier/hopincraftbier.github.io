@@ -45,25 +45,6 @@
     <bundle_skus>6355397,6362970,6395737,6408280,6371184</bundle_skus>
   </item>
   <item>
-    <id>9000000030</id>
-    <ecommerce_id>837368608</ecommerce_id>
-    <title>FUERST WIACEK Berlin - Quartet</title>
-    <url>https://hopincraftbier.be/products/fuerst-wiacek-berlin-quartet-837368608</url>
-    <brewery_name>FUERST WIACEK Berlin</brewery_name>
-    <price>25.04</price>
-    <regular_price>26.36</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/837368608/5782838794.png</image>
-    <beer_description>The FUERST WIACEK Berlin - Quartet contains: - It's All WavyIPA - New England / Hazy | 6,8% | 440 ml - Soft ApocalypseIPA - New England / Hazy | 6,8% | 440 ml - Hawt (2026)IPA - Imperial / Double New England / Hazy | 8% | 440 ml - Nelson Krush (2026)IPA - Imperial / Double | 8% | 440 ml</beer_description>
-    <beer_style>IPA</beer_style>
-    <beer_abv>6 - 8%</beer_abv>
-    <beer_volume>4x440 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Germany</brewery_country>
-    <beer_package_count>4</beer_package_count>
-    <beer_bundle>1</beer_bundle>
-    <bundle_skus>6673165,6690598,6674381,6690595</bundle_skus>
-  </item>
-  <item>
     <id>6653660</id>
     <ecommerce_id>836591267</ecommerce_id>
     <title>Slow Focus</title>
@@ -94,70 +75,6 @@
     <beer_package>can</beer_package>
     <brewery_country>Belgium</brewery_country>
     <untappd_id>6653661</untappd_id>
-  </item>
-  <item>
-    <id>6690598</id>
-    <ecommerce_id>833846606</ecommerce_id>
-    <title>Soft Apocalypse</title>
-    <url>https://hopincraftbier.be/products/fuerst-wiacek-berlin-soft-apocalypse</url>
-    <brewery_name>FUERST WIACEK Berlin</brewery_name>
-    <price>6.34</price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/833846606/5749236894.png</image>
-    <beer_description>Dry hopped with Citra, Nectaron &amp; HBC 638. FUERST WIACEK Berlin - Soft Apocalypse</beer_description>
-    <beer_style>IPA - New England / Hazy</beer_style>
-    <beer_abv>6.8%</beer_abv>
-    <beer_volume>440 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Germany</brewery_country>
-    <untappd_id>6690598</untappd_id>
-  </item>
-  <item>
-    <id>6690595</id>
-    <ecommerce_id>833839653</ecommerce_id>
-    <title>Nelson Krush (2026)</title>
-    <url>https://hopincraftbier.be/products/fuerst-wiacek-berlin-nelson-krush-2026</url>
-    <brewery_name>FUERST WIACEK Berlin</brewery_name>
-    <price>6.84</price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/833839653/5749236900.png</image>
-    <beer_description>TRIPLE dry hopped with Nelson Sauvin &amp; Krush - As your face approaches the glass you're greeted with the bright, intense aromas of grape, lychee and galia melon. Then as the beer hits your lips it's a tropical f**k storm of bitter green grape, kiwi, sweet green apple skin, succulent pear and zesty, refreshing lime. It's sticky and juicy and as thick as a bowl full of custard. Who says the third installment is always the worst?! This one feels like the grand finale! - Kiwi, Green Apple, Pear, Mango, Grape FUERST WIACEK Berlin - Nelson Krush (2026)</beer_description>
-    <beer_style>IPA - Imperial / Double</beer_style>
-    <beer_abv>8%</beer_abv>
-    <beer_volume>440 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Germany</brewery_country>
-    <untappd_id>6690595</untappd_id>
-  </item>
-  <item>
-    <id>6673165</id>
-    <ecommerce_id>833846605</ecommerce_id>
-    <title>It's All Wavy</title>
-    <url>https://hopincraftbier.be/products/fuerst-wiacek-berlin-its-all-wavy</url>
-    <brewery_name>FUERST WIACEK Berlin</brewery_name>
-    <price>6.34</price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/833846605/5749245161.png</image>
-    <beer_description>Dry hopped with Citra, Peacharine &amp; Riwaka. FUERST WIACEK Berlin - It's All Wavy</beer_description>
-    <beer_style>IPA - New England / Hazy</beer_style>
-    <beer_abv>6.8%</beer_abv>
-    <beer_volume>440 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Germany</brewery_country>
-    <untappd_id>6673165</untappd_id>
-  </item>
-  <item>
-    <id>6674381</id>
-    <ecommerce_id>833839652</ecommerce_id>
-    <title>Hawt (2026)</title>
-    <url>https://hopincraftbier.be/products/fuerst-wiacek-berlin-hawt-2026</url>
-    <brewery_name>FUERST WIACEK Berlin</brewery_name>
-    <price>6.84</price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/833839652/5749245173.png</image>
-    <beer_description>Dry hopped with Simcoe &amp; Mosaic. The dynamic duo of Simcoe and Mosaic make this DIPA so hot it’ll burn your tongue. This one smells of pine, forest soil, fresh orange zest and the deep green scent of marjoram. It’s all big chewy mouthfuls of lemon, lemongrass, sweet mint and that Mosaic classic, Juicy Fruit gum. It’s thicker than a crude oil milkshake and the finish lasts longer than the Duracell Bunny on amphetamines. Canned On: 14. Apr. 2026 FUERST WIACEK Berlin - Hawt (2026)</beer_description>
-    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
-    <beer_abv>8%</beer_abv>
-    <beer_volume>440 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Germany</brewery_country>
-    <untappd_id>6674381</untappd_id>
   </item>
   <item>
     <id>9000000029</id>
@@ -7593,6 +7510,6 @@
     <date_canned>2025-03-17</date_canned>
     <untappd_id>6186985</untappd_id>
   </item>
-  <timestamp>1779713106</timestamp>
-  <gen_date>25/05/2026 14:45:06</gen_date>
+  <timestamp>1779860828</timestamp>
+  <gen_date>27/05/2026 07:47:08</gen_date>
 </feed>
