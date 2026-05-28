@@ -220,26 +220,6 @@
     <bundle_skus>6598489,6447600,6628147,6423947</bundle_skus>
   </item>
   <item>
-    <id>9000000031</id>
-    <ecommerce_id>837479364</ecommerce_id>
-    <title>Nepo Brewing - Quintet</title>
-    <url>https://hopincraftbier.be/products/nepo-brewing-quintet</url>
-    <brewery_name>Nepo Brewing</brewery_name>
-    <price>24.16</price>
-    <regular_price>30.2</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/837479364/5783980000.png</image>
-    <beer_description>The Nepo Brewing - Quintet contains: - Nepo - Discover the Barycz ValleyIPA - Session | 5,5% | 500 ml - Nepo - Crazy Lines Series: FunIPA - New England / Hazy | 6,4% | 500 ml - Nepo - Crazy Lines Series: Polar ShiftIPA - Cold | 6,6% | 500 ml - Nepo - Dolcita - Meet Our Friends from USA - Yakima Chief HopsIPA - Imperial / Double New England / Hazy | 7,1% | 500 ml - Nepo - Crazy Lines Series: AvalancheIPA - Triple New England / Hazy | 8,5% | 500 ml</beer_description>
-    <beer_style>IPA</beer_style>
-    <beer_abv>5 - 8%</beer_abv>
-    <beer_volume>5x500 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Poland</brewery_country>
-    <date_best_before>2026-07-09</date_best_before>
-    <beer_package_count>5</beer_package_count>
-    <beer_bundle>1</beer_bundle>
-    <bundle_skus>6355397,6362970,6395737,6408280,6371184</bundle_skus>
-  </item>
-  <item>
     <id>6672041</id>
     <ecommerce_id>837354899</ecommerce_id>
     <title>Port Wine X Brandy Barrel Aged Imperial Stout</title>
@@ -577,26 +557,6 @@
     <date_best_before>2026-10-19</date_best_before>
     <date_canned>2026-04-28</date_canned>
     <untappd_id>6682878</untappd_id>
-  </item>
-  <item>
-    <id>9000000028</id>
-    <ecommerce_id>832205777</ecommerce_id>
-    <title>Basqueland Brewing - Triplet</title>
-    <url>https://hopincraftbier.be/products/basqueland-brewing-triplet</url>
-    <brewery_name>Basqueland Brewing</brewery_name>
-    <price>13.9</price>
-    <regular_price>19.69</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/832205777/5733519939.png</image>
-    <beer_description>The Basqueland Brewing - Triplet contains: - Basqueland - GenesisIPA - New England / Hazy | 5,8% | 440 ml - Basqueland - OmnivoreIPA - Other | 6,2% | 440 ml - Basqueland - TopTenIPA - Imperial / Double New England / Hazy | 8% | 440 ml</beer_description>
-    <beer_style>IPA</beer_style>
-    <beer_abv>5 - 8%</beer_abv>
-    <beer_volume>3x440 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Spain</brewery_country>
-    <date_best_before>2026-06-01</date_best_before>
-    <beer_package_count>3</beer_package_count>
-    <beer_bundle>1</beer_bundle>
-    <bundle_skus>6404035,6423967,6402383</bundle_skus>
   </item>
   <item>
     <id>6681644</id>
@@ -4734,24 +4694,6 @@
     <untappd_id>6489383</untappd_id>
   </item>
   <item>
-    <id>6471744</id>
-    <ecommerce_id>797597702</ecommerce_id>
-    <title>Aiako Harria / Peñas De Aia</title>
-    <url>https://hopincraftbier.be/products/basqueland-aiako-harria-penas-de-aia</url>
-    <brewery_name>Basqueland Brewing</brewery_name>
-    <price>6.26</price>
-    <regular_price>7,36</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5389986251.png</image>
-    <beer_description>Aiako Harria is a Double India Pale Ale, bold in character yet super smooth on the palate, with an exuberant, fruity, and uniquely expressive aroma profile. We’ve climbed to the top alongside our friends in Cornwall, Verdant Brewing, to toast this hop-forward collaborative gem for our 10th anniversary. Hops play a starring role in this beer: on one hand, Simcoe and Mosaic, classic varieties that bring familiar aromas with citrusy and tropical notes; on the other, Riwaka and Strata, more distinctive, giving Aia’s Peaks character, personality, and an unexpected touch that makes it unique. This is the sixth of nine collaborations celebrating our 10th anniversary, a beer that combines juiciness, texture, and hop-forward creativity. Basqueland - Aiako Harria / Penas De Aia</beer_description>
-    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
-    <beer_abv>8.2%</beer_abv>
-    <beer_volume>440 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Spain</brewery_country>
-    <date_best_before>2026-07-01</date_best_before>
-    <untappd_id>6471744</untappd_id>
-  </item>
-  <item>
     <id>6359238</id>
     <ecommerce_id>794188753</ecommerce_id>
     <title>Profan</title>
@@ -7861,6 +7803,6 @@
     <date_canned>2025-03-17</date_canned>
     <untappd_id>6186985</untappd_id>
   </item>
-  <timestamp>1779955207</timestamp>
-  <gen_date>28/05/2026 10:00:07</gen_date>
+  <timestamp>1779994806</timestamp>
+  <gen_date>28/05/2026 21:00:06</gen_date>
 </feed>
