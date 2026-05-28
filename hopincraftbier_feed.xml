@@ -95,6 +95,8 @@
     <beer_volume>440 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>England</brewery_country>
+    <date_best_before>2026-09-09</date_best_before>
+    <date_canned>2026-03-25</date_canned>
     <untappd_id>6650380</untappd_id>
   </item>
   <item>
@@ -111,6 +113,8 @@
     <beer_volume>440 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>England</brewery_country>
+    <date_best_before>2026-09-14</date_best_before>
+    <date_canned>2026-03-30</date_canned>
     <untappd_id>6663314</untappd_id>
   </item>
   <item>
@@ -192,6 +196,7 @@
     <beer_volume>375 ml</beer_volume>
     <beer_package>bottle</beer_package>
     <brewery_country>Ukraine</brewery_country>
+    <date_canned>2026-03-03</date_canned>
     <untappd_id>6318991</untappd_id>
   </item>
   <item>
@@ -248,6 +253,7 @@
     <beer_volume>440 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>Latvia</brewery_country>
+    <date_best_before>2027-04-30</date_best_before>
     <untappd_id>6672041</untappd_id>
   </item>
   <item>
@@ -363,6 +369,8 @@
     <beer_volume>440 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>Germany</brewery_country>
+    <date_best_before>0207-02-04</date_best_before>
+    <date_canned>2026-05-04</date_canned>
     <untappd_id>6690598</untappd_id>
   </item>
   <item>
@@ -379,6 +387,8 @@
     <beer_volume>440 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>Germany</brewery_country>
+    <date_best_before>2027-02-04</date_best_before>
+    <date_canned>2026-05-04</date_canned>
     <untappd_id>6690595</untappd_id>
   </item>
   <item>
@@ -395,6 +405,8 @@
     <beer_volume>440 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>Germany</brewery_country>
+    <date_best_before>2027-01-13</date_best_before>
+    <date_canned>2026-04-13</date_canned>
     <untappd_id>6673165</untappd_id>
   </item>
   <item>
@@ -411,6 +423,8 @@
     <beer_volume>440 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>Germany</brewery_country>
+    <date_best_before>2027-01-13</date_best_before>
+    <date_canned>2026-04-13</date_canned>
     <untappd_id>6674381</untappd_id>
   </item>
   <item>
@@ -7847,6 +7861,6 @@
     <date_canned>2025-03-17</date_canned>
     <untappd_id>6186985</untappd_id>
   </item>
-  <timestamp>1779877807</timestamp>
-  <gen_date>27/05/2026 12:30:07</gen_date>
+  <timestamp>1779955207</timestamp>
+  <gen_date>28/05/2026 10:00:07</gen_date>
 </feed>
