@@ -25,44 +25,6 @@
     <bundle_skus>6318991,6478604</bundle_skus>
   </item>
   <item>
-    <id>9000000036</id>
-    <ecommerce_id>837874752</ecommerce_id>
-    <title>Unseen Brewing Co. - Pair</title>
-    <url>https://hopincraftbier.be/products/unseen-brewing-co-pair</url>
-    <brewery_name>Unseen Brewing Co.</brewery_name>
-    <price>8.36</price>
-    <regular_price>8.8</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/837874752/5787636098.png</image>
-    <beer_description>The Unseen Brewing Co. - Pair contains: - Unseen - Slow FocusIPA - New England / Hazy | 7% | 330 ml - Unseen - Frozen RageIPA - Imperial / Double New England / Hazy | 8,2% | 330 ml</beer_description>
-    <beer_style>IPA</beer_style>
-    <beer_abv>7 - 8%</beer_abv>
-    <beer_volume>2x330 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Belgium</brewery_country>
-    <beer_package_count>2</beer_package_count>
-    <beer_bundle>1</beer_bundle>
-    <bundle_skus>6653660,6653661</bundle_skus>
-  </item>
-  <item>
-    <id>9000000035</id>
-    <ecommerce_id>837871529</ecommerce_id>
-    <title>Rivington Brewing Co - Triplet</title>
-    <url>https://hopincraftbier.be/products/rivington-brewing-co-triplet</url>
-    <brewery_name>Rivington Brewing Co</brewery_name>
-    <price>27.7</price>
-    <regular_price>29.16</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/837871529/5787631024.png</image>
-    <beer_description>The Rivington Brewing Co - Triplet contains: - Rivington - One By OneIPA - New England / Hazy | 6,5% | 500 ml - Rivington - FacultyIPA - Imperial / Double New England / Hazy | 8% | 500 ml - Rivington - Fear and EgoIPA - Triple | 10% | 500 ml</beer_description>
-    <beer_style>IPA</beer_style>
-    <beer_abv>6 - 10%</beer_abv>
-    <beer_volume>3x500 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>England</brewery_country>
-    <beer_package_count>3</beer_package_count>
-    <beer_bundle>1</beer_bundle>
-    <bundle_skus>6689037,5721027,6655592</bundle_skus>
-  </item>
-  <item>
     <id>9000000034</id>
     <ecommerce_id>837871508</ecommerce_id>
     <title>Track Brewing Company - Pair</title>
@@ -132,54 +94,6 @@
     <beer_package>bottle</beer_package>
     <brewery_country>Estonia</brewery_country>
     <untappd_id>6619576</untappd_id>
-  </item>
-  <item>
-    <id>6690768</id>
-    <ecommerce_id>837706629</ecommerce_id>
-    <title>The Doorway Effect</title>
-    <url>https://hopincraftbier.be/products/verdant-the-doorway-effect</url>
-    <brewery_name>Verdant Brewing Co</brewery_name>
-    <price>8.98</price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/837706629/5786818229.png</image>
-    <beer_description>An 8% New England DIPA brewed in collaboration with Left Handed Giant Earlier this year, and by pure coincidence, both breweries selected identical lots of Mosaic &amp; Simcoe (Coleman Farm, Oregon) and Nectaron &amp; Nelson Sauvin (Mac Hops, NZ). From there, the doors opened, and the recipes diverged. The result is two distinct 8% DIPAs that explore the wildly different consequences our brewing choices can have. Our half of the story, ‘The Doorway Effect’, lands today on the webshop. It’s a big, hoppy monster of a DIPA designed to showcase the vibrancy of these specific lots. Expect saturated hop aroma and a rounded mouthfeel. It’s bright, zippy, juicy, and even a little wild around the edges. Across the hallway, LHG have crafted their own interpretation: ‘Hidden Volumes’. Go check it out, it's available on their webshop now. Same starting point, two different paths. Only you can decide how the story ends Verdant Brewing Co - The Doorway Effect</beer_description>
-    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
-    <beer_abv>8%</beer_abv>
-    <beer_volume>440 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>England</brewery_country>
-    <untappd_id>6690768</untappd_id>
-  </item>
-  <item>
-    <id>6708378</id>
-    <ecommerce_id>837706628</ecommerce_id>
-    <title>Flux: Phase 6</title>
-    <url>https://hopincraftbier.be/products/verdant-flux-phase-6</url>
-    <brewery_name>Verdant Brewing Co</brewery_name>
-    <price>9.66</price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/837706628/5786829816.png</image>
-    <beer_description>For our second collection of phase haze beers with the wonderful Track we are shifting towards experimental NZ varieties alongside the established US star that is Citra. In this DIPA, NZH-106 take the lead! This hop is the daughter of Riwaka and doesn't shy away from those crazy diesel notes that blend into squishy fruits of all descriptions. This is a big, boisterous romp of a beer! Verdant Brewing Co - Flux: Phase 6</beer_description>
-    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
-    <beer_abv>8%</beer_abv>
-    <beer_volume>440 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>England</brewery_country>
-    <untappd_id>6708378</untappd_id>
-  </item>
-  <item>
-    <id>6708375</id>
-    <ecommerce_id>837691355</ecommerce_id>
-    <title>Flux: Phase 5</title>
-    <url>https://hopincraftbier.be/products/verdant-flux-phase-5</url>
-    <brewery_name>Verdant Brewing Co</brewery_name>
-    <price>7.66</price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/837691355/5786829822.png</image>
-    <beer_description>For our second collection of phase haze beers with the wonderful Track we are shifting towards experimental NZ varieties alongside the established US star that is Citra. In this IPA Citra takes the lead bringing strong notes of mango and grapefruit alongside more complex New Zealand hedgerow notes and hidden tropical gems. Classy and decadent. Verdant Brewing Co - Flux: Phase 5</beer_description>
-    <beer_style>IPA - New England / Hazy</beer_style>
-    <beer_abv>6.5%</beer_abv>
-    <beer_volume>440 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>England</brewery_country>
-    <untappd_id>6708375</untappd_id>
   </item>
   <item>
     <id>6318991</id>
@@ -254,86 +168,6 @@
     <beer_package_count>4</beer_package_count>
     <beer_bundle>1</beer_bundle>
     <bundle_skus>6673165,6690598,6674381,6690595</bundle_skus>
-  </item>
-  <item>
-    <id>6653660</id>
-    <ecommerce_id>836591267</ecommerce_id>
-    <title>Slow Focus</title>
-    <url>https://hopincraftbier.be/products/unseen-slow-focus</url>
-    <brewery_name>Unseen Brewing Co.</brewery_name>
-    <price>4.33</price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/836591267/5775214066.png</image>
-    <beer_description>Take a moment to blur out the noise with Slow Focus, a velvety NEIPA featuring Nelson Sauvin and Rakau hops. Expect a lush, tranquil escape into notes of white grape and stone fruit—smooth, hazy, and as effortlessly cool as a koala on a Sunday afternoon. Unseen Brewing Co. - Slow Focus</beer_description>
-    <beer_style>IPA - New England / Hazy</beer_style>
-    <beer_abv>7%</beer_abv>
-    <beer_volume>330 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Belgium</brewery_country>
-    <untappd_id>6653660</untappd_id>
-  </item>
-  <item>
-    <id>6653661</id>
-    <ecommerce_id>836591266</ecommerce_id>
-    <title>Frozen Rage</title>
-    <url>https://hopincraftbier.be/products/unseen-frozen-rage</url>
-    <brewery_name>Unseen Brewing Co.</brewery_name>
-    <price>4.47</price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/836591266/5775223340.png</image>
-    <beer_description>Embrace the chill with Frozen Bear, a powerful DIPA engineered for a deep freeze of flavor. This frosty beast blends Riwaka, Wakatu, and Citra (T90 &amp; Cryo), amplified by a surge of Riwaka Hop Kief for an intense blast of citrus and resinous passion fruit. Unseen Brewing Co. - Frozen Rage</beer_description>
-    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
-    <beer_abv>8.2%</beer_abv>
-    <beer_volume>330 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Belgium</brewery_country>
-    <untappd_id>6653661</untappd_id>
-  </item>
-  <item>
-    <id>6689037</id>
-    <ecommerce_id>834468037</ecommerce_id>
-    <title>One By One</title>
-    <url>https://hopincraftbier.be/products/rivington-one-by-one</url>
-    <brewery_name>Rivington Brewing Co</brewery_name>
-    <price>8.26</price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/834468037/5766069190.png</image>
-    <beer_description>A DDH IPA hopped with Peacharine, Idaho 7, Nelson Sauvin Amplifire, Simcoe, Simcoe Cryo, Simcoe Dynaboost &amp; Simcoe Hyperboost Rivington Brewing Co - One By One</beer_description>
-    <beer_style>IPA - New England / Hazy</beer_style>
-    <beer_abv>6.5%</beer_abv>
-    <beer_volume>500 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>England</brewery_country>
-    <untappd_id>6689037</untappd_id>
-  </item>
-  <item>
-    <id>6655592</id>
-    <ecommerce_id>834468036</ecommerce_id>
-    <title>Fear and Ego</title>
-    <url>https://hopincraftbier.be/products/rivington-fear-and-ego</url>
-    <brewery_name>Rivington Brewing Co</brewery_name>
-    <price>11.35</price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/834468036/5766069184.png</image>
-    <beer_description>A Triple IPA brewed with our mates from Arpus Brewing in Latvia. Hopped with Mosaic, Citra, Mosaic Cryo, Citra Cryo, Mosaic Dynaboost &amp; Citra Hyperboost Rivington Brewing Co - Fear and Ego</beer_description>
-    <beer_style>IPA - Triple</beer_style>
-    <beer_abv>10%</beer_abv>
-    <beer_volume>500 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>England</brewery_country>
-    <untappd_id>6655592</untappd_id>
-  </item>
-  <item>
-    <id>5721027</id>
-    <ecommerce_id>834468035</ecommerce_id>
-    <title>Faculty</title>
-    <url>https://hopincraftbier.be/products/rivington-faculty</url>
-    <brewery_name>Rivington Brewing Co</brewery_name>
-    <price>9.55</price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/834468035/5766070931.png</image>
-    <beer_description>A Double IPA hopped with Galaxy, Riwaka and Nectaron Cryo Rivington Brewing Co - Faculty</beer_description>
-    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
-    <beer_abv>8%</beer_abv>
-    <beer_volume>500 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>England</brewery_country>
-    <untappd_id>5721027</untappd_id>
   </item>
   <item>
     <id>6690598</id>
@@ -7803,6 +7637,6 @@
     <date_canned>2025-03-17</date_canned>
     <untappd_id>6186985</untappd_id>
   </item>
-  <timestamp>1779994806</timestamp>
-  <gen_date>28/05/2026 21:00:06</gen_date>
+  <timestamp>1780037798</timestamp>
+  <gen_date>29/05/2026 08:56:38</gen_date>
 </feed>
