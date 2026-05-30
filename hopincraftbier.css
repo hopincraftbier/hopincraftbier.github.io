@@ -759,23 +759,23 @@ div.ins-tile__copyright.ins-tile__format p:last-child:before {
 div.product-card-title__wrapper {
     div.ins-tile__product-name {
         font-size: 12px !important;
-        font-weight: 600;
+        font-weight: 600 !important;
         letter-spacing: 1px;
         text-transform: uppercase;
-        color: #71717A;
+        color: #71717A !important;
         margin-bottom: 5px;
         overflow-wrap: break-word;
         text-wrap: pretty;
     }
     div.ins-tile__product-compare-price {
         font-size: 20px !important;
-        font-weight: 600;
-        color: #18181B;
+        font-weight: 600 !important;
+        color: #18181B !important;
         letter-spacing: 1px;
     }
     div.ins-tile__product-compare-price {
         font-size: 14px !important;
-        color: #71717A;
+        color: #71717A !important;
         letter-spacing: 1px;
     }
 }
