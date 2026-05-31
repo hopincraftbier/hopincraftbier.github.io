@@ -1,4 +1,4 @@
-const version = 'v7.03';
+const version = 'v7.04';
 let currentLanguage;
 
 const txtNl1 = '<div class="dtooltip"><p class="hover question">Kortingscoupon</p><p class="dtooltiptext">Afhankelijk van de gekozen betaling en levering, kunt u een kortingscoupon krijgen die te gebruiken is bij een volgende bestelling. Voor dit bier ziet u de bedragen in deze tabel</p></div><table class="discount-table"><thead><tr class="first_header"><th></th><th colspan="2">Manier van levering</th></tr><tr><th>Manier van betaling</th><th>Afhaling</th><th>Levering</th></tr></thead><tbody><tr><td class="header">Betalen bij afhaling</td><td>€ ';
@@ -62,7 +62,9 @@ Ecwid.OnPageLoaded.add(function(page){
         processInfoPages();
 
     } else if (page.type === 'CART' || page.type === 'CHECKOUT_ADDRESS' || page.type === 'CHECKOUT_DELIVERY' || page.type === 'CHECKOUT_ADDRESS_BOOK' || page.type === 'CHECKOUT_PAYMENT_DETAILS') {
-        processCartPage();
+        if (prodMode) {
+            processCartPage();
+        }
 
     } else if (page.type === 'FAVORITES') {
 
@@ -74,7 +76,9 @@ document.addEventListener("visibilitychange", (event) => {
     if (document.visibilityState === "visible" && process) {
         redirectWhenNeeded();
         processInfoPages();
-        processCartPage();
+        if (prodMode) {
+            processCartPage();
+        }
         processProductBrowserPage();
         processProductPage(false);
     }
@@ -94,7 +98,9 @@ const cartTotalMo = new MutationObserver(function (ms) {
         processProductPage(false);
         processStock();
         processExpectedPrice();
-        processCartPage();
+        if (prodMode) {
+            processCartPage();
+        }
 
         ms.forEach(function (m) {
             for (let i = 0; i < m.addedNodes.length; i++) {
@@ -115,7 +121,9 @@ const cartTotalMo = new MutationObserver(function (ms) {
                             } else if (className.indexOf('ec-store__cart-page') >= 0 ||
                                 className.indexOf('ec-store__checkout-page') ||
                                 className.indexOf('ec-cart-step__section')) {
-                                processCartPage();
+                                if (prodMode) {
+                                  processCartPage();
+                                }
                             }
                         }
                     }
