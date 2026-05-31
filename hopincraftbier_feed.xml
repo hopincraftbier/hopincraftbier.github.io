@@ -7515,24 +7515,6 @@
     <untappd_id>6204470</untappd_id>
   </item>
   <item>
-    <id>6172982</id>
-    <ecommerce_id>738474831</ecommerce_id>
-    <title>60KG Cashmere</title>
-    <url>https://hopincraftbier.be/products/oso-brew-co-60kg-cashmere</url>
-    <brewery_name>Oso Brew Co</brewery_name>
-    <price>3.33</price>
-    <regular_price>6.65</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4842126874.png</image>
-    <beer_description>Our new Single Hop NEIPA series focuses on single-varietal wines. In this edition, 60kg of dry-hopped Cashmere delivers a burst of melon and citrus with a smooth coconut finish. It's all rounded out by a silky, fresh body. Oso Brew Co - 60KG Cashmere</beer_description>
-    <beer_style>IPA - New England / Hazy</beer_style>
-    <beer_abv>6.8%</beer_abv>
-    <beer_volume>440 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Spain</brewery_country>
-    <date_best_before>2026-01-20</date_best_before>
-    <untappd_id>6172982</untappd_id>
-  </item>
-  <item>
     <id>4579569</id>
     <ecommerce_id>738472474</ecommerce_id>
     <title>30,000 Steps</title>
@@ -7710,6 +7692,6 @@
     <date_canned>2025-03-17</date_canned>
     <untappd_id>6186985</untappd_id>
   </item>
-  <timestamp>1780257606</timestamp>
-  <gen_date>31/05/2026 22:00:06</gen_date>
+  <timestamp>1780261206</timestamp>
+  <gen_date>31/05/2026 23:00:06</gen_date>
 </feed>
