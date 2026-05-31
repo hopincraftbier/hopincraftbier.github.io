@@ -6230,23 +6230,6 @@
     <untappd_id>6350229</untappd_id>
   </item>
   <item>
-    <id>6364829</id>
-    <ecommerce_id>778763014</ecommerce_id>
-    <title>Evangelion III [Sachiel] (Ghost Sachiel)</title>
-    <url>https://hopincraftbier.be/products/adroit-theory-evangelion-iii-sachiel-ghost-sachiel</url>
-    <brewery_name>Adroit Theory</brewery_name>
-    <price>9.26</price>
-    <regular_price>10,89</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5145475828.webp</image>
-    <beer_description>Hazy &amp; smooth...a little boozy. Well balanced... Adroit Theory - Evangelion III [Sachiel] (Ghost Sachiel)</beer_description>
-    <beer_style>IPA - Triple New England / Hazy</beer_style>
-    <beer_abv>10%</beer_abv>
-    <beer_volume>473 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>United States</brewery_country>
-    <untappd_id>6364829</untappd_id>
-  </item>
-  <item>
     <id>6350233</id>
     <ecommerce_id>778760017</ecommerce_id>
     <title>Double Nelson &amp; Cream</title>
@@ -7817,6 +7800,6 @@
     <date_canned>2025-03-17</date_canned>
     <untappd_id>6186985</untappd_id>
   </item>
-  <timestamp>1780056906</timestamp>
-  <gen_date>29/05/2026 14:15:06</gen_date>
+  <timestamp>1780240511</timestamp>
+  <gen_date>31/05/2026 17:15:11</gen_date>
 </feed>
