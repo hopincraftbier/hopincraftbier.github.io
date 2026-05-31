@@ -3176,24 +3176,6 @@
     <untappd_id>6573098</untappd_id>
   </item>
   <item>
-    <id>6564099</id>
-    <ecommerce_id>813455095</ecommerce_id>
-    <title>Kruszynka</title>
-    <url>https://hopincraftbier.be/products/ziemia-obiecana-kruszynka</url>
-    <brewery_name>Ziemia Obiecana</brewery_name>
-    <price>6.19</price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/813455095/5561986554.png</image>
-    <beer_description>Triple IPA SH Nelson Kohia 21 blg Ziemia Obiecana - Kruszynka</beer_description>
-    <beer_style>IPA - Triple</beer_style>
-    <beer_abv>9%</beer_abv>
-    <beer_volume>500 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Poland</brewery_country>
-    <date_best_before>2026-07-15</date_best_before>
-    <date_canned>2026-01-15</date_canned>
-    <untappd_id>6564099</untappd_id>
-  </item>
-  <item>
     <id>6608082</id>
     <ecommerce_id>812539862</ecommerce_id>
     <title>Destructio #0005</title>
@@ -7800,6 +7782,6 @@
     <date_canned>2025-03-17</date_canned>
     <untappd_id>6186985</untappd_id>
   </item>
-  <timestamp>1780240511</timestamp>
-  <gen_date>31/05/2026 17:15:11</gen_date>
+  <timestamp>1780241406</timestamp>
+  <gen_date>31/05/2026 17:30:06</gen_date>
 </feed>
