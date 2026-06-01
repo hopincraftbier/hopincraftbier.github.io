@@ -7551,24 +7551,6 @@
     <untappd_id>6149265</untappd_id>
   </item>
   <item>
-    <id>3127108</id>
-    <ecommerce_id>738467167</ecommerce_id>
-    <title>Hollow Names</title>
-    <url>https://hopincraftbier.be/products/alefarm-hollow-names</url>
-    <brewery_name>Alefarm Brewing</brewery_name>
-    <price>3.51</price>
-    <regular_price>7.01</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/738467167/4840926929.png</image>
-    <beer_description>DIPA with Mosaic BBC and Yellow BBC. Alefarm - Hollow Names</beer_description>
-    <beer_style>IPA - Imperial / Double</beer_style>
-    <beer_abv>8%</beer_abv>
-    <beer_volume>440 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Denmark</brewery_country>
-    <date_best_before>2026-01-28</date_best_before>
-    <untappd_id>3127108</untappd_id>
-  </item>
-  <item>
     <id>6121787</id>
     <ecommerce_id>738467165</ecommerce_id>
     <title>Planet 2 (PULP)</title>
@@ -7692,6 +7674,6 @@
     <date_canned>2025-03-17</date_canned>
     <untappd_id>6186985</untappd_id>
   </item>
-  <timestamp>1780261206</timestamp>
-  <gen_date>31/05/2026 23:00:06</gen_date>
+  <timestamp>1780298107</timestamp>
+  <gen_date>01/06/2026 09:15:07</gen_date>
 </feed>
