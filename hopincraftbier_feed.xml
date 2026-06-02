@@ -1830,8 +1830,8 @@
   <item>
     <id>6639386</id>
     <ecommerce_id>822026769</ecommerce_id>
-    <title>Destructio #0006</title>
-    <url>https://hopincraftbier.be/products/messorem-destructio-0006-822026769</url>
+    <title>Destructio 0006</title>
+    <url>https://hopincraftbier.be/products/messorem-destructio-0006</url>
     <brewery_name>Messorem</brewery_name>
     <price>10.67</price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/822026769/5654607692.png</image>
@@ -1846,8 +1846,8 @@
   <item>
     <id>6647671</id>
     <ecommerce_id>822026766</ecommerce_id>
-    <title>Temporalis #0055</title>
-    <url>https://hopincraftbier.be/products/messorem-temporalis-0055-822026766</url>
+    <title>Temporalis 0055</title>
+    <url>https://hopincraftbier.be/products/messorem-temporalis-0055</url>
     <brewery_name>Messorem</brewery_name>
     <price>11.34</price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/822026766/5654607668.png</image>
@@ -1862,8 +1862,8 @@
   <item>
     <id>6657015</id>
     <ecommerce_id>822031765</ecommerce_id>
-    <title>Temporalis #0054</title>
-    <url>https://hopincraftbier.be/products/messorem-temporalis-0054-822031765</url>
+    <title>Temporalis 0054</title>
+    <url>https://hopincraftbier.be/products/messorem-temporalis-0054</url>
     <brewery_name>Messorem</brewery_name>
     <price>11.34</price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/822031765/5654607626.png</image>
@@ -3178,7 +3178,7 @@
   <item>
     <id>6608082</id>
     <ecommerce_id>812539862</ecommerce_id>
-    <title>Destructio #0005</title>
+    <title>Destructio 0005</title>
     <url>https://hopincraftbier.be/products/messorem-destructio-0005</url>
     <brewery_name>Messorem</brewery_name>
     <price>10.59</price>
@@ -4507,7 +4507,7 @@
   <item>
     <id>6500739</id>
     <ecommerce_id>798954657</ecommerce_id>
-    <title>Temporalis #0047</title>
+    <title>Temporalis 0047</title>
     <url>https://hopincraftbier.be/products/messorem-temporalis-0047</url>
     <brewery_name>Messorem</brewery_name>
     <price>11.24</price>
@@ -4560,7 +4560,7 @@
   <item>
     <id>6498668</id>
     <ecommerce_id>797997507</ecommerce_id>
-    <title>Temporalis #0046</title>
+    <title>Temporalis 0046</title>
     <url>https://hopincraftbier.be/products/messorem-temporalis-0046</url>
     <brewery_name>Messorem</brewery_name>
     <price>11.24</price>
@@ -7656,6 +7656,6 @@
     <date_canned>2025-03-17</date_canned>
     <untappd_id>6186985</untappd_id>
   </item>
-  <timestamp>1780339508</timestamp>
-  <gen_date>01/06/2026 20:45:08</gen_date>
+  <timestamp>1780415107</timestamp>
+  <gen_date>02/06/2026 17:45:07</gen_date>
 </feed>
