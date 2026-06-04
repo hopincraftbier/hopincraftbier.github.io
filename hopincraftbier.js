@@ -1,4 +1,4 @@
-const version = 'v7.06';
+const version = 'v7.08';
 let currentLanguage;
 
 const txtNl1 = '<div class="dtooltip"><p class="hover question">Kortingscoupon</p><p class="dtooltiptext">Afhankelijk van de gekozen betaling en levering, kunt u een kortingscoupon krijgen die te gebruiken is bij een volgende bestelling. Voor dit bier ziet u de bedragen in deze tabel</p></div><table class="discount-table"><thead><tr class="first_header"><th></th><th colspan="2">Manier van levering</th></tr><tr><th>Manier van betaling</th><th>Afhaling</th><th>Levering</th></tr></thead><tbody><tr><td class="header">Betalen bij afhaling</td><td>€ ';
@@ -884,11 +884,11 @@ function processHeader() {
 
 function setServicePointWarnings() {
     if ('EN' === getCustomerLng()) {
-        setServicePointWarning('BPost postpunt levering/postal point delivery', '!! Make sure you select a <img src="https://hopincraftbier.github.io/bpost.svg" height="40px" width="40px" style="margin:0 5px;"><strong>BPost service point</strong>, otherwise delivery may be delayed !!')
-        setServicePointWarning('PostNL postpunt levering/postal point delivery', '!! Make sure you select a <img src="https://hopincraftbier.github.io/postnl.svg" height="25px" width="25px" style="margin:0 5px;"><strong>PostNL service point</strong>, otherwise delivery may be delayed !!')
+        setServicePointWarning('BPost postpunt levering002fpostal point delivery', '!! Make sure you select a <img src="https://hopincraftbier.github.io/bpost.svg" height="40px" width="40px" style="margin:0 5px;"><strong>BPost service point</strong>, otherwise delivery may be delayed !!')
+        setServicePointWarning('PostNL postpunt levering002fpostal point delivery', '!! Make sure you select a <img src="https://hopincraftbier.github.io/postnl.svg" height="25px" width="25px" style="margin:0 5px;"><strong>PostNL service point</strong>, otherwise delivery may be delayed !!')
     } else {
-        setServicePointWarning('BPost postpunt levering/postal point delivery', '!! Zorg ervoor dat u een <img src="https://hopincraftbier.github.io/bpost.svg" height="40px" width="40px" style="margin:0 5px;"><strong>BPost-servicepunt</strong>&nbsp;selecteert, anders kan de levering vertraging oplopen !!')
-        setServicePointWarning('PostNL postpunt levering/postal point delivery', '!! Zorg ervoor dat u een <img src="https://hopincraftbier.github.io/postnl.svg" height="25px" width="25px" style="margin:0 5px;"><strong>PostNL-servicepunt</strong>&nbsp;selecteert, anders kan de levering vertraging oplopen !!')
+        setServicePointWarning('BPost postpunt levering002fpostal point delivery', '!! Zorg ervoor dat u een <img src="https://hopincraftbier.github.io/bpost.svg" height="40px" width="40px" style="margin:0 5px;"><strong>BPost-servicepunt</strong>&nbsp;selecteert, anders kan de levering vertraging oplopen !!')
+        setServicePointWarning('PostNL postpunt levering002fpostal point delivery', '!! Zorg ervoor dat u een <img src="https://hopincraftbier.github.io/postnl.svg" height="25px" width="25px" style="margin:0 5px;"><strong>PostNL-servicepunt</strong>&nbsp;selecteert, anders kan de levering vertraging oplopen !!')
     }
 }
 
