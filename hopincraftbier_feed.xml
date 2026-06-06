@@ -1831,6 +1831,7 @@
     <beer_volume>473 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>Canada</brewery_country>
+    <date_canned>2026-04-01</date_canned>
     <untappd_id>6656970</untappd_id>
   </item>
   <item>
@@ -1847,6 +1848,8 @@
     <beer_volume>473 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>Canada</brewery_country>
+    <date_best_before>2027-03-18</date_best_before>
+    <date_canned>2026-03-18</date_canned>
     <untappd_id>6639386</untappd_id>
   </item>
   <item>
@@ -2083,6 +2086,7 @@
     <beer_volume>473 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>United States</brewery_country>
+    <date_canned>2026-04-02</date_canned>
     <untappd_id>6561762</untappd_id>
   </item>
   <item>
@@ -2099,6 +2103,7 @@
     <beer_volume>473 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>Canada</brewery_country>
+    <date_canned>2026-03-03</date_canned>
     <untappd_id>6614574</untappd_id>
   </item>
   <item>
@@ -2333,6 +2338,7 @@
     <beer_volume>473 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>Canada</brewery_country>
+    <date_canned>2026-03-03</date_canned>
     <untappd_id>6623284</untappd_id>
   </item>
   <item>
@@ -2349,6 +2355,7 @@
     <beer_volume>473 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>Canada</brewery_country>
+    <date_canned>2026-03-03</date_canned>
     <untappd_id>6623282</untappd_id>
   </item>
   <item>
@@ -2398,6 +2405,7 @@
     <beer_volume>473 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>Canada</brewery_country>
+    <date_canned>2026-03-17</date_canned>
     <untappd_id>5364961</untappd_id>
   </item>
   <item>
@@ -7674,6 +7682,6 @@
     <date_canned>2025-03-17</date_canned>
     <untappd_id>6186985</untappd_id>
   </item>
-  <timestamp>1780727406</timestamp>
-  <gen_date>06/06/2026 08:30:06</gen_date>
+  <timestamp>1780728306</timestamp>
+  <gen_date>06/06/2026 08:45:06</gen_date>
 </feed>
