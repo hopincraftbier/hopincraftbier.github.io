@@ -2364,13 +2364,13 @@
     <untappd_id>6623282</untappd_id>
   </item>
   <item>
-    <id>6600132</id>
+    <id>6630268</id>
     <ecommerce_id>820762803</ecommerce_id>
-    <title>Luminis (Lolev collab)</title>
-    <url>https://hopincraftbier.be/products/brasserie-du-bas-canada-luminis-lolev-collab</url>
+    <title>Lolev - Luminis (Brasserie du Bas-Canada collab)</title>
+    <url>https://hopincraftbier.be/products/lolev-luminis-brasserie-du-bas-canada-collab</url>
     <brewery_name>Brasserie du Bas-Canada</brewery_name>
     <price>10.34</price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/820762803/5631129684.png</image>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/820762803/5805478104.png</image>
     <beer_description>Collaboration met Lolev Beer - Double IPA met hop: Nelson Sauvin, Riwaka, Motueka, Citra &amp; Maui Nelson Hop Kief Brasserie du Bas-Canada - Luminis: Lolev - Luminis: Brasserie du Bas-Canada - Luminis</beer_description>
     <beer_style>IPA - Imperial / Double</beer_style>
     <beer_abv>8.2%</beer_abv>
@@ -2378,7 +2378,7 @@
     <beer_package>can</beer_package>
     <brewery_country>Canada</brewery_country>
     <date_canned>2026-03-11</date_canned>
-    <untappd_id>6600132</untappd_id>
+    <untappd_id>6630268</untappd_id>
   </item>
   <item>
     <id>2818499</id>
@@ -7689,6 +7689,6 @@
     <date_canned>2025-03-17</date_canned>
     <untappd_id>6186985</untappd_id>
   </item>
-  <timestamp>1780734607</timestamp>
-  <gen_date>06/06/2026 10:30:07</gen_date>
+  <timestamp>1780751709</timestamp>
+  <gen_date>06/06/2026 15:15:09</gen_date>
 </feed>
