@@ -1797,6 +1797,7 @@
     <beer_volume>473 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>United States</brewery_country>
+    <date_canned>2026-03-16</date_canned>
     <untappd_id>6638463</untappd_id>
   </item>
   <item>
@@ -1813,6 +1814,7 @@
     <beer_volume>473 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>United States</brewery_country>
+    <date_canned>2026-03-27</date_canned>
     <untappd_id>6653102</untappd_id>
   </item>
   <item>
@@ -1861,6 +1863,8 @@
     <beer_volume>473 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>Canada</brewery_country>
+    <date_best_before>2027-03-31</date_best_before>
+    <date_canned>2026-03-31</date_canned>
     <untappd_id>6647671</untappd_id>
   </item>
   <item>
@@ -1877,6 +1881,8 @@
     <beer_volume>473 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>Canada</brewery_country>
+    <date_best_before>2027-03-30</date_best_before>
+    <date_canned>2026-03-30</date_canned>
     <untappd_id>6657015</untappd_id>
   </item>
   <item>
@@ -1910,6 +1916,7 @@
     <beer_volume>473 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>United States</brewery_country>
+    <date_canned>2026-02-20</date_canned>
     <untappd_id>3696324</untappd_id>
   </item>
   <item>
@@ -1943,6 +1950,7 @@
     <beer_volume>473 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>United States</brewery_country>
+    <date_canned>2026-03-21</date_canned>
     <untappd_id>4607165</untappd_id>
   </item>
   <item>
@@ -1959,6 +1967,7 @@
     <beer_volume>473 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>United States</brewery_country>
+    <date_canned>2026-03-25</date_canned>
     <untappd_id>3798098</untappd_id>
   </item>
   <item>
@@ -2274,6 +2283,7 @@
     <beer_volume>473 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>United States</brewery_country>
+    <date_canned>2026-03-10</date_canned>
     <untappd_id>1966328</untappd_id>
   </item>
   <item>
@@ -2306,6 +2316,7 @@
     <beer_volume>473 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>United States</brewery_country>
+    <date_canned>2026-03-03</date_canned>
     <untappd_id>6623327</untappd_id>
   </item>
   <item>
@@ -7663,6 +7674,6 @@
     <date_canned>2025-03-17</date_canned>
     <untappd_id>6186985</untappd_id>
   </item>
-  <timestamp>1780726506</timestamp>
-  <gen_date>06/06/2026 08:15:06</gen_date>
+  <timestamp>1780727406</timestamp>
+  <gen_date>06/06/2026 08:30:06</gen_date>
 </feed>
