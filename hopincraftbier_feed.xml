@@ -5,6 +5,22 @@
   <link>https://hopincraftbier.be/products&lt;/link&gt;</link>
   <description>Hop In Craftbier Products feed</description>
   <item>
+    <id>6680103</id>
+    <ecommerce_id>840367795</ecommerce_id>
+    <title>Ripple</title>
+    <url>https://hopincraftbier.be/products/soma-beer-ripple</url>
+    <brewery_name>SOMA Beer</brewery_name>
+    <price>8.08</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/840367795/5810042880.png</image>
+    <beer_description>Nectaron Cryo, Nectaron, Waimea &amp; Motueka SOMA Beer - Ripple</beer_description>
+    <beer_style>IPA - Triple New England / Hazy</beer_style>
+    <beer_abv>10%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Spain</brewery_country>
+    <untappd_id>6680103</untappd_id>
+  </item>
+  <item>
     <id>6706716</id>
     <ecommerce_id>840367794</ecommerce_id>
     <title>Low-Fi</title>
@@ -7790,6 +7806,6 @@
     <date_canned>2025-03-17</date_canned>
     <untappd_id>6186985</untappd_id>
   </item>
-  <timestamp>1781001007</timestamp>
-  <gen_date>09/06/2026 12:30:07</gen_date>
+  <timestamp>1781001250</timestamp>
+  <gen_date>09/06/2026 12:34:10</gen_date>
 </feed>
