@@ -7436,24 +7436,6 @@
     <untappd_id>6241284</untappd_id>
   </item>
   <item>
-    <id>6204619</id>
-    <ecommerce_id>751543259</ecommerce_id>
-    <title>Prickle Kitty</title>
-    <url>https://hopincraftbier.be/products/willibald-farm-prickle-kitty</url>
-    <brewery_name>Willibald Farm Brewery</brewery_name>
-    <price>5.3</price>
-    <regular_price>10,60</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/751543259/4933243774.png</image>
-    <beer_description>Double IPA with Simcoe, Sabro, and El Dorado. Willibald Farm - Prickle Kitty</beer_description>
-    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
-    <beer_abv>8.3%</beer_abv>
-    <beer_volume>473 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Canada</brewery_country>
-    <date_canned>D1625</date_canned>
-    <untappd_id>6204619</untappd_id>
-  </item>
-  <item>
     <id>6092135</id>
     <ecommerce_id>751543258</ecommerce_id>
     <title>Hello My Name Is - Vanille</title>
@@ -7557,24 +7539,6 @@
     <untappd_id>6166277</untappd_id>
   </item>
   <item>
-    <id>6214473</id>
-    <ecommerce_id>751529271</ecommerce_id>
-    <title>Double Drip (Motueka, Rakau, Peacharine, Southern Cross Hop Kief)</title>
-    <url>https://hopincraftbier.be/products/counterpart-double-drip-motueka-rakau-peacharine-southern-cross-hop-kief</url>
-    <brewery_name>Counterpart Brewing</brewery_name>
-    <price>5.64</price>
-    <regular_price>11,28</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5438351337.png</image>
-    <beer_description>Hazy Double IPA w/ Motueka, Rakau, Peacharine &amp; Southern Cross SubZero Hop Kief A full pillowy mouthfeel delivering a wave of fresh peach, lychee, orange, guava, nectarine and lime zest. Counterpart - Double Drip (Motueka, Rakau, Peacharine, Southern Cross Hop Kief)</beer_description>
-    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
-    <beer_abv>8.2%</beer_abv>
-    <beer_volume>473 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Canada</brewery_country>
-    <date_canned>2025-04-02</date_canned>
-    <untappd_id>6214473</untappd_id>
-  </item>
-  <item>
     <id>6194337</id>
     <ecommerce_id>751542767</ecommerce_id>
     <title>Bourbon Barrel Black Maple (2025)</title>
@@ -7608,24 +7572,6 @@
     <beer_package>can</beer_package>
     <brewery_country>United States</brewery_country>
     <untappd_id>6222118</untappd_id>
-  </item>
-  <item>
-    <id>6205488</id>
-    <ecommerce_id>751529014</ecommerce_id>
-    <title>Dock 72 - Peacharine, Galaxy &amp; Nelson Sauvin (2025)</title>
-    <url>https://hopincraftbier.be/products/le-ketch-dock-72-peacharine-galaxy--nelson-sauvin-2025</url>
-    <brewery_name>Le Ketch</brewery_name>
-    <price>5.99</price>
-    <regular_price>11,97</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5438334574.png</image>
-    <beer_description>DOUBLE NEW ENGLAND HONEY IPA. HOPS: PEACHARINE, GALAXY &amp; NELSON SAUVIN Le Ketch - Dock 72 - Peacharine, Galaxy &amp; Nelson Sauvin (2025)</beer_description>
-    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
-    <beer_abv>8%</beer_abv>
-    <beer_volume>473 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Canada</brewery_country>
-    <date_canned>2025-04-22</date_canned>
-    <untappd_id>6205488</untappd_id>
   </item>
   <item>
     <id>6194343</id>
@@ -7727,24 +7673,6 @@
     <brewery_country>Canada</brewery_country>
     <date_canned>2025-04-14</date_canned>
     <untappd_id>6228772</untappd_id>
-  </item>
-  <item>
-    <id>6241102</id>
-    <ecommerce_id>751529267</ecommerce_id>
-    <title>Bizarre Celebrations: Cloud 9</title>
-    <url>https://hopincraftbier.be/products/foam-brewers-bizarre-celebrations-cloud-9</url>
-    <brewery_name>Foam Brewers</brewery_name>
-    <price>5.47</price>
-    <regular_price>10,94</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5476644540.png</image>
-    <beer_description>In the mash, a nice blend of wheat and oats creates a silky body with subtle sweetness. The yeast imparts a delicate fruitiness that perfectly complements the complex hop profile. Utilizing a touch of Phantasm powder on the hot side, and dry-hopped with an all-New Zealand blend of Peacharine, Nectaron, and The Bruce, this beer bursts with vibrant tropical notes. Expect juicy peach and apricot, followed by hints of pineapple and citrus zest, with an intense expression of passionfruit and a crisp, clean finish. Foam Brewers - Bizarre Celebrations: Cloud 9</beer_description>
-    <beer_style>IPA - Imperial / Double</beer_style>
-    <beer_abv>9%</beer_abv>
-    <beer_volume>473 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>United States</brewery_country>
-    <date_canned>2025-04-22</date_canned>
-    <untappd_id>6241102</untappd_id>
   </item>
   <item>
     <id>6189849</id>
@@ -7958,6 +7886,6 @@
     <date_canned>2025-03-17</date_canned>
     <untappd_id>6186985</untappd_id>
   </item>
-  <timestamp>1781010007</timestamp>
-  <gen_date>09/06/2026 15:00:07</gen_date>
+  <timestamp>1781013607</timestamp>
+  <gen_date>09/06/2026 16:00:07</gen_date>
 </feed>
