@@ -1,4 +1,4 @@
-const version = 'v7.15';
+const version = 'v7.16';
 let currentLanguage;
 
 const txtNl1 = '<div class="dtooltip"><p class="hover question">Kortingscoupon</p><p class="dtooltiptext">Afhankelijk van de gekozen betaling en levering, kunt u een kortingscoupon krijgen die te gebruiken is bij een volgende bestelling. Voor dit bier ziet u de bedragen in deze tabel</p></div><table class="discount-table"><thead><tr class="first_header"><th></th><th colspan="2">Manier van levering</th></tr><tr><th>Manier van betaling</th><th>Afhaling</th><th>Levering</th></tr></thead><tbody><tr><td class="header">Betalen bij afhaling</td><td>€ ';
@@ -183,7 +183,7 @@ function processStock() {
     }
 }
 
-function processAttributes() {
+function processAttributes(status) {
     log('processAttributes');
     let preOrderTxt = "";
     let lng = "";
@@ -300,8 +300,12 @@ function processAttributes() {
         }
     });
     const buttonTxtEl = document.querySelector('div.form-control--primary button.form-control__button span.form-control__button-text');
-    if (preOrderTxt !== "" && buttonTxtEl && buttonTxtEl.textContent !== 'Pre-Order') {
-        buttonTxtEl.innerHTML = 'Pre-Order';
+    let btnTxt = 'Pre-Order';
+    if (status === 'verwacht') {
+        btnTxt = ('EN' === getCustomerLng() ? 'Reserver' : 'Reserveer');
+    }
+    if (preOrderTxt !== "" && buttonTxtEl && buttonTxtEl.textContent !== btnTxt) {
+        buttonTxtEl.innerHTML = btnTxt;
     }
     const preOrderTxtEl = document.querySelector('div.product-details__product-options.details-product-options');
     let newElement = document.createElement('dum');
@@ -396,6 +400,7 @@ function soonLabel() {
     let notSoldOut = false;
     let preorderSoldOut = false;
     let verwachtTxt = '';
+    let status = '';
     document.querySelectorAll('div.product-details__product-attributes div.details-product-attribute span.details-product-attribute__title').forEach(
         function (item) {
             if (item.textContent.trim() === 'hide_preorder:') {
@@ -403,6 +408,7 @@ function soonLabel() {
                 if (d === 'Uitverkocht' || d === 'Sold out' || d === 'Out of stock') {
                     preorderSoldOut = true;
                 }
+                status = 'preorder';
             } else if (item.textContent.trim() === 'Verwacht:' || item.textContent.trim() === 'Expected:') {
                 notSoldOut = true;
                 verwachtTxt = item.textContent.trim() + ' ' + item.parentElement.childNodes[1]?.textContent?.trim();
@@ -421,6 +427,7 @@ function soonLabel() {
             } else {
                 soldOutEl.innerHTML = 'Expected';
             }
+            status = 'verwacht';
         }
         let soldOutEl2 = document.querySelector('div.product-details-module__title.details-product-purchase__sold-out');
         let newElement = document.createElement('dum');
@@ -429,6 +436,7 @@ function soonLabel() {
             soldOutEl2.innerHTML = verwachtTxt;
         }
     }
+    return status;
 }
 
 function processExpectedLabels() {
@@ -650,7 +658,11 @@ function renameBuyButtonToPreorder() {
             let priceEl = p.querySelector('.grid-product__price-value.ec-price-item');
             if (priceEl && (priceEl.textContent === '€ 0,00' || priceEl.textContent.startsWith('Max '))) {
                 console.log(priceEl.textContent);
-                btnTxt = 'Reserveer'
+                if ('EN' === getCustomerLng()) {
+                    btnTxt = 'Reserver'
+                } else {
+                    btnTxt = 'Reserveer'
+                }
             }
             if (buttonTextEl.textContent !== btnTxt) {
                 let labelEl = p.querySelector('.grid-product__label');
@@ -716,9 +728,9 @@ function getCustomerLng() {
 function processProductPage(toScroll) {
     if (document.querySelector('.ecwid-productBrowser-ProductPage')) {
         addCouponInfo(toScroll);
-        soonLabel();
+        const status = soonLabel();
         processProductTitle();
-        processAttributes();
+        processAttributes(status);
     }
 }
 
