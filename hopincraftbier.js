@@ -1,4 +1,4 @@
-const version = 'v7.16';
+const version = 'v7.17';
 let currentLanguage;
 
 const txtNl1 = '<div class="dtooltip"><p class="hover question">Kortingscoupon</p><p class="dtooltiptext">Afhankelijk van de gekozen betaling en levering, kunt u een kortingscoupon krijgen die te gebruiken is bij een volgende bestelling. Voor dit bier ziet u de bedragen in deze tabel</p></div><table class="discount-table"><thead><tr class="first_header"><th></th><th colspan="2">Manier van levering</th></tr><tr><th>Manier van betaling</th><th>Afhaling</th><th>Levering</th></tr></thead><tbody><tr><td class="header">Betalen bij afhaling</td><td>€ ';
@@ -417,6 +417,7 @@ function soonLabel() {
                 } else {
                     verwachtTxt = verwachtTxt + "<p class='reserve'>Send us an <a href='mailto:info@hopincraftbier.be'>email</a> or a <a href='https://wa.me/32494626330' target='_blank'>whatsapp</a> message to ‘reserve’ this beer and get a <span style=\"font-family: 'Bangers', Ubuntu, system-ui;letter-spacing: 1.4px;font-size: 15px;color: red;\">5% discount</span>. <a href='https://hopincraftbier.be/en/products/verwacht' target='_blank'>More info.</a></p>";
                 }
+                status = 'verwacht';
             }
         });
     if (!preorderSoldOut && (notSoldOut || (document.querySelector('div.product-details__product-price.ec-price-item')?.getAttribute('content') === "0" && document.querySelector('div.product-details__product-soldout')))) {
@@ -427,7 +428,6 @@ function soonLabel() {
             } else {
                 soldOutEl.innerHTML = 'Expected';
             }
-            status = 'verwacht';
         }
         let soldOutEl2 = document.querySelector('div.product-details-module__title.details-product-purchase__sold-out');
         let newElement = document.createElement('dum');
