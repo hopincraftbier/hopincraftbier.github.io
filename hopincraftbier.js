@@ -1,4 +1,4 @@
-const version = 'v7.10';
+const version = 'v7.11';
 let currentLanguage;
 
 const txtNl1 = '<div class="dtooltip"><p class="hover question">Kortingscoupon</p><p class="dtooltiptext">Afhankelijk van de gekozen betaling en levering, kunt u een kortingscoupon krijgen die te gebruiken is bij een volgende bestelling. Voor dit bier ziet u de bedragen in deze tabel</p></div><table class="discount-table"><thead><tr class="first_header"><th></th><th colspan="2">Manier van levering</th></tr><tr><th>Manier van betaling</th><th>Afhaling</th><th>Levering</th></tr></thead><tbody><tr><td class="header">Betalen bij afhaling</td><td>€ ';
@@ -642,8 +642,9 @@ function renameBuyButtonToPreorder() {
         if (buttonTextEl) {
             let btnTxt = 'Pre-order';
             let priceEl = p.querySelector('.grid-product__price-value.ec-price-item');
-            if (priceEl) {
+            if (priceEl && priceEl.textContent === '€ 0,00') {
                 console.log(priceEl.textContent);
+                btnTxt = 'Reserveer'
             }
             if (buttonTextEl.textContent !== btnTxt) {
                 let labelEl = p.querySelector('.grid-product__label');
@@ -653,7 +654,7 @@ function renameBuyButtonToPreorder() {
                     labelEl.className.indexOf('grid-product__label--New') < 0 &&
                     labelEl.className.indexOf('grid-product__label--Last-one') < 0 &&
                     labelEl.className.indexOf('grid-product__label--Laatste') < 0) {
-                    buttonTextEl.innerHTML = 'Pre-order';
+                    buttonTextEl.innerHTML = btnTxt;
                 }
             }
         }
