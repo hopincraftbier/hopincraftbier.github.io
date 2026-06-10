@@ -1,4 +1,4 @@
-const version = 'v7.09';
+const version = 'v7.10';
 let currentLanguage;
 
 const txtNl1 = '<div class="dtooltip"><p class="hover question">Kortingscoupon</p><p class="dtooltiptext">Afhankelijk van de gekozen betaling en levering, kunt u een kortingscoupon krijgen die te gebruiken is bij een volgende bestelling. Voor dit bier ziet u de bedragen in deze tabel</p></div><table class="discount-table"><thead><tr class="first_header"><th></th><th colspan="2">Manier van levering</th></tr><tr><th>Manier van betaling</th><th>Afhaling</th><th>Levering</th></tr></thead><tbody><tr><td class="header">Betalen bij afhaling</td><td>€ ';
@@ -640,7 +640,12 @@ function renameBuyButtonToPreorder() {
     document.querySelectorAll('.grid__products .grid-product').forEach(function (p) {
         let buttonTextEl = p.querySelector('.grid__products .grid-product .form-control__button-text');
         if (buttonTextEl) {
-            if (buttonTextEl.textContent !== 'Pre-order') {
+            let btnTxt = 'Pre-order';
+            let priceEl = p.querySelector('.grid-product__price-value.ec-price-item');
+            if (priceEl) {
+                console.log(priceEl.textContent);
+            }
+            if (buttonTextEl.textContent !== btnTxt) {
                 let labelEl = p.querySelector('.grid-product__label');
                 if (labelEl &&
                     labelEl.className.indexOf('grid-product__label--') >= 0 &&
