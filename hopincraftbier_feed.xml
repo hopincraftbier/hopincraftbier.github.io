@@ -898,26 +898,6 @@
     <untappd_id>6682878</untappd_id>
   </item>
   <item>
-    <id>9000000028</id>
-    <ecommerce_id>832205777</ecommerce_id>
-    <title>Basqueland Brewing - Triplet</title>
-    <url>https://hopincraftbier.be/products/basqueland-brewing-triplet</url>
-    <brewery_name>Basqueland Brewing</brewery_name>
-    <price>18.53</price>
-    <regular_price>19.69</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/832205777/5733519939.png</image>
-    <beer_description>The Basqueland Brewing - Triplet contains: - Basqueland - GenesisIPA - New England / Hazy | 5,8% | 440 ml - Basqueland - OmnivoreIPA - Other | 6,2% | 440 ml - Basqueland - TopTenIPA - Imperial / Double New England / Hazy | 8% | 440 ml</beer_description>
-    <beer_style>IPA</beer_style>
-    <beer_abv>5 - 8%</beer_abv>
-    <beer_volume>3x440 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Spain</brewery_country>
-    <date_best_before>2026-06-01</date_best_before>
-    <beer_package_count>3</beer_package_count>
-    <beer_bundle>1</beer_bundle>
-    <bundle_skus>6404035,6423967,6402383</bundle_skus>
-  </item>
-  <item>
     <id>6681644</id>
     <ecommerce_id>832174029</ecommerce_id>
     <title>Riwaka Focus</title>
@@ -7982,6 +7962,6 @@
     <date_canned>2025-03-17</date_canned>
     <untappd_id>6186985</untappd_id>
   </item>
-  <timestamp>1781080873</timestamp>
-  <gen_date>10/06/2026 10:41:13</gen_date>
+  <timestamp>1781125678</timestamp>
+  <gen_date>10/06/2026 23:07:58</gen_date>
 </feed>
