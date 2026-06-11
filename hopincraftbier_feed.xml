@@ -6195,22 +6195,6 @@
     <untappd_id>6300505</untappd_id>
   </item>
   <item>
-    <id>5559381</id>
-    <ecommerce_id>780359012</ecommerce_id>
-    <title>Rip This Joint (2023)</title>
-    <url>https://hopincraftbier.be/products/firestone-walker-rip-this-joint-2023</url>
-    <brewery_name>Firestone Walker Brewing Company</brewery_name>
-    <price>13.98</price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5260881615.webp</image>
-    <beer_description>-Brewmaster's Collective Exclusive- Don’t miss this collaboration with our friends from Side Project Brewing! Aged in Henry McKenna bourbon barrels, this colossal stout with a variety of specialty malts is simultaneously viscous &amp; smooth. Firestone Walker - Rip This Joint (2023)</beer_description>
-    <beer_style>Stout - Imperial / Double</beer_style>
-    <beer_abv>13.9%</beer_abv>
-    <beer_volume>355 ml</beer_volume>
-    <beer_package>bottle</beer_package>
-    <brewery_country>United States</brewery_country>
-    <untappd_id>5559381</untappd_id>
-  </item>
-  <item>
     <id>6247096</id>
     <ecommerce_id>780359011</ecommerce_id>
     <title>Midnight Merkin (2025)</title>
@@ -7982,6 +7966,6 @@
     <date_canned>2025-03-17</date_canned>
     <untappd_id>6186985</untappd_id>
   </item>
-  <timestamp>1781151308</timestamp>
-  <gen_date>11/06/2026 06:15:08</gen_date>
+  <timestamp>1781188206</timestamp>
+  <gen_date>11/06/2026 16:30:06</gen_date>
 </feed>
