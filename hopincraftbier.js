@@ -1,4 +1,4 @@
-const version = 'v7.18';
+const version = 'v7.19';
 let currentLanguage;
 
 const txtNl1 = '<div class="dtooltip"><p class="hover question">Kortingscoupon</p><p class="dtooltiptext">Afhankelijk van de gekozen betaling en levering, kunt u een kortingscoupon krijgen die te gebruiken is bij een volgende bestelling. Voor dit bier ziet u de bedragen in deze tabel</p></div><table class="discount-table"><thead><tr class="first_header"><th></th><th colspan="2">Manier van levering</th></tr><tr><th>Manier van betaling</th><th>Afhaling</th><th>Levering</th></tr></thead><tbody><tr><td class="header">Betalen bij afhaling</td><td>€ ';
@@ -256,7 +256,7 @@ function processAttributes(status) {
                         if (it.trim() === '183850254') {
                             //     183850254 / Laatste/Last ones: https://hopincraftbier.be/en/products/laatste
                             uri = 'laatste';
-                            label = lng === 'en' ? 'Last ones' : 'Laatste';
+                            label = 'EN' === getCustomerLng() ? 'Last ones' : 'Laatste';
                         }
                         if (it.trim() === '182502672') {
                             //     182502672 / Packs: https://hopincraftbier.be/en/products/packs
@@ -271,12 +271,12 @@ function processAttributes(status) {
                         if (it.trim() === '176745018') {
                             //     176745018 / Nieuw/New: https://hopincraftbier.be/en/products/nieuw
                             uri = 'nieuw';
-                            label = lng === 'en' ? 'New' : 'Nieuw';
+                            label = 'EN' === getCustomerLng() ? 'New' : 'Nieuw';
                         }
                         if (it.trim() === '178091282') {
                             //     178091282 / Verwacht/Expected: https://hopincraftbier.be/en/products/verwacht                        let link = lng + '/products/' + it.trim().replaceAll("’", '').replaceAll(' ', '+');
                             uri = 'verwacht';
-                            label = lng === 'en' ? 'Expected' : 'Verwacht';
+                            label = 'EN' === getCustomerLng() ? 'Expected' : 'Verwacht';
                         }
                         if (uri !== '') {
                             if (newContent !== "") {
