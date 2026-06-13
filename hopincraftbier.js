@@ -1,4 +1,4 @@
-const version = 'v7.19';
+const version = 'v7.20';
 let currentLanguage;
 
 const txtNl1 = '<div class="dtooltip"><p class="hover question">Kortingscoupon</p><p class="dtooltiptext">Afhankelijk van de gekozen betaling en levering, kunt u een kortingscoupon krijgen die te gebruiken is bij een volgende bestelling. Voor dit bier ziet u de bedragen in deze tabel</p></div><table class="discount-table"><thead><tr class="first_header"><th></th><th colspan="2">Manier van levering</th></tr><tr><th>Manier van betaling</th><th>Afhaling</th><th>Levering</th></tr></thead><tbody><tr><td class="header">Betalen bij afhaling</td><td>€ ';
@@ -303,7 +303,7 @@ function processAttributes(status) {
     let btnTxt = 'Pre-Order';
     if (buttonTxtEl) {
         if (status === 'verwacht') {
-            btnTxt = ('EN' === getCustomerLng() ? 'Reserver' : 'Reserveer');
+            btnTxt = ('EN' === getCustomerLng() ? 'Reserve' : 'Reserveer');
         }
         if ((status === 'verwacht' || preOrderTxt !== "") && buttonTxtEl.textContent !== btnTxt) {
             buttonTxtEl.innerHTML = btnTxt;
@@ -452,8 +452,8 @@ function processExpectedLabels() {
                     || buyNowEl?.textContent === 'Out of stock'
                     || buyNowEl?.textContent === 'Uitverkocht'
                     || buyNowEl?.textContent === 'Reserveer'
-                    || buyNowEl?.textContent === 'Reserver') {
-                if (buyNowEl?.textContent !== 'Reserveer' && buyNowEl?.textContent !== 'Reserver') {
+                    || buyNowEl?.textContent === 'Reserve') {
+                if (buyNowEl?.textContent !== 'Reserveer' && buyNowEl?.textContent !== 'Reserve') {
                     if (buyNowEl.style.display !== 'none') {
                         buyNowEl.style.display = 'none';
                     }
@@ -661,7 +661,7 @@ function renameBuyButtonToPreorder() {
             if (priceEl && (priceEl.textContent === '€ 0,00' || priceEl.textContent.startsWith('Max '))) {
                 console.log(priceEl.textContent);
                 if ('EN' === getCustomerLng()) {
-                    btnTxt = 'Reserver'
+                    btnTxt = 'Reserve'
                 } else {
                     btnTxt = 'Reserveer'
                 }
