@@ -1,4 +1,4 @@
-const version = 'v7.20';
+const version = 'v7.21';
 let currentLanguage;
 
 const txtNl1 = '<div class="dtooltip"><p class="hover question">Kortingscoupon</p><p class="dtooltiptext">Afhankelijk van de gekozen betaling en levering, kunt u een kortingscoupon krijgen die te gebruiken is bij een volgende bestelling. Voor dit bier ziet u de bedragen in deze tabel</p></div><table class="discount-table"><thead><tr class="first_header"><th></th><th colspan="2">Manier van levering</th></tr><tr><th>Manier van betaling</th><th>Afhaling</th><th>Levering</th></tr></thead><tbody><tr><td class="header">Betalen bij afhaling</td><td>€ ';
@@ -659,7 +659,7 @@ function renameBuyButtonToPreorder() {
             let btnTxt = 'Pre-order';
             let priceEl = p.querySelector('.grid-product__price-value.ec-price-item');
             if (priceEl && (priceEl.textContent === '€ 0,00' || priceEl.textContent.startsWith('Max '))) {
-                console.log(priceEl.textContent);
+                log(priceEl.textContent);
                 if ('EN' === getCustomerLng()) {
                     btnTxt = 'Reserve'
                 } else {
@@ -932,12 +932,12 @@ function setServicePointWarning(cls, txt, lng) {
             }
             return;
         }
-        console.log('x ' + x);
+        log('x ' + x);
         pEl = document.createElement('p');
         pEl.style.marginBottom = '0';
         pEl.style.fontSize = '14px';
         pEl.style.display = 'inline-flex';
-        console.log('classList' + x.classList);
+        log('classList' + x.classList);
         if (x.classList.contains('ec-radiogroup__item--checked')) {
             pEl.style.color = '#eb5454';
         } else {
