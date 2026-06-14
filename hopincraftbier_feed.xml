@@ -4982,24 +4982,6 @@
     <untappd_id>6590688</untappd_id>
   </item>
   <item>
-    <id>3948646</id>
-    <ecommerce_id>806293946</ecommerce_id>
-    <title>Heightened State</title>
-    <url>https://hopincraftbier.be/products/outer-range-heightened-state</url>
-    <brewery_name>Outer Range Brewing Co.</brewery_name>
-    <price>5.02</price>
-    <regular_price>5,90</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/806293946/5523726599.png</image>
-    <beer_description>Imperial Stout made with Coffee from Mountain Dweller Coffee Roasters. A fresh toasty coffee aroma leads to strong roasted coffee with light chocolate undertones Outer Range - Heightened State</beer_description>
-    <beer_style>Stout - Imperial / Double</beer_style>
-    <beer_abv>14%</beer_abv>
-    <beer_volume>330 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>France</brewery_country>
-    <date_best_before>2026-11-25</date_best_before>
-    <untappd_id>3948646</untappd_id>
-  </item>
-  <item>
     <id>6505755</id>
     <ecommerce_id>806293872</ecommerce_id>
     <title>Above the Noise</title>
@@ -6195,25 +6177,6 @@
     <untappd_id>6424109</untappd_id>
   </item>
   <item>
-    <id>3820116</id>
-    <ecommerce_id>788422903</ecommerce_id>
-    <title>Parade</title>
-    <url>https://hopincraftbier.be/products/beak-parade</url>
-    <brewery_name>Beak</brewery_name>
-    <price>5.54</price>
-    <regular_price>7,39</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/788422903/5242076169.webp</image>
-    <beer_description>Saturated in Citra, Mosaic and Idaho 7 this 6% London Fog IPA is brimming with fruit bubblegum flavours of mango, orange peel, pineapple and ripe flat peaches. Beak - Parade</beer_description>
-    <beer_style>IPA - New England / Hazy</beer_style>
-    <beer_abv>6%</beer_abv>
-    <beer_volume>440 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>England</brewery_country>
-    <date_best_before>2026-03-02</date_best_before>
-    <date_canned>2025-09-03</date_canned>
-    <untappd_id>3820116</untappd_id>
-  </item>
-  <item>
     <id>6448002</id>
     <ecommerce_id>787872583</ecommerce_id>
     <title>The Way Is Shut</title>
@@ -7281,24 +7244,6 @@
     <untappd_id>6340747</untappd_id>
   </item>
   <item>
-    <id>6337778</id>
-    <ecommerce_id>770501259</ecommerce_id>
-    <title>CROWNS</title>
-    <url>https://hopincraftbier.be/products/garage-crowns</url>
-    <brewery_name>Garage Beer Co.</brewery_name>
-    <price>5.93</price>
-    <regular_price>7,91</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/770501259/5073875370.webp</image>
-    <beer_description>DIPA MADE WITH CITRA, STRATA AND MOSAIC (T90 AND SPECTRUM) TO ACHIEVE PINEAPPLE FLAVORS Garage - CROWNS</beer_description>
-    <beer_style>IPA - Imperial / Double</beer_style>
-    <beer_abv>8.5%</beer_abv>
-    <beer_volume>440 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Spain</brewery_country>
-    <date_canned>2025-07-08</date_canned>
-    <untappd_id>6337778</untappd_id>
-  </item>
-  <item>
     <id>4977403</id>
     <ecommerce_id>769161768</ecommerce_id>
     <title>Heavy Things (2022)</title>
@@ -8046,23 +7991,6 @@
     <untappd_id>6242674</untappd_id>
   </item>
   <item>
-    <id>6257025</id>
-    <ecommerce_id>751529280</ecommerce_id>
-    <title>Mosaic Monster</title>
-    <url>https://hopincraftbier.be/products/tin-barn-mosaic-monster</url>
-    <brewery_name>Tin Barn Brewing</brewery_name>
-    <price>5.81</price>
-    <regular_price>11,62</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5438339789.webp</image>
-    <beer_description>This hazy beast of a Double New England IPA is double dry-hopped with an unruly dose of Mosaic and Citra. This juicy titan unleashes an explosive bouquet of mango, candied orange peel, and dank tropical haze to tame the monster within. It’s dangerously drinkable — unleash with caution. Tin Barn - Mosaic Monster</beer_description>
-    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
-    <beer_abv>8.4%</beer_abv>
-    <beer_volume>473 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>United States</brewery_country>
-    <untappd_id>6257025</untappd_id>
-  </item>
-  <item>
     <id>3736086</id>
     <ecommerce_id>751529017</ecommerce_id>
     <title>Tiny Esses</title>
@@ -8198,24 +8126,6 @@
     <beer_package>bottle</beer_package>
     <brewery_country>United States</brewery_country>
     <untappd_id>4990447</untappd_id>
-  </item>
-  <item>
-    <id>6166277</id>
-    <ecommerce_id>751542508</ecommerce_id>
-    <title>Dock 111 - Citra, Cascade NZ, Motueka &amp; Pacifica</title>
-    <url>https://hopincraftbier.be/products/le-ketch-dock-111-citra-cascade-nz-motueka--pacifica</url>
-    <brewery_name>Le Ketch</brewery_name>
-    <price>5.54</price>
-    <regular_price>11,08</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5438318471.png</image>
-    <beer_description>NEW ENGLAND IPA AU MIEL. HOUBLONS: CITRA, CASCADE NZ, MOTUEKA &amp; PACIFICA Le Ketch - Dock 111 - Citra, Cascade NZ, Motueka &amp; Pacifica</beer_description>
-    <beer_style>IPA - New England / Hazy</beer_style>
-    <beer_abv>6.5%</beer_abv>
-    <beer_volume>473 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Canada</brewery_country>
-    <date_canned>2025-04-07</date_canned>
-    <untappd_id>6166277</untappd_id>
   </item>
   <item>
     <id>6194337</id>
@@ -8496,23 +8406,6 @@
     <untappd_id>6117115</untappd_id>
   </item>
   <item>
-    <id>6189429</id>
-    <ecommerce_id>735452033</ecommerce_id>
-    <title>Coule</title>
-    <url>https://hopincraftbier.be/products/emporium-coule</url>
-    <brewery_name>Emporium Microbrasserie</brewery_name>
-    <price>5.13</price>
-    <regular_price>10.26</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4827643389.png</image>
-    <beer_description>New England IPA that highlights a trio of varieties that have helped cement the style in the brewing world: Citra, Mosaic and Simcoe, with a touch of Idaho 7. The concept was to use the Holy Trinity of hops of American origin, use them in different forms and work with modern hopping techniques. The result is an explosive NEIPA saturated with hops, yet retaining its juicy and balanced appearance. We note grapefruit, orange juice, bubble gum and tropical fruits, balanced by a resinous and slightly « dank » side. Emporium - Coule</beer_description>
-    <beer_style>IPA - New England / Hazy</beer_style>
-    <beer_abv>7%</beer_abv>
-    <beer_volume>473 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Canada</brewery_country>
-    <untappd_id>6189429</untappd_id>
-  </item>
-  <item>
     <id>6186139</id>
     <ecommerce_id>735452031</ecommerce_id>
     <title>Color Theory</title>
@@ -8565,6 +8458,6 @@
     <date_canned>2025-03-17</date_canned>
     <untappd_id>6186985</untappd_id>
   </item>
-  <timestamp>1781450109</timestamp>
-  <gen_date>14/06/2026 17:15:09</gen_date>
+  <timestamp>1781469007</timestamp>
+  <gen_date>14/06/2026 22:30:07</gen_date>
 </feed>
