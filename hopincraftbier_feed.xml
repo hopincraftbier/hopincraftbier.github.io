@@ -491,6 +491,70 @@
     <bundle_skus>6673165,6690598,6674381,6690595</bundle_skus>
   </item>
   <item>
+    <id>6698817</id>
+    <ecommerce_id>837240403</ecommerce_id>
+    <title>Ummagumma</title>
+    <url>https://hopincraftbier.be/products/factory-ummagumma</url>
+    <brewery_name>Factory Brewing</brewery_name>
+    <price>7.46</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/837240403/5781403916.png</image>
+    <beer_description>A Hazy DIPA with Nelson Sauvin, Rakau, Motueka &amp; Peacharine. 'Ummagumma is brewed with our good friends at Juova. We celebrate the 5th anniversary of Juova Hanahuone with this beautiful Hazy DIPA with Nelson Sauvin, Rakau, Motueka and Peacharine. Expect aromas of white wine, white pepper, fresh lime, peach rings and other stone fruits.' Head Brewer Jirka Ordén Factory Brewing - Ummagumma</beer_description>
+    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
+    <beer_abv>8%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Finland</brewery_country>
+    <untappd_id>6698817</untappd_id>
+  </item>
+  <item>
+    <id>6684268</id>
+    <ecommerce_id>837240402</ecommerce_id>
+    <title>Reveries Of... Citra</title>
+    <url>https://hopincraftbier.be/products/factory-reveries-of-citra</url>
+    <brewery_name>Factory Brewing</brewery_name>
+    <price>7.16</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/837240402/5781403922.png</image>
+    <beer_description>A Single Hop Hazy IPA with Citra hops. 'The new 2025 crop of Citra is here. We contracted two beautiful lots and they are both on display with this Single Hop Hazy Ipa. Expect notes of mango, grapefruit, some dankness and a pleasant grassiness.' Head Brewer Jirka Ordén Factory Brewing - Reveries Of... Citra</beer_description>
+    <beer_style>IPA - New England / Hazy</beer_style>
+    <beer_abv>7.3%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Finland</brewery_country>
+    <untappd_id>6684268</untappd_id>
+  </item>
+  <item>
+    <id>6684270</id>
+    <ecommerce_id>837238955</ecommerce_id>
+    <title>Pedal Point</title>
+    <url>https://hopincraftbier.be/products/factory-pedal-point</url>
+    <brewery_name>Factory Brewing</brewery_name>
+    <price>7.46</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/837238955/5781414049.png</image>
+    <beer_description>A Hazy Double IPA with Nelson Sauvin &amp; Citra. 'With Pedal Point we went with the classic hop combo of Nelson Sauvin and Citra. Expect complex aroma of mango, grapefruit, white pepper and white wine with some of that sticky dankness.' Head Brewer Jirka Ordén Factory Brewing - Pedal Point</beer_description>
+    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
+    <beer_abv>8%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Finland</brewery_country>
+    <untappd_id>6684270</untappd_id>
+  </item>
+  <item>
+    <id>6672848</id>
+    <ecommerce_id>837238954</ecommerce_id>
+    <title>Beyond Youth</title>
+    <url>https://hopincraftbier.be/products/factory-beyond-youth</url>
+    <brewery_name>Factory Brewing</brewery_name>
+    <price>7.92</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/837238954/5781414793.png</image>
+    <beer_description>A Hazy Quadruple IPA with Nelson Sauvin, Motueka and Riwaka. Beyond Youth continues our Quadruple Hazy IPA series. This time with Nelson Sauvin, Motueka and Riwaka. For a couple of our latest QIPAs we have found a yeast that attenuates these big beers a bit drier than before. I feel it gives these big ones more drinkability and lets the hops shine even more. Expect notes of Nelson's earthiness, white wine, lime and bright grapefruit. Factory Brewing - Beyond Youth</beer_description>
+    <beer_style>IPA - Quadruple</beer_style>
+    <beer_abv>11.5%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Finland</brewery_country>
+    <untappd_id>6672848</untappd_id>
+  </item>
+  <item>
     <id>6653660</id>
     <ecommerce_id>836591267</ecommerce_id>
     <title>Slow Focus</title>
@@ -1009,6 +1073,21 @@
     <untappd_id>6655425</untappd_id>
   </item>
   <item>
+    <id>6711616</id>
+    <ecommerce_id>830559479</ecommerce_id>
+    <title>Outer Range - Over Seas</title>
+    <url>https://hopincraftbier.be/products/outer-range-over-seas-collab-messorem</url>
+    <brewery_name>Outer Range Brewing Rockies/Alps</brewery_name>
+    <price>7.01</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/830559479/5815302423.png</image>
+    <beer_description>Collab with Messorem Hops: Citra • Motueka • Riwaka Tasting Notes: Pineapple • Orange Zest • Mango ABV: 7.0% Outer Range - Over Seas</beer_description>
+    <beer_style>IPA - Hazy</beer_style>
+    <beer_abv>7%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>France</brewery_country>
+  </item>
+  <item>
     <id>6681392</id>
     <ecommerce_id>830574393</ecommerce_id>
     <title>Ritual Obscure</title>
@@ -1216,6 +1295,54 @@
     <beer_package>can</beer_package>
     <brewery_country>United States</brewery_country>
     <untappd_id>1537891</untappd_id>
+  </item>
+  <item>
+    <id>6614048</id>
+    <ecommerce_id>830479102</ecommerce_id>
+    <title>Super Sendy</title>
+    <url>https://hopincraftbier.be/products/outer-range-super-sendy</url>
+    <brewery_name>Outer Range Brewing Co.</brewery_name>
+    <price>7.24</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/830479102/5716018204.png</image>
+    <beer_description>Hops: Citra • Mosaic • Nelson Tasting Notes: Huell Melon • Pineapple • Dragon Fruit Outer Range - Super Sendy</beer_description>
+    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
+    <beer_abv>8%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>France</brewery_country>
+    <untappd_id>6614048</untappd_id>
+  </item>
+  <item>
+    <id>6657936</id>
+    <ecommerce_id>830479101</ecommerce_id>
+    <title>Moonline</title>
+    <url>https://hopincraftbier.be/products/outer-range-moonline</url>
+    <brewery_name>Outer Range Brewing Co.</brewery_name>
+    <price>7.24</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/830479101/5716019229.png</image>
+    <beer_description>Moonline - Hazy DIPA - In Collaboration with Barthaas Hops: Luna • Galaxy Prisma • Vic Secret Tasting Notes: Mango • Passion Fruits • Pine Outer Range - Moonline</beer_description>
+    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
+    <beer_abv>7.7%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>France</brewery_country>
+    <untappd_id>6657936</untappd_id>
+  </item>
+  <item>
+    <id>6590389</id>
+    <ecommerce_id>830482826</ecommerce_id>
+    <title>Deepest Steepest</title>
+    <url>https://hopincraftbier.be/products/outer-range-deepest-steepest</url>
+    <brewery_name>Outer Range Brewing Co.</brewery_name>
+    <price>7.84</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/830482826/5716018222.png</image>
+    <beer_description>Hops: Citra • Citra Cryo • Citra Quantum Tasting Notes: Passion Fruit • Candied Lemon • Tangerine Outer Range - Deepest Steepest</beer_description>
+    <beer_style>IPA - Triple New England / Hazy</beer_style>
+    <beer_abv>10.5%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>France</brewery_country>
+    <untappd_id>6590389</untappd_id>
   </item>
   <item>
     <id>6599719</id>
@@ -8435,6 +8562,6 @@
     <date_canned>2025-03-17</date_canned>
     <untappd_id>6186985</untappd_id>
   </item>
-  <timestamp>1781596806</timestamp>
-  <gen_date>16/06/2026 10:00:06</gen_date>
+  <timestamp>1781626097</timestamp>
+  <gen_date>16/06/2026 18:08:17</gen_date>
 </feed>
