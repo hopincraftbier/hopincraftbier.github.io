@@ -5,6 +5,38 @@
   <link>https://hopincraftbier.be/products&lt;/link&gt;</link>
   <description>Hop In Craftbier Products feed</description>
   <item>
+    <id>6725293</id>
+    <ecommerce_id>841914815</ecommerce_id>
+    <title>Static Motion</title>
+    <url>https://hopincraftbier.be/products/factory-static-motion</url>
+    <brewery_name>Factory Brewing</brewery_name>
+    <price>7.93</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/841914815/5821479712.png</image>
+    <beer_description>A Hazy TIPA with Citra, Nelson Sauvin &amp; Motueka. 'Static Motion is a massively dry hopped Triple Hazy IPA with Citra, Nelson and Motueka. Expect notes of juicy mango, fresh lime, grapefruit and earthy notes of white wine and white pepper.' Head Brewer Jirka Ordén Factory Brewing - Static Motion</beer_description>
+    <beer_style>IPA - Triple New England / Hazy</beer_style>
+    <beer_abv>10%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Finland</brewery_country>
+    <untappd_id>6725293</untappd_id>
+  </item>
+  <item>
+    <id>6725294</id>
+    <ecommerce_id>841914814</ecommerce_id>
+    <title>Alchemy 2026</title>
+    <url>https://hopincraftbier.be/products/factory-alchemy-2026</url>
+    <brewery_name>Factory Brewing</brewery_name>
+    <price>7.43</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/841914814/5821510059.png</image>
+    <beer_description>A Hazy IPA With Motueka &amp; Citra. 'This is 2026 version of our Alchemy, a Hazy IPA brewed originally with Track Brewing. Citra and Motueka together makes a great fruity hop combo. Expect notes of fresh lime, juicy mango, grapefruit and a touch of dankness.' Head Brewer Jirka Ordén Factory Brewing - Alchemy 2026</beer_description>
+    <beer_style>IPA - New England / Hazy</beer_style>
+    <beer_abv>7.3%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Finland</brewery_country>
+    <untappd_id>6725294</untappd_id>
+  </item>
+  <item>
     <id>9000000046</id>
     <ecommerce_id>840367876</ecommerce_id>
     <title>SOMA Beer Triplet #8</title>
@@ -8566,6 +8598,6 @@
     <date_canned>2025-03-17</date_canned>
     <untappd_id>6186985</untappd_id>
   </item>
-  <timestamp>1781631907</timestamp>
-  <gen_date>16/06/2026 19:45:07</gen_date>
+  <timestamp>1781633475</timestamp>
+  <gen_date>16/06/2026 20:11:15</gen_date>
 </feed>
