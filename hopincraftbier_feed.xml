@@ -5149,24 +5149,6 @@
     <untappd_id>6491728</untappd_id>
   </item>
   <item>
-    <id>6491725</id>
-    <ecommerce_id>806337900</ecommerce_id>
-    <title>Northern Lights</title>
-    <url>https://hopincraftbier.be/products/norm-northern-lights</url>
-    <brewery_name>Norm Brewing</brewery_name>
-    <price>5.29</price>
-    <regular_price>6,22</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5500024981.png</image>
-    <beer_description>DDH TIPA HOPS : RAKAU / NECTARON / CITRA Triple New England IPA double dry hopped with Rakau, Nectaron, Rakau Sub Zero and Citra. Rakau burst with apricot, plum, mango, pear, and other stone fruits while Nectaron brings huge aroma of passion fruit, peach, grapefruit, and pineapple. Just a hint of Citra to give so more tropical notes. The aromatic is fruity, clean and explosive ! Norm - Northern Lights</beer_description>
-    <beer_style>IPA - Triple New England / Hazy</beer_style>
-    <beer_abv>9.5%</beer_abv>
-    <beer_volume>440 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Belgium</brewery_country>
-    <date_best_before>2026-08-01</date_best_before>
-    <untappd_id>6491725</untappd_id>
-  </item>
-  <item>
     <id>6453136</id>
     <ecommerce_id>806337901</ecommerce_id>
     <title>Nelson Focus</title>
@@ -7708,24 +7690,6 @@
     <untappd_id>6318598</untappd_id>
   </item>
   <item>
-    <id>6306505</id>
-    <ecommerce_id>767347694</ecommerce_id>
-    <title>Serpentin (collab All My Friends)</title>
-    <url>https://hopincraftbier.be/products/brasserie-sir-john-serpentin</url>
-    <brewery_name>Brasserie Sir John Brewing Co.</brewery_name>
-    <price>7.86</price>
-    <regular_price>10,48</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5099898640.webp</image>
-    <beer_description>This first collaboration with the beautiful gang from All My Friends, in Prince Edward County, Ontario, is truly silly! A finish just sweet enough to camouflage the bitterness and highlight the alcohol that comes to play with your jowls. It's green, but balanced, saturated in hops, but with a thiccccc mouthfeel. With Nelson Sauvin Bliss, Nelson Sauvin Cryo, Citra, Citra Dynaboost and Peacharine hops, in addition to a late variant of Nelson Sauvin that provides different notes - more towards grapefruit and guava than the traditional winey notes - we have a gigantic hop bomb, perfect to accompany you in your misfortunes with friends. Wishing you as much fun as we had with the gang from All My Friends. Cheers! Brasserie Sir John - Serpentin</beer_description>
-    <beer_style>IPA - Imperial / Double</beer_style>
-    <beer_abv>8.3%</beer_abv>
-    <beer_volume>473 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Canada</brewery_country>
-    <date_canned>2025-06-23</date_canned>
-    <untappd_id>6306505</untappd_id>
-  </item>
-  <item>
     <id>6299087</id>
     <ecommerce_id>767361371</ecommerce_id>
     <title>Balle Perdue (collab Messorem)</title>
@@ -7954,24 +7918,6 @@
     <untappd_id>6291430</untappd_id>
   </item>
   <item>
-    <id>6256812</id>
-    <ecommerce_id>756989449</ecommerce_id>
-    <title>Oban</title>
-    <url>https://hopincraftbier.be/products/noctem-artisanss-oban</url>
-    <brewery_name>Noctem Artisans Brasseurs</brewery_name>
-    <price>5.44</price>
-    <regular_price>10,88</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4966303669.webp</image>
-    <beer_description>Noctem Artisanss - Oban</beer_description>
-    <beer_style>IPA - Triple New England / Hazy</beer_style>
-    <beer_abv>10%</beer_abv>
-    <beer_volume>473 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Canada</brewery_country>
-    <date_canned>2025-05-20</date_canned>
-    <untappd_id>6256812</untappd_id>
-  </item>
-  <item>
     <id>6280326</id>
     <ecommerce_id>756989447</ecommerce_id>
     <title>Château (collab Third Moon)</title>
@@ -8087,24 +8033,6 @@
     <beer_package>can</beer_package>
     <brewery_country>United States</brewery_country>
     <untappd_id>1298579</untappd_id>
-  </item>
-  <item>
-    <id>6261817</id>
-    <ecommerce_id>756873722</ecommerce_id>
-    <title>Headless</title>
-    <url>https://hopincraftbier.be/products/anchorage-headless</url>
-    <brewery_name>Anchorage Brewing Company</brewery_name>
-    <price>6.5</price>
-    <regular_price>12,99</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4962101839.webp</image>
-    <beer_description>India Pale Ale Brewed with citra hops. DDH with Citra and Mosaic hops. Fermented with hazy chico yeast. Anchorage - Headless</beer_description>
-    <beer_style>IPA - New England / Hazy</beer_style>
-    <beer_abv>6.2%</beer_abv>
-    <beer_volume>473 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>United States</brewery_country>
-    <date_canned>2025-04-25</date_canned>
-    <untappd_id>6261817</untappd_id>
   </item>
   <item>
     <id>6274029</id>
@@ -8626,6 +8554,6 @@
     <date_canned>2025-03-17</date_canned>
     <untappd_id>6186985</untappd_id>
   </item>
-  <timestamp>1781715266</timestamp>
-  <gen_date>17/06/2026 18:54:26</gen_date>
+  <timestamp>1781721907</timestamp>
+  <gen_date>17/06/2026 20:45:07</gen_date>
 </feed>
