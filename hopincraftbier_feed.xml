@@ -644,6 +644,78 @@
     <untappd_id>6672848</untappd_id>
   </item>
   <item>
+    <id>6725364</id>
+    <ecommerce_id>836672605</ecommerce_id>
+    <title>Sunshake</title>
+    <url>https://hopincraftbier.be/products/doskiwis-sunshake</url>
+    <brewery_name>DosKiwis</brewery_name>
+    <price>7.26</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/836672605/5817244838.png</image>
+    <beer_description>A smooth, hazy dip featuring CITRA, CITRA CRYO &amp; KRUSH. DosKiwis - Sunshake</beer_description>
+    <beer_style>IPA - English</beer_style>
+    <beer_abv>8%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Spain</brewery_country>
+    <date_best_before>2026-12-03</date_best_before>
+    <date_canned>2026-06-03</date_canned>
+    <untappd_id>6725364</untappd_id>
+  </item>
+  <item>
+    <id>6706759</id>
+    <ecommerce_id>836672600</ecommerce_id>
+    <title>Sidereal</title>
+    <url>https://hopincraftbier.be/products/doskiwis-sidereal</url>
+    <brewery_name>DosKiwis</brewery_name>
+    <price>6.07</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/836672600/5817235703.png</image>
+    <beer_description>A CRISP, MODERN WEST COAST IPA FEATURING ROCK, CITRA CRYO &amp; COLUMBUS CRYO. DosKiwis - Sidereal</beer_description>
+    <beer_style>IPA - Other</beer_style>
+    <beer_abv>7%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Spain</brewery_country>
+    <date_best_before>2026-12-01</date_best_before>
+    <date_canned>2026-06-01</date_canned>
+    <untappd_id>6706759</untappd_id>
+  </item>
+  <item>
+    <id>6679126</id>
+    <ecommerce_id>836672599</ecommerce_id>
+    <title>Hindsight 20/20</title>
+    <url>https://hopincraftbier.be/products/doskiwis-hindsight-20-20</url>
+    <brewery_name>DosKiwis</brewery_name>
+    <price>7.26</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/836672599/5776053117.png</image>
+    <beer_description>A HAZY DIPA FEATURING SIMCOE CRYING, STONE, STRATA &amp; MOSAIC. DosKiwis - Hindsight 20/20</beer_description>
+    <beer_style>IPA - English</beer_style>
+    <beer_abv>8%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Spain</brewery_country>
+    <date_best_before>2026-11-05</date_best_before>
+    <date_canned>2026-05-05</date_canned>
+    <untappd_id>6679126</untappd_id>
+  </item>
+  <item>
+    <id>6706758</id>
+    <ecommerce_id>836670311</ecommerce_id>
+    <title>Altitude</title>
+    <url>https://hopincraftbier.be/products/doskiwis-altitude</url>
+    <brewery_name>DosKiwis</brewery_name>
+    <price>6.94</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/836670311/5776054625.png</image>
+    <beer_description>A SMOOTH HAZY IPA FEATURING NECTARON, WOOD, MOSAIC CRYO &amp; WAIMEA FRESH HOP JUICE. DosKiwis - Altitude</beer_description>
+    <beer_style>IPA - New England / Hazy</beer_style>
+    <beer_abv>6.7%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Spain</brewery_country>
+    <date_best_before>2026-11-21</date_best_before>
+    <date_canned>2026-05-21</date_canned>
+    <untappd_id>6706758</untappd_id>
+  </item>
+  <item>
     <id>6653660</id>
     <ecommerce_id>836591267</ecommerce_id>
     <title>Slow Focus</title>
@@ -8593,6 +8665,6 @@
     <date_canned>2025-03-17</date_canned>
     <untappd_id>6186985</untappd_id>
   </item>
-  <timestamp>1781771408</timestamp>
-  <gen_date>18/06/2026 10:30:08</gen_date>
+  <timestamp>1781784937</timestamp>
+  <gen_date>18/06/2026 14:15:37</gen_date>
 </feed>
