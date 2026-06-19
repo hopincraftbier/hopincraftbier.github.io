@@ -716,6 +716,74 @@
     <untappd_id>6706758</untappd_id>
   </item>
   <item>
+    <id>6744274</id>
+    <ecommerce_id>836672577</ecommerce_id>
+    <title>Double Happiness (V7) - Metal Dog</title>
+    <url>https://hopincraftbier.be/products/maktoob-double-happiness-metal-dog</url>
+    <brewery_name>Maktoob Brewing</brewery_name>
+    <price>7</price>
+    <regular_price>7.00</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/836672577/5775921194.png</image>
+    <beer_description>Double Happiness: Metal Dog is a groundbreaking Triple Dry Hopped Hazy DIPA. With a powerful alcohol percentage of 8.2%, this beer serves as a stage for the very latest hop innovations. Here, Maktoob combines the iconic American Citra hop with Manilita, a rare experimental variety from Freestyle Hops in New Zealand. The triple cold hopping creates an extreme saturation of aromas, where the classic tropical notes of Citra are enhanced by the unique, intense fruit profiles of the overseas newcomer. Maktoob - Double Happiness (V7) - Metal Dog</beer_description>
+    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
+    <beer_abv>8.2%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Romania</brewery_country>
+    <untappd_id>6744274</untappd_id>
+  </item>
+  <item>
+    <id>6744275</id>
+    <ecommerce_id>836670300</ecommerce_id>
+    <title>Double Happiness (V8) Water Pig</title>
+    <url>https://hopincraftbier.be/products/maktoob-double-happiness-water-pig</url>
+    <brewery_name>Maktoob Brewing</brewery_name>
+    <price>7</price>
+    <regular_price>7.00</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/836670300/5775929832.png</image>
+    <beer_description>Double Happiness: Water Pig is a groundbreaking Triple Dry Hopped Hazy DIPA in which two of the world's most beloved hop varieties come together. Here, Maktoob combines the legendary American Citra hop with the New Zealand powerhouse Nectaron. Thanks to the triple cold hopping, this 8.2% beer is fully saturated with aromatic oils. It is a masterful NEDIPA that perfectly blends the intense, sweet peach characteristics of Nectaron with the bright citrus backbone of Citra. Maktoob - Double Happiness: Water Pig</beer_description>
+    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
+    <beer_abv>8.2%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Romania</brewery_country>
+    <untappd_id>6744275</untappd_id>
+  </item>
+  <item>
+    <id>6727077</id>
+    <ecommerce_id>836672576</ecommerce_id>
+    <title>Blind Date</title>
+    <url>https://hopincraftbier.be/products/maktoob-blind-date</url>
+    <brewery_name>Maktoob Brewing</brewery_name>
+    <price>7</price>
+    <regular_price>7.00</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/836672576/5775922240.png</image>
+    <beer_description>Blind Date is an intense, Triple Dry Hopped (TDH) Hazy Double IPA at 8.0% that brings together the absolute top of New Zealand hop varieties. For this brew, Maktoob Brewing uses Riwaka and the rare Nelson Bliss selection from Freestyle Hops—a specific, extremely carefully harvested batch of Nelson Sauvin known for its unprecedented aromatic power. The triple cold hopping creates a beer that completely overwhelms the senses with lush fruit aromas and a velvety texture. Maktoob - Blind Date</beer_description>
+    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
+    <beer_abv>8%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Romania</brewery_country>
+    <untappd_id>6727077</untappd_id>
+  </item>
+  <item>
+    <id>6727261</id>
+    <ecommerce_id>836672575</ecommerce_id>
+    <title>A Day at the Beach</title>
+    <url>https://hopincraftbier.be/products/maktoob-a-day-at-the-beach</url>
+    <brewery_name>Maktoob Brewing</brewery_name>
+    <price>7</price>
+    <regular_price>7.00</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/836672575/5775933764.png</image>
+    <beer_description>A Day at the Beach is a summery yet extremely powerful 8.0% Triple Dry Hopped (TDH) Hazy Double IPA with which Maktoob Brewing takes you straight into the future of hop cultivation. Alongside the well-known New Zealand classic Motueka, this brew utilizes HQG1 and HQG3. These are two extremely rare, experimental hop varieties from the prestigious Hop Quality Group program (supported by iconic American breweries such as Sierra Nevada and Russian River). This cutting-edge hop combination delivers an unprecedented deluge of fruity aromas and rich thiols. Maktoob - A Day at the Beach</beer_description>
+    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
+    <beer_abv>8%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Romania</brewery_country>
+    <untappd_id>6727261</untappd_id>
+  </item>
+  <item>
     <id>6653660</id>
     <ecommerce_id>836591267</ecommerce_id>
     <title>Slow Focus</title>
@@ -1155,6 +1223,39 @@
     <date_best_before>2026-10-19</date_best_before>
     <date_canned>2026-04-28</date_canned>
     <untappd_id>6682878</untappd_id>
+  </item>
+  <item>
+    <id>6629623</id>
+    <ecommerce_id>832470574</ecommerce_id>
+    <title>The Upside Down</title>
+    <url>https://hopincraftbier.be/products/engorile-the-upside-down</url>
+    <brewery_name>Engorile</brewery_name>
+    <price>6.9</price>
+    <regular_price>6.90</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/832470574/5735426965.png</image>
+    <beer_description>Powerful, citrusy, full-bodied. Engorile - The Upside Down</beer_description>
+    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
+    <beer_abv>7.8%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Spain</brewery_country>
+    <untappd_id>6629623</untappd_id>
+  </item>
+  <item>
+    <id>6629618</id>
+    <ecommerce_id>832456659</ecommerce_id>
+    <title>Drunked Donuts</title>
+    <url>https://hopincraftbier.be/products/engorile-drunked-donuts</url>
+    <brewery_name>Engorile</brewery_name>
+    <price>7.33</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/832456659/5735430151.png</image>
+    <beer_description>A dense, full-bodied, creamy, and elegant Imperial Stout. Despite its high alcohol content, it's well-integrated thanks to its body and the pastry notes imparted by the addition of donuts during brewing. A smooth, rich beer with chocolatey, nutty, and peanut notes. All this is combined with a dark, dense, opaque appearance and a well-formed brown head. Engorile - Drunked Donuts</beer_description>
+    <beer_style>Stout - Imperial / Double Pastry</beer_style>
+    <beer_abv>12.5%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Spain</brewery_country>
+    <untappd_id>6629618</untappd_id>
   </item>
   <item>
     <id>9000000028</id>
@@ -8665,6 +8766,6 @@
     <date_canned>2025-03-17</date_canned>
     <untappd_id>6186985</untappd_id>
   </item>
-  <timestamp>1781784937</timestamp>
-  <gen_date>18/06/2026 14:15:37</gen_date>
+  <timestamp>1781873540</timestamp>
+  <gen_date>19/06/2026 14:52:20</gen_date>
 </feed>
