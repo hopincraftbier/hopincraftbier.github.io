@@ -1,4 +1,4 @@
-/* HopInCraftbier custom css v4.15 */
+/* HopInCraftbier custom css v4.16 */
 /** start homepage **/
 body {
     margin: auto;
@@ -1004,9 +1004,12 @@ div.pager__body {
         text-size-adjust: 100%;
         -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 
+        .grid-product__title-inner {
+            margin: 0 5px;
+        }
         .grid-product__price {
             align-items: center;
-            margin-bottom: 10px;
+            margin: 0 5px 10px 5px;
             .grid-product__textblock.grid-product__price-label {
                 display: inline-block !important;
                 font-family: 'Bangers', system-ui;
