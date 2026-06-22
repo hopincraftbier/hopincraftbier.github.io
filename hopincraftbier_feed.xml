@@ -5,6 +5,39 @@
   <link>https://hopincraftbier.be/products&lt;/link&gt;</link>
   <description>Hop In Craftbier Products feed</description>
   <item>
+    <id>6726028</id>
+    <ecommerce_id>843054120</ecommerce_id>
+    <title>DBA Mega Pastry</title>
+    <url>https://hopincraftbier.be/products/dugges-dba-mega-pastry</url>
+    <brewery_name>Dugges Bryggeri</brewery_name>
+    <price>9.7</price>
+    <regular_price>9.70</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/843054120/5832589861.png</image>
+    <beer_description>DBA Mega Pastry Double Kentucky Bourbon Barrel-Aged Imperial Pineapple &amp; Vanilla Stout This is DBA Mega Pastry. A double Kentucky bourbon barrel-aged imperial stout with pineapple and vanilla. Just as you'd expect. Boom! The bottled version of the gravity-poured, barrel-served, extremely limited, festival and style winner Dugges Future Double Barrel-Aged Mega (Gravity Pour) flavored with pineapple and vanilla? Yes, but that's it! Our imperial stout Mega, aged in two different types of Kentucky Bourbon barrels for extra much, more, most! And then, in with pineapple and just the right amount of vanilla. Because 'more is more'. Sometime around 2005 or 2006 we wanted to brew a jaw-dropping brew. This jaw-dropping brew became, after a bit of experimentation and refinement, Idjit, one of our most iconic beers. Fast forward to 2021, when we wanted to reconnect with that ambition, by not just brewing something big, bigger or biggest, but brewing something mega! Since then, we've made countless versions of Mega. And, here's another one. Based on DBA Mega, here's a pastry stout our way. Balanced adult candy with a flavor profile that shouldn't really work with that plays in perfect harmony. It sings in your mouth. Deluxe! Dugges Bryggeri - DBA Mega Pastry</beer_description>
+    <beer_style>Stout - Imperial / Double Pastry</beer_style>
+    <beer_abv>16.5%</beer_abv>
+    <beer_volume>330 ml</beer_volume>
+    <beer_package>bottle</beer_package>
+    <brewery_country>Sweden</brewery_country>
+    <untappd_id>6726028</untappd_id>
+  </item>
+  <item>
+    <id>6725274</id>
+    <ecommerce_id>843047136</ecommerce_id>
+    <title>DBA Mega</title>
+    <url>https://hopincraftbier.be/products/dugges-dba-mega</url>
+    <brewery_name>Dugges Bryggeri</brewery_name>
+    <price>9.11</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/843047136/5832612000.png</image>
+    <beer_description>DBA Mega Double Kentucky Bourbon Barrel-Aged Imperial Stout This is DBA Mega. A double Kentucky bourbon barrel-aged imperial stout. Just as you'd expect. Boom! The bottled version of the gravity-poured, barrel-served, extremely limited, festival and style winner Dugges Future Double Barrel-Aged Mega (Gravity Pour)? Yes, but that's it! Our imperial stout Mega, aged in two different types of Kentucky Bourbon barrels for extra, more, most! Because 'more is more'. In the early days of Dugges, sometime around 2005 or 2006, we brewed a 16% imperial stout that never saw the light of day. It just didn't taste right. But, when we scaled down the recipe, it suddenly tasted really good! What tasted really good became Idjit. One of our most iconic beers. Fast forward to 2021, when we wanted to reconnect with that ambition, not just to brew something big, bigger or biggest, but to brew something mega! Extra everything, even more on top and a generous pinch of everything you could ever want. And then some. Since then, we have made countless versions of Mega. But, never actually any pure barrel-aged. This is how it is. Double-barrel-aged too. Because, it wouldn't be Mega if you didn't max it out. So to speak. Explosion! Dugges Bryggeri - DBA Mega</beer_description>
+    <beer_style>Stout - Imperial / Double</beer_style>
+    <beer_abv>16.5%</beer_abv>
+    <beer_volume>330 ml</beer_volume>
+    <beer_package>bottle</beer_package>
+    <brewery_country>Sweden</brewery_country>
+    <untappd_id>6725274</untappd_id>
+  </item>
+  <item>
     <id>6699194</id>
     <ecommerce_id>841970328</ecommerce_id>
     <title>Off the Rack American Whiskey 2025 By Rackhouse</title>
@@ -8712,6 +8745,6 @@
     <date_canned>2025-03-17</date_canned>
     <untappd_id>6186985</untappd_id>
   </item>
-  <timestamp>1782138607</timestamp>
-  <gen_date>22/06/2026 16:30:07</gen_date>
+  <timestamp>1782151128</timestamp>
+  <gen_date>22/06/2026 19:58:48</gen_date>
 </feed>
