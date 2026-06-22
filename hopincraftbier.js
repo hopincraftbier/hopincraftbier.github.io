@@ -1,4 +1,4 @@
-const version = 'v7.22';
+const version = 'v7.23';
 let currentLanguage;
 
 const txtNl1 = '<div class="dtooltip"><p class="hover question">Kortingscoupon</p><p class="dtooltiptext">Afhankelijk van de gekozen betaling en levering, kunt u een kortingscoupon krijgen die te gebruiken is bij een volgende bestelling. Voor dit bier ziet u de bedragen in deze tabel</p></div><table class="discount-table"><thead><tr class="first_header"><th></th><th colspan="2">Manier van levering</th></tr><tr><th>Manier van betaling</th><th>Afhaling</th><th>Levering</th></tr></thead><tbody><tr><td class="header">Betalen bij afhaling</td><td>€ ';
@@ -28,7 +28,6 @@ if (cookieDebug) {
     debug = cookieDebug.split('=')[1] === 'true';
 }
 
-if (prodMode) {
 redirectWhenNeeded();
 Ecwid.OnAPILoaded.add(function() {
     try {
@@ -64,9 +63,7 @@ Ecwid.OnPageLoaded.add(function(page){
         processInfoPages();
 
     } else if (page.type === 'CART' || page.type === 'CHECKOUT_ADDRESS' || page.type === 'CHECKOUT_DELIVERY' || page.type === 'CHECKOUT_ADDRESS_BOOK' || page.type === 'CHECKOUT_PAYMENT_DETAILS') {
-        if (prodMode) {
-            processCartPage();
-        }
+        processCartPage();
 
     } else if (page.type === 'FAVORITES') {
 
@@ -78,9 +75,7 @@ document.addEventListener("visibilitychange", (event) => {
     if (document.visibilityState === "visible" && process) {
         redirectWhenNeeded();
         processInfoPages();
-        if (prodMode) {
-            processCartPage();
-        }
+        processCartPage();
         processProductBrowserPage();
         processProductPage(false);
     }
@@ -100,9 +95,7 @@ const cartTotalMo = new MutationObserver(function (ms) {
         processProductPage(false);
         processStock();
         processExpectedPrice();
-        if (prodMode) {
-            processCartPage();
-        }
+        processCartPage();
 
         ms.forEach(function (m) {
             for (let i = 0; i < m.addedNodes.length; i++) {
@@ -123,9 +116,7 @@ const cartTotalMo = new MutationObserver(function (ms) {
                             } else if (className.indexOf('ec-store__cart-page') >= 0 ||
                                 className.indexOf('ec-store__checkout-page') ||
                                 className.indexOf('ec-cart-step__section')) {
-                                if (prodMode) {
-                                  processCartPage();
-                                }
+                              processCartPage();
                             }
                         }
                     }
@@ -139,7 +130,6 @@ cartTotalMo.observe(document, {
     subtree: true
 });
 processHeader();
-}
 
 function processStock() {
     log('processStock');
