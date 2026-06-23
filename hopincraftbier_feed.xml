@@ -6014,23 +6014,6 @@
     <untappd_id>6399165</untappd_id>
   </item>
   <item>
-    <id>6489383</id>
-    <ecommerce_id>797597930</ecommerce_id>
-    <title>Zugarramurdi (collab LERVIG)</title>
-    <url>https://hopincraftbier.be/products/basqueland-zugarramurdi</url>
-    <brewery_name>Basqueland Brewing</brewery_name>
-    <price>15.24</price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5389968873.png</image>
-    <beer_description>Zugarramurdi is an Imperial Rye Stout that has been aged for 24 months in Maker’s Mark Bourbon barrels, and then conditioned with toasted coconut, Bourbon vanilla, and Ancho chilies. This creation is the epitome of complexity, intensity, and elegance. This brew is born from a collaboration between Basqueland and Lervig Brewery from Stavanger. Together, we individually tasted and selected the barrels from the brewery’s cellar, driven by a relentless pursuit of complexity and balance in the final blend. Basqueland - Zugarramurdi</beer_description>
-    <beer_style>Stout - Other</beer_style>
-    <beer_abv>14%</beer_abv>
-    <beer_volume>660 ml</beer_volume>
-    <beer_package>bottle</beer_package>
-    <brewery_country>Spain</brewery_country>
-    <date_best_before>2027-11-01</date_best_before>
-    <untappd_id>6489383</untappd_id>
-  </item>
-  <item>
     <id>6359238</id>
     <ecommerce_id>794188753</ecommerce_id>
     <title>Profan</title>
@@ -8748,6 +8731,6 @@
     <date_canned>2025-03-17</date_canned>
     <untappd_id>6186985</untappd_id>
   </item>
-  <timestamp>1782232206</timestamp>
-  <gen_date>23/06/2026 18:30:06</gen_date>
+  <timestamp>1782237607</timestamp>
+  <gen_date>23/06/2026 20:00:07</gen_date>
 </feed>
