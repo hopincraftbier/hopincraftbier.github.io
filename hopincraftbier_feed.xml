@@ -8516,24 +8516,6 @@
     <untappd_id>6127069</untappd_id>
   </item>
   <item>
-    <id>6204470</id>
-    <ecommerce_id>738817001</ecommerce_id>
-    <title>Faire Le Vide</title>
-    <url>https://hopincraftbier.be/products/brasserie-sir-john-faire-le-vide</url>
-    <brewery_name>Brasserie Sir John Brewing Co.</brewery_name>
-    <price>5.3</price>
-    <regular_price>10.6</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5470117024.png</image>
-    <beer_description>Clear your mind. Take a deep breath. Exhale. That's the idea behind this beautiful double IPA, brewed in collaboration with Hops Connect Canada and hopped entirely with their Galaxy variety. Beneath its lovely yellow hue, sweet esters of passion fruit, ripe pineapple, and guava unfold and unfold on your palate in a relaxing dance. Let yourself be soothed by this smooth and creamy DIPA, and you too will experience the rest of emptiness. Brasserie Sir John - Faire Le Vide</beer_description>
-    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
-    <beer_abv>8.5%</beer_abv>
-    <beer_volume>473 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Canada</brewery_country>
-    <date_canned>2025-03-31</date_canned>
-    <untappd_id>6204470</untappd_id>
-  </item>
-  <item>
     <id>4579569</id>
     <ecommerce_id>738472474</ecommerce_id>
     <title>30,000 Steps</title>
@@ -8658,6 +8640,6 @@
     <date_canned>2025-03-17</date_canned>
     <untappd_id>6186985</untappd_id>
   </item>
-  <timestamp>1782342007</timestamp>
-  <gen_date>25/06/2026 01:00:07</gen_date>
+  <timestamp>1782383406</timestamp>
+  <gen_date>25/06/2026 12:30:06</gen_date>
 </feed>
