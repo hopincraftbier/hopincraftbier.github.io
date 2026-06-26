@@ -17,6 +17,7 @@
     <beer_abv>12%</beer_abv>
     <beer_volume>330 ml</beer_volume>
     <beer_package>bottle</beer_package>
+    <brewery_country>Poland</brewery_country>
     <untappd_id>6655583</untappd_id>
   </item>
   <item>
@@ -32,6 +33,7 @@
     <beer_abv>11%</beer_abv>
     <beer_volume>330 ml</beer_volume>
     <beer_package>bottle</beer_package>
+    <brewery_country>Poland</brewery_country>
     <untappd_id>6655581</untappd_id>
   </item>
   <item>
@@ -47,6 +49,7 @@
     <beer_abv>10%</beer_abv>
     <beer_volume>330 ml</beer_volume>
     <beer_package>bottle</beer_package>
+    <brewery_country>Poland</brewery_country>
     <untappd_id>6655580</untappd_id>
   </item>
   <item>
@@ -110,6 +113,7 @@
     <beer_abv>8%</beer_abv>
     <beer_volume>440 ml</beer_volume>
     <beer_package>can</beer_package>
+    <brewery_country>The Netherlands</brewery_country>
     <untappd_id>6727242</untappd_id>
   </item>
   <item>
@@ -8738,6 +8742,6 @@
     <date_canned>2025-03-17</date_canned>
     <untappd_id>6186985</untappd_id>
   </item>
-  <timestamp>1782488707</timestamp>
-  <gen_date>26/06/2026 17:45:07</gen_date>
+  <timestamp>1782489606</timestamp>
+  <gen_date>26/06/2026 18:00:06</gen_date>
 </feed>
