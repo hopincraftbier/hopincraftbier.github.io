@@ -1395,6 +1395,7 @@
     <beer_volume>473 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>Canada</brewery_country>
+    <date_canned>2026-04-21</date_canned>
     <untappd_id>6684390</untappd_id>
   </item>
   <item>
@@ -1411,6 +1412,7 @@
     <beer_volume>473 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>Canada</brewery_country>
+    <date_canned>2026-04-21</date_canned>
     <untappd_id>6684400</untappd_id>
   </item>
   <item>
@@ -1427,6 +1429,7 @@
     <beer_volume>355 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>Canada</brewery_country>
+    <date_canned>2026-04-08</date_canned>
     <untappd_id>6684404</untappd_id>
   </item>
   <item>
@@ -1443,6 +1446,7 @@
     <beer_volume>355 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>Canada</brewery_country>
+    <date_canned>2026-04-09</date_canned>
     <untappd_id>6684412</untappd_id>
   </item>
   <item>
@@ -2000,6 +2004,7 @@
     <beer_volume>473 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>Canada</brewery_country>
+    <date_canned>2026-04-29</date_canned>
     <untappd_id>6696775</untappd_id>
   </item>
   <item>
@@ -2017,6 +2022,7 @@
     <beer_volume>473 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>Canada</brewery_country>
+    <date_canned>2026-04-22</date_canned>
     <untappd_id>6678790</untappd_id>
   </item>
   <item>
@@ -2148,6 +2154,8 @@
     <beer_volume>473 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>Canada</brewery_country>
+    <date_best_before>2027-04-15</date_best_before>
+    <date_canned>2026-04-15</date_canned>
     <untappd_id>6674731</untappd_id>
   </item>
   <item>
@@ -2165,6 +2173,8 @@
     <beer_volume>473 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>Canada</brewery_country>
+    <date_best_before>2027-04-21</date_best_before>
+    <date_canned>2026-04-23</date_canned>
     <untappd_id>6696437</untappd_id>
   </item>
   <item>
@@ -8640,6 +8650,6 @@
     <date_canned>2025-03-17</date_canned>
     <untappd_id>6186985</untappd_id>
   </item>
-  <timestamp>1782451459</timestamp>
-  <gen_date>26/06/2026 07:24:19</gen_date>
+  <timestamp>1782459007</timestamp>
+  <gen_date>26/06/2026 09:30:07</gen_date>
 </feed>
