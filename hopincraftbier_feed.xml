@@ -3547,23 +3547,6 @@
     <untappd_id>6632483</untappd_id>
   </item>
   <item>
-    <id>6140785</id>
-    <ecommerce_id>821796509</ecommerce_id>
-    <title>Naked 2025 (collab Kingpin)</title>
-    <url>https://hopincraftbier.be/products/varvar-brew-naked-2025</url>
-    <brewery_name>Varvar Brew</brewery_name>
-    <price>7.06</price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/821796509/5638358821.png</image>
-    <beer_description>After endless experiments - which is not bad in itself - beer sometimes gets lost behind an incredible number of additives. Therefore, in the winter, when our colleagues from Kingpin visited us, we decided to do an experiment and brew an imperial stout without lactose, without fruit, without strange yeast and other sprinkles. Clean, unclouded taste. Nothing superfluous. Varvar Brew - Naked 2025</beer_description>
-    <beer_style>Stout - Imperial / Double</beer_style>
-    <beer_abv>12%</beer_abv>
-    <beer_volume>330 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Ukraine</brewery_country>
-    <date_canned>2025-02-25</date_canned>
-    <untappd_id>6140785</untappd_id>
-  </item>
-  <item>
     <id>6478604</id>
     <ecommerce_id>821796278</ecommerce_id>
     <title>Ghost Elephant 2025</title>
@@ -7801,24 +7784,6 @@
     <untappd_id>6296412</untappd_id>
   </item>
   <item>
-    <id>6293352</id>
-    <ecommerce_id>765275160</ecommerce_id>
-    <title>Hops Fwd</title>
-    <url>https://hopincraftbier.be/products/noctem-artisanss-hops-fwd</url>
-    <brewery_name>Noctem Artisans Brasseurs</brewery_name>
-    <price>8.16</price>
-    <regular_price>10,88</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5032065367.webp</image>
-    <beer_description>A select group of breweries are chosen to test Yakima Chief's new hop products, and we're thrilled to be among them! This triple NEIPA features YCH803 Citra, a new, highly aromatic hop extract. Combined with Nelson Sauvin, Krush, and conventional Citra, this blend is bursting with tropical fruit flavors and represents a step into the future of hoppy beer! Noctem Artisanss - Hops Fwd</beer_description>
-    <beer_style>IPA - Triple New England / Hazy</beer_style>
-    <beer_abv>10%</beer_abv>
-    <beer_volume>473 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Canada</brewery_country>
-    <date_canned>2025-05-26</date_canned>
-    <untappd_id>6293352</untappd_id>
-  </item>
-  <item>
     <id>6248577</id>
     <ecommerce_id>765275159</ecommerce_id>
     <title>Big Pharma</title>
@@ -8629,6 +8594,6 @@
     <date_canned>2025-03-17</date_canned>
     <untappd_id>6186985</untappd_id>
   </item>
-  <timestamp>1782466207</timestamp>
-  <gen_date>26/06/2026 11:30:07</gen_date>
+  <timestamp>1782480341</timestamp>
+  <gen_date>26/06/2026 15:25:41</gen_date>
 </feed>
