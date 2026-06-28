@@ -2827,6 +2827,24 @@
     <untappd_id>6639657</untappd_id>
   </item>
   <item>
+    <id>6603173</id>
+    <ecommerce_id>825654271</ecommerce_id>
+    <title>Portuguese Brandy Barrel Aged Imperial Stout</title>
+    <url>https://hopincraftbier.be/products/arpus-portuguese-brandy-barrel-aged-imperial-stout</url>
+    <brewery_name>Ārpus Brewing Co.</brewery_name>
+    <price>8.47</price>
+    <regular_price>9,97</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/825654271/5675310505.png</image>
+    <beer_description>This Imperial Stout was aged for 12 months in Portuguese brandy barrels from Lourinhã. Lourinhã Brandy is a DOC-protected spirit, much like Cognac or Armagnac — but uniquely Portuguese. The result is a rich and complex stout with deep roasted malt character, layered with elegant brandy warmth, subtle oak, dried fruit notes, and a smooth, lingering finish. A beer made for slow sipping and special moments. Arpus - Portuguese Brandy Barrel Aged Imperial Stout</beer_description>
+    <beer_style>Stout - Imperial / Double</beer_style>
+    <beer_abv>12%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Latvia</brewery_country>
+    <date_best_before>2027-02-28</date_best_before>
+    <untappd_id>6603173</untappd_id>
+  </item>
+  <item>
     <id>6639662</id>
     <ecommerce_id>825654270</ecommerce_id>
     <title>Hazelnut X Chocolate X Vanilla Imperial Stout</title>
@@ -8778,6 +8796,6 @@
     <date_canned>2025-03-17</date_canned>
     <untappd_id>6186985</untappd_id>
   </item>
-  <timestamp>1782636933</timestamp>
-  <gen_date>28/06/2026 10:55:33</gen_date>
+  <timestamp>1782642608</timestamp>
+  <gen_date>28/06/2026 12:30:08</gen_date>
 </feed>
