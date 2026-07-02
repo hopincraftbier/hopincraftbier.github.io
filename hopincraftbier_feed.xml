@@ -7166,24 +7166,6 @@
     <untappd_id>6314901</untappd_id>
   </item>
   <item>
-    <id>6292774</id>
-    <ecommerce_id>779012800</ecommerce_id>
-    <title>Renaître De Ses Cendres (collab Sudden Death)</title>
-    <url>https://hopincraftbier.be/products/fauve-renaitre-de-ses-cendres</url>
-    <brewery_name>Fauve</brewery_name>
-    <price>3.72</price>
-    <regular_price>7,44</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5147846912.webp</image>
-    <beer_description>A double NEIPA DDH, in collaboration with the German brewery Sudden Death. Powerful and juicy, it's brewed with three characterful hops: Mosaic, Nelson Sauvin, and Sabro, for an explosion of tropical flavors, freshness, and roundness. A beer that proves that, even after the shock, we can always come back stronger. And that the best response to sudden death... is rebirth. Fauve - Renaitre De Ses Cendres</beer_description>
-    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
-    <beer_abv>8%</beer_abv>
-    <beer_volume>440 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>France</brewery_country>
-    <date_best_before>2026-04-03</date_best_before>
-    <untappd_id>6292774</untappd_id>
-  </item>
-  <item>
     <id>6314891</id>
     <ecommerce_id>779008273</ecommerce_id>
     <title>Chambre Noire</title>
@@ -8639,6 +8621,6 @@
     <date_canned>2025-03-17</date_canned>
     <untappd_id>6186985</untappd_id>
   </item>
-  <timestamp>1782988206</timestamp>
-  <gen_date>02/07/2026 12:30:06</gen_date>
+  <timestamp>1782989108</timestamp>
+  <gen_date>02/07/2026 12:45:08</gen_date>
 </feed>
