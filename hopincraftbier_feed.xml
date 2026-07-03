@@ -477,26 +477,6 @@
     <untappd_id>6716144</untappd_id>
   </item>
   <item>
-    <id>9000000037</id>
-    <ecommerce_id>837874759</ecommerce_id>
-    <title>Varvar Brew - Pair</title>
-    <url>https://hopincraftbier.be/products/varvar-brew-pair</url>
-    <brewery_name>Varvar Brew</brewery_name>
-    <price>26.34</price>
-    <regular_price>27.73</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/837874759/5787654073.png</image>
-    <beer_description>The Varvar Brew - Pair contains: - SolidØl Royal BracklaBarleywine - Other | 11% | 375 ml - Ghost Elephant 2025Stout - Imperial / Double | 12,5% | 375 ml</beer_description>
-    <beer_style>Stout - Barleywine</beer_style>
-    <beer_abv>11 - 12%</beer_abv>
-    <beer_volume>2x375 ml</beer_volume>
-    <beer_package>bottle</beer_package>
-    <brewery_country>Ukraine</brewery_country>
-    <date_canned>2025-10-01</date_canned>
-    <beer_package_count>2</beer_package_count>
-    <beer_bundle>1</beer_bundle>
-    <bundle_skus>6318991,6478604</bundle_skus>
-  </item>
-  <item>
     <id>9000000036</id>
     <ecommerce_id>837874752</ecommerce_id>
     <title>Unseen Brewing Co. - Pair</title>
@@ -8445,6 +8425,6 @@
     <brewery_country>Canada</brewery_country>
     <untappd_id>6197367</untappd_id>
   </item>
-  <timestamp>1783073707</timestamp>
-  <gen_date>03/07/2026 12:15:07</gen_date>
+  <timestamp>1783079108</timestamp>
+  <gen_date>03/07/2026 13:45:08</gen_date>
 </feed>
