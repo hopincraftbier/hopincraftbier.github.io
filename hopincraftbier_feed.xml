@@ -6905,24 +6905,6 @@
     <untappd_id>6408280</untappd_id>
   </item>
   <item>
-    <id>6355397</id>
-    <ecommerce_id>784590114</ecommerce_id>
-    <title>Discover the Barycz Valley</title>
-    <url>https://hopincraftbier.be/products/nepo-discover-the-barycz-valley</url>
-    <brewery_name>Nepo Brewing</brewery_name>
-    <price>4.84</price>
-    <regular_price>5,69</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5242198214.webp</image>
-    <beer_description>Inspired by the extraordinary nature of the Barycza Valley and the picturesque Milicki Ponds, they created a beer that captures the lightness and freshness of this place. It's Session Hazy IPA – hazy, juicy hops, and easy to drink, perfect for discovering new flavors in good company. Nepo - Discover the Barycz Valley</beer_description>
-    <beer_style>IPA - Session</beer_style>
-    <beer_abv>5.5%</beer_abv>
-    <beer_volume>500 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Poland</brewery_country>
-    <date_best_before>2026-07-10</date_best_before>
-    <untappd_id>6355397</untappd_id>
-  </item>
-  <item>
     <id>6415833</id>
     <ecommerce_id>784594126</ecommerce_id>
     <title>D-Tonacja 9th Edition</title>
@@ -7183,24 +7165,6 @@
     <brewery_country>France</brewery_country>
     <date_best_before>2030-06-13</date_best_before>
     <untappd_id>6314901</untappd_id>
-  </item>
-  <item>
-    <id>6292774</id>
-    <ecommerce_id>779012800</ecommerce_id>
-    <title>Renaître De Ses Cendres (collab Sudden Death)</title>
-    <url>https://hopincraftbier.be/products/fauve-renaitre-de-ses-cendres</url>
-    <brewery_name>Fauve</brewery_name>
-    <price>3.72</price>
-    <regular_price>7,44</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5147846912.webp</image>
-    <beer_description>A double NEIPA DDH, in collaboration with the German brewery Sudden Death. Powerful and juicy, it's brewed with three characterful hops: Mosaic, Nelson Sauvin, and Sabro, for an explosion of tropical flavors, freshness, and roundness. A beer that proves that, even after the shock, we can always come back stronger. And that the best response to sudden death... is rebirth. Fauve - Renaitre De Ses Cendres</beer_description>
-    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
-    <beer_abv>8%</beer_abv>
-    <beer_volume>440 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>France</brewery_country>
-    <date_best_before>2026-04-03</date_best_before>
-    <untappd_id>6292774</untappd_id>
   </item>
   <item>
     <id>6314891</id>
@@ -8244,40 +8208,6 @@
     <untappd_id>6263801</untappd_id>
   </item>
   <item>
-    <id>6242674</id>
-    <ecommerce_id>751542512</ecommerce_id>
-    <title>Baby G.O.A.T.</title>
-    <url>https://hopincraftbier.be/products/tin-barn-baby-g-o-a-t</url>
-    <brewery_name>Tin Barn Brewing</brewery_name>
-    <price>5.64</price>
-    <regular_price>11,28</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5438339783.webp</image>
-    <beer_description>Introducing the newest in our Baby Animal Series - Baby G.O.A.T! This single New England IPA was hopped with Citra, Bru-1, and Motueka to create a juicy pineapple bomb that is the Greatest of All Time! Tin Barn - Baby G.O.A.T.</beer_description>
-    <beer_style>IPA - New England / Hazy</beer_style>
-    <beer_abv>7.2%</beer_abv>
-    <beer_volume>473 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>United States</brewery_country>
-    <untappd_id>6242674</untappd_id>
-  </item>
-  <item>
-    <id>6257025</id>
-    <ecommerce_id>751529280</ecommerce_id>
-    <title>Mosaic Monster</title>
-    <url>https://hopincraftbier.be/products/tin-barn-mosaic-monster</url>
-    <brewery_name>Tin Barn Brewing</brewery_name>
-    <price>5.81</price>
-    <regular_price>11,62</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/751529280/5438339789.webp</image>
-    <beer_description>This hazy beast of a Double New England IPA is double dry-hopped with an unruly dose of Mosaic and Citra. This juicy titan unleashes an explosive bouquet of mango, candied orange peel, and dank tropical haze to tame the monster within. It’s dangerously drinkable — unleash with caution. Tin Barn - Mosaic Monster</beer_description>
-    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
-    <beer_abv>8.4%</beer_abv>
-    <beer_volume>473 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>United States</brewery_country>
-    <untappd_id>6257025</untappd_id>
-  </item>
-  <item>
     <id>3736086</id>
     <ecommerce_id>751529017</ecommerce_id>
     <title>Tiny Esses</title>
@@ -8328,24 +8258,6 @@
     <brewery_country>United States</brewery_country>
     <date_canned>2024-12-24</date_canned>
     <untappd_id>348850</untappd_id>
-  </item>
-  <item>
-    <id>6236757</id>
-    <ecommerce_id>751529276</ecommerce_id>
-    <title>Aspect of Taurus</title>
-    <url>https://hopincraftbier.be/products/hop-butcher-for-the-world-aspect-of-taurus</url>
-    <brewery_name>Hop Butcher For The World</brewery_name>
-    <price>5.47</price>
-    <regular_price>10,94</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4929798224.png</image>
-    <beer_description>Citra, Lorien &amp; Sabro-hopped Double India Pale Ale Hop Butcher For The World - Aspect of Taurus</beer_description>
-    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
-    <beer_abv>8%</beer_abv>
-    <beer_volume>473 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>United States</brewery_country>
-    <date_canned>2025-04-21</date_canned>
-    <untappd_id>6236757</untappd_id>
   </item>
   <item>
     <id>3523256</id>
@@ -8447,24 +8359,6 @@
     <beer_package>can</beer_package>
     <brewery_country>Canada</brewery_country>
     <untappd_id>4739060</untappd_id>
-  </item>
-  <item>
-    <id>6246517</id>
-    <ecommerce_id>751537016</ecommerce_id>
-    <title>MC3PO (collab Great Notion)</title>
-    <url>https://hopincraftbier.be/products/equilibrium-mc3po</url>
-    <brewery_name>Equilibrium Brewery</brewery_name>
-    <price>4.35</price>
-    <regular_price>8,69</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5438365247.webp</image>
-    <beer_description>Brewed in collaboration with Great Notion Deep in the dark lab, two legendary forces collide to study all things science. Whether it’s mass-energy equivalence of a neutron star, trying to survive another council meeting on Coruscant, or creating the newest IPA, MC3PO is there. With a space-time-bending mix of hops to keep the droid in you satisfied, MC3PO starts off with a 2-row and white wheat base before a Mosaic Incognito, Mosaic Lupomax, Mosaic, Strata, and Amarillo hop bill to keep all your taste bud circuits firing. Smooth and bright flavors of pineapple and mango meet bright citrus with a touch of lime and a complex, dank earthiness and a touch of resinous bitterness. Equilibrium - MC3PO</beer_description>
-    <beer_style>IPA - New England / Hazy</beer_style>
-    <beer_abv>6.7%</beer_abv>
-    <beer_volume>473 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>United States</brewery_country>
-    <date_canned>2025-04-29</date_canned>
-    <untappd_id>6246517</untappd_id>
   </item>
   <item>
     <id>3484014</id>
@@ -8623,24 +8517,6 @@
     <brewery_country>Canada</brewery_country>
     <untappd_id>6197367</untappd_id>
   </item>
-  <item>
-    <id>6186985</id>
-    <ecommerce_id>734050895</ecommerce_id>
-    <title>Sous Pression</title>
-    <url>https://hopincraftbier.be/products/brasserie-sir-john-sous-pression</url>
-    <brewery_name>Brasserie Sir John Brewing Co.</brewery_name>
-    <price>5.03</price>
-    <regular_price>10.05</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5470101340.png</image>
-    <beer_description>Everyone knows, of course, the famous song by Queen and the Starman, David Bowie. Few people know that they were all very close to a certain Sir John who, at the time, was only at the stage of refining his IPA recipes. This beautiful IPA, far from its British counterparts, is typical of big American juices. Hopped with NelSon Sauvin, Nelson Sauvin Cryo, Rakau, Cascade NZ and Hopkief from Southern Cross, it has also been boosted with a nice dose of honey during the boil to add roundness and creaminess to this beautiful hop bomb. So, do like Ziggy and put on your éclair or do like Freddy and don your best mustache and party on! Brasserie Sir John - Sous Pression</beer_description>
-    <beer_style>IPA - New England / Hazy</beer_style>
-    <beer_abv>7%</beer_abv>
-    <beer_volume>473 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Canada</brewery_country>
-    <date_canned>2025-03-17</date_canned>
-    <untappd_id>6186985</untappd_id>
-  </item>
-  <timestamp>1783023306</timestamp>
-  <gen_date>02/07/2026 22:15:06</gen_date>
+  <timestamp>1783067407</timestamp>
+  <gen_date>03/07/2026 10:30:07</gen_date>
 </feed>
