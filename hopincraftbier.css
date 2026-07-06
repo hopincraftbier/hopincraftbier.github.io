@@ -1,4 +1,4 @@
-/* HopInCraftbier custom css v4.30 */
+/* HopInCraftbier custom css v4.31 */
 /** start homepage **/
 body {
     margin: auto;
@@ -701,14 +701,13 @@ div.ins-tile__copyright.ins-tile__format p:last-child:before {
     font:14px Helvetica,Arial,sans-serif;
 }
 #tile-custom-code-tMcKbD {
-    width: 86%;
-    margin: auto;
+    background-color: #f7f5c666;
     .ins-tile__animated {
         display: grid;
         grid-gap: 10px;
         grid-template-columns: 33% 67%;
-        margin-top: 2%;
-        margin-bottom: 2%;
+        width: 86%;
+        margin: 40px 7%;
     }
 
     .box {
@@ -1799,6 +1798,7 @@ div#deliveryInfoSidebar {
 #tile-custom-code-gZTFJY, #tile-custom-code-yHq9Mq, #tile-custom-code-5RHNHg,
 #tile-custom-code-4zwhSo, #tile-custom-code-dhSGeN, #tile-custom-code-ETuTZL,
 #tile-custom-code-kkLSia {
+    background-color: #f7f5c666;
     width: 86%;
     margin: auto;
 }
