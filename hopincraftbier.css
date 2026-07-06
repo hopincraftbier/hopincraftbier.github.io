@@ -1,4 +1,4 @@
-/* HopInCraftbier custom css v4.33 */
+/* HopInCraftbier custom css v4.34 */
 /** start homepage **/
 body {
     margin: auto;
@@ -1253,33 +1253,33 @@ div.pager__body {
 }
 /* == end product - category page == */
 /* == start privacy & alg vwd page == */
-.ins-tile--image-text .ins-tile__animated {
+.ins-tile--image-text .section__container {
     margin-top: 30px;
 }
-.ins-tile--text .ins-tile__animated {
+.ins-tile--text .section__container {
     margin-top: 30px;
 }
-.ins-tile--feature-list.ins-tile--accordion .ins-tile__animated {
+.ins-tile--feature-list.ins-tile--accordion .section__container {
     margin-top: 0;
 }
-#tile-text-foXha9 div.ins-tile__animated {
+#tile-text-foXha9 div.section__container {
     margin-bottom: 0;
 }
-#tile-feature-list-PfAaRA div.ins-tile__animated {
+#tile-feature-list-PfAaRA div.section__container {
     margin-bottom: 20px;
 }
 #tile-image-text-JSvjVt, #tile-text-QTyC9X, #text-b2c9Gv {
-    div.ins-tile__animated {
+    div.section__container {
         margin-top: 2%;
     }
 }
 #tile-feature-list-zk8ghR, #tile-feature-list-6cpbDx {
-    div.ins-tile__animated {
+    div.section__container {
         margin-bottom: 2%;
     }
 }
 #tile-feature-list-qNFye5 {
-    div.ins-tile__animated {
+    div.section__container {
         margin-bottom: 0;
     }
 }
@@ -1798,7 +1798,7 @@ div#deliveryInfoSidebar {
     .ins-tile__item {
         padding-bottom: 20px !important;
     }
-    .ins-tile__animated {
+    .section__container {
         margin-bottom: 0;
     }
 }
@@ -1809,18 +1809,16 @@ div#deliveryInfoSidebar {
 #tile-custom-code-4zwhSo, #tile-custom-code-dhSGeN, #tile-custom-code-ETuTZL,
 #tile-custom-code-kkLSia {
     background-color: #f7f5c666;
-    width: 86%;
-    margin: auto;
 }
 .del_info_table {
     overflow: auto;
-    width: 100%;
+    width: 86%;
     margin: auto;
     box-shadow: 5px 5px 20px 0 rgba(0, 0, 0, 0.1) !important;
 }
 #tile-custom-code-kkLSia .del_info_table {
     overflow: auto;
-    width: 100%;
+    width: 86%;
     margin: 50px auto 20px auto !important;
     box-shadow: none !important;
     img {
