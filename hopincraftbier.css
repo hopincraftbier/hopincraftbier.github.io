@@ -1,4 +1,4 @@
-/* HopInCraftbier custom css v4.17 */
+/* HopInCraftbier custom css v4.18 */
 /** start homepage **/
 body {
     margin: auto;
@@ -60,7 +60,7 @@ a.ins-control--outline div.ins-control__button {
     padding: 0;
     background-color: #f9f9f9;
     width: 100%;
-    div.ins-tile__wrap.ins-tile__wrap--relative {
+    div.ins-tile__wrap.ins-tile__animated--relative {
         margin-left: 7%;
         min-width: 86%;
         max-width: 86%;
