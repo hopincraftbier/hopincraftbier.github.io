@@ -1,4 +1,4 @@
-/* HopInCraftbier custom css v4.29 */
+/* HopInCraftbier custom css v4.30 */
 /** start homepage **/
 body {
     margin: auto;
@@ -206,10 +206,15 @@ div.ins-tile__product-image div.ins-tile__product-label {
         color: white;
     }
 }
-#tile-category-products-QTXrLB div.ins-tile__product-image div.ins-tile__product-label {
-    background-color: #f9f9f9;
-    span {
-        color: black;
+#tile-category-products-QTXrLB {
+    div.section__container {
+        margin-bottom: 50px;
+    }
+    div.ins-tile__product-image div.ins-tile__product-label {
+        background-color: #f9f9f9;
+        span {
+            color: black;
+        }
     }
 }
 
@@ -779,21 +784,17 @@ div.ins-tile__copyright.ins-tile__format p:last-child:before {
 }
 /* == start cadeau bon ==*/
 #tile-gift-card-fqthvd {
-    width: 86%;
-    margin: 20px auto;
+    background-color: #f7f5c666;
+    padding: 0;
     max-height: 450px;
     div.ins-tile__image {
         box-shadow: 0 0 1rem rgba(0, 0, 0, 0.5);
         border: 1px solid white;
         border-radius: 8px;
+        min-width: 86%;
+        max-width: 86%;
+        margin-left: 7%;
     }
-    /*
-    div.ins-tile__wrap {
-        min-height: 120px;
-        margin: 75px auto;
-    }
-
-     */
 }
 /* == end cadeau bon ==*/
 div.product-card-title__wrapper {
