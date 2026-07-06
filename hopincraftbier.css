@@ -1,4 +1,4 @@
-/* HopInCraftbier custom css v4.25 */
+/* HopInCraftbier custom css v4.26 */
 /** start homepage **/
 body {
     margin: auto;
@@ -16,16 +16,17 @@ a.ins-control--outline div.ins-control__button {
     background-color: #f7f5c666;
     padding: 0 0 20px 0;
     div.ins-tile__animated {
-        margin: 10px 7% 40px 7%;
+        margin: 40px 7% 10px 7%;
         min-width: 86%;
         max-width: 86%;
         padding: 0;
-        div.ins-tile__body {
-            min-height: 0;
-        }
         border-radius: 8px;
         box-shadow: 0 0 1rem rgba(0, 0, 0, 0.5);
         border: 1px solid white;
+        div.ins-tile__body {
+            min-height: 0;
+            max-height: 400px;
+        }
     }
 }
 #tile-call-to-action-S4XLJn {
