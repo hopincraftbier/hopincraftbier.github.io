@@ -859,9 +859,8 @@ function processInfoPages() {
     }
 
     if (document.querySelector('#tile-cover-HaXq6F div.ins-tile__image')) document.querySelector('#tile-cover-HaXq6F div.ins-tile__image').onclick = function() {window.location = 'products/alle-bieren';}
-    if (document.querySelector('#tile-cover-HaXq6F div.ins-tile__wrap')) document.querySelector('#tile-cover-HaXq6F div.ins-tile__wrap').onclick = function() {window.location = 'products/alle-bieren';}
+    if (document.querySelector('#tile-cover-HaXq6F div.ins-tile__animated')) document.querySelector('#tile-cover-HaXq6F div.ins-tile__animated').onclick = function() {window.location = 'products/alle-bieren';}
     if (document.querySelector('#tile-category-products-QTXrLB div.ins-tile__body')) document.querySelector('#tile-category-products-QTXrLB div.ins-tile__body').onclick = function() {window.location = 'products/packs';}
-    if (document.querySelector('#tile-call-to-action-S4XLJn div.ins-tile__wrap')) document.querySelector('#tile-call-to-action-S4XLJn div.ins-tile__wrap').onclick = function() {window.location = 'products/sale?attribute_Land=Canada+%F0%9F%87%A8%F0%9F%87%A6,Verenigde+Staten+%F0%9F%87%BA%F0%9F%87%B8&limit=24';}
 
     if (document.querySelector('div.del_info_table')) {
         translateDeliveryInfoTable();
