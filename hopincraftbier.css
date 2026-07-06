@@ -1,4 +1,4 @@
-/* HopInCraftbier custom css v4.18 */
+/* HopInCraftbier custom css v4.19 */
 /** start homepage **/
 body {
     margin: auto;
@@ -34,7 +34,7 @@ a.ins-control--outline div.ins-control__button {
         box-shadow: 0 0 1rem rgba(0, 0, 0, 0.5);
         border: 1px solid white;
     }
-    div.ins-tile__wrap {
+    div.ins-tile__animated {
         cursor:pointer;
         margin: 3% 0;
         border-radius: 8px;
@@ -60,7 +60,7 @@ a.ins-control--outline div.ins-control__button {
     padding: 0;
     background-color: #f9f9f9;
     width: 100%;
-    div.ins-tile__wrap.ins-tile__animated--relative {
+    div.section__container {
         margin-left: 7%;
         min-width: 86%;
         max-width: 86%;
@@ -498,10 +498,10 @@ footer.ins-tile--footer .ins-tile__wrap {
         box-shadow: 0 0 1rem rgba(0, 0, 0, 0.5);
         border: 1px solid white;
     }
-    div.ins-tile__wrap, div.ins-tile__image {
+    div.ins-tile__animated, div.ins-tile__image {
         cursor:pointer;
     }
-    div.ins-tile__wrap h1 {
+    div.ins-tile__animated h1 {
         span {
             font-family: 'Bangers', Ubuntu, system-ui;
             letter-spacing: 2px;
@@ -542,7 +542,7 @@ footer.ins-tile--footer .ins-tile__wrap {
 #tile-text-DTuwBM {
     width: 86%;
     margin: 20px auto 30px auto;
-    div.ins-tile__wrap {
+    div.ins-tile__animated {
         margin: 30px 0 30px 0;
         width: 100%;
         max-width: 100%;
@@ -565,7 +565,7 @@ footer.ins-tile--footer .ins-tile__wrap {
     box-shadow: 0 0 1rem rgba(0, 0, 0, 0.5);
     background: white !important;
     padding: 0;
-    div.ins-tile__wrap {
+    div.ins-tile__animated {
         margin: 0 auto;
         width: 86%;
         max-width: 100%;
@@ -658,7 +658,7 @@ div.ins-tile__copyright.ins-tile__format p:last-child:before {
 #tile-custom-code-tMcKbD {
     width: 86%;
     margin: auto;
-    .ins-tile__wrap {
+    .ins-tile__animated {
         display: grid;
         grid-gap: 10px;
         grid-template-columns: 33% 67%;
@@ -781,13 +781,13 @@ div.product-card-title__wrapper {
 }
 @media screen and (max-width: 1024px) {
     #tile-custom-code-tMcKbD {
-        div.ins-tile__wrap {
+        div.ins-tile__animated {
             display: block;
         }
     }
 }
 @media screen and (max-width: 900px) {
-    #tile-category-collection-eMtdfJ div.ins-tile__wrap div.ins-tile__category-collection p.ins-tile__category-name {
+    #tile-category-collection-eMtdfJ div.ins-tile__animated div.ins-tile__category-collection p.ins-tile__category-name {
         font-size: 14px;
     }
 }
@@ -806,7 +806,7 @@ div.product-card-title__wrapper {
     }
 }
 /** end homepage **/
-#tile-product-details div.ins-tile__wrap {
+#tile-product-details div.ins-tile__animated {
     margin-top: 30px;
     min-width: 80%
 }
@@ -1203,40 +1203,40 @@ div.pager__body {
 }
 /* == end product - category page == */
 /* == start privacy & alg vwd page == */
-.ins-tile--image-text .ins-tile__wrap {
+.ins-tile--image-text .ins-tile__animated {
     margin-top: 30px;
 }
-.ins-tile--text .ins-tile__wrap {
+.ins-tile--text .ins-tile__animated {
     margin-top: 30px;
 }
-.ins-tile--feature-list.ins-tile--accordion .ins-tile__wrap {
+.ins-tile--feature-list.ins-tile--accordion .ins-tile__animated {
     margin-top: 0;
 }
-#tile-text-foXha9 div.ins-tile__wrap {
+#tile-text-foXha9 div.ins-tile__animated {
     margin-bottom: 0;
 }
-#tile-feature-list-PfAaRA div.ins-tile__wrap {
+#tile-feature-list-PfAaRA div.ins-tile__animated {
     margin-bottom: 20px;
 }
 #tile-image-text-JSvjVt, #tile-text-QTyC9X, #text-b2c9Gv {
-    div.ins-tile__wrap {
+    div.ins-tile__animated {
         margin-top: 2%;
     }
 }
 #tile-feature-list-zk8ghR, #tile-feature-list-6cpbDx {
-    div.ins-tile__wrap {
+    div.ins-tile__animated {
         margin-bottom: 2%;
     }
 }
 #tile-feature-list-qNFye5 {
-    div.ins-tile__wrap {
+    div.ins-tile__animated {
         margin-bottom: 0;
     }
 }
 /* == end privacy page == */
 
 /* == start delivery == */
-#tile-location-aAsHPC div.ins-tile__wrap {
+#tile-location-aAsHPC div.ins-tile__animated {
     margin-top: 20px;
 }
 /* == end delivery == */
@@ -1748,11 +1748,11 @@ div#deliveryInfoSidebar {
     .ins-tile__item {
         padding-bottom: 20px !important;
     }
-    .ins-tile__wrap {
+    .ins-tile__animated {
         margin-bottom: 0;
     }
 }
-#tile-feature-list-pqyWAh .ins-tile__wrap {
+#tile-feature-list-pqyWAh .ins-tile__animated {
     margin-top: 0;
 }
 #tile-custom-code-gZTFJY, #tile-custom-code-yHq9Mq, #tile-custom-code-5RHNHg,
