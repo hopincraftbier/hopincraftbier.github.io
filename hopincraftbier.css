@@ -1,4 +1,4 @@
-/* HopInCraftbier custom css v4.24 */
+/* HopInCraftbier custom css v4.25 */
 /** start homepage **/
 body {
     margin: auto;
@@ -13,15 +13,19 @@ a.ins-control--outline div.ins-control__button {
     backdrop-filter: blur(8px);
 }
 #tile-slider-wACrSp, #tile-slider-6tJtvP {
+    background-color: #f7f5c666;
+    padding: 0 0 20px 0;
     div.ins-tile__animated {
-        margin: 50px 7%;
-        max-width:86%;
-        border-radius: 8px;
-        box-shadow: 0 0 1rem rgba(0, 0, 0, 0.5);
-        border: 1px solid white;
+        margin: 10px 7% 40px 7%;
+        min-width: 86%;
+        max-width: 86%;
+        padding: 0;
         div.ins-tile__body {
             min-height: 0;
         }
+        border-radius: 8px;
+        box-shadow: 0 0 1rem rgba(0, 0, 0, 0.5);
+        border: 1px solid white;
     }
 }
 #tile-call-to-action-S4XLJn {
@@ -215,13 +219,13 @@ div.ins-tile__product-image div.ins-tile__product-label {
 }
 #tile-category-collection-m4p4Gb, #tile-category-collection-eMtdfJ {
     background-color: #f7f5c666;
-    padding: 0 0 40px 0;
+    padding: 0 0 20px 0;
     div.section__container {
         margin-left: 7%;
         min-width: 86%;
         max-width: 86%;
-        margin-top: 10px;
-        margin-bottom: 40px;
+        margin-top: 40px;
+        margin-bottom: 0px;
         padding: 0;
         div.section__content {
             width: 100%;
