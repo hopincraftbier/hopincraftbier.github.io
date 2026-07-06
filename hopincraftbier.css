@@ -14,8 +14,7 @@ a.ins-control--outline div.ins-control__button {
 }
 #tile-slider-wACrSp, #tile-slider-6tJtvP {
     div.ins-tile__animated {
-        margin-top: 50px;
-        margin-bottom: 50px;
+        margin: 50px 7%;
         max-width:86%;
         border-radius: 8px;
         box-shadow: 0 0 1rem rgba(0, 0, 0, 0.5);
@@ -200,8 +199,8 @@ div.ins-tile__product-image div.ins-tile__product-label {
     }
 }
 #tile-category-collection-m4p4Gb {
-    /*margin-top: 40px !important;*/
-    /*padding-top: 20px !important;*/
+    margin-top: 40px !important;
+    padding-top: 20px !important;
     p.ins-tile__category-name {
         font-size: 18px;
         font-weight: 700;
@@ -328,7 +327,7 @@ div.ins-tile__product-image div.ins-tile__product-label {
     a.ins-tile__category-link:hover div.ins-tile__category-image--square {
         box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.3) !important;
     }
-    div.ins-tile__wrap.ins-tile__wrap--relative {
+    div.section__content {
         margin-left: 7%;
         min-width: 86%;
         max-width: 86%;
@@ -461,7 +460,7 @@ input.ins-header__search-field {
 #tile-footer-MNure7 {
     margin-top: 0;
     border-top-width: 0;
-    div.ins-tile__wrap {
+    div.section__content {
         margin-top: 5px;
         div.ins-tile__copyright p a {
             opacity: 1;
@@ -474,7 +473,7 @@ footer.ins-tile--footer {
     width: 100%;
     margin: auto;
 }
-footer.ins-tile--footer .ins-tile__wrap {
+footer.ins-tile--footer .section__content {
     margin: auto;
 }
 #tile-call-to-action-6v9FY3,#tile-call-to-action-vRWv4g,#tile-call-to-action-zvTeUd {
