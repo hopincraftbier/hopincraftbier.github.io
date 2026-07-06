@@ -13,7 +13,7 @@ a.ins-control--outline div.ins-control__button {
     backdrop-filter: blur(8px);
 }
 #tile-slider-wACrSp, #tile-slider-6tJtvP {
-    div.ins-tile__wrap {
+    div.ins-tile__animated {
         margin-top: 50px;
         margin-bottom: 50px;
         max-width:86%;
@@ -200,8 +200,8 @@ div.ins-tile__product-image div.ins-tile__product-label {
     }
 }
 #tile-category-collection-m4p4Gb {
-    margin-top: 40px !important;
-    padding-top: 20px !important;
+    /*margin-top: 40px !important;*/
+    /*padding-top: 20px !important;*/
     p.ins-tile__category-name {
         font-size: 18px;
         font-weight: 700;
@@ -378,7 +378,7 @@ div.ins-tile__product-image div.ins-tile__product-label {
 .ins-tile--header.ins-tile--left-logo-search .ins-header__row:nth-child(2):before {
     height: 0;
 }
-.ins-tile--announcement-bar .ins-tile__wrap {
+.ins-tile--announcement-bar .ins-tile__animated {
     padding: 0;
     .ins-tile__text p {
         a {
@@ -793,7 +793,7 @@ div.product-card-title__wrapper {
 }
 @media screen and (max-width: 499px) {
     #tile-cover-HaXq6F {
-        div.ins-tile__wrap h1 span {
+        h1.ins-tile__headline span {
             top: 20% !important;
             font-size: 50px !important;
         }

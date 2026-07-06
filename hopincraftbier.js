@@ -849,7 +849,7 @@ function showDeliveryInfo(countryCode) {
 }
 
 function processInfoPages() {
-    let pElement = document.querySelector('#tile-cover-HaXq6F > div.ins-tile__wrap > h1 > span');
+    let pElement = document.querySelector('#tile-cover-HaXq6F h1.ins-tile__headline > span');
     if (pElement) {
         if ('EN' === getCustomerLng()) {
             pElement.setAttribute('title', 'Craftbeer for your pleasure!');
