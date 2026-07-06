@@ -1,4 +1,4 @@
-/* HopInCraftbier custom css v4.34 */
+/* HopInCraftbier custom css v4.35 */
 /** start homepage **/
 body {
     margin: auto;
@@ -1809,6 +1809,13 @@ div#deliveryInfoSidebar {
 #tile-custom-code-4zwhSo, #tile-custom-code-dhSGeN, #tile-custom-code-ETuTZL,
 #tile-custom-code-kkLSia {
     background-color: #f7f5c666;
+}
+#tile-custom-code-gZTFJY > div {
+    overflow: auto;
+    margin-left: 7%;
+    select {
+        box-shadow: 5px 5px 20px 0 rgba(0, 0, 0, 0.1) !important;
+    }
 }
 .del_info_table {
     overflow: auto;
