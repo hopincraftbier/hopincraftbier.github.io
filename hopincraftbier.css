@@ -1,4 +1,4 @@
-/* HopInCraftbier custom css v4.28 */
+/* HopInCraftbier custom css v4.29 */
 /** start homepage **/
 body {
     margin: auto;
@@ -139,6 +139,12 @@ div.ins-tile__product-image div.ins-tile__product-label {
 #tile-category-products-msZpro, #tile-category-products-QTXrLB, #tile-category-products-a6srPF {
     .ins-tile__body-inner {
         scroll-padding-right: auto !important;
+    }
+    .ins-tile__footer {
+        margin-top: 20px;
+        .ins-tile__button--in-footer {
+            margin-top: 20px;
+        }
     }
     a.ins-tile__product-card {
         background: #d9d7b466;
