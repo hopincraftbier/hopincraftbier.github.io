@@ -1,4 +1,4 @@
-/* HopInCraftbier custom css v4.31 */
+/* HopInCraftbier custom css v4.32 */
 /** start homepage **/
 body {
     margin: auto;
@@ -585,21 +585,27 @@ footer.ins-tile--footer .section__content {
 
 /* == start over ons ==*/
 #tile-text-DTuwBM {
-    width: 86%;
-    margin: 20px auto 30px auto;
-    div.ins-tile__animated {
-        margin: 30px 0 30px 0;
-        width: 100%;
-        max-width: 100%;
-        div > p:nth-child(4):before {
-            content: '';
-            background-image: url("https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5454105253.png");
-            display: inline-block;
-            background-repeat: no-repeat;
-            background-size: 110px 16px;
-            height: 16px;
-            width: 110px;
-            margin-right: 8px;
+    background-color: #f7f5c666;
+    div.section__container {
+        margin: 20px 7% 10px 7%;
+        min-width: 86%;
+        max-width: 86%;
+        padding: 0;
+        div.section__content {
+            margin: 30px 0 30px 0;
+            width: 100%;
+            max-width: 100%;
+
+            div > p:nth-child(4):before {
+                content: '';
+                background-image: url("https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5454105253.png");
+                display: inline-block;
+                background-repeat: no-repeat;
+                background-size: 110px 16px;
+                height: 16px;
+                width: 110px;
+                margin-right: 8px;
+            }
         }
     }
 }
