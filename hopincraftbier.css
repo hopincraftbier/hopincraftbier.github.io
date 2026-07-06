@@ -1,4 +1,4 @@
-/* HopInCraftbier custom css v4.20 */
+/* HopInCraftbier custom css v4.21 */
 /** start homepage **/
 body {
     margin: auto;
@@ -328,7 +328,6 @@ div.ins-tile__product-image div.ins-tile__product-label {
         box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.3) !important;
     }
     div.section__content {
-        margin-left: 7%;
         min-width: 86%;
         max-width: 86%;
     }
