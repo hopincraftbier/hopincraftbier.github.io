@@ -1,4 +1,4 @@
-/* HopInCraftbier custom css v4.37 */
+/* HopInCraftbier custom css v4.39 */
 /** start homepage **/
 body {
     margin: auto;
@@ -1322,7 +1322,8 @@ div.ec-cart-step--address, div.ec-cart-step--delivery {
     }
 }
 .ins-tile--product-browser .ins-tile__wrap {
-    max-width: 75% !important;
+    max-width: max(calc(var(--global-tile-max-width) * 1px), 75%) !important;
+    margin-top: 40px !important;
 }
 #tile-product-details:has(div.ecwid-productBrowser-CartPage),
 #tile-product-details:has(div.ec-store__checkout-page),
