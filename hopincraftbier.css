@@ -1,4 +1,4 @@
-/* HopInCraftbier custom css v4.36 */
+/* HopInCraftbier custom css v4.37 */
 /** start homepage **/
 body {
     margin: auto;
@@ -1336,7 +1336,7 @@ div.ec-cart-step--address, div.ec-cart-step--delivery {
         background-color: transparent !important;
     }
     div.ins-tile--product-browser div.ins-tile__wrap {
-        max-width: 75%;
+        max-width: 75% !important;
     }
     div.ecwid-productBrowser-ProductPage div.product-details {
         div.product-details__gallery, div.product-details__description, div.product-details__sidebar {
