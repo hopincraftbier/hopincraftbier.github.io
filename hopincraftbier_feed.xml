@@ -5204,23 +5204,6 @@
     <untappd_id>3956966</untappd_id>
   </item>
   <item>
-    <id>6567915</id>
-    <ecommerce_id>808552524</ecommerce_id>
-    <title>Latitude Zero</title>
-    <url>https://hopincraftbier.be/products/unseen-latitude-zero</url>
-    <brewery_name>Unseen Brewing Company</brewery_name>
-    <price>3.6</price>
-    <regular_price>3.60</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/808552524/5517902151.png</image>
-    <beer_description>NEIPA with Citra &amp; Nelson Sauvin Unseen - Latitude Zero</beer_description>
-    <beer_style>IPA - New England / Hazy</beer_style>
-    <beer_abv>6%</beer_abv>
-    <beer_volume>330 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Belgium</brewery_country>
-    <untappd_id>6567915</untappd_id>
-  </item>
-  <item>
     <id>6513873</id>
     <ecommerce_id>808552525</ecommerce_id>
     <title>XI Anniversary | Block Party (collab White Dog)</title>
@@ -6938,24 +6921,6 @@
     <untappd_id>6404035</untappd_id>
   </item>
   <item>
-    <id>6423967</id>
-    <ecommerce_id>784587840</ecommerce_id>
-    <title>Omnivore</title>
-    <url>https://hopincraftbier.be/products/basqueland-omnivore</url>
-    <brewery_name>Basqueland Brewing</brewery_name>
-    <price>4.81</price>
-    <regular_price>6,41</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5242208483.webp</image>
-    <beer_description>Our brewers, in a stroke of genius, have forged a new path, crafting a Vegan Oat Cream IPA so smooth it feels like a dream. We bypassed the trad ways, skipping the lactose and let the colossal dose of oats make its magic. The result is a body as soft and boundless as a cloud. It's bursting with intense tropical aromas of passion fruit, and mango balanced with a 'dank' hemp profile. A truly snackable hop bite with a oat heart. Basqueland - Omnivore</beer_description>
-    <beer_style>IPA - Other</beer_style>
-    <beer_abv>6.2%</beer_abv>
-    <beer_volume>440 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Spain</brewery_country>
-    <date_best_before>06/2026</date_best_before>
-    <untappd_id>6423967</untappd_id>
-  </item>
-  <item>
     <id>6415742</id>
     <ecommerce_id>784475149</ecommerce_id>
     <title>Effortless Motion</title>
@@ -8098,24 +8063,6 @@
     <untappd_id>6263801</untappd_id>
   </item>
   <item>
-    <id>3736086</id>
-    <ecommerce_id>751529017</ecommerce_id>
-    <title>Tiny Esses</title>
-    <url>https://hopincraftbier.be/products/prairie-artisan-ales-tiny-esses</url>
-    <brewery_name>Prairie Artisan Ales</brewery_name>
-    <price>4.11</price>
-    <regular_price>8,22</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4962450125.webp</image>
-    <beer_description>Sour ale with Skittles Prairie Artisan Ales - Tiny Esses</beer_description>
-    <beer_style>Sour - Other</beer_style>
-    <beer_abv>5.9%</beer_abv>
-    <beer_volume>355 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>United States</brewery_country>
-    <date_canned>2025-03-18</date_canned>
-    <untappd_id>3736086</untappd_id>
-  </item>
-  <item>
     <id>6092135</id>
     <ecommerce_id>751543258</ecommerce_id>
     <title>Hello My Name Is - Vanille</title>
@@ -8319,24 +8266,6 @@
     <untappd_id>4579569</untappd_id>
   </item>
   <item>
-    <id>6149265</id>
-    <ecommerce_id>738474583</ecommerce_id>
-    <title>Love Potion</title>
-    <url>https://hopincraftbier.be/products/varvar-brew-love-potion</url>
-    <brewery_name>Varvar Brew</brewery_name>
-    <price>4.46</price>
-    <regular_price>5.95</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4842174670.png</image>
-    <beer_description>Our second collab with the Sisters A. Chocolate brand: a rich double milk stout with strawberries, organic vanilla and Peruvian cacaovella. This is a smooth, delicate and creamy chocolate stout, with notes of ripe berries. Varvar Brew - Love Potion</beer_description>
-    <beer_style>Stout - Imperial / Double Milk</beer_style>
-    <beer_abv>7%</beer_abv>
-    <beer_volume>330 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Ukraine</brewery_country>
-    <date_canned>2025-02-03</date_canned>
-    <untappd_id>6149265</untappd_id>
-  </item>
-  <item>
     <id>6121787</id>
     <ecommerce_id>738467165</ecommerce_id>
     <title>Planet 2 (PULP)</title>
@@ -8407,6 +8336,6 @@
     <brewery_country>Canada</brewery_country>
     <untappd_id>6197367</untappd_id>
   </item>
-  <timestamp>1783238407</timestamp>
-  <gen_date>05/07/2026 10:00:07</gen_date>
+  <timestamp>1783413908</timestamp>
+  <gen_date>07/07/2026 10:45:08</gen_date>
 </feed>
