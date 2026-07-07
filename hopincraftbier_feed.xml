@@ -5774,24 +5774,6 @@
     <untappd_id>6577359</untappd_id>
   </item>
   <item>
-    <id>6577343</id>
-    <ecommerce_id>807076879</ecommerce_id>
-    <title>8th Birthday - Danish Pastry Imperial Stout (collab Azvex)</title>
-    <url>https://hopincraftbier.be/products/pollys-8th-birthday-danish-pastry-imperial-stout</url>
-    <brewery_name>Polly's Brew Co.</brewery_name>
-    <price>6</price>
-    <regular_price>7,06</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5505372860.png</image>
-    <beer_description>POLLY'S 8th BIRTHDAY It’s always a given that when it comes to Birthday Beer time, we’re always going to dip over to the dark side. Who better then to extend an invitation to share knowledge and expertise with than one of the best in the game today when it comes to imperial stouts, and one which we’ve worked closely with since their launch, Azvex? As longtime admirers of their big, decadent pastry stouts, we couldn’t think of anyone better to work with than our friends from just over the water in Liverpool. Working our recipe around the fika breaks we have at Polly’s every working day, we loved the idea of creating the flavour profile of a danish pastry in this beer - utilising the fresh vanilla we’ve applied to our Oat Cream beers, alongside raisin for a subtle fruit sweetness, and a final flourish of cinnamon to balance everything out. Featuring artwork produced by the wonderful local artist and good friend of the brewery Jake Cross, this beer took up a grand total of five separate brew slots in our brewing week, with a ridiculous twenty-four hour slow rolling boil to concentrate all those sugars. the result is a slick, oily and decadent imperial stout - rich in flavour but not cloying, and widely regarded within the brewery as our best imperial stout brewed over our eight year history. Polly's - 8th Birthday - Danish Pastry Imperial Stout</beer_description>
-    <beer_style>Stout - Imperial / Double Pastry</beer_style>
-    <beer_abv>11%</beer_abv>
-    <beer_volume>440 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Wales</brewery_country>
-    <date_best_before>2027-01-12</date_best_before>
-    <untappd_id>6577343</untappd_id>
-  </item>
-  <item>
     <id>3039829</id>
     <ecommerce_id>806411460</ecommerce_id>
     <title>Hydra | Raspberry + Strawberry + Pink Guava</title>
@@ -5894,24 +5876,6 @@
     <brewery_country>Belgium</brewery_country>
     <date_best_before>2026-08-01</date_best_before>
     <untappd_id>6491728</untappd_id>
-  </item>
-  <item>
-    <id>6453136</id>
-    <ecommerce_id>806337901</ecommerce_id>
-    <title>Nelson Focus</title>
-    <url>https://hopincraftbier.be/products/norm-nelson-focus</url>
-    <brewery_name>Norm Brewing</brewery_name>
-    <price>4.33</price>
-    <regular_price>5,77</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5500024971.png</image>
-    <beer_description>Focus Series #1 : Nelson T90 2025 x Nelson Sauvin CRYO x Nelson Sauvin Hop Kief sub zero (Freestyle hops) Here is the first beer of our focus series. A series of beers focus on one hop ! Nelson Sauvin : Probably the perfect hop to start with ! The star of New Zealand, a true classic that never disappoint, the one you can always rely on, the hop we could use in every beer ! Nelson Sauvin is shining here with its crushed gooseberries, white wine, grapes, citrus and pink grapefruit vibes. Norm - Nelson Focus</beer_description>
-    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
-    <beer_abv>8%</beer_abv>
-    <beer_volume>440 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Belgium</brewery_country>
-    <date_best_before>2026-07-01</date_best_before>
-    <untappd_id>6453136</untappd_id>
   </item>
   <item>
     <id>6590688</id>
@@ -7332,42 +7296,6 @@
     <untappd_id>6415833</untappd_id>
   </item>
   <item>
-    <id>6371184</id>
-    <ecommerce_id>784594124</ecommerce_id>
-    <title>Crazy Lines Series: Avalanche</title>
-    <url>https://hopincraftbier.be/products/nepo-crazy-lines-series-avalanche</url>
-    <brewery_name>Nepo Brewing</brewery_name>
-    <price>5.84</price>
-    <regular_price>6,87</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5242198172.webp</image>
-    <beer_description>This beer is brewed with a classic "holy trinity" blend of modern hops: Citra, Nelson Sauvin, and Motueka. Expect a soft, full, and hazy body that delivers a massive and multi-layered explosion of flavour. The profile is an intense wave of juicy tropical fruit (passionfruit), bright citrus (lime, grapefruit), and elegant white wine grape. Nepo - Crazy Lines Series: Avalanche</beer_description>
-    <beer_style>IPA - Triple New England / Hazy</beer_style>
-    <beer_abv>8.5%</beer_abv>
-    <beer_volume>500 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Poland</brewery_country>
-    <date_best_before>2026-08-04</date_best_before>
-    <untappd_id>6371184</untappd_id>
-  </item>
-  <item>
-    <id>6395737</id>
-    <ecommerce_id>784594123</ecommerce_id>
-    <title>Crazy Lines Series: Polar Shift</title>
-    <url>https://hopincraftbier.be/products/nepo-crazy-lines-series-polar-shift</url>
-    <brewery_name>Nepo Brewing</brewery_name>
-    <price>4.87</price>
-    <regular_price>5,73</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5242198196.webp</image>
-    <beer_description>A hearty and refreshing beer where hops take center stage. Tropical fruits, citrus, and resin notes meet a distinct bitterness to create an intense, new wave character. Nepo - Crazy Lines Series: Polar Shift</beer_description>
-    <beer_style>IPA - Cold</beer_style>
-    <beer_abv>6.6%</beer_abv>
-    <beer_volume>500 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Poland</brewery_country>
-    <date_best_before>2026-08-16</date_best_before>
-    <untappd_id>6395737</untappd_id>
-  </item>
-  <item>
     <id>6362970</id>
     <ecommerce_id>784590113</ecommerce_id>
     <title>Crazy Lines Series: Fun</title>
@@ -8219,24 +8147,6 @@
     <untappd_id>6299087</untappd_id>
   </item>
   <item>
-    <id>6296412</id>
-    <ecommerce_id>767289656</ecommerce_id>
-    <title>Crux</title>
-    <url>https://hopincraftbier.be/products/outer-range-crux</url>
-    <brewery_name>Outer Range Brewing Co.</brewery_name>
-    <price>3.44</price>
-    <regular_price>6,87</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5243283992.webp</image>
-    <beer_description>Hops: Strata • Krush Tasting Notes: Peach • Strawberry • Pine ABV: 6.5% Outer Range - Crux</beer_description>
-    <beer_style>IPA - American</beer_style>
-    <beer_abv>6.5%</beer_abv>
-    <beer_volume>440 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>France</brewery_country>
-    <date_best_before>2026-04-28</date_best_before>
-    <untappd_id>6296412</untappd_id>
-  </item>
-  <item>
     <id>6248577</id>
     <ecommerce_id>765275159</ecommerce_id>
     <title>Big Pharma</title>
@@ -8819,6 +8729,6 @@
     <brewery_country>Canada</brewery_country>
     <untappd_id>6197367</untappd_id>
   </item>
-  <timestamp>1783424918</timestamp>
-  <gen_date>07/07/2026 13:48:38</gen_date>
+  <timestamp>1783432807</timestamp>
+  <gen_date>07/07/2026 16:00:07</gen_date>
 </feed>
