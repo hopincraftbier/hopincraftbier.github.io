@@ -1854,26 +1854,6 @@
     <untappd_id>6629618</untappd_id>
   </item>
   <item>
-    <id>9000000028</id>
-    <ecommerce_id>832205777</ecommerce_id>
-    <title>Basqueland Brewing - Triplet</title>
-    <url>https://hopincraftbier.be/products/basqueland-brewing-triplet</url>
-    <brewery_name>Basqueland Brewing</brewery_name>
-    <price>13.79</price>
-    <regular_price>19.69</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/832205777/5733519939.png</image>
-    <beer_description>The Basqueland Brewing - Triplet contains: - Basqueland - GenesisIPA - New England / Hazy | 5,8% | 440 ml - Basqueland - OmnivoreIPA - Other | 6,2% | 440 ml - Basqueland - TopTenIPA - Imperial / Double New England / Hazy | 8% | 440 ml</beer_description>
-    <beer_style>IPA</beer_style>
-    <beer_abv>5 - 8%</beer_abv>
-    <beer_volume>3x440 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Spain</brewery_country>
-    <date_best_before>2026-06-01</date_best_before>
-    <beer_package_count>3</beer_package_count>
-    <beer_bundle>1</beer_bundle>
-    <bundle_skus>6404035,6423967,6402383</bundle_skus>
-  </item>
-  <item>
     <id>6681644</id>
     <ecommerce_id>832174029</ecommerce_id>
     <title>Riwaka Focus</title>
@@ -7298,24 +7278,6 @@
     <untappd_id>6362970</untappd_id>
   </item>
   <item>
-    <id>6404035</id>
-    <ecommerce_id>784590102</ecommerce_id>
-    <title>Genesis</title>
-    <url>https://hopincraftbier.be/products/basqueland-genesis</url>
-    <brewery_name>Basqueland Brewing</brewery_name>
-    <price>4.6</price>
-    <regular_price>6,13</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5242233040.webp</image>
-    <beer_description>Genesis is a Hazy IPA that pours a pale golden color. It has a dry-hop of Palisade and Cashmere hops, which creates a kaleidoscope of aromas with notes of ripe melon, pineapple, and fresh-cut grass. Each sip reveals a soft body that fills the palate with refreshing fruity and floral flavors. A micro-universe of compounds for a universe of flavors. Basqueland - Genesis</beer_description>
-    <beer_style>IPA - New England / Hazy</beer_style>
-    <beer_abv>5.8%</beer_abv>
-    <beer_volume>440 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Spain</brewery_country>
-    <date_best_before>06/2026</date_best_before>
-    <untappd_id>6404035</untappd_id>
-  </item>
-  <item>
     <id>6415742</id>
     <ecommerce_id>784475149</ecommerce_id>
     <title>Effortless Motion</title>
@@ -8271,23 +8233,6 @@
     <untappd_id>6291425</untappd_id>
   </item>
   <item>
-    <id>6280326</id>
-    <ecommerce_id>756989447</ecommerce_id>
-    <title>Château (collab Third Moon)</title>
-    <url>https://hopincraftbier.be/products/nano-cinco-chateau</url>
-    <brewery_name>Nano Cinco</brewery_name>
-    <price>8.16</price>
-    <regular_price>10,88</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4966300378.webp</image>
-    <beer_description>Château is a New England Double IPA brewed in collaboration with our Ontario friends, Third Moon. A tropical explosion crafted with 100% Freestyle Hops: NZ Cascade, Peacharine, Rakau, Motueka SubZero Hop Kief, and NZ Cascade Hop Kief. This hop cocktail releases vibrant notes of citrus, tropical fruit, and ripe peach, supported by a smooth texture and gentle bitterness. The kind of DIPA we love—powerful and velvety. Cheers! Nano Cinco - Chateau</beer_description>
-    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
-    <beer_abv>8%</beer_abv>
-    <beer_volume>473 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Canada</brewery_country>
-    <untappd_id>6280326</untappd_id>
-  </item>
-  <item>
     <id>6250418</id>
     <ecommerce_id>756989446</ecommerce_id>
     <title>Bistro Peach Strawberry Rhubarb Cobbler</title>
@@ -8336,23 +8281,6 @@
     <beer_package>bottle</beer_package>
     <brewery_country>United States</brewery_country>
     <untappd_id>6277002</untappd_id>
-  </item>
-  <item>
-    <id>4201496</id>
-    <ecommerce_id>756989899</ecommerce_id>
-    <title>Neo-baa-litan (Chocolate)</title>
-    <url>https://hopincraftbier.be/products/baa-baa-brewhouse-neo-baa-litan-chocolate</url>
-    <brewery_name>Baa Baa Brewhouse</brewery_name>
-    <price>9.95</price>
-    <regular_price>13,26</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4965606648.webp</image>
-    <beer_description>Strawberry, Chocolate, and Fluff - series inspired by AJ Baa Baa Brewhouse - Neo-baa-litan (Chocolate)</beer_description>
-    <beer_style>Sour - Fruited</beer_style>
-    <beer_abv>5.51%</beer_abv>
-    <beer_volume>473 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>United States</brewery_country>
-    <untappd_id>4201496</untappd_id>
   </item>
   <item>
     <id>6253097</id>
@@ -8713,6 +8641,6 @@
     <brewery_country>Canada</brewery_country>
     <untappd_id>6197367</untappd_id>
   </item>
-  <timestamp>1783458909</timestamp>
-  <gen_date>07/07/2026 23:15:09</gen_date>
+  <timestamp>1783517200</timestamp>
+  <gen_date>08/07/2026 15:26:40</gen_date>
 </feed>
