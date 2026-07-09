@@ -7817,24 +7817,6 @@
     <untappd_id>4166507</untappd_id>
   </item>
   <item>
-    <id>6342727</id>
-    <ecommerce_id>770503529</ecommerce_id>
-    <title>Tres Hekse (collab Brujos)</title>
-    <url>https://hopincraftbier.be/products/to-ol-tres-hekse</url>
-    <brewery_name>To Øl</brewery_name>
-    <price>6.17</price>
-    <regular_price>8,23</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/770503529/5073875430.webp</image>
-    <beer_description>Cross-continental hop witchcraft with our friends at Brujos — Idaho 7, Citra, Simcoe, and experimental Rakau from New Zealand for extra tropical juiciness. This hazy triple hits with tropical aromatics that'll transport you from Copenhagen to Mexico City in one sip. To l - Tres Hekse</beer_description>
-    <beer_style>IPA - Triple New England / Hazy</beer_style>
-    <beer_abv>10%</beer_abv>
-    <beer_volume>440 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Denmark</brewery_country>
-    <date_best_before>2026-07-01</date_best_before>
-    <untappd_id>6342727</untappd_id>
-  </item>
-  <item>
     <id>6339811</id>
     <ecommerce_id>770507753</ecommerce_id>
     <title>Georgia Gold</title>
@@ -8713,6 +8695,6 @@
     <brewery_country>Canada</brewery_country>
     <untappd_id>6197367</untappd_id>
   </item>
-  <timestamp>1783522809</timestamp>
-  <gen_date>08/07/2026 17:00:09</gen_date>
+  <timestamp>1783588506</timestamp>
+  <gen_date>09/07/2026 11:15:06</gen_date>
 </feed>
