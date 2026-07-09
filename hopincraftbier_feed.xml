@@ -289,6 +289,22 @@
     <untappd_id>6725293</untappd_id>
   </item>
   <item>
+    <id>6747536</id>
+    <ecommerce_id>841645948</ecommerce_id>
+    <title>Kalefater 108 - Tennessee Whiskey Barrel Aged Imperial Stout</title>
+    <url>https://hopincraftbier.be/products/bierbrouwerij-de-magistraat-kalefater-108-tennessee-whiskey-barrel-aged-imperial-stout</url>
+    <brewery_name>Bierbrouwerij De Magistraat</brewery_name>
+    <price>8.38</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/841645948/5819631387.png</image>
+    <beer_description>For this beer, we aged our Pikjongen in Tennessee Whiskey barrels. The aromas of the barrel come through beautifully in the beer. Soft notes of coffee, wood, and dark chocolate complete the picture. A beer to enjoy quietly! Bierbrouwerij De Magistraat - Kalefater 108 - Tennessee Whiskey Barrel Aged Imperial Stout</beer_description>
+    <beer_style>Stout - Imperial / Double</beer_style>
+    <beer_abv>11.5%</beer_abv>
+    <beer_volume>330 ml</beer_volume>
+    <beer_package>bottle</beer_package>
+    <brewery_country>The Netherlands</brewery_country>
+    <untappd_id>6747536</untappd_id>
+  </item>
+  <item>
     <id>9000000045</id>
     <ecommerce_id>840369838</ecommerce_id>
     <title>SOMA Beer Triplet #7</title>
@@ -507,6 +523,70 @@
     <date_best_before>2026-11-18</date_best_before>
     <date_canned>2026-05-18</date_canned>
     <untappd_id>6716144</untappd_id>
+  </item>
+  <item>
+    <id>6740758</id>
+    <ecommerce_id>839043418</ecommerce_id>
+    <title>Mainline (collab Track)</title>
+    <url>https://hopincraftbier.be/products/oso-brew-co-mainline</url>
+    <brewery_name>Oso Brew Co</brewery_name>
+    <price>6.05</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/839043418/5798402195.png</image>
+    <beer_description>Brewed with Motueka, Nectaron, Nelson Sauvin, and Kohia Nelson (an exclusive botanical New Zealand hop blend). Together with the British grandmasters of Track Brewing, Oso ventures onto the crisp, bitter side of the spectrum here. Mainline is a stunningly modern West Coast IPA. Instead of the classic American 'pine hops', they have focused entirely on the most exclusive tropical hop varieties from New Zealand. Oso Brew Co - Mainline Oso Brew Co - Mainline</beer_description>
+    <beer_style>IPA - West Coast</beer_style>
+    <beer_abv>7%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Spain</brewery_country>
+    <untappd_id>6740758</untappd_id>
+  </item>
+  <item>
+    <id>6741179</id>
+    <ecommerce_id>839048168</ecommerce_id>
+    <title>Aura (collab Verdant,Prizm)</title>
+    <url>https://hopincraftbier.be/products/oso-brew-co-aura</url>
+    <brewery_name>Oso Brew Co</brewery_name>
+    <price>6.67</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/839048168/5798402201.png</image>
+    <beer_description>Brewed with Mosaic, Strata, Nelson Sauvin and Azacca hops. When you invite the absolute legends of the Hazy IPA world (the British Verdant and the French Prizm), you know expectations are sky-high. Aura is a masterful, silky-smooth New England IPA that strikes a perfect balance between creaminess and hop intensity. Oso Brew Co - Aura Oso Brew Co - Aura</beer_description>
+    <beer_style>IPA - New England / Hazy</beer_style>
+    <beer_abv>7%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Spain</brewery_country>
+    <untappd_id>6741179</untappd_id>
+  </item>
+  <item>
+    <id>6740762</id>
+    <ecommerce_id>839039914</ecommerce_id>
+    <title>Dominion (collab Messorem)</title>
+    <url>https://hopincraftbier.be/products/oso-brew-co-dominion</url>
+    <brewery_name>Oso Brew Co</brewery_name>
+    <price>7.35</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/839039914/5798439504.png</image>
+    <beer_description>Brewed with Sabro, Simcoe, Mosaic, Idaho 7 and Riwaka hops. Oso launches the attack with an insane collaboration with the Canadian hop masters at Messorem. Dominion is an extremely thick, massive Double IPA in which absolutely all stops have been pulled out. A complex blend of no fewer than five distinct hop varieties was chosen to create a maximum fruit explosion. Oso Brew Co - Dominion Oso Brew Co - Dominion</beer_description>
+    <beer_style>IPA - Imperial / Double</beer_style>
+    <beer_abv>8.4%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Spain</brewery_country>
+    <untappd_id>6740762</untappd_id>
+  </item>
+  <item>
+    <id>6743370</id>
+    <ecommerce_id>839043417</ecommerce_id>
+    <title>Perfect Piece (15th Anniversary Other Half Collab) (collab Other Half)</title>
+    <url>https://hopincraftbier.be/products/pinta-perfect-piece</url>
+    <brewery_name>PINTA</brewery_name>
+    <price>6.27</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/839043417/5817179992.png</image>
+    <beer_description>For their 15th anniversary, PINTA wanted to give themselves and the beer world the ultimate birthday gift. And they succeeded! They have joined forces with Other Half Brewing from New York, undisputed masters of Hazy IPAs. Perfect Piece is an absolute world-class brewing marvel, in which the best modern hops come together in one extremely thick and cloudy beer. PINTA - Perfect Piece (15th Anniversary Other Half Collab) PINTA - Perfect Piece</beer_description>
+    <beer_style>IPA - Hazy</beer_style>
+    <beer_abv>6.5%</beer_abv>
+    <beer_volume>500 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Poland</brewery_country>
+    <untappd_id>6743370</untappd_id>
   </item>
   <item>
     <id>9000000036</id>
@@ -8695,6 +8775,6 @@
     <brewery_country>Canada</brewery_country>
     <untappd_id>6197367</untappd_id>
   </item>
-  <timestamp>1783588506</timestamp>
-  <gen_date>09/07/2026 11:15:06</gen_date>
+  <timestamp>1783604361</timestamp>
+  <gen_date>09/07/2026 15:39:21</gen_date>
 </feed>
