@@ -5495,10 +5495,10 @@
     <untappd_id>6355044</untappd_id>
   </item>
   <item>
-    <id>4570108</id>
+    <id>6315867</id>
     <ecommerce_id>810442764</ecommerce_id>
-    <title>Monolith</title>
-    <url>https://hopincraftbier.be/products/bissell-brothers-monolith</url>
+    <title>Monolith | Batch #4</title>
+    <url>https://hopincraftbier.be/products/bissell-brothers-monolith-batch-4</url>
     <brewery_name>Bissell Brothers Brewing Company</brewery_name>
     <price>27.28</price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/810442764/5532717876.png</image>
@@ -5509,7 +5509,7 @@
     <beer_package>bottle</beer_package>
     <brewery_country>United States</brewery_country>
     <date_canned>01/2025</date_canned>
-    <untappd_id>4570108</untappd_id>
+    <untappd_id>6315867</untappd_id>
   </item>
   <item>
     <id>5513278</id>
@@ -8775,6 +8775,6 @@
     <brewery_country>Canada</brewery_country>
     <untappd_id>6197367</untappd_id>
   </item>
-  <timestamp>1783641606</timestamp>
-  <gen_date>10/07/2026 02:00:06</gen_date>
+  <timestamp>1783706571</timestamp>
+  <gen_date>10/07/2026 20:02:51</gen_date>
 </feed>
