@@ -788,25 +788,6 @@
     <untappd_id>6672041</untappd_id>
   </item>
   <item>
-    <id>9000000030</id>
-    <ecommerce_id>837368608</ecommerce_id>
-    <title>FUERST WIACEK Berlin - Quartet</title>
-    <url>https://hopincraftbier.be/products/fuerst-wiacek-berlin-quartet-837368608</url>
-    <brewery_name>FUERST WIACEK Berlin</brewery_name>
-    <price>25.04</price>
-    <regular_price>26.36</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/837368608/5782838794.png</image>
-    <beer_description>The FUERST WIACEK Berlin - Quartet contains: - It's All WavyIPA - New England / Hazy | 6,8% | 440 ml - Soft ApocalypseIPA - New England / Hazy | 6,8% | 440 ml - Hawt (2026)IPA - Imperial / Double New England / Hazy | 8% | 440 ml - Nelson Krush (2026)IPA - Imperial / Double | 8% | 440 ml</beer_description>
-    <beer_style>IPA</beer_style>
-    <beer_abv>6 - 8%</beer_abv>
-    <beer_volume>4x440 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Germany</brewery_country>
-    <beer_package_count>4</beer_package_count>
-    <beer_bundle>1</beer_bundle>
-    <bundle_skus>6673165,6690598,6674381,6690595</bundle_skus>
-  </item>
-  <item>
     <id>6698817</id>
     <ecommerce_id>837240403</ecommerce_id>
     <title>Ummagumma</title>
@@ -1435,25 +1416,6 @@
     <date_best_before>2027-01-13</date_best_before>
     <date_canned>2026-04-13</date_canned>
     <untappd_id>6674381</untappd_id>
-  </item>
-  <item>
-    <id>9000000029</id>
-    <ecommerce_id>833511815</ecommerce_id>
-    <title>Seven Island Brewery - Quartet</title>
-    <url>https://hopincraftbier.be/products/seven-island-brewery-quartet</url>
-    <brewery_name>Seven Island Brewery</brewery_name>
-    <price>24.48</price>
-    <regular_price>25.77</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/833511815/5745817995.png</image>
-    <beer_description>The Seven Island Brewery - Quartet contains: - Seven Island - Dimensional Hop RageIPA - Imperial / Double New England / Hazy | 8% | 440 ml - Seven Island - Phantom of the HoperaIPA - Imperial / Double New England / Hazy | 8% | 440 ml - Seven Island - Forager of the Hop SkullsIPA - Triple New England / Hazy | 9,2% | 440 ml - Seven Island - Hop MassacreIPA - Triple New England / Hazy | 9,2% | 440 ml</beer_description>
-    <beer_style>IPA</beer_style>
-    <beer_abv>8 - 9%</beer_abv>
-    <beer_volume>4x440 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Greece</brewery_country>
-    <beer_package_count>4</beer_package_count>
-    <beer_bundle>1</beer_bundle>
-    <bundle_skus>6672861,6672862,6672856,6672851</bundle_skus>
   </item>
   <item>
     <id>6672862</id>
@@ -5613,23 +5575,6 @@
     <untappd_id>3872382</untappd_id>
   </item>
   <item>
-    <id>6446971</id>
-    <ecommerce_id>809704604</ecommerce_id>
-    <title>DOUBLE PASSION</title>
-    <url>https://hopincraftbier.be/products/hopalaa-double-passion</url>
-    <brewery_name>Hopalaa</brewery_name>
-    <price>5.86</price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/809704604/5526711671.png</image>
-    <beer_description>DOUBLE PASSION - QDH DIPA. Nelson Sauvin and Citra hops /// IBU - 25 /// EBC - 9 /// ABV - 8.2 Hopalaa - DOUBLE PASSION</beer_description>
-    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
-    <beer_abv>8.2%</beer_abv>
-    <beer_volume>440 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Latvia</brewery_country>
-    <date_best_before>2026-11-15</date_best_before>
-    <untappd_id>6446971</untappd_id>
-  </item>
-  <item>
     <id>6527510</id>
     <ecommerce_id>809698341</ecommerce_id>
     <title>TURBULENCE</title>
@@ -8775,6 +8720,6 @@
     <brewery_country>Canada</brewery_country>
     <untappd_id>6197367</untappd_id>
   </item>
-  <timestamp>1783706571</timestamp>
-  <gen_date>10/07/2026 20:02:51</gen_date>
+  <timestamp>1783932307</timestamp>
+  <gen_date>13/07/2026 10:45:07</gen_date>
 </feed>
