@@ -2663,23 +2663,6 @@
     <untappd_id>6622663</untappd_id>
   </item>
   <item>
-    <id>6619635</id>
-    <ecommerce_id>828426293</ecommerce_id>
-    <title>Triple Chemicals</title>
-    <url>https://hopincraftbier.be/products/blackout-triple-chemicals</url>
-    <brewery_name>Blackout Brewing</brewery_name>
-    <price>7.03</price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/828426293/5697652855.png</image>
-    <beer_description>Super Sauvin | Peacherine Blackout - Triple Chemicals</beer_description>
-    <beer_style>IPA - Triple New England / Hazy</beer_style>
-    <beer_abv>9.5%</beer_abv>
-    <beer_volume>440 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Romania</brewery_country>
-    <date_best_before>2026-12-30</date_best_before>
-    <untappd_id>6619635</untappd_id>
-  </item>
-  <item>
     <id>5586339</id>
     <ecommerce_id>828316224</ecommerce_id>
     <title>Junk Deluxe - Rye Whiskey BA (collab Hophead)</title>
@@ -5224,23 +5207,6 @@
     <brewery_country>Romania</brewery_country>
     <date_best_before>2026-12-30</date_best_before>
     <untappd_id>6567898</untappd_id>
-  </item>
-  <item>
-    <id>6570662</id>
-    <ecommerce_id>814012505</ecommerce_id>
-    <title>Abduction In the Desert</title>
-    <url>https://hopincraftbier.be/products/maktoob-abduction-in-the-desert</url>
-    <brewery_name>Maktoob Brewing</brewery_name>
-    <price>6.85</price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/814012505/5564964993.png</image>
-    <beer_description>This 8% ABV Double IPA is double dry-hopped (DDH) and focuses on the exclusive Peacharine hop from New Zealand, supported by the ever-reliable Citra. Get ready for a stonefruit explosion. The Peacharine hop does exactly what the name promises: it delivers intense notes of juicy peach and nectarine. The Citra adds a refreshing layer of lime and grapefruit. The beer is hazy, full-bodied, and smooth in texture, making it dangerously easy to drink despite its 8% ABV. A "fruit juice" for adults. Maktoob - Abduction In the Desert</beer_description>
-    <beer_style>IPA - Imperial / Double</beer_style>
-    <beer_abv>8%</beer_abv>
-    <beer_volume>440 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Romania</brewery_country>
-    <date_best_before>2026-12-31</date_best_before>
-    <untappd_id>6570662</untappd_id>
   </item>
   <item>
     <id>6584589</id>
@@ -8545,23 +8511,6 @@
     <untappd_id>348850</untappd_id>
   </item>
   <item>
-    <id>3523256</id>
-    <ecommerce_id>751529274</ecommerce_id>
-    <title>Hydra | Apricot + Mango + Raspberry</title>
-    <url>https://hopincraftbier.be/products/mortalis-hydra-apricot-mango-raspberry</url>
-    <brewery_name>Mortalis Brewing Company</brewery_name>
-    <price>6.67</price>
-    <regular_price>13,33</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4932639897.png</image>
-    <beer_description>This Fruited Sour blends apricot, mango, and raspberry to form just one of this monster’s many heads. Keep your eyes peeled for even more flavor combinations. Mortalis - Hydra | Apricot + Mango + Raspberry</beer_description>
-    <beer_style>Sour - Smoothie / Pastry</beer_style>
-    <beer_abv>7%</beer_abv>
-    <beer_volume>473 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>United States</brewery_country>
-    <untappd_id>3523256</untappd_id>
-  </item>
-  <item>
     <id>4990447</id>
     <ecommerce_id>751542509</ecommerce_id>
     <title>Abandon The Halogens (2022)</title>
@@ -8784,6 +8733,6 @@
     <brewery_country>Canada</brewery_country>
     <untappd_id>6197367</untappd_id>
   </item>
-  <timestamp>1783936807</timestamp>
-  <gen_date>13/07/2026 12:00:07</gen_date>
+  <timestamp>1783960214</timestamp>
+  <gen_date>13/07/2026 18:30:14</gen_date>
 </feed>
