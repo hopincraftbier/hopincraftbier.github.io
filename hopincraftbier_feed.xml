@@ -5916,24 +5916,6 @@
     <untappd_id>6514089</untappd_id>
   </item>
   <item>
-    <id>6491728</id>
-    <ecommerce_id>806337899</ecommerce_id>
-    <title>Eclipse</title>
-    <url>https://hopincraftbier.be/products/norm-eclipse</url>
-    <brewery_name>Norm Brewing</brewery_name>
-    <price>4.72</price>
-    <regular_price>5,55</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5500055513.png</image>
-    <beer_description>DDH IPA Hops : Eclipse / Nelson Sauvin IPA at 7%, slightly stronger than usual (winter is coming) and brewed with a combo we deeply love ! 2 hops and 2 countries, Eclipse from Australia and Nelson Sauvin from New Zealand. It’s actually pretty long since we used a hop from Australia ! Eclipse offers sweet mandarin flavors and zesty citrus peel and fresh pine needles. We pair it with our house favorite, Nelson Sauvin. Bringing his famous and distinct gooseberry and Sauvignon Blanc grapes. Juicy, fresh and balanced ! Norm - Eclipse</beer_description>
-    <beer_style>IPA - New England / Hazy</beer_style>
-    <beer_abv>7%</beer_abv>
-    <beer_volume>440 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Belgium</brewery_country>
-    <date_best_before>2026-08-01</date_best_before>
-    <untappd_id>6491728</untappd_id>
-  </item>
-  <item>
     <id>6590688</id>
     <ecommerce_id>806355016</ecommerce_id>
     <title>Superdelic Signal (collab Basqueland)</title>
@@ -7125,24 +7107,6 @@
     <untappd_id>6214738</untappd_id>
   </item>
   <item>
-    <id>6406186</id>
-    <ecommerce_id>787881503</ecommerce_id>
-    <title>Dawn</title>
-    <url>https://hopincraftbier.be/products/prizm-dawn</url>
-    <brewery_name>Prizm Brewing Co.</brewery_name>
-    <price>5.23</price>
-    <regular_price>6,97</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5249371239.png</image>
-    <beer_description>A massive dose of flaked oats and 25 g/L of Hand Selected Strata and Citra on the dry hop. Strata has been selected with Hops Company in Barcelona The Citra has been selected in the Yakima valley at Yakima Chief Hops Prizm - Dawn</beer_description>
-    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
-    <beer_abv>8%</beer_abv>
-    <beer_volume>440 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>France</brewery_country>
-    <date_best_before>07/2026</date_best_before>
-    <untappd_id>6406186</untappd_id>
-  </item>
-  <item>
     <id>4478126</id>
     <ecommerce_id>787747547</ecommerce_id>
     <title>Fuzz Effect</title>
@@ -8238,24 +8202,6 @@
     <untappd_id>6164819</untappd_id>
   </item>
   <item>
-    <id>6016175</id>
-    <ecommerce_id>761858328</ecommerce_id>
-    <title>EL CAPITANO</title>
-    <url>https://hopincraftbier.be/products/stigbergets-el-capitano</url>
-    <brewery_name>Stigbergets Bryggeri</brewery_name>
-    <price>3.59</price>
-    <regular_price>7,18</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5000915486.webp</image>
-    <beer_description>Let’s do a pelican but call it EL CAPITANO. The captain of all DIPA. Stigbergets - EL CAPITANO</beer_description>
-    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
-    <beer_abv>8.3%</beer_abv>
-    <beer_volume>440 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Sweden</brewery_country>
-    <date_best_before>2026-05-27</date_best_before>
-    <untappd_id>6016175</untappd_id>
-  </item>
-  <item>
     <id>6187809</id>
     <ecommerce_id>761858327</ecommerce_id>
     <title>TOP PICK (collab Omnipollo)</title>
@@ -8733,6 +8679,6 @@
     <brewery_country>Canada</brewery_country>
     <untappd_id>6197367</untappd_id>
   </item>
-  <timestamp>1783964712</timestamp>
-  <gen_date>13/07/2026 19:45:12</gen_date>
+  <timestamp>1784018712</timestamp>
+  <gen_date>14/07/2026 10:45:12</gen_date>
 </feed>
