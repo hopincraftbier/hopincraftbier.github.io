@@ -5,6 +5,44 @@
   <link>https://hopincraftbier.be/products&lt;/link&gt;</link>
   <description>Hop In Craftbier Products feed</description>
   <item>
+    <id>9000000050</id>
+    <ecommerce_id>848804694</ecommerce_id>
+    <title>Verdant Brewing Co - Triplet 2</title>
+    <url>https://hopincraftbier.be/products/verdant-brewing-co-triplet-848804694</url>
+    <brewery_name>Verdant Brewing Co</brewery_name>
+    <price>24.47</price>
+    <regular_price>25.76</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/848804694/5892085548.png</image>
+    <beer_description>The Verdant Brewing Co - Triplet contains: - Verdant - Tender ThornsIPA - New England / Hazy | 6,5% | 440 ml - Verdant - Whale Sharks 2026IPA - Imperial / Double | 8,4% | 440 ml - Verdant - King of MayIPA - Triple New England / Hazy | 10% | 440 ml</beer_description>
+    <beer_style>IPA</beer_style>
+    <beer_abv>6 - 10%</beer_abv>
+    <beer_volume>3x440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>England</brewery_country>
+    <beer_package_count>3</beer_package_count>
+    <beer_bundle>1</beer_bundle>
+    <bundle_skus>6754657,6785270,6727078</bundle_skus>
+  </item>
+  <item>
+    <id>9000000049</id>
+    <ecommerce_id>848804413</ecommerce_id>
+    <title>Verdant Brewing Co - Triplet 1</title>
+    <url>https://hopincraftbier.be/products/verdant-brewing-co-triplet</url>
+    <brewery_name>Verdant Brewing Co</brewery_name>
+    <price>24.47</price>
+    <regular_price>25.76</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/848804413/5892085530.png</image>
+    <beer_description>The Verdant Brewing Co - Triplet contains: - Verdant - Tender ThornsIPA - New England / Hazy | 6,5% | 440 ml - Verdant - Lightness IllusionIPA - Imperial / Double | 8% | 440 ml - Verdant - King of MayIPA - Triple New England / Hazy | 10% | 440 ml</beer_description>
+    <beer_style>IPA</beer_style>
+    <beer_abv>6 - 10%</beer_abv>
+    <beer_volume>3x440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>England</brewery_country>
+    <beer_package_count>3</beer_package_count>
+    <beer_bundle>1</beer_bundle>
+    <bundle_skus>6754657,6764265,6727078</bundle_skus>
+  </item>
+  <item>
     <id>6785270</id>
     <ecommerce_id>848793463</ecommerce_id>
     <title>Whale Sharks 2026</title>
@@ -8694,6 +8732,6 @@
     <brewery_country>Canada</brewery_country>
     <untappd_id>6197367</untappd_id>
   </item>
-  <timestamp>1784188048</timestamp>
-  <gen_date>16/07/2026 09:47:28</gen_date>
+  <timestamp>1784188810</timestamp>
+  <gen_date>16/07/2026 10:00:10</gen_date>
 </feed>
