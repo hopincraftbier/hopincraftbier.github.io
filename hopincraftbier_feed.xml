@@ -7,8 +7,8 @@
   <item>
     <id>9000000050</id>
     <ecommerce_id>848804694</ecommerce_id>
-    <title>Verdant Brewing Co - Triplet 2</title>
-    <url>https://hopincraftbier.be/products/verdant-brewing-co-triplet-848804694</url>
+    <title>Verdant - Triplet 2</title>
+    <url>https://hopincraftbier.be/products/verdant-triplet-2</url>
     <brewery_name>Verdant Brewing Co</brewery_name>
     <price>24.47</price>
     <regular_price>25.76</regular_price>
@@ -26,8 +26,8 @@
   <item>
     <id>9000000049</id>
     <ecommerce_id>848804413</ecommerce_id>
-    <title>Verdant Brewing Co - Triplet 1</title>
-    <url>https://hopincraftbier.be/products/verdant-brewing-co-triplet</url>
+    <title>Verdant - Triplet 1</title>
+    <url>https://hopincraftbier.be/products/verdant-triplet-1</url>
     <brewery_name>Verdant Brewing Co</brewery_name>
     <price>24.47</price>
     <regular_price>25.76</regular_price>
@@ -8732,6 +8732,6 @@
     <brewery_country>Canada</brewery_country>
     <untappd_id>6197367</untappd_id>
   </item>
-  <timestamp>1784188810</timestamp>
-  <gen_date>16/07/2026 10:00:10</gen_date>
+  <timestamp>1784190611</timestamp>
+  <gen_date>16/07/2026 10:30:11</gen_date>
 </feed>
