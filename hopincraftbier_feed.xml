@@ -5,6 +5,70 @@
   <link>https://hopincraftbier.be/products&lt;/link&gt;</link>
   <description>Hop In Craftbier Products feed</description>
   <item>
+    <id>6785270</id>
+    <ecommerce_id>848793463</ecommerce_id>
+    <title>Whale Sharks 2026</title>
+    <url>https://hopincraftbier.be/products/verdant-whale-sharks-2026</url>
+    <brewery_name>Verdant Brewing Co</brewery_name>
+    <price>8.94</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/848793463/5892064809.png</image>
+    <beer_description>A powerful and punchy TDH 8% DIPA. Even Sharks Need Water’s big brother. Huge Galaxy and Citra hits! Verdant Brewing Co - Whale Sharks 2026</beer_description>
+    <beer_style>IPA - Imperial / Double</beer_style>
+    <beer_abv>8.4%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>England</brewery_country>
+    <untappd_id>6785270</untappd_id>
+  </item>
+  <item>
+    <id>6754657</id>
+    <ecommerce_id>848804412</ecommerce_id>
+    <title>Tender Thorns</title>
+    <url>https://hopincraftbier.be/products/verdant-tender-thorns</url>
+    <brewery_name>Verdant Brewing Co</brewery_name>
+    <price>6.99</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/848804412/5892043458.png</image>
+    <beer_description>After our REZ project last year, we're returning with two new offerings brewed in conjunction with the TATE team! This time celebrating the launch of 'Frida: The Making of an Icon' their sublime new Frida Kahlo exhibition, opening on 25th June 2026! Tender Thorns is an IPA (6.5%) The classic, juicy Verdant companion piece representing the resilient outer shell of a cactus. It’s soft, ultra-sluggable, with a subtle bitterness and a big, pillowy body. Packed with Citra and Motueka hops, it delivers absolute 'creamy limes for days!' Verdant Brewing Co - Tender Thorns</beer_description>
+    <beer_style>IPA - New England / Hazy</beer_style>
+    <beer_abv>6.5%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>England</brewery_country>
+    <untappd_id>6754657</untappd_id>
+  </item>
+  <item>
+    <id>6764265</id>
+    <ecommerce_id>848795170</ecommerce_id>
+    <title>Lightness Illusion</title>
+    <url>https://hopincraftbier.be/products/verdant-lightness-illusion</url>
+    <brewery_name>Verdant Brewing Co</brewery_name>
+    <price>8.94</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/848795170/5892064841.png</image>
+    <beer_description>The new heavy hitter of the Colour Theory family: Lightness Illusion. This 8% DIPA rounds out the series with a deep, complex journey. By elevating the ABV and hop saturation, we’ve brought forth waves of joyous tropical fruits floating atop a dank, brooding, and wonderfully complex underbelly all thanks to Nectaron, Idaho 7 and Citra! For this label, our Creative Director took inspiration from the famous Munker illusion, a phenomenon in which the perceived colour of an object shifts drastically depending on the surrounding stripes. Your brain rewrites the data based on the background. Looking at the label, you’d swear you’re seeing different colours, but each shape is the exact same shade of blue. Verdant Brewing Co - Lightness Illusion</beer_description>
+    <beer_style>IPA - Imperial / Double</beer_style>
+    <beer_abv>8%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>England</brewery_country>
+    <untappd_id>6764265</untappd_id>
+  </item>
+  <item>
+    <id>6727078</id>
+    <ecommerce_id>848793462</ecommerce_id>
+    <title>King of May</title>
+    <url>https://hopincraftbier.be/products/verdant-king-of-may</url>
+    <brewery_name>Verdant Brewing Co</brewery_name>
+    <price>9.83</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/848793462/5892052607.png</image>
+    <beer_description>Packed with so much Citra, Mosaic and Nelson Sauvin, drink this beer and you may start to see visions of another world! Our love affair with the icons of the Beat Generation continues. If you’ve been following us for a while, you know that across Marylou (Pale Ale), Neal Gets Things Done (IPA), and Allen (DIPA), we’ve used the exact same hop bill to show how a story can evolve, shift, and intensify. But there was still one missing chapter. The ultimate poem. Enter King of May, a monumental 10% Triple IPA that serves as the grand finale to our Beat Gen series. To honour the King, we loaded an incredibly soft, luscious grain bill with a staggering, saturated amount of our favourite Beat Gen trio: Citra, Mosaic, and Nelson Sauvin. We used the largest amount of T90 equivalent hops in the whirlpool we have ever done, combined with a massive 30 g/l dry hop. Expect juicy notes of mango, passionfruit, and peach, complemented by hints of resinous pine and a solid dankness. It is big, loud, beautifully aromatic, and pushes our house style to its absolute limit. Verdant Brewing Co - King of May</beer_description>
+    <beer_style>IPA - Triple New England / Hazy</beer_style>
+    <beer_abv>10%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>England</brewery_country>
+    <untappd_id>6727078</untappd_id>
+  </item>
+  <item>
     <id>6698282</id>
     <ecommerce_id>846870753</ecommerce_id>
     <title>Truss'd Me</title>
@@ -8630,6 +8694,6 @@
     <brewery_country>Canada</brewery_country>
     <untappd_id>6197367</untappd_id>
   </item>
-  <timestamp>1784047509</timestamp>
-  <gen_date>14/07/2026 18:45:09</gen_date>
+  <timestamp>1784188048</timestamp>
+  <gen_date>16/07/2026 09:47:28</gen_date>
 </feed>
