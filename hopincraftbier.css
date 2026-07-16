@@ -1,4 +1,4 @@
-/* HopInCraftbier custom css v4.40 */
+/* HopInCraftbier custom css v4.41 */
 /** start homepage **/
 body {
     margin: auto;
@@ -30,7 +30,7 @@ a.ins-control--outline div.ins-control__button {
     }
 }
 #tile-call-to-action-S4XLJn {
-    background-color: rgb(249, 249, 249);
+    background-color: transparent !important;
     margin: auto;
     width: 86%;
     div.my-12 {
@@ -1081,10 +1081,14 @@ div.pager__body {
 
         .grid-product__title-inner {
             margin: 0 5px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
         }
         .grid-product__price {
+            display: flex;
+            justify-content: center;
             align-items: center;
-            margin: 0 5px 10px 5px;
             .grid-product__textblock.grid-product__price-label {
                 display: inline-block !important;
                 font-family: 'Bangers', system-ui;
@@ -1103,6 +1107,11 @@ div.pager__body {
             .grid-product__price-value {
                 font-size: 16px;
                 font-weight: 600;
+            }
+            .grid-product__price-lowest {
+                display: flex;
+                justify-content: center;
+                align-items: center;
             }
         }
         .grid-product__button {
