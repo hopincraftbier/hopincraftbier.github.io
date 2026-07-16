@@ -8234,23 +8234,6 @@
     <untappd_id>6291425</untappd_id>
   </item>
   <item>
-    <id>6280326</id>
-    <ecommerce_id>756989447</ecommerce_id>
-    <title>Château (collab Third Moon)</title>
-    <url>https://hopincraftbier.be/products/nano-cinco-chateau</url>
-    <brewery_name>Nano Cinco</brewery_name>
-    <price>5.44</price>
-    <regular_price>10,88</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4966300378.webp</image>
-    <beer_description>Château is a New England Double IPA brewed in collaboration with our Ontario friends, Third Moon. A tropical explosion crafted with 100% Freestyle Hops: NZ Cascade, Peacharine, Rakau, Motueka SubZero Hop Kief, and NZ Cascade Hop Kief. This hop cocktail releases vibrant notes of citrus, tropical fruit, and ripe peach, supported by a smooth texture and gentle bitterness. The kind of DIPA we love—powerful and velvety. Cheers! Nano Cinco - Chateau</beer_description>
-    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
-    <beer_abv>8%</beer_abv>
-    <beer_volume>473 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Canada</brewery_country>
-    <untappd_id>6280326</untappd_id>
-  </item>
-  <item>
     <id>6250418</id>
     <ecommerce_id>756989446</ecommerce_id>
     <title>Bistro Peach Strawberry Rhubarb Cobbler</title>
@@ -8659,6 +8642,6 @@
     <brewery_country>Canada</brewery_country>
     <untappd_id>6197367</untappd_id>
   </item>
-  <timestamp>1784200149</timestamp>
-  <gen_date>16/07/2026 13:09:09</gen_date>
+  <timestamp>1784214913</timestamp>
+  <gen_date>16/07/2026 17:15:13</gen_date>
 </feed>
