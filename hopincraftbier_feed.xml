@@ -107,20 +107,20 @@
     <untappd_id>6727078</untappd_id>
   </item>
   <item>
-    <id>6698282</id>
+    <id>6727609</id>
     <ecommerce_id>846870753</ecommerce_id>
-    <title>Truss'd Me</title>
+    <title>In Hops We Trussd</title>
     <url>https://hopincraftbier.be/products/dankhouse-trussd-me</url>
     <brewery_name>DankHouse Brewing Company</brewery_name>
     <price>10.34</price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/846870753/5942520054.png</image>
-    <beer_description>Our collab beer for 2026 made with our Family Truss'd members. This one is dry hopped with... DankHouse Brewing Company - Truss'd Me</beer_description>
+    <beer_description>We brought in our Family Trussd members for a brew day, and let them pick out some hops to throw in this thing. Here's where we landed, a Hazy DIPA hit with some Columbus, Peacharine, Aloha, Anchovy, Krush, Paradisi, and Vera DankHouse - In Hops We Trussd</beer_description>
     <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
     <beer_abv>8%</beer_abv>
     <beer_volume>473 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>United States</brewery_country>
-    <untappd_id>6698282</untappd_id>
+    <untappd_id>6727609</untappd_id>
   </item>
   <item>
     <id>6048528</id>
@@ -8443,6 +8443,6 @@
     <brewery_country>Canada</brewery_country>
     <untappd_id>6197367</untappd_id>
   </item>
-  <timestamp>1784811611</timestamp>
-  <gen_date>23/07/2026 15:00:11</gen_date>
+  <timestamp>1784812510</timestamp>
+  <gen_date>23/07/2026 15:15:10</gen_date>
 </feed>
