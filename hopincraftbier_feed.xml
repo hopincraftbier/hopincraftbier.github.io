@@ -113,7 +113,7 @@
     <url>https://hopincraftbier.be/products/dankhouse-trussd-me</url>
     <brewery_name>DankHouse Brewing Company</brewery_name>
     <price>10.34</price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/846870753/5876837636.webp</image>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/846870753/5942520054.png</image>
     <beer_description>Our collab beer for 2026 made with our Family Truss'd members. This one is dry hopped with... DankHouse Brewing Company - Truss'd Me</beer_description>
     <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
     <beer_abv>8%</beer_abv>
@@ -8443,6 +8443,6 @@
     <brewery_country>Canada</brewery_country>
     <untappd_id>6197367</untappd_id>
   </item>
-  <timestamp>1784802497</timestamp>
-  <gen_date>23/07/2026 12:28:17</gen_date>
+  <timestamp>1784811611</timestamp>
+  <gen_date>23/07/2026 15:00:11</gen_date>
 </feed>
