@@ -1105,13 +1105,19 @@ div.pager__body {
                 padding-left: 15px !important;
             }
             .grid-product__price-value {
-                font-size: 16px;
-                font-weight: 600;
+                font-size: 16px !important;
+                font-weight: 600 !important;
             }
             .grid-product__price-lowest {
                 display: flex;
-                justify-content: center;
-                align-items: center;
+                justify-content: center !important;
+                align-items: center !important;
+                font-size: 14px !important;
+                font-weight: 400 !important;
+            }
+            .grid-product__price-compare-values {
+                font-size: 16px !important;
+                font-weight: 600 !important;
             }
         }
         .grid-product__button {
