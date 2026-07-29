@@ -1691,8 +1691,8 @@ div.ins-tile__product-item--small.ins-tile__product-item.ins-tile__item:nth-chil
 }
 div.details-product-price-compare__container {
     span.product-details__product-price-discount {
-        display: inline-block;
-        padding-left: 50px;
+        display: inline-block !important;
+        padding-left: 50px !important;
         transform: translateY(-10px) rotate(-25deg);
         -webkit-transform: translateY(-10px) rotate(-25deg);
         -moz-transform: translateY(-10px) rotate(-25deg);
@@ -1700,11 +1700,11 @@ div.details-product-price-compare__container {
         -o-transform: translateY(-10px) rotate(-25deg);
         -khtml-transform: translateY(-10px) rotate(-25deg);
         span.details-product-price-discount__text, span.details-product-price-discount__value {
-            font-family: "Bangers", system-ui;
-            font-size: 20px;
-            color: red;
-            font-weight: 300;
-            letter-spacing: 1px;
+            font-family: "Bangers", system-ui !important;
+            font-size: 20px !important;
+            color: red !important;
+            font-weight: 300 !important;
+            letter-spacing: 1px !important;
         }
     }
 }
@@ -2008,7 +2008,7 @@ div#deliveryInfoSidebar {
 
     p.title {
         font-family: Ubuntu, system-ui, sans-serif !important;
-        font-size: 26px !important;
+        font-size: 24px !important;
         font-weight: 600 !important;
     }
 }
