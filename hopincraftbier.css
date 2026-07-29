@@ -1018,25 +1018,25 @@ div.pager__body {
     padding-top: 40px;
 }
 .ec-size.ec-size--l .ec-store .ec-filters--inline .ec-filter__name {
-    font-size: 14px;
-    padding: 5px;
+    font-size: 14px !important;
+    padding: 5px !important;
 }
 
 .ec-size.ec-size--l .ec-store .ec-filters .ec-filter {
-    font-size: 14px;
-    border: 1px solid lightgray;
-    background: white;
-    border-radius: 5px;
+    font-size: 14px !important;
+    border: 1px solid lightgray !important;
+    background: white !important;
+    border-radius: 5px !important;
     box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24) !important;
-    margin-bottom: 10px;
+    margin-bottom: 10px !important;
 
     .ec-filter__body {
         padding-left: 10px !important;
         .ec-openable-block--opened {
-            margin-top: 5px;
+            margin-top: 5px !important;
         }
         .form-control__placeholder-inner {
-            font-size: 14px;
+            font-size: 14px !important;
         }
 
         .ec-filter__items:not(.ec-filter__items--full-height)::after {
