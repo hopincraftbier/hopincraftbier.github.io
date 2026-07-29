@@ -1066,24 +1066,24 @@ div.pager__body {
     flex: 1 1 auto;
 
     .grid-product {
-        float: left;
-        position: relative;
-        min-height: 1px;
-        padding: 0 12px 25px 13px;
-        box-sizing: border-box;
-        color: rgb(51, 51, 51);
-        display: block;
-        font-family: Ubuntu, Muli, sans-serif;
-        font-size: 14px;
-        line-height: 20px;
-        text-size-adjust: 100%;
-        -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+        float: left !important;
+        position: relative !important;
+        min-height: 1px !important;
+        padding: 0 12px 25px 13px !important;
+        box-sizing: border-box !important;
+        color: rgb(51, 51, 51) !important;
+        display: block !important;
+        font-family: Ubuntu, Muli, sans-serif !important;
+        font-size: 14px !important;
+        line-height: 20px !important;
+        text-size-adjust: 100% !important;
+        -webkit-tap-highlight-color: rgba(0, 0, 0, 0) !important;
 
         .grid-product__title-inner {
-            margin: 0 5px;
-            display: flex;
-            justify-content: center;
-            align-items: center;
+            margin: 0 5px !important;
+            display: flex !important;
+            justify-content: center !important;
+            align-items: center !important;
         }
         .grid-product__price {
             display: flex;
@@ -1126,35 +1126,35 @@ div.pager__body {
             margin: auto;
 
             .form-control__button {
-                padding: 0.6em 2em;
-                font-size: 14px;
-                letter-spacing: 2.5px;
-                font-weight: 700;
-                color: #000;
-                background-color: #fff;
-                border: 1px solid lightgray;
-                border-radius: 15px;
-                box-shadow: 0 8px 15px rgba(0, 0, 0, 0.1);
-                transition: all 0.3s ease 0s;
-                cursor: pointer;
-                outline: none;
+                padding: 0.6em 2em !important;
+                font-size: 14px !important;
+                letter-spacing: 2.5px !important;
+                font-weight: 700 !important;
+                color: #000 !important;
+                background-color: #fff !important;
+                border: 1px solid lightgray !important;
+                border-radius: 15px !important;
+                box-shadow: 0 8px 15px rgba(0, 0, 0, 0.1) !important;
+                transition: all 0.3s ease 0s !important;
+                cursor: pointer !important;
+                outline: none !important;
             }
             .form-control__button:hover {
-                box-shadow: 0 5px 10px rgba(0, 0, 0, 0.4);
-                transform: translateY(-7px);
-                -webkit-transform: translateY(-7px);
-                -moz-transform: translateY(-7px);
-                -ms-transform: translateY(-7px);
-                -o-transform: translateY(-7px);
-                -khtml-transform: translateY(-7px);
+                box-shadow: 0 5px 10px rgba(0, 0, 0, 0.4) !important;
+                transform: translateY(-7px) !important;
+                -webkit-transform: translateY(-7px) !important;
+                -moz-transform: translateY(-7px) !important;
+                -ms-transform: translateY(-7px) !important;
+                -o-transform: translateY(-7px) !important;
+                -khtml-transform: translateY(-7px) !important;
             }
             .form-control__button:active {
-                transform: translateY(-1px);
-                -webkit-transform: translateY(-1px);
-                -moz-transform: translateY(-1px);
-                -ms-transform: translateY(-1px);
-                -o-transform: translateY(-1px);
-                -khtml-transform: translateY(-1px);
+                transform: translateY(-1px) !important;
+                -webkit-transform: translateY(-1px) !important;
+                -moz-transform: translateY(-1px) !important;
+                -ms-transform: translateY(-1px) !important;
+                -o-transform: translateY(-1px) !important;
+                -khtml-transform: translateY(-1px) !important;
             }
         }
 
@@ -1441,6 +1441,7 @@ div.ecwid-productBrowser {
 div.grid-product__subtitle-inner {
     color: white !important;
     font-weight: 600 !important;
+    font-size: 14px !important;
 }
 div.ec-cart {
     div.ec-cart__item {
