@@ -213,9 +213,9 @@ div.ins-tile__product-image div.ins-tile__product-label {
         margin-bottom: 50px;
     }
     div.ins-tile__product-image div.ins-tile__product-label {
-        background-color: #f9f9f9;
+        background-color: #f9f9f9 !important;
         span {
-            color: black;
+            color: black !important;
         }
     }
 }
