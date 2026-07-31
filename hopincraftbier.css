@@ -1,4 +1,4 @@
-/* HopInCraftbier custom css v4.43 */
+/* HopInCraftbier custom css v4.44 */
 /** start homepage **/
 body {
     margin: auto;
@@ -1444,6 +1444,9 @@ div.grid-product__subtitle-inner {
     font-size: 14px !important;
 }
 div.ec-cart {
+    div.ec-cart__products div.ec-cart__products-inner {
+        margin-left: 1px !important;
+    }
     div.ec-cart__item {
         border: 1px solid lightgray;
         background-color: rgb(230, 233, 235, 70%) !important;
@@ -1451,9 +1454,6 @@ div.ec-cart {
         border-radius: 5px;
         margin-bottom: 10px !important;
         box-shadow: 5px 5px 15px 0 rgba(0, 0, 0, 0.1);
-        div.ec-cart__products-inner {
-            margin-left: 1px !important;
-        }
         div.ec-cart-item__options--weight {
             font-size: 14px !important;
         }
