@@ -724,7 +724,7 @@
     <brewery_name>Oso Brew Co</brewery_name>
     <price>6.05</price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/839043418/5798402195.png</image>
-    <beer_description>Brewed with Motueka, Nectaron, Nelson Sauvin, and Kohia Nelson (an exclusive botanical New Zealand hop blend). Together with the British grandmasters of Track Brewing, Oso ventures onto the crisp, bitter side of the spectrum here. Mainline is a stunningly modern West Coast IPA. Instead of the classic American 'pine hops', they have focused entirely on the most exclusive tropical hop varieties from New Zealand. Oso Brew Co - Mainline Oso Brew Co - Mainline</beer_description>
+    <beer_description>Brewed with Motueka, Nectaron, Nelson Sauvin, and Kohia Nelson (an exclusive botanical New Zealand hop blend). Together with the British grandmasters of Track Brewing, Oso ventures onto the crisp, bitter side of the spectrum here. Mainline is a stunningly modern West Coast IPA. Instead of the classic American 'pine hops', they have focused entirely on the most exclusive tropical hop varieties from New Zealand. Oso Brew Co - Mainline</beer_description>
     <beer_style>IPA - West Coast</beer_style>
     <beer_abv>7%</beer_abv>
     <beer_volume>440 ml</beer_volume>
@@ -741,7 +741,7 @@
     <brewery_name>Oso Brew Co</brewery_name>
     <price>6.67</price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/839048168/5798402201.png</image>
-    <beer_description>Brewed with Mosaic, Strata, Nelson Sauvin and Azacca hops. When you invite the absolute legends of the Hazy IPA world (the British Verdant and the French Prizm), you know expectations are sky-high. Aura is a masterful, silky-smooth New England IPA that strikes a perfect balance between creaminess and hop intensity. Oso Brew Co - Aura Oso Brew Co - Aura</beer_description>
+    <beer_description>Brewed with Mosaic, Strata, Nelson Sauvin and Azacca hops. When you invite the absolute legends of the Hazy IPA world (the British Verdant and the French Prizm), you know expectations are sky-high. Aura is a masterful, silky-smooth New England IPA that strikes a perfect balance between creaminess and hop intensity. Oso Brew Co - Aura</beer_description>
     <beer_style>IPA - New England / Hazy</beer_style>
     <beer_abv>7%</beer_abv>
     <beer_volume>440 ml</beer_volume>
@@ -758,7 +758,7 @@
     <brewery_name>Oso Brew Co</brewery_name>
     <price>7.35</price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/839039914/5798439504.png</image>
-    <beer_description>Brewed with Sabro, Simcoe, Mosaic, Idaho 7 and Riwaka hops. Oso launches the attack with an insane collaboration with the Canadian hop masters at Messorem. Dominion is an extremely thick, massive Double IPA in which absolutely all stops have been pulled out. A complex blend of no fewer than five distinct hop varieties was chosen to create a maximum fruit explosion. Oso Brew Co - Dominion Oso Brew Co - Dominion</beer_description>
+    <beer_description>Brewed with Sabro, Simcoe, Mosaic, Idaho 7 and Riwaka hops. Oso launches the attack with an insane collaboration with the Canadian hop masters at Messorem. Dominion is an extremely thick, massive Double IPA in which absolutely all stops have been pulled out. A complex blend of no fewer than five distinct hop varieties was chosen to create a maximum fruit explosion. Oso Brew Co - Dominion</beer_description>
     <beer_style>IPA - Imperial / Double</beer_style>
     <beer_abv>8.4%</beer_abv>
     <beer_volume>440 ml</beer_volume>
@@ -8429,6 +8429,6 @@
     <brewery_country>Canada</brewery_country>
     <untappd_id>6197367</untappd_id>
   </item>
-  <timestamp>1785477002</timestamp>
-  <gen_date>31/07/2026 07:50:02</gen_date>
+  <timestamp>1785479407</timestamp>
+  <gen_date>31/07/2026 08:30:07</gen_date>
 </feed>
