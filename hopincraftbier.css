@@ -1445,11 +1445,23 @@ div.grid-product__subtitle-inner {
 }
 div.ec-cart {
     div.ec-cart__item {
-        background-color: #F5F5F5;
+        border: 1px solid lightgray;
+        background-color: rgb(230, 233, 235, 70%) !important;
         padding-right: 5px;
         border-radius: 5px;
         margin-bottom: 10px !important;
         box-shadow: 5px 5px 15px 0 rgba(0, 0, 0, 0.1);
+        div.ec-cart-item__options--weight {
+            font-size: 14px !important;
+        }
+        div.ec-cart-item__count-inner {
+            div.form-control__select-text {
+                font-size: 14px !important;
+            }
+            select.form-control__select {
+                font-size: 14px !important;
+            }
+        }
     }
     div.ec-cart__discount--focus div.ec-cart-discount-group {
         div.ec-cart-discount-group__coupon:before {
