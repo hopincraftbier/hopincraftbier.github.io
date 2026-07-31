@@ -1,4 +1,4 @@
-/* HopInCraftbier custom css v4.44 */
+/* HopInCraftbier custom css v4.45 */
 /** start homepage **/
 body {
     margin: auto;
@@ -1470,6 +1470,11 @@ div.ec-cart {
         }
         div.ec-cart-item-sum__more-label {
             font-size: 14px !important;
+        }
+        div.ec-cart-item--summary {
+            width: calc(100% - 16px) !important;
+            padding-left: 4px !important;
+            margin-right: 1px !important;
         }
     }
     div.ec-cart__discount--focus div.ec-cart-discount-group {
