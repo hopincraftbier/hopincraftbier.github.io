@@ -203,9 +203,9 @@ div.ins-tile__product-image div.ins-tile__product-label {
     }
 }
 #tile-category-products-a6srPF div.ins-tile__product-image div.ins-tile__product-label {
-    background-color: rgb(199, 88, 199);
+    background-color: rgb(199, 88, 199) !important;
     span {
-        color: white;
+        color: white !important;
     }
 }
 #tile-category-products-QTXrLB {
