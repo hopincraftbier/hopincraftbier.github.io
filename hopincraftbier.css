@@ -1,4 +1,4 @@
-/* HopInCraftbier custom css v4.41 */
+/* HopInCraftbier custom css v4.42 */
 /** start homepage **/
 body {
     margin: auto;
@@ -203,7 +203,7 @@ div.ins-tile__product-image div.ins-tile__product-label {
     }
 }
 #tile-category-products-a6srPF div.ins-tile__product-image div.ins-tile__product-label {
-    background-color: rgb(199, 88, 199) !important;
+    /*background-color: #C758C7 !important;*/
     span {
         color: white !important;
     }
@@ -213,9 +213,9 @@ div.ins-tile__product-image div.ins-tile__product-label {
         margin-bottom: 50px;
     }
     div.ins-tile__product-image div.ins-tile__product-label {
-        background-color: #f9f9f9 !important;
+        /*background-color: #f9f9f9 !important;*/
         span {
-            color: black !important;
+            color: white !important;
         }
     }
 }
