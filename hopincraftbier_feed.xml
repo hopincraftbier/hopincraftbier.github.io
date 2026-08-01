@@ -175,6 +175,7 @@
     <beer_volume>440 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>Sweden</brewery_country>
+    <date_best_before>2027-05-27</date_best_before>
     <untappd_id>6733732</untappd_id>
   </item>
   <item>
@@ -191,6 +192,7 @@
     <beer_volume>440 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>Sweden</brewery_country>
+    <date_best_before>2027-06-17</date_best_before>
     <untappd_id>6768656</untappd_id>
   </item>
   <item>
@@ -8411,6 +8413,6 @@
     <brewery_country>Canada</brewery_country>
     <untappd_id>6197367</untappd_id>
   </item>
-  <timestamp>1785528006</timestamp>
-  <gen_date>31/07/2026 22:00:06</gen_date>
+  <timestamp>1785572107</timestamp>
+  <gen_date>01/08/2026 10:15:07</gen_date>
 </feed>
