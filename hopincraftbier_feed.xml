@@ -736,7 +736,7 @@
     <untappd_id>6740758</untappd_id>
   </item>
   <item>
-    <id>6741179</id>
+    <id>6745201</id>
     <ecommerce_id>839048168</ecommerce_id>
     <title>Aura (collab Verdant,Prizm)</title>
     <url>https://hopincraftbier.be/products/oso-brew-co-aura</url>
@@ -750,10 +750,10 @@
     <beer_package>can</beer_package>
     <brewery_country>Spain</brewery_country>
     <date_canned>2026-06-10</date_canned>
-    <untappd_id>6741179</untappd_id>
+    <untappd_id>6745201</untappd_id>
   </item>
   <item>
-    <id>6740762</id>
+    <id>6745199</id>
     <ecommerce_id>839039914</ecommerce_id>
     <title>Dominion (collab Messorem)</title>
     <url>https://hopincraftbier.be/products/oso-brew-co-dominion</url>
@@ -767,7 +767,7 @@
     <beer_package>can</beer_package>
     <brewery_country>Spain</brewery_country>
     <date_canned>2026-06-10</date_canned>
-    <untappd_id>6740762</untappd_id>
+    <untappd_id>6745199</untappd_id>
   </item>
   <item>
     <id>6743370</id>
@@ -4374,7 +4374,7 @@
     <brewery_name>Hoof Hearted Brewing</brewery_name>
     <price>10.67</price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/820762603/5629371791.png</image>
-    <beer_description>Clean off your mirrored glass table and grab a hundo. Key Bump bout to pack your nose full of those oh-so tropical tones. Passionfruit, guava, pineapple(s), calamansi and kumquat barrel down the mountain as quick as Alberto Tomba on an Olympic qualifying run. Hopped with the most dangerous weapon in the game (ElMoMoCoe) + fermented w/ the fruity flyboi Orenthal, Key Bump's the pick-me-up you can't put down. To quote the great Clyde Von Damme, 'What the hell is Dim Mak?' 2026 version of Hoof Hearted - Key Bump (2026)</beer_description>
+    <beer_description>Clean off your mirrored glass table and grab a hundo. Key Bump bout to pack your nose full of those oh-so tropical tones. Passionfruit, guava, pineapple(s), calamansi and kumquat barrel down the mountain as quick as Alberto Tomba on an Olympic qualifying run. Hopped with the most dangerous weapon in the game (ElMoMoCoe) + fermented w/ the fruity flyboi Orenthal, Key Bump's the pick-me-up you can't put down. To quote the great Clyde Von Damme, 'What the hell is Dim Mak?' Hoof Hearted - Key Bump (2026)</beer_description>
     <beer_style>IPA - Triple</beer_style>
     <beer_abv>10.5%</beer_abv>
     <beer_volume>473 ml</beer_volume>
@@ -4518,14 +4518,14 @@
     <untappd_id>6572097</untappd_id>
   </item>
   <item>
-    <id>6198737</id>
+    <id>6622606</id>
     <ecommerce_id>820758579</ecommerce_id>
     <title>Sticky (2026)</title>
     <url>https://hopincraftbier.be/products/all-my-friends-sticky-2026</url>
     <brewery_name>All My Friends Beer Co.</brewery_name>
     <price>10.67</price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/820758579/5631159751.png</image>
-    <beer_description>Citrus, Rice &amp; Maple Syrup 2026 version of All My Friends - Sticky (2026)</beer_description>
+    <beer_description>Sticky pours a thick, hazy orange with a dense glow. The aroma is packed with ripe mango, juicy pineapple, and bright grapefruit zest. On the palate it’s smooth and silky, leaning into sweet tropical fruit and fresh squeezed orange juice, balanced by a gentle resinous bitterness that keeps you coming back for more. The maple works quietly in the background, adding depth and a subtle richness that makes each sip feel a little more indulgent. Big, punchy, and surprisingly easy drinking for 8.2%. All My Friends - Sticky (2026)</beer_description>
     <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
     <beer_abv>8%</beer_abv>
     <beer_volume>473 ml</beer_volume>
@@ -8413,6 +8413,6 @@
     <brewery_country>Canada</brewery_country>
     <untappd_id>6197367</untappd_id>
   </item>
-  <timestamp>1785573906</timestamp>
-  <gen_date>01/08/2026 10:45:06</gen_date>
+  <timestamp>1785574806</timestamp>
+  <gen_date>01/08/2026 11:00:06</gen_date>
 </feed>
