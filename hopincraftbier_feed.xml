@@ -217,24 +217,6 @@
     <bundle_skus>6641776,6566363</bundle_skus>
   </item>
   <item>
-    <id>6655583</id>
-    <ecommerce_id>844449103</ecommerce_id>
-    <title>Patience 5th Anniversary (2026)</title>
-    <url>https://hopincraftbier.be/products/pinta-barrel-patience-5th-anniversary-2026</url>
-    <brewery_name>PINTA Barrel Brewing</brewery_name>
-    <price>9.99</price>
-    <regular_price>9.82</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/844449103/5849350275.png</image>
-    <beer_description>Imperial Stout w/ Coconut &amp; Vanilla. Aged for 14-18 months in MGP Rye Bourbon, Wyoming Whiskey and Maple Syrup Barrels. Adjuncts breakdown: - Roasted and Raw Coconut chips from Indonesia, - Vanilla pods from Cook Islands and Comoro Islands. Barrels Breakdown: 47% MGP Rye Bourbon 38% Wyoming Whiskey 15% Maple Syrup Special 5th Anniversary edition. PINTA Barrel Brewing - Patience 5th Anniversary (2026)</beer_description>
-    <beer_style>Stout - Imperial / Double</beer_style>
-    <beer_abv>12%</beer_abv>
-    <beer_volume>330 ml</beer_volume>
-    <beer_package>bottle</beer_package>
-    <brewery_country>Poland</brewery_country>
-    <date_best_before>2031-05-01</date_best_before>
-    <untappd_id>6655583</untappd_id>
-  </item>
-  <item>
     <id>6655581</id>
     <ecommerce_id>844519063</ecommerce_id>
     <title>Liberty 5th Anniversary (2026)</title>
@@ -251,24 +233,6 @@
     <brewery_country>Poland</brewery_country>
     <date_best_before>2031-05-01</date_best_before>
     <untappd_id>6655581</untappd_id>
-  </item>
-  <item>
-    <id>6655580</id>
-    <ecommerce_id>844449102</ecommerce_id>
-    <title>Affection 5th Anniversary (2026)</title>
-    <url>https://hopincraftbier.be/products/pinta-barrel-affection-5th-anniversary-2026</url>
-    <brewery_name>PINTA Barrel Brewing</brewery_name>
-    <price>9.99</price>
-    <regular_price>9.82</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/844449102/5849336102.png</image>
-    <beer_description>Imperial Stout w/ Coconut, Coffee, Cocoa nibs and Vanilla. Aged for 14-18 months in Heaven Hill &amp; Wild Turkey Bourbon, Cognac and Pedro Ximénez. Adjuncts Breakdown: - Roasted and Raw Coconut chips from Indonesia, - Coffee beans from Brazil, - Cocoa nibs from Ecuador and Dominican Republic, - Vanilla pods from Papua New Guinea and Costa Rica. Barrels Breakdown: 20% Heaven Hill 20% Wild Turkey 30% Cognac 30% Sherry Pedro Ximenez Special 5th Anniversary edition. PINTA Barrel Brewing - Affection 5th Anniversary (2026)</beer_description>
-    <beer_style>Stout - Imperial / Double</beer_style>
-    <beer_abv>10%</beer_abv>
-    <beer_volume>330 ml</beer_volume>
-    <beer_package>bottle</beer_package>
-    <brewery_country>Poland</brewery_country>
-    <date_best_before>2031-05-01</date_best_before>
-    <untappd_id>6655580</untappd_id>
   </item>
   <item>
     <id>6716011</id>
@@ -8378,6 +8342,6 @@
     <brewery_country>Canada</brewery_country>
     <untappd_id>6197367</untappd_id>
   </item>
-  <timestamp>1785578407</timestamp>
-  <gen_date>01/08/2026 12:00:07</gen_date>
+  <timestamp>1785670209</timestamp>
+  <gen_date>02/08/2026 13:30:09</gen_date>
 </feed>
