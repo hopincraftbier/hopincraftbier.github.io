@@ -217,24 +217,6 @@
     <bundle_skus>6641776,6566363</bundle_skus>
   </item>
   <item>
-    <id>6655581</id>
-    <ecommerce_id>844519063</ecommerce_id>
-    <title>Liberty 5th Anniversary (2026)</title>
-    <url>https://hopincraftbier.be/products/pinta-barrel-liberty-5th-anniversary-2026</url>
-    <brewery_name>PINTA Barrel Brewing</brewery_name>
-    <price>9.99</price>
-    <regular_price>9.82</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/844519063/5849336108.png</image>
-    <beer_description>Imperial Stout w/ Vanilla, Coconut and Barrel Aged Coffee. Aged for 14-18 months in Wyoming Whiskey, Porto and Rum Barrels. Adjuncts Breakdown: - Vanilla pods from Congo and India, - Raw Coconut chips from Indonesia, - Coffee beans from Honduras aged in Porto Barrel and Coffee beans from Columbia aged in Wyoming Whiskey Barrel. Barrels Breakdown: 58% Wyoming Whiskey 25% Porto 17% Rum Special 5th Anniversary edition. PINTA Barrel Brewing - Liberty 5th Anniversary (2026)</beer_description>
-    <beer_style>Stout - Imperial / Double</beer_style>
-    <beer_abv>11%</beer_abv>
-    <beer_volume>330 ml</beer_volume>
-    <beer_package>bottle</beer_package>
-    <brewery_country>Poland</brewery_country>
-    <date_best_before>2031-05-01</date_best_before>
-    <untappd_id>6655581</untappd_id>
-  </item>
-  <item>
     <id>6716011</id>
     <ecommerce_id>844449101</ecommerce_id>
     <title>Hazy Discovery Setúbal (collab Ophiussa)</title>
@@ -8342,6 +8324,6 @@
     <brewery_country>Canada</brewery_country>
     <untappd_id>6197367</untappd_id>
   </item>
-  <timestamp>1785670209</timestamp>
-  <gen_date>02/08/2026 13:30:09</gen_date>
+  <timestamp>1785696307</timestamp>
+  <gen_date>02/08/2026 20:45:07</gen_date>
 </feed>
