@@ -130,6 +130,55 @@
     <untappd_id>6048528</untappd_id>
   </item>
   <item>
+    <id>6790246</id>
+    <ecommerce_id>846578253</ecommerce_id>
+    <title>Cherokee</title>
+    <url>https://hopincraftbier.be/products/caleya-cherokee</url>
+    <brewery_name>Caleya</brewery_name>
+    <price>6.73</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/846578253/5875074583.png</image>
+    <beer_description>With Cherokee, Caleya truly pulls out all the stops in a massive 7.8% Double Hazy IPA. Alongside the classic heavyweights Citra and Nelson Sauvin, the brewers have boosted the batch with the legendary Waimea Hop Kief extract from Freestyle Hops in New Zealand. This liquid hop juice provides unreal aromatic saturation and an oily, creamy body. On the palate, a layered flavour profile explodes: rich notes of Sauvignon Blanc grapes and gooseberries (Nelson) blend with passion fruit, sweet mango (Citra), and an intense, resinous citrus punch from the Waimea. Powerful, full-bodied, and fabulously smooth. Caleya - Cherokee</beer_description>
+    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
+    <beer_abv>7.8%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Spain</brewery_country>
+    <untappd_id>6790246</untappd_id>
+  </item>
+  <item>
+    <id>6802643</id>
+    <ecommerce_id>846563400</ecommerce_id>
+    <title>Soulvattore Di Groove</title>
+    <url>https://hopincraftbier.be/products/caleya-soulvattore-di-groove</url>
+    <brewery_name>Caleya</brewery_name>
+    <price>6.32</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/846563400/5875074619.png</image>
+    <beer_description>This beer brings the ultimate soul and groove to your taste buds. Soulvattore Di Groove is a deliciously cloudy, silky smooth 6.5% Hazy IPA. The brewers have combined the familiar tropical power of Citra with the innovative Krush Cryo (the coveted new name for the legendary HBC 586 extract). The result is a liquid tropical cocktail with an incredibly soft, creamy mouthfeel. Expect an overwhelming wave of ripe peach, juicy mango, passion fruit, and a refreshing citrus kick that lingers beautifully. Caleya - Soulvattore Di Groove</beer_description>
+    <beer_style>IPA - New England / Hazy</beer_style>
+    <beer_abv>6.5%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Spain</brewery_country>
+    <untappd_id>6802643</untappd_id>
+  </item>
+  <item>
+    <id>6802667</id>
+    <ecommerce_id>846565409</ecommerce_id>
+    <title>Motorhop</title>
+    <url>https://hopincraftbier.be/products/caleya-motorhop</url>
+    <brewery_name>Caleya</brewery_name>
+    <price>5.4</price>
+    <regular_price>5.40</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/846565409/5875075534.png</image>
+    <beer_description>For all motorheads and lovers of the real deal, Caleya presents Motorhop, an unadulterated, classic West Coast IPA. The beer is golden in color, crystal clear, and brewed with the highly concentrated CGX hop points of Azacca and El Dorado, reinforced by the iconic Mosaic. Expect a robust, resinous bitterness that blends perfectly with intense aromas of pine needles, bitter grapefruit zest, and subtle notes of tropical fruit. A crisp, dry, easy-drinking banger with a delightful old-school character. Caleya - Motorhop</beer_description>
+    <beer_style>IPA - American</beer_style>
+    <beer_abv>6.3%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Spain</brewery_country>
+    <untappd_id>6802667</untappd_id>
+  </item>
+  <item>
     <id>6783118</id>
     <ecommerce_id>845710046</ecommerce_id>
     <title>Oso - Hop Slop</title>
@@ -8324,6 +8373,6 @@
     <brewery_country>Canada</brewery_country>
     <untappd_id>6197367</untappd_id>
   </item>
-  <timestamp>1785696307</timestamp>
-  <gen_date>02/08/2026 20:45:07</gen_date>
+  <timestamp>1785859871</timestamp>
+  <gen_date>04/08/2026 18:11:11</gen_date>
 </feed>
