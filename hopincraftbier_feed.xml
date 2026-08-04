@@ -130,6 +130,23 @@
     <untappd_id>6048528</untappd_id>
   </item>
   <item>
+    <id>6792040</id>
+    <ecommerce_id>846578450</ecommerce_id>
+    <title>Pachanga</title>
+    <url>https://hopincraftbier.be/products/indiano-pachanga</url>
+    <brewery_name>INDIANO</brewery_name>
+    <price>6.73</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/846578450/5875203678.png</image>
+    <beer_description>Pachanga is Spanish for a casual, lively party. This 8.0% Hazy Double IPA is brewed with an absolute dream trio of hops: the infallible Citra, the exorbitantly expensive Nelson Sauvin, and the refined New Zealand Wai-iti. The beer flows into the glass golden yellow, thick, and milky hazy. On the palate, an insanely layered fruit cocktail explodes: rich notes of Sauvignon Blanc grapes and gooseberries (Nelson) blend beautifully with sweet mango and passion fruit (Citra). The Wai-iti hop completes the party with a fresh, lively kick of fresh lime and peach aromas. The body is extremely creamy, lumpy, and pillowy soft, where the alcohol percentage is magically completely invisible behind the intense hop saturation. INDIANO - Pachanga</beer_description>
+    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
+    <beer_abv>8%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Spain</brewery_country>
+    <date_best_before>2027-07-08</date_best_before>
+    <untappd_id>6792040</untappd_id>
+  </item>
+  <item>
     <id>6790246</id>
     <ecommerce_id>846578253</ecommerce_id>
     <title>Cherokee</title>
@@ -8373,6 +8390,6 @@
     <brewery_country>Canada</brewery_country>
     <untappd_id>6197367</untappd_id>
   </item>
-  <timestamp>1785859871</timestamp>
-  <gen_date>04/08/2026 18:11:11</gen_date>
+  <timestamp>1785859978</timestamp>
+  <gen_date>04/08/2026 18:12:58</gen_date>
 </feed>
