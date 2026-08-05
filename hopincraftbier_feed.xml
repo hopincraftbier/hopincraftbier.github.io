@@ -5,6 +5,54 @@
   <link>https://hopincraftbier.be/products&lt;/link&gt;</link>
   <description>Hop In Craftbier Products feed</description>
   <item>
+    <id>6797144</id>
+    <ecommerce_id>853645075</ecommerce_id>
+    <title>Year 7 - TDF Caterpillar Cake</title>
+    <url>https://hopincraftbier.be/products/vault-city-year-7-tdf-caterpillar-cake</url>
+    <brewery_name>Vault City Brewing</brewery_name>
+    <price>8.85</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/853645075/6037410918.png</image>
+    <beer_description>Back once again (and free of 2024’s legal troubles), our chocolate caterpillar cake imperial stout has been battered and triple deep fried specially for our 8th birthday. Expect layers of rich decadence from chocolate malt, drenched in cholaca and cocoa powder. Sweet, intense, and unapologetically excessive, it begs the question: is anything safe from Scottish chippies… or breweries? Allergens: Malted Barley (Gluten),Lactose (Milk), Oats (Gluten) Vault City Brewing - Year 7 - TDF Caterpillar Cake</beer_description>
+    <beer_style>Stout - Imperial / Double Pastry</beer_style>
+    <beer_abv>15%</beer_abv>
+    <beer_volume>330 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Scotland</brewery_country>
+    <untappd_id>6797144</untappd_id>
+  </item>
+  <item>
+    <id>6798399</id>
+    <ecommerce_id>853646315</ecommerce_id>
+    <title>Year 6 - Mango Banana Coconut Crumble Cake</title>
+    <url>https://hopincraftbier.be/products/vault-city-year-6-mango-banana-coconut-crumble-cake</url>
+    <brewery_name>Vault City Brewing</brewery_name>
+    <price>9.73</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/853646315/6037410942.png</image>
+    <beer_description>This evolution of one of our most heavily fruited sours from 2023 pushes even further into a full-on pastry smoothie. Bursting with ripe mango and banana then layered with creamy coconut, it pours thick and juicy with a bold tropical intensity and a velvety mouthfeel. This time, we put the labels the correct way up. (Don’t ask.) Sour Scale:3 Allergens: Malted Barley (Gluten),Lactose (Milk), Oats (Gluten), Vault City Brewing - Year 6 - Mango Banana Coconut Crumble Cake</beer_description>
+    <beer_style>Sour - Smoothie / Pastry</beer_style>
+    <beer_abv>6%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Scotland</brewery_country>
+    <untappd_id>6798399</untappd_id>
+  </item>
+  <item>
+    <id>6780249</id>
+    <ecommerce_id>853647570</ecommerce_id>
+    <title>Year 2 - 999g/L: Apricot, Mango, Guava &amp; Pineapple</title>
+    <url>https://hopincraftbier.be/products/vault-city-year-2-999g-l-apricot-mango-guava--pineapple</url>
+    <brewery_name>Vault City Brewing</brewery_name>
+    <price>9.66</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/853647570/6037410717.png</image>
+    <beer_description>Loaded with 999 grams of fruit per litre of beer, this is the legal limit we can add while still calling it beer. The second release in our birthday series sees the return of our iconic 999g/L series, launched in 2019 when we took our first step into seriously heavy fruiting rates. This smoothie sour put Vault City on the map, lacing glasses up and down the UK. It’s packed with fresh apricot, mango, guava and juicy pineapple for a full-on alcoholic fruit smoothie. Sour Scale:3 Allergens: Malted Barley (Gluten),Oats (Gluten) Vault City Brewing - Year 2 - 999g/L: Apricot, Mango, Guava &amp; Pineapple</beer_description>
+    <beer_style>Sour - Smoothie / Pastry</beer_style>
+    <beer_abv>5%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Scotland</brewery_country>
+    <untappd_id>6780249</untappd_id>
+  </item>
+  <item>
     <id>9000000049</id>
     <ecommerce_id>848804413</ecommerce_id>
     <title>Verdant - Triplet 1</title>
@@ -8304,6 +8352,6 @@
     <brewery_country>Canada</brewery_country>
     <untappd_id>6197367</untappd_id>
   </item>
-  <timestamp>1785934806</timestamp>
-  <gen_date>05/08/2026 15:00:06</gen_date>
+  <timestamp>1785940421</timestamp>
+  <gen_date>05/08/2026 16:33:41</gen_date>
 </feed>
