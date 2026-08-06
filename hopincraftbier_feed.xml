@@ -7707,24 +7707,6 @@
     <untappd_id>4969423</untappd_id>
   </item>
   <item>
-    <id>3527025</id>
-    <ecommerce_id>767352722</ecommerce_id>
-    <title>Vertige</title>
-    <url>https://hopincraftbier.be/products/brasserie-du-bas-canada-vertige</url>
-    <brewery_name>Brasserie du Bas-Canada</brewery_name>
-    <price>9.44</price>
-    <regular_price>12,58</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5145511505.webp</image>
-    <beer_description>Vertige is brewed with a combination of New Zealand hops (Nelson Sauvin and Motueka) and American hops (Citra). It's the union of three hops that we particularly love for their unique characters. Brasserie du Bas-Canada - Vertige</beer_description>
-    <beer_style>IPA - Triple</beer_style>
-    <beer_abv>10%</beer_abv>
-    <beer_volume>473 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Canada</brewery_country>
-    <date_canned>2025-07-30</date_canned>
-    <untappd_id>3527025</untappd_id>
-  </item>
-  <item>
     <id>3925367</id>
     <ecommerce_id>767361435</ecommerce_id>
     <title>Héliades</title>
@@ -8412,6 +8394,6 @@
     <brewery_country>Canada</brewery_country>
     <untappd_id>6197367</untappd_id>
   </item>
-  <timestamp>1785998707</timestamp>
-  <gen_date>06/08/2026 08:45:07</gen_date>
+  <timestamp>1786010408</timestamp>
+  <gen_date>06/08/2026 12:00:08</gen_date>
 </feed>
