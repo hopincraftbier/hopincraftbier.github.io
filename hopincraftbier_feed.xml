@@ -5,6 +5,26 @@
   <link>https://hopincraftbier.be/products&lt;/link&gt;</link>
   <description>Hop In Craftbier Products feed</description>
   <item>
+    <id>9000000052</id>
+    <ecommerce_id>853756288</ecommerce_id>
+    <title>Omnipollo - Pair</title>
+    <url>https://hopincraftbier.be/products/omnipollo-pair</url>
+    <brewery_name>Omnipollo</brewery_name>
+    <price>19.69</price>
+    <regular_price>20.73</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/853756288/6041522112.png</image>
+    <beer_description>The Omnipollo - Pair contains: - Dream Baby DreamIPA - Imperial / Double New England / Hazy | 8% | 440 ml - UNHOLY CHURCHIPA - Triple | 10% | 440 ml</beer_description>
+    <beer_style>IPA</beer_style>
+    <beer_abv>8 - 10%</beer_abv>
+    <beer_volume>2x440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Sweden</brewery_country>
+    <date_best_before>2027-05-27</date_best_before>
+    <beer_package_count>2</beer_package_count>
+    <beer_bundle>1</beer_bundle>
+    <bundle_skus>6768656,6733732</bundle_skus>
+  </item>
+  <item>
     <id>9000000051</id>
     <ecommerce_id>853753557</ecommerce_id>
     <title>Caleya - Triplet</title>
@@ -314,7 +334,7 @@
   <item>
     <id>6768656</id>
     <ecommerce_id>845556945</ecommerce_id>
-    <title>Dream Baby Dream</title>
+    <title>Dream Baby Dream (collab Other Half,Tall Trees Brew Lab,Lyric)</title>
     <url>https://hopincraftbier.be/products/omnipollo-dream-baby-dream</url>
     <brewery_name>Omnipollo</brewery_name>
     <price>10.36</price>
@@ -8373,6 +8393,6 @@
     <brewery_country>Canada</brewery_country>
     <untappd_id>6197367</untappd_id>
   </item>
-  <timestamp>1785995079</timestamp>
-  <gen_date>06/08/2026 07:44:39</gen_date>
+  <timestamp>1785997808</timestamp>
+  <gen_date>06/08/2026 08:30:08</gen_date>
 </feed>
