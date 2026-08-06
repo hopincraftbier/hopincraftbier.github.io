@@ -5,6 +5,25 @@
   <link>https://hopincraftbier.be/products&lt;/link&gt;</link>
   <description>Hop In Craftbier Products feed</description>
   <item>
+    <id>9000000053</id>
+    <ecommerce_id>853756356</ecommerce_id>
+    <title>Noctem Artisans Brasseurs - Pair</title>
+    <url>https://hopincraftbier.be/products/noctem-artisans-brasseurs-pair</url>
+    <brewery_name>Noctem Artisans Brasseurs</brewery_name>
+    <price>19.32</price>
+    <regular_price>20.34</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/853756356/6041584784.png</image>
+    <beer_description>The Noctem Artisans Brasseurs - Pair contains: - Noctem Artisanss - Tranquillité Rhum JamaiqueBarleywine - American | 11,9% | 355 ml - Noctem Artisanss - Tranquillité Whisky CanadienBarleywine - American | 11,9% | 355 ml</beer_description>
+    <beer_style>Barleywine</beer_style>
+    <beer_abv>11%</beer_abv>
+    <beer_volume>2x355 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Canada</brewery_country>
+    <beer_package_count>2</beer_package_count>
+    <beer_bundle>1</beer_bundle>
+    <bundle_skus>6441478,6441702</bundle_skus>
+  </item>
+  <item>
     <id>9000000052</id>
     <ecommerce_id>853756288</ecommerce_id>
     <title>Omnipollo - Pair</title>
@@ -8393,6 +8412,6 @@
     <brewery_country>Canada</brewery_country>
     <untappd_id>6197367</untappd_id>
   </item>
-  <timestamp>1785997808</timestamp>
-  <gen_date>06/08/2026 08:30:08</gen_date>
+  <timestamp>1785998707</timestamp>
+  <gen_date>06/08/2026 08:45:07</gen_date>
 </feed>
