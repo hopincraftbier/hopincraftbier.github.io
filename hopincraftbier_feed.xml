@@ -1021,25 +1021,6 @@
     <untappd_id>6743370</untappd_id>
   </item>
   <item>
-    <id>9000000036</id>
-    <ecommerce_id>837874752</ecommerce_id>
-    <title>Unseen Brewing Co. - Pair</title>
-    <url>https://hopincraftbier.be/products/unseen-brewing-co-pair</url>
-    <brewery_name>Unseen Brewing Co.</brewery_name>
-    <price>8.36</price>
-    <regular_price>8.8</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/837874752/5787636098.png</image>
-    <beer_description>The Unseen Brewing Co. - Pair contains: - Unseen - Slow FocusIPA - New England / Hazy | 7% | 330 ml - Unseen - Frozen RageIPA - Imperial / Double New England / Hazy | 8,2% | 330 ml</beer_description>
-    <beer_style>IPA</beer_style>
-    <beer_abv>7 - 8%</beer_abv>
-    <beer_volume>2x330 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Belgium</brewery_country>
-    <beer_package_count>2</beer_package_count>
-    <beer_bundle>1</beer_bundle>
-    <bundle_skus>6653660,6653661</bundle_skus>
-  </item>
-  <item>
     <id>9000000035</id>
     <ecommerce_id>837871529</ecommerce_id>
     <title>Rivington Brewing Co - Triplet</title>
@@ -1434,23 +1415,6 @@
     <brewery_country>Romania</brewery_country>
     <date_best_before>2027-03-30</date_best_before>
     <untappd_id>6727261</untappd_id>
-  </item>
-  <item>
-    <id>6653660</id>
-    <ecommerce_id>836591267</ecommerce_id>
-    <title>Slow Focus</title>
-    <url>https://hopincraftbier.be/products/unseen-slow-focus</url>
-    <brewery_name>Unseen Brewing Co.</brewery_name>
-    <price>4.33</price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/836591267/5775214066.png</image>
-    <beer_description>Take a moment to blur out the noise with Slow Focus, a velvety NEIPA featuring Nelson Sauvin and Rakau hops. Expect a lush, tranquil escape into notes of white grape and stone fruit—smooth, hazy, and as effortlessly cool as a koala on a Sunday afternoon. Unseen Brewing Co. - Slow Focus</beer_description>
-    <beer_style>IPA - New England / Hazy</beer_style>
-    <beer_abv>7%</beer_abv>
-    <beer_volume>330 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Belgium</brewery_country>
-    <date_best_before>2028-05-05</date_best_before>
-    <untappd_id>6653660</untappd_id>
   </item>
   <item>
     <id>6653661</id>
@@ -8510,6 +8474,6 @@
     <brewery_country>Canada</brewery_country>
     <untappd_id>6197367</untappd_id>
   </item>
-  <timestamp>1786110889</timestamp>
-  <gen_date>07/08/2026 15:54:49</gen_date>
+  <timestamp>1786124708</timestamp>
+  <gen_date>07/08/2026 19:45:08</gen_date>
 </feed>
