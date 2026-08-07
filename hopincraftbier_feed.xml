@@ -5,6 +5,117 @@
   <link>https://hopincraftbier.be/products&lt;/link&gt;</link>
   <description>Hop In Craftbier Products feed</description>
   <item>
+    <id>6762527</id>
+    <ecommerce_id>854141278</ecommerce_id>
+    <title>PURE Citra</title>
+    <url>https://hopincraftbier.be/products/track-pure-citra</url>
+    <brewery_name>Track Brewing Company</brewery_name>
+    <price>9.47</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/854141278/6051703517.png</image>
+    <beer_description>Our truest expression of a hop we hold dear to our hearts, tempered and coated in satin-smooth luxuriousness by a lick of lactose. Grapefruit, orange pith and passionfruit, draped in pure gold and resting on a soft bed of barley, oats and wheat. Track Brewing Company - PURE Citra</beer_description>
+    <beer_style>IPA - Imperial / Double Milkshake</beer_style>
+    <beer_abv>8.4%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>England</brewery_country>
+    <untappd_id>6762527</untappd_id>
+  </item>
+  <item>
+    <id>6734225</id>
+    <ecommerce_id>854141277</ecommerce_id>
+    <title>Luminescence</title>
+    <url>https://hopincraftbier.be/products/track-luminescence</url>
+    <brewery_name>Track Brewing Company</brewery_name>
+    <price>9.47</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/854141277/6051703133.png</image>
+    <beer_description>Wade into the welcoming, glowing waters of this Gold Top DIPA, blooming with light from Citra, NZ Cascade, Motueka and Peacharine. Let your palate be sun-kissed by papaya, mango and passionfruit, fizz with lemon-lime ice lolly shots and grapefruit punch, and be sugared by peach pie, nectarines in syrup and sweet berry compote. An underlying florality conjures memories of botanical gardens and lawn tennis courts, whilst a dollop of lactose cools everything down like a scoop of sorbet on a scorching hot summer day. Track Brewing Company - Luminescence</beer_description>
+    <beer_style>IPA - Imperial / Double Milkshake</beer_style>
+    <beer_abv>8.4%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>England</brewery_country>
+    <untappd_id>6734225</untappd_id>
+  </item>
+  <item>
+    <id>6789847</id>
+    <ecommerce_id>854141276</ecommerce_id>
+    <title>Intercept</title>
+    <url>https://hopincraftbier.be/products/track-intercept</url>
+    <brewery_name>Track Brewing Company</brewery_name>
+    <price>11.41</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/854141276/6051710777.png</image>
+    <beer_description>This hugely hoppy number sees an avalanche of Citra, Motueka and Wakatu combine for key lime pie, mango mochi, citron tart, peach rings, pineapple in syrup and watermelon sweets, with a mellow end note of sweet madagascan vanilla. Track Brewing Company - Intercept</beer_description>
+    <beer_style>IPA - Triple New England / Hazy</beer_style>
+    <beer_abv>10%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>England</brewery_country>
+    <untappd_id>6789847</untappd_id>
+  </item>
+  <item>
+    <id>6793741</id>
+    <ecommerce_id>854141017</ecommerce_id>
+    <title>Under the Thunder</title>
+    <url>https://hopincraftbier.be/products/fraugruber-under-the-thunder</url>
+    <brewery_name>FrauGruber Brewing</brewery_name>
+    <price>5.79</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/854141017/6051712273.png</image>
+    <beer_description>Hops: Citra T90, Citra Cryo, El Dorado Cryo FrauGruber Brewing - Under the Thunder</beer_description>
+    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
+    <beer_abv>7.9%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <untappd_id>6793741</untappd_id>
+  </item>
+  <item>
+    <id>6793762</id>
+    <ecommerce_id>854141016</ecommerce_id>
+    <title>Bikini Bottom</title>
+    <url>https://hopincraftbier.be/products/fraugruber-bikini-bottom</url>
+    <brewery_name>FrauGruber Brewing</brewery_name>
+    <price>6.6</price>
+    <regular_price>6.60</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/854141016/6051712837.png</image>
+    <beer_description>Hops: Mosaic Cryo, Citra Cryo FrauGruber Brewing - Bikini Bottom</beer_description>
+    <beer_style>IPA - Triple New England / Hazy</beer_style>
+    <beer_abv>10.2%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <untappd_id>6793762</untappd_id>
+  </item>
+  <item>
+    <id>6745059</id>
+    <ecommerce_id>854139523</ecommerce_id>
+    <title>The Truth Is Just A Piece of Clay</title>
+    <url>https://hopincraftbier.be/products/blackout-the-truth-is-just-a-piece-of-clay</url>
+    <brewery_name>Blackout Brewing</brewery_name>
+    <price>9.97</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/854139523/6051712724.png</image>
+    <beer_description>Single barrel release: Rhum. 527 bottles in existence. With Rooibos tea leaves from Demmers Teahouse. Blackout Brewing - The Truth Is Just A Piece of Clay</beer_description>
+    <beer_style>Barleywine - American</beer_style>
+    <beer_abv>11%</beer_abv>
+    <beer_volume>330 ml</beer_volume>
+    <beer_package>bottle</beer_package>
+    <brewery_country>Romania</brewery_country>
+    <untappd_id>6745059</untappd_id>
+  </item>
+  <item>
+    <id>6754777</id>
+    <ecommerce_id>854141015</ecommerce_id>
+    <title>Life Is the Study of Dying - Scotch BA</title>
+    <url>https://hopincraftbier.be/products/blackout-life-is-the-study-of-dying-scotch-ba</url>
+    <brewery_name>Blackout Brewing</brewery_name>
+    <price>9.97</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/854141015/6051722839.png</image>
+    <beer_description>Barrels: 2 x 1st fill bourbon Scotch Whisky Extra: natural blood orange extract 752 bottles in existence Blackout Brewing - Life Is the Study of Dying - Scotch BA</beer_description>
+    <beer_style>Stout - Imperial / Double</beer_style>
+    <beer_abv>11%</beer_abv>
+    <beer_volume>330 ml</beer_volume>
+    <beer_package>bottle</beer_package>
+    <brewery_country>Romania</brewery_country>
+    <untappd_id>6754777</untappd_id>
+  </item>
+  <item>
     <id>9000000053</id>
     <ecommerce_id>853756356</ecommerce_id>
     <title>Noctem Artisans Brasseurs - Pair</title>
@@ -8399,6 +8510,6 @@
     <brewery_country>Canada</brewery_country>
     <untappd_id>6197367</untappd_id>
   </item>
-  <timestamp>1786096808</timestamp>
-  <gen_date>07/08/2026 12:00:08</gen_date>
+  <timestamp>1786110889</timestamp>
+  <gen_date>07/08/2026 15:54:49</gen_date>
 </feed>
