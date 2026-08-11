@@ -3690,24 +3690,6 @@
     <untappd_id>6603173</untappd_id>
   </item>
   <item>
-    <id>6639662</id>
-    <ecommerce_id>825654270</ecommerce_id>
-    <title>Hazelnut X Chocolate X Vanilla Imperial Stout</title>
-    <url>https://hopincraftbier.be/products/arpus-hazelnut-x-chocolate-x-vanilla-imperial-stout</url>
-    <brewery_name>Ārpus Brewing Co.</brewery_name>
-    <price>7.5</price>
-    <regular_price>7.50</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/825654270/5675300159.png</image>
-    <beer_description>A deep, full-bodied Imperial Stout layered with roasted malt character and smooth sweetness. Rich chocolate leads the way, followed by toasted hazelnut and soft vanilla, creating a creamy, dessert-like experience with a long, satisfying finish. Indulgent, smooth, and made for slow enjoyment. Arpus - Hazelnut X Chocolate X Vanilla Imperial Stout</beer_description>
-    <beer_style>Stout - Imperial / Double Pastry</beer_style>
-    <beer_abv>13%</beer_abv>
-    <beer_volume>440 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Latvia</brewery_country>
-    <date_best_before>2027-03-31</date_best_before>
-    <untappd_id>6639662</untappd_id>
-  </item>
-  <item>
     <id>6639661</id>
     <ecommerce_id>825605984</ecommerce_id>
     <title>Apple X Banana X Mango X Vanilla Smoothie Sour Ale</title>
@@ -5691,23 +5673,6 @@
     <untappd_id>6355044</untappd_id>
   </item>
   <item>
-    <id>6315867</id>
-    <ecommerce_id>810442764</ecommerce_id>
-    <title>Monolith | Batch #4</title>
-    <url>https://hopincraftbier.be/products/bissell-brothers-monolith-batch-4</url>
-    <brewery_name>Bissell Brothers Brewing Company</brewery_name>
-    <price>27.28</price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/810442764/5532717876.png</image>
-    <beer_description>Born from the Sigil series, Monolith is a recurring barleywine from our barrel Magister, JC Klecko. Batch one was aged exclusively in a mix of bourbon barrels for an average of 15 months. BOW to the MONOLITH Bissell Brothers - Monolith</beer_description>
-    <beer_style>Barleywine - American</beer_style>
-    <beer_abv>13.2%</beer_abv>
-    <beer_volume>500 ml</beer_volume>
-    <beer_package>bottle</beer_package>
-    <brewery_country>United States</brewery_country>
-    <date_canned>01/2025</date_canned>
-    <untappd_id>6315867</untappd_id>
-  </item>
-  <item>
     <id>5513278</id>
     <ecommerce_id>810376220</ecommerce_id>
     <title>Serum: Blueberry / Pomegranate</title>
@@ -5939,7 +5904,8 @@
     <title>8th Birthday - India Pale Ale (collab Beak)</title>
     <url>https://hopincraftbier.be/products/pollys-8th-birthday-india-pale-ale</url>
     <brewery_name>Polly's Brew Co.</brewery_name>
-    <price>6.75</price>
+    <price>5.74</price>
+    <regular_price>6,75</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5505408896.png</image>
     <beer_description>POLLY'S 8th BIRTHDAY We’ve been huge fans of the wonderful Beak pretty much since they first landed on our radars - operating a similar philosophy to ourselves in largely focusing on and perfecting their pale and hoppy output, we’ve been very lucky to share festival spaces with our friends from Lewes over the last twelve months, fostering a working friendship based on mutual approaches to where modern beer is placed in 2026. Coming together to collaborate for our eighth birthday meant there could only be one style we could brew - an IPA at that magical ABV in which the sweet spot lies for both breweries. Wanting to make a conscious effort to embrace the progression of our industry with the recipe on this beer, we’ve brought no less than five hop varieties to the party; showcasing current and progressive technologies in the brewing process. With a dry hop charge of 20g/l, pushing toward DIPA levels of intensity, we’ve utilised Idaho 7 and Nelson Sauvin in their classic T90 pellet form, along with their CGX versions - the latest technology from Crosby Hops using cryogenic processes to concentrate the flavour and intensity brought to the table. With a final flourish of New Zealand Hop’s latest experimental variety NZ-106 and a whisper of Abstrax Hops Skyfarm Pineapple, the result is a pillowy soft IPA, singing with guava, mango, and passionfruit, with bright pine and citrus notes underneath. Taking the artwork on this one is local enigma Jim Jones, who leaned into the German heritage of the bauhaus Polly's - 8th Birthday - India Pale Ale</beer_description>
     <beer_style>IPA - English</beer_style>
@@ -7924,7 +7890,7 @@
     <title>High-Low</title>
     <url>https://hopincraftbier.be/products/finback-high-low</url>
     <brewery_name>Finback Brewery</brewery_name>
-    <price>7.91</price>
+    <price>5.28</price>
     <regular_price>10,55</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5145458707.webp</image>
     <beer_description>double dry hopped with Mosaic, Amarillo, Citra, Belma, Blanc, El Dorado, Waimea, Idaho 7 and Nelson Finback - High-Low</beer_description>
@@ -8298,23 +8264,6 @@
     <untappd_id>1298579</untappd_id>
   </item>
   <item>
-    <id>6189005</id>
-    <ecommerce_id>752744063</ecommerce_id>
-    <title>Vilify</title>
-    <url>https://hopincraftbier.be/products/blackout-vilify</url>
-    <brewery_name>Blackout Brewing</brewery_name>
-    <price>10.17</price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4933437300.png</image>
-    <beer_description>6th anniversary Sazerac Rye BA imperial stout - 12 months. Brewed and cared for at Bere a la Cluj. Blackout - Vilify</beer_description>
-    <beer_style>Stout - Imperial / Double</beer_style>
-    <beer_abv>12%</beer_abv>
-    <beer_volume>330 ml</beer_volume>
-    <beer_package>bottle</beer_package>
-    <brewery_country>Romania</brewery_country>
-    <date_best_before>2027-04-06</date_best_before>
-    <untappd_id>6189005</untappd_id>
-  </item>
-  <item>
     <id>6263801</id>
     <ecommerce_id>752451307</ecommerce_id>
     <title>Memnu - Barton 1792 BA</title>
@@ -8587,6 +8536,6 @@
     <brewery_country>Canada</brewery_country>
     <untappd_id>6197367</untappd_id>
   </item>
-  <timestamp>1786440114</timestamp>
-  <gen_date>11/08/2026 11:21:54</gen_date>
+  <timestamp>1786440548</timestamp>
+  <gen_date>11/08/2026 11:29:08</gen_date>
 </feed>
