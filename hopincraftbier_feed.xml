@@ -441,6 +441,8 @@
     <beer_volume>440 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>Germany</brewery_country>
+    <date_best_before>2027-07-10</date_best_before>
+    <date_canned>2026-07-10</date_canned>
     <untappd_id>6791061</untappd_id>
   </item>
   <item>
@@ -493,6 +495,8 @@
     <beer_volume>440 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>Germany</brewery_country>
+    <date_best_before>2027-06-26</date_best_before>
+    <date_canned>2026-06-26</date_canned>
     <untappd_id>6774670</untappd_id>
   </item>
   <item>
@@ -509,6 +513,8 @@
     <beer_volume>440 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>Germany</brewery_country>
+    <date_best_before>2027-05-19</date_best_before>
+    <date_canned>2026-05-19</date_canned>
     <untappd_id>6717711</untappd_id>
   </item>
   <item>
@@ -543,6 +549,8 @@
     <beer_volume>440 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>Germany</brewery_country>
+    <date_best_before>2027-06-09</date_best_before>
+    <date_canned>2026-06-09</date_canned>
     <untappd_id>6752627</untappd_id>
   </item>
   <item>
@@ -8607,6 +8615,6 @@
     <brewery_country>Canada</brewery_country>
     <untappd_id>6197367</untappd_id>
   </item>
-  <timestamp>1786468507</timestamp>
-  <gen_date>11/08/2026 19:15:07</gen_date>
+  <timestamp>1786469406</timestamp>
+  <gen_date>11/08/2026 19:30:06</gen_date>
 </feed>
