@@ -71,6 +71,7 @@
     <beer_abv>7.9%</beer_abv>
     <beer_volume>440 ml</beer_volume>
     <beer_package>can</beer_package>
+    <brewery_country>Germany</brewery_country>
     <untappd_id>6793741</untappd_id>
   </item>
   <item>
@@ -87,6 +88,7 @@
     <beer_abv>10.2%</beer_abv>
     <beer_volume>440 ml</beer_volume>
     <beer_package>can</beer_package>
+    <brewery_country>Germany</brewery_country>
     <untappd_id>6793762</untappd_id>
   </item>
   <item>
@@ -8615,6 +8617,6 @@
     <brewery_country>Canada</brewery_country>
     <untappd_id>6197367</untappd_id>
   </item>
-  <timestamp>1786469406</timestamp>
-  <gen_date>11/08/2026 19:30:06</gen_date>
+  <timestamp>1786473006</timestamp>
+  <gen_date>11/08/2026 20:30:06</gen_date>
 </feed>
