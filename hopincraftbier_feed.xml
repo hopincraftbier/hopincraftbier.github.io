@@ -1095,8 +1095,8 @@
   <item>
     <id>6740758</id>
     <ecommerce_id>839043418</ecommerce_id>
-    <title>Mainline (collab Track)</title>
-    <url>https://hopincraftbier.be/products/oso-brew-co-mainline</url>
+    <title>Oso - Mainline (collab Track)</title>
+    <url>https://hopincraftbier.be/products/oso-mainline</url>
     <brewery_name>Oso Brew Co</brewery_name>
     <price>6.05</price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/839043418/5798402195.png</image>
@@ -1112,8 +1112,8 @@
   <item>
     <id>6745201</id>
     <ecommerce_id>839048168</ecommerce_id>
-    <title>Aura (collab Verdant,Prizm)</title>
-    <url>https://hopincraftbier.be/products/oso-brew-co-aura</url>
+    <title>Oso - Aura (collab Verdant,Prizm)</title>
+    <url>https://hopincraftbier.be/products/oso-aura</url>
     <brewery_name>Oso Brew Co</brewery_name>
     <price>6.67</price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/839048168/5798402201.png</image>
@@ -1129,8 +1129,8 @@
   <item>
     <id>6745199</id>
     <ecommerce_id>839039914</ecommerce_id>
-    <title>Dominion (collab Messorem)</title>
-    <url>https://hopincraftbier.be/products/oso-brew-co-dominion</url>
+    <title>Oso - Dominion (collab Messorem)</title>
+    <url>https://hopincraftbier.be/products/oso-dominion</url>
     <brewery_name>Oso Brew Co</brewery_name>
     <price>7.35</price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/839039914/5798439504.png</image>
@@ -8579,6 +8579,6 @@
     <brewery_country>Canada</brewery_country>
     <untappd_id>6197367</untappd_id>
   </item>
-  <timestamp>1786480207</timestamp>
-  <gen_date>11/08/2026 22:30:07</gen_date>
+  <timestamp>1786552207</timestamp>
+  <gen_date>12/08/2026 18:30:07</gen_date>
 </feed>
