@@ -6960,24 +6960,6 @@
     <untappd_id>6384423</untappd_id>
   </item>
   <item>
-    <id>6211524</id>
-    <ecommerce_id>792863593</ecommerce_id>
-    <title>You For Coffee</title>
-    <url>https://hopincraftbier.be/products/neon-raptor-you-for-coffee</url>
-    <brewery_name>Neon Raptor Brewing Co.</brewery_name>
-    <price>4.43</price>
-    <regular_price>5,91</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5324118772.png</image>
-    <beer_description>On our worldwide beer travels we can almost guarantee seeing our Polish friends Stu Mostow, so this imperial breakfast stout collaboration is long overdue. Rich coffee and sinful chocolate combined will inspire you to go for coffee yourself! Water, Barley (Gluten), Oats, Lactose (Milk), Liquid Cacao, Coffee, Hops, Yeast Neon Raptor - You For Coffee</beer_description>
-    <beer_style>Stout - Imperial / Double Coffee</beer_style>
-    <beer_abv>11%</beer_abv>
-    <beer_volume>330 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>England</brewery_country>
-    <date_best_before>2026-09-24</date_best_before>
-    <untappd_id>6211524</untappd_id>
-  </item>
-  <item>
     <id>6413314</id>
     <ecommerce_id>792864069</ecommerce_id>
     <title>Confection By Rackhouse</title>
@@ -7304,24 +7286,6 @@
     <beer_package>can</beer_package>
     <brewery_country>United States</brewery_country>
     <untappd_id>6320572</untappd_id>
-  </item>
-  <item>
-    <id>6408280</id>
-    <ecommerce_id>784590115</ecommerce_id>
-    <title>Dolcita - Meet Our Friends from USA - Yakima Chief Hops (collab Yakima Chierf Hops)</title>
-    <url>https://hopincraftbier.be/products/nepo-dolcita-meet-our-friends-from-usa-yakima-chief-hops</url>
-    <brewery_name>Nepo Brewing</brewery_name>
-    <price>5.22</price>
-    <regular_price>6,14</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5242198220.webp</image>
-    <beer_description>Beer brewed in collaboration with their friends from the US, Yakima Chief Hops. A unique single hop created to commemorate the renaming of HBC 1019, debuting as Dolcita. This beer is an explosion of aromas of spicy fruit, tropical, and citrus notes, enriched with a delicate, sweet aromatic layer. Juicy, smooth, and full-bodied. A perfect example of how a single hop can shape the entire character of a beer. Nepo - Dolcita - Meet Our Friends from USA - Yakima Chief Hops</beer_description>
-    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
-    <beer_abv>7.1%</beer_abv>
-    <beer_volume>500 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Poland</brewery_country>
-    <date_best_before>2026-09-01</date_best_before>
-    <untappd_id>6408280</untappd_id>
   </item>
   <item>
     <id>6415833</id>
@@ -7822,24 +7786,6 @@
     <brewery_country>United States</brewery_country>
     <date_canned>2025-08-22</date_canned>
     <untappd_id>4166507</untappd_id>
-  </item>
-  <item>
-    <id>6339811</id>
-    <ecommerce_id>770507753</ecommerce_id>
-    <title>Georgia Gold</title>
-    <url>https://hopincraftbier.be/products/garage-georgia-gold</url>
-    <brewery_name>Garage Beer Co.</brewery_name>
-    <price>3.7</price>
-    <regular_price>7,39</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/770507753/5073876592.webp</image>
-    <beer_description>NO PEACH OR PASSIONFRUIT ADDED! Inspired by the peach and nectarine groves blossoming around Penedès, where the fruit swells day by day. Imagine biting into the juiciest peach ever — dripping down your arms and ruining your t-shirt, but you don’t care. Fermented with White Labs’ London Fog yeast, this brew naturally develops bright passionfruit notes, blending into the ultimate fruit salad with a raspberry drizzle on top. Garage - Georgia Gold</beer_description>
-    <beer_style>IPA - American</beer_style>
-    <beer_abv>6.5%</beer_abv>
-    <beer_volume>440 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Spain</brewery_country>
-    <date_canned>2025-07-02</date_canned>
-    <untappd_id>6339811</untappd_id>
   </item>
   <item>
     <id>6340747</id>
@@ -8579,6 +8525,6 @@
     <brewery_country>Canada</brewery_country>
     <untappd_id>6197367</untappd_id>
   </item>
-  <timestamp>1786552207</timestamp>
-  <gen_date>12/08/2026 18:30:07</gen_date>
+  <timestamp>1786561208</timestamp>
+  <gen_date>12/08/2026 21:00:08</gen_date>
 </feed>
