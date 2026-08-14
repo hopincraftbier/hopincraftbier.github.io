@@ -7856,24 +7856,6 @@
     <untappd_id>3925367</untappd_id>
   </item>
   <item>
-    <id>6316537</id>
-    <ecommerce_id>767352721</ecommerce_id>
-    <title>Chasing Trees: Strain 24</title>
-    <url>https://hopincraftbier.be/products/dankhouse-chasing-trees-strain-24</url>
-    <brewery_name>DankHouse Brewing Company</brewery_name>
-    <price>7.76</price>
-    <regular_price>10,34</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5145623756.webp</image>
-    <beer_description>Dry hopped with Vera, Anchovy, and Citra. DankHouse - Chasing Trees: Strain 24</beer_description>
-    <beer_style>IPA - New England / Hazy</beer_style>
-    <beer_abv>7%</beer_abv>
-    <beer_volume>473 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>United States</brewery_country>
-    <date_canned>2025-07-13</date_canned>
-    <untappd_id>6316537</untappd_id>
-  </item>
-  <item>
     <id>4092023</id>
     <ecommerce_id>767352720</ecommerce_id>
     <title>High-Low</title>
@@ -7908,24 +7890,6 @@
     <brewery_country>United States</brewery_country>
     <date_canned>2025-07-31</date_canned>
     <untappd_id>6316546</untappd_id>
-  </item>
-  <item>
-    <id>6325245</id>
-    <ecommerce_id>767352719</ecommerce_id>
-    <title>Aspect of Leo</title>
-    <url>https://hopincraftbier.be/products/hop-butcher-for-the-world-aspect-of-leo</url>
-    <brewery_name>Hop Butcher For The World</brewery_name>
-    <price>7.76</price>
-    <regular_price>10,34</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5145475969.webp</image>
-    <beer_description>Citra-Hopped India Pale Ale Brewed With Blood Orange Hop Butcher For The World - Aspect of Leo</beer_description>
-    <beer_style>IPA - New England / Hazy</beer_style>
-    <beer_abv>6.5%</beer_abv>
-    <beer_volume>473 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>United States</brewery_country>
-    <date_canned>2025-07-14</date_canned>
-    <untappd_id>6325245</untappd_id>
   </item>
   <item>
     <id>6331773</id>
@@ -8046,40 +8010,6 @@
     <beer_package>bottle</beer_package>
     <brewery_country>Canada</brewery_country>
     <untappd_id>6299087</untappd_id>
-  </item>
-  <item>
-    <id>6248577</id>
-    <ecommerce_id>765275159</ecommerce_id>
-    <title>Big Pharma</title>
-    <url>https://hopincraftbier.be/products/district-96-big-pharma</url>
-    <brewery_name>District 96 Beer Factory</brewery_name>
-    <price>8.67</price>
-    <regular_price>11,56</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5032086311.webp</image>
-    <beer_description>Hawaiian tropical vibes District 96 - Big Pharma</beer_description>
-    <beer_style>IPA - Triple New England / Hazy</beer_style>
-    <beer_abv>11%</beer_abv>
-    <beer_volume>473 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>United States</brewery_country>
-    <untappd_id>6248577</untappd_id>
-  </item>
-  <item>
-    <id>2906239</id>
-    <ecommerce_id>765275158</ecommerce_id>
-    <title>Trade War</title>
-    <url>https://hopincraftbier.be/products/district-96-trade-war</url>
-    <brewery_name>District 96 Beer Factory</brewery_name>
-    <price>7.4</price>
-    <regular_price>9,87</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5032065449.webp</image>
-    <beer_description>Hopped with Enigma and Vic secret. Orange, berry, and tropical fruits. District 96 - Trade War</beer_description>
-    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
-    <beer_abv>8.5%</beer_abv>
-    <beer_volume>473 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>United States</brewery_country>
-    <untappd_id>2906239</untappd_id>
   </item>
   <item>
     <id>6164819</id>
@@ -8525,6 +8455,6 @@
     <brewery_country>Canada</brewery_country>
     <untappd_id>6197367</untappd_id>
   </item>
-  <timestamp>1786561208</timestamp>
-  <gen_date>12/08/2026 21:00:08</gen_date>
+  <timestamp>1786694541</timestamp>
+  <gen_date>14/08/2026 10:02:21</gen_date>
 </feed>
