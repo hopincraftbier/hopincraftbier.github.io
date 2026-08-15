@@ -1,4 +1,4 @@
-const version = 'v7.42';
+const version = 'v7.43';
 let currentLanguage;
 
 const txtNl1 = '<div class="dtooltip"><p class="hover question">Kortingscoupon</p><p class="dtooltiptext">Afhankelijk van de gekozen betaling en levering, kunt u een kortingscoupon krijgen die te gebruiken is bij een volgende bestelling. Voor dit bier ziet u de bedragen in deze tabel</p></div><table class="discount-table"><thead><tr class="first_header"><th></th><th colspan="2">Manier van levering</th></tr><tr><th>Manier van betaling</th><th>Afhaling</th><th>Levering</th></tr></thead><tbody><tr><td class="header">Betalen bij afhaling</td><td>€ ';
@@ -310,13 +310,16 @@ function processAttributes(status) {
         }
         if ((status === 'verwacht' || preOrderTxt !== "") && buttonTxtEl.textContent !== btnTxt) {
             buttonTxtEl.innerHTML = btnTxt;
-            const buttonEl = document.querySelector('div.form-control--primary button.form-control__button:not(:has(.dtooltip))');
-            if (buttonEl) {
-                buttonEl.classList.add('dtooltip');
-                if ('EN' === lng) {
-                    buttonEl.insertAdjacentHTML('beforeend', '<p class="dtooltiptext">5% korting op reservaties.</p>');
-                } else {
-                    buttonEl.insertAdjacentHTML('beforeend', '<p class="dtooltiptext">5% discount on reservations.</p>');
+            let buttonEl = document.querySelector('div.form-control--primary button.form-control__button.dtooltip');
+            if (!buttonEl) {
+                buttonEl = document.querySelector('div.form-control--primary button.form-control__button:not(.dtooltip)');
+                if (buttonEl) {
+                    buttonEl.classList.add('dtooltip');
+                    if ('EN' === lng) {
+                        buttonEl.insertAdjacentHTML('beforeend', '<p class="dtooltiptext">5% korting op reservaties.</p>');
+                    } else {
+                        buttonEl.insertAdjacentHTML('beforeend', '<p class="dtooltiptext">5% discount on reservations.</p>');
+                    }
                 }
             }
         }
@@ -456,6 +459,24 @@ function soonLabel() {
 function processExpectedLabels() {
     if (document.querySelector('.ecwid-productBrowser')) {
         log('processExpectedLabels');
+        let verwachtTxt = '';
+        document.querySelectorAll('div.product-details__product-attributes div.details-product-attribute span.details-product-attribute__title').forEach(
+            function (item) {
+                if (item.textContent.trim() === 'Verwacht:' || item.textContent.trim() === 'Expected:') {
+                    verwachtTxt = item.textContent.trim() + ' ' + item.parentElement.childNodes[1]?.textContent?.trim();
+                    if (item.textContent.trim() === 'Verwacht:') {
+                        verwachtTxt = verwachtTxt + "<p class='reserve'><a href='https://hopincraftbier.be/procedures/#tile-image-text-KoG9dn' target='_blank'>Meer info over reservaties.</a></p>";
+                    } else {
+                        verwachtTxt = verwachtTxt + "<p class='reserve'><a href='https://hopincraftbier.be/en/procedures/#tile-image-text-KoG9dn' target='_blank'>More info on reservations.</a></p>";
+                    }
+                    let titleEl = document.querySelector('div.product-details-module__title');
+                    let newElement = document.createElement('dum');
+                    newElement.innerHTML = verwachtTxt;
+                    if (titleEl && titleEl.textContent !== newElement.textContent) {
+                        titleEl.innerHTML = verwachtTxt;
+                    }
+                }
+            });
         document.querySelectorAll('div.grid-product__wrap-inner').forEach(function (p) {
             const lint = p.querySelector('div.label__text')?.textContent;
             if (lint === 'Sold out' || lint === 'Uitverkocht' || lint === 'Out of stock') return;
