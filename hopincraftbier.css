@@ -1,4 +1,4 @@
-/* HopInCraftbier custom css v4.49 */
+/* HopInCraftbier custom css v4.50 */
 /** start homepage **/
 body {
     margin: auto;
@@ -424,7 +424,7 @@ div.ins-tile__product-image div.ins-tile__product-label {
     display: flex;
     align-items: center;
     justify-content: center;
-    top: 0;
+    top: 0 !important;
     right: 0;
     bottom: 0;
     left: 0;
