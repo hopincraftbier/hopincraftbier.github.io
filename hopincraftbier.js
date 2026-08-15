@@ -1,4 +1,4 @@
-const version = 'v7.32';
+const version = 'v7.33';
 let currentLanguage;
 
 const txtNl1 = '<div class="dtooltip"><p class="hover question">Kortingscoupon</p><p class="dtooltiptext">Afhankelijk van de gekozen betaling en levering, kunt u een kortingscoupon krijgen die te gebruiken is bij een volgende bestelling. Voor dit bier ziet u de bedragen in deze tabel</p></div><table class="discount-table"><thead><tr class="first_header"><th></th><th colspan="2">Manier van levering</th></tr><tr><th>Manier van betaling</th><th>Afhaling</th><th>Levering</th></tr></thead><tbody><tr><td class="header">Betalen bij afhaling</td><td>€ ';
@@ -309,7 +309,7 @@ function processAttributes(status) {
             btnTxt = ('EN' === lng ? 'Reserve' : 'Reserveer');
             const buttonEl = document.querySelector('div.form-control--primary button.form-control__button');
             if (buttonEl) {
-                buttonEl.classList.add('dtooltip')
+                buttonEl.classList.add('dtooltip');
                 if ('EN' === lng) {
                     buttonEl.insertAdjacentHTML('beforeend', '<p class="dtooltiptext">5% korting op reservaties.</p>');
                 } else {
@@ -699,7 +699,7 @@ function renameBuyButtonToPreorder() {
                 let btnClass = 'reserve';
             }
             if (buttonTextEl.textContent !== btnTxt) {
-                buttonTextEl.parentElement.addClass(btnClass);
+                buttonTextEl.parentElement.classList.add(btnClass);
                 let labelEl = p.querySelector('.grid-product__label');
                 if (labelEl &&
                     labelEl.className.indexOf('grid-product__label--') >= 0 &&
