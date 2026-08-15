@@ -1,4 +1,4 @@
-const version = 'v7.31';
+const version = 'v7.32';
 let currentLanguage;
 
 const txtNl1 = '<div class="dtooltip"><p class="hover question">Kortingscoupon</p><p class="dtooltiptext">Afhankelijk van de gekozen betaling en levering, kunt u een kortingscoupon krijgen die te gebruiken is bij een volgende bestelling. Voor dit bier ziet u de bedragen in deze tabel</p></div><table class="discount-table"><thead><tr class="first_header"><th></th><th colspan="2">Manier van levering</th></tr><tr><th>Manier van betaling</th><th>Afhaling</th><th>Levering</th></tr></thead><tbody><tr><td class="header">Betalen bij afhaling</td><td>€ ';
@@ -305,7 +305,17 @@ function processAttributes(status) {
     let btnTxt = 'Pre-Order';
     if (buttonTxtEl) {
         if (status === 'verwacht') {
-            btnTxt = ('EN' === getCustomerLng() ? 'Reserve' : 'Reserveer');
+            const lng = getCustomerLng();
+            btnTxt = ('EN' === lng ? 'Reserve' : 'Reserveer');
+            const buttonEl = document.querySelector('div.form-control--primary button.form-control__button');
+            if (buttonEl) {
+                buttonEl.classList.add('dtooltip')
+                if ('EN' === lng) {
+                    buttonEl.insertAdjacentHTML('beforeend', '<p class="dtooltiptext">5% korting op reservaties.</p>');
+                } else {
+                    buttonEl.insertAdjacentHTML('beforeend', '<p class="dtooltiptext">5% discount on reservations.</p>');
+                }
+            }
         }
         if ((status === 'verwacht' || preOrderTxt !== "") && buttonTxtEl.textContent !== btnTxt) {
             buttonTxtEl.innerHTML = btnTxt;
@@ -446,6 +456,24 @@ function soonLabel() {
 function processExpectedLabels() {
     if (document.querySelector('.ecwid-productBrowser')) {
         log('processExpectedLabels');
+        let verwachtTxt = '';
+        document.querySelectorAll('div.product-details__product-attributes div.details-product-attribute span.details-product-attribute__title').forEach(
+            function (item) {
+                if (item.textContent.trim() === 'Verwacht:' || item.textContent.trim() === 'Expected:') {
+                    verwachtTxt = item.textContent.trim() + ' ' + item.parentElement.childNodes[1]?.textContent?.trim();
+                    if (item.textContent.trim() === 'Verwacht:') {
+                        verwachtTxt = verwachtTxt + "<p class='reserve'><a href='https://hopincraftbier.be/procedures/#tile-image-text-KoG9dn' target='_blank'>Meer info over reservaties.</a></p>";
+                    } else {
+                        verwachtTxt = verwachtTxt + "<p class='reserve'><a href='https://hopincraftbier.be/en/procedures/#tile-image-text-KoG9dn' target='_blank'>More info on reservations.</a></p>";
+                    }
+                    let titleEl = document.querySelector('div.product-details-module__title');
+                    let newElement = document.createElement('dum');
+                    newElement.innerHTML = verwachtTxt;
+                    if (titleEl && titleEl.textContent !== newElement.textContent) {
+                        titleEl.innerHTML = verwachtTxt;
+                    }
+                }
+            });
         document.querySelectorAll('div.grid-product__wrap-inner').forEach(function (p) {
             const lint = p.querySelector('div.label__text')?.textContent;
             if (lint === 'Sold out' || lint === 'Uitverkocht' || lint === 'Out of stock') return;
@@ -659,6 +687,7 @@ function renameBuyButtonToPreorder() {
         let buttonTextEl = p.querySelector('.grid__products .grid-product .form-control__button-text');
         if (buttonTextEl) {
             let btnTxt = 'Pre-order';
+            let btnClass = 'preorder';
             let priceEl = p.querySelector('.grid-product__price-value.ec-price-item');
             if (priceEl && (priceEl.textContent === '€ 0,00' || priceEl.textContent.startsWith('Max '))) {
                 log(priceEl.textContent);
@@ -667,8 +696,10 @@ function renameBuyButtonToPreorder() {
                 } else {
                     btnTxt = 'Reserveer'
                 }
+                let btnClass = 'reserve';
             }
             if (buttonTextEl.textContent !== btnTxt) {
+                buttonTextEl.parentElement.addClass(btnClass);
                 let labelEl = p.querySelector('.grid-product__label');
                 if (labelEl &&
                     labelEl.className.indexOf('grid-product__label--') >= 0 &&
