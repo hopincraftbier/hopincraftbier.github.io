@@ -1161,6 +1161,70 @@
     <untappd_id>6743370</untappd_id>
   </item>
   <item>
+    <id>6756729</id>
+    <ecommerce_id>838634156</ecommerce_id>
+    <title>Destructio 0011</title>
+    <url>https://hopincraftbier.be/products/messorem-destructio-0011</url>
+    <brewery_name>Messorem</brewery_name>
+    <price>11.34</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/838634156/5794974170.png</image>
+    <beer_description>Double IPA - Riwaka, Galaxy, Motueka, Motueka Hop Kief Messorem - Destructio 0011</beer_description>
+    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
+    <beer_abv>8.5%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Canada</brewery_country>
+    <untappd_id>6756729</untappd_id>
+  </item>
+  <item>
+    <id>6756725</id>
+    <ecommerce_id>838640682</ecommerce_id>
+    <title>Destructio 0010</title>
+    <url>https://hopincraftbier.be/products/messorem-destructio-0010</url>
+    <brewery_name>Messorem</brewery_name>
+    <price>11.34</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/838640682/5794974158.png</image>
+    <beer_description>Double IPA - Motueka, Peacharine, Citra, Citra Hyperboost Messorem - Destructio 0010</beer_description>
+    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
+    <beer_abv>8.5%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Canada</brewery_country>
+    <untappd_id>6756725</untappd_id>
+  </item>
+  <item>
+    <id>6729386</id>
+    <ecommerce_id>838634155</ecommerce_id>
+    <title>Temporalis 0061</title>
+    <url>https://hopincraftbier.be/products/messorem-temporalis-0061</url>
+    <brewery_name>Messorem</brewery_name>
+    <price>12.01</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/838634155/5794980794.png</image>
+    <beer_description>IPA Triple New England with Citra, Citra Dynaboost, Nectaron &amp; Strata Hyperboost hops Messorem - Temporalis #0061 Messorem - Temporalis #0061</beer_description>
+    <beer_style>IPA - Triple</beer_style>
+    <beer_abv>10.0%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Canada</brewery_country>
+    <untappd_id>6729386</untappd_id>
+  </item>
+  <item>
+    <id>6729385</id>
+    <ecommerce_id>838640681</ecommerce_id>
+    <title>Temporalis 0060</title>
+    <url>https://hopincraftbier.be/products/messorem-temporalis-0060</url>
+    <brewery_name>Messorem</brewery_name>
+    <price>12.01</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/838640681/5794974182.png</image>
+    <beer_description>IPA Triple New England with Nelson Sauvin, Motueka, Mosaic, Citra &amp; Citra Dynaboost hops Messorem - Temporalis #0060 Messorem - Temporalis #0060</beer_description>
+    <beer_style>IPA - Triple</beer_style>
+    <beer_abv>10.0%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Canada</brewery_country>
+    <untappd_id>6729385</untappd_id>
+  </item>
+  <item>
     <id>9000000035</id>
     <ecommerce_id>837871529</ecommerce_id>
     <title>Rivington Brewing Co - Triplet</title>
@@ -8491,6 +8555,6 @@
     <brewery_country>Canada</brewery_country>
     <untappd_id>6197367</untappd_id>
   </item>
-  <timestamp>1786703410</timestamp>
-  <gen_date>14/08/2026 12:30:10</gen_date>
+  <timestamp>1786780216</timestamp>
+  <gen_date>15/08/2026 09:50:16</gen_date>
 </feed>
