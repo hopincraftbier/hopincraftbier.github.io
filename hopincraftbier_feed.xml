@@ -1295,7 +1295,7 @@
     <brewery_name>Le Ketch</brewery_name>
     <price>10.67</price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/838634174/5878324765.png</image>
-    <beer_description>This is a first for Captain Alex, who finally docks at the port of Sainte-Flavie! On board: an ultra-fresh cargo of Citra, Simcoe and Motueka, delivered just in time to enrich this delightful collaboration. Le Ketch - Capitaine Alex - Le Ketch X Wills</beer_description>
+    <beer_description>This is a first for Captain Alex, who finally docks at the port of Sainte-Flavie! On board: an ultra-fresh cargo of Citra, Simcoe and Motueka, delivered just in time to enrich this delightful collaboration. Le Ketch - Capitaine Alex - Le Ketch</beer_description>
     <beer_style>IPA - Imperial / New England / Hazy</beer_style>
     <beer_abv>6.5%</beer_abv>
     <beer_volume>473 ml</beer_volume>
@@ -8763,6 +8763,6 @@
     <brewery_country>Canada</brewery_country>
     <untappd_id>6197367</untappd_id>
   </item>
-  <timestamp>1786806073</timestamp>
-  <gen_date>15/08/2026 17:01:13</gen_date>
+  <timestamp>1786807806</timestamp>
+  <gen_date>15/08/2026 17:30:06</gen_date>
 </feed>
