@@ -1,4 +1,4 @@
-/* HopInCraftbier custom css v4.47 */
+/* HopInCraftbier custom css v4.48 */
 /** start homepage **/
 body {
     margin: auto;
@@ -16,6 +16,9 @@ a.ins-control--outline div.ins-control__button {
     background-color: #f7f5c666;
     padding: 0 0 20px 0;
     div.section__animation {
+        .relative {
+            border-radius: 8px;
+        }
         margin: 40px 7% 10px 7%;
         min-width: 86%;
         max-width: 86%;
@@ -24,7 +27,6 @@ a.ins-control--outline div.ins-control__button {
         box-shadow: 0 0 1rem rgba(0, 0, 0, 0.5);
         border: 1px solid white;
         div.ins-tile__body {
-            border-radius: 8px;
             min-height: 0;
             max-height: 400px;
         }
