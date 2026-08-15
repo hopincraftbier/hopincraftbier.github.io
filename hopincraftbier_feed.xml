@@ -341,6 +341,22 @@
     <untappd_id>6727078</untappd_id>
   </item>
   <item>
+    <id>6807472</id>
+    <ecommerce_id>847045028</ecommerce_id>
+    <title>Levain (Blend #6)</title>
+    <url>https://hopincraftbier.be/products/is-was-brewing-levain-blend-6</url>
+    <brewery_name>is/was brewing</brewery_name>
+    <price>23.47</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/847045028/5878335215.png</image>
+    <beer_description>Farmhouse Ale made from a blend of mixed fermentations, with citrus, rustic notes and a lively acidity. is/was brewing - Levain (Blend #6)</beer_description>
+    <beer_style>Farmhouse Ale - Other</beer_style>
+    <beer_abv>6.5%</beer_abv>
+    <beer_volume>500 ml</beer_volume>
+    <beer_package>bottle</beer_package>
+    <brewery_country>United States</brewery_country>
+    <untappd_id>6807472</untappd_id>
+  </item>
+  <item>
     <id>6727609</id>
     <ecommerce_id>846870753</ecommerce_id>
     <title>In Hops We Trussd</title>
@@ -8667,6 +8683,6 @@
     <brewery_country>Canada</brewery_country>
     <untappd_id>6197367</untappd_id>
   </item>
-  <timestamp>1786786995</timestamp>
-  <gen_date>15/08/2026 11:43:15</gen_date>
+  <timestamp>1786795084</timestamp>
+  <gen_date>15/08/2026 13:58:04</gen_date>
 </feed>
