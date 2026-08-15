@@ -5,6 +5,21 @@
   <link>https://hopincraftbier.be/products&lt;/link&gt;</link>
   <description>Hop In Craftbier Products feed</description>
   <item>
+    <id>6585168</id>
+    <ecommerce_id>856462921</ecommerce_id>
+    <title>Nary A Cloud</title>
+    <url>https://hopincraftbier.be/products/van-ewing-nary-a-cloud</url>
+    <brewery_name>Van Ewing</brewery_name>
+    <price>9.33</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/856462921/6109386309.png</image>
+    <beer_description>Banana, Pineapple, Vanilla &amp; Coconut Van Ewing - Nary A Cloud</beer_description>
+    <beer_style>Sour - Fruited</beer_style>
+    <beer_abv>5.3%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <untappd_id>6585168</untappd_id>
+  </item>
+  <item>
     <id>6762527</id>
     <ecommerce_id>854141278</ecommerce_id>
     <title>PURE Citra</title>
@@ -1159,6 +1174,38 @@
     <brewery_country>Poland</brewery_country>
     <date_best_before>2027-09-03</date_best_before>
     <untappd_id>6743370</untappd_id>
+  </item>
+  <item>
+    <id>6686355</id>
+    <ecommerce_id>838634979</ecommerce_id>
+    <title>Brew 9000 (2026)</title>
+    <url>https://hopincraftbier.be/products/fremont-brew-9000-2026</url>
+    <brewery_name>Fremont Brewing</brewery_name>
+    <price>40.34</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/838634979/5794975175.png</image>
+    <beer_description>Fremont Brewing began as a dream in 2008. Years later, our dream has come true in each and every one of you, our craft beer family. And like every family, we have had our ups and our downs, but we keep coming back together knowing we are stronger together. In your hands is a special nod to you, a gift for now that will continue to give many years from now should you have the patience to wait…Brew 9000. This English-style barleywine ale uses floor-malted English barley, Noble hops, and is aged in 10-15 year-old, single use bourbon barrels for 16 months to bring you a complex and subtle craft beer flavor experience. We brewed this to celebrate brewing our 9000th brew, and we look forward to sharing it with you, our craft beer family. “Barleywine Ale Is Life.” – VWP Down &amp; Dirty: Maris Otter Pale and Carafa 2 Special malts with White Wheat and Chinook and East Kent Goldings hops. Color: Ruby brown Dark brown with a gentle haze, this barley wine greets the senses with rich aromas of molasses, toffee, brown sugar, cola, vanilla, whiskey, and dried fruits, layered with hints of oak and biscuit. On the palate, it’s intensely sweet and full-bodied, with warming alcohol and subtle carbonation that adds a delicate tingling sensation. Best enjoyed in small pours, this complex, fruit-forward beer delivers a bold, indulgent experience for those who love layered, boozy sweetness. Availability: Released April 25, 2026, limited Fresh Range: Age this beer, or try one now...go on. Fremont Brewing - Brew 9000 (2026)</beer_description>
+    <beer_style>Barleywine - English</beer_style>
+    <beer_abv>14.7%</beer_abv>
+    <beer_volume>650 ml</beer_volume>
+    <beer_package>bottle</beer_package>
+    <brewery_country>United States</brewery_country>
+    <untappd_id>6686355</untappd_id>
+  </item>
+  <item>
+    <id>6435851</id>
+    <ecommerce_id>838634978</ecommerce_id>
+    <title>Barrel Aged Dark Star - Double Barrel (2025)</title>
+    <url>https://hopincraftbier.be/products/fremont-barrel-aged-dark-star-double-barrel-2025</url>
+    <brewery_name>Fremont Brewing</brewery_name>
+    <price>30.81</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/838634978/5794985562.png</image>
+    <beer_description>This double barrel aged release of bourbon barrel aged dark star rests for one year in 7-10 year old Kentucky bourbon barrels, and then ages for another in Woodford reserve bourbon barrels. The roasted and chocolate malts complement the smooth oats to bring you a stout delight double wrapped in the gentle embrace of bourbon barrel aged warmth. A touch of sweetness dances in balance with the hops to finish a wave and then she’s gone. Fremont Brewing - Barrel Aged Dark Star - Double Barrel (2025)</beer_description>
+    <beer_style>Stout - Imperial / Double Oatmeal</beer_style>
+    <beer_abv>17%</beer_abv>
+    <beer_volume>375 ml</beer_volume>
+    <beer_package>bottle</beer_package>
+    <brewery_country>United States</brewery_country>
+    <untappd_id>6435851</untappd_id>
   </item>
   <item>
     <id>6756729</id>
@@ -8620,6 +8667,6 @@
     <brewery_country>Canada</brewery_country>
     <untappd_id>6197367</untappd_id>
   </item>
-  <timestamp>1786780518</timestamp>
-  <gen_date>15/08/2026 09:55:18</gen_date>
+  <timestamp>1786786995</timestamp>
+  <gen_date>15/08/2026 11:43:15</gen_date>
 </feed>
