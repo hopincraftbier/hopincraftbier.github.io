@@ -1225,6 +1225,71 @@
     <untappd_id>6729385</untappd_id>
   </item>
   <item>
+    <id>6764793</id>
+    <ecommerce_id>838634149</ecommerce_id>
+    <title>Eight Matches</title>
+    <url>https://hopincraftbier.be/products/wax-wings-eight-matches</url>
+    <brewery_name>Wax Wings Brewing Company</brewery_name>
+    <price>39.53</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/838634149/5816892667.png</image>
+    <beer_description>A special release for our 8th anniversary party! English Barleywine, blended from barrels aged between 14 and 17 months. Showcasing layers of toffee, caramel, fig, and dark fruit, elevated by notes of vanilla, oak, and bourbon from an extended stay in a blend of Four Roses, Weller Special Reserve, and Buffalo Trace barrels. Full-bodied, warming, and exceptionally smooth. Wax Wings - 8 Matches (8th Anniversary)</beer_description>
+    <beer_style>Barleywine - English</beer_style>
+    <beer_abv>14%</beer_abv>
+    <beer_volume>500 ml</beer_volume>
+    <beer_package>bottle</beer_package>
+    <brewery_country>United States</brewery_country>
+    <untappd_id>6764793</untappd_id>
+  </item>
+  <item>
+    <id>6785204</id>
+    <ecommerce_id>838634922</ecommerce_id>
+    <title>Eight Streamers</title>
+    <url>https://hopincraftbier.be/products/wax-wings-8-streamers-8th-anniversary</url>
+    <brewery_name>Wax Wings Brewing Company</brewery_name>
+    <price>10.33</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/838634922/5816887659.png</image>
+    <beer_description>Hazy IPA brewed with Citra, Cryo, Simcoe, Mosaic, Motueka, and Nectaron hops. Wax Wings - Eight Streamers</beer_description>
+    <beer_style>IPA - New England / Hazy</beer_style>
+    <beer_abv>7.2%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>United States</brewery_country>
+    <untappd_id>6785204</untappd_id>
+  </item>
+  <item>
+    <id>6785211</id>
+    <ecommerce_id>838634915</ecommerce_id>
+    <title>Eight Party Hats</title>
+    <url>https://hopincraftbier.be/products/wax-wings-8-party-hats-8th-anniversary</url>
+    <brewery_name>Wax Wings Brewing Company</brewery_name>
+    <price>11</price>
+    <regular_price>11.00</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/838634915/5816892856.png</image>
+    <beer_description>Hazy Double IPA with Citra, Mosaic, Peacharine, Galaxy, and Citra Hyper-Boost. Wax Wings - Eight Party Hats</beer_description>
+    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
+    <beer_abv>8.5%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>United States</brewery_country>
+    <untappd_id>6785211</untappd_id>
+  </item>
+  <item>
+    <id>6785215</id>
+    <ecommerce_id>838634914</ecommerce_id>
+    <title>Eight Candles</title>
+    <url>https://hopincraftbier.be/products/wax-wings-eight-candles</url>
+    <brewery_name>Wax Wings Brewing Company</brewery_name>
+    <price>11.34</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/838634914/5816892637.png</image>
+    <beer_description>Imperial Hazy IPA with Citra Dynaboost, Citra Hyperboost, Cryo Citra, Motueka, Nectaron, Peacharine, and Mosaic Wax Wings - Eight Candles</beer_description>
+    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
+    <beer_abv>10%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>United States</brewery_country>
+    <untappd_id>6785215</untappd_id>
+  </item>
+  <item>
     <id>9000000035</id>
     <ecommerce_id>837871529</ecommerce_id>
     <title>Rivington Brewing Co - Triplet</title>
@@ -8555,6 +8620,6 @@
     <brewery_country>Canada</brewery_country>
     <untappd_id>6197367</untappd_id>
   </item>
-  <timestamp>1786780216</timestamp>
-  <gen_date>15/08/2026 09:50:16</gen_date>
+  <timestamp>1786780518</timestamp>
+  <gen_date>15/08/2026 09:55:18</gen_date>
 </feed>
