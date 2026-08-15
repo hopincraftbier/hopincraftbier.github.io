@@ -1124,6 +1124,70 @@
     <untappd_id>6716144</untappd_id>
   </item>
   <item>
+    <id>1778578</id>
+    <ecommerce_id>839695349</ecommerce_id>
+    <title>M-43 N.E. India Pale Ale</title>
+    <url>https://hopincraftbier.be/products/old-nation-m-43-n-e-india-pale-ale</url>
+    <brewery_name>Old Nation Brewing Co.</brewery_name>
+    <price>7.99</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/839695349/5802975885.png</image>
+    <beer_description>M-43 is designed to accentuate the deep and complex character from the combination of hops. Citrus and tropical notes of pineapple, mango, and grapefruit come through in the huge, yet surprisingly delicate aroma with a soft, pillowy mouthfeel. This beer is a perfect interplay between top-grade malt and hops, MI water, and brewing technique which cannot be faked. Old Nation Brewing Co. - M-43 N.E. India Pale Ale</beer_description>
+    <beer_style>IPA - New England / Hazy</beer_style>
+    <beer_abv>6.8%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>United States</brewery_country>
+    <untappd_id>1778578</untappd_id>
+  </item>
+  <item>
+    <id>2065903</id>
+    <ecommerce_id>839698811</ecommerce_id>
+    <title>Boss Tweed</title>
+    <url>https://hopincraftbier.be/products/old-nation-boss-tweed</url>
+    <brewery_name>Old Nation Brewing Co.</brewery_name>
+    <price>8.66</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/839698811/5802976394.png</image>
+    <beer_description>The second release in Old Nation’s “New Orthodox” IPA series, Boss Tweed is a Double New England IPA weighing in at 9.3% with an aroma of peach, mango, tangerine, and probably some other stuff. A nice pilsner malt backbone with a touch of Vienna provides balance and a lingering sweetness on the back end and a hint of warming from the higher alcohol content. Old Nation Brewing Co. - Boss Tweed</beer_description>
+    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
+    <beer_abv>9.3%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>United States</brewery_country>
+    <untappd_id>2065903</untappd_id>
+  </item>
+  <item>
+    <id>6699797</id>
+    <ecommerce_id>839695348</ecommerce_id>
+    <title>Dragon’s Milk Reserve: S’mores (2026)</title>
+    <url>https://hopincraftbier.be/products/new-holland-dragons-milk-reserve-smores-2026</url>
+    <brewery_name>New Holland Brewing</brewery_name>
+    <price>9.98</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/839695348/5802980022.png</image>
+    <beer_description>Bourbon Barrel-Aged Stout with Graham Cracker, Chocolate, and Marshmallow New Holland Brewing - Dragons Milk Reserve: Smores (2026)</beer_description>
+    <beer_style>Stout - Imperial / Double</beer_style>
+    <beer_abv>11%</beer_abv>
+    <beer_volume>355 ml</beer_volume>
+    <beer_package>bottle</beer_package>
+    <brewery_country>United States</brewery_country>
+    <untappd_id>6699797</untappd_id>
+  </item>
+  <item>
+    <id>6586946</id>
+    <ecommerce_id>839696073</ecommerce_id>
+    <title>Dragon's Milk: Triple Mash (2026)</title>
+    <url>https://hopincraftbier.be/products/new-holland-dragons-milk-triple-mash-2026</url>
+    <brewery_name>New Holland Brewing</brewery_name>
+    <price>12.65</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/839696073/5802980028.png</image>
+    <beer_description>Dragon's Milk Triple Mash is the ultimate indulgence, the result of years of honing technique and pushing the limits of what a stout can be. Three separate mashes and a year-long stay in Kentucky bourbon barrels amplify the flavor notes of Dragon's Milk - chocolate, roasted malt, vanilla, and oak - in a way that still allows for balance and refinement to shine through. New Holland Brewing - Dragon's Milk: Triple Mash (2026)</beer_description>
+    <beer_style>Stout - Imperial / Double</beer_style>
+    <beer_abv>17%</beer_abv>
+    <beer_volume>355 ml</beer_volume>
+    <beer_package>bottle</beer_package>
+    <brewery_country>United States</brewery_country>
+    <untappd_id>6586946</untappd_id>
+  </item>
+  <item>
     <id>6740758</id>
     <ecommerce_id>839043418</ecommerce_id>
     <title>Oso - Mainline (collab Track)</title>
@@ -8763,6 +8827,6 @@
     <brewery_country>Canada</brewery_country>
     <untappd_id>6197367</untappd_id>
   </item>
-  <timestamp>1786807806</timestamp>
-  <gen_date>15/08/2026 17:30:06</gen_date>
+  <timestamp>1786811427</timestamp>
+  <gen_date>15/08/2026 18:30:27</gen_date>
 </feed>
