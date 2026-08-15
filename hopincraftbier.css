@@ -1,4 +1,4 @@
-/* HopInCraftbier custom css v4.48 */
+/* HopInCraftbier custom css v4.49 */
 /** start homepage **/
 body {
     margin: auto;
@@ -452,7 +452,9 @@ div.ins-tile__product-image div.ins-tile__product-label {
     }
 }
 .ins-tile--announcement-bar .section__container {
-    padding: 0;
+    div.section__content > div {
+        padding: 0;
+    }
     .ins-tile__text p {
         a {
             opacity: 1;
