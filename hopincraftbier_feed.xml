@@ -1007,6 +1007,22 @@
     <untappd_id>6013412</untappd_id>
   </item>
   <item>
+    <id>5313378</id>
+    <ecommerce_id>841341702</ecommerce_id>
+    <title>Barrel-Aged Speedway Stout: Coconut Vanilla Edition (2023)</title>
+    <url>https://hopincraftbier.be/products/alesmith-barrel-aged-speedway-stout-coconut-vanilla-edition-2023</url>
+    <brewery_name>AleSmith Brewing Company</brewery_name>
+    <price>16.36</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/841341702/5878282615.png</image>
+    <beer_description>We’ve matured our imperial stout in premium bourbon barrels for an extended period of time and added coffee, toasted coconut, and a blend of Madagascar and Tahitian vanilla to create the perfect blend of flavors. Cheers! AleSmith Brewing Company - Barrel-Aged Speedway Stout: Coconut Vanilla Edition (2023)</beer_description>
+    <beer_style>Stout - Imperial / Double Coffee</beer_style>
+    <beer_abv>13.2%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>United States</brewery_country>
+    <untappd_id>5313378</untappd_id>
+  </item>
+  <item>
     <id>6755341</id>
     <ecommerce_id>841329443</ecommerce_id>
     <title>Junction IPA (Bad Bones) (collab Bad Bones)</title>
@@ -1238,6 +1254,102 @@
     <untappd_id>6716144</untappd_id>
   </item>
   <item>
+    <id>6756041</id>
+    <ecommerce_id>839698843</ecommerce_id>
+    <title>Élixir-IPA (collab Herman)</title>
+    <url>https://hopincraftbier.be/products/brasserie-du-bas-canada-elixir-ipa</url>
+    <brewery_name>Brasserie du Bas-Canada</brewery_name>
+    <price>10.33</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/839698843/5802961978.png</image>
+    <beer_description>Collaboration with Herman Brasserie Artisanale - India Pale Ale with Superdelic, Motueka, Waimea &amp; Limequat Hop Kief Brasserie du Bas-Canada - Elixir-IPA</beer_description>
+    <beer_style>IPA - American</beer_style>
+    <beer_abv>7%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Canada</brewery_country>
+    <untappd_id>6756041</untappd_id>
+  </item>
+  <item>
+    <id>6756047</id>
+    <ecommerce_id>839703754</ecommerce_id>
+    <title>Élixir - Le Ketch (collab Le Ketch)</title>
+    <url>https://hopincraftbier.be/products/brasserie-du-bas-canada-elixir-dipa</url>
+    <brewery_name>Brasserie du Bas-Canada</brewery_name>
+    <price>11.34</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/839703754/5802961996.png</image>
+    <beer_description>Collaboration with Le Ketch - Double IPA with Eggers Special Lily, Eggers Special X, pESHarine, Motueka &amp; Citra hops Brasserie du Bas-Canada - Elixir - Le Ketch</beer_description>
+    <beer_style>IPA - Imperial / Double</beer_style>
+    <beer_abv>8.2%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Canada</brewery_country>
+    <untappd_id>6756047</untappd_id>
+  </item>
+  <item>
+    <id>6756052</id>
+    <ecommerce_id>839704255</ecommerce_id>
+    <title>Élixir - BreWskey (collab BreWskey)</title>
+    <url>https://hopincraftbier.be/products/brasserie-du-bas-canada-elixir-tipa</url>
+    <brewery_name>Brasserie du Bas-Canada</brewery_name>
+    <price>12.34</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/839704255/5802967106.png</image>
+    <beer_description>Collaboration with BreWskey - Triple IPA with Nelson Sauvin, Riwaka, NZ Cascade, Citra &amp; Riwaka Hop Kief hops Brasserie du Bas-Canada - Elixir - BreWskey</beer_description>
+    <beer_style>IPA - Triple</beer_style>
+    <beer_abv>10%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Canada</brewery_country>
+    <untappd_id>6756052</untappd_id>
+  </item>
+  <item>
+    <id>6772513</id>
+    <ecommerce_id>839703753</ecommerce_id>
+    <title>Désordre</title>
+    <url>https://hopincraftbier.be/products/brasserie-du-bas-canada-desordre</url>
+    <brewery_name>Brasserie du Bas-Canada</brewery_name>
+    <price>13.01</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/839703753/5802967112.png</image>
+    <beer_description>Nectaron, Rakau, Nelson Sauvin, Citra, Kohia Nelson &amp; Nectaron Hop Kief Hops Introducing Désordre, a brand new Quadruple IPA brewed with a ton of hops! Starring the New Zealand cultivars Nectaron, Rakau, Nelson Sauvin, and Kohia Nelson, along with Citra and a touch of Nectaron Hop Kief. No alcohol here—we went all out to make this a super hoppy beer with intense tropical fruit aromas! Brasserie du Bas-Canada - Desordre</beer_description>
+    <beer_style>IPA - Quadruple</beer_style>
+    <beer_abv>11.3%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Canada</brewery_country>
+    <untappd_id>6772513</untappd_id>
+  </item>
+  <item>
+    <id>6783023</id>
+    <ecommerce_id>839701012</ecommerce_id>
+    <title>Free Floating</title>
+    <url>https://hopincraftbier.be/products/finback-free-floating</url>
+    <brewery_name>Finback Brewery</brewery_name>
+    <price>10.33</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/839701012/5886097557.png</image>
+    <beer_description>IPA Double New England with Citra, Mosaic, Motueka &amp; Superdelic hops Finback - Free Floating</beer_description>
+    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
+    <beer_abv>8.4%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>United States</brewery_country>
+    <untappd_id>6783023</untappd_id>
+  </item>
+  <item>
+    <id>6783021</id>
+    <ecommerce_id>839701011</ecommerce_id>
+    <title>Ultraterrestrial</title>
+    <url>https://hopincraftbier.be/products/finback-ultraterrestrial</url>
+    <brewery_name>Finback Brewery</brewery_name>
+    <price>10.67</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/839701011/5886077211.png</image>
+    <beer_description>IPA Triple New England with Mosaic, Vista, Azacca &amp; Sabro hops Finback - Ultraterrestrial</beer_description>
+    <beer_style>IPA - Triple New England / Hazy</beer_style>
+    <beer_abv>10%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>United States</brewery_country>
+    <untappd_id>6783021</untappd_id>
+  </item>
+  <item>
     <id>1778578</id>
     <ecommerce_id>839695349</ecommerce_id>
     <title>M-43 N.E. India Pale Ale</title>
@@ -1450,6 +1562,23 @@
     <untappd_id>6435851</untappd_id>
   </item>
   <item>
+    <id>6751539</id>
+    <ecommerce_id>838634184</ecommerce_id>
+    <title>Through the Glass (2026)</title>
+    <url>https://hopincraftbier.be/products/badlands-through-the-glass-2026</url>
+    <brewery_name>Badlands Brewing Company</brewery_name>
+    <price>11</price>
+    <regular_price>11.00</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/838634184/5794974116.png</image>
+    <beer_description>Bursting with aromatic American hop varietals, Through the Glass is a double dry hopped IPA that is bright, juicy and highly aromatic. It’s loaded with aromas of mango, peach and candied citrus that are delivered on a soft, fluffy malt canvas. A delicate mouth feel and gentle, but present, bitterness ensures that this beer never tires the palate. Badlands - Through the Glass (2026)</beer_description>
+    <beer_style>IPA - American</beer_style>
+    <beer_abv>6.5%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Canada</brewery_country>
+    <untappd_id>6751539</untappd_id>
+  </item>
+  <item>
     <id>6745257</id>
     <ecommerce_id>838634976</ecommerce_id>
     <title>Capitaine Iteration - Le Ketch X Fallside (collab Fallside)</title>
@@ -1464,6 +1593,39 @@
     <beer_package>can</beer_package>
     <brewery_country>Canada</brewery_country>
     <untappd_id>6745257</untappd_id>
+  </item>
+  <item>
+    <id>6751541</id>
+    <ecommerce_id>838634975</ecommerce_id>
+    <title>Pop Pop</title>
+    <url>https://hopincraftbier.be/products/badlands-pop-pop-2026</url>
+    <brewery_name>Badlands Brewing Company</brewery_name>
+    <price>11</price>
+    <regular_price>11.00</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/838634975/5794974146.png</image>
+    <beer_description>This one's for all the papas out there! It’s daddy day and this beer is brewed specifically for all the dad, daddy, father, pop, poppa and other words associated with being the sire of homosapien children. Happy fathers day! This ones for you. Hopped with dads favorite hops: Nectaron and Motueka Badlands - Pop Pop</beer_description>
+    <beer_style>IPA - New Zealand</beer_style>
+    <beer_abv>6.5%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Canada</brewery_country>
+    <untappd_id>6751541</untappd_id>
+  </item>
+  <item>
+    <id>6757712</id>
+    <ecommerce_id>838634970</ecommerce_id>
+    <title>July DIPA (2026)</title>
+    <url>https://hopincraftbier.be/products/badlands-july-dipa-2026</url>
+    <brewery_name>Badlands Brewing Company</brewery_name>
+    <price>11.34</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/838634970/5794975063.png</image>
+    <beer_description>For July we wanted to take NZ04 on a spin with the ace that is Riwaka. We then topped it off with some Wai-iti cold pressed hop juice. It’s bangin. We taste notes orange citrus, papaya, kumquat and peaches Badlands - July DIPA (2026) Badlands Brewing Company - July DIPA (2026)</beer_description>
+    <beer_style>IPA - Imperial / Double</beer_style>
+    <beer_abv>8.2%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Canada</brewery_country>
+    <untappd_id>6757712</untappd_id>
   </item>
   <item>
     <id>6745265</id>
@@ -8941,6 +9103,6 @@
     <brewery_country>Canada</brewery_country>
     <untappd_id>6197367</untappd_id>
   </item>
-  <timestamp>1786861462</timestamp>
-  <gen_date>16/08/2026 08:24:22</gen_date>
+  <timestamp>1786864729</timestamp>
+  <gen_date>16/08/2026 09:18:49</gen_date>
 </feed>
