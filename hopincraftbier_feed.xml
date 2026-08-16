@@ -1916,6 +1916,26 @@
     <untappd_id>6318991</untappd_id>
   </item>
   <item>
+    <id>9000000032</id>
+    <ecommerce_id>837492718</ecommerce_id>
+    <title>Hop Hooligans - Quartet</title>
+    <url>https://hopincraftbier.be/products/hop-hooligans-quartet</url>
+    <brewery_name>Hop Hooligans</brewery_name>
+    <price>26.49</price>
+    <regular_price>31.17</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/837492718/5784768042.png</image>
+    <beer_description>The Hop Hooligans - Quartet contains: - FortunioIPA - New England / Hazy | 6% | 500 ml - Psychedelic WisdomIPA - Imperial / Double New England / Hazy | 8% | 500 ml - Trench Coat ContrabandIPA - Triple | 10% | 500 ml - Grog BlossomStout - Imperial / Double Pastry | 12% | 500 ml</beer_description>
+    <beer_style>Stout - IPA</beer_style>
+    <beer_abv>6 - 12%</beer_abv>
+    <beer_volume>4x500 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Romania</brewery_country>
+    <date_best_before>2026-10-15</date_best_before>
+    <beer_package_count>4</beer_package_count>
+    <beer_bundle>1</beer_bundle>
+    <bundle_skus>6598489,6447600,6628147,6423947</bundle_skus>
+  </item>
+  <item>
     <id>6672041</id>
     <ecommerce_id>837354899</ecommerce_id>
     <title>Port Wine X Brandy Barrel Aged Imperial Stout</title>
@@ -4362,6 +4382,24 @@
     <untappd_id>6598500</untappd_id>
   </item>
   <item>
+    <id>6598489</id>
+    <ecommerce_id>825522356</ecommerce_id>
+    <title>Fortunio</title>
+    <url>https://hopincraftbier.be/products/hop-hooligans-fortunio</url>
+    <brewery_name>Hop Hooligans</brewery_name>
+    <price>5.84</price>
+    <regular_price>6,87</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/825522356/5674186596.png</image>
+    <beer_description>Water, Barley Malt, Wheat Malt, Oat Flakes, Hops (Hand Selected El Dorado, Mega Motueka), Yeast (London Ale III) Hop Hooligans - Fortunio</beer_description>
+    <beer_style>IPA - New England / Hazy</beer_style>
+    <beer_abv>6%</beer_abv>
+    <beer_volume>500 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Romania</brewery_country>
+    <date_best_before>2026-10-16</date_best_before>
+    <untappd_id>6598489</untappd_id>
+  </item>
+  <item>
     <id>6686217</id>
     <ecommerce_id>824778211</ecommerce_id>
     <title>Underrated</title>
@@ -6501,6 +6539,24 @@
     <untappd_id>6577350</untappd_id>
   </item>
   <item>
+    <id>6577359</id>
+    <ecommerce_id>807039737</ecommerce_id>
+    <title>8th Birthday - Double India Pale Ale (collab Cloudwater)</title>
+    <url>https://hopincraftbier.be/products/pollys-8th-birthday-double-india-pale-ale</url>
+    <brewery_name>Polly's Brew Co.</brewery_name>
+    <price>6.66</price>
+    <regular_price>7,83</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5505398530.png</image>
+    <beer_description>POLLY'S 8th BIRTHDAY Our friendship with the legendary Cloudwater extends for as long as Polly’s has existed at this point. As a source of sage advice and guidance throughout our brewing journey, we’re proud to have been able to share experiences with the titans of Manchester in both working and personal capacities over our eight years in the game. When it came to filling the collaboration slot for a big, bold double IPA we could only look to the innovators of modern beer in the UK to join us for our eighth birthday, not only on the brewing side of things but the artwork to boot, with Cloudwater’s go-to designer, the Manchester based Textbook Studio handling the label design. Wanting to embrace the progressive nature of the industry we operate within, and showcase the skills our respective brew teams are capable of, we’ve turned the hype dial up to eleven on this DIPA. We’d already been enchanted by our first use of Eggers Special hops, so when the prospect of working with another New Zealand blend in Mega Motueka came about in our initial discussions we leapt at the opportunity. Utilising further dry hop charges of Lupomax Citra and Nectaron Cryo, this DIPA solely focuses on hype and hype alone. Our finished product is a DIPA that positively rinses every last drop of lively lemon, muddled lime with brown sugar, tropical fruits, passionfruit, soft peach flavours, and pineapple backed up with a light dankness. Polly's - 8th Birthday - Double India Pale Ale</beer_description>
+    <beer_style>IPA - Imperial / Double</beer_style>
+    <beer_abv>8.2%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Wales</brewery_country>
+    <date_best_before>2026-10-15</date_best_before>
+    <untappd_id>6577359</untappd_id>
+  </item>
+  <item>
     <id>3039829</id>
     <ecommerce_id>806411460</ecommerce_id>
     <title>Hydra | Raspberry + Strawberry + Pink Guava</title>
@@ -7433,6 +7489,24 @@
     <untappd_id>6503011</untappd_id>
   </item>
   <item>
+    <id>6447600</id>
+    <ecommerce_id>793082147</ecommerce_id>
+    <title>Psychedelic Wisdom</title>
+    <url>https://hopincraftbier.be/products/hop-hooligans-psychedelic-wisdom</url>
+    <brewery_name>Hop Hooligans</brewery_name>
+    <price>6.26</price>
+    <regular_price>7,36</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/793082147/5326822748.png</image>
+    <beer_description>PSYCHEDELIC WISDOM aims for ever-lasting brightness, with a hefty DH of peachy Luminosa, coconut-driven Sabro Cryo, fluffed up with papaya and mango from fresh Ekuanot hops, all atop a zingy, buzzing base of HBC431 on the hot side. Add some solid honey residuals for a lovely candied glaze, and you've got the perfect trick for hiding that hearty 8% ABV. Hop Hooligans - Psychedelic Wisdom</beer_description>
+    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
+    <beer_abv>8%</beer_abv>
+    <beer_volume>500 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Romania</brewery_country>
+    <date_best_before>2026-10-15</date_best_before>
+    <untappd_id>6447600</untappd_id>
+  </item>
+  <item>
     <id>6423947</id>
     <ecommerce_id>793082146</ecommerce_id>
     <title>Grog Blossom</title>
@@ -8155,6 +8229,24 @@
     <untappd_id>6365435</untappd_id>
   </item>
   <item>
+    <id>6377695</id>
+    <ecommerce_id>778817582</ecommerce_id>
+    <title>TERNION</title>
+    <url>https://hopincraftbier.be/products/homes-ternion</url>
+    <brewery_name>HOMES Brewery</brewery_name>
+    <price>8.84</price>
+    <regular_price>11,79</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5243366171.webp</image>
+    <beer_description>brewed w/ cryo mosaic &amp; super sauvin (NZ), dry hopped w/ krush, nelson sauvin (NZ), and sabro HOMES - TERNION</beer_description>
+    <beer_style>IPA - Triple</beer_style>
+    <beer_abv>10%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>United States</brewery_country>
+    <date_canned>2025-08-15</date_canned>
+    <untappd_id>6377695</untappd_id>
+  </item>
+  <item>
     <id>1831710</id>
     <ecommerce_id>778817581</ecommerce_id>
     <title>Sumi Ink (2025)</title>
@@ -8451,6 +8543,23 @@
     <untappd_id>5689711</untappd_id>
   </item>
   <item>
+    <id>3040198</id>
+    <ecommerce_id>767347723</ecommerce_id>
+    <title>Triple Stars</title>
+    <url>https://hopincraftbier.be/products/celestial-beerworks-triple-stars</url>
+    <brewery_name>Celestial Beerworks</brewery_name>
+    <price>8.43</price>
+    <regular_price>11,24</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5145598807.webp</image>
+    <beer_description>Triple Stars is filled with raw wheat, malted wheat, and flaked wheat which makes it ethereal and soft. It’s triple-dry hopped with Strata, Vic Secret, and Citra hops. If you know these hops, you know this beer is ultra juicy, full of orange juice, mango and grapefruit essence. This beer is super phosphorescent (minus the radiation...) and ultra bright. It’s velvety and full and bursting with flavor. PS: The label of only one can is upside down attached. Perhaps a collector's item? Please, specifically ask for it if you want this one. Celestial Beerworks - Triple Stars</beer_description>
+    <beer_style>IPA - Triple New England / Hazy</beer_style>
+    <beer_abv>10%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>United States</brewery_country>
+    <untappd_id>3040198</untappd_id>
+  </item>
+  <item>
     <id>4813817</id>
     <ecommerce_id>767347721</ecommerce_id>
     <title>Cosmic Mountain</title>
@@ -8467,6 +8576,23 @@
     <brewery_country>United States</brewery_country>
     <date_canned>2025-07-21</date_canned>
     <untappd_id>4813817</untappd_id>
+  </item>
+  <item>
+    <id>3012849</id>
+    <ecommerce_id>767347722</ecommerce_id>
+    <title>Double Stars</title>
+    <url>https://hopincraftbier.be/products/celestial-beerworks-double-stars</url>
+    <brewery_name>Celestial Beerworks</brewery_name>
+    <price>7.65</price>
+    <regular_price>10,20</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5145598782.webp</image>
+    <beer_description>Double Stars approaches the traditional malt base with a slight twist. Instead of using just oats and wheat, we focused on 3 kinds of wheat to give the beer more of a velvety and fluffy body. It’s brewed with malted wheat, raw wheat, and flaked wheat. Hopped with delightful amounts of Idaho 7 and Vic Secret, this beer has a complex aroma of dank pineapple and mango that explodes out of your glass. This 8% banger is slightly viscous with loads of body and softness. Double Stars is full of passionfruit, mango flesh and ripe pineapple, and is as juicy as can be. Celestial Beerworks - Double Stars</beer_description>
+    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
+    <beer_abv>8%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>United States</brewery_country>
+    <untappd_id>3012849</untappd_id>
   </item>
   <item>
     <id>6318598</id>
@@ -8980,6 +9106,6 @@
     <brewery_country>Canada</brewery_country>
     <untappd_id>6197367</untappd_id>
   </item>
-  <timestamp>1786868342</timestamp>
-  <gen_date>16/08/2026 10:19:02</gen_date>
+  <timestamp>1786875309</timestamp>
+  <gen_date>16/08/2026 12:15:09</gen_date>
 </feed>
