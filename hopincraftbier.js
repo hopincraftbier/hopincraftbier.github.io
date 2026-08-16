@@ -1,4 +1,4 @@
-const version = 'v7.46';
+const version = 'v7.50';
 let currentLanguage;
 
 const txtNl1 = '<div class="dtooltip"><p class="hover question">Kortingscoupon</p><p class="dtooltiptext">Afhankelijk van de gekozen betaling en levering, kunt u een kortingscoupon krijgen die te gebruiken is bij een volgende bestelling. Voor dit bier ziet u de bedragen in deze tabel</p></div><table class="discount-table"><thead><tr class="first_header"><th></th><th colspan="2">Manier van levering</th></tr><tr><th>Manier van betaling</th><th>Afhaling</th><th>Levering</th></tr></thead><tbody><tr><td class="header">Betalen bij afhaling</td><td>€ ';
@@ -692,13 +692,11 @@ function renameBuyButtonToPreorder() {
     log('renameBuyButtonToPreorder');
     document.querySelectorAll('.grid__products .grid-product').forEach(function (p) {
         let buttonTextEl = p.querySelector('.grid__products .grid-product .form-control__button-text');
-        let isVerwacht = false;
         if (buttonTextEl) {
             const lng = getCustomerLng();
             let btnTxt = 'Pre-order';
             let priceEl = p.querySelector('.grid-product__price-value.ec-price-item');
             if (priceEl && (priceEl.textContent === '€ 0,00' || priceEl.textContent.startsWith('Max '))) {
-                isVerwacht = true;
                 log(priceEl.textContent);
                 if ('EN' === lng) {
                     btnTxt = 'Reserve'
@@ -707,14 +705,6 @@ function renameBuyButtonToPreorder() {
                 }
             }
             if (buttonTextEl.textContent !== btnTxt) {
-                if (isVerwacht) {
-                    buttonTextEl.parentElement.classList.add('dtooltip');
-                    if ('EN' === lng) {
-                        buttonTextEl.parentElement.insertAdjacentHTML('beforeend', '<p class="dtooltiptext">5% discount on reservations.</p>');
-                    } else {
-                        buttonTextEl.parentElement.insertAdjacentHTML('beforeend', '<p class="dtooltiptext">5% korting op reservaties.</p>');
-                    }
-                }
                 let labelEl = p.querySelector('.grid-product__label');
                 if (labelEl &&
                     labelEl.className.indexOf('grid-product__label--') >= 0 &&
