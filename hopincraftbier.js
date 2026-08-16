@@ -1,4 +1,4 @@
-const version = 'v7.51';
+const version = 'v7.52';
 let currentLanguage;
 
 const txtNl1 = '<div class="dtooltip"><p class="hover question">Kortingscoupon</p><p class="dtooltiptext">Afhankelijk van de gekozen betaling en levering, kunt u een kortingscoupon krijgen die te gebruiken is bij een volgende bestelling. Voor dit bier ziet u de bedragen in deze tabel</p></div><table class="discount-table"><thead><tr class="first_header"><th></th><th colspan="2">Manier van levering</th></tr><tr><th>Manier van betaling</th><th>Afhaling</th><th>Levering</th></tr></thead><tbody><tr><td class="header">Betalen bij afhaling</td><td>€ ';
@@ -776,9 +776,9 @@ function processProductPage(toScroll) {
 }
 
 function processLeeggoed() {
-    let leeggoedEl = document.querySelector('p.leeggoed2');
-    if (!leeggoedEl) {
-        leeggoedEl = document.querySelector('p.leeggoed');
+    const leeggoedEl2 = document.querySelector('p.leeggoed2');
+    const leeggoedEl = document.querySelector('p.leeggoed');
+    if (!leeggoedEl2) {
         if (leeggoedEl) {
             const leeggoedImgEl = leeggoedEl.nextElementSibling.firstChild;
             if (leeggoedImgEl) {
@@ -791,6 +791,8 @@ function processLeeggoed() {
                 }
             }
         }
+    } else if (!leeggoedEl) {
+        leeggoedEl2.remove();
     }
 }
 
