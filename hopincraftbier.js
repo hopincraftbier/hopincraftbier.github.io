@@ -1,4 +1,4 @@
-const version = 'v7.53';
+const version = 'v7.54';
 let currentLanguage;
 
 const txtNl1 = '<div class="dtooltip"><p class="hover question">Kortingscoupon</p><p class="dtooltiptext">Afhankelijk van de gekozen betaling en levering, kunt u een kortingscoupon krijgen die te gebruiken is bij een volgende bestelling. Voor dit bier ziet u de bedragen in deze tabel</p></div><table class="discount-table"><thead><tr class="first_header"><th></th><th colspan="2">Manier van levering</th></tr><tr><th>Manier van betaling</th><th>Afhaling</th><th>Levering</th></tr></thead><tbody><tr><td class="header">Betalen bij afhaling</td><td>€ ';
@@ -316,7 +316,7 @@ function processAttributes(status) {
         }
         if ((isPreOrder || isVerwacht) && buttonTxtEl.textContent !== btnTxt) {
             buttonTxtEl.innerHTML = btnTxt;
-            if (isVerwacht) {
+            if (!isPreOrder && isVerwacht) {
                 const taxEl = document.querySelector('div.product-details__product-price-taxes');
                 if (taxEl) {
                     taxEl.style.display = 'none';
