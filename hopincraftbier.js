@@ -1,4 +1,4 @@
-const version = 'v7.52';
+const version = 'v7.53';
 let currentLanguage;
 
 const txtNl1 = '<div class="dtooltip"><p class="hover question">Kortingscoupon</p><p class="dtooltiptext">Afhankelijk van de gekozen betaling en levering, kunt u een kortingscoupon krijgen die te gebruiken is bij een volgende bestelling. Voor dit bier ziet u de bedragen in deze tabel</p></div><table class="discount-table"><thead><tr class="first_header"><th></th><th colspan="2">Manier van levering</th></tr><tr><th>Manier van betaling</th><th>Afhaling</th><th>Levering</th></tr></thead><tbody><tr><td class="header">Betalen bij afhaling</td><td>€ ';
@@ -196,6 +196,8 @@ function processAttributes(status) {
     if (cbTitle && (cbTitle.textContent === 'Cadeau bon' || cbTitle.textContent === 'Gift card')) {
         return;
     }
+    let isPreOrder = false;
+    let isVerwacht = false;
     document.querySelectorAll('span.details-product-attribute__title').forEach(function (p) {
         if (p.textContent.startsWith('hide_')) {
             p.parentElement.style.display = 'none';
@@ -208,10 +210,14 @@ function processAttributes(status) {
                     } else {
                         preOrderTxt += ('Verwacht: ' + d);
                     }
+                    isPreOrder = true;
                 }
             }
         } else {
             const attribute = p.textContent.trim();
+            if (attribute === 'Verwacht:' || attribute === 'Expected:') {
+                isVerwacht = true;
+            } else
             if (attribute === 'Brouwerij:' || attribute === 'Brewery:' ||
                 attribute === 'Type:' ||
                 attribute === 'Land:' || attribute === 'Country:' ||
@@ -305,24 +311,26 @@ function processAttributes(status) {
     let btnTxt = 'Pre-Order';
     if (buttonTxtEl) {
         const lng = getCustomerLng();
-        if (status === 'verwacht') {
+        if (!isPreOrder && isVerwacht) {
             btnTxt = ('EN' === lng ? 'Reserve' : 'Reserveer');
         }
-        if ((status === 'verwacht' || preOrderTxt !== "") && buttonTxtEl.textContent !== btnTxt) {
+        if ((isPreOrder || isVerwacht) && buttonTxtEl.textContent !== btnTxt) {
             buttonTxtEl.innerHTML = btnTxt;
-            const taxEl = document.querySelector('div.product-details__product-price-taxes');
-            if (taxEl) {
-                taxEl.style.display = 'none';
-            }
-            let buttonEl = document.querySelector('div.form-control--primary button.form-control__button.dtooltip');
-            if (!buttonEl) {
-                buttonEl = document.querySelector('div.form-control--primary button.form-control__button:not(.dtooltip)');
-                if (buttonEl) {
-                    buttonEl.classList.add('dtooltip');
-                    if ('EN' === lng) {
-                        buttonEl.insertAdjacentHTML('beforeend', '<p class="dtooltiptext">5% discount on reservations.</p>');
-                    } else {
-                        buttonEl.insertAdjacentHTML('beforeend', '<p class="dtooltiptext">5% korting op reservaties.</p>');
+            if (isVerwacht) {
+                const taxEl = document.querySelector('div.product-details__product-price-taxes');
+                if (taxEl) {
+                    taxEl.style.display = 'none';
+                }
+                let buttonEl = document.querySelector('div.form-control--primary button.form-control__button.dtooltip');
+                if (!buttonEl) {
+                    buttonEl = document.querySelector('div.form-control--primary button.form-control__button:not(.dtooltip)');
+                    if (buttonEl) {
+                        buttonEl.classList.add('dtooltip');
+                        if ('EN' === lng) {
+                            buttonEl.insertAdjacentHTML('beforeend', '<p class="dtooltiptext">5% discount on reservations.</p>');
+                        } else {
+                            buttonEl.insertAdjacentHTML('beforeend', '<p class="dtooltiptext">5% korting op reservaties.</p>');
+                        }
                     }
                 }
             }
