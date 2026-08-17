@@ -1,4 +1,4 @@
-const version = 'v7.54';
+const version = 'v7.55';
 let currentLanguage;
 
 const txtNl1 = '<div class="dtooltip"><p class="hover question">Kortingscoupon</p><p class="dtooltiptext">Afhankelijk van de gekozen betaling en levering, kunt u een kortingscoupon krijgen die te gebruiken is bij een volgende bestelling. Voor dit bier ziet u de bedragen in deze tabel</p></div><table class="discount-table"><thead><tr class="first_header"><th></th><th colspan="2">Manier van levering</th></tr><tr><th>Manier van betaling</th><th>Afhaling</th><th>Levering</th></tr></thead><tbody><tr><td class="header">Betalen bij afhaling</td><td>€ ';
@@ -185,7 +185,7 @@ function processStock() {
     }
 }
 
-function processAttributes(status) {
+function processAttributes() {
     log('processAttributes');
     let preOrderTxt = "";
     let lng = "";
@@ -198,6 +198,7 @@ function processAttributes(status) {
     }
     let isPreOrder = false;
     let isVerwacht = false;
+    let verwachtTxt = '';
     document.querySelectorAll('span.details-product-attribute__title').forEach(function (p) {
         if (p.textContent.startsWith('hide_')) {
             p.parentElement.style.display = 'none';
@@ -216,6 +217,12 @@ function processAttributes(status) {
         } else {
             const attribute = p.textContent.trim();
             if (attribute === 'Verwacht:' || attribute === 'Expected:') {
+                verwachtTxt = attribute + ' ' + p.parentElement.childNodes[1]?.textContent?.trim();
+                if (attribute === 'Verwacht:') {
+                    verwachtTxt = verwachtTxt + "<p class='reserve'><a href='https://hopincraftbier.be/procedures/#tile-image-text-KoG9dn' target='_blank'>Meer info over reservaties.</a></p>";
+                } else {
+                    verwachtTxt = verwachtTxt + "<p class='reserve'><a href='https://hopincraftbier.be/en/procedures/#tile-image-text-KoG9dn' target='_blank'>More info on reservations.</a></p>";
+                }
                 isVerwacht = true;
             } else
             if (attribute === 'Brouwerij:' || attribute === 'Brewery:' ||
@@ -317,6 +324,12 @@ function processAttributes(status) {
         if ((isPreOrder || isVerwacht) && buttonTxtEl.textContent !== btnTxt) {
             buttonTxtEl.innerHTML = btnTxt;
             if (!isPreOrder && isVerwacht) {
+                let titleEl = document.querySelector('div.product-details-module__title');
+                let newElement = document.createElement('dum');
+                newElement.innerHTML = verwachtTxt;
+                if (titleEl && titleEl.textContent !== newElement.textContent) {
+                    titleEl.innerHTML = verwachtTxt;
+                }
                 const taxEl = document.querySelector('div.product-details__product-price-taxes');
                 if (taxEl) {
                     taxEl.style.display = 'none';
@@ -472,23 +485,6 @@ function processExpectedLabels() {
     if (document.querySelector('.ecwid-productBrowser')) {
         log('processExpectedLabels');
         let verwachtTxt = '';
-        document.querySelectorAll('div.product-details__product-attributes div.details-product-attribute span.details-product-attribute__title').forEach(
-            function (item) {
-                if (item.textContent.trim() === 'Verwacht:' || item.textContent.trim() === 'Expected:') {
-                    verwachtTxt = item.textContent.trim() + ' ' + item.parentElement.childNodes[1]?.textContent?.trim();
-                    if (item.textContent.trim() === 'Verwacht:') {
-                        verwachtTxt = verwachtTxt + "<p class='reserve'><a href='https://hopincraftbier.be/procedures/#tile-image-text-KoG9dn' target='_blank'>Meer info over reservaties.</a></p>";
-                    } else {
-                        verwachtTxt = verwachtTxt + "<p class='reserve'><a href='https://hopincraftbier.be/en/procedures/#tile-image-text-KoG9dn' target='_blank'>More info on reservations.</a></p>";
-                    }
-                    let titleEl = document.querySelector('div.product-details-module__title');
-                    let newElement = document.createElement('dum');
-                    newElement.innerHTML = verwachtTxt;
-                    if (titleEl && titleEl.textContent !== newElement.textContent) {
-                        titleEl.innerHTML = verwachtTxt;
-                    }
-                }
-            });
         document.querySelectorAll('div.grid-product__wrap-inner').forEach(function (p) {
             const lint = p.querySelector('div.label__text')?.textContent;
             if (lint === 'Sold out' || lint === 'Uitverkocht' || lint === 'Out of stock') return;
@@ -778,7 +774,7 @@ function processProductPage(toScroll) {
         addCouponInfo(toScroll);
         const status = soonLabel();
         processProductTitle();
-        processAttributes(status);
+        processAttributes();
         processLeeggoed();
     }
 }
