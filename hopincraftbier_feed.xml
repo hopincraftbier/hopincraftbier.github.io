@@ -5,6 +5,104 @@
   <link>https://hopincraftbier.be/products&lt;/link&gt;</link>
   <description>Hop In Craftbier Products feed</description>
   <item>
+    <id>6757124</id>
+    <ecommerce_id>857217254</ecommerce_id>
+    <title>We Hebben Op Wat Knopjes Geduwd (collab SE10)</title>
+    <url>https://hopincraftbier.be/products/dok-brewing-companu-we-hebben-op-wat-knopjes-geduwd</url>
+    <brewery_name>Dok Brewing Companу</brewery_name>
+    <price>3.91</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/857217254/6128809238.png</image>
+    <beer_description>7.1% Double IPA (Magnum, Cascade &amp; Amarillo) - This collaboration with SE10 from Hoboken resulted in a modern 7% Double West Coast IPA brewed with New Zealand Cascade and Amarillo hops. NZ Cascade (or Taiheke) was virtually impossible to obtain in Europe, but we pulled a few strings to get our hands on the hops. Despite being a modern IPA (slightly cloudy, no caramel malts, and newer hop varieties than what we used to have), it still has a very old-school 'dank' nose! Thank you very much. Despite being a modern IPA (slightly cloudy, no caramel malts, and newer hop varieties than we used to have), it still has a very old-school 'dank' aroma! Thank you very much. Dok Brewing Compan - We Hebben Op Wat Knopjes Geduwd</beer_description>
+    <beer_style>IPA - Imperial / Double</beer_style>
+    <beer_abv>7.1%</beer_abv>
+    <beer_volume>330 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Belgium</brewery_country>
+    <untappd_id>6757124</untappd_id>
+  </item>
+  <item>
+    <id>6793624</id>
+    <ecommerce_id>857207754</ecommerce_id>
+    <title>Missing Peace :(</title>
+    <url>https://hopincraftbier.be/products/bereta-missing-peace</url>
+    <brewery_name>Bereta Brewing Co.</brewery_name>
+    <price>6.34</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/857207754/6128923276.png</image>
+    <beer_description>Heavily Hopped IPA with Nelson Sauvin &amp; Riwaka. Bereta Brewing Co. - Missing Peace :(</beer_description>
+    <beer_style>IPA - New England / Hazy</beer_style>
+    <beer_abv>6.1%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Romania</brewery_country>
+    <untappd_id>6793624</untappd_id>
+  </item>
+  <item>
+    <id>6793615</id>
+    <ecommerce_id>857207753</ecommerce_id>
+    <title>Farm Fraiche</title>
+    <url>https://hopincraftbier.be/products/bereta-farm-fraiche</url>
+    <brewery_name>Bereta Brewing Co.</brewery_name>
+    <price>6.79</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/857207753/6128923294.png</image>
+    <beer_description>Heavily Hopped Triple IPA with Citra, Krush &amp; Rakau. Bereta Brewing Co. - Farm Fraiche</beer_description>
+    <beer_style>IPA - Triple New England / Hazy</beer_style>
+    <beer_abv>9.7%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Romania</brewery_country>
+    <untappd_id>6793615</untappd_id>
+  </item>
+  <item>
+    <id>6745151</id>
+    <ecommerce_id>857213502</ecommerce_id>
+    <title>Done With Everything (collab Klere Boght)</title>
+    <url>https://hopincraftbier.be/products/bereta-done-with-everything</url>
+    <brewery_name>Bereta Brewing Co.</brewery_name>
+    <price>16.2</price>
+    <regular_price>16.20</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/857213502/6128868073.png</image>
+    <beer_description>Bourbon Barrel Aged Imperial Stout with Hazelnuts. Collaboration with Klere Boght. Bereta Brewing Co. - Done With Everything</beer_description>
+    <beer_style>Stout - Imperial / Double</beer_style>
+    <beer_abv>11.8%</beer_abv>
+    <beer_volume>375 ml</beer_volume>
+    <beer_package>bottle</beer_package>
+    <brewery_country>Romania</brewery_country>
+    <untappd_id>6745151</untappd_id>
+  </item>
+  <item>
+    <id>6745149</id>
+    <ecommerce_id>857217253</ecommerce_id>
+    <title>Chasm</title>
+    <url>https://hopincraftbier.be/products/bereta-chasm</url>
+    <brewery_name>Bereta Brewing Co.</brewery_name>
+    <price>16.2</price>
+    <regular_price>16.20</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/857217253/6128868103.png</image>
+    <beer_description>Bourbon Barrel Aged Imperial Stout. Bereta Brewing Co. - Chasm</beer_description>
+    <beer_style>Stout - Imperial / Double</beer_style>
+    <beer_abv>12.1%</beer_abv>
+    <beer_volume>375 ml</beer_volume>
+    <beer_package>bottle</beer_package>
+    <brewery_country>Romania</brewery_country>
+    <untappd_id>6745149</untappd_id>
+  </item>
+  <item>
+    <id>6745147</id>
+    <ecommerce_id>857217252</ecommerce_id>
+    <title>Brruhh!</title>
+    <url>https://hopincraftbier.be/products/bereta-brruhh</url>
+    <brewery_name>Bereta Brewing Co.</brewery_name>
+    <price>6.77</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/857217252/6128868151.png</image>
+    <beer_description>Heavily Hopped DIPA with Motueka, Mosaic &amp; Eclipse. Bereta Brewing Co. - Brruhh!</beer_description>
+    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
+    <beer_abv>7.7%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Romania</brewery_country>
+    <untappd_id>6745147</untappd_id>
+  </item>
+  <item>
     <id>6585168</id>
     <ecommerce_id>856462921</ecommerce_id>
     <title>Nary A Cloud</title>
@@ -8999,6 +9097,6 @@
     <brewery_country>Canada</brewery_country>
     <untappd_id>6197367</untappd_id>
   </item>
-  <timestamp>1786903208</timestamp>
-  <gen_date>16/08/2026 20:00:08</gen_date>
+  <timestamp>1787055038</timestamp>
+  <gen_date>18/08/2026 14:10:38</gen_date>
 </feed>
