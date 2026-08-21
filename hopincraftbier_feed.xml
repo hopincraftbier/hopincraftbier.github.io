@@ -37,72 +37,6 @@
     <untappd_id>6793624</untappd_id>
   </item>
   <item>
-    <id>6793615</id>
-    <ecommerce_id>857207753</ecommerce_id>
-    <title>Farm Fraiche</title>
-    <url>https://hopincraftbier.be/products/bereta-farm-fraiche</url>
-    <brewery_name>Bereta Brewing Co.</brewery_name>
-    <price>6.79</price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/857207753/6128923294.png</image>
-    <beer_description>Heavily Hopped Triple IPA with Citra, Krush &amp; Rakau. Bereta Brewing Co. - Farm Fraiche</beer_description>
-    <beer_style>IPA - Triple New England / Hazy</beer_style>
-    <beer_abv>9.7%</beer_abv>
-    <beer_volume>440 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Romania</brewery_country>
-    <untappd_id>6793615</untappd_id>
-  </item>
-  <item>
-    <id>6745151</id>
-    <ecommerce_id>857213502</ecommerce_id>
-    <title>Done With Everything (collab Klere Boght)</title>
-    <url>https://hopincraftbier.be/products/bereta-done-with-everything</url>
-    <brewery_name>Bereta Brewing Co.</brewery_name>
-    <price>16.2</price>
-    <regular_price>16.20</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/857213502/6128868073.png</image>
-    <beer_description>Bourbon Barrel Aged Imperial Stout with Hazelnuts. Collaboration with Klere Boght. Bereta Brewing Co. - Done With Everything</beer_description>
-    <beer_style>Stout - Imperial / Double</beer_style>
-    <beer_abv>11.8%</beer_abv>
-    <beer_volume>375 ml</beer_volume>
-    <beer_package>bottle</beer_package>
-    <brewery_country>Romania</brewery_country>
-    <untappd_id>6745151</untappd_id>
-  </item>
-  <item>
-    <id>6745149</id>
-    <ecommerce_id>857217253</ecommerce_id>
-    <title>Chasm</title>
-    <url>https://hopincraftbier.be/products/bereta-chasm</url>
-    <brewery_name>Bereta Brewing Co.</brewery_name>
-    <price>16.2</price>
-    <regular_price>16.20</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/857217253/6128868103.png</image>
-    <beer_description>Bourbon Barrel Aged Imperial Stout. Bereta Brewing Co. - Chasm</beer_description>
-    <beer_style>Stout - Imperial / Double</beer_style>
-    <beer_abv>12.1%</beer_abv>
-    <beer_volume>375 ml</beer_volume>
-    <beer_package>bottle</beer_package>
-    <brewery_country>Romania</brewery_country>
-    <untappd_id>6745149</untappd_id>
-  </item>
-  <item>
-    <id>6745147</id>
-    <ecommerce_id>857217252</ecommerce_id>
-    <title>Brruhh!</title>
-    <url>https://hopincraftbier.be/products/bereta-brruhh</url>
-    <brewery_name>Bereta Brewing Co.</brewery_name>
-    <price>6.77</price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/857217252/6128868151.png</image>
-    <beer_description>Heavily Hopped DIPA with Motueka, Mosaic &amp; Eclipse. Bereta Brewing Co. - Brruhh!</beer_description>
-    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
-    <beer_abv>7.7%</beer_abv>
-    <beer_volume>440 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Romania</brewery_country>
-    <untappd_id>6745147</untappd_id>
-  </item>
-  <item>
     <id>6585168</id>
     <ecommerce_id>856462921</ecommerce_id>
     <title>Nary A Cloud</title>
@@ -1758,42 +1692,6 @@
     <beer_package_count>3</beer_package_count>
     <beer_bundle>1</beer_bundle>
     <bundle_skus>6689037,5721027,6655592</bundle_skus>
-  </item>
-  <item>
-    <id>6650380</id>
-    <ecommerce_id>837860495</ecommerce_id>
-    <title>Overturn</title>
-    <url>https://hopincraftbier.be/products/track-overturn</url>
-    <brewery_name>Track Brewing Company</brewery_name>
-    <price>9.31</price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/837860495/5787587391.png</image>
-    <beer_description>Collapse into the comforting embrace of this Gold Top DIPA. Citra, Motueka, Eggers Special and Galaxy are the conductors of the orchestra of indulgence, which sings in a symphony of luxurious flavour. Sharp and zippy pomelo spritz meets pineapple tepache and ice cold limoncello, sliding into passionfruit liqueur and slithers of dried mango, before slice after slice of key lime pie and peach crumble. Lactose blankets the palate with satin smoothness and ramps up the decadence even further. Track Brewing Company - Overturn</beer_description>
-    <beer_style>IPA - Imperial / Double Milkshake</beer_style>
-    <beer_abv>8.4%</beer_abv>
-    <beer_volume>440 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>England</brewery_country>
-    <date_best_before>2026-09-09</date_best_before>
-    <date_canned>2026-03-25</date_canned>
-    <untappd_id>6650380</untappd_id>
-  </item>
-  <item>
-    <id>6663314</id>
-    <ecommerce_id>837867549</ecommerce_id>
-    <title>Abundance</title>
-    <url>https://hopincraftbier.be/products/track-abundance</url>
-    <brewery_name>Track Brewing Company</brewery_name>
-    <price>9.31</price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/837867549/5787587403.png</image>
-    <beer_description>Try all you might against the ineluctable allure of this Gold Top DIPA. Citra, Nectaron, Luminosa and Riwaka weave a tapestry of temptation, embroidered with hop extravagance and the style's signature unctuousness. A tropical punch of papaya, pineapple, passionfruit, mango and guava is followed by some welcome acidity from grapefruit, kumquat and tangy peach fizz. Lactose elevates the sweetness, decorates your palate with creaminess and smoothes out all the edges. Track Brewing Company - Abundance</beer_description>
-    <beer_style>IPA - Imperial / Double Milkshake</beer_style>
-    <beer_abv>8.4%</beer_abv>
-    <beer_volume>440 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>England</brewery_country>
-    <date_best_before>2026-09-14</date_best_before>
-    <date_canned>2026-03-30</date_canned>
-    <untappd_id>6663314</untappd_id>
   </item>
   <item>
     <id>6619576</id>
@@ -8878,6 +8776,6 @@
     <brewery_country>Canada</brewery_country>
     <untappd_id>6197367</untappd_id>
   </item>
-  <timestamp>1787256908</timestamp>
-  <gen_date>20/08/2026 22:15:08</gen_date>
+  <timestamp>1787292653</timestamp>
+  <gen_date>21/08/2026 08:10:53</gen_date>
 </feed>
