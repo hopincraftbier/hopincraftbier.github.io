@@ -1018,9 +1018,9 @@
     <untappd_id>6746457</untappd_id>
   </item>
   <item>
-    <id>4477069</id>
+    <id>4079581</id>
     <ecommerce_id>841341858</ecommerce_id>
-    <title>Bahama Bliss OVERLOAD</title>
+    <title>Bahama Bliss</title>
     <url>https://hopincraftbier.be/products/transcend-beer-crafters-bahama-bliss</url>
     <brewery_name>Transcend Beer Crafters</brewery_name>
     <price>12.34</price>
@@ -1031,7 +1031,7 @@
     <beer_volume>473 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>United States</brewery_country>
-    <untappd_id>4477069</untappd_id>
+    <untappd_id>4079581</untappd_id>
   </item>
   <item>
     <id>6013412</id>
@@ -8878,6 +8878,6 @@
     <brewery_country>Canada</brewery_country>
     <untappd_id>6197367</untappd_id>
   </item>
-  <timestamp>1787308210</timestamp>
-  <gen_date>21/08/2026 12:30:10</gen_date>
+  <timestamp>1787315407</timestamp>
+  <gen_date>21/08/2026 14:30:07</gen_date>
 </feed>
