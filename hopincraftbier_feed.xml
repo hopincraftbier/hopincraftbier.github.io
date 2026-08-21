@@ -1025,7 +1025,7 @@
     <brewery_name>Transcend Beer Crafters</brewery_name>
     <price>12.34</price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/841341858/5816892507.png</image>
-    <beer_description>Fruited AF (absurdly fruited) Smoothie Style Sour Ale brewed with Orange, Pineapple, Strawberry, Banana, and Coconut. The OVERLOAD series contain the most heavily fruited beers we make! 5% ALC/VOL *contains lactose* Transcend Beer Crafters - Bahama Bliss OVERLOAD</beer_description>
+    <beer_description>Orange, Pineapple, Banana, Strawberry, and Coconut! Bahama Bliss is a heavily fruited smoothie style sour. Brewed with vanilla and milk sugar in our gluten free sour base, it's the perfect balance of both tart and sweet. Transcend Beer Crafters - Bahama Bliss</beer_description>
     <beer_style>Sour - Smoothie / Pastry</beer_style>
     <beer_abv>5%</beer_abv>
     <beer_volume>473 ml</beer_volume>
@@ -8878,6 +8878,6 @@
     <brewery_country>Canada</brewery_country>
     <untappd_id>6197367</untappd_id>
   </item>
-  <timestamp>1787315407</timestamp>
-  <gen_date>21/08/2026 14:30:07</gen_date>
+  <timestamp>1787316307</timestamp>
+  <gen_date>21/08/2026 14:45:07</gen_date>
 </feed>
