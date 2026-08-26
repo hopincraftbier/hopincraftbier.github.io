@@ -1,4 +1,4 @@
-const version = 'v7.55';
+const version = 'v7.56';
 let currentLanguage;
 
 const txtNl1 = '<div class="dtooltip"><p class="hover question">Kortingscoupon</p><p class="dtooltiptext">Afhankelijk van de gekozen betaling en levering, kunt u een kortingscoupon krijgen die te gebruiken is bij een volgende bestelling. Voor dit bier ziet u de bedragen in deze tabel</p></div><table class="discount-table"><thead><tr class="first_header"><th></th><th colspan="2">Manier van levering</th></tr><tr><th>Manier van betaling</th><th>Afhaling</th><th>Levering</th></tr></thead><tbody><tr><td class="header">Betalen bij afhaling</td><td>€ ';
@@ -154,7 +154,7 @@ function processStock() {
             txt = txt.substring(0, txt.indexOf('(')).trim();
         }
         if (!mod) {
-            x.style.display = 'none';
+            x.setAttribute('style', 'display: none !important');
             element.insertAdjacentHTML('beforeend', '<span class="mod">' + txt + '</span>');
             mod = document.querySelector('.details-product-purchase__place span.mod');
         }
@@ -181,7 +181,7 @@ function processStock() {
     }
     const qtyEl = document.querySelector('span.details-product-purchase__in-stock-qty');
     if (qtyEl && qtyEl.style.display !== 'none') {
-        qtyEl.style.display = 'none';
+        qtyEl.setAttribute('style', 'display: none !important');
     }
 }
 
@@ -201,7 +201,7 @@ function processAttributes() {
     let verwachtTxt = '';
     document.querySelectorAll('span.details-product-attribute__title').forEach(function (p) {
         if (p.textContent.startsWith('hide_')) {
-            p.parentElement.style.display = 'none';
+            p.parentElement.setAttribute('style', 'display: none !important');
             if (p.textContent.trim() === 'hide_preorder:') {
                 let d = p.parentElement.childNodes[1]?.textContent;
                 if (d !== 'Uitverkocht' && d !== 'Sold out' && d !== 'Out of stock') {
@@ -332,7 +332,7 @@ function processAttributes() {
                 }
                 const taxEl = document.querySelector('div.product-details__product-price-taxes');
                 if (taxEl) {
-                    taxEl.style.display = 'none';
+                    taxEl.setAttribute('style', 'display: none !important');
                 }
                 let buttonEl = document.querySelector('div.form-control--primary button.form-control__button.dtooltip');
                 if (!buttonEl) {
@@ -374,7 +374,7 @@ function processProductTitle() {
         let titleElement2 = document.querySelector('.product-details__product-hop-title p.title');
         let txt = titleElement.textContent;
         if (!breweryElement) {
-            titleElement.style.display = 'none';
+            titleElement.setAttribute('style', 'display: none !important');
             titleElement.parentElement.insertAdjacentHTML('afterbegin', '<div class="product-details__product-hop-title"><p class="brewery"></p><p class="title"></p></div>');
             breweryElement = document.querySelector('.product-details__product-hop-title p.brewery');
             titleElement2 = document.querySelector('.product-details__product-hop-title p.title');
@@ -416,11 +416,11 @@ function processExpectedPrice() {
                 hopPriceElement = document.querySelector('div.product-details__product-price span.details-product-hop__price__value');
             }
             if (priceElement.style.display !== 'none') {
-                priceElement.style.display = 'none'
+                priceElement.setAttribute('style', 'display: none !important');
             }
             if (hopPriceElement) {
                 if (hopPriceElement.style.display !== 'inline') {
-                    hopPriceElement.style.display = 'inline';
+                    hopPriceElement.setAttribute('style', 'display: inline !important');
                 }
                 if (hopPriceElement.textContent !== price) {
                     hopPriceElement.innerHTML = price;
@@ -428,10 +428,10 @@ function processExpectedPrice() {
             }
         } else {
             if (priceElement.style.display !== 'inline') {
-                priceElement.style.display = 'inline'
+                priceElement.setAttribute('style', 'display: inline !important');
             }
             if (hopPriceElement && hopPriceElement.style.display !== 'none') {
-                hopPriceElement.style.display = 'none';
+                hopPriceElement.setAttribute('style', 'display: none !important');
             }
         }
     }
@@ -496,13 +496,13 @@ function processExpectedLabels() {
                 || buyNowEl?.textContent === 'Reserve') {
                 if (buyNowEl?.textContent !== 'Reserveer' && buyNowEl?.textContent !== 'Reserve') {
                     if (buyNowEl.style.display !== 'none') {
-                        buyNowEl.style.display = 'none';
+                        buyNowEl.setAttribute('style', 'display: none !important');
                     }
                 }
                 if (document.querySelector('h1.page-title__name.ec-header-h1')?.textContent?.trim() !== 'Pre-order') {
                     let priceEl = p.querySelector('div.grid-product__price');
                     if (priceEl && priceEl.style.display !== 'none') {
-                        priceEl.style.display = 'none';
+                        priceEl.setAttribute('style', 'display: none !important');
                     }
                 }
             }
@@ -554,16 +554,16 @@ function addCouponInfo(toScroll) {
                 window.scrollTo({top: 0, behavior: 'smooth'});
             }
             if (dc.style.display !== 'block') {
-                dc.style.display = 'block';
+                dc.setAttribute('style', 'display: block !important');
             }
         } else {
             if (dc.style.display !== 'none') {
-                dc.style.display = 'none';
+                dc.setAttribute('style', 'display: none !important');
             }
         }
     } else {
         if (dc.style.display !== 'none') {
-            dc.style.display = 'none';
+            dc.setAttribute('style', 'display: none !important');
         }
     }
 }
@@ -616,15 +616,13 @@ function showMaxPrice(element, resp) {
         })
         const priceValueElement = element.querySelector('div.grid-product__price-value');
         if (priceValueElement && priceValueElement.textContent !== maxPrice) {
-            priceValueElement.style.display = 'block';
-            priceValueElement.style.fontSize = '12px';
-            priceValueElement.style.color = '#888';
+            priceValueElement.setAttribute('style', 'display: block !important;color: #888 !important; font-size: 12px !important;');
             priceValueElement.textContent = maxPrice;
             const priceElement = element.querySelector('div.grid-product__price');
             if (priceElement) {
                 const clonedPriceElement = priceElement.cloneNode(true);
                 priceElement.after(clonedPriceElement);
-                clonedPriceElement.style.display = 'flex';
+                clonedPriceElement.setAttribute('style', 'display: flex !important');
             }
         }
     }
@@ -647,13 +645,13 @@ function translateCheckoutNotice() {
     if ('EN' === getCustomerLng()) {
         document.querySelectorAll('.adb_nl').forEach(function (p) {
             if (p.style.display !== 'none') {
-                p.style.display = 'none';
+                p.setAttribute('style', 'display: none !important');
             }
         });
     } else {
         document.querySelectorAll('.adb_en').forEach(function (p) {
             if (p.style.display !== 'none') {
-                p.style.display = 'none';
+                p.setAttribute('style', 'display: none !important');
             }
         });
     }
@@ -730,25 +728,25 @@ function translateDeliveryInfoTable() {
     if ('EN' === getCustomerLng()) {
         document.querySelectorAll('div.del_info_table span.en').forEach(function (p) {
             if (p.style.display !== 'inline') {
-                p.style.display = 'inline';
-                p.parentElement.querySelector('span.nl').style.display = 'none';
+                p.setAttribute('style', 'display: inline !important');
+                p.parentElement.querySelector('span.nl').setAttribute('style', 'display: none !important');
             }
         });
         if (countrySelectorNl) {
-            countrySelectorNl.style.display = 'none';
+            countrySelectorNl.setAttribute('style', 'display: none !important');
         }
         if (countrySelectorEn) {
-            countrySelectorEn.style.display = 'inline-block';
+            countrySelectorEn.setAttribute('style', 'display: inline-block !important');
             countrySelectorEn.onchange = function(){
                 filterCountry(this.value);
             };
         }
     } else {
         if (countrySelectorEn) {
-            countrySelectorEn.style.display = 'none';
+            countrySelectorEn.setAttribute('style', 'display: none !important');
         }
         if (countrySelectorNl) {
-            countrySelectorNl.style.display = 'inline-block';
+            countrySelectorNl.setAttribute('style', 'display: inline-block !important');
             countrySelectorNl.onchange = function(){
                 filterCountry(this.value);
             };
@@ -772,7 +770,7 @@ function getCustomerLng() {
 function processProductPage(toScroll) {
     if (document.querySelector('.ecwid-productBrowser-ProductPage')) {
         addCouponInfo(toScroll);
-        const status = soonLabel();
+        soonLabel();
         processProductTitle();
         processAttributes();
         processLeeggoed();
@@ -847,7 +845,7 @@ function removeCountries() {
                 optionElement.value.length <= 3 &&
                 countries.indexOf(optionElement.value) < 0) {
                 optionElement.setAttribute('disabled', true);
-                optionElement.style.display = 'none';
+                optionElement.setAttribute('style', 'display: none !important');
             }
         }
     }
@@ -1015,9 +1013,7 @@ function setServicePointWarning(cls, txt, lng) {
         }
         log('x ' + x);
         pEl = document.createElement('p');
-        pEl.style.marginBottom = '0';
-        pEl.style.fontSize = '14px';
-        pEl.style.display = 'inline-flex';
+        pEl.setAttribute('style', 'display: inline-flex !important; font-size: 14px !important; margin-bottom: 0 !important;');
         log('classList' + x.classList);
         if (x.classList.contains('ec-radiogroup__item--checked')) {
             pEl.style.color = '#eb5454';
@@ -1034,48 +1030,48 @@ function setServicePointWarning(cls, txt, lng) {
 function filterCountry(value) {
     countries.forEach(function(it) {
         let c = "tbody:has(span.fi-"+it.toLowerCase()+")";
-        document.querySelector(c).style.display = 'table-row-group';
+        document.querySelector(c).setAttribute('style', 'display: table-row-group !important');
     });
-    document.querySelector("div.del_info_table.belned").style.display = 'block';
-    document.querySelector("#tile-custom-code-kkLSia").style.display = 'block';
-    document.querySelector("div.del_info_table.other1").style.display = 'block';
-    document.querySelector("div.del_info_table.other2").style.display = 'block';
-    document.querySelector("div.del_info_table.other3").style.display = 'block';
-    document.querySelector("div.del_info_table.other4").style.display = 'block';
-    document.querySelector("div.del_info_table.other5").style.display = 'block';
+    document.querySelector("div.del_info_table.belned").setAttribute('style', 'display: block !important');
+    document.querySelector("#tile-custom-code-kkLSia").setAttribute('style', 'display: block !important');
+    document.querySelector("div.del_info_table.other1").setAttribute('style', 'display: block !important');
+    document.querySelector("div.del_info_table.other2").setAttribute('style', 'display: block !important');
+    document.querySelector("div.del_info_table.other3").setAttribute('style', 'display: block !important');
+    document.querySelector("div.del_info_table.other4").setAttribute('style', 'display: block !important');
+    document.querySelector("div.del_info_table.other5").setAttribute('style', 'display: block !important');
     if (value === 'be' || value === 'nl') {
         if (value === 'be') {
             let c = "tbody:has(span.fi-nl)";
-            document.querySelector(c).style.display = 'none';
+            document.querySelector(c).setAttribute('style', 'display: none !important');
             c = "tbody:has(span.fi-be)";
-            document.querySelector(c).style.display = 'table-row-group';
+            document.querySelector(c).setAttribute('style', 'display: table-row-group !important');
         } else {
             let c = "tbody:has(span.fi-nl)";
-            document.querySelector(c).style.display = 'table-row-group';
+            document.querySelector(c).setAttribute('style', 'display: table-row-group !important');
             c = "tbody:has(span.fi-be)";
-            document.querySelector(c).style.display = 'none';
+            document.querySelector(c).setAttribute('style', 'display: none !important');
         }
-        document.querySelector("#tile-custom-code-kkLSia").style.display = 'none';
-        document.querySelector("div.del_info_table.other1").style.display = 'none';
-        document.querySelector("div.del_info_table.other2").style.display = 'none';
-        document.querySelector("div.del_info_table.other3").style.display = 'none';
-        document.querySelector("div.del_info_table.other4").style.display = 'none';
-        document.querySelector("div.del_info_table.other5").style.display = 'none';
+        document.querySelector("#tile-custom-code-kkLSia").setAttribute('style', 'display: none !important');
+        document.querySelector("div.del_info_table.other1").setAttribute('style', 'display: none !important');
+        document.querySelector("div.del_info_table.other2").setAttribute('style', 'display: none !important');
+        document.querySelector("div.del_info_table.other3").setAttribute('style', 'display: none !important');
+        document.querySelector("div.del_info_table.other4").setAttribute('style', 'display: none !important');
+        document.querySelector("div.del_info_table.other5").setAttribute('style', 'display: none !important');
     } else if (value !== '-1') {
         countries.forEach(function(it) {
             if (value.toLowerCase() !== it.toLowerCase()) {
                 let c = "tbody:has(span.fi-"+it.toLowerCase()+")";
-                document.querySelector(c).style.display = 'none';
+                document.querySelector(c).setAttribute('style', 'display: none !important');
             }
         });
 
-        document.querySelector("div.del_info_table.belned").style.display = 'none';
-        document.querySelector("#tile-custom-code-kkLSia").style.display = 'block';
-        document.querySelector("div.del_info_table.other1").style.display = 'block';
-        document.querySelector("div.del_info_table.other2").style.display = 'block';
-        document.querySelector("div.del_info_table.other3").style.display = 'block';
-        document.querySelector("div.del_info_table.other4").style.display = 'block';
-        document.querySelector("div.del_info_table.other5").style.display = 'block';
+        document.querySelector("div.del_info_table.belned").setAttribute('style', 'display: none !important');
+        document.querySelector("#tile-custom-code-kkLSia").setAttribute('style', 'display: block !important');
+        document.querySelector("div.del_info_table.other1").setAttribute('style', 'display: block !important');
+        document.querySelector("div.del_info_table.other2").setAttribute('style', 'display: block !important');
+        document.querySelector("div.del_info_table.other3").setAttribute('style', 'display: block !important');
+        document.querySelector("div.del_info_table.other4").setAttribute('style', 'display: block !important');
+        document.querySelector("div.del_info_table.other5").setAttribute('style', 'display: block !important');
     }
 }
 
