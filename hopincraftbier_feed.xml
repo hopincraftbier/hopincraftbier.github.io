@@ -5,6 +5,51 @@
   <link>https://hopincraftbier.be/products&lt;/link&gt;</link>
   <description>Hop In Craftbier Products feed</description>
   <item>
+    <id>6757383</id>
+    <ecommerce_id>861142751</ecommerce_id>
+    <title>X Anniversary</title>
+    <url>https://hopincraftbier.be/products/brasseria-della-fonte-x-anniversary</url>
+    <brewery_name>Brasseria Della Fonte</brewery_name>
+    <price>24.58</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/861142751/6207262924.png</image>
+    <beer_description>The blending of this mighty Barleywine was a bit more complex than usual, as we discarded several barrels that did not pair well with our first choice (an Imperial Stout aged in ex-Apple Brandy barrels). The final blend was achieved using an ex-Rye Whiskey barrel containing a barleywine brewed exclusively with Maris Otter, our Pilsner, Munich malt, and over 8 hours of boiling. With an average maturation of 16 months, the blend achieves a balance that neither beer could have reached on its own. The warm notes of whiskey and wood intertwine with the fruity and spicy nuances of the apple brandy, supporting a rich base of caramel, ripe fruit, cocoa, and toasted wood. Every element finds its place, while the alcohol content holds together a muscle-bound yet delicate structure. Brasseria Della Fonte - X Anniversary</beer_description>
+    <beer_style>Barleywine - English</beer_style>
+    <beer_abv>13.5%</beer_abv>
+    <beer_volume>500 ml</beer_volume>
+    <beer_package>bottle</beer_package>
+    <untappd_id>6757383</untappd_id>
+  </item>
+  <item>
+    <id>6625445</id>
+    <ecommerce_id>861126134</ecommerce_id>
+    <title>Double Vanilla Bean Wondernight</title>
+    <url>https://hopincraftbier.be/products/brasseria-della-fonte-double-vanilla-bean-wondernight</url>
+    <brewery_name>Brasseria Della Fonte</brewery_name>
+    <price>25.79</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/861126134/6207263159.png</image>
+    <beer_description>Double mash imperial stout brewed with honey. aged in bourbon barrels and finished with vanilla beans from madagascar and tanzania. Brasseria Della Fonte - Double Vanilla Bean Wondernight</beer_description>
+    <beer_style>Stout - Imperial / Double</beer_style>
+    <beer_abv>11.5%</beer_abv>
+    <beer_volume>500 ml</beer_volume>
+    <beer_package>bottle</beer_package>
+    <untappd_id>6625445</untappd_id>
+  </item>
+  <item>
+    <id>6812023</id>
+    <ecommerce_id>861126133</ecommerce_id>
+    <title>Black Rain</title>
+    <url>https://hopincraftbier.be/products/brasseria-della-fonte-black-rain</url>
+    <brewery_name>Brasseria Della Fonte</brewery_name>
+    <price>24.58</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/861126133/6207263683.png</image>
+    <beer_description>Barrel Aged Imperial stout brewed with dark maple syrup. Aged 37 months in Maple Bourbon Barrel and 23 months in Rye Whiskey cask, then conditioned on roasted coffee beans and raw cocoa. Our tribute to the only Prince of Darkness. OzzY Brasseria Della Fonte - Black Rain</beer_description>
+    <beer_style>Stout - Imperial / Double Coffee</beer_style>
+    <beer_abv>12.5%</beer_abv>
+    <beer_volume>500 ml</beer_volume>
+    <beer_package>bottle</beer_package>
+    <untappd_id>6812023</untappd_id>
+  </item>
+  <item>
     <id>6414860</id>
     <ecommerce_id>859521170</ecommerce_id>
     <title>Falak</title>
@@ -8898,6 +8943,6 @@
     <brewery_country>Canada</brewery_country>
     <untappd_id>6197367</untappd_id>
   </item>
-  <timestamp>1788258608</timestamp>
-  <gen_date>01/09/2026 12:30:08</gen_date>
+  <timestamp>1788261306</timestamp>
+  <gen_date>01/09/2026 13:15:06</gen_date>
 </feed>
