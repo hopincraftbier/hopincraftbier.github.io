@@ -5,6 +5,39 @@
   <link>https://hopincraftbier.be/products&lt;/link&gt;</link>
   <description>Hop In Craftbier Products feed</description>
   <item>
+    <id>6780348</id>
+    <ecommerce_id>861126135</ecommerce_id>
+    <title>Tatouage Sacré</title>
+    <url>https://hopincraftbier.be/products/fauve-tatouage-sacre</url>
+    <brewery_name>Fauve</brewery_name>
+    <price>6.7</price>
+    <regular_price>6.70</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/861126135/6207296841.png</image>
+    <beer_description>This NZ NEIPA DDH showcases two New Zealand farms. On the land side, Sunrise Valley Farm grows Rakau on its clay-loam soil in the Moutere Valley (plots 1, TS/TN, Waghorn A). On the coast, Waimea Plains Farm cultivates Nectaron on the Teapot plot. Harvested late, these oil-rich hops result in a very expressive profile, with notes of ripe tropical fruit. Fauve - Tatouage Sacre</beer_description>
+    <beer_style>IPA - New Zealand</beer_style>
+    <beer_abv>6.5%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>France</brewery_country>
+    <untappd_id>6780348</untappd_id>
+  </item>
+  <item>
+    <id>6780372</id>
+    <ecommerce_id>861129379</ecommerce_id>
+    <title>Le Cri Des Antipodes</title>
+    <url>https://hopincraftbier.be/products/fauve-le-cri-des-antipodes</url>
+    <brewery_name>Fauve</brewery_name>
+    <price>7.07</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/861129379/6207298878.png</image>
+    <beer_description>This NZ Double NEIPA DDH combines two different but complementary New Zealand terroirs. The Nelson Sauvin comes from Sunrise Valley Farm (plots 16, 22, 21 &amp; 9) in a mild maritime climate that lends a touch of freshness. The Manilita, on the other hand, is grown at Nelson Lakes Farm (plot A1 in the Tutaki Valley) on sandy loam soil. The combination is rich in oils and focused on exotic notes (mango, passion fruit). Fauve - Le Cri Des Antipodes</beer_description>
+    <beer_style>IPA - Imperial / Double</beer_style>
+    <beer_abv>8%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>France</brewery_country>
+    <untappd_id>6780372</untappd_id>
+  </item>
+  <item>
     <id>6757383</id>
     <ecommerce_id>861142751</ecommerce_id>
     <title>X Anniversary</title>
@@ -8943,6 +8976,6 @@
     <brewery_country>Canada</brewery_country>
     <untappd_id>6197367</untappd_id>
   </item>
-  <timestamp>1788261306</timestamp>
-  <gen_date>01/09/2026 13:15:06</gen_date>
+  <timestamp>1788261614</timestamp>
+  <gen_date>01/09/2026 13:20:14</gen_date>
 </feed>
