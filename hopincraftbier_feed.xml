@@ -5,24 +5,6 @@
   <link>https://hopincraftbier.be/products&lt;/link&gt;</link>
   <description>Hop In Craftbier Products feed</description>
   <item>
-    <id>6726422</id>
-    <ecommerce_id>861383756</ecommerce_id>
-    <title>Lax Juice</title>
-    <url>https://hopincraftbier.be/products/other-half-lax-juice</url>
-    <brewery_name>Other Half Brewing Co.</brewery_name>
-    <price>8.6</price>
-    <regular_price>8.60</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/861383756/6208690917.png</image>
-    <beer_description>A hazy Imperial IPA brewed with a hand-selected blend of hops giving notes of mango nectar, lychee, rose and lots of sweet grapefruit. Brewed with: Citra, Mosaic, Krush Cryo Other Half - Lax Juice</beer_description>
-    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
-    <beer_abv>8%</beer_abv>
-    <beer_volume>473 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>United States</brewery_country>
-    <date_canned>2026-05-26</date_canned>
-    <untappd_id>6726422</untappd_id>
-  </item>
-  <item>
     <id>6780348</id>
     <ecommerce_id>861126135</ecommerce_id>
     <title>Tatouage Sacré</title>
@@ -749,73 +731,6 @@
     <date_best_before>2027-06-09</date_best_before>
     <date_canned>2026-06-09</date_canned>
     <untappd_id>6752627</untappd_id>
-  </item>
-  <item>
-    <id>6689228</id>
-    <ecommerce_id>845715057</ecommerce_id>
-    <title>Raw Concrete (collab TEST)</title>
-    <url>https://hopincraftbier.be/products/other-half-raw-concrete</url>
-    <brewery_name>Other Half Brewing Co.</brewery_name>
-    <price>9.93</price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/845715057/5866786453.png</image>
-    <beer_description>An extra raw and hazy unfiltered Imperial IPA brewed with our BK friends at The Test with a hand selected-blend of hops giving notes of diesel passionfruit, gooseberry, and a blast of tropical citrus fruits. Brewed with: Riwaka, Nelson Sauvin, Ramosa, Southern Cross, Colombus Cryo Other Half Brewing Co. - Raw Concrete</beer_description>
-    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
-    <beer_abv>8%</beer_abv>
-    <beer_volume>473 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>United States</brewery_country>
-    <date_canned>2026-04-21</date_canned>
-    <untappd_id>6689228</untappd_id>
-  </item>
-  <item>
-    <id>6689234</id>
-    <ecommerce_id>845715056</ecommerce_id>
-    <title>I Left My Wallet In A Bed-Stuy Juice Bar (Part 2) (collab Burial)</title>
-    <url>https://hopincraftbier.be/products/other-half-i-left-my-wallet-in-a-bed-stuy-juice-bar-part-2</url>
-    <brewery_name>Other Half Brewing Co.</brewery_name>
-    <price>9.93</price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/845715056/5866786459.png</image>
-    <beer_description>A hazy Imperial IPA collaboration with our pals at Burial with a hand-selected blend of hops, plus a newbie, Ramosa, giving notes of dank stone fruit, lemon-lime and pineapple candy. Brewed with: Nectaron, Motueka, Ramosa, Nectaron Cryo Other Half Brewing Co. - I Left My Wallet In A Bed-Stuy Juice Bar (Part 2)</beer_description>
-    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
-    <beer_abv>8%</beer_abv>
-    <beer_volume>473 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>United States</brewery_country>
-    <untappd_id>6689234</untappd_id>
-  </item>
-  <item>
-    <id>6734782</id>
-    <ecommerce_id>845715806</ecommerce_id>
-    <title>Chicken Legs (collab Two Tides)</title>
-    <url>https://hopincraftbier.be/products/other-half-chicken-legs</url>
-    <brewery_name>Other Half Brewing Co.</brewery_name>
-    <price>9.96</price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/845715806/5866808554.png</image>
-    <beer_description>A hazy Imperial IPA brewed with our pals at Two Tides Brewing containing a heaping helping of some dank and fruity hops giving notes of orange, tropical juice blend, dry white grape and some dankness. Brewed with: Citra, Galaxy, Nelson Sauvin, Columbus Cryo Other Half Brewing Co. - Chicken Legs</beer_description>
-    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
-    <beer_abv>8.5%</beer_abv>
-    <beer_volume>473 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>United States</brewery_country>
-    <date_canned>2026-05-28</date_canned>
-    <untappd_id>6734782</untappd_id>
-  </item>
-  <item>
-    <id>6716351</id>
-    <ecommerce_id>845715805</ecommerce_id>
-    <title>All Dank Everything (collab Cellarmaker)</title>
-    <url>https://hopincraftbier.be/products/other-half-all-dank-everything</url>
-    <brewery_name>Other Half Brewing Co.</brewery_name>
-    <price>9.96</price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/845715805/5866786465.png</image>
-    <beer_description>A hazy Imperial IPA brewed originally a decade ago with our pals at Cellarmaker. We used a hand-selected blend of hops giving notes of floral grapefruit, orange zest, lime soda, bright white grapes and just enough IPA dankness. Brewed with: Nelson Sauvin, Motueka, Citra, Centennial Other Half Brewing Co. - All Dank Everything</beer_description>
-    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
-    <beer_abv>8.3%</beer_abv>
-    <beer_volume>473 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>United States</brewery_country>
-    <date_canned>2026-05-18</date_canned>
-    <untappd_id>6716351</untappd_id>
   </item>
   <item>
     <id>6733732</id>
@@ -8902,6 +8817,6 @@
     <brewery_country>Canada</brewery_country>
     <untappd_id>6197367</untappd_id>
   </item>
-  <timestamp>1788433206</timestamp>
-  <gen_date>03/09/2026 13:00:06</gen_date>
+  <timestamp>1788434050</timestamp>
+  <gen_date>03/09/2026 13:14:10</gen_date>
 </feed>
