@@ -1173,7 +1173,7 @@
     <untappd_id>4079581</untappd_id>
   </item>
   <item>
-    <id>6013412</id>
+    <id>6755355</id>
     <ecommerce_id>841341727</ecommerce_id>
     <title>Tetra Burst (collab Third Moon)</title>
     <url>https://hopincraftbier.be/products/fine-balance-tetra-burst</url>
@@ -1188,7 +1188,7 @@
     <beer_package>can</beer_package>
     <brewery_country>Canada</brewery_country>
     <date_canned>06/2026</date_canned>
-    <untappd_id>6013412</untappd_id>
+    <untappd_id>6755355</untappd_id>
   </item>
   <item>
     <id>5313378</id>
@@ -1872,7 +1872,7 @@
     <untappd_id>6787519</untappd_id>
   </item>
   <item>
-    <id>6785211</id>
+    <id>6787642</id>
     <ecommerce_id>838634915</ecommerce_id>
     <title>Eight Party Hats</title>
     <url>https://hopincraftbier.be/products/wax-wings-8-party-hats-8th-anniversary</url>
@@ -1887,7 +1887,7 @@
     <beer_package>can</beer_package>
     <brewery_country>United States</brewery_country>
     <date_canned>2026-06-30</date_canned>
-    <untappd_id>6785211</untappd_id>
+    <untappd_id>6787642</untappd_id>
   </item>
   <item>
     <id>6787647</id>
@@ -8868,6 +8868,6 @@
     <brewery_country>Canada</brewery_country>
     <untappd_id>6197367</untappd_id>
   </item>
-  <timestamp>1788697807</timestamp>
-  <gen_date>06/09/2026 14:30:07</gen_date>
+  <timestamp>1788698707</timestamp>
+  <gen_date>06/09/2026 14:45:07</gen_date>
 </feed>
