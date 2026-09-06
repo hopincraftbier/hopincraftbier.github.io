@@ -1803,7 +1803,7 @@
     <untappd_id>6756725</untappd_id>
   </item>
   <item>
-    <id>6729386</id>
+    <id>6776487</id>
     <ecommerce_id>838634155</ecommerce_id>
     <title>Temporalis 0061</title>
     <url>https://hopincraftbier.be/products/messorem-temporalis-0061</url>
@@ -1818,10 +1818,10 @@
     <brewery_country>Canada</brewery_country>
     <date_best_before>2027-07-01</date_best_before>
     <date_canned>2026-07-01</date_canned>
-    <untappd_id>6729386</untappd_id>
+    <untappd_id>6776487</untappd_id>
   </item>
   <item>
-    <id>6729385</id>
+    <id>6775287</id>
     <ecommerce_id>838640681</ecommerce_id>
     <title>Temporalis 0060</title>
     <url>https://hopincraftbier.be/products/messorem-temporalis-0060</url>
@@ -1836,7 +1836,7 @@
     <brewery_country>Canada</brewery_country>
     <date_best_before>2027-06-30</date_best_before>
     <date_canned>2026-06-30</date_canned>
-    <untappd_id>6729385</untappd_id>
+    <untappd_id>6775287</untappd_id>
   </item>
   <item>
     <id>6764793</id>
@@ -1855,7 +1855,7 @@
     <untappd_id>6764793</untappd_id>
   </item>
   <item>
-    <id>6785204</id>
+    <id>6787519</id>
     <ecommerce_id>838634922</ecommerce_id>
     <title>Eight Streamers</title>
     <url>https://hopincraftbier.be/products/wax-wings-8-streamers-8th-anniversary</url>
@@ -1869,7 +1869,7 @@
     <beer_package>can</beer_package>
     <brewery_country>United States</brewery_country>
     <date_canned>2026-06-28</date_canned>
-    <untappd_id>6785204</untappd_id>
+    <untappd_id>6787519</untappd_id>
   </item>
   <item>
     <id>6785211</id>
@@ -1890,7 +1890,7 @@
     <untappd_id>6785211</untappd_id>
   </item>
   <item>
-    <id>6785215</id>
+    <id>6787647</id>
     <ecommerce_id>838634914</ecommerce_id>
     <title>Eight Candles</title>
     <url>https://hopincraftbier.be/products/wax-wings-eight-candles</url>
@@ -1904,7 +1904,7 @@
     <beer_package>can</beer_package>
     <brewery_country>United States</brewery_country>
     <date_canned>2026-07-05</date_canned>
-    <untappd_id>6785215</untappd_id>
+    <untappd_id>6787647</untappd_id>
   </item>
   <item>
     <id>9000000035</id>
@@ -8868,6 +8868,6 @@
     <brewery_country>Canada</brewery_country>
     <untappd_id>6197367</untappd_id>
   </item>
-  <timestamp>1788696907</timestamp>
-  <gen_date>06/09/2026 14:15:07</gen_date>
+  <timestamp>1788697807</timestamp>
+  <gen_date>06/09/2026 14:30:07</gen_date>
 </feed>
