@@ -5276,7 +5276,7 @@
     <beer_package>can</beer_package>
     <brewery_country>United States</brewery_country>
     <date_canned>2026-03-10</date_canned>
-    <untappd_id>1966328</untappd_id>
+    <untappd_id>6735210</untappd_id>
   </item>
   <item>
     <id>6448224</id>
@@ -8868,6 +8868,6 @@
     <brewery_country>Canada</brewery_country>
     <untappd_id>6197367</untappd_id>
   </item>
-  <timestamp>1788696006</timestamp>
-  <gen_date>06/09/2026 14:00:06</gen_date>
+  <timestamp>1788696907</timestamp>
+  <gen_date>06/09/2026 14:15:07</gen_date>
 </feed>
