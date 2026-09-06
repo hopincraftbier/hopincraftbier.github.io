@@ -5426,7 +5426,7 @@
     <beer_volume>473 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>Canada</brewery_country>
-    <untappd_id>6198737</untappd_id>
+    <untappd_id>6622606</untappd_id>
   </item>
   <item>
     <id>5143531</id>
@@ -8868,6 +8868,6 @@
     <brewery_country>Canada</brewery_country>
     <untappd_id>6197367</untappd_id>
   </item>
-  <timestamp>1788525006</timestamp>
-  <gen_date>04/09/2026 14:30:06</gen_date>
+  <timestamp>1788696006</timestamp>
+  <gen_date>06/09/2026 14:00:06</gen_date>
 </feed>
