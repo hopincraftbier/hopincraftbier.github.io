@@ -2643,24 +2643,6 @@
     <untappd_id>6690598</untappd_id>
   </item>
   <item>
-    <id>6672851</id>
-    <ecommerce_id>833479645</ecommerce_id>
-    <title>Hop Massacre (collab Barrel Theory)</title>
-    <url>https://hopincraftbier.be/products/seven-island-hop-massacre</url>
-    <brewery_name>Seven Island Brewery</brewery_name>
-    <price>5.53</price>
-    <regular_price>6.51</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/833479645/5745731004.png</image>
-    <beer_description>Triple Hazy IPA with Citra ,Hbc630 and Cryo pop ,collab with barrel theory Seven Island Brewery - Hop Massacre</beer_description>
-    <beer_style>IPA - Triple New England / Hazy</beer_style>
-    <beer_abv>9.2%</beer_abv>
-    <beer_volume>440 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Greece</brewery_country>
-    <date_best_before>2027-06-28</date_best_before>
-    <untappd_id>6672851</untappd_id>
-  </item>
-  <item>
     <id>6672861</id>
     <ecommerce_id>833479643</ecommerce_id>
     <title>Dimensional Hop Rage (collab Dimensional)</title>
@@ -3492,25 +3474,6 @@
     <date_best_before>2027-01-27</date_best_before>
     <date_canned>2026-04-27</date_canned>
     <untappd_id>6655572</untappd_id>
-  </item>
-  <item>
-    <id>6655575</id>
-    <ecommerce_id>829911371</ecommerce_id>
-    <title>Soul Destroyer (collab Messorem)</title>
-    <url>https://hopincraftbier.be/products/hoppy-people-soul-destroyer</url>
-    <brewery_name>Hoppy People</brewery_name>
-    <price>6.32</price>
-    <regular_price>7.43</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/829911371/5712077237.png</image>
-    <beer_description>This beer was brewed in collaboration with Messorem and dry hopped with Galaxy, Eclipse, Citra, Mosaic and Riwaka. Canned on the 27th of April 2026. Hoppy People - Soul Destroyer</beer_description>
-    <beer_style>IPA - Triple New England / Hazy</beer_style>
-    <beer_abv>10%</beer_abv>
-    <beer_volume>440 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Switzerland</brewery_country>
-    <date_best_before>2027-01-27</date_best_before>
-    <date_canned>2026-04-27</date_canned>
-    <untappd_id>6655575</untappd_id>
   </item>
   <item>
     <id>6655577</id>
@@ -6475,24 +6438,6 @@
     <untappd_id>6527510</untappd_id>
   </item>
   <item>
-    <id>6513775</id>
-    <ecommerce_id>809097842</ecommerce_id>
-    <title>Don Jefe</title>
-    <url>https://hopincraftbier.be/products/the-piggy-don-jefe</url>
-    <brewery_name>The Piggy Brewing Company</brewery_name>
-    <price>5.02</price>
-    <regular_price>5,90</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/809097842/5520175642.png</image>
-    <beer_description>Hops : Mosaic The Piggy - Don Jefe</beer_description>
-    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
-    <beer_abv>8%</beer_abv>
-    <beer_volume>440 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>France</brewery_country>
-    <date_best_before>10/2026</date_best_before>
-    <untappd_id>6513775</untappd_id>
-  </item>
-  <item>
     <id>6560471</id>
     <ecommerce_id>809098271</ecommerce_id>
     <title>Muvuka</title>
@@ -6546,24 +6491,6 @@
     <date_best_before>2026-06-26</date_best_before>
     <date_canned>2025-11-26</date_canned>
     <untappd_id>6513873</untappd_id>
-  </item>
-  <item>
-    <id>6513908</id>
-    <ecommerce_id>807097776</ecommerce_id>
-    <title>You Can't Control</title>
-    <url>https://hopincraftbier.be/products/pollys-you-cant-control</url>
-    <brewery_name>Polly's Brew Co.</brewery_name>
-    <price>4.91</price>
-    <regular_price>6,55</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5505440361.png</image>
-    <beer_description>Galaxy, Mosaic, Mosaic Lupomax Polly's - You Can't Control</beer_description>
-    <beer_style>IPA - New England / Hazy</beer_style>
-    <beer_abv>6.9%</beer_abv>
-    <beer_volume>440 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Wales</brewery_country>
-    <date_best_before>2026-08-20</date_best_before>
-    <untappd_id>6513908</untappd_id>
   </item>
   <item>
     <id>6577350</id>
@@ -6655,24 +6582,6 @@
     <untappd_id>6590688</untappd_id>
   </item>
   <item>
-    <id>6552592</id>
-    <ecommerce_id>806292910</ecommerce_id>
-    <title>Liquid Krush (collab Moersleutel)</title>
-    <url>https://hopincraftbier.be/products/outer-range-liquid-krush</url>
-    <brewery_name>Outer Range Brewing Co.</brewery_name>
-    <price>3.67</price>
-    <regular_price>7,33</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/806292910/5523723915.png</image>
-    <beer_description>Collab Moersleutel Hops : Krush &amp; Galaxy Outer Range - Liquid Krush</beer_description>
-    <beer_style>IPA - New England / Hazy</beer_style>
-    <beer_abv>6.7%</beer_abv>
-    <beer_volume>440 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>France</brewery_country>
-    <date_best_before>2026-07-20</date_best_before>
-    <untappd_id>6552592</untappd_id>
-  </item>
-  <item>
     <id>6527542</id>
     <ecommerce_id>805525934</ecommerce_id>
     <title>BA Treats Of Strength</title>
@@ -6688,25 +6597,6 @@
     <beer_package>bottle</beer_package>
     <brewery_country>United States</brewery_country>
     <untappd_id>6527542</untappd_id>
-  </item>
-  <item>
-    <id>6526439</id>
-    <ecommerce_id>805323120</ecommerce_id>
-    <title>Lady Cupcake #10 (Cocoa Nibs, Vanilla &amp; Caramel)</title>
-    <url>https://hopincraftbier.be/products/factory-lady-cupcake-10-cocoa-nibs-vanilla--caramel</url>
-    <brewery_name>Factory Brewing</brewery_name>
-    <price>6.77</price>
-    <regular_price>7.96</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5493045097.png</image>
-    <beer_description>An Imperial Pastry Stout with Cocoa Nibs, Vanilla Beans &amp; Caramel. 'Our tenth Lady Cupcake is treated with Ecuadorian cocoa nibs, vanilla beans from Madagascar, Papua New Guinea, and Uganda, as well as caramel.' Head Brewer Jirka Ordén Factory - Lady Cupcake #10 (Cocoa Nibs, Vanilla &amp; Caramel)</beer_description>
-    <beer_style>Stout - Imperial / Double Pastry</beer_style>
-    <beer_abv>12.0%</beer_abv>
-    <beer_volume>440 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Finland</brewery_country>
-    <date_best_before>11/2027</date_best_before>
-    <date_canned>11/2025</date_canned>
-    <untappd_id>6526439</untappd_id>
   </item>
   <item>
     <id>6602321</id>
@@ -8334,24 +8224,6 @@
     <untappd_id>4969423</untappd_id>
   </item>
   <item>
-    <id>4092023</id>
-    <ecommerce_id>767352720</ecommerce_id>
-    <title>High-Low</title>
-    <url>https://hopincraftbier.be/products/finback-high-low</url>
-    <brewery_name>Finback Brewery</brewery_name>
-    <price>5.28</price>
-    <regular_price>10,55</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5145458707.webp</image>
-    <beer_description>double dry hopped with Mosaic, Amarillo, Citra, Belma, Blanc, El Dorado, Waimea, Idaho 7 and Nelson Finback - High-Low</beer_description>
-    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
-    <beer_abv>8.4%</beer_abv>
-    <beer_volume>473 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>United States</brewery_country>
-    <date_canned>2025-07-11</date_canned>
-    <untappd_id>4092023</untappd_id>
-  </item>
-  <item>
     <id>6316546</id>
     <ecommerce_id>767361433</ecommerce_id>
     <title>Mutant Turtle Pizza</title>
@@ -8402,24 +8274,6 @@
     <beer_package>can</beer_package>
     <brewery_country>United States</brewery_country>
     <untappd_id>6331773</untappd_id>
-  </item>
-  <item>
-    <id>4813817</id>
-    <ecommerce_id>767347721</ecommerce_id>
-    <title>Cosmic Mountain</title>
-    <url>https://hopincraftbier.be/products/hop-butcher-for-the-world-cosmic-mountain</url>
-    <brewery_name>Hop Butcher For The World</brewery_name>
-    <price>6.12</price>
-    <regular_price>12,24</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5145475964.webp</image>
-    <beer_description>Citra, Waimea &amp; Mosaic-hopped Triple India Pale Ale Hop Butcher For The World - Cosmic Mountain</beer_description>
-    <beer_style>IPA - Triple New England / Hazy</beer_style>
-    <beer_abv>10.5%</beer_abv>
-    <beer_volume>473 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>United States</brewery_country>
-    <date_canned>2025-07-21</date_canned>
-    <untappd_id>4813817</untappd_id>
   </item>
   <item>
     <id>6318598</id>
@@ -8641,23 +8495,6 @@
     <brewery_country>Romania</brewery_country>
     <date_best_before>2027-12-30</date_best_before>
     <untappd_id>6263801</untappd_id>
-  </item>
-  <item>
-    <id>6242674</id>
-    <ecommerce_id>751542512</ecommerce_id>
-    <title>Baby G.O.A.T.</title>
-    <url>https://hopincraftbier.be/products/tin-barn-baby-g-o-a-t</url>
-    <brewery_name>Tin Barn Brewing</brewery_name>
-    <price>5.64</price>
-    <regular_price>11,28</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5438339783.webp</image>
-    <beer_description>Introducing the newest in our Baby Animal Series - Baby G.O.A.T! This single New England IPA was hopped with Citra, Bru-1, and Motueka to create a juicy pineapple bomb that is the Greatest of All Time! Tin Barn - Baby G.O.A.T.</beer_description>
-    <beer_style>IPA - New England / Hazy</beer_style>
-    <beer_abv>7.2%</beer_abv>
-    <beer_volume>473 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>United States</brewery_country>
-    <untappd_id>6242674</untappd_id>
   </item>
   <item>
     <id>6092135</id>
@@ -8898,6 +8735,6 @@
     <brewery_country>Canada</brewery_country>
     <untappd_id>6197367</untappd_id>
   </item>
-  <timestamp>1788788706</timestamp>
-  <gen_date>07/09/2026 15:45:06</gen_date>
+  <timestamp>1788789607</timestamp>
+  <gen_date>07/09/2026 16:00:07</gen_date>
 </feed>
