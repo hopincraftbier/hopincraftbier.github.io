@@ -4917,24 +4917,6 @@
     <untappd_id>6653102</untappd_id>
   </item>
   <item>
-    <id>6656970</id>
-    <ecommerce_id>822031770</ecommerce_id>
-    <title>Crème De La Crème (collab Messorem)</title>
-    <url>https://hopincraftbier.be/products/brasserie-du-bas-canada-creme-de-la-creme-822031770</url>
-    <brewery_name>Brasserie du Bas-Canada</brewery_name>
-    <price>9.64</price>
-    <regular_price>11.34</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/822031770/5693880112.png</image>
-    <beer_description>We have another great collaboration beer for this week! Introducing Crème de la Crème, a double collaboration brewed with our friends at Messorem. We went all out to make this beer super hoppy. The result is incredibly aromatic with notes of tropical fruit sorbet, passion fruit, and a good dose of "dank." Brasserie du Bas-Canada - Creme De La Creme</beer_description>
-    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
-    <beer_abv>8.2%</beer_abv>
-    <beer_volume>473 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Canada</brewery_country>
-    <date_canned>2026-04-01</date_canned>
-    <untappd_id>6656970</untappd_id>
-  </item>
-  <item>
     <id>6639386</id>
     <ecommerce_id>822026769</ecommerce_id>
     <title>Destructio 0006</title>
@@ -8934,6 +8916,6 @@
     <brewery_country>Canada</brewery_country>
     <untappd_id>6197367</untappd_id>
   </item>
-  <timestamp>1788785106</timestamp>
-  <gen_date>07/09/2026 14:45:06</gen_date>
+  <timestamp>1788786906</timestamp>
+  <gen_date>07/09/2026 15:15:06</gen_date>
 </feed>
