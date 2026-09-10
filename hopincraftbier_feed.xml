@@ -7694,6 +7694,24 @@
     <untappd_id>6415131</untappd_id>
   </item>
   <item>
+    <id>6406320</id>
+    <ecommerce_id>781533751</ecommerce_id>
+    <title>Ever Juice</title>
+    <url>https://hopincraftbier.be/products/tripping-animals-ever-juice</url>
+    <brewery_name>Tripping Animals Brewing Co.</brewery_name>
+    <price>7.49</price>
+    <regular_price>9,99</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5260880889.webp</image>
+    <beer_description>DDH hazy Double India Pale Ale brewed with Mosaic, Strata and Motueka hops. Tripping Animals - Ever Juice</beer_description>
+    <beer_style>IPA - Imperial / Double</beer_style>
+    <beer_abv>8%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>United States</brewery_country>
+    <date_canned>2025-09-09</date_canned>
+    <untappd_id>6406320</untappd_id>
+  </item>
+  <item>
     <id>4178441</id>
     <ecommerce_id>781516951</ecommerce_id>
     <title>Queen Snake (collab Tin Barn)</title>
@@ -7912,6 +7930,24 @@
     <beer_package>can</beer_package>
     <brewery_country>United States</brewery_country>
     <untappd_id>6383222</untappd_id>
+  </item>
+  <item>
+    <id>5755528</id>
+    <ecommerce_id>778813130</ecommerce_id>
+    <title>Distributed Ledger</title>
+    <url>https://hopincraftbier.be/products/spyglass-distributed-ledger</url>
+    <brewery_name>Spyglass Brewing Company</brewery_name>
+    <price>8.75</price>
+    <regular_price>11,66</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5260880887.webp</image>
+    <beer_description>A New England style TIPA - triple dry hopped with Citra, Motueka and Simcoe. Spyglass - Distributed Ledger</beer_description>
+    <beer_style>IPA - Triple New England / Hazy</beer_style>
+    <beer_abv>9.8%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>United States</brewery_country>
+    <date_canned>2025-09-08</date_canned>
+    <untappd_id>5755528</untappd_id>
   </item>
   <item>
     <id>3717200</id>
@@ -8239,6 +8275,24 @@
     <untappd_id>6250418</untappd_id>
   </item>
   <item>
+    <id>6240932</id>
+    <ecommerce_id>756989443</ecommerce_id>
+    <title>12yr Wild Turkey BA Dark Matter (2025)</title>
+    <url>https://hopincraftbier.be/products/barreled-souls-12yr-wild-turkey-ba-dark-matter-2025</url>
+    <brewery_name>Barreled Souls Brewing Company</brewery_name>
+    <price>28.02</price>
+    <regular_price>32,96</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4965750515.webp</image>
+    <beer_description>This was aged in some very unique 12-year-old Wild Turkey barrels for 12 months and 5 days. The bourbon from these barrels is a rare Japanese-only release and one of the few 12-year-old Wild Turkeys ever made. Barreled Souls - 12yr Wild Turkey BA Dark Matter (2025)</beer_description>
+    <beer_style>Stout - Imperial / Double</beer_style>
+    <beer_abv>15.3%</beer_abv>
+    <beer_volume>500 ml</beer_volume>
+    <beer_package>bottle</beer_package>
+    <brewery_country>United States</brewery_country>
+    <date_canned>2025-04-07</date_canned>
+    <untappd_id>6240932</untappd_id>
+  </item>
+  <item>
     <id>6277002</id>
     <ecommerce_id>756995309</ecommerce_id>
     <title>BA Sticky Situation (collab Bolero Snort)</title>
@@ -8543,6 +8597,6 @@
     <brewery_country>Canada</brewery_country>
     <untappd_id>6197367</untappd_id>
   </item>
-  <timestamp>1789057080</timestamp>
-  <gen_date>10/09/2026 18:18:00</gen_date>
+  <timestamp>1789068609</timestamp>
+  <gen_date>10/09/2026 21:30:09</gen_date>
 </feed>
