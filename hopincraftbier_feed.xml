@@ -541,6 +541,38 @@
     <untappd_id>6780249</untappd_id>
   </item>
   <item>
+    <id>6819959</id>
+    <ecommerce_id>852648687</ecommerce_id>
+    <title>Oso - La Leche DIPA: Idaho-7, Citra, Kiwi Blend</title>
+    <url>https://hopincraftbier.be/products/oso-la-leche-dipa-idaho-7-citra-kiwi-blend</url>
+    <brewery_name>Oso Brew Co</brewery_name>
+    <price>7.34</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/852648687/6003666446.png</image>
+    <beer_description>La Leche (Spanish for 'the milk' or 'the cream of the crop') is a gigantic, silky-smooth Oat Cream Double IPA from the Spanish OSO Brew Co. With a powerful alcohol percentage of 8.4%, this tropical powerhouse is enriched with oats, lactose, and a generous dose of Idaho 7, Citra, and Crosby Kiwi Blend hops. The result is a creamy, velvety brew full of intense notes of ripe mango, sunny citrus, fresh gooseberry, and papaya. Oso Brew Co - La Leche DIPA: Idaho-7, Citra, Kiwi Blend Oso Brew Co - La Leche - Oat Cream DIPA</beer_description>
+    <beer_style>IPA - Double / Oat Cream</beer_style>
+    <beer_abv>8.4%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Spain</brewery_country>
+    <untappd_id>6819959</untappd_id>
+  </item>
+  <item>
+    <id>6819962</id>
+    <ecommerce_id>852655164</ecommerce_id>
+    <title>Oso - Belleza</title>
+    <url>https://hopincraftbier.be/products/oso-belleza</url>
+    <brewery_name>Oso Brew Co</brewery_name>
+    <price>6.66</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/852655164/6003675844.png</image>
+    <beer_description>Belleza is a lush, silky New England IPA from the Spanish OSO Brew Co. With a robust alcohol percentage of 7.0%, this cloudy NEIPA combines an impressive hop pentagon of Sabro, Mosaic, Strata, Motueka, and Nelson Sauvin. Supported by a cloud-soft malt base, this brew shines with a complex flavor profile of creamy coconut, fresh lime, ripe white grapes, and tropical fruit, rounded off with a mild bitterness. Oso Brew Co - Belleza Oso Brew Co - Belleza</beer_description>
+    <beer_style>IPA - New England / Hazy</beer_style>
+    <beer_abv>7%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Spain</brewery_country>
+    <untappd_id>6819962</untappd_id>
+  </item>
+  <item>
     <id>6847556</id>
     <ecommerce_id>848793463</ecommerce_id>
     <title>Whale Sharks 2026</title>
@@ -678,6 +710,22 @@
     <brewery_country>United States</brewery_country>
     <date_canned>2026-05-28</date_canned>
     <untappd_id>6048528</untappd_id>
+  </item>
+  <item>
+    <id>6783079</id>
+    <ecommerce_id>846792490</ecommerce_id>
+    <title>Small World (collab Ārpus,Hoppy People,Firstep,Blackout,DEYA,Seoul)</title>
+    <url>https://hopincraftbier.be/products/pinta-multicollab-small-world</url>
+    <brewery_name>PINTA</brewery_name>
+    <price>6.34</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/846792490/6233639448.png</image>
+    <beer_description>After 15 years, the international beer world feels a lot smaller. To celebrate this, Pinta has assembled a groundbreaking, intercontinental mega-collaboration. Multi Collab Small World is a bold, powerful, and highly expressive 8.0% Double NEIPA bursting with character. The body is insanely thick, lumpy, and creamy. Thanks to a carefully curated international hop selection, you enjoy heavy, oily hop saturation: a storm of candied pineapple, intense guava, passion fruit, and a refined, resinous 'dank' finish that perfectly cuts through the tropical sweetness. PINTA - Small World</beer_description>
+    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
+    <beer_abv>8%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Poland</brewery_country>
+    <untappd_id>6783079</untappd_id>
   </item>
   <item>
     <id>6792040</id>
@@ -924,6 +972,38 @@
     <brewery_country>United States</brewery_country>
     <date_canned>2026-05-18</date_canned>
     <untappd_id>6716351</untappd_id>
+  </item>
+  <item>
+    <id>6743791</id>
+    <ecommerce_id>845567743</ecommerce_id>
+    <title>02/07 Anniversary (collab Garage)</title>
+    <url>https://hopincraftbier.be/products/engorile-02-07-anniversary</url>
+    <brewery_name>Engorile</brewery_name>
+    <price>5.96</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/845567743/5865879215.png</image>
+    <beer_description>If you brew a cloudy, hoppy beer in Spain, there is one ultimate king you want to invite: Garage Beer Co from Barcelona. For this second anniversary collaboration, the brewers have chosen an ultimately refreshing New Zealand Pale Ale at 4.5%. However, do not be fooled by the lower alcohol percentage; thanks to the double use of Mosaic (both the regular and the highly concentrated Cryo Mosaic), the beer explodes with rich notes of blueberries, citrus, and tropical fruit. The iconic Nelson Sauvin hop adds a brilliantly dry, elegant layer of Sauvignon Blanc grapes and gooseberries. Bone dry, intensely fruity, and the ultimate thirst quencher. Engorile - 02/07 ANNIVERSARY</beer_description>
+    <beer_style>IPA - Session New England / Hazy</beer_style>
+    <beer_abv>4.5%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Spain</brewery_country>
+    <untappd_id>6743791</untappd_id>
+  </item>
+  <item>
+    <id>6743787</id>
+    <ecommerce_id>845556958</ecommerce_id>
+    <title>01/07 Anniversary (collab Oso Brew Co)</title>
+    <url>https://hopincraftbier.be/products/engorile-01-07-anniversary</url>
+    <brewery_name>Engorile</brewery_name>
+    <price>7.13</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/845556958/5865910647.png</image>
+    <beer_description>For the first collaboration in their anniversary series, the brewers have joined forces with the tastemakers of Oso Brew Co from Madrid. The result is an astronomically heavy 8.5% Double NEIPA packed with the most exclusive and pricey hops of the moment. The legendary Riwaka hop brings a unique, intense passion fruit aroma with a subtle resinous, weed-like (dank) undertone. This blends beautifully with the elegant notes of white grapes and gooseberries from the Nelson Sauvin. Counterbalanced by the tropical sweetness of Citra, this is a massive, creamy, and silky-smooth Double IPA of absolute top class. Engorile - 01/07 Anniversary</beer_description>
+    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
+    <beer_abv>8%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Spain</brewery_country>
+    <untappd_id>6743787</untappd_id>
   </item>
   <item>
     <id>6733732</id>
@@ -8606,6 +8686,6 @@
     <brewery_country>Canada</brewery_country>
     <untappd_id>6197367</untappd_id>
   </item>
-  <timestamp>1789130707</timestamp>
-  <gen_date>11/09/2026 14:45:07</gen_date>
+  <timestamp>1789131469</timestamp>
+  <gen_date>11/09/2026 14:57:49</gen_date>
 </feed>
