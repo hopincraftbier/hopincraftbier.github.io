@@ -1,4 +1,4 @@
-/* HopInCraftbier custom css v4.53 */
+/* HopInCraftbier custom css v4.54 */
 /** start homepage **/
 body {
     margin: auto;
@@ -626,6 +626,8 @@ footer.ins-tile--footer .section__content {
             border-radius: 8px;
             box-shadow: 0 0 1rem rgba(0, 0, 0, 0.5);
             border: 1px solid white;
+            margin-left: 15%;
+            margin-right: 15%;
         }
         div.section__content {
             margin: 30px 0 30px 0;
