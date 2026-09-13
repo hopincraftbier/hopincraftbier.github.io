@@ -524,23 +524,6 @@
     <untappd_id>6798399</untappd_id>
   </item>
   <item>
-    <id>6780249</id>
-    <ecommerce_id>853647570</ecommerce_id>
-    <title>Year 2 - 999g/L: Apricot, Mango, Guava &amp; Pineapple</title>
-    <url>https://hopincraftbier.be/products/vault-city-year-2-999g-l-apricot-mango-guava--pineapple</url>
-    <brewery_name>Vault City Brewing</brewery_name>
-    <price>9.66</price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/853647570/6037410717.png</image>
-    <beer_description>Loaded with 999 grams of fruit per litre of beer, this is the legal limit we can add while still calling it beer. The second release in our birthday series sees the return of our iconic 999g/L series, launched in 2019 when we took our first step into seriously heavy fruiting rates. This smoothie sour put Vault City on the map, lacing glasses up and down the UK. It’s packed with fresh apricot, mango, guava and juicy pineapple for a full-on alcoholic fruit smoothie. Sour Scale:3 Allergens: Malted Barley (Gluten),Oats (Gluten) Vault City Brewing - Year 2 - 999g/L: Apricot, Mango, Guava &amp; Pineapple</beer_description>
-    <beer_style>Sour - Smoothie / Pastry</beer_style>
-    <beer_abv>5%</beer_abv>
-    <beer_volume>440 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Scotland</brewery_country>
-    <date_best_before>2027-03-26</date_best_before>
-    <untappd_id>6780249</untappd_id>
-  </item>
-  <item>
     <id>6819959</id>
     <ecommerce_id>852648687</ecommerce_id>
     <title>Oso - La Leche DIPA: Idaho-7, Citra, Kiwi Blend</title>
@@ -8653,6 +8636,6 @@
     <brewery_country>Canada</brewery_country>
     <untappd_id>6197367</untappd_id>
   </item>
-  <timestamp>1789310708</timestamp>
-  <gen_date>13/09/2026 16:45:08</gen_date>
+  <timestamp>1789327808</timestamp>
+  <gen_date>13/09/2026 21:30:08</gen_date>
 </feed>
