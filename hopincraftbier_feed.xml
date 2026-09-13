@@ -8550,22 +8550,6 @@
     <untappd_id>5342038</untappd_id>
   </item>
   <item>
-    <id>4739060</id>
-    <ecommerce_id>751529013</ecommerce_id>
-    <title>COCO PALMER HOUSE</title>
-    <url>https://hopincraftbier.be/products/brewskey-coco-palmer-house</url>
-    <brewery_name>BreWskey</brewery_name>
-    <price>12.65</price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4929385519.png</image>
-    <beer_description>This Brownie Pastry Stout was brewed with chocolate, walnuts, vanilla and coconut. BreWskey - COCO PALMER HOUSE</beer_description>
-    <beer_style>Stout - Imperial / Double Pastry</beer_style>
-    <beer_abv>11.9%</beer_abv>
-    <beer_volume>473 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Canada</brewery_country>
-    <untappd_id>4739060</untappd_id>
-  </item>
-  <item>
     <id>3484014</id>
     <ecommerce_id>751529011</ecommerce_id>
     <title>Gypsy Outpost - Coconut, Vanilla Beans, Cocoa Nibs and Cinnamon</title>
@@ -8686,6 +8670,6 @@
     <brewery_country>Canada</brewery_country>
     <untappd_id>6197367</untappd_id>
   </item>
-  <timestamp>1789295410</timestamp>
-  <gen_date>13/09/2026 12:30:10</gen_date>
+  <timestamp>1789300807</timestamp>
+  <gen_date>13/09/2026 14:00:07</gen_date>
 </feed>
