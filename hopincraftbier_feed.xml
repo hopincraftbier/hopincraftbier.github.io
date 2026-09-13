@@ -4422,23 +4422,6 @@
     <untappd_id>6591597</untappd_id>
   </item>
   <item>
-    <id>6596570</id>
-    <ecommerce_id>826591949</ecommerce_id>
-    <title>L'Or Du Soir</title>
-    <url>https://hopincraftbier.be/products/fauve-lor-du-soir</url>
-    <brewery_name>Fauve</brewery_name>
-    <price>8.12</price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/826591949/5683888151.png</image>
-    <beer_description>This beer is a blend of an Imperial Stout aged for 30 months in French whisky barrels and a young Barley White aged for 4 months in Bourbon barrels. After blending, we infused beautiful vanilla pods to add a rich, smooth flavor to this blend! Fauve - L'Or Du Soir</beer_description>
-    <beer_style>Stout - Imperial / Double</beer_style>
-    <beer_abv>11%</beer_abv>
-    <beer_volume>330 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>France</brewery_country>
-    <date_best_before>2031-02-20</date_best_before>
-    <untappd_id>6596570</untappd_id>
-  </item>
-  <item>
     <id>6622277</id>
     <ecommerce_id>826600188</ecommerce_id>
     <title>Hommage aux Cent Ponts (collab Stu Mostów)</title>
@@ -8670,6 +8653,6 @@
     <brewery_country>Canada</brewery_country>
     <untappd_id>6197367</untappd_id>
   </item>
-  <timestamp>1789300807</timestamp>
-  <gen_date>13/09/2026 14:00:07</gen_date>
+  <timestamp>1789310708</timestamp>
+  <gen_date>13/09/2026 16:45:08</gen_date>
 </feed>
