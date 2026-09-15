@@ -885,22 +885,6 @@
     <untappd_id>6809431</untappd_id>
   </item>
   <item>
-    <id>6809427</id>
-    <ecommerce_id>848476247</ecommerce_id>
-    <title>A7Y7 X Track X Beak (collab Beak,Track)</title>
-    <url>https://hopincraftbier.be/products/messorem-a7y7-x-track-x-beak</url>
-    <brewery_name>Messorem</brewery_name>
-    <price>12.01</price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/848476247/6003550622.png</image>
-    <beer_description>Triple IPA - Freestyle Nectaron, Motueka, Rakau, Citra, Citra Hyperboost, Citra Dynaboost Messorem - A7Y7 X Track X Beak</beer_description>
-    <beer_style>IPA - Triple New England / Hazy</beer_style>
-    <beer_abv>10%</beer_abv>
-    <beer_volume>473 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Canada</brewery_country>
-    <untappd_id>6809427</untappd_id>
-  </item>
-  <item>
     <id>6783300</id>
     <ecommerce_id>847950272</ecommerce_id>
     <title>Perched (collab Eavesdrop)</title>
@@ -9314,6 +9298,6 @@
     <brewery_country>Canada</brewery_country>
     <untappd_id>6197367</untappd_id>
   </item>
-  <timestamp>1789466269</timestamp>
-  <gen_date>15/09/2026 11:57:49</gen_date>
+  <timestamp>1789480807</timestamp>
+  <gen_date>15/09/2026 16:00:07</gen_date>
 </feed>
