@@ -377,6 +377,24 @@
     <untappd_id>6745147</untappd_id>
   </item>
   <item>
+    <id>6825987</id>
+    <ecommerce_id>856733386</ecommerce_id>
+    <title>Infinite Scroll</title>
+    <url>https://hopincraftbier.be/products/fuerst-wiacek-berlin-infinite-scroll</url>
+    <brewery_name>FUERST WIACEK Berlin</brewery_name>
+    <price>1.16</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/856733386/6118848210.png</image>
+    <beer_description>IPA – Dry hopped with Krush, Motueka &amp; HBC 638. FUERST WIACEK Berlin - Infinite Scroll</beer_description>
+    <beer_style>IPA - New England / Hazy</beer_style>
+    <beer_abv>6.2%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Germany</brewery_country>
+    <date_best_before>2027-05-12</date_best_before>
+    <date_canned>2026-08-12</date_canned>
+    <untappd_id>6825987</untappd_id>
+  </item>
+  <item>
     <id>6585168</id>
     <ecommerce_id>856462921</ecommerce_id>
     <title>Nary A Cloud</title>
@@ -569,6 +587,78 @@
     <beer_package_count>3</beer_package_count>
     <beer_bundle>1</beer_bundle>
     <bundle_skus>6802667,6802643,6790246</bundle_skus>
+  </item>
+  <item>
+    <id>6374171</id>
+    <ecommerce_id>853655601</ecommerce_id>
+    <title>Skip Intro</title>
+    <url>https://hopincraftbier.be/products/fuerst-wiacek-berlin-skip-intro</url>
+    <brewery_name>FUERST WIACEK Berlin</brewery_name>
+    <price>6.81</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/853655601/6118820668.png</image>
+    <beer_description>DDH DIPA – Dry hopped with Rakau, Motueka &amp; Citra. FUERST WIACEK Berlin - Skip Intro</beer_description>
+    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
+    <beer_abv>8%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Germany</brewery_country>
+    <date_best_before>2027-05-24</date_best_before>
+    <date_canned>2026-08-24</date_canned>
+    <untappd_id>6374171</untappd_id>
+  </item>
+  <item>
+    <id>6817132</id>
+    <ecommerce_id>853655357</ecommerce_id>
+    <title>Phantom Edit</title>
+    <url>https://hopincraftbier.be/products/fuerst-wiacek-berlin-phantom-edit</url>
+    <brewery_name>FUERST WIACEK Berlin</brewery_name>
+    <price>6.32</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/853655357/6038322797.png</image>
+    <beer_description>DDH IPA – Dry hopped with Citra &amp; Wakatu. FUERST WIACEK Berlin - Phantom Edit</beer_description>
+    <beer_style>IPA - New England / Hazy</beer_style>
+    <beer_abv>6.8%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Germany</brewery_country>
+    <date_best_before>2027-05-03</date_best_before>
+    <date_canned>2027-08-03</date_canned>
+    <untappd_id>6817132</untappd_id>
+  </item>
+  <item>
+    <id>6798314</id>
+    <ecommerce_id>853662298</ecommerce_id>
+    <title>Gone Native</title>
+    <url>https://hopincraftbier.be/products/fuerst-wiacek-berlin-gone-native</url>
+    <brewery_name>FUERST WIACEK Berlin</brewery_name>
+    <price>6.32</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/853662298/6038293630.png</image>
+    <beer_description>DDH IPA – Dry hopped with Nectaron, Idaho 7 &amp; Sabro. FUERST WIACEK Berlin - Gone Native</beer_description>
+    <beer_style>IPA - New England / Hazy</beer_style>
+    <beer_abv>6.8%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Germany</brewery_country>
+    <date_best_before>2027-04-20</date_best_before>
+    <date_canned>2026-07-20</date_canned>
+    <untappd_id>6798314</untappd_id>
+  </item>
+  <item>
+    <id>6802791</id>
+    <ecommerce_id>853655356</ecommerce_id>
+    <title>Cataclysmic Haze</title>
+    <url>https://hopincraftbier.be/products/fuerst-wiacek-berlin-cataclysmic-haze</url>
+    <brewery_name>FUERST WIACEK Berlin</brewery_name>
+    <price>6.81</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/853655356/6038322319.png</image>
+    <beer_description>'Cataclysmic Haze' is an 8.0% vol Double Dry-Hopped Double India Pale Ale (DDH DIPA) brewed in Berlin as a collaboration between the Berlin-based craft brewery Fuerst Wiacek and the death metal band Carnal Tomb. FUERST WIACEK Berlin - Cataclysmic Haze</beer_description>
+    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
+    <beer_abv>8%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Germany</brewery_country>
+    <date_best_before>2027-04-24</date_best_before>
+    <date_canned>2026-07-24</date_canned>
+    <untappd_id>6802791</untappd_id>
   </item>
   <item>
     <id>6797144</id>
@@ -9234,6 +9324,6 @@
     <brewery_country>Canada</brewery_country>
     <untappd_id>6197367</untappd_id>
   </item>
-  <timestamp>1789489628</timestamp>
-  <gen_date>15/09/2026 18:27:08</gen_date>
+  <timestamp>1789499710</timestamp>
+  <gen_date>15/09/2026 21:15:10</gen_date>
 </feed>
