@@ -5,6 +5,87 @@
   <link>https://hopincraftbier.be/products&lt;/link&gt;</link>
   <description>Hop In Craftbier Products feed</description>
   <item>
+    <id>6850795</id>
+    <ecommerce_id>864893756</ecommerce_id>
+    <title>Terraform</title>
+    <url>https://hopincraftbier.be/products/soma-beer-terraform</url>
+    <brewery_name>SOMA Beer</brewery_name>
+    <price>7.03</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/864893756/6253918292.png</image>
+    <beer_description>Nectaron, Rakau &amp; Motueka SOMA Beer - Terraform</beer_description>
+    <beer_style>IPA - New England / Hazy</beer_style>
+    <beer_abv>6%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Spain</brewery_country>
+    <untappd_id>6850795</untappd_id>
+  </item>
+  <item>
+    <id>6841976</id>
+    <ecommerce_id>864893755</ecommerce_id>
+    <title>Maze</title>
+    <url>https://hopincraftbier.be/products/soma-beer-maze</url>
+    <brewery_name>SOMA Beer</brewery_name>
+    <price>7.03</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/864893755/6253917040.png</image>
+    <beer_description>NZ Cascade, Tropical Fusion &amp; Citra SOMA Beer - Maze</beer_description>
+    <beer_style>IPA - New England / Hazy</beer_style>
+    <beer_abv>6.5%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Spain</brewery_country>
+    <untappd_id>6841976</untappd_id>
+  </item>
+  <item>
+    <id>6833931</id>
+    <ecommerce_id>864893754</ecommerce_id>
+    <title>Kenopsia</title>
+    <url>https://hopincraftbier.be/products/soma-beer-kenopsia</url>
+    <brewery_name>SOMA Beer</brewery_name>
+    <price>7.53</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/864893754/6253918346.png</image>
+    <beer_description>Nelson, Motueka &amp; Mosaic SOMA Beer - Kenopsia</beer_description>
+    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
+    <beer_abv>8%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Spain</brewery_country>
+    <untappd_id>6833931</untappd_id>
+  </item>
+  <item>
+    <id>6850801</id>
+    <ecommerce_id>864893753</ecommerce_id>
+    <title>Bonfire</title>
+    <url>https://hopincraftbier.be/products/soma-beer-bonfire</url>
+    <brewery_name>SOMA Beer</brewery_name>
+    <price>7.53</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/864893753/6253918352.png</image>
+    <beer_description>Nelson, Citra &amp; Krush SOMA Beer - Bonfire</beer_description>
+    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
+    <beer_abv>8%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Spain</brewery_country>
+    <untappd_id>6850801</untappd_id>
+  </item>
+  <item>
+    <id>6859197</id>
+    <ecommerce_id>864897251</ecommerce_id>
+    <title>Blep</title>
+    <url>https://hopincraftbier.be/products/soma-beer-blep</url>
+    <brewery_name>SOMA Beer</brewery_name>
+    <price>8</price>
+    <regular_price>8.00</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/864897251/6253920835.png</image>
+    <beer_description>Nelson, Krush, Dealer &amp; Cryo Designer SOMA Beer - Blep</beer_description>
+    <beer_style>IPA - Triple New England / Hazy</beer_style>
+    <beer_abv>10%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Spain</brewery_country>
+    <untappd_id>6859197</untappd_id>
+  </item>
+  <item>
     <id>6817152</id>
     <ecommerce_id>863085064</ecommerce_id>
     <title>Stoopid Spaceshake (collab Makemake)</title>
@@ -9233,6 +9314,6 @@
     <brewery_country>Canada</brewery_country>
     <untappd_id>6197367</untappd_id>
   </item>
-  <timestamp>1789408808</timestamp>
-  <gen_date>14/09/2026 20:00:08</gen_date>
+  <timestamp>1789466269</timestamp>
+  <gen_date>15/09/2026 11:57:49</gen_date>
 </feed>
