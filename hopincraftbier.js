@@ -1,4 +1,4 @@
-const version = 'v7.60';
+const version = 'v7.61';
 let currentLanguage;
 
 const txtNl1 = '<div class="dtooltip"><p class="hover question">Kortingscoupon</p><p class="dtooltiptext">Afhankelijk van de gekozen betaling en levering, kunt u een kortingscoupon krijgen die te gebruiken is bij een volgende bestelling. Voor dit bier ziet u de bedragen in deze tabel</p></div><table class="discount-table"><thead><tr class="first_header"><th></th><th colspan="2">Manier van levering</th></tr><tr><th>Manier van betaling</th><th>Afhaling</th><th>Levering</th></tr></thead><tbody><tr><td class="header">Betalen bij afhaling</td><td>€ ';
@@ -16,13 +16,13 @@ const txtEn5 = '</td><td>€ 0</td></tr></tbody></table></div>';
 const countries = ['BE','NL','FR','DE','LU','ES','FI','IT','AT','LV','LT','EE','IE','PT','SE','PL','GR','RO','CZ','HU','HR', 'DK', 'SI', 'SK'];
 
 // let debug = false;
-// let prodMode = true;
+let prodMode = true;
 let process = false;
 
-// let cookieProdMode = document.cookie.split('; ').find(row => row.startsWith('prodMode='));
-// if (cookieProdMode) {
-//     prodMode = cookieProdMode.split('=')[1] === 'true';
-// }
+let cookieProdMode = document.cookie.split('; ').find(row => row.startsWith('prodMode='));
+if (cookieProdMode) {
+    prodMode = cookieProdMode.split('=')[1] === 'true';
+}
 // let cookieDebug = document.cookie.split('; ').find(row => row.startsWith('debug='));
 // if (cookieDebug) {
 //     debug = cookieDebug.split('=')[1] === 'true';
@@ -557,7 +557,150 @@ function addCouponInfo(toScroll) {
     }
 }
 
+// ---- module scope: created once, reused across every moveSubtitle() call ----
+const STORE_ID = '112251271';
+const RANDOMIZER = 'W3NlY3JldF84QnNzU3AxV0NFRDJoWlc4bUhaRldFZ2FISnppSlk3V10=';
+const productCache = new Map();        // pid -> product
+// module scope: avoid re-fetching the same product on every cart change
+const verpakkingCache = new Map();
+
+const untappdBadge = document.createElement('div');
+untappdBadge.className = 'untappd';
+untappdBadge.innerHTML =
+    '<img style="display: inline-block;" src="https://d2j6dbq0eux0bg.cloudfront.net/images/wysiwyg/product/112251271/724600919/1739827248845232524408/untappd_icon64_png.png" ' +
+    'width="16" height="16" alt="Untappd"><span></span>';
+
+// (function injectUntappdCss() {
+//     if (document.getElementById('untappd-css')) return;
+//     const style = document.createElement('style');
+//     style.id = 'untappd-css';
+//     style.textContent =
+//         '.untappd{display:flex;align-items:center;gap:4px}' +
+//         '.untappd img{width:16px;height:16px}';
+//     document.head.appendChild(style);
+// })();
+
+function getVerpakking(productId) {
+    if (verpakkingCache.has(productId)) {
+        return Promise.resolve(verpakkingCache.get(productId));
+    }
+    return Promise.resolve($.ajax({
+        type: "GET",
+        url: "https://app.ecwid.com/api/v3/112251271/products/" + productId +
+            "?responseFields=id,attributes",
+        dataType: "json",
+        headers: {
+            'Cache-Control': 'no-cache',
+            'Authorization': 'Bearer ' + atob(RANDOMIZER).replace('[','').replace(']', ''),
+        },
+    })).then(function (resp) {
+        let verpakking = null;
+        (resp.attributes || []).forEach(function (attr) {
+            if (attr.name === "Verpakking") verpakking = attr.value;
+        });
+        verpakkingCache.set(productId, verpakking);
+        return verpakking;
+    });
+}
+
+function fetchProducts(ids) {
+    const chunks = [];
+    for (let i = 0; i < ids.length; i += 100) chunks.push(ids.slice(i, i + 100));
+
+    return Promise.all(chunks.map(function (chunk) {
+        return Promise.resolve($.ajax({
+            type: 'GET',
+            url: 'https://app.ecwid.com/api/v3/' + STORE_ID + '/products',
+            data: {
+                productId: chunk.join(','),
+                limit: 100,
+                responseFields: 'items(id,price,attributes)'
+            },
+            dataType: 'json',
+            headers: { 'Authorization': 'Bearer ' + atob(RANDOMIZER).replace('[','').replace(']', '') }
+        }));
+    })).then(function (pages) {
+        pages.forEach(function (page) {
+            (page.items || []).forEach(function (item) {
+                productCache.set(String(item.id), item);
+            });
+        });
+    });
+}
+
+function untappdScore(product) {
+    let value;
+    (product.attributes || []).forEach(function (attr) {
+        if (attr.name === 'Untappd') value = attr.value;
+    });
+    return value ? value.split('(')[0] : 'N/A';
+}
+
+function moveSubtitleNew() {
+    if (prodMode) {
+        return;
+    }
+    log('moveSubtitleNew');
+
+    const subtitles = document.querySelectorAll(
+        'div.grid-product__wrap-inner > div.grid-product__subtitle:not([data-untappd])'
+    );
+    if (!subtitles.length) return Promise.resolve();
+
+    // 1. read the DOM only
+    const jobs = [];
+    subtitles.forEach(function (p) {
+        const wrap = p.closest('div.grid-product__wrap');
+        if (!wrap) return;
+        p.setAttribute('data-untappd', 'pending');
+        jobs.push({
+            el: p,
+            wrap: wrap,
+            pid: wrap.getAttribute('data-product-id'),
+            imgWrap: p.parentElement.querySelector('div.grid-product__image-wrap')
+        });
+    });
+    if (!jobs.length) return Promise.resolve();
+
+    // 2. move the subtitles, one layout pass
+    requestAnimationFrame(function () {
+        jobs.forEach(function (job) {
+            if (job.imgWrap) job.imgWrap.parentElement.appendChild(job.el);
+        });
+    });
+
+    // 3. one batched request for whatever isn't cached
+    const missing = jobs
+        .map(function (job) { return job.pid; })
+        .filter(function (pid) { return pid && !productCache.has(pid); });
+
+    return (missing.length ? fetchProducts(missing) : Promise.resolve())
+        .then(function () {
+            requestAnimationFrame(function () {
+                jobs.forEach(function (job) {
+                    const product = productCache.get(job.pid);
+                    if (!product) {
+                        job.el.removeAttribute('data-untappd');   // allow a later retry
+                        return;
+                    }
+                    const badge = untappdBadge.cloneNode(true);
+                    badge.lastChild.textContent = untappdScore(product);
+                    job.el.appendChild(badge);
+                    job.el.setAttribute('data-untappd', 'done');
+                    showMaxPrice(job.wrap, product);
+                });
+            });
+        })
+        .catch(function (err) {
+            log('moveSubtitle failed: ' + err);
+            jobs.forEach(function (job) { job.el.removeAttribute('data-untappd'); });
+        });
+}
+
 function moveSubtitle() {
+    if (!prodMode) {
+        return;
+    }
     log('moveSubtitle');
 
     document.querySelectorAll('div.grid-product__wrap-inner > div.grid-product__subtitle').forEach(function (p) {
