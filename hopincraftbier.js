@@ -1,4 +1,4 @@
-const version = 'v7.65';
+const version = 'v7.66';
 let currentLanguage;
 
 const txtNl1 = '<div class="dtooltip"><p class="hover question">Kortingscoupon</p><p class="dtooltiptext">Afhankelijk van de gekozen betaling en levering, kunt u een kortingscoupon krijgen die te gebruiken is bij een volgende bestelling. Voor dit bier ziet u de bedragen in deze tabel</p></div><table class="discount-table"><thead><tr class="first_header"><th></th><th colspan="2">Manier van levering</th></tr><tr><th>Manier van betaling</th><th>Afhaling</th><th>Levering</th></tr></thead><tbody><tr><td class="header">Betalen bij afhaling</td><td>€ ';
@@ -567,18 +567,18 @@ const verpakkingCache = new Map();
 const untappdBadge = document.createElement('div');
 untappdBadge.className = 'untappd';
 untappdBadge.innerHTML =
-    '<img style="display: inline-block;" src="https://d2j6dbq0eux0bg.cloudfront.net/images/wysiwyg/product/112251271/724600919/1739827248845232524408/untappd_icon64_png.png" ' +
+    '<img src="https://d2j6dbq0eux0bg.cloudfront.net/images/wysiwyg/product/112251271/724600919/1739827248845232524408/untappd_icon64_png.png" ' +
     'width="16" height="16" alt="Untappd"><span></span>';
 
-// (function injectUntappdCss() {
-//     if (document.getElementById('untappd-css')) return;
-//     const style = document.createElement('style');
-//     style.id = 'untappd-css';
-//     style.textContent =
-//         '.untappd{display:flex;align-items:center;gap:4px}' +
-//         '.untappd img{width:16px;height:16px}';
-//     document.head.appendChild(style);
-// })();
+(function injectUntappdCss() {
+    if (document.getElementById('untappd-css')) return;
+    const style = document.createElement('style');
+    style.id = 'untappd-css';
+    style.textContent =
+        '.untappd span{padding-left:4px !important;}' +
+        '.untappd img{width:16px;height:16px;display:inline-block;}';
+    document.head.appendChild(style);
+})();
 
 function getVerpakking(productId) {
     if (verpakkingCache.has(productId)) {
