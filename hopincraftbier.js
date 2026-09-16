@@ -1,4 +1,4 @@
-const version = 'v7.72';
+const version = 'v7.73';
 let currentLanguage;
 
 const txtNl1 = '<div class="dtooltip"><p class="hover question">Kortingscoupon</p><p class="dtooltiptext">Afhankelijk van de gekozen betaling en levering, kunt u een kortingscoupon krijgen die te gebruiken is bij een volgende bestelling. Voor dit bier ziet u de bedragen in deze tabel</p></div><table class="discount-table"><thead><tr class="first_header"><th></th><th colspan="2">Manier van levering</th></tr><tr><th>Manier van betaling</th><th>Afhaling</th><th>Levering</th></tr></thead><tbody><tr><td class="header">Betalen bij afhaling</td><td>€ ';
@@ -46,12 +46,6 @@ Ecwid.OnPageLoad.add(function() {
     process = false;
     redirectWhenNeeded();
 });
-
-// Ecwid.OnCartChanged.add(function (cart) {
-//     if (!prodMode) {
-//         logCart(cart);
-//     }
-// });
 
 Ecwid.OnPageLoaded.add(function(page){
     process = true;
@@ -1230,7 +1224,10 @@ function logCart(cart) {
                     if (suggestions.length) {
                         advies = " Remove at least " + suggestions.join(" or ") + " to get below the limit.";
                         const el = document.querySelector('div.ec-form__row--v015hjr label');
-                        el.textContent = el.textContent + advies;
+                        if (!el.classList.contains('advies')) {
+                            el.textContent = el.textContent + advies;
+                            el.classList.add('advies');
+                        }
                     }
                 } else {
                     if (removeBlik > 0) suggestions.push(removeBlik + " blik" + (removeBlik === 1 ? "" : "ken"));
@@ -1238,7 +1235,10 @@ function logCart(cart) {
                     if (suggestions.length) {
                         advies = " Verwijder minstens " + suggestions.join(" of ") + " om onder de limiet te komen.";
                         const el = document.querySelector('div.ec-form__row--v015hjr label');
-                        el.textContent = el.textContent + advies;
+                        if (!el.classList.contains('advies')) {
+                            el.textContent = el.textContent + advies;
+                            el.classList.add('advies');
+                        }
                     }
                 }
 
