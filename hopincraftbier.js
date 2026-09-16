@@ -1,4 +1,4 @@
-const version = 'v7.70';
+const version = 'v7.72';
 let currentLanguage;
 
 const txtNl1 = '<div class="dtooltip"><p class="hover question">Kortingscoupon</p><p class="dtooltiptext">Afhankelijk van de gekozen betaling en levering, kunt u een kortingscoupon krijgen die te gebruiken is bij een volgende bestelling. Voor dit bier ziet u de bedragen in deze tabel</p></div><table class="discount-table"><thead><tr class="first_header"><th></th><th colspan="2">Manier van levering</th></tr><tr><th>Manier van betaling</th><th>Afhaling</th><th>Levering</th></tr></thead><tbody><tr><td class="header">Betalen bij afhaling</td><td>€ ';
@@ -16,7 +16,7 @@ const txtEn5 = '</td><td>€ 0</td></tr></tbody></table></div>';
 const countries = ['BE','NL','FR','DE','LU','ES','FI','IT','AT','LV','LT','EE','IE','PT','SE','PL','GR','RO','CZ','HU','HR', 'DK', 'SI', 'SK'];
 
 // let debug = false;
-// let prodMode = true;
+let prodMode = true;
 let process = false;
 
 // let cookieProdMode = document.cookie.split('; ').find(row => row.startsWith('prodMode='));
@@ -46,6 +46,13 @@ Ecwid.OnPageLoad.add(function() {
     process = false;
     redirectWhenNeeded();
 });
+
+// Ecwid.OnCartChanged.add(function (cart) {
+//     if (!prodMode) {
+//         logCart(cart);
+//     }
+// });
+
 Ecwid.OnPageLoaded.add(function(page){
     process = true;
     log(JSON.stringify(page));
@@ -899,6 +906,11 @@ function processCartPage() {
         || document.querySelector('.ecwid-productBrowser-ElmCheckoutShippingAddressPage')
         || document.querySelector('.ecwid-productBrowser-CheckoutPaymentDetailsPage')
         || document.querySelector('.ecwid-productBrowser-ElmCheckoutDeliveryPage')) {
+        if (!prodMode) {
+            Ecwid.Cart.get(function(cart){
+                logCart(cart);
+            });
+        }
         translateCheckoutNotice();
         addDeliveryInfoLink();
         showCouponBlock();
@@ -1176,5 +1188,74 @@ function cleanCategory() {
     });
     document.querySelectorAll('header.ins-tile--header').forEach(function(it) {
         it.remove();
+    });
+}
+
+function logCart(cart) {
+    const MAX = 140;
+    const WEIGHT = { Blik: 4, Fles: 7 };
+    const heaviest = Math.max.apply(null, Object.keys(WEIGHT).map(k => WEIGHT[k]));
+
+    // even if every unit were the heaviest type, the cart couldn't exceed MAX
+    if (cart.productsQuantity * heaviest <= MAX) return;
+
+    Promise.all(cart.items.map(function (it) {
+        return getVerpakking(it.product.id).then(function (verpakking) {
+            return { verpakking: verpakking, quantity: it.quantity };
+        });
+    })).then(function (lines) {
+        let blik = 0, fles = 0;
+
+        lines.forEach(function (line) {
+            if (line.verpakking === "Blik") blik += line.quantity;
+            else if (line.verpakking === "Fles") fles += line.quantity;
+        });
+
+        const gewicht = blik * WEIGHT.Blik + fles * WEIGHT.Fles;
+
+        if (gewicht > MAX) {
+            if (!prodMode) {
+                const excess = gewicht - MAX;
+
+                // how many of each would need to go to close the gap on its own
+                const removeBlik = Math.min(blik, Math.ceil(excess / WEIGHT.Blik));
+                const removeFles = Math.min(fles, Math.ceil(excess / WEIGHT.Fles));
+
+                const suggestions = [];
+
+                let advies = "";
+                if ('EN' === getCustomerLng()) {
+                    if (removeBlik > 0) suggestions.push(removeBlik + " can" + (removeBlik === 1 ? "" : "s"));
+                    if (removeFles > 0) suggestions.push(removeFles + " bottle" + (removeFles === 1 ? "" : "s"));
+                    if (suggestions.length) {
+                        advies = " Remove at least " + suggestions.join(" or ") + " to get below the limit.";
+                        const el = document.querySelector('div.ec-form__row--v015hjr label');
+                        el.textContent = el.textContent + advies;
+                    }
+                } else {
+                    if (removeBlik > 0) suggestions.push(removeBlik + " blik" + (removeBlik === 1 ? "" : "ken"));
+                    if (removeFles > 0) suggestions.push(removeFles + " fles" + (removeFles === 1 ? "" : "sen"));
+                    if (suggestions.length) {
+                        advies = " Verwijder minstens " + suggestions.join(" of ") + " om onder de limiet te komen.";
+                        const el = document.querySelector('div.ec-form__row--v015hjr label');
+                        el.textContent = el.textContent + advies;
+                    }
+                }
+
+                document.querySelector('div.ec-form__row--v015hjr input').checked = false;
+                document.querySelector('div.ec-form__row.ec-form__row--v015hjr').setAttribute('style', 'display: block !important');
+            }
+            console.log(
+                "Limiet overschreden: " + blik + " blik + " + fles + " fles = " +
+                gewicht + " van max " + MAX
+            );
+        } else {
+            if (!prodMode) {
+                document.querySelector('div.ec-form__row--v015hjr input').checked = true;
+                document.querySelector('div.ec-form__row.ec-form__row--v015hjr').setAttribute('style', 'display: none !important');
+            }
+        }
+    }).catch(function (err) {
+        console.log("Verpakking lookup failed", err);
     });
 }
