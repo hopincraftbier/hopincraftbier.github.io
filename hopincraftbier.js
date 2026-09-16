@@ -1,4 +1,4 @@
-const version = 'v7.63';
+const version = 'v7.65';
 let currentLanguage;
 
 const txtNl1 = '<div class="dtooltip"><p class="hover question">Kortingscoupon</p><p class="dtooltiptext">Afhankelijk van de gekozen betaling en levering, kunt u een kortingscoupon krijgen die te gebruiken is bij een volgende bestelling. Voor dit bier ziet u de bedragen in deze tabel</p></div><table class="discount-table"><thead><tr class="first_header"><th></th><th colspan="2">Manier van levering</th></tr><tr><th>Manier van betaling</th><th>Afhaling</th><th>Levering</th></tr></thead><tbody><tr><td class="header">Betalen bij afhaling</td><td>€ ';
@@ -665,7 +665,7 @@ function moveSubtitleNew() {
     // 2. move the subtitles, one layout pass
     requestAnimationFrame(function () {
         jobs.forEach(function (job) {
-            if (job.imgWrap) job.imgWrap.parentElement.insertBefore(job.el, job.imgWrap.lastChild.nextSibling);
+            if (job.imgWrap) job.imgWrap.parentElement.appendChild(job.el);
         });
     });
 
@@ -685,7 +685,7 @@ function moveSubtitleNew() {
                     }
                     const badge = untappdBadge.cloneNode(true);
                     badge.lastChild.textContent = untappdScore(product);
-                    job.el.appendChild(badge);
+                    job.el.lastChild.appendChild(badge);
                     job.el.setAttribute('data-untappd', 'done');
                     showMaxPrice(job.wrap, product);
                 });
