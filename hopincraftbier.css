@@ -1,4 +1,4 @@
-/* HopInCraftbier custom css v4.54 */
+/* HopInCraftbier custom css v4.55 */
 /** start homepage **/
 body {
     margin: auto;
@@ -1345,6 +1345,9 @@ div.pager__body {
 /* == end delivery == */
 
 /* == start cart == */
+div.ec-form__row--v015hjr {
+    display: none;
+}
 div.ecwid-checkout-notice > div {
     margin: auto;
     font-size: 14px;
