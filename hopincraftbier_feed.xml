@@ -392,7 +392,8 @@
     <title>Infinite Scroll</title>
     <url>https://hopincraftbier.be/products/fuerst-wiacek-berlin-infinite-scroll</url>
     <brewery_name>FUERST WIACEK Berlin</brewery_name>
-    <price>1.16</price>
+    <price>5.94</price>
+    <regular_price>1.16</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/856733386/6118848210.png</image>
     <beer_description>IPA – Dry hopped with Krush, Motueka &amp; HBC 638. FUERST WIACEK Berlin - Infinite Scroll</beer_description>
     <beer_style>IPA - New England / Hazy</beer_style>
@@ -9334,6 +9335,6 @@
     <brewery_country>Canada</brewery_country>
     <untappd_id>6197367</untappd_id>
   </item>
-  <timestamp>1789553709</timestamp>
-  <gen_date>16/09/2026 12:15:09</gen_date>
+  <timestamp>1789557308</timestamp>
+  <gen_date>16/09/2026 13:15:08</gen_date>
 </feed>
