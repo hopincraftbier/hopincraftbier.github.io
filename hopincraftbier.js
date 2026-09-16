@@ -1,4 +1,4 @@
-const version = 'v7.66';
+const version = 'v7.70';
 let currentLanguage;
 
 const txtNl1 = '<div class="dtooltip"><p class="hover question">Kortingscoupon</p><p class="dtooltiptext">Afhankelijk van de gekozen betaling en levering, kunt u een kortingscoupon krijgen die te gebruiken is bij een volgende bestelling. Voor dit bier ziet u de bedragen in deze tabel</p></div><table class="discount-table"><thead><tr class="first_header"><th></th><th colspan="2">Manier van levering</th></tr><tr><th>Manier van betaling</th><th>Afhaling</th><th>Levering</th></tr></thead><tbody><tr><td class="header">Betalen bij afhaling</td><td>€ ';
@@ -16,13 +16,13 @@ const txtEn5 = '</td><td>€ 0</td></tr></tbody></table></div>';
 const countries = ['BE','NL','FR','DE','LU','ES','FI','IT','AT','LV','LT','EE','IE','PT','SE','PL','GR','RO','CZ','HU','HR', 'DK', 'SI', 'SK'];
 
 // let debug = false;
-let prodMode = true;
+// let prodMode = true;
 let process = false;
 
-let cookieProdMode = document.cookie.split('; ').find(row => row.startsWith('prodMode='));
-if (cookieProdMode) {
-    prodMode = cookieProdMode.split('=')[1] === 'true';
-}
+// let cookieProdMode = document.cookie.split('; ').find(row => row.startsWith('prodMode='));
+// if (cookieProdMode) {
+//     prodMode = cookieProdMode.split('=')[1] === 'true';
+// }
 // let cookieDebug = document.cookie.split('; ').find(row => row.startsWith('debug='));
 // if (cookieDebug) {
 //     debug = cookieDebug.split('=')[1] === 'true';
@@ -636,11 +636,8 @@ function untappdScore(product) {
     return value ? value.split('(')[0] : 'N/A';
 }
 
-function moveSubtitleNew() {
-    if (prodMode) {
-        return;
-    }
-    log('moveSubtitleNew');
+function moveSubtitle() {
+    log('moveSubtitle');
 
     const subtitles = document.querySelectorAll(
         'div.grid-product__wrap-inner > div.grid-product__subtitle:not([data-untappd])'
@@ -695,50 +692,6 @@ function moveSubtitleNew() {
             log('moveSubtitle failed: ' + err);
             jobs.forEach(function (job) { job.el.removeAttribute('data-untappd'); });
         });
-}
-
-function moveSubtitle() {
-    if (!prodMode) {
-        moveSubtitleNew();
-        return;
-    }
-    log('moveSubtitle');
-
-    document.querySelectorAll('div.grid-product__wrap-inner > div.grid-product__subtitle').forEach(function (p) {
-        let imgWrapElement = p.parentElement.querySelector('div.grid-product__image-wrap');
-        if (imgWrapElement) {
-            imgWrapElement.parentElement.insertBefore(p, imgWrapElement.lastChild.nextSibling);
-        }
-        let pid = p.closest('div.grid-product__wrap').getAttribute('data-product-id');
-        $.ajax({
-            type: "GET",
-            url: "https://app.ecwid.com/api/v3/112251271/products/" + pid + "?responseFields=id,price,attributes",
-            dataType: 'json',
-            contentType: "application/json",
-            headers: {
-                "Cache-Control": "no-cache",
-                "Authorization": "Bearer secret_8BssSp1WCED2hZW8mHZFWEgaHJziJY7W",
-            },
-            data: {},
-            success: function(resp){
-                let untappd;
-                resp.attributes.forEach(function(attr){
-                    if (attr.name === 'Untappd') untappd = attr.value;
-                })
-                const y = untappd?.split('(');
-                let score = 'N/A';
-                if (y && y.length > 0) {
-                    score = y[0];
-                }
-                p.innerHTML = p.innerHTML.replace('</div>', '<div class="untappd">\n' +
-                    '<img style="display: inline-block;" src="https://d2j6dbq0eux0bg.cloudfront.net/images/wysiwyg/product/112251271/724600919/1739827248845232524408/untappd_icon64_png.png" height="16px" width="16px">\n' +
-                    '<span style="display: inline-block">&nbsp;' + score + '</span></div></div>');
-                showMaxPrice(p.closest('div.grid-product__wrap'), resp);
-            },
-            error: function(error){
-            }
-        });
-    });
 }
 
 function showMaxPrice(element, resp) {
