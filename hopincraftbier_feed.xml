@@ -2,7 +2,7 @@
 
 <feed>
   <title>Hop In Craftbier</title>
-  <link>https://hopincraftbier.be/products&lt;/link&gt;</link>
+  <link>https://hopincraftbier.be</link>
   <description>Hop In Craftbier Products feed</description>
   <item>
     <id>6850795</id>
@@ -1090,7 +1090,7 @@
     <brewery_name>Lolev</brewery_name>
     <price>10.67</price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/847952501/6039782755.png</image>
-    <beer_description>Freestyle Motueka, Freestyle Waimea,&#3;Freestyle Nelson Sauvin, Roy Farms Citra Liquid Lupulin, Fresh Wai-iti Cold-Pressed Hop Juice Lolev - Appaloosa</beer_description>
+    <beer_description>Freestyle Motueka, Freestyle Waimea, Freestyle Nelson Sauvin, Roy Farms Citra Liquid Lupulin, Fresh Wai-iti Cold-Pressed Hop Juice Lolev - Appaloosa</beer_description>
     <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
     <beer_abv>8.6%</beer_abv>
     <beer_volume>473 ml</beer_volume>
