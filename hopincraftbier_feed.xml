@@ -2,7 +2,7 @@
 
 <feed>
   <title>Hop In Craftbier</title>
-  <link>https://hopincraftbier.be</link>
+  <link>https://hopincraftbier.be&lt;/link&gt;</link>
   <description>Hop In Craftbier Products feed</description>
   <item>
     <id>6850795</id>
@@ -9331,6 +9331,6 @@
     <brewery_country>Canada</brewery_country>
     <untappd_id>6197367</untappd_id>
   </item>
-  <timestamp>1789626489</timestamp>
-  <gen_date>17/09/2026 08:28:09</gen_date>
+  <timestamp>1789626986</timestamp>
+  <gen_date>17/09/2026 08:36:26</gen_date>
 </feed>
