@@ -8634,24 +8634,6 @@
     <untappd_id>4886997</untappd_id>
   </item>
   <item>
-    <id>2873940</id>
-    <ecommerce_id>778813133</ecommerce_id>
-    <title>Néron</title>
-    <url>https://hopincraftbier.be/products/brasserie-du-bas-canada-neron</url>
-    <brewery_name>Brasserie du Bas-Canada</brewery_name>
-    <price>8.49</price>
-    <regular_price>11,32</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5260880910.webp</image>
-    <beer_description>Double IPA with Galaxy, Citra &amp; Amarillo hops. Brasserie du Bas-Canada - Neron</beer_description>
-    <beer_style>IPA - Imperial / Double</beer_style>
-    <beer_abv>8%</beer_abv>
-    <beer_volume>473 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Canada</brewery_country>
-    <date_canned>2025-09-16</date_canned>
-    <untappd_id>2873940</untappd_id>
-  </item>
-  <item>
     <id>5697352</id>
     <ecommerce_id>778813132</ecommerce_id>
     <title>ParabaNoche (2024) (collab WeldWerks)</title>
@@ -8769,24 +8751,6 @@
     <brewery_country>United States</brewery_country>
     <date_canned>2025-09-12</date_canned>
     <untappd_id>6365435</untappd_id>
-  </item>
-  <item>
-    <id>6377695</id>
-    <ecommerce_id>778817582</ecommerce_id>
-    <title>TERNION</title>
-    <url>https://hopincraftbier.be/products/homes-ternion</url>
-    <brewery_name>HOMES Brewery</brewery_name>
-    <price>5.9</price>
-    <regular_price>11,79</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5243366171.webp</image>
-    <beer_description>brewed w/ cryo mosaic &amp; super sauvin (NZ), dry hopped w/ krush, nelson sauvin (NZ), and sabro HOMES - TERNION</beer_description>
-    <beer_style>IPA - Triple</beer_style>
-    <beer_abv>10%</beer_abv>
-    <beer_volume>473 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>United States</brewery_country>
-    <date_canned>2025-08-15</date_canned>
-    <untappd_id>6377695</untappd_id>
   </item>
   <item>
     <id>1831710</id>
@@ -9367,6 +9331,6 @@
     <brewery_country>Canada</brewery_country>
     <untappd_id>6197367</untappd_id>
   </item>
-  <timestamp>1789626421</timestamp>
-  <gen_date>17/09/2026 08:27:01</gen_date>
+  <timestamp>1789626489</timestamp>
+  <gen_date>17/09/2026 08:28:09</gen_date>
 </feed>
