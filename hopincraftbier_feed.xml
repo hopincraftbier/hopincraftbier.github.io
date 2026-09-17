@@ -8839,24 +8839,6 @@
     <untappd_id>4166507</untappd_id>
   </item>
   <item>
-    <id>6340747</id>
-    <ecommerce_id>770501258</ecommerce_id>
-    <title>NEEDLES</title>
-    <url>https://hopincraftbier.be/products/garage-needles</url>
-    <brewery_name>Garage Beer Co.</brewery_name>
-    <price>3.56</price>
-    <regular_price>7,11</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/770501258/5073875380.webp</image>
-    <beer_description>WEST COAST IPA BREWED WITH CITRA T90 AND SPECTRUM, MOSAIC SPECTRUM, SIMCOE AND COLUMBUS TO ACHIEVE CITRUS PEEL AND PINE FLAVORS Garage - NEEDLES</beer_description>
-    <beer_style>IPA - American</beer_style>
-    <beer_abv>7%</beer_abv>
-    <beer_volume>440 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Spain</brewery_country>
-    <date_canned>2025-07-03</date_canned>
-    <untappd_id>6340747</untappd_id>
-  </item>
-  <item>
     <id>4977403</id>
     <ecommerce_id>769161768</ecommerce_id>
     <title>Heavy Things (2022) (collab The Bruery)</title>
@@ -8889,24 +8871,6 @@
     <untappd_id>4969423</untappd_id>
   </item>
   <item>
-    <id>6325245</id>
-    <ecommerce_id>767352719</ecommerce_id>
-    <title>Aspect of Leo</title>
-    <url>https://hopincraftbier.be/products/hop-butcher-for-the-world-aspect-of-leo</url>
-    <brewery_name>Hop Butcher For The World</brewery_name>
-    <price>5.17</price>
-    <regular_price>10,34</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5145475969.webp</image>
-    <beer_description>Citra-Hopped India Pale Ale Brewed With Blood Orange Hop Butcher For The World - Aspect of Leo</beer_description>
-    <beer_style>IPA - New England / Hazy</beer_style>
-    <beer_abv>6.5%</beer_abv>
-    <beer_volume>473 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>United States</brewery_country>
-    <date_canned>2025-07-14</date_canned>
-    <untappd_id>6325245</untappd_id>
-  </item>
-  <item>
     <id>6331773</id>
     <ecommerce_id>767352716</ecommerce_id>
     <title>Dirty Monkey</title>
@@ -8921,24 +8885,6 @@
     <beer_package>can</beer_package>
     <brewery_country>United States</brewery_country>
     <untappd_id>6331773</untappd_id>
-  </item>
-  <item>
-    <id>6318598</id>
-    <ecommerce_id>767347693</ecommerce_id>
-    <title>Maniac Brainiac (collab Cerebral)</title>
-    <url>https://hopincraftbier.be/products/finback-maniac-brainiac</url>
-    <brewery_name>Finback Brewery</brewery_name>
-    <price>4.9</price>
-    <regular_price>9,79</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5099899445.webp</image>
-    <beer_description>Finback - Maniac Brainiac</beer_description>
-    <beer_style>IPA - New England / Hazy</beer_style>
-    <beer_abv>6.5%</beer_abv>
-    <beer_volume>473 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>United States</brewery_country>
-    <date_canned>2025-06-18</date_canned>
-    <untappd_id>6318598</untappd_id>
   </item>
   <item>
     <id>6299087</id>
@@ -8972,23 +8918,6 @@
     <beer_package>can</beer_package>
     <brewery_country>United States</brewery_country>
     <untappd_id>6248577</untappd_id>
-  </item>
-  <item>
-    <id>2906239</id>
-    <ecommerce_id>765275158</ecommerce_id>
-    <title>Trade War</title>
-    <url>https://hopincraftbier.be/products/district-96-trade-war</url>
-    <brewery_name>District 96 Beer Factory</brewery_name>
-    <price>4.94</price>
-    <regular_price>9,87</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5032065449.webp</image>
-    <beer_description>Hopped with Enigma and Vic secret. Orange, berry, and tropical fruits. District 96 - Trade War</beer_description>
-    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
-    <beer_abv>8.5%</beer_abv>
-    <beer_volume>473 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>United States</brewery_country>
-    <untappd_id>2906239</untappd_id>
   </item>
   <item>
     <id>6164819</id>
@@ -9367,6 +9296,6 @@
     <brewery_country>Canada</brewery_country>
     <untappd_id>6197367</untappd_id>
   </item>
-  <timestamp>1789641008</timestamp>
-  <gen_date>17/09/2026 12:30:08</gen_date>
+  <timestamp>1789650910</timestamp>
+  <gen_date>17/09/2026 15:15:10</gen_date>
 </feed>
