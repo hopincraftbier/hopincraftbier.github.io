@@ -1,4 +1,4 @@
-const version = 'v8.00';
+const version = 'v8.01';
 let currentLanguage;
 
 const txtNl1 = '<div class="dtooltip"><p class="hover question">Kortingscoupon</p><p class="dtooltiptext">Afhankelijk van de gekozen betaling en levering, kunt u een kortingscoupon krijgen die te gebruiken is bij een volgende bestelling. Voor dit bier ziet u de bedragen in deze tabel</p></div><table class="discount-table"><thead><tr class="first_header"><th></th><th colspan="2">Manier van levering</th></tr><tr><th>Manier van betaling</th><th>Afhaling</th><th>Levering</th></tr></thead><tbody><tr><td class="header">Betalen bij afhaling</td><td>€ ';
@@ -901,7 +901,7 @@ function processCartPage() {
         || document.querySelector('.ecwid-productBrowser-CheckoutPaymentDetailsPage')
         || document.querySelector('.ecwid-productBrowser-ElmCheckoutDeliveryPage')) {
         Ecwid.Cart.get(function(cart){
-            logCart(cart);
+            validateCartLimit(cart);
         });
         translateCheckoutNotice();
         addDeliveryInfoLink();
@@ -1183,7 +1183,20 @@ function cleanCategory() {
     });
 }
 
-function logCart(cart) {
+function validateCartLimit(cart) {
+    if (cart.shippingMethod && (cart.shippingMethod === 'Zelf ophalen' || cart.shippingMethod === 'Pick up yourself'
+            || cart.shippingMethod === 'Reservaties'  || cart.shippingMethod === 'Reservations')) {
+        return;
+    }
+    const rootEl = document.querySelector('div.ec-form__row--v015hjr, div.ec-cart-step__section--h6x09wd');
+    if (!rootEl) {
+        return;
+    }
+    const inputEl = rootEl.querySelector('input');
+    if (!inputEl) {
+        return;
+    }
+
     const MAX = 140;
     const WEIGHT = { Blik: 4, Fles: 7 };
     const heaviest = Math.max.apply(null, Object.keys(WEIGHT).map(k => WEIGHT[k]));
@@ -1220,7 +1233,7 @@ function logCart(cart) {
                 if (removeFles > 0) suggestions.push(removeFles + " bottle" + (removeFles === 1 ? "" : "s"));
                 if (suggestions.length) {
                     advies = " Remove at least " + suggestions.join(" or ") + " to get below the limit.";
-                    const el = document.querySelector('div.ec-form__row--v015hjr label');
+                    const el = rootEl.querySelector('label');
                     if (el && !el.classList.contains('advies')) {
                         el.textContent = el.textContent + advies;
                         el.classList.add('advies');
@@ -1231,7 +1244,7 @@ function logCart(cart) {
                 if (removeFles > 0) suggestions.push(removeFles + " fles" + (removeFles === 1 ? "" : "sen"));
                 if (suggestions.length) {
                     advies = " Verwijder minstens " + suggestions.join(" of ") + " om onder de limiet te komen.";
-                    const el = document.querySelector('div.ec-form__row--v015hjr label');
+                    const el = rootEl.querySelector('label');
                     if (el && !el.classList.contains('advies')) {
                         el.textContent = el.textContent + advies;
                         el.classList.add('advies');
@@ -1239,16 +1252,14 @@ function logCart(cart) {
                 }
             }
 
-            if (document.querySelector('div.ec-form__row--v015hjr input') &&
-                    document.querySelector('div.ec-form__row--v015hjr input').checked !== false) {
-                document.querySelector('div.ec-form__row.ec-form__row--v015hjr').setAttribute('style', 'display: block !important');
-                document.querySelector('div.ec-form__row--v015hjr input').click();
+            if (inputEl.checked !== false) {
+                rootEl.setAttribute('style', 'display: block !important');
+                inputEl.click();
             }
         } else {
-            if (document.querySelector('div.ec-form__row--v015hjr input') &&
-                    document.querySelector('div.ec-form__row--v015hjr input').checked !== true) {
-                document.querySelector('div.ec-form__row.ec-form__row--v015hjr').setAttribute('style', 'display: none !important');
-                document.querySelector('div.ec-form__row--v015hjr input').click();
+            if (inputEl.checked !== true) {
+                rootEl.setAttribute('style', 'display: none !important');
+                inputEl.click();
             }
         }
     }).catch(function (err) {
