@@ -1,4 +1,4 @@
-/* HopInCraftbier custom css v4.60 */
+/* HopInCraftbier custom css v4.61 */
 /** start homepage **/
 body {
     margin: auto;
@@ -1345,9 +1345,9 @@ div.pager__body {
 /* == end delivery == */
 
 /* == start cart == */
-div.ec-form__row--v015hjr, div.ec-form__row--h6x09wd {
+div.ec-form__row--v015hjr, div.ec-cart-step__section--h6x09wd {
     display: none !important;
-    div.ec-form__title {
+    div.ec-form__title, p.ec-cart-step__subtitle {
         color: rgb(229, 100, 100) !important;
     }
     div.form-control__checkbox-wrap {
