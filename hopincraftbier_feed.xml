@@ -801,6 +801,7 @@
     <beer_volume>440 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>Spain</brewery_country>
+    <date_canned>2026-08-04</date_canned>
     <untappd_id>6819959</untappd_id>
   </item>
   <item>
@@ -817,6 +818,7 @@
     <beer_volume>440 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>Spain</brewery_country>
+    <date_best_before>2026-08-04</date_best_before>
     <untappd_id>6819962</untappd_id>
   </item>
   <item>
@@ -1752,6 +1754,7 @@
     <beer_volume>440 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>Spain</brewery_country>
+    <date_best_before>2027-06-23</date_best_before>
     <untappd_id>6743791</untappd_id>
   </item>
   <item>
@@ -1768,6 +1771,7 @@
     <beer_volume>440 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>Spain</brewery_country>
+    <date_best_before>2027-06-22</date_best_before>
     <untappd_id>6743787</untappd_id>
   </item>
   <item>
@@ -9347,6 +9351,6 @@
     <brewery_country>Canada</brewery_country>
     <untappd_id>6197367</untappd_id>
   </item>
-  <timestamp>1789727407</timestamp>
-  <gen_date>18/09/2026 12:30:07</gen_date>
+  <timestamp>1789728308</timestamp>
+  <gen_date>18/09/2026 12:45:08</gen_date>
 </feed>
