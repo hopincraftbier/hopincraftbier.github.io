@@ -1,4 +1,4 @@
-/* HopInCraftbier custom css v4.59 */
+/* HopInCraftbier custom css v4.60 */
 /** start homepage **/
 body {
     margin: auto;
@@ -1345,7 +1345,7 @@ div.pager__body {
 /* == end delivery == */
 
 /* == start cart == */
-div.ec-form__row--v015hjr {
+div.ec-form__row--v015hjr, div.ec-form__row--h6x09wd {
     display: none !important;
     div.ec-form__title {
         color: rgb(229, 100, 100) !important;
