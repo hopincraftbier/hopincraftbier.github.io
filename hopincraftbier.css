@@ -1,4 +1,4 @@
-/* HopInCraftbier custom css v4.61 */
+/* HopInCraftbier custom css v4.62 */
 /** start homepage **/
 body {
     margin: auto;
@@ -1093,7 +1093,7 @@ div.pager__body {
         -webkit-tap-highlight-color: rgba(0, 0, 0, 0) !important;
 
         .grid-product__title-inner {
-            margin: 0 5px !important;
+            margin: 0 20px !important;
             display: flex !important;
             justify-content: center !important;
             align-items: center !important;
