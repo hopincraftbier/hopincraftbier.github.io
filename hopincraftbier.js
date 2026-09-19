@@ -1,4 +1,4 @@
-const version = 'v8.01';
+const version = 'v8.02';
 let currentLanguage;
 
 const txtNl1 = '<div class="dtooltip"><p class="hover question">Kortingscoupon</p><p class="dtooltiptext">Afhankelijk van de gekozen betaling en levering, kunt u een kortingscoupon krijgen die te gebruiken is bij een volgende bestelling. Voor dit bier ziet u de bedragen in deze tabel</p></div><table class="discount-table"><thead><tr class="first_header"><th></th><th colspan="2">Manier van levering</th></tr><tr><th>Manier van betaling</th><th>Afhaling</th><th>Levering</th></tr></thead><tbody><tr><td class="header">Betalen bij afhaling</td><td>€ ';
@@ -28,6 +28,7 @@ let process = false;
 //     debug = cookieDebug.split('=')[1] === 'true';
 // }
 
+handleAgeConfirmation();
 redirectWhenNeeded();
 Ecwid.OnAPILoaded.add(function() {
     try {
@@ -45,6 +46,7 @@ Ecwid.OnAPILoaded.add(function() {
 Ecwid.OnPageLoad.add(function() {
     process = false;
     redirectWhenNeeded();
+    handleAgeConfirmation();
 });
 
 Ecwid.OnPageLoaded.add(function(page){
@@ -75,6 +77,7 @@ Ecwid.OnPageLoaded.add(function(page){
 document.addEventListener("visibilitychange", (event) => {
     if (document.visibilityState === "visible" && process) {
         redirectWhenNeeded();
+        handleAgeConfirmation();
         processInfoPages();
         processCartPage();
         processProductBrowserPage();
@@ -724,6 +727,20 @@ function redirectWhenNeeded() {
     if (window.location.href.endsWith('/products')) {
         let newLoc = window.location.href + '/alle-bieren';
         window.location.replace(newLoc);
+    }
+}
+
+function handleAgeConfirmation() {
+    var old_element = document.querySelector('section.ins-age-confirmation__actions div.ins-age-confirmation__button--confirm a.ins-control--button');
+    if (old_element) {
+        old_element.setAttribute('href', '')
+        var new_element = old_element.cloneNode(true);
+        old_element.parentNode.replaceChild(new_element, old_element);
+        new_element.addEventListener("click", function() {
+            const te = 30;
+            const B = 1440 * 60 * 1e3;
+            localStorage.setItem("ec-age-verification-status", ""+(Date.now() + te * B));
+        }, false);
     }
 }
 
