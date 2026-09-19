@@ -1,4 +1,4 @@
-const version = 'v8.02';
+const version = 'v8.03';
 let currentLanguage;
 
 const txtNl1 = '<div class="dtooltip"><p class="hover question">Kortingscoupon</p><p class="dtooltiptext">Afhankelijk van de gekozen betaling en levering, kunt u een kortingscoupon krijgen die te gebruiken is bij een volgende bestelling. Voor dit bier ziet u de bedragen in deze tabel</p></div><table class="discount-table"><thead><tr class="first_header"><th></th><th colspan="2">Manier van levering</th></tr><tr><th>Manier van betaling</th><th>Afhaling</th><th>Levering</th></tr></thead><tbody><tr><td class="header">Betalen bij afhaling</td><td>€ ';
@@ -732,7 +732,7 @@ function redirectWhenNeeded() {
 
 function handleAgeConfirmation() {
     var old_element = document.querySelector('section.ins-age-confirmation__actions div.ins-age-confirmation__button--confirm a.ins-control--button');
-    if (old_element) {
+    if (old_element && old_element.getAttribute('href') !== '') {
         old_element.setAttribute('href', '')
         var new_element = old_element.cloneNode(true);
         old_element.parentNode.replaceChild(new_element, old_element);
