@@ -337,6 +337,7 @@
     <beer_volume>330 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>Belgium</brewery_country>
+    <date_best_before>2027-07-29</date_best_before>
     <untappd_id>6414860</untappd_id>
   </item>
   <item>
@@ -9354,6 +9355,6 @@
     <brewery_country>Canada</brewery_country>
     <untappd_id>6197367</untappd_id>
   </item>
-  <timestamp>1789890309</timestamp>
-  <gen_date>20/09/2026 09:45:09</gen_date>
+  <timestamp>1789895707</timestamp>
+  <gen_date>20/09/2026 11:15:07</gen_date>
 </feed>
