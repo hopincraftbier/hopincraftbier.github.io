@@ -18,23 +18,25 @@
     <beer_volume>330 ml</beer_volume>
     <beer_package>bottle</beer_package>
     <brewery_country>Sweden</brewery_country>
+    <date_best_before>2029-06-16</date_best_before>
     <untappd_id>6829678</untappd_id>
   </item>
   <item>
-    <id>3997931</id>
+    <id>6911811</id>
     <ecommerce_id>865622478</ecommerce_id>
-    <title>Carême (collab Bottle Logic&amp; Moksa&amp; Dugges)</title>
-    <url>https://hopincraftbier.be/products/omnipollo-careme</url>
+    <title>Carême 2026 (collab Bottle Logic&amp; Moksa&amp; Dugges)</title>
+    <url>https://hopincraftbier.be/products/omnipollo-careme-2026</url>
     <brewery_name>Omnipollo</brewery_name>
     <price>15.98</price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/865622478/6260617227.png</image>
-    <beer_description>Omnipollo × Moksa × Bottle Logic Carême Bourbon Barrel Aged Imperial Toasted Coconut Vanilla Bean Stout 14 % Omnipollo - Careme</beer_description>
+    <beer_description>Omnipollo × Moksa × Bottle Logic Carême Bourbon Barrel Aged Imperial Toasted Coconut Vanilla Bean Stout 14 % Omnipollo - Carême 2026</beer_description>
     <beer_style>Stout - Imperial / Double Pastry</beer_style>
     <beer_abv>14%</beer_abv>
     <beer_volume>330 ml</beer_volume>
     <beer_package>bottle</beer_package>
     <brewery_country>Sweden</brewery_country>
-    <untappd_id>3997931</untappd_id>
+    <date_best_before>2029-08-13</date_best_before>
+    <untappd_id>6911811</untappd_id>
   </item>
   <item>
     <id>6842771</id>
@@ -50,6 +52,7 @@
     <beer_volume>440 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>Sweden</brewery_country>
+    <date_best_before>2027-08-24</date_best_before>
     <untappd_id>6842771</untappd_id>
   </item>
   <item>
@@ -9351,6 +9354,6 @@
     <brewery_country>Canada</brewery_country>
     <untappd_id>6197367</untappd_id>
   </item>
-  <timestamp>1789738209</timestamp>
-  <gen_date>18/09/2026 15:30:09</gen_date>
+  <timestamp>1789884906</timestamp>
+  <gen_date>20/09/2026 08:15:06</gen_date>
 </feed>
