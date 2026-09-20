@@ -354,6 +354,7 @@
     <beer_volume>330 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>Belgium</brewery_country>
+    <date_best_before>2027-07-30</date_best_before>
     <untappd_id>6757124</untappd_id>
   </item>
   <item>
@@ -370,6 +371,7 @@
     <beer_volume>440 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>Romania</brewery_country>
+    <date_best_before>2027-04-25</date_best_before>
     <untappd_id>6793624</untappd_id>
   </item>
   <item>
@@ -386,6 +388,7 @@
     <beer_volume>440 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>Romania</brewery_country>
+    <date_best_before>2027-04-25</date_best_before>
     <untappd_id>6793615</untappd_id>
   </item>
   <item>
@@ -436,6 +439,7 @@
     <beer_volume>440 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>Romania</brewery_country>
+    <date_best_before>2027-03-25</date_best_before>
     <untappd_id>6745147</untappd_id>
   </item>
   <item>
@@ -574,6 +578,7 @@
     <beer_volume>440 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>Germany</brewery_country>
+    <date_best_before>04/2027</date_best_before>
     <untappd_id>6793741</untappd_id>
   </item>
   <item>
@@ -591,6 +596,7 @@
     <beer_volume>440 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>Germany</brewery_country>
+    <date_best_before>04/2027</date_best_before>
     <untappd_id>6793762</untappd_id>
   </item>
   <item>
@@ -2934,6 +2940,8 @@
     <beer_volume>330 ml</beer_volume>
     <beer_package>bottle</beer_package>
     <brewery_country>Estonia</brewery_country>
+    <date_best_before>2030-02-25</date_best_before>
+    <date_canned>2026-02-25</date_canned>
     <untappd_id>6619576</untappd_id>
   </item>
   <item>
@@ -9355,6 +9363,6 @@
     <brewery_country>Canada</brewery_country>
     <untappd_id>6197367</untappd_id>
   </item>
-  <timestamp>1789895707</timestamp>
-  <gen_date>20/09/2026 11:15:07</gen_date>
+  <timestamp>1789897507</timestamp>
+  <gen_date>20/09/2026 11:45:07</gen_date>
 </feed>
