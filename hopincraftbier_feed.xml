@@ -9008,7 +9008,7 @@
     <url>https://hopincraftbier.be/products/energy-city-bistro-peach-strawberry-rhubarb-cobbler</url>
     <brewery_name>Energy City Brewing</brewery_name>
     <price>9.54</price>
-    <regular_price>11,22</regular_price>
+    <regular_price>11.22</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4965680245.webp</image>
     <beer_description>Berliner style weisse beer with peaches, strawberries, rhubarb, cinnamon &amp; vanilla. Energy City - Bistro Peach Strawberry Rhubarb Cobbler</beer_description>
     <beer_style>Sour - Fruited Berliner Weisse</beer_style>
@@ -9060,7 +9060,7 @@
     <url>https://hopincraftbier.be/products/energy-city-bistro-cabana-watermelon--pomegranate</url>
     <brewery_name>Energy City Brewing</brewery_name>
     <price>9.54</price>
-    <regular_price>11,22</regular_price>
+    <regular_price>11.22</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4965693146.webp</image>
     <beer_description>Berliner-style weisse beer with watermelon and pomegranate. Energy City - Bistro Cabana Watermelon &amp; Pomegranate</beer_description>
     <beer_style>Sour - Fruited Berliner Weisse</beer_style>
@@ -9327,6 +9327,6 @@
     <brewery_country>Canada</brewery_country>
     <untappd_id>6197367</untappd_id>
   </item>
-  <timestamp>1790169915</timestamp>
-  <gen_date>23/09/2026 15:25:15</gen_date>
+  <timestamp>1790170206</timestamp>
+  <gen_date>23/09/2026 15:30:06</gen_date>
 </feed>
