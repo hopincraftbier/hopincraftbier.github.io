@@ -1177,6 +1177,7 @@
     <beer_volume>473 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>United States</brewery_country>
+    <date_canned>2026-07-31</date_canned>
     <untappd_id>6790560</untappd_id>
   </item>
   <item>
@@ -1273,6 +1274,8 @@
     <beer_volume>473 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>Canada</brewery_country>
+    <date_best_before>2027-07-14</date_best_before>
+    <date_canned>2026-07-14</date_canned>
     <untappd_id>6792526</untappd_id>
   </item>
   <item>
@@ -1290,6 +1293,7 @@
     <beer_volume>473 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>Canada</brewery_country>
+    <date_canned>07/2026</date_canned>
     <untappd_id>6792386</untappd_id>
   </item>
   <item>
@@ -1307,6 +1311,7 @@
     <beer_volume>473 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>Canada</brewery_country>
+    <date_canned>07/2026</date_canned>
     <untappd_id>6792384</untappd_id>
   </item>
   <item>
@@ -1323,6 +1328,7 @@
     <beer_volume>473 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>Canada</brewery_country>
+    <date_canned>07/2026</date_canned>
     <untappd_id>6790446</untappd_id>
   </item>
   <item>
@@ -1666,6 +1672,7 @@
     <beer_volume>473 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>Canada</brewery_country>
+    <date_canned>2026-07-28</date_canned>
     <untappd_id>6815213</untappd_id>
   </item>
   <item>
@@ -1682,6 +1689,7 @@
     <beer_volume>473 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>Canada</brewery_country>
+    <date_canned>2026-07-22</date_canned>
     <untappd_id>6397119</untappd_id>
   </item>
   <item>
@@ -8483,6 +8491,24 @@
     <untappd_id>6415131</untappd_id>
   </item>
   <item>
+    <id>6406320</id>
+    <ecommerce_id>781533751</ecommerce_id>
+    <title>Ever Juice</title>
+    <url>https://hopincraftbier.be/products/tripping-animals-ever-juice</url>
+    <brewery_name>Tripping Animals Brewing Co.</brewery_name>
+    <price>5</price>
+    <regular_price>9,99</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5260880889.webp</image>
+    <beer_description>DDH hazy Double India Pale Ale brewed with Mosaic, Strata and Motueka hops. Tripping Animals - Ever Juice</beer_description>
+    <beer_style>IPA - Imperial / Double</beer_style>
+    <beer_abv>8%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>United States</brewery_country>
+    <date_canned>2025-09-09</date_canned>
+    <untappd_id>6406320</untappd_id>
+  </item>
+  <item>
     <id>4178441</id>
     <ecommerce_id>781516951</ecommerce_id>
     <title>Queen Snake (collab Tin Barn)</title>
@@ -8738,6 +8764,24 @@
     <untappd_id>3717200</untappd_id>
   </item>
   <item>
+    <id>6365435</id>
+    <ecommerce_id>778817619</ecommerce_id>
+    <title>Sun JUJU (collab Ology)</title>
+    <url>https://hopincraftbier.be/products/tripping-animals-sun-juju</url>
+    <brewery_name>Tripping Animals Brewing Co.</brewery_name>
+    <price>4.66</price>
+    <regular_price>9,32</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5260880949.webp</image>
+    <beer_description>Hazy IPA with Peacharine, Kohia Nelson and Simcoe Hops brewed in collaboration with Ology out of Tampa Bay Florida Tripping Animals - Sun JUJU</beer_description>
+    <beer_style>IPA - New England / Hazy</beer_style>
+    <beer_abv>6.5%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>United States</brewery_country>
+    <date_canned>2025-09-12</date_canned>
+    <untappd_id>6365435</untappd_id>
+  </item>
+  <item>
     <id>6377695</id>
     <ecommerce_id>778817582</ecommerce_id>
     <title>TERNION</title>
@@ -8940,6 +8984,23 @@
     <untappd_id>6291425</untappd_id>
   </item>
   <item>
+    <id>6250418</id>
+    <ecommerce_id>756989446</ecommerce_id>
+    <title>Bistro Peach Strawberry Rhubarb Cobbler</title>
+    <url>https://hopincraftbier.be/products/energy-city-bistro-peach-strawberry-rhubarb-cobbler</url>
+    <brewery_name>Energy City Brewing</brewery_name>
+    <price>9.54</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4965680245.webp</image>
+    <beer_description>Berliner style weisse beer with peaches, strawberries, rhubarb, cinnamon &amp; vanilla. Energy City - Bistro Peach Strawberry Rhubarb Cobbler</beer_description>
+    <beer_style>Sour - Fruited Berliner Weisse</beer_style>
+    <beer_abv>6.5%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>United States</brewery_country>
+    <date_best_before>2026-10-24</date_best_before>
+    <untappd_id>6250418</untappd_id>
+  </item>
+  <item>
     <id>6240932</id>
     <ecommerce_id>756989443</ecommerce_id>
     <title>12yr Wild Turkey BA Dark Matter (2025)</title>
@@ -8972,6 +9033,23 @@
     <beer_package>bottle</beer_package>
     <brewery_country>United States</brewery_country>
     <untappd_id>6277002</untappd_id>
+  </item>
+  <item>
+    <id>6253097</id>
+    <ecommerce_id>756989898</ecommerce_id>
+    <title>Bistro Cabana Watermelon &amp; Pomegranate</title>
+    <url>https://hopincraftbier.be/products/energy-city-bistro-cabana-watermelon--pomegranate</url>
+    <brewery_name>Energy City Brewing</brewery_name>
+    <price>9.54</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4965693146.webp</image>
+    <beer_description>Berliner-style weisse beer with watermelon and pomegranate. Energy City - Bistro Cabana Watermelon &amp; Pomegranate</beer_description>
+    <beer_style>Sour - Fruited Berliner Weisse</beer_style>
+    <beer_abv>6.5%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>United States</brewery_country>
+    <date_best_before>2026-11-16</date_best_before>
+    <untappd_id>6253097</untappd_id>
   </item>
   <item>
     <id>1298579</id>
@@ -9229,6 +9307,6 @@
     <brewery_country>Canada</brewery_country>
     <untappd_id>6197367</untappd_id>
   </item>
-  <timestamp>1790152466</timestamp>
-  <gen_date>23/09/2026 10:34:26</gen_date>
+  <timestamp>1790159408</timestamp>
+  <gen_date>23/09/2026 12:30:08</gen_date>
 </feed>
