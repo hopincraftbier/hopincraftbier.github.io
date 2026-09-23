@@ -8483,24 +8483,6 @@
     <untappd_id>6415131</untappd_id>
   </item>
   <item>
-    <id>6406320</id>
-    <ecommerce_id>781533751</ecommerce_id>
-    <title>Ever Juice</title>
-    <url>https://hopincraftbier.be/products/tripping-animals-ever-juice</url>
-    <brewery_name>Tripping Animals Brewing Co.</brewery_name>
-    <price>7.49</price>
-    <regular_price>9,99</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5260880889.webp</image>
-    <beer_description>DDH hazy Double India Pale Ale brewed with Mosaic, Strata and Motueka hops. Tripping Animals - Ever Juice</beer_description>
-    <beer_style>IPA - Imperial / Double</beer_style>
-    <beer_abv>8%</beer_abv>
-    <beer_volume>473 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>United States</brewery_country>
-    <date_canned>2025-09-09</date_canned>
-    <untappd_id>6406320</untappd_id>
-  </item>
-  <item>
     <id>4178441</id>
     <ecommerce_id>781516951</ecommerce_id>
     <title>Queen Snake (collab Tin Barn)</title>
@@ -8754,24 +8736,6 @@
     <brewery_country>Canada</brewery_country>
     <date_canned>2025-09-22</date_canned>
     <untappd_id>3717200</untappd_id>
-  </item>
-  <item>
-    <id>6365435</id>
-    <ecommerce_id>778817619</ecommerce_id>
-    <title>Sun JUJU (collab Ology)</title>
-    <url>https://hopincraftbier.be/products/tripping-animals-sun-juju</url>
-    <brewery_name>Tripping Animals Brewing Co.</brewery_name>
-    <price>6.99</price>
-    <regular_price>9,32</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5260880949.webp</image>
-    <beer_description>Hazy IPA with Peacharine, Kohia Nelson and Simcoe Hops brewed in collaboration with Ology out of Tampa Bay Florida Tripping Animals - Sun JUJU</beer_description>
-    <beer_style>IPA - New England / Hazy</beer_style>
-    <beer_abv>6.5%</beer_abv>
-    <beer_volume>473 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>United States</brewery_country>
-    <date_canned>2025-09-12</date_canned>
-    <untappd_id>6365435</untappd_id>
   </item>
   <item>
     <id>6377695</id>
@@ -9265,6 +9229,6 @@
     <brewery_country>Canada</brewery_country>
     <untappd_id>6197367</untappd_id>
   </item>
-  <timestamp>1790151887</timestamp>
-  <gen_date>23/09/2026 10:24:47</gen_date>
+  <timestamp>1790152466</timestamp>
+  <gen_date>23/09/2026 10:34:26</gen_date>
 </feed>
