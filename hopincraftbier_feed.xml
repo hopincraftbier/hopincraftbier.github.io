@@ -10,8 +10,7 @@
     <title>Something Mosaic</title>
     <url>https://hopincraftbier.be/products/finback-something-mosaic</url>
     <brewery_name>Finback Brewery</brewery_name>
-    <price>0</price>
-    <regular_price>9.67</regular_price>
+    <price>9.67</price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/866901590/6276970205.png</image>
     <beer_description>All Mosaic IPA. Berry, intense and delicious. Finback Brewery - Something Mosaic</beer_description>
     <beer_style>IPA - New England / Hazy</beer_style>
@@ -9307,6 +9306,6 @@
     <brewery_country>Canada</brewery_country>
     <untappd_id>6197367</untappd_id>
   </item>
-  <timestamp>1790257507</timestamp>
-  <gen_date>24/09/2026 15:45:07</gen_date>
+  <timestamp>1790258407</timestamp>
+  <gen_date>24/09/2026 16:00:07</gen_date>
 </feed>
