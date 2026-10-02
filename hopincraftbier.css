@@ -1,4 +1,4 @@
-/* HopInCraftbier custom css v4.63 */
+/* HopInCraftbier custom css v4.64 */
 /** start homepage **/
 body {
     margin: auto;
@@ -557,7 +557,8 @@ footer.ins-tile--footer .section__content {
 #tile-call-to-action-6v9FY3,#tile-call-to-action-vRWv4g,#tile-call-to-action-zvTeUd {
     cursor:pointer;
 }
-#tile-category-products-QTXrLB div.ins-tile__body {
+#tile-category-products-QTXrLB div.ins-tile__body,
+#tile-category-products-jfRyHA div.section__animation {
     cursor:pointer;
 }
 #tile-cover-HaXq6F {
