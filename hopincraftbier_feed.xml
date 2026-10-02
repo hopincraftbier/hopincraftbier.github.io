@@ -8735,7 +8735,7 @@
     <brewery_name>Galea Craft Beers</brewery_name>
     <price>6.49</price>
     <regular_price>8,65</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5015394065.webp</image>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/762752711/5015394065.webp</image>
     <beer_description>The Mind of Annapurna BA, is a imperial Chai Latté Milk Stout aged for 2 years in 2nd fill Buffalo Trace Bourbon Barrels. 2nd fill in this case means a Bourbon finished on a Bourbon barrel. So 2 times filled with a Bourbon before our stout. The taste of the spices in the beer is more round, some vanilla and barrel notes and a nice bourbon flavour. Galea - The Mind of Annapurna Bourbon Barrel Aged</beer_description>
     <beer_style>Stout - Imperial / Double Milk</beer_style>
     <beer_abv>12.5%</beer_abv>
@@ -8806,7 +8806,7 @@
     <brewery_name>Barreled Souls Brewing Company</brewery_name>
     <price>28.02</price>
     <regular_price>32,96</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4965750515.webp</image>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/756989443/4965750515.webp</image>
     <beer_description>This was aged in some very unique 12-year-old Wild Turkey barrels for 12 months and 5 days. The bourbon from these barrels is a rare Japanese-only release and one of the few 12-year-old Wild Turkeys ever made. Barreled Souls - 12yr Wild Turkey BA Dark Matter (2025)</beer_description>
     <beer_style>Stout - Imperial / Double</beer_style>
     <beer_abv>15.3%</beer_abv>
@@ -8941,7 +8941,7 @@
     <brewery_name>Jackie O’s Brewery</brewery_name>
     <price>15.28</price>
     <regular_price>17,98</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4930063699.png</image>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/751542767/4930063699.png</image>
     <beer_description>Black Maple features a diverse grist of barley, wheat, chocolate malt, caramel malt, and a pinch of smoked malt. Locally harvested maple syrup was added in the boil kettle before aging in bourbon barrels. A long time brewery favorite! This batch aged in bourbon barrels for 24 months and was conditioned on an extra addition of local maple syrup post barrels. Jackie Os - Bourbon Barrel Black Maple (2025)</beer_description>
     <beer_style>Porter - Imperial / Double</beer_style>
     <beer_abv>12.8%</beer_abv>
@@ -8959,7 +8959,7 @@
     <brewery_name>Jackie O’s Brewery</brewery_name>
     <price>15.57</price>
     <regular_price>18,32</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4930059442.png</image>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/751543257/4930059442.png</image>
     <beer_description>Seven malts were used to create deep flavors of coffee, chocolate, caramel, and molasses. A hint of bitterness and herbal character from carefully selected European and American hops help support the monolithic maltiness. This special batch was aged in bourbon barrels and conditioned on Malagasy vanilla beans and whole Thunderkiss espresso beans. This year’s vintage of Vanilla Coffee Bourbon Barrel Dark Apparition was aged in select Wild Turkey, Knob Creek and Willett barrels ranging from 13 to 26 months and conditioned on the Thuderkiss Espresso Blend and a blend of Tahitian and Madagascar vanilla beans. Jackie Os - Vanilla Coffee Bourbon Barrel Dark Apparition (2025)</beer_description>
     <beer_style>Stout - Russian Imperial</beer_style>
     <beer_abv>14.6%</beer_abv>
@@ -9106,6 +9106,6 @@
     <brewery_country>Canada</brewery_country>
     <untappd_id>6197367</untappd_id>
   </item>
-  <timestamp>1790979308</timestamp>
-  <gen_date>03/10/2026 00:15:08</gen_date>
+  <timestamp>1790982907</timestamp>
+  <gen_date>03/10/2026 01:15:07</gen_date>
 </feed>
