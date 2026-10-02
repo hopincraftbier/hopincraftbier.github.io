@@ -3464,22 +3464,6 @@
     <untappd_id>6270458</untappd_id>
   </item>
   <item>
-    <id>6525712</id>
-    <ecommerce_id>835653543</ecommerce_id>
-    <title>None Sober [Cryptopsy Collab] (Ghost 1721)</title>
-    <url>https://hopincraftbier.be/products/adroit-theory-none-sober-cryptopsy-collab-ghost-1721</url>
-    <brewery_name>Adroit Theory</brewery_name>
-    <price>12.01</price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/835653543/5765498776.png</image>
-    <beer_description>This might come as a bit of a shocker, but we like Heavy Metal music. Not just like, we love HEAVY music including all the sub-genres like Technical, Death, and Brutal Metal. So, when the band Cryptopsy approached us about doing a HEAVY beer to celebrate the 30th Anniversary of their seminal work NONE SO VILE, we were stoked.⁠ ⁠ We are brewing a Quadruple Hazy IPA that checks all the boxes. Decadently pillowy + full bodied, outrageously hoppy, and high ABV. Check, check, and check.⁠ Adroit Theory - None Sober [Cryptopsy Collab] (Ghost 1721)</beer_description>
-    <beer_style>IPA - Quadruple</beer_style>
-    <beer_abv>12%</beer_abv>
-    <beer_volume>473 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>United States</brewery_country>
-    <untappd_id>6525712</untappd_id>
-  </item>
-  <item>
     <id>6656123</id>
     <ecommerce_id>834934982</ecommerce_id>
     <title>Best Come Correct (collab Two Villains)</title>
@@ -7584,24 +7568,6 @@
     <untappd_id>6558377</untappd_id>
   </item>
   <item>
-    <id>6430511</id>
-    <ecommerce_id>798975561</ecommerce_id>
-    <title>Black Tuesday Blender's Choice (2025)</title>
-    <url>https://hopincraftbier.be/products/the-bruery-black-tuesday-blenders-choice-2025</url>
-    <brewery_name>The Bruery</brewery_name>
-    <price>27.67</price>
-    <regular_price>32.55</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/798975561/5409430296.png</image>
-    <beer_description>Blended Barrel-Aged Imperial Stout Blended from our finest barrels, this is Black Tuesday Blender's Choice (2025). We hand-selected Peerless Rye barrels, Four Gate Bourbon barrels, Ruby Port barrels, and Zinfandel barrels for an exquisite Imperial Stout. Revel in notes of rich vanilla, deep oak, dark fruit leather, and robust chocolate. Perfect with a Kansas City Strip Steak. The Bruery - Black Tuesday Blender's Choice (2025)</beer_description>
-    <beer_style>Stout - Imperial / Double</beer_style>
-    <beer_abv>19.9%</beer_abv>
-    <beer_volume>375 ml</beer_volume>
-    <beer_package>bottle</beer_package>
-    <brewery_country>United States</brewery_country>
-    <date_canned>2025-09-17</date_canned>
-    <untappd_id>6430511</untappd_id>
-  </item>
-  <item>
     <id>6497918</id>
     <ecommerce_id>798975560</ecommerce_id>
     <title>Capitaine AMF - Le Ketch X All My Friends (collab All My Friends)</title>
@@ -9200,6 +9166,6 @@
     <brewery_country>Canada</brewery_country>
     <untappd_id>6197367</untappd_id>
   </item>
-  <timestamp>1790928908</timestamp>
-  <gen_date>02/10/2026 10:15:08</gen_date>
+  <timestamp>1790952307</timestamp>
+  <gen_date>02/10/2026 16:45:07</gen_date>
 </feed>
