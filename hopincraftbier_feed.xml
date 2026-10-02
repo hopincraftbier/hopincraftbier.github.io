@@ -3948,24 +3948,6 @@
     <untappd_id>2993932</untappd_id>
   </item>
   <item>
-    <id>6578106</id>
-    <ecommerce_id>832871023</ecommerce_id>
-    <title>Make Me A Stout Clown (2026)</title>
-    <url>https://hopincraftbier.be/products/barreled-souls-make-me-a-stout-clown-2026</url>
-    <brewery_name>Barreled Souls Brewing Company</brewery_name>
-    <price>30.18</price>
-    <regular_price>35.51</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/832871023/5742305107.png</image>
-    <beer_description>This big imperial stout is aged in a combination of 80 percent Buffalo Trace barrels and 20 percent Russell's Reserve bourbon barrels for 15 months and 21 days before being finished on loads of Oreos and coconut. Barreled Souls - Make Me A Stout Clown (2026)</beer_description>
-    <beer_style>Stout - Imperial / Double Pastry</beer_style>
-    <beer_abv>16.1%</beer_abv>
-    <beer_volume>500 ml</beer_volume>
-    <beer_package>bottle</beer_package>
-    <brewery_country>United States</brewery_country>
-    <date_canned>2026-01-19</date_canned>
-    <untappd_id>6578106</untappd_id>
-  </item>
-  <item>
     <id>6625735</id>
     <ecommerce_id>832869065</ecommerce_id>
     <title>BA Put A Bird On It (2026)</title>
@@ -9166,6 +9148,6 @@
     <brewery_country>Canada</brewery_country>
     <untappd_id>6197367</untappd_id>
   </item>
-  <timestamp>1790959508</timestamp>
-  <gen_date>02/10/2026 18:45:08</gen_date>
+  <timestamp>1790976607</timestamp>
+  <gen_date>02/10/2026 23:30:07</gen_date>
 </feed>
