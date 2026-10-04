@@ -5,6 +5,38 @@
   <link>https://hopincraftbier.be</link>
   <description>Hop In Craftbier Products feed</description>
   <item>
+    <id>4587233</id>
+    <ecommerce_id>868827031</ecommerce_id>
+    <title>Bourbon County Double Barrel Brand Toasted Barrel Stout (2021)</title>
+    <url>https://hopincraftbier.be/products/goose-island-bourbon-county-double-barrel-brand-toasted-barrel-stout-2021</url>
+    <brewery_name>Goose Island Beer Co.</brewery_name>
+    <price>41.62</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/868827031/6294580991.png</image>
+    <beer_description>Our Double Barrel Toasted Barrel Stout was aged for one year in Elijah Craig’s Small Batch Bourbon Barrels, then another year in Elijah Craig Toasted Bourbon Barrels. In addition to the familiar chocolate, caramel, and vanilla comes flavors of toasted marshmallow and a very pronounced fruit and oak finish. Bourbon County Double Barrel Toasted Barrel Stout has a rich complexity and flavor only attainable through true craftsmanship, partnership, expert blending, and, of course, patience. Goose Island Beer Co. - Bourbon County Double Barrel Brand Toasted Barrel Stout (2021)</beer_description>
+    <beer_style>Stout - Imperial / Double</beer_style>
+    <beer_abv>16%</beer_abv>
+    <beer_volume>500 ml</beer_volume>
+    <beer_package>bottle</beer_package>
+    <brewery_country>United States</brewery_country>
+    <untappd_id>4587233</untappd_id>
+  </item>
+  <item>
+    <id>5460401</id>
+    <ecommerce_id>868826795</ecommerce_id>
+    <title>Bourbon County Brand Angel’s Envy 2-Year Cask Finish Stout (2023)</title>
+    <url>https://hopincraftbier.be/products/goose-island-bourbon-county-brand-angels-envy-2-year-cask-finish-stout-2023</url>
+    <brewery_name>Goose Island Beer Co.</brewery_name>
+    <price>41.77</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/868826795/6294640903.png</image>
+    <beer_description>Imperial Stout aged in Angel’s Envy Bourbon Barrels then Finished in Ruby Port Wine Barrels Goose Island Beer Co. - Bourbon County Brand Angels Envy 2-Year Cask Finish Stout (2023)</beer_description>
+    <beer_style>Stout - Imperial / Double</beer_style>
+    <beer_abv>15.5%</beer_abv>
+    <beer_volume>500 ml</beer_volume>
+    <beer_package>bottle</beer_package>
+    <brewery_country>United States</brewery_country>
+    <untappd_id>5460401</untappd_id>
+  </item>
+  <item>
     <id>2706030</id>
     <ecommerce_id>866901590</ecommerce_id>
     <title>Something Mosaic</title>
@@ -9090,6 +9122,6 @@
     <brewery_country>Canada</brewery_country>
     <untappd_id>6197367</untappd_id>
   </item>
-  <timestamp>1791119706</timestamp>
-  <gen_date>04/10/2026 15:15:06</gen_date>
+  <timestamp>1791129606</timestamp>
+  <gen_date>04/10/2026 18:00:06</gen_date>
 </feed>
