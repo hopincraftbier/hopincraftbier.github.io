@@ -1605,24 +1605,6 @@
     <untappd_id>6802643</untappd_id>
   </item>
   <item>
-    <id>6802667</id>
-    <ecommerce_id>846565409</ecommerce_id>
-    <title>Motorhop</title>
-    <url>https://hopincraftbier.be/products/caleya-motorhop</url>
-    <brewery_name>Caleya</brewery_name>
-    <price>5.4</price>
-    <regular_price>5.40</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/846565409/5875075534.png</image>
-    <beer_description>For all motorheads and lovers of the real deal, Caleya presents Motorhop, an unadulterated, classic West Coast IPA. The beer is golden in color, crystal clear, and brewed with the highly concentrated CGX hop points of Azacca and El Dorado, reinforced by the iconic Mosaic. Expect a robust, resinous bitterness that blends perfectly with intense aromas of pine needles, bitter grapefruit zest, and subtle notes of tropical fruit. A crisp, dry, easy-drinking banger with a delightful old-school character. Caleya - Motorhop</beer_description>
-    <beer_style>IPA - American</beer_style>
-    <beer_abv>6.3%</beer_abv>
-    <beer_volume>440 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Spain</brewery_country>
-    <date_best_before>2027-07-22</date_best_before>
-    <untappd_id>6802667</untappd_id>
-  </item>
-  <item>
     <id>6791061</id>
     <ecommerce_id>846555895</ecommerce_id>
     <title>My Precious Southern Cross</title>
@@ -9065,6 +9047,6 @@
     <brewery_country>Canada</brewery_country>
     <untappd_id>6197367</untappd_id>
   </item>
-  <timestamp>1791387344</timestamp>
-  <gen_date>07/10/2026 17:35:44</gen_date>
+  <timestamp>1791400507</timestamp>
+  <gen_date>07/10/2026 21:15:07</gen_date>
 </feed>
