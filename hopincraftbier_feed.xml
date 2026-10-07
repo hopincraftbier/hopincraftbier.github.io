@@ -5,6 +5,22 @@
   <link>https://hopincraftbier.be</link>
   <description>Hop In Craftbier Products feed</description>
   <item>
+    <id>4730984</id>
+    <ecommerce_id>869763526</ecommerce_id>
+    <title>Small Batch No. 2: Two-Year Wheatwine</title>
+    <url>https://hopincraftbier.be/products/goose-island-small-batch-no-2-two-year-wheatwine</url>
+    <brewery_name>Goose Island Beer Co.</brewery_name>
+    <price>27.45</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/869763526/6306928254.png</image>
+    <beer_description>In our new series of Barrel House releases, we aim to showcase our ability to express unique nuances from the barrels we use in the styles you’ve yet to see. These highly limited beers will only be found at the taproom in bottles. With our Small Batch 2 Year Wheatwine, expect aromas of oak, caramel, and toffee with a medium, warming body. Aged in a blend of Heaven Hill and Buffalo Trace barrels. Goose Island Beer Co. - Small Batch No. 2: Two-Year Wheatwine</beer_description>
+    <beer_style>Wheat Beer - Wheat Wine</beer_style>
+    <beer_abv>15.5%</beer_abv>
+    <beer_volume>500 ml</beer_volume>
+    <beer_package>bottle</beer_package>
+    <brewery_country>United States</brewery_country>
+    <untappd_id>4730984</untappd_id>
+  </item>
+  <item>
     <id>5944218</id>
     <ecommerce_id>869459393</ecommerce_id>
     <title>Bourbon County Brand Bardstown Cask Finish Stout (2024)</title>
@@ -9049,6 +9065,6 @@
     <brewery_country>Canada</brewery_country>
     <untappd_id>6197367</untappd_id>
   </item>
-  <timestamp>1791386107</timestamp>
-  <gen_date>07/10/2026 17:15:07</gen_date>
+  <timestamp>1791387344</timestamp>
+  <gen_date>07/10/2026 17:35:44</gen_date>
 </feed>
