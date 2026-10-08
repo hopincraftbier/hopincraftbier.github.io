@@ -6955,23 +6955,6 @@
     <untappd_id>6013135</untappd_id>
   </item>
   <item>
-    <id>6355044</id>
-    <ecommerce_id>810442765</ecommerce_id>
-    <title>Levain (Blend #5)</title>
-    <url>https://hopincraftbier.be/products/is-was-brewing-levain-blend-5</url>
-    <brewery_name>is/was brewing</brewery_name>
-    <price>23.96</price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/810442765/5532659574.png</image>
-    <beer_description>Levain is a long time coming. The culmination of our thoughts, feelings, and beliefs about the micro-organisms that allow us to make beer. Mashed with raw spelt from Janie’s Mill, hopped with aged whole cone hops then fermented and ripened in used oak wine barrels with a blend of our house saison yeast, our favorite strains of brettanomyces, dregs from bottles that inspire us, and microorganisms sourced from my 6 year old sourdough starter. Levain is deeply complex yet spryly drinkable with a delightful acidity. You’ll find notes of limeade, lemon zest, lychee, mango, musky leather, earthy blue cheese, wet hay, pink starburst, papaya, black cherry, and a touch of oaky vanillin and spice. is/was brewing - Levain (Blend #5)</beer_description>
-    <beer_style>Farmhouse Ale - Saison</beer_style>
-    <beer_abv>5.5%</beer_abv>
-    <beer_volume>500 ml</beer_volume>
-    <beer_package>bottle</beer_package>
-    <brewery_country>United States</brewery_country>
-    <date_canned>07/2025</date_canned>
-    <untappd_id>6355044</untappd_id>
-  </item>
-  <item>
     <id>6315867</id>
     <ecommerce_id>810442764</ecommerce_id>
     <title>Monolith | Batch #4</title>
@@ -9047,6 +9030,6 @@
     <brewery_country>Canada</brewery_country>
     <untappd_id>6197367</untappd_id>
   </item>
-  <timestamp>1791400507</timestamp>
-  <gen_date>07/10/2026 21:15:07</gen_date>
+  <timestamp>1791417607</timestamp>
+  <gen_date>08/10/2026 02:00:07</gen_date>
 </feed>
