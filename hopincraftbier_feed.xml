@@ -404,6 +404,108 @@
     <untappd_id>6780372</untappd_id>
   </item>
   <item>
+    <id>6808030</id>
+    <ecommerce_id>859911351</ecommerce_id>
+    <title>Simulation</title>
+    <url>https://hopincraftbier.be/products/track-simulation</url>
+    <brewery_name>Track Brewing Company</brewery_name>
+    <price>9.17</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/859911351/6191174268.png</image>
+    <beer_description>A Citra trifecta is supported by Simcoe and a smattering of Galaxy, bringing bucketloads of lime, passionfruit, grapefruit and pine to this DIPA, with delicate grassy notes and a satisfying allium quality that tempers the fruitiness and brings everything into balance. Track Brewing Company - Simulation</beer_description>
+    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
+    <beer_abv>8%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>England</brewery_country>
+    <date_best_before>2027-01-07</date_best_before>
+    <untappd_id>6808030</untappd_id>
+  </item>
+  <item>
+    <id>6834542</id>
+    <ecommerce_id>859911583</ecommerce_id>
+    <title>Repertoire</title>
+    <url>https://hopincraftbier.be/products/track-repertoire</url>
+    <brewery_name>Track Brewing Company</brewery_name>
+    <price>9.17</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/859911583/6191174018.png</image>
+    <beer_description>A medley of some of Freestyle Hops' freshest delectations come together in this unapologetically juicy DIPA. 2026 crop Nelson Sauvin, Motueka and Nectaron unleash plenty of white wine, lemon-lime and fuzzy white peach, green herbaciousness and ripe gooseberry zip. Track Brewing Company - Repertoire</beer_description>
+    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
+    <beer_abv>8%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>England</brewery_country>
+    <date_best_before>2027-01-26</date_best_before>
+    <untappd_id>6834542</untappd_id>
+  </item>
+  <item>
+    <id>6841942</id>
+    <ecommerce_id>859911350</ecommerce_id>
+    <title>PURE Nectaron</title>
+    <url>https://hopincraftbier.be/products/track-pure-nectaron</url>
+    <brewery_name>Track Brewing Company</brewery_name>
+    <price>9.17</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/859911350/6191174274.png</image>
+    <beer_description>Our truest expression of a hop we hold dear to our hearts, tempered and coated in satin-smooth luxuriousness by a lick of lactose. Nectarine, peach, pineapple and grass, draped in pure gold and resting on a soft bed of barley, oats and wheat. Track Brewing Company - PURE Nectaron</beer_description>
+    <beer_style>IPA - Imperial / Double Milkshake</beer_style>
+    <beer_abv>8.4%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>England</brewery_country>
+    <date_best_before>2027-02-02</date_best_before>
+    <untappd_id>6841942</untappd_id>
+  </item>
+  <item>
+    <id>5755909</id>
+    <ecommerce_id>859911816</ecommerce_id>
+    <title>Memory Games</title>
+    <url>https://hopincraftbier.be/products/track-memory-games</url>
+    <brewery_name>Track Brewing Company</brewery_name>
+    <price>9.17</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/859911816/6191174530.png</image>
+    <beer_description>A returning favourite, Memory Games is our single hopped Nectaron DIPA and it's a proper tropical bomb! A huge dose of Nectaron creates rich ripe nectarine and peach flavour, along with a powerful aroma of pineapple and weedy dankess. Pouring a glorious hazy luminous yellow, the body is beautifully soft and creamy with a sweet candy finish. Track Brewing Company - Memory Games</beer_description>
+    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
+    <beer_abv>8%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>England</brewery_country>
+    <date_best_before>2027-02-17</date_best_before>
+    <untappd_id>5755909</untappd_id>
+  </item>
+  <item>
+    <id>6841941</id>
+    <ecommerce_id>859911581</ecommerce_id>
+    <title>DDH Memory Games</title>
+    <url>https://hopincraftbier.be/products/track-ddh-memory-games</url>
+    <brewery_name>Track Brewing Company</brewery_name>
+    <price>9.83</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/859911581/6191173566.png</image>
+    <beer_description>A double dry hopped edition of our all-Nectaron DIPA. Twice the hop charge delivers intensified stone fruit aromatics, enhanced tropicality with a citrus undercurrent. Bold, ripe, juicy and potent. Track Brewing Company - DDH Memory Games</beer_description>
+    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
+    <beer_abv>8.2%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>England</brewery_country>
+    <date_best_before>2027-02-04</date_best_before>
+    <untappd_id>6841941</untappd_id>
+  </item>
+  <item>
+    <id>6841940</id>
+    <ecommerce_id>859911349</ecommerce_id>
+    <title>At Last</title>
+    <url>https://hopincraftbier.be/products/track-at-last</url>
+    <brewery_name>Track Brewing Company</brewery_name>
+    <price>9.17</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/859911349/6191174292.png</image>
+    <beer_description>We're thrilled to get our hands on Paradisi, an exciting new variety from Freestyle Hops. A cross of Pacific Jade and an NZ male, Paradisi is super sticky and highly aromatic, imbuing this DIPA with notes of pink grapefruit, orange, guava, and a little horticultural dankness. Track Brewing Company - At Last</beer_description>
+    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
+    <beer_abv>8%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>England</brewery_country>
+    <date_best_before>2027-02-02</date_best_before>
+    <untappd_id>6841940</untappd_id>
+  </item>
+  <item>
     <id>6414860</id>
     <ecommerce_id>859521170</ecommerce_id>
     <title>Falak</title>
@@ -9065,6 +9167,6 @@
     <brewery_country>Canada</brewery_country>
     <untappd_id>6197367</untappd_id>
   </item>
-  <timestamp>1791521872</timestamp>
-  <gen_date>09/10/2026 06:57:52</gen_date>
+  <timestamp>1791522487</timestamp>
+  <gen_date>09/10/2026 07:08:07</gen_date>
 </feed>
