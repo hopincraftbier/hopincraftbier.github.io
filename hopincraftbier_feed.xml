@@ -1325,8 +1325,8 @@
   <item>
     <id>6838597</id>
     <ecommerce_id>852259745</ecommerce_id>
-    <title>Blue Azureus</title>
-    <url>https://hopincraftbier.be/products/lolev-beer-blue-azureus</url>
+    <title>Lolev - Blue Azureus</title>
+    <url>https://hopincraftbier.be/products/lolev-blue-azureus</url>
     <brewery_name>Lolev Beer</brewery_name>
     <price>10.67</price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/852259745/6177882122.png</image>
@@ -1341,8 +1341,8 @@
   <item>
     <id>6833327</id>
     <ecommerce_id>852282337</ecommerce_id>
-    <title>Sapphire</title>
-    <url>https://hopincraftbier.be/products/lolev-beer-sapphire</url>
+    <title>Lolev - Sapphire</title>
+    <url>https://hopincraftbier.be/products/lolev-sapphire</url>
     <brewery_name>Lolev Beer</brewery_name>
     <price>12.68</price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/852282337/6313995299.png</image>
@@ -9333,6 +9333,6 @@
     <brewery_country>Canada</brewery_country>
     <untappd_id>6197367</untappd_id>
   </item>
-  <timestamp>1791645308</timestamp>
-  <gen_date>10/10/2026 17:15:08</gen_date>
+  <timestamp>1791655206</timestamp>
+  <gen_date>10/10/2026 20:00:06</gen_date>
 </feed>
