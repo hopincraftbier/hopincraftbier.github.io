@@ -3423,6 +3423,24 @@
     <bundle_skus>6598489,6447600,6628147,6423947</bundle_skus>
   </item>
   <item>
+    <id>6672041</id>
+    <ecommerce_id>837354899</ecommerce_id>
+    <title>Port Wine X Brandy Barrel Aged Imperial Stout</title>
+    <url>https://hopincraftbier.be/products/arpus-port-wine-x-brandy-barrel-aged-imperial-stout</url>
+    <brewery_name>Ārpus Brewing Co.</brewery_name>
+    <price>8.44</price>
+    <regular_price>9,93</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/837354899/5782849358.png</image>
+    <beer_description>A deep and luxurious Imperial Stout aged in a blend of Port wine and brandy barrels — all sourced from Portugal. Layers of dark chocolate, dried fruits, and rich malt meet notes of oak, warming spirit character, and subtle sweetness from the barrels. Complex, smooth, and built for slow enjoyment. Arpus Brewing Co. - Port Wine X Brandy Barrel Aged Imperial Stout</beer_description>
+    <beer_style>Stout - Imperial / Double</beer_style>
+    <beer_abv>13%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Latvia</brewery_country>
+    <date_best_before>2027-04-30</date_best_before>
+    <untappd_id>6672041</untappd_id>
+  </item>
+  <item>
     <id>6698817</id>
     <ecommerce_id>837240403</ecommerce_id>
     <title>Ummagumma</title>
@@ -7415,6 +7433,24 @@
     <untappd_id>6513873</untappd_id>
   </item>
   <item>
+    <id>6577350</id>
+    <ecommerce_id>807039742</ecommerce_id>
+    <title>8th Birthday - India Pale Ale (collab Beak)</title>
+    <url>https://hopincraftbier.be/products/pollys-8th-birthday-india-pale-ale</url>
+    <brewery_name>Polly's Brew Co.</brewery_name>
+    <price>5.06</price>
+    <regular_price>6,75</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5505408896.png</image>
+    <beer_description>POLLY'S 8th BIRTHDAY We’ve been huge fans of the wonderful Beak pretty much since they first landed on our radars - operating a similar philosophy to ourselves in largely focusing on and perfecting their pale and hoppy output, we’ve been very lucky to share festival spaces with our friends from Lewes over the last twelve months, fostering a working friendship based on mutual approaches to where modern beer is placed in 2026. Coming together to collaborate for our eighth birthday meant there could only be one style we could brew - an IPA at that magical ABV in which the sweet spot lies for both breweries. Wanting to make a conscious effort to embrace the progression of our industry with the recipe on this beer, we’ve brought no less than five hop varieties to the party; showcasing current and progressive technologies in the brewing process. With a dry hop charge of 20g/l, pushing toward DIPA levels of intensity, we’ve utilised Idaho 7 and Nelson Sauvin in their classic T90 pellet form, along with their CGX versions - the latest technology from Crosby Hops using cryogenic processes to concentrate the flavour and intensity brought to the table. With a final flourish of New Zealand Hop’s latest experimental variety NZ-106 and a whisper of Abstrax Hops Skyfarm Pineapple, the result is a pillowy soft IPA, singing with guava, mango, and passionfruit, with bright pine and citrus notes underneath. Taking the artwork on this one is local enigma Jim Jones, who leaned into the German heritage of the bauhaus Polly's - 8th Birthday - India Pale Ale</beer_description>
+    <beer_style>IPA - English</beer_style>
+    <beer_abv>6.5%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Wales</brewery_country>
+    <date_best_before>2026-10-09</date_best_before>
+    <untappd_id>6577350</untappd_id>
+  </item>
+  <item>
     <id>3039829</id>
     <ecommerce_id>806411460</ecommerce_id>
     <title>Hydra | Raspberry + Strawberry + Pink Guava</title>
@@ -7447,6 +7483,24 @@
     <brewery_country>United States</brewery_country>
     <date_canned>2026-01-28</date_canned>
     <untappd_id>1802264</untappd_id>
+  </item>
+  <item>
+    <id>6590688</id>
+    <ecommerce_id>806355016</ecommerce_id>
+    <title>Superdelic Signal (collab Basqueland)</title>
+    <url>https://hopincraftbier.be/products/outer-range-superdelic-signal</url>
+    <brewery_name>Outer Range Brewing Co.</brewery_name>
+    <price>5.01</price>
+    <regular_price>6,68</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/806355016/5575446368.png</image>
+    <beer_description>Collab with Basqueland Hops: Superdelic Tasting Notes: Citrus Fruit • Bay Fruit • Tropical Outer Range - Superdelic Signal</beer_description>
+    <beer_style>IPA - New England / Hazy</beer_style>
+    <beer_abv>7%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>France</brewery_country>
+    <date_best_before>2026-09-22</date_best_before>
+    <untappd_id>6590688</untappd_id>
   </item>
   <item>
     <id>6527542</id>
@@ -7751,6 +7805,25 @@
     <beer_package>bottle</beer_package>
     <brewery_country>United States</brewery_country>
     <untappd_id>6480717</untappd_id>
+  </item>
+  <item>
+    <id>6500739</id>
+    <ecommerce_id>798954657</ecommerce_id>
+    <title>Temporalis 0047</title>
+    <url>https://hopincraftbier.be/products/messorem-temporalis-0047</url>
+    <brewery_name>Messorem</brewery_name>
+    <price>9.55</price>
+    <regular_price>11,24</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/798954657/5409145537.png</image>
+    <beer_description>Triple IPA - Citra, Mosaic, Simcoe, Simcoe Dynaboost, Simcoe Hyperboost Messorem - Temporalis #0047</beer_description>
+    <beer_style>IPA - Triple New England / Hazy</beer_style>
+    <beer_abv>10%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Canada</brewery_country>
+    <date_best_before>2026-11-10</date_best_before>
+    <date_canned>2025-11-10</date_canned>
+    <untappd_id>6500739</untappd_id>
   </item>
   <item>
     <id>6421473</id>
@@ -8360,6 +8433,24 @@
     <untappd_id>6447706</untappd_id>
   </item>
   <item>
+    <id>4478126</id>
+    <ecommerce_id>787747547</ecommerce_id>
+    <title>Fuzz Effect</title>
+    <url>https://hopincraftbier.be/products/trillium-fuzz-effect</url>
+    <brewery_name>Trillium Brewing Company</brewery_name>
+    <price>9.27</price>
+    <regular_price>10,91</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5260631812.webp</image>
+    <beer_description>Pouring a hazy, golden yellow, Fuzz Effect's juicy aroma leaps from the glass. Notes of a lush tropical smoothie, fresh-pressed white grape juice, and lychee sorbet race across the palate. Each sip is silky, coating the tongue with uncut hop delight. With just enough sweetness to complement the waves of fruit aromatics, Fuzz Effect finishes gently bitter and highly satisfying. Trillium - Fuzz Effect</beer_description>
+    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
+    <beer_abv>8%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>United States</brewery_country>
+    <date_canned>2025-11-11</date_canned>
+    <untappd_id>4478126</untappd_id>
+  </item>
+  <item>
     <id>5314503</id>
     <ecommerce_id>787747056</ecommerce_id>
     <title>Extra Extra Broccoli (collab Other Half)</title>
@@ -8428,6 +8519,41 @@
     <brewery_country>United States</brewery_country>
     <date_canned>2025-10-15</date_canned>
     <untappd_id>2166301</untappd_id>
+  </item>
+  <item>
+    <id>4214697</id>
+    <ecommerce_id>787743586</ecommerce_id>
+    <title>Natural Flavors (Tangerine)</title>
+    <url>https://hopincraftbier.be/products/frequentem-natural-flavors-tangerine</url>
+    <brewery_name>Frequentem Brewing Co.</brewery_name>
+    <price>7.43</price>
+    <regular_price>9,91</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5260644589.webp</image>
+    <beer_description>Kettle Soured, Azacca &amp; Idaho 7, Tangerine Frequentem - Natural Flavors (Tangerine)</beer_description>
+    <beer_style>IPA - Sour</beer_style>
+    <beer_abv>6.5%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>United States</brewery_country>
+    <untappd_id>4214697</untappd_id>
+  </item>
+  <item>
+    <id>6393502</id>
+    <ecommerce_id>787743585</ecommerce_id>
+    <title>Mania!</title>
+    <url>https://hopincraftbier.be/products/willibald-farm-distillery--mania</url>
+    <brewery_name>Willibald Farm Distillery &amp; Brewery</brewery_name>
+    <price>7.44</price>
+    <regular_price>9,92</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/787743585/5260616558.webp</image>
+    <beer_description>Triple IPA with Citra, Mosaic, and Krush Hyperboost. Willibald Farm Distillery &amp; - Mania!</beer_description>
+    <beer_style>IPA - Triple New England / Hazy</beer_style>
+    <beer_abv>10%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Canada</brewery_country>
+    <date_canned>10/2025</date_canned>
+    <untappd_id>6393502</untappd_id>
   </item>
   <item>
     <id>6421716</id>
@@ -8698,6 +8824,24 @@
     <beer_package>bottle</beer_package>
     <brewery_country>United States</brewery_country>
     <untappd_id>5697568</untappd_id>
+  </item>
+  <item>
+    <id>5755528</id>
+    <ecommerce_id>778813130</ecommerce_id>
+    <title>Distributed Ledger</title>
+    <url>https://hopincraftbier.be/products/spyglass-distributed-ledger</url>
+    <brewery_name>Spyglass Brewing Company</brewery_name>
+    <price>8.75</price>
+    <regular_price>11,66</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5260880887.webp</image>
+    <beer_description>A New England style TIPA - triple dry hopped with Citra, Motueka and Simcoe. Spyglass - Distributed Ledger</beer_description>
+    <beer_style>IPA - Triple New England / Hazy</beer_style>
+    <beer_abv>9.8%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>United States</brewery_country>
+    <date_canned>2025-09-08</date_canned>
+    <untappd_id>5755528</untappd_id>
   </item>
   <item>
     <id>3717200</id>
@@ -9175,6 +9319,6 @@
     <brewery_country>Canada</brewery_country>
     <untappd_id>6197367</untappd_id>
   </item>
-  <timestamp>1791737857</timestamp>
-  <gen_date>11/10/2026 18:57:37</gen_date>
+  <timestamp>1791747008</timestamp>
+  <gen_date>11/10/2026 21:30:08</gen_date>
 </feed>
