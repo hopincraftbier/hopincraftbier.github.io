@@ -1389,7 +1389,7 @@
   <item>
     <id>6838597</id>
     <ecommerce_id>852259745</ecommerce_id>
-    <title>Lolev - Blue Azureus</title>
+    <title>Blue Azureus</title>
     <url>https://hopincraftbier.be/products/lolev-blue-azureus</url>
     <brewery_name>Lolev Beer</brewery_name>
     <price>10.67</price>
@@ -1405,7 +1405,7 @@
   <item>
     <id>6833327</id>
     <ecommerce_id>852282337</ecommerce_id>
-    <title>Lolev - Sapphire</title>
+    <title>Sapphire</title>
     <url>https://hopincraftbier.be/products/lolev-sapphire</url>
     <brewery_name>Lolev Beer</brewery_name>
     <price>12.68</price>
@@ -1770,7 +1770,7 @@
   <item>
     <id>6801487</id>
     <ecommerce_id>847936102</ecommerce_id>
-    <title>Virtuose (collab Autodidact Beer)</title>
+    <title>Virtuose (collab Autodidact)</title>
     <url>https://hopincraftbier.be/products/brasserie-du-bas-canada-virtuose</url>
     <brewery_name>Brasserie du Bas-Canada</brewery_name>
     <price>11.34</price>
@@ -5808,7 +5808,7 @@
   <item>
     <id>3110792</id>
     <ecommerce_id>824015870</ecommerce_id>
-    <title>Wandering Into the Fog (Galaxy) (collab Twelve Percent Beer Project)</title>
+    <title>Wandering Into the Fog (Galaxy) (collab Twelve Percent)</title>
     <url>https://hopincraftbier.be/products/abomination-wandering-into-the-fog-galaxy</url>
     <brewery_name>Abomination Brewing Company</brewery_name>
     <price>9</price>
@@ -7254,7 +7254,7 @@
   <item>
     <id>6569053</id>
     <ecommerce_id>811861791</ecommerce_id>
-    <title>Please The Crowds (collab SOMA Beer)</title>
+    <title>Please The Crowds (collab SOMA)</title>
     <url>https://hopincraftbier.be/products/prizm-please-the-crowds</url>
     <brewery_name>Prizm Brewing Co.</brewery_name>
     <price>7.2</price>
@@ -7289,7 +7289,7 @@
   <item>
     <id>6489634</id>
     <ecommerce_id>811856564</ecommerce_id>
-    <title>More Pressure (collab Les Intenables - Craft Beer)</title>
+    <title>More Pressure (collab Les Intenables - Craft)</title>
     <url>https://hopincraftbier.be/products/prizm-more-pressure</url>
     <brewery_name>Prizm Brewing Co.</brewery_name>
     <price>6.98</price>
@@ -8721,7 +8721,7 @@
   <item>
     <id>4229403</id>
     <ecommerce_id>781516950</ecommerce_id>
-    <title>Snake Eyes (collab The Seed: A Living Beer Project)</title>
+    <title>Snake Eyes (collab The Seed: A Living)</title>
     <url>https://hopincraftbier.be/products/district-96-snake-eyes</url>
     <brewery_name>District 96 Beer Factory</brewery_name>
     <price>7.74</price>
@@ -9380,6 +9380,6 @@
     <brewery_country>Canada</brewery_country>
     <untappd_id>6197367</untappd_id>
   </item>
-  <timestamp>1791989107</timestamp>
-  <gen_date>14/10/2026 16:45:07</gen_date>
+  <timestamp>1791998107</timestamp>
+  <gen_date>14/10/2026 19:15:07</gen_date>
 </feed>
