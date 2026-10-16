@@ -5,6 +5,27 @@
   <link>https://hopincraftbier.be</link>
   <description>Hop In Craftbier Products feed</description>
   <item>
+    <id>9000000054</id>
+    <ecommerce_id>871517518</ecommerce_id>
+    <title>Belgian Beer Pack</title>
+    <url>https://hopincraftbier.be/products/placeholder-voor-productnaam-871517518</url>
+    <brewery_name>Galea Craft Beers, Dok Brewing Companу, Kuhul Brewing Co., Norm Brewing</brewery_name>
+    <price>17.97</price>
+    <regular_price>19.97</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/871517518/6324527208.png</image>
+    <beer_description>The null contains: - Kuhul - FalakIPA - New England / Hazy | 6,6% | 330 ml - Dok Brewing Companу - We Hebben Op Wat Knopjes GeduwdIPA - Imperial / Double | 7,1% | 330 ml - Norm - DualityIPA - Imperial / Double New England / Hazy | 8% | 440 ml - Galea - The Mind of Annapurna Bourbon Barrel AgedStout - Imperial / Double Milk | 12,5% | 330 ml</beer_description>
+    <beer_style>Stout - IPA</beer_style>
+    <beer_abv>6 - 12%</beer_abv>
+    <beer_volume>Mix</beer_volume>
+    <beer_package>mix</beer_package>
+    <brewery_country>Belgium</brewery_country>
+    <date_best_before>2027-05-24</date_best_before>
+    <date_canned>2025-01-25</date_canned>
+    <beer_package_count>4</beer_package_count>
+    <beer_bundle>1</beer_bundle>
+    <bundle_skus>6414860,6757124,6856227,6164819</bundle_skus>
+  </item>
+  <item>
     <id>7218609</id>
     <ecommerce_id>870852013</ecommerce_id>
     <title>Recurring</title>
@@ -9373,6 +9394,6 @@
     <brewery_country>Canada</brewery_country>
     <untappd_id>6197367</untappd_id>
   </item>
-  <timestamp>1792143906</timestamp>
-  <gen_date>16/10/2026 11:45:06</gen_date>
+  <timestamp>1792152007</timestamp>
+  <gen_date>16/10/2026 14:00:07</gen_date>
 </feed>
