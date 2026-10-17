@@ -5504,24 +5504,6 @@
     <untappd_id>6596594</untappd_id>
   </item>
   <item>
-    <id>6591597</id>
-    <ecommerce_id>826594427</ecommerce_id>
-    <title>L'Éveil Des Géants</title>
-    <url>https://hopincraftbier.be/products/fauve-leveil-des-geants</url>
-    <brewery_name>Fauve</brewery_name>
-    <price>7.1</price>
-    <regular_price>7.10</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/826594427/5683888375.png</image>
-    <beer_description>We worked on the malt bill of this Double NEIPA DDH as a marriage of barley, oats and wheat capable of creating a smooth and indulgent body, on the basis of which the hops can express themselves as if by magic: the Nelson Sauvin releases its white grape thiols, on which the exoticism of Mosaic and Sabro combines wonderfully! Fauve - L'Eveil Des Geants</beer_description>
-    <beer_style>IPA - Imperial / Double</beer_style>
-    <beer_abv>8%</beer_abv>
-    <beer_volume>440 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>France</brewery_country>
-    <date_best_before>2026-11-17</date_best_before>
-    <untappd_id>6591597</untappd_id>
-  </item>
-  <item>
     <id>6622277</id>
     <ecommerce_id>826600188</ecommerce_id>
     <title>Hommage aux Cent Ponts (collab Stu Mostów)</title>
@@ -5678,24 +5660,6 @@
     <brewery_country>Romania</brewery_country>
     <date_best_before>2027-02-18</date_best_before>
     <untappd_id>6598500</untappd_id>
-  </item>
-  <item>
-    <id>6598489</id>
-    <ecommerce_id>825522356</ecommerce_id>
-    <title>Fortunio</title>
-    <url>https://hopincraftbier.be/products/hop-hooligans-fortunio</url>
-    <brewery_name>Hop Hooligans</brewery_name>
-    <price>5.84</price>
-    <regular_price>6,87</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/825522356/5674186596.png</image>
-    <beer_description>Water, Barley Malt, Wheat Malt, Oat Flakes, Hops (Hand Selected El Dorado, Mega Motueka), Yeast (London Ale III) Hop Hooligans - Fortunio</beer_description>
-    <beer_style>IPA - New England / Hazy</beer_style>
-    <beer_abv>6%</beer_abv>
-    <beer_volume>500 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Romania</brewery_country>
-    <date_best_before>2026-10-16</date_best_before>
-    <untappd_id>6598489</untappd_id>
   </item>
   <item>
     <id>6686217</id>
@@ -8452,23 +8416,6 @@
     <untappd_id>6451740</untappd_id>
   </item>
   <item>
-    <id>6424109</id>
-    <ecommerce_id>788856433</ecommerce_id>
-    <title>Imposing Will</title>
-    <url>https://hopincraftbier.be/products/autodidact-beer-imposing-will</url>
-    <brewery_name>Autodidact Beer</brewery_name>
-    <price>11.9</price>
-    <regular_price>14,00</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/788856433/5260880874.webp</image>
-    <beer_description>with Garston Hops Riwaka and Nelson Sauvin Autodidact Beer - Imposing Will</beer_description>
-    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
-    <beer_abv>8.1%</beer_abv>
-    <beer_volume>473 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>United States</brewery_country>
-    <untappd_id>6424109</untappd_id>
-  </item>
-  <item>
     <id>6448002</id>
     <ecommerce_id>787872583</ecommerce_id>
     <title>The Way Is Shut</title>
@@ -8554,24 +8501,6 @@
     <beer_package>bottle</beer_package>
     <brewery_country>United States</brewery_country>
     <untappd_id>6379068</untappd_id>
-  </item>
-  <item>
-    <id>3242306</id>
-    <ecommerce_id>787747051</ecommerce_id>
-    <title>33 (collab Mast Landing)</title>
-    <url>https://hopincraftbier.be/products/vitamin-sea-33</url>
-    <brewery_name>Vitamin Sea Brewing</brewery_name>
-    <price>9.34</price>
-    <regular_price>10,99</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/787747051/5260644670.webp</image>
-    <beer_description>Our Triple Dry Hopped Triple IPA collaboration with Mast Landing, showcasing Citra, Motueka and Sabro hops Vitamin Sea - 33</beer_description>
-    <beer_style>IPA - Triple</beer_style>
-    <beer_abv>10.1%</beer_abv>
-    <beer_volume>473 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>United States</brewery_country>
-    <date_canned>2025-10-16</date_canned>
-    <untappd_id>3242306</untappd_id>
   </item>
   <item>
     <id>2166301</id>
@@ -8712,40 +8641,6 @@
     <untappd_id>6415131</untappd_id>
   </item>
   <item>
-    <id>4178441</id>
-    <ecommerce_id>781516951</ecommerce_id>
-    <title>Queen Snake (collab Tin Barn)</title>
-    <url>https://hopincraftbier.be/products/district-96-queen-snake</url>
-    <brewery_name>District 96 Beer Factory</brewery_name>
-    <price>8.24</price>
-    <regular_price>10,99</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/781516951/5260880888.webp</image>
-    <beer_description>We Did A Three Stage Triple Dry Hop With Simcoe &amp; Citra Lauren Was Fascinated With This New Technique And We’re Pretty Sure You Will Too. Big Notes Of PASSION Fruit, Long Stem Strawberries, Peach And With Our Famous SNAKEFRUIT Finish District 96 - Queen Snake</beer_description>
-    <beer_style>IPA - Triple New England / Hazy</beer_style>
-    <beer_abv>10%</beer_abv>
-    <beer_volume>473 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>United States</brewery_country>
-    <untappd_id>4178441</untappd_id>
-  </item>
-  <item>
-    <id>4229403</id>
-    <ecommerce_id>781516950</ecommerce_id>
-    <title>Snake Eyes (collab The Seed: A Living)</title>
-    <url>https://hopincraftbier.be/products/district-96-snake-eyes</url>
-    <brewery_name>District 96 Beer Factory</brewery_name>
-    <price>7.74</price>
-    <regular_price>10,32</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/781516950/5260881632.webp</image>
-    <beer_description>We Binary Arid Hopped With Cashmere, More Cashmere And Even More Cashmere With A Dusting Of Citra And Vic Secret. Notes Of Watermelon, Lemon , Creamy Kumquat, Pass Lines, Press Press Press Your Bet And Our Signature Snake Fruit Finish. District 96 - Snake Eyes</beer_description>
-    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
-    <beer_abv>8%</beer_abv>
-    <beer_volume>473 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>United States</brewery_country>
-    <untappd_id>4229403</untappd_id>
-  </item>
-  <item>
     <id>6247096</id>
     <ecommerce_id>780359011</ecommerce_id>
     <title>Midnight Merkin (2025)</title>
@@ -8828,24 +8723,6 @@
     <beer_package>bottle</beer_package>
     <brewery_country>United States</brewery_country>
     <untappd_id>4886997</untappd_id>
-  </item>
-  <item>
-    <id>2873940</id>
-    <ecommerce_id>778813133</ecommerce_id>
-    <title>Néron</title>
-    <url>https://hopincraftbier.be/products/brasserie-du-bas-canada-neron</url>
-    <brewery_name>Brasserie du Bas-Canada</brewery_name>
-    <price>8.49</price>
-    <regular_price>11,32</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5260880910.webp</image>
-    <beer_description>Double IPA with Galaxy, Citra &amp; Amarillo hops. Brasserie du Bas-Canada - Neron</beer_description>
-    <beer_style>IPA - Imperial / Double</beer_style>
-    <beer_abv>8%</beer_abv>
-    <beer_volume>473 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Canada</brewery_country>
-    <date_canned>2025-09-16</date_canned>
-    <untappd_id>2873940</untappd_id>
   </item>
   <item>
     <id>5697352</id>
@@ -9394,6 +9271,6 @@
     <brewery_country>Canada</brewery_country>
     <untappd_id>6197367</untappd_id>
   </item>
-  <timestamp>1792174507</timestamp>
-  <gen_date>16/10/2026 20:15:07</gen_date>
+  <timestamp>1792243728</timestamp>
+  <gen_date>17/10/2026 15:28:48</gen_date>
 </feed>
