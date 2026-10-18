@@ -1,4 +1,4 @@
-const version = 'v8.06';
+const version = 'v8.07';
 let currentLanguage;
 
 const txtNl1 = '<div class="dtooltip"><p class="hover question">Kortingscoupon</p><p class="dtooltiptext">Afhankelijk van de gekozen betaling en levering, kunt u een kortingscoupon krijgen die te gebruiken is bij een volgende bestelling. Voor dit bier ziet u de bedragen in deze tabel</p></div><table class="discount-table"><thead><tr class="first_header"><th></th><th colspan="2">Manier van levering</th></tr><tr><th>Manier van betaling</th><th>Afhaling</th><th>Levering</th></tr></thead><tbody><tr><td class="header">Betalen bij afhaling</td><td>€ ';
@@ -1036,11 +1036,11 @@ function processInfoPages() {
             let bColor = '#F35A66';
             if (ribbon === 'Laatste' || ribbon === 'Last one') {
                 bColor = '#C758C7';
-            }
-            if (ribbon === 'Nieuw' || ribbon === 'New') {
+            } else if (ribbon === 'Nieuw' || ribbon === 'New') {
                 bColor = '#FCA726';
             }
             it.style.backgroundColor = bColor;
+            it.style.color = '#FFFFFF';
         }
     });
 
