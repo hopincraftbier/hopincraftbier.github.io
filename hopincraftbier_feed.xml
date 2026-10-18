@@ -3875,7 +3875,7 @@
     <url>https://hopincraftbier.be/products/transient-artisan-ales-prince-of-barkness-2025</url>
     <brewery_name>Transient Artisan Ales</brewery_name>
     <price>35.52</price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/835653544/5790240272.png</image>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/835653544/6329577806.png</image>
     <beer_description>Transient Artisan Ales - Prince of Barkness (2025)</beer_description>
     <beer_style>Stout - Imperial / Double</beer_style>
     <beer_abv>15.5%</beer_abv>
@@ -3925,7 +3925,7 @@
     <url>https://hopincraftbier.be/products/brasserie-du-bas-canada-monument-5</url>
     <brewery_name>Brasserie du Bas-Canada</brewery_name>
     <price>32.15</price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/834655785/5759592991.png</image>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/834655785/6329578082.png</image>
     <beer_description>A blend of Imperial Stout aged for an average of 30 months in Stagg Jr. &amp; Willett bourbon barrels</beer_description>
     <beer_style>Stout - Imperial / Double</beer_style>
     <beer_abv>11.9%</beer_abv>
@@ -4304,7 +4304,7 @@
     <url>https://hopincraftbier.be/products/brett--sauvage-indigo-gem</url>
     <brewery_name>Brett &amp; Sauvage</brewery_name>
     <price>22.13</price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/832869066/5742295934.png</image>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/832869066/6329577794.png</image>
     <beer_description>Spontaneously fermented beer macerated with haskap berries. Macerate: soak or soften in a liquid (such as water, oil, alcohol, or juice) without heating. Brett &amp; Sauvage - Indigo Gem</beer_description>
     <beer_style>Sour - Fruited</beer_style>
     <beer_abv>4.5%</beer_abv>
@@ -4322,7 +4322,7 @@
     <brewery_name>Brett &amp; Sauvage</brewery_name>
     <price>22.8</price>
     <regular_price>22.80</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/832870815/5742296218.png</image>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/832870815/6329578016.png</image>
     <beer_description>This is a blend of spontaneously fermented beers from 2022 and 2023. The beer was then aged in oak barrels. After aging, the blend was macerated with sumac, which imparts a lemony and tangy character, and sage for a herbaceous and slightly resinous note. German chamomile adds a floral touch and hints of pineapple and chamomile. Macerate: soak or soften in a liquid (such as water, oil, alcohol, or juice) without heating. Brett &amp; Sauvage - BOUQUET 2025</beer_description>
     <beer_style>Sour - Fruited</beer_style>
     <beer_abv>4.9%</beer_abv>
@@ -6388,7 +6388,7 @@
     <url>https://hopincraftbier.be/products/nano-cinco-ovni</url>
     <brewery_name>Nano Cinco</brewery_name>
     <price>24.79</price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/820762809/5629371879.png</image>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/820762809/6329578046.png</image>
     <beer_description>Ovni is a blend of barley wine and stout, aged for 16 months in rye whiskey casks from the MGP Ingredients distillery. The result is a rich, dark beer with aromas of caramel and roasted coffee. The cask also imparts subtle notes of oak, vanilla, spices, and dried fruit. Nano Cinco - Ovni</beer_description>
     <beer_style>Stout - Imperial / Double</beer_style>
     <beer_abv>11.9%</beer_abv>
@@ -6404,7 +6404,7 @@
     <url>https://hopincraftbier.be/products/nano-cinco-mission-lune</url>
     <brewery_name>Nano Cinco</brewery_name>
     <price>24.79</price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/820758583/5629371907.png</image>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/820758583/6329578058.png</image>
     <beer_description>Mission Lune is a blend of an imperial stout aged for 16 months in a Barton 1792 bourbon cask and an imperial stout aged for 12 months in a Vermont oak rye whiskey cask from the Caledonia Spirit distillery. The beer has a deep black color, a syrupy texture, chocolate aromas, and pronounced spirit notes reminiscent of toffee, tobacco, and toasted oak. Nano Cinco - Mission Lune</beer_description>
     <beer_style>Stout - Imperial / Double</beer_style>
     <beer_abv>11.9%</beer_abv>
@@ -6453,7 +6453,7 @@
     <url>https://hopincraftbier.be/products/firestone-walker-tonne-troll</url>
     <brewery_name>Firestone Walker Brewing Company</brewery_name>
     <price>15.33</price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/820762602/5631520243.png</image>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/820762602/6329577824.png</image>
     <beer_description>Brewed with Norway’s acclaimed Lervig, this stout was built on a hearty malt bill with rolled oats and aged a year in Pikesville rye whiskey barrels. Dark, rich, and mischievous, Tønne Troll (“barrel troll”) channels Nordic folklore through Firestone Walker craft. Firestone Walker - TNNE TROLL</beer_description>
     <beer_style>Stout - Imperial / Double</beer_style>
     <beer_abv>13.8%</beer_abv>
@@ -8840,7 +8840,7 @@
     <url>https://hopincraftbier.be/products/mortalis-clock-tower-swirls</url>
     <brewery_name>Mortalis Brewing Company</brewery_name>
     <price>31.48</price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5260880886.webp</image>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/778812647/6329578100.png</image>
     <beer_description>This Imperial Stout was brewed in collaboration with Aslin Beer. A full bodied base is met with layers of rich chocolate, butterscotch, peanuts, and ice cream. Grab a spoon and dig in. Mortalis - Clock Tower Swirls</beer_description>
     <beer_style>Stout - Imperial / Double Pastry</beer_style>
     <beer_abv>10%</beer_abv>
@@ -9414,6 +9414,6 @@
     <brewery_country>Canada</brewery_country>
     <untappd_id>6197367</untappd_id>
   </item>
-  <timestamp>1792321207</timestamp>
-  <gen_date>18/10/2026 13:00:07</gen_date>
+  <timestamp>1792337407</timestamp>
+  <gen_date>18/10/2026 17:30:07</gen_date>
 </feed>
