@@ -178,6 +178,95 @@
     <untappd_id>2706030</untappd_id>
   </item>
   <item>
+    <id>6920690</id>
+    <ecommerce_id>866027275</ecommerce_id>
+    <title>Chouchouloulou On Coconut</title>
+    <url>https://hopincraftbier.be/products/hoppy-people-chouchoulou-on-coconut</url>
+    <brewery_name>Hoppy People</brewery_name>
+    <price>14.32</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/866027275/6268276997.png</image>
+    <beer_description>Barley Wine aged for 54 months in Bourbon Barrels with massive amounts of COCONUT from Philippines. Hoppy People - Chouchouloulou On Coconut</beer_description>
+    <beer_style>Barleywine - American</beer_style>
+    <beer_abv>15.8%</beer_abv>
+    <beer_volume>330 ml</beer_volume>
+    <beer_package>bottle</beer_package>
+    <brewery_country>Switzerland</brewery_country>
+    <date_best_before>07/2029</date_best_before>
+    <untappd_id>6920690</untappd_id>
+  </item>
+  <item>
+    <id>6999246</id>
+    <ecommerce_id>866027274</ecommerce_id>
+    <title>A Krush On Nectaron (collab Yakima Chief Hops)</title>
+    <url>https://hopincraftbier.be/products/hoppy-people-a-krush-on-nectaron</url>
+    <brewery_name>Hoppy People</brewery_name>
+    <price>7.27</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/866027274/6268606265.png</image>
+    <beer_description>Everything is in the title, this hazy pale ale was dry hopped with Krush cryo, Nectaron T90, and Nectaron Hyperboost. Canned 7th of october 2026. Hoppy People - A Krush On Nectaron</beer_description>
+    <beer_style>Pale Ale - New England / Hazy</beer_style>
+    <beer_abv>5.5%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Switzerland</brewery_country>
+    <date_best_before>2027-07-07</date_best_before>
+    <date_canned>2026-10-07</date_canned>
+    <untappd_id>6999246</untappd_id>
+  </item>
+  <item>
+    <id>6920683</id>
+    <ecommerce_id>865997676</ecommerce_id>
+    <title>Roots (collab Galway Bay)</title>
+    <url>https://hopincraftbier.be/products/hoppy-people-roots</url>
+    <brewery_name>Hoppy People</brewery_name>
+    <price>7.42</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/865997676/6268493442.png</image>
+    <beer_description>DDH DIPA, collab with Galway Bay Citra and Nelson Sauvin. Hoppy People - Roots</beer_description>
+    <beer_style>IPA - Imperial / Double</beer_style>
+    <beer_abv>8%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Switzerland</brewery_country>
+    <date_best_before>2027-07-07</date_best_before>
+    <date_canned>2026-10-07</date_canned>
+    <untappd_id>6920683</untappd_id>
+  </item>
+  <item>
+    <id>6920687</id>
+    <ecommerce_id>866027273</ecommerce_id>
+    <title>Blind (collab Stepping Stone)</title>
+    <url>https://hopincraftbier.be/products/hoppy-people-blind</url>
+    <brewery_name>Hoppy People</brewery_name>
+    <price>7.42</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/866027273/6268606277.png</image>
+    <beer_description>DDH DIPA, collab with Stepping Stone Citra, Superdelic, Motueka and Nectaron. Hoppy People - Blind</beer_description>
+    <beer_style>IPA - Imperial / Double</beer_style>
+    <beer_abv>8%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Switzerland</brewery_country>
+    <date_best_before>2027-07-07</date_best_before>
+    <date_canned>2026-10-07</date_canned>
+    <untappd_id>6920687</untappd_id>
+  </item>
+  <item>
+    <id>6920681</id>
+    <ecommerce_id>866027272</ecommerce_id>
+    <title>Bark at the Moon (collab Warpigs Brewpub)</title>
+    <url>https://hopincraftbier.be/products/hoppy-people-bark-at-the-moon</url>
+    <brewery_name>Hoppy People</brewery_name>
+    <price>7.42</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/866027272/6268606289.png</image>
+    <beer_description>DDH DIPA collab with Warpigs Eggers New Moon, Riwaka and Nelson Sauvin. Hoppy People - Bark at the Moon</beer_description>
+    <beer_style>IPA - Imperial / Double</beer_style>
+    <beer_abv>8%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Switzerland</brewery_country>
+    <date_best_before>2027-07-07</date_best_before>
+    <date_canned>2026-10-07</date_canned>
+    <untappd_id>6920681</untappd_id>
+  </item>
+  <item>
     <id>6829678</id>
     <ecommerce_id>865679511</ecommerce_id>
     <title>Corey (collab 3 Sons)</title>
@@ -9414,6 +9503,6 @@
     <brewery_country>Canada</brewery_country>
     <untappd_id>6197367</untappd_id>
   </item>
-  <timestamp>1792338307</timestamp>
-  <gen_date>18/10/2026 17:45:07</gen_date>
+  <timestamp>1792494804</timestamp>
+  <gen_date>20/10/2026 13:13:24</gen_date>
 </feed>
