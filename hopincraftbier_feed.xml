@@ -1204,6 +1204,25 @@
     <untappd_id>6734225</untappd_id>
   </item>
   <item>
+    <id>6789847</id>
+    <ecommerce_id>854141276</ecommerce_id>
+    <title>Intercept</title>
+    <url>https://hopincraftbier.be/products/track-intercept</url>
+    <brewery_name>Track Brewing Company</brewery_name>
+    <price>9.7</price>
+    <regular_price>11,41</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/854141276/6051710777.png</image>
+    <beer_description>This hugely hoppy number sees an avalanche of Citra, Motueka and Wakatu combine for key lime pie, mango mochi, citron tart, peach rings, pineapple in syrup and watermelon sweets, with a mellow end note of sweet madagascan vanilla. Track Brewing Company - Intercept</beer_description>
+    <beer_style>IPA - Triple New England / Hazy</beer_style>
+    <beer_abv>10%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>England</brewery_country>
+    <date_best_before>2026-12-28</date_best_before>
+    <date_canned>2026-07-13</date_canned>
+    <untappd_id>6789847</untappd_id>
+  </item>
+  <item>
     <id>6793741</id>
     <ecommerce_id>854141017</ecommerce_id>
     <title>Under the Thunder</title>
@@ -2862,6 +2881,25 @@
     <date_best_before>2026-11-25</date_best_before>
     <date_canned>2026-05-25</date_canned>
     <untappd_id>6725271</untappd_id>
+  </item>
+  <item>
+    <id>6734519</id>
+    <ecommerce_id>840369780</ecommerce_id>
+    <title>Indigo</title>
+    <url>https://hopincraftbier.be/products/soma-beer-indigo</url>
+    <brewery_name>SOMA Beer</brewery_name>
+    <price>6.06</price>
+    <regular_price>8,08</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/840369780/5810034362.png</image>
+    <beer_description>Simcoe, Citra &amp; Nectaron SOMA Beer - Indigo</beer_description>
+    <beer_style>IPA - Triple New England / Hazy</beer_style>
+    <beer_abv>10%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Spain</brewery_country>
+    <date_best_before>2026-11-28</date_best_before>
+    <date_canned>2026-05-28</date_canned>
+    <untappd_id>6734519</untappd_id>
   </item>
   <item>
     <id>6734523</id>
@@ -7923,6 +7961,24 @@
     <untappd_id>6421473</untappd_id>
   </item>
   <item>
+    <id>6473817</id>
+    <ecommerce_id>797998005</ecommerce_id>
+    <title>Don't Fear the Reaper (collab Messorem)</title>
+    <url>https://hopincraftbier.be/products/counterpart-dont-fear-the-reaper</url>
+    <brewery_name>Counterpart Brewing</brewery_name>
+    <price>8.93</price>
+    <regular_price>11,91</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5409082110.png</image>
+    <beer_description>Hazy Triple IPA w/ Nelson Sauvin, Motueka &amp; Motueka Hop Kief brewed in collaboration w/ Messorem Big, juice laden flavours of sauv blanc, gooseberry, apricot, lime zest and pineapple with a balanced, candy-like sweetness. Counterpart - Don't Fear the Reaper</beer_description>
+    <beer_style>IPA - Triple New England / Hazy</beer_style>
+    <beer_abv>10%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Canada</brewery_country>
+    <date_canned>2025-10-29</date_canned>
+    <untappd_id>6473817</untappd_id>
+  </item>
+  <item>
     <id>5734470</id>
     <ecommerce_id>797998004</ecommerce_id>
     <title>IMPERIAL P-NUT BUSTER - AMANDE</title>
@@ -8156,6 +8212,23 @@
     <beer_package>can</beer_package>
     <brewery_country>Canada</brewery_country>
     <untappd_id>6441702</untappd_id>
+  </item>
+  <item>
+    <id>6459166</id>
+    <ecommerce_id>793369573</ecommerce_id>
+    <title>P'tit Monstre (collab Nano Cinco)</title>
+    <url>https://hopincraftbier.be/products/brasserie-sir-john-ptit-monstre</url>
+    <brewery_name>Brasserie Sir John Brewing Co.</brewery_name>
+    <price>7.69</price>
+    <regular_price>10,25</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5330715457.png</image>
+    <beer_description>Every brewery has one. That slightly petty or frivolous employee who always teeters on the edge of being respectable and dishonorable. It's in honor of these little monsters of the brewing world that we've teamed up for the very first time with the Quebec City crew at Nano Cinco! Triple IPA EXXXXXTRA juicy, this beer will make your ears tingle! Hopped with NZ Cascade, Pacifica, Nelson Sauvin Bliss, Riwaka, and a generous dose of Riwaka and Nelson Sauvin hopkief, this beer is made, like Kellogg's Frosties, to unleash your inner beast! It's ridiculously smooth, with a slight piney bitterness but a lovely juicy presence reminiscent of tropical fruits! We're super proud of this beer brewed with our new buddies from Quebec City. Until the next one, CHEERS! Brasserie Sir John - P'tit Monstre</beer_description>
+    <beer_style>IPA - Triple New England / Hazy</beer_style>
+    <beer_abv>9.9%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Canada</brewery_country>
+    <untappd_id>6459166</untappd_id>
   </item>
   <item>
     <id>40890</id>
@@ -8778,6 +8851,24 @@
     <untappd_id>6314891</untappd_id>
   </item>
   <item>
+    <id>6059732</id>
+    <ecommerce_id>778813134</ecommerce_id>
+    <title>Les Fleurs Du Mal (collab Xul)</title>
+    <url>https://hopincraftbier.be/products/brasserie-du-bas-canada-les-fleurs-du-mal</url>
+    <brewery_name>Brasserie du Bas-Canada</brewery_name>
+    <price>8.99</price>
+    <regular_price>11,99</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5260881836.webp</image>
+    <beer_description>Collaboration avec Xul Beer Co. - Triple IPA aux houblons Citra, Peacharine, Rakau, Kohia Nelson, Citra Incognito &amp; Citra Hyber Boost Brasserie du Bas-Canada - Les Fleurs Du Mal</beer_description>
+    <beer_style>IPA - Triple</beer_style>
+    <beer_abv>10%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Canada</brewery_country>
+    <date_canned>2025-09-24</date_canned>
+    <untappd_id>6059732</untappd_id>
+  </item>
+  <item>
     <id>4886997</id>
     <ecommerce_id>778812647</ecommerce_id>
     <title>Clock Tower Swirls (collab Aslin)</title>
@@ -9253,6 +9344,6 @@
     <date_canned>2025-03-03</date_canned>
     <untappd_id>6180169</untappd_id>
   </item>
-  <timestamp>1793362917</timestamp>
-  <gen_date>30/10/2026 13:21:57</gen_date>
+  <timestamp>1793376910</timestamp>
+  <gen_date>30/10/2026 17:15:10</gen_date>
 </feed>
