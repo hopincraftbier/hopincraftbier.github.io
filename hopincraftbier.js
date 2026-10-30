@@ -1,4 +1,4 @@
-const version = 'v8.07';
+const version = 'v8.10';
 let currentLanguage;
 
 const txtNl1 = '<div class="dtooltip"><p class="hover question">Kortingscoupon</p><p class="dtooltiptext">Afhankelijk van de gekozen betaling en levering, kunt u een kortingscoupon krijgen die te gebruiken is bij een volgende bestelling. Voor dit bier ziet u de bedragen in deze tabel</p></div><table class="discount-table"><thead><tr class="first_header"><th></th><th colspan="2">Manier van levering</th></tr><tr><th>Manier van betaling</th><th>Afhaling</th><th>Levering</th></tr></thead><tbody><tr><td class="header">Betalen bij afhaling</td><td>€ ';
@@ -14,6 +14,33 @@ const txtEn4 = '</td></tr><tr><td class="header">Online payment</td><td>€ ';
 const txtEn5 = '</td><td>€ 0</td></tr></tbody></table></div>';
 
 const countries = ['BE','NL','FR','DE','LU','ES','FI','IT','AT','LV','LT','EE','IE','PT','SE','PL','GR','RO','CZ','HU','HR', 'DK', 'SI', 'SK'];
+
+const FREE_SHIPPING_THRESHOLD = {
+    BE: 75,
+    NL: 75,
+    FR: 200,
+    DE: 200,
+    LU: 200,
+    ES: 200,
+    IT: 200,
+    AT: 200,
+    LV: 200,
+    LT: 200,
+    IE: 200,
+    PT: 200,
+    SE: 200,
+    PL: 200,
+    CZ: 200,
+    DK: 200,
+    FI: 200,
+    HU: 250,
+    HR: 250,
+    EE: 250,
+    GR: 250,
+    RO: 250,
+    SI: 250,
+    SK: 250,
+};
 
 // let debug = false;
 // let prodMode = true;
@@ -818,6 +845,7 @@ function renameBuyButtonToPreorder() {
                     labelEl.className.indexOf('grid-product__label--New') < 0 &&
                     labelEl.className.indexOf('grid-product__label--Last-one') < 0 &&
                     labelEl.className.indexOf('grid-product__label--American-Beer-Day') < 0 &&
+                    labelEl.className.indexOf('grid-product__label--Intl-Stout-Day') < 0 &&
                     labelEl.className.indexOf('grid-product__label--Laatste') < 0) {
                     buttonTextEl.innerHTML = btnTxt;
                 }
@@ -1204,6 +1232,13 @@ function cleanCategory() {
     });
 }
 
+function getMultiplier(cart) {
+    const country = cart.shippingPerson && cart.shippingPerson.countryCode;
+    const threshold = FREE_SHIPPING_THRESHOLD[country];
+    if (!threshold) return 1;
+    return Math.max(1, Math.floor(cart.total / threshold) - 1);
+}
+
 function validateCartLimit(cart) {
     if (cart.shippingMethod && (cart.shippingMethod === 'Zelf ophalen' || cart.shippingMethod === 'Pick up yourself'
             || cart.shippingMethod === 'Reservaties'  || cart.shippingMethod === 'Reservations')) {
@@ -1218,9 +1253,12 @@ function validateCartLimit(cart) {
         return;
     }
 
-    const MAX = 140;
+    const BASE_MAX = 140;
     const WEIGHT = { Blik: 4, Fles: 7 };
     const heaviest = Math.max.apply(null, Object.keys(WEIGHT).map(k => WEIGHT[k]));
+
+    const multiplier = getMultiplier(cart);
+    const MAX = BASE_MAX * multiplier;
 
     // even if every unit were the heaviest type, the cart couldn't exceed MAX
     if (cart.productsQuantity * heaviest <= MAX) return;
