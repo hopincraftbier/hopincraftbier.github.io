@@ -9065,24 +9065,6 @@
     <untappd_id>6187809</untappd_id>
   </item>
   <item>
-    <id>6291425</id>
-    <ecommerce_id>758587301</ecommerce_id>
-    <title>9 Years: Return To Ithaca</title>
-    <url>https://hopincraftbier.be/products/moersleutel-9-years-return-to-ithaca</url>
-    <brewery_name>Moersleutel Craft Brewery</brewery_name>
-    <price>7.65</price>
-    <regular_price>7.65</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4972502476.webp</image>
-    <beer_description>Coming home after a long journey – that feeling is captured in every sip of this quadrupel. Layered with notes of raisins, dried fruit, and smooth caramel—a beer steeped in warmth and memory. What sets it apart is its nuanced oak treatment: spirals, cubes, and a touch of liquid tannins lend soft vanilla, gentle spice, and refined wood tones that elevate without overpowering. Brewed with barley, rye, wheat, and spelt, it boasts a full, rounded body and a deeply expressive malt character. A beer full of stories—complex, comforting, and unforgettable Moersleutel - 9 Years: Return To Ithaca</beer_description>
-    <beer_style>Belgian Quadrupel</beer_style>
-    <beer_abv>11%</beer_abv>
-    <beer_volume>440 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>The Netherlands</brewery_country>
-    <date_best_before>2028-05-01</date_best_before>
-    <untappd_id>6291425</untappd_id>
-  </item>
-  <item>
     <id>6250418</id>
     <ecommerce_id>756989446</ecommerce_id>
     <title>Bistro Peach Strawberry Rhubarb Cobbler</title>
@@ -9344,6 +9326,6 @@
     <date_canned>2025-03-03</date_canned>
     <untappd_id>6180169</untappd_id>
   </item>
-  <timestamp>1793376910</timestamp>
-  <gen_date>30/10/2026 17:15:10</gen_date>
+  <timestamp>1793430907</timestamp>
+  <gen_date>31/10/2026 08:15:07</gen_date>
 </feed>
