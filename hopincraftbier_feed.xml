@@ -1567,6 +1567,25 @@
     <untappd_id>3349056</untappd_id>
   </item>
   <item>
+    <id>6847556</id>
+    <ecommerce_id>848793463</ecommerce_id>
+    <title>Whale Sharks 2026</title>
+    <url>https://hopincraftbier.be/products/verdant-whale-sharks-2026</url>
+    <brewery_name>Verdant Brewing Co</brewery_name>
+    <price>7.6</price>
+    <regular_price>8,94</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/848793463/5892064809.png</image>
+    <beer_description>A powerful and punchy TDH 8% DIPA. Even Sharks Need Water’s big brother. Huge Galaxy and Citra hits! Verdant Brewing Co - Whale Sharks 2026</beer_description>
+    <beer_style>IPA - Imperial / Double</beer_style>
+    <beer_abv>8.4%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>England</brewery_country>
+    <date_best_before>2026-12-31</date_best_before>
+    <date_canned>2026-07-02</date_canned>
+    <untappd_id>6847556</untappd_id>
+  </item>
+  <item>
     <id>6754657</id>
     <ecommerce_id>848804412</ecommerce_id>
     <title>Tender Thorns</title>
@@ -2884,6 +2903,25 @@
     <untappd_id>6734519</untappd_id>
   </item>
   <item>
+    <id>6734523</id>
+    <ecommerce_id>840363543</ecommerce_id>
+    <title>Crossbar (collab Sudden Death)</title>
+    <url>https://hopincraftbier.be/products/soma-beer-crossbar</url>
+    <brewery_name>SOMA Beer</brewery_name>
+    <price>6.51</price>
+    <regular_price>7,66</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/840363543/5810019990.png</image>
+    <beer_description>Nelson, Waimea &amp; Citra Collaboration with Sudden Death SOMA Beer - Crossbar</beer_description>
+    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
+    <beer_abv>8%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Spain</brewery_country>
+    <date_best_before>2026-12-01</date_best_before>
+    <date_canned>2026-06-01</date_canned>
+    <untappd_id>6734523</untappd_id>
+  </item>
+  <item>
     <id>6756041</id>
     <ecommerce_id>839698843</ecommerce_id>
     <title>Élixir-IPA (collab Herman)</title>
@@ -3650,6 +3688,25 @@
     <date_best_before>2026-12-03</date_best_before>
     <date_canned>2026-06-03</date_canned>
     <untappd_id>6725364</untappd_id>
+  </item>
+  <item>
+    <id>6706759</id>
+    <ecommerce_id>836672600</ecommerce_id>
+    <title>Sidereal</title>
+    <url>https://hopincraftbier.be/products/doskiwis-sidereal</url>
+    <brewery_name>DosKiwis</brewery_name>
+    <price>5.16</price>
+    <regular_price>6,07</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/836672600/5817235703.png</image>
+    <beer_description>A CRISP, MODERN WEST COAST IPA FEATURING ROCK, CITRA CRYO &amp; COLUMBUS CRYO. DosKiwis - Sidereal</beer_description>
+    <beer_style>IPA - Other</beer_style>
+    <beer_abv>7%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Spain</brewery_country>
+    <date_best_before>2026-12-01</date_best_before>
+    <date_canned>2026-06-01</date_canned>
+    <untappd_id>6706759</untappd_id>
   </item>
   <item>
     <id>6679126</id>
@@ -7217,6 +7274,24 @@
     <untappd_id>6578107</untappd_id>
   </item>
   <item>
+    <id>6489573</id>
+    <ecommerce_id>811857028</ecommerce_id>
+    <title>IUPAC (collab GROSS)</title>
+    <url>https://hopincraftbier.be/products/prizm-iupac</url>
+    <brewery_name>Prizm Brewing Co.</brewery_name>
+    <price>5.68</price>
+    <regular_price>6,68</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/811857028/5551432759.png</image>
+    <beer_description>With this NEIPA we wanted to go beyond the dank side of our favorite hops so we called our friends from Gross in Spain and together we made a super terpene charged NEIPA full of weedy flavours. NO THC ;) Prizm - IUPAC</beer_description>
+    <beer_style>IPA - New England / Hazy</beer_style>
+    <beer_abv>6%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>France</brewery_country>
+    <date_best_before>12/2026</date_best_before>
+    <untappd_id>6489573</untappd_id>
+  </item>
+  <item>
     <id>6457990</id>
     <ecommerce_id>811857027</ecommerce_id>
     <title>Peadair</title>
@@ -7232,6 +7307,42 @@
     <brewery_country>Poland</brewery_country>
     <date_best_before>2030-12-31</date_best_before>
     <untappd_id>6457990</untappd_id>
+  </item>
+  <item>
+    <id>6569053</id>
+    <ecommerce_id>811861791</ecommerce_id>
+    <title>Please The Crowds (collab SOMA)</title>
+    <url>https://hopincraftbier.be/products/prizm-please-the-crowds</url>
+    <brewery_name>Prizm Brewing Co.</brewery_name>
+    <price>6.12</price>
+    <regular_price>7,20</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/811861791/5551425958.png</image>
+    <beer_description>FEATURING – Please the crowds DDH Double NEIPA – 8 % Houblons : Citra / Galaxy / Mosaic / Sabro Collab : SOMA (??) Prizm - Please The Crowds</beer_description>
+    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
+    <beer_abv>8%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>France</brewery_country>
+    <date_best_before>01/2027</date_best_before>
+    <untappd_id>6569053</untappd_id>
+  </item>
+  <item>
+    <id>6569059</id>
+    <ecommerce_id>811856563</ecommerce_id>
+    <title>Sunken Ship (collab Stu Mostów)</title>
+    <url>https://hopincraftbier.be/products/prizm-sunken-ship</url>
+    <brewery_name>Prizm Brewing Co.</brewery_name>
+    <price>6.38</price>
+    <regular_price>7,51</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/811856563/5551424383.png</image>
+    <beer_description>FEATURING – Sunken Ship DDH Triple NEIPA – 9% Houblons : Citra / Strata / Nectaron Collab : Browar Stu Mostów (??) Prizm - Sunken Ship</beer_description>
+    <beer_style>IPA - Triple New England / Hazy</beer_style>
+    <beer_abv>9%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>France</brewery_country>
+    <date_best_before>01/2027</date_best_before>
+    <untappd_id>6569059</untappd_id>
   </item>
   <item>
     <id>6489634</id>
@@ -7266,6 +7377,24 @@
     <brewery_country>Canada</brewery_country>
     <date_canned>01/2026</date_canned>
     <untappd_id>6013135</untappd_id>
+  </item>
+  <item>
+    <id>6315867</id>
+    <ecommerce_id>810442764</ecommerce_id>
+    <title>Monolith | Batch #4</title>
+    <url>https://hopincraftbier.be/products/bissell-brothers-monolith-batch-4</url>
+    <brewery_name>Bissell Brothers Brewing Company</brewery_name>
+    <price>23.19</price>
+    <regular_price>0</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/810442764/5532717876.png</image>
+    <beer_description>Born from the Sigil series, Monolith is a recurring barleywine from our barrel Magister, JC Klecko. Batch one was aged exclusively in a mix of bourbon barrels for an average of 15 months. BOW to the MONOLITH Bissell Brothers - Monolith</beer_description>
+    <beer_style>Barleywine - American</beer_style>
+    <beer_abv>13.2%</beer_abv>
+    <beer_volume>500 ml</beer_volume>
+    <beer_package>bottle</beer_package>
+    <brewery_country>United States</brewery_country>
+    <date_canned>01/2025</date_canned>
+    <untappd_id>6315867</untappd_id>
   </item>
   <item>
     <id>5513278</id>
@@ -8151,6 +8280,24 @@
     <untappd_id>6454216</untappd_id>
   </item>
   <item>
+    <id>1029314</id>
+    <ecommerce_id>793369356</ecommerce_id>
+    <title>Eviscerated Pathway of Beauty</title>
+    <url>https://hopincraftbier.be/products/tired-hands-eviscerated-pathway-of-beauty</url>
+    <brewery_name>Tired Hands Brewing Company</brewery_name>
+    <price>9.27</price>
+    <regular_price>10,91</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5330853713.png</image>
+    <beer_description>Citra Double IPA. Brewed with oats. Hopped intensely and singularly with Citra. Tired Hands - Eviscerated Pathway of Beauty</beer_description>
+    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
+    <beer_abv>8.6%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>United States</brewery_country>
+    <date_canned>2025-12-02</date_canned>
+    <untappd_id>1029314</untappd_id>
+  </item>
+  <item>
     <id>6531336</id>
     <ecommerce_id>793373326</ecommerce_id>
     <title>Evolve Or Die (2025)</title>
@@ -8499,6 +8646,24 @@
     <untappd_id>4214697</untappd_id>
   </item>
   <item>
+    <id>6393502</id>
+    <ecommerce_id>787743585</ecommerce_id>
+    <title>Mania!</title>
+    <url>https://hopincraftbier.be/products/willibald-farm-distillery--mania</url>
+    <brewery_name>Willibald Farm Distillery &amp; Brewery</brewery_name>
+    <price>7.44</price>
+    <regular_price>9,92</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/787743585/5260616558.webp</image>
+    <beer_description>Triple IPA with Citra, Mosaic, and Krush Hyperboost. Willibald Farm Distillery &amp; - Mania!</beer_description>
+    <beer_style>IPA - Triple New England / Hazy</beer_style>
+    <beer_abv>10%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Canada</brewery_country>
+    <date_canned>10/2025</date_canned>
+    <untappd_id>6393502</untappd_id>
+  </item>
+  <item>
     <id>6421716</id>
     <ecommerce_id>787475908</ecommerce_id>
     <title>West To the Sand (collab Floc. &amp; Beak)</title>
@@ -8632,6 +8797,24 @@
     <brewery_country>France</brewery_country>
     <date_best_before>2027-06-19</date_best_before>
     <untappd_id>6314891</untappd_id>
+  </item>
+  <item>
+    <id>6059732</id>
+    <ecommerce_id>778813134</ecommerce_id>
+    <title>Les Fleurs Du Mal (collab Xul)</title>
+    <url>https://hopincraftbier.be/products/brasserie-du-bas-canada-les-fleurs-du-mal</url>
+    <brewery_name>Brasserie du Bas-Canada</brewery_name>
+    <price>8.99</price>
+    <regular_price>11,99</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5260881836.webp</image>
+    <beer_description>Collaboration avec Xul Beer Co. - Triple IPA aux houblons Citra, Peacharine, Rakau, Kohia Nelson, Citra Incognito &amp; Citra Hyber Boost Brasserie du Bas-Canada - Les Fleurs Du Mal</beer_description>
+    <beer_style>IPA - Triple</beer_style>
+    <beer_abv>10%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Canada</brewery_country>
+    <date_canned>2025-09-24</date_canned>
+    <untappd_id>6059732</untappd_id>
   </item>
   <item>
     <id>4886997</id>
@@ -9091,6 +9274,6 @@
     <date_canned>2025-03-03</date_canned>
     <untappd_id>6180169</untappd_id>
   </item>
-  <timestamp>1793615408</timestamp>
-  <gen_date>02/11/2026 11:30:08</gen_date>
+  <timestamp>1793620807</timestamp>
+  <gen_date>02/11/2026 13:00:07</gen_date>
 </feed>
