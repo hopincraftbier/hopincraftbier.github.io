@@ -1572,7 +1572,8 @@
     <title>Whale Sharks 2026</title>
     <url>https://hopincraftbier.be/products/verdant-whale-sharks-2026</url>
     <brewery_name>Verdant Brewing Co</brewery_name>
-    <price>8.94</price>
+    <price>7.6</price>
+    <regular_price>8,94</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/848793463/5892064809.png</image>
     <beer_description>A powerful and punchy TDH 8% DIPA. Even Sharks Need Water’s big brother. Huge Galaxy and Citra hits! Verdant Brewing Co - Whale Sharks 2026</beer_description>
     <beer_style>IPA - Imperial / Double</beer_style>
@@ -7351,8 +7352,8 @@
     <title>Please The Crowds (collab SOMA)</title>
     <url>https://hopincraftbier.be/products/prizm-please-the-crowds</url>
     <brewery_name>Prizm Brewing Co.</brewery_name>
-    <price>7.2</price>
-    <regular_price>7.20</regular_price>
+    <price>6.12</price>
+    <regular_price>7,20</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/811861791/5551425958.png</image>
     <beer_description>FEATURING – Please the crowds DDH Double NEIPA – 8 % Houblons : Citra / Galaxy / Mosaic / Sabro Collab : SOMA (??) Prizm - Please The Crowds</beer_description>
     <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
@@ -7369,7 +7370,8 @@
     <title>Sunken Ship (collab Stu Mostów)</title>
     <url>https://hopincraftbier.be/products/prizm-sunken-ship</url>
     <brewery_name>Prizm Brewing Co.</brewery_name>
-    <price>7.51</price>
+    <price>6.38</price>
+    <regular_price>7,51</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/811856563/5551424383.png</image>
     <beer_description>FEATURING – Sunken Ship DDH Triple NEIPA – 9% Houblons : Citra / Strata / Nectaron Collab : Browar Stu Mostów (??) Prizm - Sunken Ship</beer_description>
     <beer_style>IPA - Triple New England / Hazy</beer_style>
@@ -8321,7 +8323,8 @@
     <title>Eviscerated Pathway of Beauty</title>
     <url>https://hopincraftbier.be/products/tired-hands-eviscerated-pathway-of-beauty</url>
     <brewery_name>Tired Hands Brewing Company</brewery_name>
-    <price>10.91</price>
+    <price>9.27</price>
+    <regular_price>10,91</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5330853713.png</image>
     <beer_description>Citra Double IPA. Brewed with oats. Hopped intensely and singularly with Citra. Tired Hands - Eviscerated Pathway of Beauty</beer_description>
     <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
@@ -9326,6 +9329,6 @@
     <date_canned>2025-03-03</date_canned>
     <untappd_id>6180169</untappd_id>
   </item>
-  <timestamp>1793430907</timestamp>
-  <gen_date>31/10/2026 08:15:07</gen_date>
+  <timestamp>1793614508</timestamp>
+  <gen_date>02/11/2026 11:15:08</gen_date>
 </feed>
