@@ -2338,7 +2338,7 @@
     <untappd_id>6815213</untappd_id>
   </item>
   <item>
-    <id>6397119</id>
+    <id>6796808</id>
     <ecommerce_id>845900260</ecommerce_id>
     <title>Double Riri (2026)</title>
     <url>https://hopincraftbier.be/products/badlands-double-riri-2026</url>
@@ -2352,7 +2352,7 @@
     <beer_package>can</beer_package>
     <brewery_country>Canada</brewery_country>
     <date_canned>2026-07-22</date_canned>
-    <untappd_id>6397119</untappd_id>
+    <untappd_id>6796808</untappd_id>
   </item>
   <item>
     <id>6689228</id>
@@ -9274,6 +9274,6 @@
     <date_canned>2025-03-03</date_canned>
     <untappd_id>6180169</untappd_id>
   </item>
-  <timestamp>1793620807</timestamp>
-  <gen_date>02/11/2026 13:00:07</gen_date>
+  <timestamp>1793623507</timestamp>
+  <gen_date>02/11/2026 13:45:07</gen_date>
 </feed>
