@@ -196,6 +196,66 @@
     <untappd_id>6620448</untappd_id>
   </item>
   <item>
+    <id>8000000235</id>
+    <ecommerce_id>870246524</ecommerce_id>
+    <title>Fuzzy Logic</title>
+    <url>https://hopincraftbier.be/products/bracket-fuzzy-logic</url>
+    <brewery_name>Bracket Brewing</brewery_name>
+    <price>9.49</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images-tmp/112251271/6328814933.webp</image>
+    <beer_description>Peacharine | Krush | Motueka Bracket Brewing - Fuzzy Logic</beer_description>
+    <beer_style>IPA - New England / Hazy</beer_style>
+    <beer_abv>8.6%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Australia</brewery_country>
+  </item>
+  <item>
+    <id>8000000234</id>
+    <ecommerce_id>870246523</ecommerce_id>
+    <title>Extra Specky</title>
+    <url>https://hopincraftbier.be/products/bracket-extra-specky</url>
+    <brewery_name>Bracket Brewing</brewery_name>
+    <price>11.54</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images-tmp/112251271/6328814927.webp</image>
+    <beer_description>Eggers Special X Riwaka | Mosaic Bracket Brewing - Extra Specky</beer_description>
+    <beer_style>IPA - Double New England / Hazy</beer_style>
+    <beer_abv>8.6%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Australia</brewery_country>
+  </item>
+  <item>
+    <id>8000000233</id>
+    <ecommerce_id>870246522</ecommerce_id>
+    <title>Conjunction</title>
+    <url>https://hopincraftbier.be/products/bracket-conjunction</url>
+    <brewery_name>Bracket Brewing</brewery_name>
+    <price>11.75</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images-tmp/112251271/6328814181.webp</image>
+    <beer_description>Eggers New Moon Nelson | Southern X | Mosaic Bracket Brewing - Conjunction</beer_description>
+    <beer_style>IPA - Triple</beer_style>
+    <beer_abv>10.7%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Australia</brewery_country>
+  </item>
+  <item>
+    <id>8000000232</id>
+    <ecommerce_id>870246521</ecommerce_id>
+    <title>Critical Stop Error</title>
+    <url>https://hopincraftbier.be/products/bracket-critical-stop-error</url>
+    <brewery_name>Bracket Brewing</brewery_name>
+    <price>10.92</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images-tmp/112251271/6328814921.webp</image>
+    <beer_description>Vic Secret | Peacharine | Krush Bracket Brewing - Critical Stop Error</beer_description>
+    <beer_style>IPA - Double New England / Hazy</beer_style>
+    <beer_abv>8.4%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Australia</brewery_country>
+  </item>
+  <item>
     <id>4730984</id>
     <ecommerce_id>869763526</ecommerce_id>
     <title>Small Batch No. 2: Two-Year Wheatwine</title>
@@ -9211,6 +9271,6 @@
     <date_canned>2025-03-03</date_canned>
     <untappd_id>6180169</untappd_id>
   </item>
-  <timestamp>1793708854</timestamp>
-  <gen_date>03/11/2026 13:27:34</gen_date>
+  <timestamp>1793709122</timestamp>
+  <gen_date>03/11/2026 13:32:02</gen_date>
 </feed>
