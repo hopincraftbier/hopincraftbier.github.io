@@ -5,6 +5,22 @@
   <link>https://hopincraftbier.be</link>
   <description>Hop In Craftbier Products feed</description>
   <item>
+    <id>7647511</id>
+    <ecommerce_id>875526084</ecommerce_id>
+    <title>Quintuple Vanilla Bean Wondernight</title>
+    <url>https://hopincraftbier.be/products/brasseria-della-fonte-quintuple-vanilla-bean-wondernight</url>
+    <brewery_name>Brasseria Della Fonte</brewery_name>
+    <price>26.87</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/875526084/6377614495.png</image>
+    <beer_description>Quintuple Vanilla Bean Wondernight B.A. Imperial Stout w/ Vanilla · 11.2% A powerful Imperial Stout aged for 21 months in ex-Rye Whiskey barrels and cold-conditioned with five varieties of vanilla: Congo, Madagascar, Uganda, Papua and Zanzibar. The final blend highlights the quality of carefully selected ingredients, with an intense, enveloping and indulgent vanilla aroma. On the palate, it is sweet and full-bodied, with notes of milk chocolate, spirit-soaked wood and subtle spicy nuances from the Rye Whiskey and Zanzibar vanilla. Brasseria Della Fonte - Quintuple Vanilla Bean Wondernight</beer_description>
+    <beer_style>Stout - Imperial / Double</beer_style>
+    <beer_abv>11.2%</beer_abv>
+    <beer_volume>500 ml</beer_volume>
+    <beer_package>bottle</beer_package>
+    <brewery_country>Italy</brewery_country>
+    <untappd_id>7647511</untappd_id>
+  </item>
+  <item>
     <id>9000000055</id>
     <ecommerce_id>871873258</ecommerce_id>
     <title>Engorile - Pair</title>
@@ -9129,6 +9145,6 @@
     <date_canned>2025-03-03</date_canned>
     <untappd_id>6180169</untappd_id>
   </item>
-  <timestamp>1793652309</timestamp>
-  <gen_date>02/11/2026 21:45:09</gen_date>
+  <timestamp>1793708108</timestamp>
+  <gen_date>03/11/2026 13:15:08</gen_date>
 </feed>
