@@ -196,6 +196,55 @@
     <untappd_id>6620448</untappd_id>
   </item>
   <item>
+    <id>7537090</id>
+    <ecommerce_id>870518771</ecommerce_id>
+    <title>Imaginary</title>
+    <url>https://hopincraftbier.be/products/floc-imaginary</url>
+    <brewery_name>Floc.</brewery_name>
+    <price>7.59</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/870518771/6326544462.png</image>
+    <beer_description>Floc. - Imaginary</beer_description>
+    <beer_style>IPA - New England / Hazy</beer_style>
+    <beer_abv>6.6%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>England</brewery_country>
+    <untappd_id>7537090</untappd_id>
+  </item>
+  <item>
+    <id>7071272</id>
+    <ecommerce_id>870506354</ecommerce_id>
+    <title>Fade In</title>
+    <url>https://hopincraftbier.be/products/floc-fade-in</url>
+    <brewery_name>Floc.</brewery_name>
+    <price>9.55</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/870506354/6315617213.png</image>
+    <beer_description>A bold, hazy DIPA bursting with bright Citra, Simcoe pine and ripe Motueka lime. Saturated tropical fruit, soft bitterness and a smooth, full-bodied finish keep everything beautifully balanced throughout. Floc. - Fade In</beer_description>
+    <beer_style>IPA - New England / Hazy</beer_style>
+    <beer_abv>8%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>England</brewery_country>
+    <untappd_id>7071272</untappd_id>
+  </item>
+  <item>
+    <id>6921036</id>
+    <ecommerce_id>870506353</ecommerce_id>
+    <title>Afterglow</title>
+    <url>https://hopincraftbier.be/products/floc-afterglow</url>
+    <brewery_name>Floc.</brewery_name>
+    <price>7.8</price>
+    <regular_price>7.80</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/870506353/6315605245.png</image>
+    <beer_description>A vibrant DDH IPA bursting with Motueka’s lime and tropical character, layered with Nelson Sauvin’s white grape, gooseberry and dank depth. Soft, juicy and intensely aromatic, with a smooth finish. Floc. - Afterglow</beer_description>
+    <beer_style>IPA - New England / Hazy</beer_style>
+    <beer_abv>6%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>England</brewery_country>
+    <untappd_id>6921036</untappd_id>
+  </item>
+  <item>
     <id>4730984</id>
     <ecommerce_id>869763526</ecommerce_id>
     <title>Small Batch No. 2: Two-Year Wheatwine</title>
@@ -9211,6 +9260,6 @@
     <date_canned>2025-03-03</date_canned>
     <untappd_id>6180169</untappd_id>
   </item>
-  <timestamp>1793711999</timestamp>
-  <gen_date>03/11/2026 14:19:59</gen_date>
+  <timestamp>1793778254</timestamp>
+  <gen_date>04/11/2026 08:44:14</gen_date>
 </feed>
