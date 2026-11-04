@@ -645,6 +645,102 @@
     <untappd_id>6820587</untappd_id>
   </item>
   <item>
+    <id>6862159</id>
+    <ecommerce_id>862405768</ecommerce_id>
+    <title>Demoliri 0040</title>
+    <url>https://hopincraftbier.be/products/messorem-demoliri-0040</url>
+    <brewery_name>Messorem</brewery_name>
+    <price>10.33</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/862405768/6228726182.png</image>
+    <beer_description>IPA - Rakau, Rakau Hop Kief, Citra, Citra Hyperboost Messorem - Demoliri 0040</beer_description>
+    <beer_style>IPA - New England / Hazy</beer_style>
+    <beer_abv>7%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Canada</brewery_country>
+    <untappd_id>6862159</untappd_id>
+  </item>
+  <item>
+    <id>6862157</id>
+    <ecommerce_id>862400840</ecommerce_id>
+    <title>Demoliri 0039</title>
+    <url>https://hopincraftbier.be/products/messorem-demoliri-0039</url>
+    <brewery_name>Messorem</brewery_name>
+    <price>10.33</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/862400840/6228726176.png</image>
+    <beer_description>IPA - Nelson Sauvin, Nelson Sauvin Amplifier, Riwaka Messorem - Demoliri 0039</beer_description>
+    <beer_style>IPA - New England / Hazy</beer_style>
+    <beer_abv>7%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Canada</brewery_country>
+    <untappd_id>6862157</untappd_id>
+  </item>
+  <item>
+    <id>6907872</id>
+    <ecommerce_id>862403784</ecommerce_id>
+    <title>Destructio 0018</title>
+    <url>https://hopincraftbier.be/products/messorem-destructio-0018</url>
+    <brewery_name>Messorem</brewery_name>
+    <price>11.34</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/862403784/6317756600.png</image>
+    <beer_description>IPA Double New England with Southern Cross, Nelson Sauvin, Citra &amp; Sabro Liquid Lupulin hops Messorem - Destructio 0018</beer_description>
+    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
+    <beer_abv>8.5%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Canada</brewery_country>
+    <untappd_id>6907872</untappd_id>
+  </item>
+  <item>
+    <id>6907869</id>
+    <ecommerce_id>862400839</ecommerce_id>
+    <title>Destructio 0017</title>
+    <url>https://hopincraftbier.be/products/messorem-destructio-0017</url>
+    <brewery_name>Messorem</brewery_name>
+    <price>11.34</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/862400839/6317752248.png</image>
+    <beer_description>Messorem - Destructio 0017</beer_description>
+    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
+    <beer_abv>8.5%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Canada</brewery_country>
+    <untappd_id>6907869</untappd_id>
+  </item>
+  <item>
+    <id>6920059</id>
+    <ecommerce_id>862403783</ecommerce_id>
+    <title>Temporalis #0068</title>
+    <url>https://hopincraftbier.be/products/messorem-temporalis-0068</url>
+    <brewery_name>Messorem</brewery_name>
+    <price>12.01</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/862403783/6317756588.png</image>
+    <beer_description>Triple IPA - Riwaka, Simcoe, Citra, Citra Dynaboost Messorem - Temporalis #0068</beer_description>
+    <beer_style>IPA - Triple New England / Hazy</beer_style>
+    <beer_abv>10%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Canada</brewery_country>
+    <untappd_id>6920059</untappd_id>
+  </item>
+  <item>
+    <id>6920057</id>
+    <ecommerce_id>862403782</ecommerce_id>
+    <title>Temporalis #0067</title>
+    <url>https://hopincraftbier.be/products/messorem-temporalis-0067</url>
+    <brewery_name>Messorem</brewery_name>
+    <price>12.01</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/862403782/6317744494.png</image>
+    <beer_description>Triple IPA - Citra, Citra Dynaboost, Superdelic, Waimea Messorem - Temporalis #0067</beer_description>
+    <beer_style>IPA - Triple New England / Hazy</beer_style>
+    <beer_abv>10%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Canada</brewery_country>
+    <untappd_id>6920057</untappd_id>
+  </item>
+  <item>
     <id>6726422</id>
     <ecommerce_id>861383756</ecommerce_id>
     <title>Lax Juice</title>
@@ -9260,6 +9356,6 @@
     <date_canned>2025-03-03</date_canned>
     <untappd_id>6180169</untappd_id>
   </item>
-  <timestamp>1793778254</timestamp>
-  <gen_date>04/11/2026 08:44:14</gen_date>
+  <timestamp>1793812862</timestamp>
+  <gen_date>04/11/2026 18:21:02</gen_date>
 </feed>
