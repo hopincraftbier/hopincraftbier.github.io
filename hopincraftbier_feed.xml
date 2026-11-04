@@ -244,6 +244,22 @@
     <untappd_id>7537090</untappd_id>
   </item>
   <item>
+    <id>6918554</id>
+    <ecommerce_id>870502857</ecommerce_id>
+    <title>Flint</title>
+    <url>https://hopincraftbier.be/products/pinta-barrel-flint</url>
+    <brewery_name>PINTA Barrel Brewing</brewery_name>
+    <price>11.02</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/870502857/6315637035.png</image>
+    <beer_description>Imperial Stout with BA Coffee &amp; BA Cocoa Nibs. Aged for 29-40 months in Heaven Hill, Wild Turkey &amp; Woodford Reserve Bourbon Barrels. Adjuncts breakdown: - Coffee from Honduras and Brazil aged in Porto and Rum barrels, - Cocoa Nibs from Columbia and Honduras aged in Bourbon barrels. Barrels breakdown: 50% Woodford Reserve 35% Heaven Hill 15% Wild Turkey PINTA Barrel Brewing - Flint</beer_description>
+    <beer_style>Stout - Imperial / Double</beer_style>
+    <beer_abv>12%</beer_abv>
+    <beer_volume>330 ml</beer_volume>
+    <beer_package>bottle</beer_package>
+    <brewery_country>Poland</brewery_country>
+    <untappd_id>6918554</untappd_id>
+  </item>
+  <item>
     <id>7071272</id>
     <ecommerce_id>870506354</ecommerce_id>
     <title>Fade In</title>
@@ -9763,6 +9779,6 @@
     <date_canned>2025-03-03</date_canned>
     <untappd_id>6180169</untappd_id>
   </item>
-  <timestamp>1793819333</timestamp>
-  <gen_date>04/11/2026 20:08:53</gen_date>
+  <timestamp>1793822212</timestamp>
+  <gen_date>04/11/2026 20:56:52</gen_date>
 </feed>
