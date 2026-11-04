@@ -1,4 +1,4 @@
-/* HopInCraftbier custom css v4.64 */
+/* HopInCraftbier custom css v4.65 */
 /** start homepage **/
 body {
     margin: auto;
@@ -1140,6 +1140,12 @@ div.pager__body {
             padding-top: 0.2em !important;
             margin: auto;
 
+            span {
+                padding-left: 10px;
+                width: 100%;
+                display: inline-block;
+            }
+
             .form-control__button {
                 padding: 0.6em 2em !important;
                 font-size: 14px !important;
@@ -1912,7 +1918,12 @@ div#deliveryInfoSidebar {
     overflow: auto;
     margin-left: 7%;
     select {
-        box-shadow: 5px 5px 20px 0 rgba(0, 0, 0, 0.1) !important;
+        box-shadow: 5px 5px 5px 0 rgba(0, 0, 0, 0.1) !important;
+        background-color: rgb(247, 245, 198) !important;
+        border: 1px lightgray solid !important;
+        border-radius: 6px !important;
+        padding: 5px !important;
+        margin-bottom: 5px !important;
     }
 }
 .del_info_table {
