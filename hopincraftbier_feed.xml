@@ -1200,6 +1200,54 @@
     <untappd_id>6826095</untappd_id>
   </item>
   <item>
+    <id>7626996</id>
+    <ecommerce_id>855726554</ecommerce_id>
+    <title>Bourbon County Brand Apple Crisp Stout 2026</title>
+    <url>https://hopincraftbier.be/products/goose-island-bourbon-county-brand-apple-crisp-stout-2026</url>
+    <brewery_name>Goose Island Beer Co.</brewery_name>
+    <price>19.45</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/855726554/6089246785.png</image>
+    <beer_description>Imperial stout aged in bourbon barrels with apple, cinnamon, nutmeg, clove, oats and panela This beer is not allowed to be sold before 27/11; so will be shipped at the earliest on 27/11 Goose Island Beer Co. - Bourbon County Brand Apple Crisp Stout 2026</beer_description>
+    <beer_style>Stout - Imperial / Double</beer_style>
+    <beer_abv>13.9%</beer_abv>
+    <beer_volume>500 ml</beer_volume>
+    <beer_package>bottle</beer_package>
+    <brewery_country>United States</brewery_country>
+    <untappd_id>7626996</untappd_id>
+  </item>
+  <item>
+    <id>7629070</id>
+    <ecommerce_id>855723426</ecommerce_id>
+    <title>Bourbon County Brand Tiramisu Cask Finish Stout</title>
+    <url>https://hopincraftbier.be/products/goose-island-bourbon-county-brand-tiramisu-cask-finish-stout</url>
+    <brewery_name>Goose Island Beer Co.</brewery_name>
+    <price>19.45</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/855723426/6089245276.png</image>
+    <beer_description>One of the most striking variants from the 2026 Bourbon County range. Goose Island first aged this imperial stout in bourbon barrels, with the addition of espresso, cocoa nibs, and vanilla. The beer then received a finish in rum barrels. As the name promises, you taste a dessert in a glass: coffee, cocoa, and creamy vanilla, complemented by the sweet, warm touch of rum and the deep bourbon and oak notes of the base beer. Full, rich, and seductive. Perfect to end the evening or alongside a real dessert. This beer is not allowed to be sold before 27/11; so will be shipped at the earliest on 27/11 Goose Island Beer Co. - Goose Island Bourbon County Brand Tiramisu Cask Finish Stout</beer_description>
+    <beer_style>Stout - Imperial / Double</beer_style>
+    <beer_abv>15.1%</beer_abv>
+    <beer_volume>500 ml</beer_volume>
+    <beer_package>bottle</beer_package>
+    <brewery_country>United States</brewery_country>
+    <untappd_id>7629070</untappd_id>
+  </item>
+  <item>
+    <id>7629083</id>
+    <ecommerce_id>855729513</ecommerce_id>
+    <title>Bourbon County Brand Stout (2026)</title>
+    <url>https://hopincraftbier.be/products/goose-island-goose-island-bourbon-county-brand-stout-2026</url>
+    <brewery_name>Goose Island Beer Co.</brewery_name>
+    <price>11.02</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/855729513/6089245282.png</image>
+    <beer_description>For years one of the most sought-after barrel-aged stouts in the world, the 2026 edition lives up to that reputation as well. This imperial stout from Goose Island matured for an average of 13 months in bourbon barrels from four legendary distilleries: Buffalo Trace, Heaven Hill, Four Roses, and Wild Turkey. The result is a pitch-black, syrupy beer with deep notes of dark chocolate, vanilla, caramel, and oak, featuring a warm bourbon finish that lingers. A beer to enjoy quietly, or to cellar for a few years and see how it develops. This beer is not allowed to be sold before 27/11; so will be shipped at the earliest on 27/11 Goose Island Beer Co. - Goose Island Bourbon County Brand Stout (2026)</beer_description>
+    <beer_style>Stout - Imperial / Double</beer_style>
+    <beer_abv>14.2%</beer_abv>
+    <beer_volume>295 ml</beer_volume>
+    <beer_package>bottle</beer_package>
+    <brewery_country>United States</brewery_country>
+    <untappd_id>7629083</untappd_id>
+  </item>
+  <item>
     <id>6837753</id>
     <ecommerce_id>855723297</ecommerce_id>
     <title>Destructio 0016</title>
@@ -9356,6 +9404,6 @@
     <date_canned>2025-03-03</date_canned>
     <untappd_id>6180169</untappd_id>
   </item>
-  <timestamp>1793812862</timestamp>
-  <gen_date>04/11/2026 18:21:02</gen_date>
+  <timestamp>1793813545</timestamp>
+  <gen_date>04/11/2026 18:32:25</gen_date>
 </feed>
