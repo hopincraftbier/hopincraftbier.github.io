@@ -119,6 +119,22 @@
     <untappd_id>7614626</untappd_id>
   </item>
   <item>
+    <id>4023970</id>
+    <ecommerce_id>873875525</ecommerce_id>
+    <title>Bourbon County Brand Special #4 Stout (2020)</title>
+    <url>https://hopincraftbier.be/products/goose-island-bourbon-county-brand-special-4-stout-2020</url>
+    <brewery_name>Goose Island Beer Co.</brewery_name>
+    <price>20.51</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/873875525/6352995835.png</image>
+    <beer_description>Bourbon County Special #4 Stout is an oatmeal stout variant of our original Bourbon County Stout recipe, also aged in bourbon barrels, that uses crystal oats to add a nutty character and a smooth mouthfeel. After barrel aging, we added Intelligentsia Coffee, both their cold coffee and single origin coffee beans from Ethiopia, called “Metad Buku,” to bring out a pleasant fruity coffee character. Lastly bourbon barrel-aged maple syrup from Bissell Maple Farm in Ohio is added which provides complexity to the nutty oats and coffee to round out the flavors, ultimately reminiscent of your breakfast ‘special’ at the local diner. Goose Island Beer Co. - Bourbon County Brand Special #4 Stout (2020)</beer_description>
+    <beer_style>Stout - Imperial / Double Oatmeal</beer_style>
+    <beer_abv>13.3%</beer_abv>
+    <beer_volume>500 ml</beer_volume>
+    <beer_package>bottle</beer_package>
+    <brewery_country>United States</brewery_country>
+    <untappd_id>4023970</untappd_id>
+  </item>
+  <item>
     <id>9000000055</id>
     <ecommerce_id>871873258</ecommerce_id>
     <title>Engorile - Pair</title>
@@ -427,6 +443,22 @@
     <date_best_before>2027-07-07</date_best_before>
     <date_canned>2026-10-07</date_canned>
     <untappd_id>6920681</untappd_id>
+  </item>
+  <item>
+    <id>3524113</id>
+    <ecommerce_id>865838572</ecommerce_id>
+    <title>Festa Nuda (collab Birrificio Lambrate)</title>
+    <url>https://hopincraftbier.be/products/the-white-hag-irish-festa-nuda</url>
+    <brewery_name>The White Hag Irish Brewing Company</brewery_name>
+    <price>5.97</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/865838572/6317251360.webp</image>
+    <beer_description>This big Irish Coffee Pastry Stout is a collaboration between Birrificio Lambrate from Milan, Italy and The White Hag from Sligo, Ireland. Weighing in at 9%, this dessert beer was aged in Irish whiskey barrels for 4 months, then transferred onto Peruvian Chingama coffee beans roasted locally in Co. Sligo by Carrow Coffee. Tasting Notes: A Barrel aged imperial Irish coffee pastry stout that provides notes of sweet Irish whiskey, vanilla, caramel, as well as brown sugar and ripe plums from the Chingama coffee. Ingredients: Water, barley, lactose, brown sugar, coffee, hops &amp; yeast. The White Hag Irish Brewing Company - Festa Nuda</beer_description>
+    <beer_style>Stout - Imperial / Double Pastry</beer_style>
+    <beer_abv>9%</beer_abv>
+    <beer_volume>330 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Ireland</brewery_country>
+    <untappd_id>3524113</untappd_id>
   </item>
   <item>
     <id>6829678</id>
@@ -9779,6 +9811,6 @@
     <date_canned>2025-03-03</date_canned>
     <untappd_id>6180169</untappd_id>
   </item>
-  <timestamp>1793822212</timestamp>
-  <gen_date>04/11/2026 20:56:52</gen_date>
+  <timestamp>1793822795</timestamp>
+  <gen_date>04/11/2026 21:06:35</gen_date>
 </feed>
