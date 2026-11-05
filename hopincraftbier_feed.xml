@@ -37,22 +37,6 @@
     <untappd_id>6874567</untappd_id>
   </item>
   <item>
-    <id>7647511</id>
-    <ecommerce_id>875526084</ecommerce_id>
-    <title>Quintuple Vanilla Bean Wondernight</title>
-    <url>https://hopincraftbier.be/products/brasseria-della-fonte-quintuple-vanilla-bean-wondernight</url>
-    <brewery_name>Brasseria Della Fonte</brewery_name>
-    <price>26.87</price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/875526084/6377614495.png</image>
-    <beer_description>Quintuple Vanilla Bean Wondernight B.A. Imperial Stout w/ Vanilla · 11.2% A powerful Imperial Stout aged for 21 months in ex-Rye Whiskey barrels and cold-conditioned with five varieties of vanilla: Congo, Madagascar, Uganda, Papua and Zanzibar. The final blend highlights the quality of carefully selected ingredients, with an intense, enveloping and indulgent vanilla aroma. On the palate, it is sweet and full-bodied, with notes of milk chocolate, spirit-soaked wood and subtle spicy nuances from the Rye Whiskey and Zanzibar vanilla. Brasseria Della Fonte - Quintuple Vanilla Bean Wondernight</beer_description>
-    <beer_style>Stout - Imperial / Double</beer_style>
-    <beer_abv>11.2%</beer_abv>
-    <beer_volume>500 ml</beer_volume>
-    <beer_package>bottle</beer_package>
-    <brewery_country>Italy</brewery_country>
-    <untappd_id>7647511</untappd_id>
-  </item>
-  <item>
     <id>6878613</id>
     <ecommerce_id>875530027</ecommerce_id>
     <title>The Past Is Obdurate - Wild Turkey BA</title>
@@ -309,6 +293,70 @@
     <untappd_id>6921036</untappd_id>
   </item>
   <item>
+    <id>7660175</id>
+    <ecommerce_id>870246524</ecommerce_id>
+    <title>Fuzzy Logic</title>
+    <url>https://hopincraftbier.be/products/bracket-fuzzy-logic</url>
+    <brewery_name>Bracket Brewing</brewery_name>
+    <price>9.49</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/870246524/6382835912.png</image>
+    <beer_description>Hopped with Peacharine, Krush and Motueka and sitting at a respectable 6%, Fuzzy Logic punches well above its weight class. Big notes of fuzzy stone fruit, think apricot and peach, followed up with that motueka crushed citrus character you know we love. If you see Mike &amp; Louie drinking something hazy over the next month at the taproom, chances are it’ll be Fuzzy Logic. Bracket Brewing - Fuzzy Logic</beer_description>
+    <beer_style>IPA - New England / Hazy</beer_style>
+    <beer_abv>6%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Australia</brewery_country>
+    <untappd_id>7660175</untappd_id>
+  </item>
+  <item>
+    <id>7660176</id>
+    <ecommerce_id>870246523</ecommerce_id>
+    <title>Extra Specky</title>
+    <url>https://hopincraftbier.be/products/bracket-extra-specky</url>
+    <brewery_name>Bracket Brewing</brewery_name>
+    <price>11.54</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/870246523/6382839054.png</image>
+    <beer_description>What makes this beer so interesting is the heavy dry hopping with Eggers Hops Riwaka and Special X. Yes you heard us right, Special X. Eggers, in general, grow some of the highest quality hops coming out of NZ, but where Kem and his team excel is their knowledge of Riwaka, a notoriously difficult to grow and low yielding hop with some of the punchiest aromatics out there. In Extra Specky we’ve combined one of Eggers Riwaka lots with one of their experimental Riwaka strains Special X, this particular lot being code named ‘Yellow’. The results speak for themselves, Extra Specky oozes complex citrus, hints of pine and tropical fruit and an unmistakable diesel stank (in a good way, you’ll see). Bracket Brewing - Extra Specky</beer_description>
+    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
+    <beer_abv>8.6%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Australia</brewery_country>
+    <untappd_id>7660176</untappd_id>
+  </item>
+  <item>
+    <id>7660171</id>
+    <ecommerce_id>870246522</ecommerce_id>
+    <title>Conjunction</title>
+    <url>https://hopincraftbier.be/products/bracket-conjunction</url>
+    <brewery_name>Bracket Brewing</brewery_name>
+    <price>11.75</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/870246522/6382835906.png</image>
+    <beer_description>Conjunction features a very special lot of Nelson Sauvin from Eggers Hops (NZ). This spectacular lot was harvested on the New Moon and brings some seriously Nelson character to the beer. Eggers took special care to process it within 24hrs of harvest to capture its unique and high-intensity profile. Paired with Southern Cross and Mosaic, Conjunction is still all about the Nelson, with big notes of pineapple &amp; passionfruit and the distinctive gooseberry and white grape character, what we’re affectionately calling ‘Nelson funk’. There’s also this super interesting dried mango/ripe tropical fruit thing going on which we can’t quite place. From its namesake, this TIPA is a conjunction of a number things for us, the release of @eggershops New Moon Nelson, our first appearance at the Billie’s Craft Beer Fest and a base TIPA that was absolutely screaming for Nelson - and you know Mike changed the plan at the last minute to make it happen ? Bracket Brewing - Conjunction</beer_description>
+    <beer_style>IPA - Triple New England / Hazy</beer_style>
+    <beer_abv>10.7%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Australia</brewery_country>
+    <untappd_id>7660171</untappd_id>
+  </item>
+  <item>
+    <id>7660172</id>
+    <ecommerce_id>870246521</ecommerce_id>
+    <title>Critical Stop Error</title>
+    <url>https://hopincraftbier.be/products/bracket-critical-stop-error</url>
+    <brewery_name>Bracket Brewing</brewery_name>
+    <price>10.92</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/870246521/6382835900.png</image>
+    <beer_description>In the past few years we’ve shied away from some of the Aussie grown hops, but after our fresh hop Vic Secret DIPA earlier this year we couldn't get enough of it. Our newest DIPA, Critical Stop Error, showcases our 3 standout hops of 2026, Vic Secret from Aus, Peacharine from NZ and Krush from the US. We’ve also used one of our new favourite yeast strains from Mogwai Culture, Golden State which melds perfectly with these punchy hops giving big notes of mandarin, juicy orange, peach and papaya. It’ll be hard for this one to not make it into our favourite beers of 2026 considering what's gone into it, but we’ll let you be the judge. Bracket Brewing - Critical Stop Error</beer_description>
+    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
+    <beer_abv>8.4%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Australia</brewery_country>
+    <untappd_id>7660172</untappd_id>
+  </item>
+  <item>
     <id>4730984</id>
     <ecommerce_id>869763526</ecommerce_id>
     <title>Small Batch No. 2: Two-Year Wheatwine</title>
@@ -466,7 +514,8 @@
     <title>Corey (collab 3 Sons)</title>
     <url>https://hopincraftbier.be/products/omnipollo-corey</url>
     <brewery_name>Omnipollo</brewery_name>
-    <price>15.98</price>
+    <price>13.58</price>
+    <regular_price>15.98</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/865679511/6260624851.png</image>
     <beer_description>Chocolate, Marshmallow &amp; vanilla Omnipollo - Corey</beer_description>
     <beer_style>Stout - Imperial / Double</beer_style>
@@ -483,7 +532,8 @@
     <title>Carême 2026 (collab Bottle Logic&amp; Moksa&amp; Dugges)</title>
     <url>https://hopincraftbier.be/products/omnipollo-careme-2026</url>
     <brewery_name>Omnipollo</brewery_name>
-    <price>15.98</price>
+    <price>13.58</price>
+    <regular_price>15.98</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/865622478/6260617227.png</image>
     <beer_description>Omnipollo × Moksa × Bottle Logic Carême Bourbon Barrel Aged Imperial Toasted Coconut Vanilla Bean Stout 14 % Omnipollo - Carême 2026</beer_description>
     <beer_style>Stout - Imperial / Double Pastry</beer_style>
@@ -1429,7 +1479,7 @@
     <title>Done With Everything (collab Klere Boght)</title>
     <url>https://hopincraftbier.be/products/bereta-done-with-everything</url>
     <brewery_name>Bereta Brewing Co.</brewery_name>
-    <price>16.2</price>
+    <price>13.77</price>
     <regular_price>16.20</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/857213502/6128868073.png</image>
     <beer_description>Bourbon Barrel Aged Imperial Stout with Hazelnuts. Collaboration with Klere Boght. Bereta Brewing Co. - Done With Everything</beer_description>
@@ -1447,7 +1497,7 @@
     <title>Chasm</title>
     <url>https://hopincraftbier.be/products/bereta-chasm</url>
     <brewery_name>Bereta Brewing Co.</brewery_name>
-    <price>16.2</price>
+    <price>13.77</price>
     <regular_price>16.20</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/857217253/6128868103.png</image>
     <beer_description>Bourbon Barrel Aged Imperial Stout. Bereta Brewing Co. - Chasm</beer_description>
@@ -1836,7 +1886,8 @@
     <title>Tenth Birthday Series Rum &amp; Bourbon Barrel Aged Imperial Stout</title>
     <url>https://hopincraftbier.be/products/brew-york-tenth-birthday-series-rum--bourbon-barrel-aged-imperial-stout</url>
     <brewery_name>Brew York</brewery_name>
-    <price>17.03</price>
+    <price>14.48</price>
+    <regular_price>17.03</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/855497116/6087437086.png</image>
     <beer_description>10th Birthday BA Imperial Stout is an impressive anniversary edition in honor of the tenth anniversary of the English Brew York. With a powerful alcohol percentage of 12.6%, this limited Imperial Stout has matured in a combination of rum and bourbon casks. Deep and velvety, the beer brings together layers of dark chocolate and roasted espresso with the syrupy molasses sweetness of rum casks and warm vanilla, oak, and caramel from bourbon casks. Brew York - Tenth Birthday Series Rum &amp; Bourbon Barrel Aged Imperial Stout</beer_description>
     <beer_style>Stout - Imperial / Double</beer_style>
@@ -1962,7 +2013,8 @@
     <title>Life Is the Study of Dying - Scotch BA</title>
     <url>https://hopincraftbier.be/products/blackout-life-is-the-study-of-dying-scotch-ba</url>
     <brewery_name>Blackout Brewing</brewery_name>
-    <price>9.97</price>
+    <price>8.47</price>
+    <regular_price>9.97</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/854141015/6051722839.png</image>
     <beer_description>Barrels: 2 x 1st fill bourbon Scotch Whisky Extra: natural blood orange extract 752 bottles in existence Blackout Brewing - Life Is the Study of Dying - Scotch BA</beer_description>
     <beer_style>Stout - Imperial / Double</beer_style>
@@ -2083,23 +2135,6 @@
     <date_best_before>2027-04-24</date_best_before>
     <date_canned>2026-07-24</date_canned>
     <untappd_id>6802791</untappd_id>
-  </item>
-  <item>
-    <id>6797144</id>
-    <ecommerce_id>853645075</ecommerce_id>
-    <title>Year 7 - TDF Caterpillar Cake</title>
-    <url>https://hopincraftbier.be/products/vault-city-year-7-tdf-caterpillar-cake</url>
-    <brewery_name>Vault City Brewing</brewery_name>
-    <price>8.85</price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/853645075/6037410918.png</image>
-    <beer_description>Back once again (and free of 2024’s legal troubles), our chocolate caterpillar cake imperial stout has been battered and triple deep fried specially for our 8th birthday. Expect layers of rich decadence from chocolate malt, drenched in cholaca and cocoa powder. Sweet, intense, and unapologetically excessive, it begs the question: is anything safe from Scottish chippies… or breweries? Allergens: Malted Barley (Gluten),Lactose (Milk), Oats (Gluten) Vault City Brewing - Year 7 - TDF Caterpillar Cake</beer_description>
-    <beer_style>Stout - Imperial / Double Pastry</beer_style>
-    <beer_abv>15%</beer_abv>
-    <beer_volume>330 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Scotland</brewery_country>
-    <date_best_before>2028-07-20</date_best_before>
-    <untappd_id>6797144</untappd_id>
   </item>
   <item>
     <id>6798399</id>
@@ -3231,7 +3266,8 @@
     <title>DBA Mega</title>
     <url>https://hopincraftbier.be/products/dugges-dba-mega</url>
     <brewery_name>Dugges Bryggeri</brewery_name>
-    <price>9.11</price>
+    <price>7.74</price>
+    <regular_price>9.11</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/843047136/5832612000.png</image>
     <beer_description>DBA Mega Double Kentucky Bourbon Barrel-Aged Imperial Stout This is DBA Mega. A double Kentucky bourbon barrel-aged imperial stout. Just as you'd expect. Boom! The bottled version of the gravity-poured, barrel-served, extremely limited, festival and style winner Dugges Future Double Barrel-Aged Mega (Gravity Pour)? Yes, but that's it! Our imperial stout Mega, aged in two different types of Kentucky Bourbon barrels for extra, more, most! Because 'more is more'. In the early days of Dugges, sometime around 2005 or 2006, we brewed a 16% imperial stout that never saw the light of day. It just didn't taste right. But, when we scaled down the recipe, it suddenly tasted really good! What tasted really good became Idjit. One of our most iconic beers. Fast forward to 2021, when we wanted to reconnect with that ambition, not just to brew something big, bigger or biggest, but to brew something mega! Extra everything, even more on top and a generous pinch of everything you could ever want. And then some. Since then, we have made countless versions of Mega. But, never actually any pure barrel-aged. This is how it is. Double-barrel-aged too. Because, it wouldn't be Mega if you didn't max it out. So to speak. Explosion! Dugges Bryggeri - DBA Mega</beer_description>
     <beer_style>Stout - Imperial / Double</beer_style>
@@ -3248,7 +3284,8 @@
     <title>Five By Rackhouse</title>
     <url>https://hopincraftbier.be/products/lervig-five-by-rackhouse</url>
     <brewery_name>LERVIG</brewery_name>
-    <price>20.63</price>
+    <price>17.54</price>
+    <regular_price>20.63</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/841970327/5822229821.png</image>
     <beer_description>To celebrate five years of Rackhouse, we revisited the idea behind 3 Bean and pushed it deeper with more complexity. Five builds on that familiar foundation of cacao, tonka, and vanilla, with coffee and carob added to mark the occasion. Extended time in oak brings everything together. Layers of dark chocolate, espresso, and subtle spice are rounded by barrel character. It’s big, decadent, and made to be savoured. LERVIG - Five By Rackhouse</beer_description>
     <beer_style>Stout - Imperial / Double Pastry</beer_style>
@@ -3397,7 +3434,8 @@
     <title>Kalefater 108 - Tennessee Whiskey Barrel Aged Imperial Stout</title>
     <url>https://hopincraftbier.be/products/bierbrouwerij-de-magistraat-kalefater-108-tennessee-whiskey-barrel-aged-imperial-stout</url>
     <brewery_name>Bierbrouwerij De Magistraat</brewery_name>
-    <price>8.38</price>
+    <price>7.12</price>
+    <regular_price>8.38</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/841645948/5819631387.png</image>
     <beer_description>For this beer, we aged our Pikjongen in Tennessee Whiskey barrels. The aromas of the barrel come through beautifully in the beer. Soft notes of coffee, wood, and dark chocolate complete the picture. A beer to enjoy quietly! Bierbrouwerij De Magistraat - Kalefater 108 - Tennessee Whiskey Barrel Aged Imperial Stout</beer_description>
     <beer_style>Stout - Imperial / Double</beer_style>
@@ -3464,7 +3502,8 @@
     <title>Barrel-Aged Speedway Stout: Coconut Vanilla Edition (2023)</title>
     <url>https://hopincraftbier.be/products/alesmith-barrel-aged-speedway-stout-coconut-vanilla-edition-2023</url>
     <brewery_name>AleSmith Brewing Company</brewery_name>
-    <price>16.36</price>
+    <price>13.91</price>
+    <regular_price>16.36</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/841341702/5878282615.png</image>
     <beer_description>We’ve matured our imperial stout in premium bourbon barrels for an extended period of time and added coffee, toasted coconut, and a blend of Madagascar and Tahitian vanilla to create the perfect blend of flavors. Cheers! AleSmith Brewing Company - Barrel-Aged Speedway Stout: Coconut Vanilla Edition (2023)</beer_description>
     <beer_style>Stout - Imperial / Double Coffee</beer_style>
@@ -3745,7 +3784,8 @@
     <title>Dragon’s Milk Reserve: S’mores (2026)</title>
     <url>https://hopincraftbier.be/products/new-holland-dragons-milk-reserve-smores-2026</url>
     <brewery_name>New Holland Brewing</brewery_name>
-    <price>9.98</price>
+    <price>8.48</price>
+    <regular_price>9.98</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/839695348/5802980022.png</image>
     <beer_description>Bourbon Barrel-Aged Stout with Graham Cracker, Chocolate, and Marshmallow New Holland Brewing - Dragons Milk Reserve: Smores (2026)</beer_description>
     <beer_style>Stout - Imperial / Double</beer_style>
@@ -3761,7 +3801,8 @@
     <title>Dragon's Milk: Triple Mash (2026)</title>
     <url>https://hopincraftbier.be/products/new-holland-dragons-milk-triple-mash-2026</url>
     <brewery_name>New Holland Brewing</brewery_name>
-    <price>12.65</price>
+    <price>10.75</price>
+    <regular_price>12.65</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/839696073/5802980028.png</image>
     <beer_description>Dragon's Milk Triple Mash is the ultimate indulgence, the result of years of honing technique and pushing the limits of what a stout can be. Three separate mashes and a year-long stay in Kentucky bourbon barrels amplify the flavor notes of Dragon's Milk - chocolate, roasted malt, vanilla, and oak - in a way that still allows for balance and refinement to shine through. New Holland Brewing - Dragon's Milk: Triple Mash (2026)</beer_description>
     <beer_style>Stout - Imperial / Double</beer_style>
@@ -4263,24 +4304,6 @@
     <untappd_id>6318991</untappd_id>
   </item>
   <item>
-    <id>6672041</id>
-    <ecommerce_id>837354899</ecommerce_id>
-    <title>Port Wine X Brandy Barrel Aged Imperial Stout</title>
-    <url>https://hopincraftbier.be/products/arpus-port-wine-x-brandy-barrel-aged-imperial-stout</url>
-    <brewery_name>Ārpus Brewing Co.</brewery_name>
-    <price>8.44</price>
-    <regular_price>9,93</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/837354899/5782849358.png</image>
-    <beer_description>A deep and luxurious Imperial Stout aged in a blend of Port wine and brandy barrels — all sourced from Portugal. Layers of dark chocolate, dried fruits, and rich malt meet notes of oak, warming spirit character, and subtle sweetness from the barrels. Complex, smooth, and built for slow enjoyment. Arpus Brewing Co. - Port Wine X Brandy Barrel Aged Imperial Stout</beer_description>
-    <beer_style>Stout - Imperial / Double</beer_style>
-    <beer_abv>13%</beer_abv>
-    <beer_volume>440 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Latvia</brewery_country>
-    <date_best_before>2027-04-30</date_best_before>
-    <untappd_id>6672041</untappd_id>
-  </item>
-  <item>
     <id>6698817</id>
     <ecommerce_id>837240403</ecommerce_id>
     <title>Ummagumma</title>
@@ -4593,7 +4616,8 @@
     <title>Prince of Barkness (2025)</title>
     <url>https://hopincraftbier.be/products/transient-artisan-ales-prince-of-barkness-2025</url>
     <brewery_name>Transient Artisan Ales</brewery_name>
-    <price>35.52</price>
+    <price>30.19</price>
+    <regular_price>35.52</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/835653544/6329577806.png</image>
     <beer_description>Transient Artisan Ales - Prince of Barkness (2025)</beer_description>
     <beer_style>Stout - Imperial / Double</beer_style>
@@ -4626,7 +4650,8 @@
     <title>Dark Veil Imperial Stout With Maple &amp; Espresso</title>
     <url>https://hopincraftbier.be/products/fine-balance-dark-veil-imperial-stout-with-maple--espresso</url>
     <brewery_name>Fine Balance Brewing</brewery_name>
-    <price>10.33</price>
+    <price>8.78</price>
+    <regular_price>10.33</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/834996771/5759637599.png</image>
     <beer_description>For this second iteration of our imperial stout with maple and espresso, we upped our dosage of Shady Lane ground espresso beans from Quietly Coffee. Expect a rich, complex beer with big coffee notes and slightly sweet smooth finish.</beer_description>
     <beer_style>Stout - Imperial / Double Coffee</beer_style>
@@ -4643,7 +4668,8 @@
     <title>Monument #5</title>
     <url>https://hopincraftbier.be/products/brasserie-du-bas-canada-monument-5</url>
     <brewery_name>Brasserie du Bas-Canada</brewery_name>
-    <price>32.15</price>
+    <price>27.33</price>
+    <regular_price>32.15</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/834655785/6329578082.png</image>
     <beer_description>A blend of Imperial Stout aged for an average of 30 months in Stagg Jr. &amp; Willett bourbon barrels</beer_description>
     <beer_style>Stout - Imperial / Double</beer_style>
@@ -4694,7 +4720,8 @@
     <title>Barrel Aged Bestowed - Blue Moon</title>
     <url>https://hopincraftbier.be/products/third-moon-barrel-aged-blue-moon-bestowed</url>
     <brewery_name>Third Moon Brewing Company</brewery_name>
-    <price>32.15</price>
+    <price>27.33</price>
+    <regular_price>32.15</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/834649595/5790213769.png</image>
     <beer_description>Barrel Aged Blue Moon Bestowed is an Imperial Stout aged for 18 months in a single Willett bourbon barrel. This barrel was an absolute standout during a recent barrel tasting so we wanted to release it on its own without any adjuncts. Our brewery name, Third Moon, refers to a blue moon so this is a special one for us. We are releasing it in celebration of the blue moon happening this Sunday! It's bold yet elegant at the same time revealing luscious barrel notes of vanilla, chocolate, burnt brown sugar, leather and oak. Third Moon - Barrel Aged Bestowed - Blue Moon</beer_description>
     <beer_style>Stout - Imperial / Double</beer_style>
@@ -5005,7 +5032,8 @@
     <title>The Amazing Cosmos (German Chocolate Cake)</title>
     <url>https://hopincraftbier.be/products/dude-the-amazing-cosmos-german-chocolate-cake</url>
     <brewery_name>Dude Brewing</brewery_name>
-    <price>14.27</price>
+    <price>12.13</price>
+    <regular_price>14.27</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/832869067/5740812913.png</image>
     <beer_description>At The Amazing Cosmos, the focus is on the cocoa. We roasted it with the utmost care to perfectly complement this beer. And we learned the hard way that this makes all the difference. We arrived at a roasting profile that strongly resembles almonds, nuts, coconut candy, and milk chocolate! But you know when we talk about experimentation? This is the best example, because through it we were able to intensely enhance the addition of COCONUT. So, dudes, it's German Chocolate Cake! Another liquid dessert, our way: lactose-free and maltodextrin-free, but with the drinkability to easily down the can. Dude - The Amazing Cosmos (German Chocolate Cake)</beer_description>
     <beer_style>Stout - Imperial / Double Pastry</beer_style>
@@ -5074,7 +5102,8 @@
     <title>BA Put A Bird On It (2026)</title>
     <url>https://hopincraftbier.be/products/barreled-souls-ba-put-a-bird-on-it-2026</url>
     <brewery_name>Barreled Souls Brewing Company</brewery_name>
-    <price>32.84</price>
+    <price>27.91</price>
+    <regular_price>32.84</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/832869065/5742295898.png</image>
     <beer_description>Aged for 18 months and 19 days in Willett Family Estate Rye barrels, this stout is just a spot-on classic. The delicious roasty, malty stout character picks up some nice oak notes and a hint of that rye spice. Barreled Souls - BA Put A Bird On It (2026)</beer_description>
     <beer_style>Stout - Imperial / Double</beer_style>
@@ -5128,7 +5157,8 @@
     <title>Drunked Donuts</title>
     <url>https://hopincraftbier.be/products/engorile-drunked-donuts</url>
     <brewery_name>Engorile</brewery_name>
-    <price>7.33</price>
+    <price>6.23</price>
+    <regular_price>7.33</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/832456659/5735430151.png</image>
     <beer_description>A dense, full-bodied, creamy, and elegant Imperial Stout. Despite its high alcohol content, it's well-integrated thanks to its body and the pastry notes imparted by the addition of donuts during brewing. A smooth, rich beer with chocolatey, nutty, and peanut notes. All this is combined with a dark, dense, opaque appearance and a well-formed brown head. Engorile - Drunked Donuts</beer_description>
     <beer_style>Stout - Imperial / Double Pastry</beer_style>
@@ -5246,7 +5276,8 @@
     <title>À Fleur De Nuit</title>
     <url>https://hopincraftbier.be/products/emporium-a-fleur-de-nuit</url>
     <brewery_name>Emporium Microbrasserie</brewery_name>
-    <price>10.59</price>
+    <price>9</price>
+    <regular_price>10.59</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/830574380/5717560946.png</image>
     <beer_description>Anniversary release. Inspired by the classic Deadly Sin. Hot brewed with a generous amount of coffee, then recirculated over an obscene amount of Colombian Café des Femmes. More digestible and streamlined than the other BAs in the release Emporium - A Fleur De Nuit - anniversary release</beer_description>
     <beer_style>Stout - Imperial / Double Coffee</beer_style>
@@ -5263,7 +5294,8 @@
     <title>Macaroon Macaroon (collab The Veil)</title>
     <url>https://hopincraftbier.be/products/trillium-macaroon-macaroon</url>
     <brewery_name>Trillium Brewing Company</brewery_name>
-    <price>26.82</price>
+    <price>22.8</price>
+    <regular_price>26.82</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/830575783/5717451031.png</image>
     <beer_description>Imperial Stout with Coconut &amp; Vanilla Trillium - Macaroon Macaroon</beer_description>
     <beer_style>Stout - Imperial / Double Pastry</beer_style>
@@ -5417,7 +5449,8 @@
     <title>TORTA</title>
     <url>https://hopincraftbier.be/products/tuletorn-torta</url>
     <brewery_name>Tuletorn Brewing</brewery_name>
-    <price>7.74</price>
+    <price>6.58</price>
+    <regular_price>7.74</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/829909418/5712077424.png</image>
     <beer_description>A chocolate-almond stout, inspired by the famous Italian Torta Caprese rich flourless cake. Tuletorn - TORTA</beer_description>
     <beer_style>Stout - Other</beer_style>
@@ -5451,7 +5484,8 @@
     <title>Give the People What They Really Want</title>
     <url>https://hopincraftbier.be/products/tuletorn-give-the-people-what-they-really-want</url>
     <brewery_name>Tuletorn Brewing</brewery_name>
-    <price>7.96</price>
+    <price>6.77</price>
+    <regular_price>7.96</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/829911373/5712077394.png</image>
     <beer_description>We love making stouts and we love making smoothies, come on, it was only a matter of time. Brewed to celebrate our second birthday. Tuletorn - Give the People What They Really Want</beer_description>
     <beer_style>Stout - Imperial / Double Pastry</beer_style>
@@ -5555,7 +5589,8 @@
     <title>Fadewalker</title>
     <url>https://hopincraftbier.be/products/blech-brut-fadewalker</url>
     <brewery_name>Blech.Brut</brewery_name>
-    <price>14.87</price>
+    <price>12.64</price>
+    <regular_price>14.87</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/828437394/5697693706.png</image>
     <beer_description>Bourbon Barrel Aged Imperial Stout with Vanilla Fadewalker is a masterful Barrel Aged Imperial Stout from the German precision brewers at BLECH.BRUT. Known for their tight and technical approach to beer, this time they took the time to age a heavy and complex brew in selected Bourbon barrels. During this process, vanilla was used liberally, creating a silky texture that beautifully softens the robust base of roasted malts. Fadewalker is designed as a "slow sipper," a beer that evolves slowly as it warms up in the glass. Blech.Brut - Fadewalker</beer_description>
     <beer_style>Stout - Imperial / Double</beer_style>
@@ -5572,7 +5607,8 @@
     <title>Bless This Mess Vol. 2</title>
     <url>https://hopincraftbier.be/products/blackout-bless-this-mess-vol-2</url>
     <brewery_name>Blackout Brewing</brewery_name>
-    <price>11.53</price>
+    <price>9.8</price>
+    <regular_price>11.53</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/828437254/5703873372.png</image>
     <beer_description>The 2nd volume of our barrel aged cream stout series Barrel - Still Austin Bourbon Adjuncts - condensed milk, coconut cream, coffee (roasted by @yumeroasters ) and dulce de leche ‼️Shake before pouring. Blackout - Bless This Mess Vol. 2</beer_description>
     <beer_style>Stout - Imperial / Double Milk</beer_style>
@@ -5589,7 +5625,8 @@
     <title>Bless This Mess Vol 1</title>
     <url>https://hopincraftbier.be/products/blackout-bless-this-mess-vol-1</url>
     <brewery_name>Blackout Brewing</brewery_name>
-    <price>11.53</price>
+    <price>9.8</price>
+    <regular_price>11.53</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/828437253/5703879545.png</image>
     <beer_description>The first volume of our barrel aged cream stout series: Barrel - Chattanooga Tennessee Bourbon Adjuncts - salted caramel ice cream soft serve, coconut cream, condensed milk Shake before pouring. Blackout - Bless This Mess Vol 1</beer_description>
     <beer_style>Stout - Imperial / Double Pastry</beer_style>
@@ -5623,7 +5660,8 @@
     <title>VII-CAKE</title>
     <url>https://hopincraftbier.be/products/blackout-vii-cake</url>
     <brewery_name>Blackout Brewing</brewery_name>
-    <price>11.32</price>
+    <price>9.62</price>
+    <regular_price>11.32</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/828366119/5703873406.png</image>
     <beer_description>7th Anniversary imperial stout. Barrels: 2 Alberta Rhum 1 Martinique Rhum Adjuncts: roasted Solomon Island cocoa nibs, roasted Iranian pistachios, pistachio extract 1050 bottles in existence. Blackout - VII-CAKE</beer_description>
     <beer_style>Stout - Imperial / Double Pastry</beer_style>
@@ -5657,7 +5695,8 @@
     <title>VII-BLEND</title>
     <url>https://hopincraftbier.be/products/blackout-vii-blend</url>
     <brewery_name>Blackout Brewing</brewery_name>
-    <price>10.72</price>
+    <price>9.11</price>
+    <regular_price>10.72</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/828426294/5703871493.png</image>
     <beer_description>7th anniversary blend. Barrels: 1 Kilchoman (slightly peated) 1 MGP bourbon. No adjuncts. 1006 bottles in existence. Blackout - VII-BLEND</beer_description>
     <beer_style>Stout - Imperial / Double</beer_style>
@@ -5674,7 +5713,8 @@
     <title>VII-ANTICAKE</title>
     <url>https://hopincraftbier.be/products/blackout-vii-anticake</url>
     <brewery_name>Blackout Brewing</brewery_name>
-    <price>11.32</price>
+    <price>9.62</price>
+    <regular_price>11.32</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/828366118/5703885005.png</image>
     <beer_description>Barrels: 1 x Laird’s Apple Brandy 1 x Still Austin Bourbon Adjuncts: • Coffee - Njemu Estate Kenya beans, custom roasted by Yume for this beer • Madagascar vanilla beans • Toasted and untoasted coconut flakes 912 bottles in existence Blackout - VII-ANTICAKE</beer_description>
     <beer_style>Stout - Imperial / Double Coffee</beer_style>
@@ -5691,7 +5731,8 @@
     <title>Junk Deluxe - Rye Whiskey BA (collab Hophead)</title>
     <url>https://hopincraftbier.be/products/blackout-junk-deluxe-rye-whiskey-ba</url>
     <brewery_name>Blackout Brewing</brewery_name>
-    <price>11.13</price>
+    <price>9.46</price>
+    <regular_price>11.13</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/828316224/5703885146.png</image>
     <beer_description>Maple, chocolate, hazelnut. Batch 1: brewed at Hophead. Batch 2: brewed at our facility. Blackout - Junk Deluxe - Rye Whiskey BA</beer_description>
     <beer_style>Stout - Imperial / Double Pastry</beer_style>
@@ -5708,7 +5749,8 @@
     <title>Deadly Splendor - Bourbon BA (collab BERE A La CLUJ)</title>
     <url>https://hopincraftbier.be/products/blackout-deadly-splendor-bourbon-ba</url>
     <brewery_name>Blackout Brewing</brewery_name>
-    <price>11.13</price>
+    <price>9.46</price>
+    <regular_price>11.13</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/828426292/5703887614.png</image>
     <beer_description>Batch 2 in cans: Aged in a Tennessee bourbon barrel. Brewed at facility of Blackout. Blackout - Deadly Splendor - Bourbon BA</beer_description>
     <beer_style>Stout - Imperial / Double Pastry</beer_style>
@@ -5930,7 +5972,8 @@
     <title>Double Goshawk (collab Horus Aged Ales)</title>
     <url>https://hopincraftbier.be/products/trillium-double-goshawk</url>
     <brewery_name>Trillium Brewing Company</brewery_name>
-    <price>27.49</price>
+    <price>23.37</price>
+    <regular_price>27.49</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/827776235/5693119563.png</image>
     <beer_description>Inspired by the Northern Goshawk Imperial Stout they released together in the winter of 2020, this version takes everything up a notch, featuring ridiculous additions of chopped hazelnuts, Trillium Blend Barrington Coffee, and Madagascar vanilla, resulting in an intensely rich stout built for holiday celebration. Pouring a deep brown with a caramel-tinged head, Double Goshawk immediately offers a profoundly nutty aroma. Notes of dark chocolate, freshly roasted coffee, molasses, and brown sugar fill the senses. A full, creamy body with medium sweetness is balanced by a subtle roast and a touch of warming alcohol, making each sip supremely satisfying and complex. Trillium - Double Goshawk</beer_description>
     <beer_style>Stout - Imperial / Double Pastry</beer_style>
@@ -6047,7 +6090,8 @@
     <title>Whams Above Whams Below (collab Prison City)</title>
     <url>https://hopincraftbier.be/products/mortalis-whams-above-whams-below-827778286</url>
     <brewery_name>Mortalis Brewing Company</brewery_name>
-    <price>13.35</price>
+    <price>11.35</price>
+    <regular_price>13.35</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/827778286/5693276097.png</image>
     <beer_description>This Imperial Coffee Stout is brewed in collaboration with Prison City Pub and Brewery. We have blended our base As Above recipe with Prison City's Wham Whams recipe and conditioned the beer on a fan favorite coffee, toasted coconut, and Tahitian vanilla. A smooth body is met with a barrage of coffee, coconut, rum, pecans, creamy vanilla, and dark chocolate. Mortalis - Whams Above Whams Below</beer_description>
     <beer_style>Stout - Imperial / Double Coffee</beer_style>
@@ -6164,7 +6208,8 @@
     <title>Rubicon</title>
     <url>https://hopincraftbier.be/products/prizm-rubicon</url>
     <brewery_name>Prizm Brewing Co.</brewery_name>
-    <price>7.74</price>
+    <price>6.58</price>
+    <regular_price>7.74</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/826591951/5683869983.png</image>
     <beer_description>RUBICON Imperial stout – 12 % Yops : Cacahuète / Noisette / Cacao RUBICON is a massive, velvety stout that hits hard from the first sip. Waves of roasted peanut, toasted hazelnut, and deep cocoa roll across the palate. Dark, rich, and dangerously smooth. 12% of pure liquid darkness. Prizm - Rubicon</beer_description>
     <beer_style>Stout - Imperial / Double</beer_style>
@@ -6233,7 +6278,8 @@
     <title>Où Chante Une Rivière</title>
     <url>https://hopincraftbier.be/products/fauve-ou-chante-une-riviere</url>
     <brewery_name>Fauve</brewery_name>
-    <price>8.12</price>
+    <price>6.9</price>
+    <regular_price>8.12</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/826600189/5683888357.png</image>
     <beer_description>This beer is a blend of an Imperial Stout aged for 30 months in French whisky barrels with a younger Imperial Pastry Stout aged in bourbon barrels. After blending, a comforting and indulgent twist was added with a cocoa and tonka bean finish! Fauve - Ou Chante Une Riviere</beer_description>
     <beer_style>Stout - Imperial / Double Pastry</beer_style>
@@ -6286,7 +6332,7 @@
     <title>Double Black Mash (2026) Original</title>
     <url>https://hopincraftbier.be/products/amager-bryghus-double-black-mash-2026-original</url>
     <brewery_name>Amager Bryghus</brewery_name>
-    <price>10.97</price>
+    <price>9.32</price>
     <regular_price>10.57</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/826383595/5681595288.png</image>
     <beer_description>Brewed with the motto: "Only malt, no bullshit". All Grain Double Mash Imperial Stout Amager Bryghus - Double Black Mash (2026) Original</beer_description>
@@ -6304,7 +6350,7 @@
     <title>Double Black Mash (2026) Maple Syrup Barrel Aged Edition</title>
     <url>https://hopincraftbier.be/products/amager-bryghus-double-black-mash-2026-maple-syrup-barrel-aged-edition</url>
     <brewery_name>Amager Bryghus</brewery_name>
-    <price>14.15</price>
+    <price>12.03</price>
     <regular_price>13.96</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/826381605/5681577238.png</image>
     <beer_description>Aged for 10 months in ex-bourbon oak barrels that previously contained maple syrup. Amager Bryghus - Double Black Mash (2026) Maple Syrup Barrel Aged Edition</beer_description>
@@ -6332,42 +6378,6 @@
     <brewery_country>Latvia</brewery_country>
     <date_best_before>2027-03-31</date_best_before>
     <untappd_id>6639657</untappd_id>
-  </item>
-  <item>
-    <id>6603173</id>
-    <ecommerce_id>825654271</ecommerce_id>
-    <title>Portuguese Brandy Barrel Aged Imperial Stout</title>
-    <url>https://hopincraftbier.be/products/arpus-portuguese-brandy-barrel-aged-imperial-stout</url>
-    <brewery_name>Ārpus Brewing Co.</brewery_name>
-    <price>8.47</price>
-    <regular_price>9,97</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/825654271/5675310505.png</image>
-    <beer_description>This Imperial Stout was aged for 12 months in Portuguese brandy barrels from Lourinhã. Lourinhã Brandy is a DOC-protected spirit, much like Cognac or Armagnac — but uniquely Portuguese. The result is a rich and complex stout with deep roasted malt character, layered with elegant brandy warmth, subtle oak, dried fruit notes, and a smooth, lingering finish. A beer made for slow sipping and special moments. Arpus - Portuguese Brandy Barrel Aged Imperial Stout</beer_description>
-    <beer_style>Stout - Imperial / Double</beer_style>
-    <beer_abv>12%</beer_abv>
-    <beer_volume>440 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Latvia</brewery_country>
-    <date_best_before>2027-02-28</date_best_before>
-    <untappd_id>6603173</untappd_id>
-  </item>
-  <item>
-    <id>6639661</id>
-    <ecommerce_id>825605984</ecommerce_id>
-    <title>Apple X Banana X Mango X Vanilla Smoothie Sour Ale</title>
-    <url>https://hopincraftbier.be/products/arpus-apple-x-banana-x-mango-x-vanilla-smoothie-sour-ale</url>
-    <brewery_name>Ārpus Brewing Co.</brewery_name>
-    <price>7.5</price>
-    <regular_price>7.50</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/825605984/5675312771.png</image>
-    <beer_description>A smooth and creamy blend where crisp apple meets ripe banana and tropical mango, rounded out with soft vanilla sweetness. Arpus - Apple X Banana X Mango X Vanilla Smoothie Sour Ale</beer_description>
-    <beer_style>Sour - Smoothie / Pastry</beer_style>
-    <beer_abv>4.5%</beer_abv>
-    <beer_volume>440 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Latvia</brewery_country>
-    <date_best_before>2027-03-31</date_best_before>
-    <untappd_id>6639661</untappd_id>
   </item>
   <item>
     <id>6611811</id>
@@ -6426,7 +6436,8 @@
     <title>DARK MATTER</title>
     <url>https://hopincraftbier.be/products/anagram-dark-matter</url>
     <brewery_name>Anagram Brewery</brewery_name>
-    <price>7.27</price>
+    <price>6.18</price>
+    <regular_price>7.27</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/824777200/5668060412.png</image>
     <beer_description>It is a massive, heavy, and unprecedentedly dark brew. By aging the beer in oak, the already robust base of roasted malts gains an extra, luxurious dimension. The wood imparts complex tannins and soft vanilla notes that blend perfectly with the warmth of the alcohol. This is a magnificent cellaring beer to sip in peace. Anagram - DARK MATTER</beer_description>
     <beer_style>Stout - Imperial / Double</beer_style>
@@ -6443,7 +6454,8 @@
     <title>Caramel Eggs</title>
     <url>https://hopincraftbier.be/products/vault-city-caramel-eggs</url>
     <brewery_name>Vault City Brewing</brewery_name>
-    <price>8.94</price>
+    <price>7.6</price>
+    <regular_price>8.94</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/824778133/5667817666.webp</image>
     <beer_description>Our latest imperial stout was inspired by the sweet taste of a certain chocolate caramel egg... With each sip there’s a velvety texture among layers of intense chocolate and smooth caramel. Through an extended boil we’ve dialled those Maillard reactions into overdrive, encapsulating the unique gooey goodness and caramelised sweetness in a decadent dessert stout. Vault City - Caramel Eggs</beer_description>
     <beer_style>Stout - Imperial / Double Pastry</beer_style>
@@ -6477,7 +6489,8 @@
     <title>Three Layers (2026)</title>
     <url>https://hopincraftbier.be/products/millpond-three-layers-2026</url>
     <brewery_name>Millpond Brewing</brewery_name>
-    <price>42.21</price>
+    <price>35.88</price>
+    <regular_price>42.21</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/824015459/5662922498.png</image>
     <beer_description>Blend of Imperial Stouts aged for 12 and 16 months in bourbon barrels then conditioned on Ghanaian cocoa nibs, coconut flakes, Madagascar vanilla beans, and estate-grown toasted pecans. Three Layers is a liquid tribute to my grandmothers cake recipe. She used to make me a three-layered German Chocolate Cake every year for my birthday. It was, and still is, my favorite. It only felt right to make this an annual tradition at the brewery, releasing Three Layers every year around my birthday, March 1st. Millpond - Three Layers (2026)</beer_description>
     <beer_style>Stout - Imperial / Double</beer_style>
@@ -6493,7 +6506,8 @@
     <title>LongStory : Chapter 3</title>
     <url>https://hopincraftbier.be/products/millpond-longstory-chapter-3</url>
     <brewery_name>Millpond Brewing</brewery_name>
-    <price>47.56</price>
+    <price>40.43</price>
+    <regular_price>47.56</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/824005678/5662941795.png</image>
     <beer_description>For the next chapter of our Imperial Stout collaboration series with our friend Erik Busch at LongStory Coffee we took inspiration from popular coffee drinks at his cafe. LongStory Chapter 3 is a Caffè Mocha-inspired Imperial Stout aged for over 15 months in a Switchgrass Spirits Bourbon barrel. It was then conditioned on LongStory barrel-aged coffee, which was aged in a used Millpond Imperial Stout barrel, and Tanzanian cocoa nibs. Millpond - LongStory : Chapter 3</beer_description>
     <beer_style>Stout - Imperial / Double Coffee</beer_style>
@@ -6502,23 +6516,6 @@
     <beer_package>bottle</beer_package>
     <brewery_country>United States</brewery_country>
     <untappd_id>6581670</untappd_id>
-  </item>
-  <item>
-    <id>6538987</id>
-    <ecommerce_id>824015876</ecommerce_id>
-    <title>Fading Hours</title>
-    <url>https://hopincraftbier.be/products/false-hope-fading-hours</url>
-    <brewery_name>False Hope Brewing</brewery_name>
-    <price>10</price>
-    <regular_price>10.00</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/824015876/5662878913.png</image>
-    <beer_description>Imperial Stout with Coffee, Chocolate, and Maple Syrup False Hope - Fading Hours</beer_description>
-    <beer_style>Stout - Imperial / Double Pastry</beer_style>
-    <beer_abv>12%</beer_abv>
-    <beer_volume>473 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>United States</brewery_country>
-    <untappd_id>6538987</untappd_id>
   </item>
   <item>
     <id>3110792</id>
@@ -6679,7 +6676,8 @@
     <title>BBA Chinchilla</title>
     <url>https://hopincraftbier.be/products/commonwealth-bba-chinchilla</url>
     <brewery_name>Commonwealth Brewing Company</brewery_name>
-    <price>24.14</price>
+    <price>20.52</price>
+    <regular_price>24.14</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/822047757/5687768648.png</image>
     <beer_description>Bourbon Barrel Aged Imperial Stout w/ Hazelnut, Cacao Nibs, &amp; Vanilla Commonwealth - BBA Chinchilla</beer_description>
     <beer_style>Stout - Imperial / Double</beer_style>
@@ -6695,7 +6693,8 @@
     <title>Night Cap Cuvee</title>
     <url>https://hopincraftbier.be/products/goose-island-night-cap-cuvee</url>
     <brewery_name>Goose Island Beer Co.</brewery_name>
-    <price>14.32</price>
+    <price>12.17</price>
+    <regular_price>14.32</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/822044501/5653533347.png</image>
     <beer_description>A blend inspired by the last pour of the night, Goose Island Night Cap Cuvée captures that feeling through a blend of bourbon barrel-aged stout finished in Cognac, Porto, Rivesaltes, Pineau Blanc and Sherry casks. Expressive layers of dried fruit, moody oak and gentle warmth create moments worth savoring long after the evening ends. Goose Island - Night Cap Cuvee</beer_description>
     <beer_style>Stout - Stout - Imperial / Double</beer_style>
@@ -6712,7 +6711,8 @@
     <title>Augustin</title>
     <url>https://hopincraftbier.be/products/jackalhop-augustin-822032317</url>
     <brewery_name>Microbrasserie Jackalhop</brewery_name>
-    <price>9.92</price>
+    <price>8.43</price>
+    <regular_price>9.92</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/822032317/5653555410.png</image>
     <beer_description>Imperial rye stout matured in 5-year-old whisky barrels from Vice &amp; Vertu Jackalhop - Augustin</beer_description>
     <beer_style>Stout - Stout - Imperial / Double</beer_style>
@@ -6850,7 +6850,8 @@
     <title>Patience, Reflection, Humility- Rye</title>
     <url>https://hopincraftbier.be/products/wax-wings-patience-reflection-humility-rye</url>
     <brewery_name>Wax Wings Brewing Company</brewery_name>
-    <price>38.86</price>
+    <price>33.03</price>
+    <regular_price>38.86</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/821991293/5662941890.png</image>
     <beer_description>Like last year's bourbon barrel-aged version, this bottle contains three difterent Rye Whiskey Barrel-Aged stouts blended to taste. One high-gravity sweet stout (Buffalo Trace Rye- 13 months), one 'modern, balanced Stout' (Heaven Hill Rye- 19 months), and a third more classic Russian Imperial-style Stout (Wild Turkey Rye- 15 months). The result is layered and complex: bittersweet cocoa, molasses, toasted rye bread crust, and warm baking spice. The finish is long, smooth, and well spirited - rye spice lingering over dark chocolate, buoyed by soft intertwined roasted notes. Wax Wings - Patience, Reflection, Humility- Rye</beer_description>
     <beer_style>Stout - Russian Imperial</beer_style>
@@ -7073,7 +7074,8 @@
     <title>Ovni</title>
     <url>https://hopincraftbier.be/products/nano-cinco-ovni</url>
     <brewery_name>Nano Cinco</brewery_name>
-    <price>24.79</price>
+    <price>21.07</price>
+    <regular_price>24.79</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/820762809/6329578046.png</image>
     <beer_description>Ovni is a blend of barley wine and stout, aged for 16 months in rye whiskey casks from the MGP Ingredients distillery. The result is a rich, dark beer with aromas of caramel and roasted coffee. The cask also imparts subtle notes of oak, vanilla, spices, and dried fruit. Nano Cinco - Ovni</beer_description>
     <beer_style>Stout - Imperial / Double</beer_style>
@@ -7089,7 +7091,8 @@
     <title>Mission Lune</title>
     <url>https://hopincraftbier.be/products/nano-cinco-mission-lune</url>
     <brewery_name>Nano Cinco</brewery_name>
-    <price>24.79</price>
+    <price>21.07</price>
+    <regular_price>24.79</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/820758583/6329578058.png</image>
     <beer_description>Mission Lune is a blend of an imperial stout aged for 16 months in a Barton 1792 bourbon cask and an imperial stout aged for 12 months in a Vermont oak rye whiskey cask from the Caledonia Spirit distillery. The beer has a deep black color, a syrupy texture, chocolate aromas, and pronounced spirit notes reminiscent of toffee, tobacco, and toasted oak. Nano Cinco - Mission Lune</beer_description>
     <beer_style>Stout - Imperial / Double</beer_style>
@@ -7105,7 +7108,8 @@
     <title>BA Still Toasted After All These Years</title>
     <url>https://hopincraftbier.be/products/icarus-ba-still-toasted-after-all-these-years</url>
     <brewery_name>Icarus Brewing</brewery_name>
-    <price>29.49</price>
+    <price>25.07</price>
+    <regular_price>29.49</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/820762808/5629731516.png</image>
     <beer_description>A blend of Imperial Stouts loaded with oats, debittered Black Malts, and Burnt Sugar. Aged in Buffalo Trace Bourbon Barrels for 14 months. Conditioned on vanilla, toasted caramel, and both raw and toasted coconut. Blended to celebrate our 9th Anniversary! Icarus - BA Still Toasted After All These Years</beer_description>
     <beer_style>Stout - Imperial / Double Pastry</beer_style>
@@ -7138,7 +7142,8 @@
     <title>TØNNE TROLL (collab LERVIG)</title>
     <url>https://hopincraftbier.be/products/firestone-walker-tonne-troll</url>
     <brewery_name>Firestone Walker Brewing Company</brewery_name>
-    <price>15.33</price>
+    <price>13.03</price>
+    <regular_price>15.33</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/820762602/6329577824.png</image>
     <beer_description>Brewed with Norway’s acclaimed Lervig, this stout was built on a hearty malt bill with rolled oats and aged a year in Pikesville rye whiskey barrels. Dark, rich, and mischievous, Tønne Troll (“barrel troll”) channels Nordic folklore through Firestone Walker craft. Firestone Walker - TNNE TROLL</beer_description>
     <beer_style>Stout - Imperial / Double</beer_style>
@@ -7271,7 +7276,8 @@
     <title>Stars &amp; Satellites - Beurre d'arachide (2026)</title>
     <url>https://hopincraftbier.be/products/exp-artisan-stars--satellites-beurre-darachide-2026</url>
     <brewery_name>EXP Artisan Brasseur</brewery_name>
-    <price>10.33</price>
+    <price>8.78</price>
+    <regular_price>10.33</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/820504751/5653447074.png</image>
     <beer_description>It's back to comfort beers at EXP! Our Imperial Sweet Stout Double Mash is finally back. This time, it's been left in the heat for 24 hours before fermentation to concentrate the flavors. We've put all our effort into offering you a delicious, well-balanced beer with enough complexity to stand up to the residual sugar. And it's all topped off with a generous dose of peanuts, creating the perfect peanut butter and dark chocolate dessert. EXP Artisan - Stars &amp; Satellites - Beurre d'arachide (2026)</beer_description>
     <beer_style>Stout - Imperial / Double Milk</beer_style>
@@ -7323,7 +7329,8 @@
     <title>Ivoire Sombre</title>
     <url>https://hopincraftbier.be/products/fauve-ivoire-sombre</url>
     <brewery_name>Fauve</brewery_name>
-    <price>6.38</price>
+    <price>5.42</price>
+    <regular_price>6.38</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/818297255/5606061630.png</image>
     <beer_description>This second part of our Imperial Stouts diptych celebrates coconut in all its facets, with a double dose of fresh, as well as toasted, coconut flakes. While delicious on its own, it was designed to blend with 'Black Orchid' (double vanilla) to create a cohesive and decadent experience. Fauve - Ivoire Sombre</beer_description>
     <beer_style>Stout - Imperial / Double Pastry</beer_style>
@@ -7397,7 +7404,8 @@
     <title>Brewer's Reserve Tiramisu Stout</title>
     <url>https://hopincraftbier.be/products/central-waters-brewers-reserve-tiramisu-stout</url>
     <brewery_name>Central Waters Brewing Company</brewery_name>
-    <price>9.59</price>
+    <price>8.15</price>
+    <regular_price>9.59</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/817629674/5598126567.png</image>
     <beer_description>A true 'pick-me-up,' our Brewer's Reserve Tiramisu Stout captures all the decadence and flavor of the classic Italian dessert. We infused this beer with a custom espresso blend roasted by Emy J's in Stevens Point, WI crafted with this brew in mind. Its robust coffee backbone gives way to a balanced blend of of cocoa nibs and vanilla, offering subtle sweetness and an unforgettable experience for beer and dessert lovers alike. Central Waters - Brewer's Reserve Tiramisu Stout</beer_description>
     <beer_style>Stout - Imperial / Double Coffee</beer_style>
@@ -7607,23 +7615,6 @@
     <beer_description>Various colors available (see photo). Please indicate your preference in the comments section during checkout. Herbruikbare blikjes clip (4 blikjes)</beer_description>
   </item>
   <item>
-    <id>6318094</id>
-    <ecommerce_id>814428562</ecommerce_id>
-    <title>Vuurboetmeester 205 – Brandy Barrel Aged Barleywine</title>
-    <url>https://hopincraftbier.be/products/bierbrouwerij-de-magistraat-vuurboetmeester-205-brandy-barrel-aged-barleywine</url>
-    <brewery_name>Bierbrouwerij De Magistraat</brewery_name>
-    <price>8.42</price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/814428562/5568710324.png</image>
-    <beer_description>Our Vuurboeter Barleywine has been aged for 12 months in brandy barrels. The beer has aromas reminiscent of grapes and wine, with a subtle vanilla undertone from the oak. The sweetness of the malt balances beautifully with the fruity notes of the brandy. Bierbrouwerij De Magistraat - Vuurboetmeester 205 Brandy Barrel Aged Barleywine</beer_description>
-    <beer_style>Barleywine - Other</beer_style>
-    <beer_abv>12.5%</beer_abv>
-    <beer_volume>330 ml</beer_volume>
-    <beer_package>bottle</beer_package>
-    <brewery_country>The Netherlands</brewery_country>
-    <date_best_before>2030-06-30</date_best_before>
-    <untappd_id>6318094</untappd_id>
-  </item>
-  <item>
     <id>6600139</id>
     <ecommerce_id>814369271</ecommerce_id>
     <title>Brisa Alta (collab Uchu)</title>
@@ -7698,7 +7689,8 @@
     <title>Barrel Aged Written In the Stars (collab Mortalis)</title>
     <url>https://hopincraftbier.be/products/imprint-barrel-aged-written-in-the-stars</url>
     <brewery_name>Imprint Beer Co.</brewery_name>
-    <price>33.51</price>
+    <price>28.48</price>
+    <regular_price>33.51</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/814061317/6329578112.png</image>
     <beer_description>Bourbon barrel aged imperial stout conditioned on Jamaican Blue Mountain coffee, Ecuadorian cacao nibs, and 100+ pounds of toasted coconut. 13.5% ABV. Imprint - Barrel Aged Written In the Stars</beer_description>
     <beer_style>Stout - Imperial / Double Coffee</beer_style>
@@ -7714,7 +7706,8 @@
     <title>Brewer’s Reserve 7 Layer Stout (2025)</title>
     <url>https://hopincraftbier.be/products/central-waters-brewers-reserve-7-layer-stout-2025</url>
     <brewery_name>Central Waters Brewing Company</brewery_name>
-    <price>9.59</price>
+    <price>8.15</price>
+    <regular_price>9.59</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/814060050/5568082037.png</image>
     <beer_description>No Midwestern potluck would be complete without a tray or two of 7 Layer Bars. Also known as 'Magic Bars', these tasty treats are known for one thing: Packing a massive amount of flavor and sugar into a very small package. That's exactly what we did with this beer. Try to pace yourself. Central Waters - Brewers Reserve 7 Layer Stout (2025)</beer_description>
     <beer_style>Stout - Imperial / Double Pastry</beer_style>
@@ -7923,7 +7916,8 @@
     <title>Peadair</title>
     <url>https://hopincraftbier.be/products/funky-fluid-peadair</url>
     <brewery_name>Funky Fluid</brewery_name>
-    <price>14.15</price>
+    <price>12.03</price>
+    <regular_price>14.15</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/811857027/5551432765.png</image>
     <beer_description>A birthday brew from Gliwice’s Beer Brothers - a peat-smoked, intense, and uncompromising Imperial Stout aged in Wild Turkey bourbon barrels. 36blg Funky Fluid - Peadair</beer_description>
     <beer_style>Stout - Imperial / Double</beer_style>
@@ -8061,7 +8055,8 @@
     <title>Rocky Road (2026)</title>
     <url>https://hopincraftbier.be/products/white-dog-rocky-road-2026</url>
     <brewery_name>White Dog Brewery</brewery_name>
-    <price>7.38</price>
+    <price>6.27</price>
+    <regular_price>7.38</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/810417877/5532309609.png</image>
     <beer_description>White Dog Brewery's Rocky Road is a tribute to the classic treat packed with chocolate, marshmallows, and nuts. With a robust 11% ABV, this is a true "liquid treat." It's a beer for those moments when you really want to indulge: rich, luxurious, and with a delightfully unique twist. This beer is a party in your glass. As soon as you pour it, the aromas of milk chocolate and soft vanilla greet you. The addition of lactose gives the beer a silky, almost syrupy texture. You'll taste a full base of roasted malts, complemented by the sweetness of marshmallows and a hint of almond and nutty notes. White Dog - Rocky Road (2026)</beer_description>
     <beer_style>Stout - Imperial / Pastry</beer_style>
@@ -8078,7 +8073,8 @@
     <title>Cookie &amp; Cream</title>
     <url>https://hopincraftbier.be/products/white-dog-cookie--cream</url>
     <brewery_name>White Dog Brewery</brewery_name>
-    <price>7.38</price>
+    <price>6.27</price>
+    <regular_price>7.38</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/810417875/5532301240.png</image>
     <beer_description>Brace yourself for a liquid dessert in a glass. This Imperial Pastry Stout from White Dog Brewery is a tribute to the ultimate guilty pleasure: cookies and cream. With a hefty 11% ABV, this isn't a beer to drink easily, but a true sipper for lovers of full, sweet flavors. A beer that's essentially a hug in a glass, but one with a serious kick! As soon as you pour the beer, you'll smell the unmistakable aroma of freshly baked chocolate chip cookies, vanilla extract, and a hint of roasted malt. An explosion of flavor. It's thick, syrupy, and silky smooth thanks to the added lactose. You'll taste dark chocolate, creamy vanilla, and a hint of coffee that balances the sweetness. White Dog - Cookie &amp; Cream</beer_description>
     <beer_style>Stout - Imperial / Pastry</beer_style>
@@ -8112,7 +8108,8 @@
     <title>Muvuka</title>
     <url>https://hopincraftbier.be/products/the-piggy-muvuka</url>
     <brewery_name>The Piggy Brewing Company</brewery_name>
-    <price>8.26</price>
+    <price>7.02</price>
+    <regular_price>8.26</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/809098271/5520175624.png</image>
     <beer_description>Barrel Aged Imperial Stout. Cacao, Tonka beans The Piggy - Muvuka</beer_description>
     <beer_style>Stout - Imperial / Double</beer_style>
@@ -8235,7 +8232,8 @@
     <title>BA Treats Of Strength</title>
     <url>https://hopincraftbier.be/products/icarus-ba-treats-of-strength</url>
     <brewery_name>Icarus Brewing</brewery_name>
-    <price>27.28</price>
+    <price>23.19</price>
+    <regular_price>27.28</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/805525934/5495005758.png</image>
     <beer_description>Barrel aged in Makers Mark Bourbon Barrels for 34 months (2025). Chocolate Nutella Babka-inspired Pastry Stout brewed with Two Row Barley, Pale Chocolate Malt, Oated, and Wheated. Conditioned on Cacao Nibs and Hazelnuts. Icarus - BA Treats Of Strength</beer_description>
     <beer_style>Stout - Pastry</beer_style>
@@ -8251,7 +8249,8 @@
     <title>Shamrock Stout (2026)</title>
     <url>https://hopincraftbier.be/products/goose-island-shamrock-stout-2026</url>
     <brewery_name>Goose Island Beer Co.</brewery_name>
-    <price>13.89</price>
+    <price>11.81</price>
+    <regular_price>13.89</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5485232723.png</image>
     <beer_description>Bourbon Barrel-Aged Stout with Peppermint and Cocoa Nibs. A hint of mint, a touch of cocoa, a lot of luck For the lucky few, Shamrock Stout has been a beer for those fortunate enough to find it on draft at the Goose Island Fulton Street Taproom every March. Now, for the first time, we’re excited to release this annual favorite in bottles. Everyone can enjoy a taste of our annual tradition at home. Since green beer has never really been our thing, the release of this imperial stout is how we like to say: “sláinte.” Goose Island Shamrock Stout is a decadent delight that is aged for a full year in freshly emptied bourbon barrels and finished with peppermint, cocoa nibs and vanilla. The aging process imparts rich, warming notes of oak and whiskey, while the addition of cocoa nibs and vanilla adds layers of sweetness and complexity. Goose Island Shamrock Stout is a perfect way to raise a toast this year without having to dye the river green. Goose Island - Shamrock Stout (2026)</beer_description>
     <beer_style>Stout - Other</beer_style>
@@ -8268,7 +8267,8 @@
     <title>Eye Opener (collab Two Flints)</title>
     <url>https://hopincraftbier.be/products/factory-eye-opener</url>
     <brewery_name>Factory Brewing</brewery_name>
-    <price>7.93</price>
+    <price>6.74</price>
+    <regular_price>7.93</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/804689293/5532846239.png</image>
     <beer_description>An Imperial Coffee Stout brewed with Two Flints Brewery and treated with coffee beans from Samples Coffee and Good Life Coffee. "We have used a lot of coffee in our Stouts and we have loved how different coffee beans can be. This Imperial Coffee Stout is brewed with coffee beans from Good Life Coffee and Samples Coffee." Head Brewer Jirka Ordén Factory Brewing - Eye Opener Factory - Eye Opener</beer_description>
     <beer_style>Stout - Pastry</beer_style>
@@ -8305,7 +8305,8 @@
     <title>George Le Crapaud (collab BreWskey)</title>
     <url>https://hopincraftbier.be/products/nano-cinco-george-le-crapaud</url>
     <brewery_name>Nano Cinco</brewery_name>
-    <price>10.91</price>
+    <price>9.27</price>
+    <regular_price>10.91</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5466861197.png</image>
     <beer_description>George Le Crapaud (George the Toad) is an Imperial stout bottled on sweet cherry, organic toasted coconut from Sri Lanka, cocoa nibs from Ghana, vanilla from Uganda, and vegan marshmallow. A multi-flavored beer reminiscent of both Black Forest cake and coconut treats. Nano Cinco - George Le Crapaud</beer_description>
     <beer_style>Stout - Imperial / Double Pastry</beer_style>
@@ -8337,7 +8338,7 @@
     <title>All I Want For Christmas 2025 By Rackhouse</title>
     <url>https://hopincraftbier.be/products/lervig-all-i-want-for-christmas-2025-by-rackhouse</url>
     <brewery_name>LERVIG</brewery_name>
-    <price>33.29</price>
+    <price>28.3</price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5466423250.png</image>
     <beer_description>This year’s edition is a bold blend of stout batches aged up to 36 months in maple syrup and bourbon barrels. Creamy and richly spiced, it carries a smooth bourbon warmth, while vanilla, cinnamon, and nutmeg add the perfect festive touch. A decadent holiday treat, perfect for cozy nights by the fire, enjoyed on its own or paired with Christmas cookies. LERVIG - All I Want For Christmas 2025 By Rackhouse</beer_description>
     <beer_style>Stout - Imperial / Double Pastry</beer_style>
@@ -8386,7 +8387,8 @@
     <title>Origin of Darkness Imperial Stout with Maple Syrup, Pistachio, Vanilla (collab Southern Grist)</title>
     <url>https://hopincraftbier.be/products/collective-arts-origin-of-darkness-imperial-stout-with-maple-syrup-pistachio-vanilla</url>
     <brewery_name>Collective Arts Brewing</brewery_name>
-    <price>17.96</price>
+    <price>15.27</price>
+    <regular_price>17.96</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/801936386/5466934525.png</image>
     <beer_description>Taking advantage of our shared interest in decadent mascarpone desserts, we created this rich and luscious pastry stout. We included an irresistible flavour combination of rich maple syrup and nutty pistachios and topped it off with the creamy sweetness of both vanilla and lactose. Collective Arts - Origin of Darkness Imperial Stout with Maple Syrup, Pistachio, Vanilla</beer_description>
     <beer_style>Stout - Imperial / Double Pastry</beer_style>
@@ -8419,7 +8421,8 @@
     <title>BBA Twice As Lonely (2025)</title>
     <url>https://hopincraftbier.be/products/resident-culture-bba-twice-as-lonely-2025</url>
     <brewery_name>Resident Culture</brewery_name>
-    <price>31.91</price>
+    <price>27.12</price>
+    <regular_price>31.91</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/801935103/5450245001.png</image>
     <beer_description>Our 2025 Vintage is a blend of 19-31 month old bourbon barrel aged imperial stout conditioned on over 30 pounds per barrel of coconut and over 8 pounds per barrel of cacao nibs. Resident Culture - BBA Twice As Lonely (2025)</beer_description>
     <beer_style>Stout - Imperial / Double Pastry</beer_style>
@@ -8451,7 +8454,7 @@
     <title>Encore</title>
     <url>https://hopincraftbier.be/products/fine-balance-encore</url>
     <brewery_name>Fine Balance Brewing</brewery_name>
-    <price>13.9</price>
+    <price>11.82</price>
     <regular_price>13.90</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5447266771.png</image>
     <beer_description>Encore Maple Barrel Aged Imperial Stout comes roughly one year after the release of Fête, our fourth anniversary barrel aged sweet stout (which was aged in bourbon barrels previously filled with maple syrup). For about 16 months we've had this big, smooth imperial stout ageing in rye whiskey barrels that were previously housed maple syrup. We're delighted with how this beer turned out. It has a creamy mouthfeel, with a hint of sweetness cut by a touch of whiskey. Encore is big at 11.9% ABV, but smooth and easy drinking. It's a great winter treat. Fine Balance - Encore</beer_description>
@@ -8503,7 +8506,7 @@
     <title>Life After Death Star (Batch 7) 2025 (collab J. Wakefield)</title>
     <url>https://hopincraftbier.be/products/equilibrium-life-after-death-star-batch-7-2025</url>
     <brewery_name>Equilibrium Brewery</brewery_name>
-    <price>24.6</price>
+    <price>20.91</price>
     <regular_price>24.60</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5409430302.png</image>
     <beer_description>With shredded raw coconut, marshmallow, Madagascar vanilla, and Mostra Ghost Bear Espresso Blend coffee along with a touch of lactose. Balanced notes of deep espresso coffee paired with flavors of fudge, creamy marshmallow, vanilla caviar, double fudge chocolate brownie batter, and cream of coconut. Equilibrium - Life After Death Star (Batch 7) 2025</beer_description>
@@ -8574,7 +8577,8 @@
     <title>IMPERIAL P-NUT BUSTER - AMANDE</title>
     <url>https://hopincraftbier.be/products/brewskey-imperial-p-nut-buster-amande</url>
     <brewery_name>BreWskey</brewery_name>
-    <price>11.58</price>
+    <price>9.84</price>
+    <regular_price>11.58</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5409084118.png</image>
     <beer_description>Chocolate, peanut, coconut, vanilla... and almond stout BreWskey - IMPERIAL P-NUT BUSTER - AMANDE</beer_description>
     <beer_style>Stout - Imperial / Double Pastry</beer_style>
@@ -8659,7 +8663,7 @@
     <title>Reversed 6(66)</title>
     <url>https://hopincraftbier.be/products/bereta-reversed-6-66</url>
     <brewery_name>Bereta Brewing Co.</brewery_name>
-    <price>13.35</price>
+    <price>11.35</price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5390666921.png</image>
     <beer_description>9th Anniversary Bourbon Barrel Aged Imperial Stout with Salted Caramel. Bereta - Reversed 6(66)</beer_description>
     <beer_style>Stout - Imperial / Double</beer_style>
@@ -8676,7 +8680,7 @@
     <title>Profan</title>
     <url>https://hopincraftbier.be/products/blackout-profan</url>
     <brewery_name>Blackout Brewing</brewery_name>
-    <price>10.45</price>
+    <price>8.88</price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5350515782.png</image>
     <beer_description>A blend of stouts aged in an Oloroso and an Aquavit barrel, finished with tobacco leaves. Blackout - Profan</beer_description>
     <beer_style>Stout - Imperial / Double</beer_style>
@@ -8693,7 +8697,7 @@
     <title>Port &amp; Bourbon BA - Sunset Damage</title>
     <url>https://hopincraftbier.be/products/blackout-port--bourbon-ba-sunset-damage</url>
     <brewery_name>Blackout Brewing</brewery_name>
-    <price>10.45</price>
+    <price>8.88</price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5350510140.png</image>
     <beer_description>Chocolate | Vanilla | Orange A blend of stouts aged in a ruby Port wine barrel and in a MGP bourbon barrel. Blackout - Port &amp; Bourbon BA - Sunset Damage</beer_description>
     <beer_style>Stout - Imperial / Double Pastry</beer_style>
@@ -8710,7 +8714,7 @@
     <title>Coffee Series - Indonesia</title>
     <url>https://hopincraftbier.be/products/blackout-coffee-series-indonesia</url>
     <brewery_name>Blackout Brewing</brewery_name>
-    <price>7.5</price>
+    <price>6.38</price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5350509936.png</image>
     <beer_description>Brewed with beans roasted in Cluj-Napoca, by Yume. Karana is a community of 377 smallholder farmers in the Kintamani region of Bali, cultivating coffee at an altitude of 1,200 meters on 477 hectares. In addition to coffee, the farmers grow oranges, vegetables, and other crops, contributing to biodiversity and sustainability. Through eco-friendly practices and a newly funded processing mill, Karana aims to become a trusted supplier of green coffee beans in both domestic and international markets. Blackout - Coffee Series - Indonesia</beer_description>
     <beer_style>Stout - Imperial / Double Coffee</beer_style>
@@ -8744,7 +8748,7 @@
     <title>Ego Death - Heaven Hill BA</title>
     <url>https://hopincraftbier.be/products/blackout-ego-death-heaven-hill-ba</url>
     <brewery_name>Blackout Brewing</brewery_name>
-    <price>10.45</price>
+    <price>8.88</price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5350510158.png</image>
     <beer_description>Marshmallow | Vanilla | Chocolate Aged in Heaven Hill bourbon barrels. Blackout - Ego Death - Heaven Hill BA</beer_description>
     <beer_style>Stout - Imperial / Double Pastry</beer_style>
@@ -8761,7 +8765,7 @@
     <title>Bestowed - Oreo Brownie (collab Adroit Theory)</title>
     <url>https://hopincraftbier.be/products/third-moon-bestowed-oreo-brownie</url>
     <brewery_name>Third Moon Brewing Company</brewery_name>
-    <price>14.23</price>
+    <price>12.1</price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5341310094.png</image>
     <beer_description>Oreo Brownie Bestowed is an 11.5% Imperial Pastry Stout conditioned on chocolate, Oreos and brownies. We brewed it in collaboration with our friends from @AdroitTheory in Virginia. It's indulgent yet drinkable with notes of brownie batter and creamy chocolate. Third Moon - Bestowed - Oreo Brownie</beer_description>
     <beer_style>Stout - Imperial / Double Pastry</beer_style>
@@ -8826,7 +8830,8 @@
     <title>Barrel-Aged Ten FIDY®</title>
     <url>https://hopincraftbier.be/products/oskar-blues-r-barrel-aged-ten-fidy-r</url>
     <brewery_name>Oskar Blues Brewery®</brewery_name>
-    <price>9.18</price>
+    <price>7.8</price>
+    <regular_price>9.18</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5330804306.png</image>
     <beer_description>Aged through four seasons and from a blend of the top Bourbons around, this Ten Fidy has morphed into a monster of cranked up flavor. Espresso, burnt sugar, rich chocolate, caramel notes are now driving alongside the vanilla, oak, bourbon from the barrel and been smoothed out during maturation. Even at 12.9% (75 IBUs) it is cool and drinkable, letting each sip add more and more complexity. Oskar Blues - Barrel-Aged Ten FIDY</beer_description>
     <beer_style>Stout - Imperial / Double</beer_style>
@@ -8843,7 +8848,8 @@
     <title>Imperial Smells Like Bean Spirit - Pecan Pie</title>
     <url>https://hopincraftbier.be/products/mikerphone-imperial-smells-like-bean-spirit-pecan-pie</url>
     <brewery_name>Mikerphone Brewing</brewery_name>
-    <price>11.24</price>
+    <price>9.55</price>
+    <regular_price>11.24</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5330850781.png</image>
     <beer_description>Imperial Breakfast Stout w/ Maple Syrup, Coffee, Brown Sugar, Pecans, and Vanilla. Mikerphone - Imperial Smells Like Bean Spirit - Pecan Pie</beer_description>
     <beer_style>Stout - Imperial / Double Coffee</beer_style>
@@ -9000,7 +9006,7 @@
     <title>Grog Blossom</title>
     <url>https://hopincraftbier.be/products/hop-hooligans-grog-blossom</url>
     <brewery_name>Hop Hooligans</brewery_name>
-    <price>9.05</price>
+    <price>7.69</price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5326845579.png</image>
     <beer_description>Ingredients: water, barley malt, oat flakes, oat malt, maltodextrin, dextrose, hops, West Indies Rum-Vanilla tea (berries, hibiscus), vanilla (Noir Ebene Uganda Vanilla), yeast (AEB FERMOALE AY3). Hop Hooligans - Grog Blossom</beer_description>
     <beer_style>Stout - Imperial / Double Pastry</beer_style>
@@ -9012,29 +9018,12 @@
     <untappd_id>6423947</untappd_id>
   </item>
   <item>
-    <id>6384423</id>
-    <ecommerce_id>792864070</ecommerce_id>
-    <title>Ninth Birthday Impy</title>
-    <url>https://hopincraftbier.be/products/neon-raptor-ninth-birthday-impy</url>
-    <brewery_name>Neon Raptor Brewing Co.</brewery_name>
-    <price>8.02</price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5324107435.png</image>
-    <beer_description>Imperial 9th Birthday stout dressed up to the nines with hazelnut, chocolate, and caramel biscuits (you know which ones). We're partying like it's 9! Water, Barley (Gluten), Oats, Lactose (Milk), Hops, Yeast Neon Raptor - Ninth Birthday Impy</beer_description>
-    <beer_style>Stout - Imperial / Double Pastry</beer_style>
-    <beer_abv>10%</beer_abv>
-    <beer_volume>440 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>England</brewery_country>
-    <date_best_before>2027-08-21</date_best_before>
-    <untappd_id>6384423</untappd_id>
-  </item>
-  <item>
     <id>6413314</id>
     <ecommerce_id>792864069</ecommerce_id>
     <title>Confection By Rackhouse</title>
     <url>https://hopincraftbier.be/products/lervig-confection-by-rackhouse</url>
     <brewery_name>LERVIG</brewery_name>
-    <price>19.89</price>
+    <price>16.91</price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5324077423.png</image>
     <beer_description>The curated flavors are layered to charm both the sweet tooth and the seasoned palate. Blue raspberry, marshmallow, coconut, and chocolate mingle with a gentle touch of roast coffee, while time spent in rum, bourbon, and maple barrels lends depth with vanilla, maple, and oak. Confection is sweetness elegantly wrapped in the character of the barrels. LERVIG - Confection By Rackhouse</beer_description>
     <beer_style>Stout - Imperial / Double Pastry</beer_style>
@@ -9051,7 +9040,7 @@
     <title>Night Shift Vintage 2025 / RIS Aged In Rhum And Vanilla Macadamia Rum Barrels</title>
     <url>https://hopincraftbier.be/products/horizont-night-shift-vintage-2025-ris-aged-in-rhum-and-vanilla-macadamia-rum-barrels</url>
     <brewery_name>HORIZONT Brewing</brewery_name>
-    <price>9.99</price>
+    <price>8.49</price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5292808556.png</image>
     <beer_description>A reimagined Russian Imperial Stout aged in both fresh Rhum barrels and Rum barrels previously holding macadamia nuts and vanilla. The result is silky and rich, with nutty-vanilla layers, subtle rum sweetness, and a smooth, creamy finish. HORIZONT - Night Shift Vintage 2025 / RIS Aged In Rhum And Vanilla Macadamia Rum Barrels</beer_description>
     <beer_style>Stout - Russian Imperial</beer_style>
@@ -9085,7 +9074,7 @@
     <title>Night Shift Vintage 2025 / RIS Aged In Bourbon Maple Syrup Barrels With Chocolate &amp; Coffee</title>
     <url>https://hopincraftbier.be/products/horizont-night-shift-vintage-2025-ris-aged-in-bourbon-maple-syrup-barrels-with-chocolate--coffee</url>
     <brewery_name>HORIZONT Brewing</brewery_name>
-    <price>9.99</price>
+    <price>8.49</price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5292808568.png</image>
     <beer_description>Jet-black, full-bodied Russian Imperial Stout brewed with freshly roasted Costa Rican and Ethiopian coffee and Ghanaian cocoa. Aged in Bourbon and maple syrup ex-Bourbon barrels for deep, sweet-smoky chocolate and coffee complexity - bold, refined, and utterly indulgent. HORIZONT - Night Shift Vintage 2025 / RIS Aged In Bourbon Maple Syrup Barrels With Chocolate &amp; Coffee</beer_description>
     <beer_style>Stout - Russian Imperial</beer_style>
@@ -9119,7 +9108,7 @@
     <title>The Way Is Shut</title>
     <url>https://hopincraftbier.be/products/prizm-the-way-is-shut</url>
     <brewery_name>Prizm Brewing Co.</brewery_name>
-    <price>6.94</price>
+    <price>5.9</price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5249427739.png</image>
     <beer_description>Imperial Stout Chuao Cocoa &amp; Coffee: A black monolith. No frills, no detours. Just a massive, raw, dense stout that still manages to remain elegant. Full-bodied cocoa: dark, bitter, deep. Full body, dense foam, almost oily texture. The sugar and alcohol fade behind the structure. A classic but incredibly effective stout. Prizm - The Way Is Shut</beer_description>
     <beer_style>Stout - Imperial / Double Pastry</beer_style>
@@ -9201,24 +9190,6 @@
     <untappd_id>3242306</untappd_id>
   </item>
   <item>
-    <id>2166301</id>
-    <ecommerce_id>787747546</ecommerce_id>
-    <title>Here's To Feeling Good All the Time</title>
-    <url>https://hopincraftbier.be/products/bissell-brothers-heres-to-feeling-good-all-the-time</url>
-    <brewery_name>Bissell Brothers Brewing Company</brewery_name>
-    <price>7.69</price>
-    <regular_price>0</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/787747546/5260588605.webp</image>
-    <beer_description>A worldly DIPA, liberally hopped with some of the finest hops Australia and the Pacific Northwest have to offer. Brewed with a hefty portion of wheat and oats for fluffiness on the palate. Juicy, dank, and Kramer Approved. Bissell Brothers - Here's To Feeling Good All the Time</beer_description>
-    <beer_style>IPA - Imperial / Double</beer_style>
-    <beer_abv>7.8%</beer_abv>
-    <beer_volume>473 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>United States</brewery_country>
-    <date_canned>2025-10-15</date_canned>
-    <untappd_id>2166301</untappd_id>
-  </item>
-  <item>
     <id>4214697</id>
     <ecommerce_id>787743586</ecommerce_id>
     <title>Natural Flavors (Tangerine)</title>
@@ -9294,7 +9265,7 @@
     <title>D-Tonacja 9th Edition</title>
     <url>https://hopincraftbier.be/products/nepo-d-tonacja-9th-edition</url>
     <brewery_name>Nepo Brewing</brewery_name>
-    <price>7.45</price>
+    <price>6.33</price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5242208267.webp</image>
     <beer_description>9th edition of their cyclical, annual beer. A strong Imperial Stout with deep and intense aromas of dark chocolate, coffee and roasted malt which creates a truly decadent taste experience. Nepo - D-Tonacja 9th Edition</beer_description>
     <beer_style>Stout - Imperial / Double</beer_style>
@@ -9311,7 +9282,7 @@
     <title>Space Rocket</title>
     <url>https://hopincraftbier.be/products/nano-cinco-space-rocket</url>
     <brewery_name>Nano Cinco</brewery_name>
-    <price>24.23</price>
+    <price>20.6</price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5260881608.webp</image>
     <beer_description>Space Rocket is a blend of an imperial stout aged 34 months in Heaven Hill bourbon barrels and an imperial stout aged 12 months in Jeptha Creed bourbon barrels. It was then aged on toasted organic coconut from Sri Lanka and vanilla from Madagascar. The result is a powerful and syrupy beer where the sweetness of vanilla and bourbon combines perfectly with the intensity of coconut. ***Contains lactose*** Nano Cinco - Space Rocket</beer_description>
     <beer_style>Stout - Imperial / Double</beer_style>
@@ -9327,7 +9298,7 @@
     <title>Midnight Merkin (2025)</title>
     <url>https://hopincraftbier.be/products/firestone-walker-midnight-merkin-2025</url>
     <brewery_name>Firestone Walker Brewing Company</brewery_name>
-    <price>13.98</price>
+    <price>11.88</price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5260881812.webp</image>
     <beer_description>A luxurious stout aged 18 months in bourbon and rye barrels. Vanilla, cocoa nibs, and almonds swirl into rich layers of oak, spice, and dark chocolate decadence. Firestone Walker - Midnight Merkin (2025)</beer_description>
     <beer_style>Stout - Pastry</beer_style>
@@ -9343,7 +9314,7 @@
     <title>Révélateur D'Ombres</title>
     <url>https://hopincraftbier.be/products/fauve-revelateur-dombres</url>
     <brewery_name>Fauve</brewery_name>
-    <price>8.61</price>
+    <price>7.32</price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5147850362.webp</image>
     <beer_description>We blended some of our finest barrels of Imperial Stout aged in rum barrels (which had previously contained Oloroso) to create this unique blend. For even more tropical indulgence, we added a coconut finish. The aging lasted 18 months in rum barrels. A rare beer, of which only 1,646 cans were produced! Fauve - Revelateur D'Ombres</beer_description>
     <beer_style>Stout - Imperial / Double</beer_style>
@@ -9360,7 +9331,7 @@
     <title>Chambre Noire</title>
     <url>https://hopincraftbier.be/products/fauve-chambre-noire</url>
     <brewery_name>Fauve</brewery_name>
-    <price>8.61</price>
+    <price>7.32</price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5147860291.png</image>
     <beer_description>This daring blend is a blend of several Imperial Stout barrels: Peated Whiskey barrels and barrels that previously contained Hot Sauce. After blending, we finished with cocoa nibs. In short, here's an unusual mix combining smoky, spicy, and cocoa flavors...in an IS barrel-aged version! Fauve - Chambre Noire</beer_description>
     <beer_style>Stout - Imperial / Double</beer_style>
@@ -9395,7 +9366,7 @@
     <title>Clock Tower Swirls (collab Aslin)</title>
     <url>https://hopincraftbier.be/products/mortalis-clock-tower-swirls</url>
     <brewery_name>Mortalis Brewing Company</brewery_name>
-    <price>31.48</price>
+    <price>26.76</price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/778812647/6329578100.png</image>
     <beer_description>This Imperial Stout was brewed in collaboration with Aslin Beer. A full bodied base is met with layers of rich chocolate, butterscotch, peanuts, and ice cream. Grab a spoon and dig in. Mortalis - Clock Tower Swirls</beer_description>
     <beer_style>Stout - Imperial / Double Pastry</beer_style>
@@ -9411,7 +9382,7 @@
     <title>ParabaNoche (2024) (collab WeldWerks)</title>
     <url>https://hopincraftbier.be/products/firestone-walker-parabanoche-2024</url>
     <brewery_name>Firestone Walker Brewing Company</brewery_name>
-    <price>14.31</price>
+    <price>12.16</price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5260881614.webp</image>
     <beer_description>We burned the midnight oil collaborating with our friends at Weldworks Brewing Co to create one of the biggest beers we’ve ever brewed. A massive stout stuffed with specialty malts matured for 18 months in special Parker’s Heritage Whiskey barrels, the final blend radiates with sweet flavors of dark chocolate, caramel, roasted coffee, vanilla and whiskey. Firestone Walker - ParabaNoche (2024)</beer_description>
     <beer_style>Stout - Imperial / Double</beer_style>
@@ -9427,7 +9398,7 @@
     <title>Mashish W/Peanut Butter, Chocolate, And Marshmallow</title>
     <url>https://hopincraftbier.be/products/dankhouse-mashish-w-peanut-butter-chocolate-and-marshmallow</url>
     <brewery_name>DankHouse Brewing Company</brewery_name>
-    <price>10.66</price>
+    <price>9.06</price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5260881819.webp</image>
     <beer_description>Our base Mashish with some peanut butter, chocolate, and marshmallow. DankHouse - Mashish W/Peanut Butter, Chocolate, And Marshmallow</beer_description>
     <beer_style>Stout - Imperial / Double Pastry</beer_style>
@@ -9459,7 +9430,7 @@
     <title>Cantuccini</title>
     <url>https://hopincraftbier.be/products/brasserie-sir-john-cantuccini</url>
     <brewery_name>Brasserie Sir John Brewing Co.</brewery_name>
-    <price>10.32</price>
+    <price>8.77</price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/778817618/5260881794.webp</image>
     <beer_description>The Cantuccini is our love letter to this famous little almond biscuit from Tuscany. Far from being as dry as the biscotti that inspires it, our version of the Cantuccini is a liquid nectar, rich in flavor and body that is perfect as a digestif or at the end of the evening. Brewed and packaged with espresso coffee from our friends at KOHI Micro-roaster, Madagascar vanilla, Upala cacao nibs, lactose, maple syrup and LOTS of toasted almonds. After the first sip, you too will be writing to yourself: 'mio dio questo è buono! Grazie Sir Giovanni!' Brasserie Sir John - Cantuccini</beer_description>
     <beer_style>Stout - Imperial / Double Pastry</beer_style>
@@ -9476,7 +9447,7 @@
     <title>Sumi Ink (2025)</title>
     <url>https://hopincraftbier.be/products/grimm-artisanal-ales-sumi-ink-2025</url>
     <brewery_name>Grimm Artisanal Ales</brewery_name>
-    <price>23.17</price>
+    <price>19.69</price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/778817581/6329578118.png</image>
     <beer_description>Imperial stout aged in bourbon barrels with vanilla beans. This storied beer was named for a festival-goer’s mishap: in need of a display bottle of stout while pouring at a beer festival, Lauren filled a bomber with diluted sumi ink that she had at home and put a cap and label on it. After the festival was over, the fascimile had disappeared. Whomever took the bottle was, sadly, in for a disappointment! Grimm Artisanal Ales - Sumi Ink (2025)</beer_description>
     <beer_style>Stout - Imperial / Double</beer_style>
@@ -9492,7 +9463,7 @@
     <title>Players 1 - Batch 2 (collab Three Chiefs)</title>
     <url>https://hopincraftbier.be/products/equilibrium-players-1-batch-2</url>
     <brewery_name>Equilibrium Brewery</brewery_name>
-    <price>23.17</price>
+    <price>19.69</price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/774330341/6329571586.png</image>
     <beer_description>Players 1 (Batch 2) is an American Imperial Stout brewed with Madagascar vanilla beans, Fiji cacao nibs, toasted coconut, and Mostra Coffee ghost bear espresso. No lactose was harmed in this beers creation. It pours jet black with a beautiful deep tan head. The dynamics of the relative adjunct strength shift as the beer warms and time lengthens. Batch 2 has the same creamy flavor of some of our favorite things: coffee at first and then a transformation to chocolate brownie batter sprinkled with toasted coconut flakes followed by notes of vanilla-marshmallow to balance it out. Equilibrium - Players 1 - Batch 2</beer_description>
     <beer_style>Stout - Pastry</beer_style>
@@ -9524,7 +9495,7 @@
     <title>Dirty Monkey</title>
     <url>https://hopincraftbier.be/products/commonwealth-dirty-monkey</url>
     <brewery_name>Commonwealth Brewing Company</brewery_name>
-    <price>10.33</price>
+    <price>8.78</price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/767352716/5145623791.webp</image>
     <beer_description>Imperial Stout w/Banana, Coffee, Chocolate, Pineapple and Coconut Commonwealth - Dirty Monkey</beer_description>
     <beer_style>Stout - Imperial / Double Coffee</beer_style>
@@ -9556,7 +9527,7 @@
     <title>TOP PICK (collab Omnipollo)</title>
     <url>https://hopincraftbier.be/products/stigbergets-top-pick</url>
     <brewery_name>Stigbergets Bryggeri</brewery_name>
-    <price>11.01</price>
+    <price>9.36</price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5000921840.webp</image>
     <beer_description>After receiving some freshly emptied bourbon barrels direct from Balcones Distillery in Texas we were itching to brew something big, dark and ridiculous. The obvious answer was to give our friend Henok from Omnipollo a ring and ask if he fancied helping us conjure something up. After almost 2 years of aging we decided it was time to take out the beer and lightly enhance it with coconut, hazelnut and vanilla so as to not get too much in the way of the barrel character. Stigbergets - TOP PICK</beer_description>
     <beer_style>Stout - Russian Imperial</beer_style>
@@ -9591,8 +9562,8 @@
     <title>12yr Wild Turkey BA Dark Matter (2025)</title>
     <url>https://hopincraftbier.be/products/barreled-souls-12yr-wild-turkey-ba-dark-matter-2025</url>
     <brewery_name>Barreled Souls Brewing Company</brewery_name>
-    <price>28.02</price>
-    <regular_price>32,96</regular_price>
+    <price>26.37</price>
+    <regular_price>32.96</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/756989443/4965750515.webp</image>
     <beer_description>This was aged in some very unique 12-year-old Wild Turkey barrels for 12 months and 5 days. The bourbon from these barrels is a rare Japanese-only release and one of the few 12-year-old Wild Turkeys ever made. Barreled Souls - 12yr Wild Turkey BA Dark Matter (2025)</beer_description>
     <beer_style>Stout - Imperial / Double</beer_style>
@@ -9609,7 +9580,7 @@
     <title>BA Sticky Situation (collab Bolero Snort)</title>
     <url>https://hopincraftbier.be/products/imprint-ba-sticky-situation</url>
     <brewery_name>Imprint Beer Co.</brewery_name>
-    <price>33.3</price>
+    <price>28.31</price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4966155193.webp</image>
     <beer_description>We teamed up with our best buds @bolerosnort 18 months ago to make this decadent imperial pastry stout. We then rested it in Heaven Hill barrels for 17 months, then conditioned this in our lil spin bot over hundreds of pounds of Thai bananas and monkey rolls. Bring napkins. Imprint - BA Sticky Situation</beer_description>
     <beer_style>Stout - Pastry</beer_style>
@@ -9643,7 +9614,7 @@
     <title>Double Stack</title>
     <url>https://hopincraftbier.be/products/great-notion-double-stack</url>
     <brewery_name>Great Notion Brewing</brewery_name>
-    <price>13.26</price>
+    <price>11.27</price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/756995308/4965758949.webp</image>
     <beer_description>Double Stack is our Imperial Breakfast Stout aged on whole bean coffee from Portland's Coava Coffee and maple syrup. Great Notion - Double Stack</beer_description>
     <beer_style>Stout - Imperial / Double Coffee</beer_style>
@@ -9676,8 +9647,8 @@
     <title>Hello My Name Is - Vanille</title>
     <url>https://hopincraftbier.be/products/nano-cinco-hello-my-name-is-vanille</url>
     <brewery_name>Nano Cinco</brewery_name>
-    <price>24.38</price>
-    <regular_price>28,68</regular_price>
+    <price>22.94</price>
+    <regular_price>28.68</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/751543258/5476598884.png</image>
     <beer_description>Imperial stout aged in rye whisky barrels that previously held maple syrup, then finished with Mexican vanilla. A particularly rich and syrupy beer with notes of maple syrup, vanilla, cocoa, and spirits. Nano Cinco - Hello My Name Is - Vanille</beer_description>
     <beer_style>Stout - Imperial / Double</beer_style>
@@ -9688,31 +9659,13 @@
     <untappd_id>6092135</untappd_id>
   </item>
   <item>
-    <id>348850</id>
-    <ecommerce_id>751529277</ecommerce_id>
-    <title>Bomb!</title>
-    <url>https://hopincraftbier.be/products/prairie-artisan-ales-bomb</url>
-    <brewery_name>Prairie Artisan Ales</brewery_name>
-    <price>12.09</price>
-    <regular_price>16,12</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/751529277/5476634118.png</image>
-    <beer_description>Bomb! is an imperial stout aged on Spaceship Earth espresso beans, chocolate, vanilla beans, and ancho chile peppers. All the flavors meld to create a truly unique beer. The peppers add just the right amount of heat to complement the intense coffee and chocolate flavors. Prairie Artisan Ales - Bomb!</beer_description>
-    <beer_style>Stout - Imperial / Double Coffee</beer_style>
-    <beer_abv>13%</beer_abv>
-    <beer_volume>355 ml</beer_volume>
-    <beer_package>bottle</beer_package>
-    <brewery_country>United States</brewery_country>
-    <date_canned>2024-12-24</date_canned>
-    <untappd_id>348850</untappd_id>
-  </item>
-  <item>
     <id>4990447</id>
     <ecommerce_id>751542509</ecommerce_id>
     <title>Abandon The Halogens (2022)</title>
     <url>https://hopincraftbier.be/products/jackie-os-abandon-the-halogens-2022</url>
     <brewery_name>Jackie O’s Brewery</brewery_name>
-    <price>21.45</price>
-    <regular_price>25,23</regular_price>
+    <price>20.19</price>
+    <regular_price>25.23</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5476639571.png</image>
     <beer_description>Imperial Stout brewed with honey and lactose and aged in bourbon barrels Jackie Os - Abandon The Halogens (2022)</beer_description>
     <beer_style>Stout - Imperial / Double Milk</beer_style>
@@ -9746,8 +9699,8 @@
     <title>Vanilla Coffee Bourbon Barrel Dark Apparition (2025)</title>
     <url>https://hopincraftbier.be/products/jackie-os-vanilla-coffee-bourbon-barrel-dark-apparition-2025</url>
     <brewery_name>Jackie O’s Brewery</brewery_name>
-    <price>15.57</price>
-    <regular_price>18,32</regular_price>
+    <price>14.65</price>
+    <regular_price>18.32</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/751543257/4930059442.png</image>
     <beer_description>Seven malts were used to create deep flavors of coffee, chocolate, caramel, and molasses. A hint of bitterness and herbal character from carefully selected European and American hops help support the monolithic maltiness. This special batch was aged in bourbon barrels and conditioned on Malagasy vanilla beans and whole Thunderkiss espresso beans. This year’s vintage of Vanilla Coffee Bourbon Barrel Dark Apparition was aged in select Wild Turkey, Knob Creek and Willett barrels ranging from 13 to 26 months and conditioned on the Thuderkiss Espresso Blend and a blend of Tahitian and Madagascar vanilla beans. Jackie Os - Vanilla Coffee Bourbon Barrel Dark Apparition (2025)</beer_description>
     <beer_style>Stout - Russian Imperial</beer_style>
@@ -9764,8 +9717,8 @@
     <title>Churro Puffs</title>
     <url>https://hopincraftbier.be/products/equilibrium-churro-puffs</url>
     <brewery_name>Equilibrium Brewery</brewery_name>
-    <price>20.9</price>
-    <regular_price>24,59</regular_price>
+    <price>19.67</price>
+    <regular_price>24.59</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/751543256/4962362496.webp</image>
     <beer_description>Cinnamon sugar with a warm, soft, and doughy center, make Churros the perfect inspiration for our newest dessert-inspired stout. Churro Puffs take our base imperial stout recipe and add toasted almond, marshmallow, and a light addition of cinnamon. Pitch black with a frothy cap, we get aromas of early mornings at the bake shop, chocolate-covered almond bars, and a touch of sweet cinnamon. A rich and velvety brownie batter-like foundation is laced with flavors of toasted almond, marshmallow-stuffed cinnamon donut holes, and sugar cookie dough. The balanced addition of cinnamon complements the flavors, gently checking all the boxes for liquid culinary bliss. Equilibrium - Churro Puffs</beer_description>
     <beer_style>Stout - Imperial / Double Pastry</beer_style>
@@ -9781,7 +9734,7 @@
     <title>SEVER (collab Third Moon)</title>
     <url>https://hopincraftbier.be/products/all-my-friends-sever</url>
     <brewery_name>All My Friends Beer Co.</brewery_name>
-    <price>8.43</price>
+    <price>7.94</price>
     <regular_price>9.92</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/751542761/5475127198.png</image>
     <beer_description>Brownies, Cacao, Terpenes - Collab with Third Moon All My Friends - SEVER</beer_description>
@@ -9799,7 +9752,7 @@
     <title>Speedway Stout: Peanut Butter Cup Edition</title>
     <url>https://hopincraftbier.be/products/alesmith-speedway-stout-peanut-butter-cup-edition</url>
     <brewery_name>AleSmith Brewing Company</brewery_name>
-    <price>7.44</price>
+    <price>6.95</price>
     <regular_price>9.92</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/735435487/4827556438.png</image>
     <beer_description>Imperial Stout with Cacao Nibs, Roasted Peanuts, Sea Salt, and Coffee. We’ve transformed our classic Speedway Stout into a decadent peanut butter cup-inspired treat. Roasted peanuts blend with rich chocolate malts, bold coffee, and Dominican cacao nibs. The result is a perfect balance of salty, roasty peanuts and rich, decadent chocolate. Subtle sweetness, warming alcohol, and smooth chocolate create a well-rounded sip. AleSmith - Speedway Stout: Peanut Butter Cup Edition</beer_description>
@@ -9811,6 +9764,6 @@
     <date_canned>2025-03-03</date_canned>
     <untappd_id>6180169</untappd_id>
   </item>
-  <timestamp>1793822795</timestamp>
-  <gen_date>04/11/2026 21:06:35</gen_date>
+  <timestamp>1793870213</timestamp>
+  <gen_date>05/11/2026 10:16:53</gen_date>
 </feed>
