@@ -44,7 +44,7 @@
     <brewery_name>Bracket Brewing</brewery_name>
     <price>12.66</price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/875588005/6386089630.png</image>
-    <beer_description>Triple IPA Bracket Brewing - Latitude</beer_description>
+    <beer_description>Triple IPA. Hops: Riwaka | Rakau | Southern X Bracket Brewing - Latitude</beer_description>
     <beer_style>IPA - Triple</beer_style>
     <beer_abv>?%</beer_abv>
     <beer_volume>440 ml</beer_volume>
@@ -9728,6 +9728,6 @@
     <date_canned>2025-03-03</date_canned>
     <untappd_id>6180169</untappd_id>
   </item>
-  <timestamp>1793970907</timestamp>
-  <gen_date>06/11/2026 14:15:07</gen_date>
+  <timestamp>1793971809</timestamp>
+  <gen_date>06/11/2026 14:30:09</gen_date>
 </feed>
