@@ -7645,24 +7645,6 @@
     <untappd_id>6518499</untappd_id>
   </item>
   <item>
-    <id>6612883</id>
-    <ecommerce_id>814061318</ecommerce_id>
-    <title>Double Lupula (2026 Ultra Hopped)</title>
-    <url>https://hopincraftbier.be/products/lolev-beer-double-lupula-2026-ultra-hopped</url>
-    <brewery_name>Lolev Beer</brewery_name>
-    <price>10</price>
-    <regular_price>10.00</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/814061318/5626961388.png</image>
-    <beer_description>2026 version of Double Lupula, ultra hopped with freestyle hops: Freestyle Riwaka, Motueka, Moutere Lolev Beer - Double Lupula (2026 Ultra Hopped)</beer_description>
-    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
-    <beer_abv>9%</beer_abv>
-    <beer_volume>473 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>United States</brewery_country>
-    <date_canned>2026-02-28</date_canned>
-    <untappd_id>6612883</untappd_id>
-  </item>
-  <item>
     <id>5057004</id>
     <ecommerce_id>814061317</ecommerce_id>
     <title>Barrel Aged Written In the Stars (collab Mortalis)</title>
@@ -9136,24 +9118,6 @@
     <untappd_id>6379068</untappd_id>
   </item>
   <item>
-    <id>3242306</id>
-    <ecommerce_id>787747051</ecommerce_id>
-    <title>33 (collab Mast Landing)</title>
-    <url>https://hopincraftbier.be/products/vitamin-sea-33</url>
-    <brewery_name>Vitamin Sea Brewing</brewery_name>
-    <price>8.24</price>
-    <regular_price>0</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/787747051/5260644670.webp</image>
-    <beer_description>Our Triple Dry Hopped Triple IPA collaboration with Mast Landing, showcasing Citra, Motueka and Sabro hops Vitamin Sea - 33</beer_description>
-    <beer_style>IPA - Triple</beer_style>
-    <beer_abv>10.1%</beer_abv>
-    <beer_volume>473 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>United States</brewery_country>
-    <date_canned>2025-10-16</date_canned>
-    <untappd_id>3242306</untappd_id>
-  </item>
-  <item>
     <id>4214697</id>
     <ecommerce_id>787743586</ecommerce_id>
     <title>Natural Flavors (Tangerine)</title>
@@ -9728,6 +9692,6 @@
     <date_canned>2025-03-03</date_canned>
     <untappd_id>6180169</untappd_id>
   </item>
-  <timestamp>1793971809</timestamp>
-  <gen_date>06/11/2026 14:30:09</gen_date>
+  <timestamp>1794000607</timestamp>
+  <gen_date>06/11/2026 22:30:07</gen_date>
 </feed>
