@@ -1,4 +1,4 @@
-/* HopInCraftbier custom css v4.67 */
+/* HopInCraftbier custom css v4.68 */
 /** start homepage **/
 body {
     margin: auto;
@@ -2085,7 +2085,7 @@ div#deliveryInfoSidebar {
     }
 }
 #tile-text-x5h5fr, #tile-text-Qj8kkZ, #tile-text-4XVMgk, #tile-text-4XVMgk, #tile-text-HJMxHb {
-    div.section__container {
+    div.section__content {
         border-bottom: 1px solid black;
     }
 }
