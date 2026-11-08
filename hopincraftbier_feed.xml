@@ -4247,6 +4247,25 @@
     <untappd_id>6619576</untappd_id>
   </item>
   <item>
+    <id>6690768</id>
+    <ecommerce_id>837706629</ecommerce_id>
+    <title>The Doorway Effect (collab Left Handed Giant)</title>
+    <url>https://hopincraftbier.be/products/verdant-the-doorway-effect</url>
+    <brewery_name>Verdant Brewing Co</brewery_name>
+    <price>4.49</price>
+    <regular_price>8,98</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/837706629/5786818229.png</image>
+    <beer_description>An 8% New England DIPA brewed in collaboration with Left Handed Giant Earlier this year, and by pure coincidence, both breweries selected identical lots of Mosaic &amp; Simcoe (Coleman Farm, Oregon) and Nectaron &amp; Nelson Sauvin (Mac Hops, NZ). From there, the doors opened, and the recipes diverged. The result is two distinct 8% DIPAs that explore the wildly different consequences our brewing choices can have. Our half of the story, ‘The Doorway Effect’, lands today on the webshop. It’s a big, hoppy monster of a DIPA designed to showcase the vibrancy of these specific lots. Expect saturated hop aroma and a rounded mouthfeel. It’s bright, zippy, juicy, and even a little wild around the edges. Across the hallway, LHG have crafted their own interpretation: ‘Hidden Volumes’. Go check it out, it's available on their webshop now. Same starting point, two different paths. Only you can decide how the story ends Verdant Brewing Co - The Doorway Effect</beer_description>
+    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
+    <beer_abv>8%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>England</brewery_country>
+    <date_best_before>2026-10-26</date_best_before>
+    <date_canned>2026-04-27</date_canned>
+    <untappd_id>6690768</untappd_id>
+  </item>
+  <item>
     <id>6708378</id>
     <ecommerce_id>837706628</ecommerce_id>
     <title>Flux: Phase 6 (collab Track)</title>
@@ -5106,6 +5125,25 @@
     <brewery_country>United States</brewery_country>
     <date_canned>2026-02-26</date_canned>
     <untappd_id>6625735</untappd_id>
+  </item>
+  <item>
+    <id>6682878</id>
+    <ecommerce_id>832453241</ecommerce_id>
+    <title>Sideways</title>
+    <url>https://hopincraftbier.be/products/verdant-sideways</url>
+    <brewery_name>Verdant Brewing Co</brewery_name>
+    <price>4.49</price>
+    <regular_price>8,98</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/832453241/5735454913.png</image>
+    <beer_description>Time isn’t just about moving forward. When the arrow reaches its limit, when we hit Timing’s End, where do we go next? At Verdant, we like to go Sideways! Introducing 'Sideways', the big brother to our Nelson/Motueka superstar Timing's End, an 8% DIPA that takes the same punchy hop profile and expands it into a new dimension. Think of it as a panoramic view of everything you love about the original. By pushing the ABV and the hop dosage, we’ve shifted the perspective. If the IPA is the point of impact, this DIPA is the ripple effect. Verdant - Sideways</beer_description>
+    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
+    <beer_abv>8%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>England</brewery_country>
+    <date_best_before>2026-10-19</date_best_before>
+    <date_canned>2026-04-28</date_canned>
+    <untappd_id>6682878</untappd_id>
   </item>
   <item>
     <id>6629623</id>
@@ -7249,6 +7287,25 @@
     <untappd_id>6640093</untappd_id>
   </item>
   <item>
+    <id>6576351</id>
+    <ecommerce_id>818287180</ecommerce_id>
+    <title>Rêve Cosmique</title>
+    <url>https://hopincraftbier.be/products/fauve-reve-cosmique</url>
+    <brewery_name>Fauve</brewery_name>
+    <price>3.25</price>
+    <regular_price>6,49</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/818287180/5606057674.png</image>
+    <beer_description>Here's a DDH NEIPA with an aromatic profile leaning towards citrusy and tropical freshness, driven by an intense combination of Mosaic, Idaho 7, and Citra hops. This "Cosmic Dream," brewed to coincide with the release of the graphic novel "Ariane Rêve," reveals a silky body and a distinctly hazy appearance, developing notes of exotic fruits and pink grapefruit from this galaxy of hops. It's a journey to infinity, a pure cosmic nectar to be savored in moderation. Fauve - Reve Cosmique</beer_description>
+    <beer_style>IPA - New England / Hazy</beer_style>
+    <beer_abv>6.5%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>France</brewery_country>
+    <date_best_before>2026-10-21</date_best_before>
+    <date_canned>2026-02-21</date_canned>
+    <untappd_id>6576351</untappd_id>
+  </item>
+  <item>
     <id>6577278</id>
     <ecommerce_id>818297255</ecommerce_id>
     <title>Ivoire Sombre</title>
@@ -7265,6 +7322,27 @@
     <date_best_before>2028-02-16</date_best_before>
     <date_canned>2026-02-16</date_canned>
     <untappd_id>6577278</untappd_id>
+  </item>
+  <item>
+    <id>9000000005</id>
+    <ecommerce_id>817736900</ecommerce_id>
+    <title>Factory Brewing - Factory Brewing Anniversary Quartet</title>
+    <url>https://hopincraftbier.be/products/factory-brewing-quartet-817736900</url>
+    <brewery_name>Factory Brewing</brewery_name>
+    <price>14.08</price>
+    <regular_price>30.17</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/817736900/5599576619.png</image>
+    <beer_description>The Factory Brewing - Quartet contains: - Distant ClosenessIPA - New England / Hazy | 7,3% | 440 ml - Turbid DreamsIPA - Imperial / Double New England / Hazy | 8,0% | 440 ml - Perpetual MotionIPA - Triple New England / Hazy | 10,0% | 440 ml - Eye OpenerStout - Pastry | 12,0% | 440 ml Factory Brewing - Factory Brewing Anniversary Quartet</beer_description>
+    <beer_style>Stout - IPA</beer_style>
+    <beer_abv>7 - 12%</beer_abv>
+    <beer_volume>4x440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Finland</brewery_country>
+    <date_best_before>2026-11-01</date_best_before>
+    <date_canned>2026-01-22</date_canned>
+    <beer_package_count>4</beer_package_count>
+    <beer_bundle>1</beer_bundle>
+    <bundle_skus>6574797,6574785,6574782,6574780</bundle_skus>
   </item>
   <item>
     <id>6584511</id>
@@ -8035,6 +8113,24 @@
     <untappd_id>6513873</untappd_id>
   </item>
   <item>
+    <id>6577350</id>
+    <ecommerce_id>807039742</ecommerce_id>
+    <title>8th Birthday - India Pale Ale (collab Beak)</title>
+    <url>https://hopincraftbier.be/products/pollys-8th-birthday-india-pale-ale</url>
+    <brewery_name>Polly's Brew Co.</brewery_name>
+    <price>3.38</price>
+    <regular_price>6,75</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5505408896.png</image>
+    <beer_description>POLLY'S 8th BIRTHDAY We’ve been huge fans of the wonderful Beak pretty much since they first landed on our radars - operating a similar philosophy to ourselves in largely focusing on and perfecting their pale and hoppy output, we’ve been very lucky to share festival spaces with our friends from Lewes over the last twelve months, fostering a working friendship based on mutual approaches to where modern beer is placed in 2026. Coming together to collaborate for our eighth birthday meant there could only be one style we could brew - an IPA at that magical ABV in which the sweet spot lies for both breweries. Wanting to make a conscious effort to embrace the progression of our industry with the recipe on this beer, we’ve brought no less than five hop varieties to the party; showcasing current and progressive technologies in the brewing process. With a dry hop charge of 20g/l, pushing toward DIPA levels of intensity, we’ve utilised Idaho 7 and Nelson Sauvin in their classic T90 pellet form, along with their CGX versions - the latest technology from Crosby Hops using cryogenic processes to concentrate the flavour and intensity brought to the table. With a final flourish of New Zealand Hop’s latest experimental variety NZ-106 and a whisper of Abstrax Hops Skyfarm Pineapple, the result is a pillowy soft IPA, singing with guava, mango, and passionfruit, with bright pine and citrus notes underneath. Taking the artwork on this one is local enigma Jim Jones, who leaned into the German heritage of the bauhaus Polly's - 8th Birthday - India Pale Ale</beer_description>
+    <beer_style>IPA - English</beer_style>
+    <beer_abv>6.5%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Wales</brewery_country>
+    <date_best_before>2026-10-09</date_best_before>
+    <untappd_id>6577350</untappd_id>
+  </item>
+  <item>
     <id>3039829</id>
     <ecommerce_id>806411460</ecommerce_id>
     <title>Hydra | Raspberry + Strawberry + Pink Guava</title>
@@ -8138,6 +8234,25 @@
     <untappd_id>6574780</untappd_id>
   </item>
   <item>
+    <id>6574797</id>
+    <ecommerce_id>804684039</ecommerce_id>
+    <title>Distant Closeness (collab Beak)</title>
+    <url>https://hopincraftbier.be/products/factory-distant-closeness</url>
+    <brewery_name>Factory Brewing</brewery_name>
+    <price>3.55</price>
+    <regular_price>7,10</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/804684039/5532862016.png</image>
+    <beer_description>A Hazy IPA with Citra, NZ Cascade, and Southern Cross. "With BEAK from the UK we selected a beautiful hop combination of Citra, NZ Cascade, and Southern Cross to showcase the strong citrus aromas of each hop. Alongside the citrus, you can expect notes of dankness, mango, and other stone fruits, rounded out by a pleasant grassiness." Head Brewer Jirka Ordén Factory - Distant Closeness</beer_description>
+    <beer_style>IPA - New England / Hazy</beer_style>
+    <beer_abv>7.3%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Finland</brewery_country>
+    <date_best_before>11/2026</date_best_before>
+    <date_canned>2026-01-22</date_canned>
+    <untappd_id>6574797</untappd_id>
+  </item>
+  <item>
     <id>6526650</id>
     <ecommerce_id>803521751</ecommerce_id>
     <title>George Le Crapaud (collab BreWskey)</title>
@@ -8152,6 +8267,23 @@
     <beer_package>can</beer_package>
     <brewery_country>Canada</brewery_country>
     <untappd_id>6526650</untappd_id>
+  </item>
+  <item>
+    <id>6528223</id>
+    <ecommerce_id>803521752</ecommerce_id>
+    <title>Side Eye</title>
+    <url>https://hopincraftbier.be/products/finback-side-eye</url>
+    <brewery_name>Finback Brewery</brewery_name>
+    <price>8.14</price>
+    <regular_price>9,58</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5466861245.png</image>
+    <beer_description>Dry hopped with Mosaic, Lorien, Enigma, Anchovy and HS 13459 Finback - Side Eye</beer_description>
+    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
+    <beer_abv>8.4%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>United States</brewery_country>
+    <untappd_id>6528223</untappd_id>
   </item>
   <item>
     <id>6479597</id>
@@ -8169,6 +8301,40 @@
     <brewery_country>Norway</brewery_country>
     <date_best_before>2030-10-31</date_best_before>
     <untappd_id>6479597</untappd_id>
+  </item>
+  <item>
+    <id>6524376</id>
+    <ecommerce_id>801936387</ecommerce_id>
+    <title>Didier Le Chihuaha (collab Messorem)</title>
+    <url>https://hopincraftbier.be/products/nano-cinco-didier-le-chihuaha</url>
+    <brewery_name>Nano Cinco</brewery_name>
+    <price>9.27</price>
+    <regular_price>10,91</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5466850974.png</image>
+    <beer_description>Didier le Chihuaha (Didier the Chihuahua) is a New England Triple IPA brewed with Motueka (T90 and SubZero Hop Kief), Southern Cross, and Citra hops—undoubtedly one of Messorem's favorites. This beer is rich in texture and bursting with flavor, driven by intense aromas of tropical fruit and citrus that explode on the palate. Nano Cinco - Didier Le Chihuaha</beer_description>
+    <beer_style>IPA - Triple New England / Hazy</beer_style>
+    <beer_abv>9.6%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Canada</brewery_country>
+    <untappd_id>6524376</untappd_id>
+  </item>
+  <item>
+    <id>6523930</id>
+    <ecommerce_id>801936388</ecommerce_id>
+    <title>Robert Le Chat (collab Bad Bones)</title>
+    <url>https://hopincraftbier.be/products/nano-cinco-robert-le-chat</url>
+    <brewery_name>Nano Cinco</brewery_name>
+    <price>8.71</price>
+    <regular_price>10,25</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5466861093.png</image>
+    <beer_description>Robert Le Chat (Robert the Cat) is a New England Double IPA brewed with Southern Cross and Riwaka hops (T90 and SubZero Hop Kief) from Freestyle Hops in New Zealand. An ultra-silky and ultra-aromatic beer with pronounced notes of lemon zest, lime, and kumquat. An extra hoppy ale...? Nano Cinco - Robert Le Chat</beer_description>
+    <beer_style>IPA - Imperial / Double</beer_style>
+    <beer_abv>8.5%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Canada</brewery_country>
+    <untappd_id>6523930</untappd_id>
   </item>
   <item>
     <id>5609464</id>
@@ -8220,6 +8386,23 @@
     <untappd_id>6250105</untappd_id>
   </item>
   <item>
+    <id>6516548</id>
+    <ecommerce_id>801936315</ecommerce_id>
+    <title>Gasping Dust</title>
+    <url>https://hopincraftbier.be/products/autodidact-beer-gasping-dust</url>
+    <brewery_name>Autodidact Beer</brewery_name>
+    <price>8.71</price>
+    <regular_price>10,25</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5447266765.png</image>
+    <beer_description>A bed of white wheat and oats lay a lush foundation for two of our favorite hops to coalesce and intensify. Motueka and Nelson deliver waves of lime zest, tropical fruit mélange, and ambrosial orange sorbet. Autodidact Beer - Gasping Dust</beer_description>
+    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
+    <beer_abv>8.5%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>United States</brewery_country>
+    <untappd_id>6516548</untappd_id>
+  </item>
+  <item>
     <id>6501889</id>
     <ecommerce_id>801936314</ecommerce_id>
     <title>Encore</title>
@@ -8253,6 +8436,24 @@
     <brewery_country>Canada</brewery_country>
     <date_canned>2026-01-07</date_canned>
     <untappd_id>6558377</untappd_id>
+  </item>
+  <item>
+    <id>6497918</id>
+    <ecommerce_id>798975560</ecommerce_id>
+    <title>Capitaine AMF - Le Ketch X All My Friends (collab All My Friends)</title>
+    <url>https://hopincraftbier.be/products/le-ketch-capitaine-amf-le-ketch-x-all-my-friends</url>
+    <brewery_name>Le Ketch</brewery_name>
+    <price>9.27</price>
+    <regular_price>10,91</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5409421832.png</image>
+    <beer_description>We didn't have to do much persuading to convince our new friends in Prince Edward County to brew this double NEIPA with us. We hopped this beer in equal parts with Citra and Eggers Special, an extra-strong Riwaka. And of course, a generous amount of local honey. Le Ketch - Capitaine AMF - Le Ketch X All My Friends</beer_description>
+    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
+    <beer_abv>8%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Canada</brewery_country>
+    <date_canned>2025-12-09</date_canned>
+    <untappd_id>6497918</untappd_id>
   </item>
   <item>
     <id>6480717</id>
@@ -8308,6 +8509,24 @@
     <untappd_id>6421473</untappd_id>
   </item>
   <item>
+    <id>6473817</id>
+    <ecommerce_id>797998005</ecommerce_id>
+    <title>Don't Fear the Reaper (collab Messorem)</title>
+    <url>https://hopincraftbier.be/products/counterpart-dont-fear-the-reaper</url>
+    <brewery_name>Counterpart Brewing</brewery_name>
+    <price>5.96</price>
+    <regular_price>11,91</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5409082110.png</image>
+    <beer_description>Hazy Triple IPA w/ Nelson Sauvin, Motueka &amp; Motueka Hop Kief brewed in collaboration w/ Messorem Big, juice laden flavours of sauv blanc, gooseberry, apricot, lime zest and pineapple with a balanced, candy-like sweetness. Counterpart - Don't Fear the Reaper</beer_description>
+    <beer_style>IPA - Triple New England / Hazy</beer_style>
+    <beer_abv>10%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Canada</brewery_country>
+    <date_canned>2025-10-29</date_canned>
+    <untappd_id>6473817</untappd_id>
+  </item>
+  <item>
     <id>5734470</id>
     <ecommerce_id>797998004</ecommerce_id>
     <title>IMPERIAL P-NUT BUSTER - AMANDE</title>
@@ -8323,6 +8542,74 @@
     <brewery_country>Canada</brewery_country>
     <date_canned>2025-10-28</date_canned>
     <untappd_id>5734470</untappd_id>
+  </item>
+  <item>
+    <id>6491708</id>
+    <ecommerce_id>797997506</ecommerce_id>
+    <title>YQB-N5</title>
+    <url>https://hopincraftbier.be/products/nano-cinco-yqb-n5</url>
+    <brewery_name>Nano Cinco</brewery_name>
+    <price>8.43</price>
+    <regular_price>11,24</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5409098263.png</image>
+    <beer_description>YQB-N5 is a New England Quadruple IPA brewed with Riwaka, Rakau, and Motueka hops (used in three forms: T90, Hop Kief, and Amplifire). Its name and design are a nod to the Beluga, the colossal aircraft designed to transport other aircraft. It boasts intense aromas of Sauvignon Blanc and citrus, carried by a silky, enveloping texture. A beer whose sweetness skillfully masks its alcoholic strength. Nano Cinco - YQB-N5</beer_description>
+    <beer_style>IPA - Quadruple</beer_style>
+    <beer_abv>11%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Canada</brewery_country>
+    <untappd_id>6491708</untappd_id>
+  </item>
+  <item>
+    <id>6222183</id>
+    <ecommerce_id>797997504</ecommerce_id>
+    <title>Swirlee - Raspberry Creamsicle</title>
+    <url>https://hopincraftbier.be/products/drekker-swirlee-raspberry-creamsicle</url>
+    <brewery_name>Drekker Brewing Company</brewery_name>
+    <price>8.43</price>
+    <regular_price>11,24</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5409084200.png</image>
+    <beer_description>Swirlee is a creamsicle sour series that is far beyond your wildest, swirliest dreams, but don’t you worry, we went out and scooped it all up for you. This one is a tasty pairing of a whole buncha raspberry and vanilla ice cream, and if you drink too many, your noggin might turn into an ice cream cone so enjoy responsibly! Drekker - Swirlee - Raspberry Creamsicle</beer_description>
+    <beer_style>Sour - Smoothie / Pastry</beer_style>
+    <beer_abv>6.7%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>United States</brewery_country>
+    <untappd_id>6222183</untappd_id>
+  </item>
+  <item>
+    <id>6497366</id>
+    <ecommerce_id>797998003</ecommerce_id>
+    <title>Towers</title>
+    <url>https://hopincraftbier.be/products/all-my-friends-towers</url>
+    <brewery_name>All My Friends Beer Co.</brewery_name>
+    <price>7.19</price>
+    <regular_price>9,58</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5409074477.png</image>
+    <beer_description>Towers pours a hazy golden yellow with a light cap of fluffy foam. The nose hits with sticky tropical fruit and fresh strawberries. Strata, a hop variety we have rarely used in the past is quickly becoming one of our favourites. We get delicious flavours of cotton candy, fresh berries, pithy oranges, and mild pine. The sip is zippy and refreshing, with a clean bitterness that keeps everything balanced and easy to drink. All My Friends - Towers</beer_description>
+    <beer_style>IPA - New England / Hazy</beer_style>
+    <beer_abv>6.5%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Canada</brewery_country>
+    <untappd_id>6497366</untappd_id>
+  </item>
+  <item>
+    <id>6497368</id>
+    <ecommerce_id>797997267</ecommerce_id>
+    <title>Surprise</title>
+    <url>https://hopincraftbier.be/products/all-my-friends-surprise</url>
+    <brewery_name>All My Friends Beer Co.</brewery_name>
+    <price>7.94</price>
+    <regular_price>10,58</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5409084218.png</image>
+    <beer_description>Surprise pours a light straw yellow with tight, lingering bubbles. Dank, overripe fruit hits the nose as soon as you crack the can, with hints of white wine and pineapple. Nectaron has been impressing us this year, and in this beer it doesn’t disappoint. Combined with Nelson Sauvin from Freestyle hop farms and a Mosaic that brings that classic berry note, we get huge flavours of peach, blueberry, passionfruit, and guava. All of it coasting on a wonderfully soft and creamy mouthfeel that finishes super clean. Another banger in our books. All My Friends - Surprise</beer_description>
+    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
+    <beer_abv>8.4%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Canada</brewery_country>
+    <untappd_id>6497368</untappd_id>
   </item>
   <item>
     <id>6399165</id>
@@ -8475,6 +8762,23 @@
     <untappd_id>6441702</untappd_id>
   </item>
   <item>
+    <id>6459166</id>
+    <ecommerce_id>793369573</ecommerce_id>
+    <title>P'tit Monstre (collab Nano Cinco)</title>
+    <url>https://hopincraftbier.be/products/brasserie-sir-john-ptit-monstre</url>
+    <brewery_name>Brasserie Sir John Brewing Co.</brewery_name>
+    <price>5.13</price>
+    <regular_price>10,25</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5330715457.png</image>
+    <beer_description>Every brewery has one. That slightly petty or frivolous employee who always teeters on the edge of being respectable and dishonorable. It's in honor of these little monsters of the brewing world that we've teamed up for the very first time with the Quebec City crew at Nano Cinco! Triple IPA EXXXXXTRA juicy, this beer will make your ears tingle! Hopped with NZ Cascade, Pacifica, Nelson Sauvin Bliss, Riwaka, and a generous dose of Riwaka and Nelson Sauvin hopkief, this beer is made, like Kellogg's Frosties, to unleash your inner beast! It's ridiculously smooth, with a slight piney bitterness but a lovely juicy presence reminiscent of tropical fruits! We're super proud of this beer brewed with our new buddies from Quebec City. Until the next one, CHEERS! Brasserie Sir John - P'tit Monstre</beer_description>
+    <beer_style>IPA - Triple New England / Hazy</beer_style>
+    <beer_abv>9.9%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Canada</brewery_country>
+    <untappd_id>6459166</untappd_id>
+  </item>
+  <item>
     <id>40890</id>
     <ecommerce_id>793369572</ecommerce_id>
     <title>Barrel-Aged Ten FIDY®</title>
@@ -8524,6 +8828,42 @@
     <untappd_id>6430291</untappd_id>
   </item>
   <item>
+    <id>6517160</id>
+    <ecommerce_id>793369570</ecommerce_id>
+    <title>TDH Eviscerated Pathway of Beauty</title>
+    <url>https://hopincraftbier.be/products/tired-hands-tdh-eviscerated-pathway-of-beauty</url>
+    <brewery_name>Tired Hands Brewing Company</brewery_name>
+    <price>10.4</price>
+    <regular_price>0</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/793369570/5557294558.png</image>
+    <beer_description>Triple Dry Hopped Eviscerated Pathway of Beauty is a new take on one of our favorite Double IPAs. Like classic Eviscerated, this one starts with a base of 2 row, oat malt, and flaked oats. Hopped in the kettle with Citra, and then dry hopped again, and again, and AGAIN with EVEN MORE Citra for a bright and zesty flavor experience! Notes of tangerine gummies, lychee sorbet, and overripe honeydew. Tired Hands - TDH Eviscerated Pathway of Beauty</beer_description>
+    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
+    <beer_abv>8.5%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>United States</brewery_country>
+    <date_canned>2025-11-13</date_canned>
+    <untappd_id>6517160</untappd_id>
+  </item>
+  <item>
+    <id>6454216</id>
+    <ecommerce_id>793369569</ecommerce_id>
+    <title>Avant L'effondrement</title>
+    <url>https://hopincraftbier.be/products/brasserie-sir-john-avant-leffondrement</url>
+    <brewery_name>Brasserie Sir John Brewing Co.</brewery_name>
+    <price>5.29</price>
+    <regular_price>10,58</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5330892679.png</image>
+    <beer_description>Your senses will be overwhelmed by this Quadruple IPA, which will tantalize your palate in every direction. Between the warming presence of the alcohol and the tantalizing burst of flavor from the astronomical amount of hops, this Quad IPA will give you the same sensation as the ground giving way beneath your feet, leaving you weightless. Beneath its mountain of Simcoe and Nectaron, we indulged ourselves with our favorite hop, Citra, using it in practically every form available. From regular pellets to Cryo, Incognito, Hyperboost, and Dynaboost varieties, practically all we were missing was fresh Citra in pots to have all the available options. Once blended, however, it creates a harmonious mix of sweet, dank notes of citrus zest and orange blossom on a piney base. Kudos to the artist Metafable for the label! Cheers! Brasserie Sir John - Avant L'effondrement</beer_description>
+    <beer_style>IPA - Quadruple</beer_style>
+    <beer_abv>11.5%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Canada</brewery_country>
+    <date_canned>2025-10-20</date_canned>
+    <untappd_id>6454216</untappd_id>
+  </item>
+  <item>
     <id>1029314</id>
     <ecommerce_id>793369356</ecommerce_id>
     <title>Eviscerated Pathway of Beauty</title>
@@ -8540,6 +8880,78 @@
     <brewery_country>United States</brewery_country>
     <date_canned>2025-12-02</date_canned>
     <untappd_id>1029314</untappd_id>
+  </item>
+  <item>
+    <id>6531336</id>
+    <ecommerce_id>793373326</ecommerce_id>
+    <title>Evolve Or Die (2025)</title>
+    <url>https://hopincraftbier.be/products/badlands-evolve-or-die-2025</url>
+    <brewery_name>Badlands Brewing Company</brewery_name>
+    <price>9.84</price>
+    <regular_price>11,58</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5330948949.png</image>
+    <beer_description>Our annual triple IPA where we push the hopping rates to their illogical extreme. The goal of this beer is to implement everything we’ve learned through our Dora and monthly DIPA series’. Each one is a different experiment that pushes our hoppy beer into distinctly different directions, always with the intent of making a more densely layered, and intense hop experience while still remaining soft, and endlessly drinkable. Stagnation, complacency and comfort are the enemy of progress and innovation. This is the culmination of everything we’ve learned over the past year about hoppy beer. Evolve, or die. Hopped with Citra, Mosaic, Motueka and Galaxy, this is a deeply hop saturated beer that is as undeniably cost prohibitive as it is delectably drinkable. We taste intense notes of pineapple, mango, tangerine, mojito lime, peach and tropical fruit. The hopping rate of this beer is approximately 26lbs/bbl (101g/L). Fun fact: there’s about $2.91 of hops in every can!!! Badlands - Evolve Or Die (2025)</beer_description>
+    <beer_style>IPA - Triple</beer_style>
+    <beer_abv>10%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Canada</brewery_country>
+    <date_canned>2025-12-13</date_canned>
+    <untappd_id>6531336</untappd_id>
+  </item>
+  <item>
+    <id>6172299</id>
+    <ecommerce_id>793373327</ecommerce_id>
+    <title>Slø Turbo (2025)</title>
+    <url>https://hopincraftbier.be/products/hoof-hearted-slo-turbo-2025</url>
+    <brewery_name>Hoof Hearted Brewing</brewery_name>
+    <price>7.69</price>
+    <regular_price>0</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/793373327/5330978558.png</image>
+    <beer_description>Unleaded super diesel icon 'Heavy Nelson' slides off from the stage and into the crowd. He's locked eyes on Gary and needs to strike while the lights stay low.'Pizza Pizza Pizza', he croons as a conga line grows behind him. Looking back, two thoughts occur in quick succession. The first: DIPA's hopped exclusively w/ New Zealand varietals and a laser-focus on Nelson Sauvin make all the girls want to get to know you. The second: he's only got one chance to make this right for everybody.'Heyyyy Gary from back the office who likes to order broccoli on the casual Friday staff pizza and only takes one piece for himself..' Dipa with whole cone Southern Hemisphere Hops. Hoof Hearted - Sl Turbo (2025)</beer_description>
+    <beer_style>IPA - New England / Hazy</beer_style>
+    <beer_abv>8.5%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>United States</brewery_country>
+    <date_canned>2025-11-04</date_canned>
+    <untappd_id>6172299</untappd_id>
+  </item>
+  <item>
+    <id>5641114</id>
+    <ecommerce_id>793373328</ecommerce_id>
+    <title>Les Angles Morts</title>
+    <url>https://hopincraftbier.be/products/messorem-les-angles-morts</url>
+    <brewery_name>Messorem</brewery_name>
+    <price>9.55</price>
+    <regular_price>11,24</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5330978638.png</image>
+    <beer_description>Triple IPA - Superdelic, Citra, Citra Incognito, Citra Lupomax. Many things are outside our field of vision and lurk in blind spots… In particular, the raw power of a beer that may seem relatively mild at first, but is in fact the complete opposite. This is what awaits you around the bend with this Triple IPA, featuring an explosive hopping of Superdelic, Citra, Citra Incognito, and Citra Lupomax. A new sensation from New Zealand, showcasing Citra in various forms. Messorem - Les Angles Morts</beer_description>
+    <beer_style>IPA - Triple New England / Hazy</beer_style>
+    <beer_abv>10%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Canada</brewery_country>
+    <date_canned>2025-11-24</date_canned>
+    <untappd_id>5641114</untappd_id>
+  </item>
+  <item>
+    <id>6503011</id>
+    <ecommerce_id>793369355</ecommerce_id>
+    <title>Bad Moon Rising (2025) (collab Third Moon)</title>
+    <url>https://hopincraftbier.be/products/badlands-bad-moon-rising-2025</url>
+    <brewery_name>Badlands Brewing Company</brewery_name>
+    <price>8.18</price>
+    <regular_price>10,91</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5330943701.png</image>
+    <beer_description>We got together with our friends at Third Moon to brew a DIPA! For our version we used Third Moons typical DIPA malt base, and then brewed the beer with our equipment and processes. This beer was brewed with Cascade hops grown in three different regions (Washington, Australia and Ontario), technically making this a Cascade single hop beer. However, every regions Cascade presents so differently. It’s incredibly cool to be able to open three different hop bags from three different growing regions, of the same hop cultivar, and get three totally different aromas, all of which are excellent in their own right. This is Cascade, in all its classic, timeless, and multi-faceted beauty. Badlands - Bad Moon Rising (2025)</beer_description>
+    <beer_style>IPA - Imperial / Double</beer_style>
+    <beer_abv>8.2%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Canada</brewery_country>
+    <date_canned>2025-11-26</date_canned>
+    <untappd_id>6503011</untappd_id>
   </item>
   <item>
     <id>6423947</id>
@@ -8627,6 +9039,23 @@
     <untappd_id>6451740</untappd_id>
   </item>
   <item>
+    <id>6424109</id>
+    <ecommerce_id>788856433</ecommerce_id>
+    <title>Imposing Will</title>
+    <url>https://hopincraftbier.be/products/autodidact-beer-imposing-will</url>
+    <brewery_name>Autodidact Beer</brewery_name>
+    <price>7</price>
+    <regular_price>0</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/788856433/5260880874.webp</image>
+    <beer_description>with Garston Hops Riwaka and Nelson Sauvin Autodidact Beer - Imposing Will</beer_description>
+    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
+    <beer_abv>8.1%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>United States</brewery_country>
+    <untappd_id>6424109</untappd_id>
+  </item>
+  <item>
     <id>6448002</id>
     <ecommerce_id>787872583</ecommerce_id>
     <title>The Way Is Shut</title>
@@ -8644,6 +9073,42 @@
     <untappd_id>6448002</untappd_id>
   </item>
   <item>
+    <id>6447706</id>
+    <ecommerce_id>787872546</ecommerce_id>
+    <title>Kiss The Ring (collab Rivington)</title>
+    <url>https://hopincraftbier.be/products/prizm-kiss-the-ring</url>
+    <brewery_name>Prizm Brewing Co.</brewery_name>
+    <price>3.49</price>
+    <regular_price>6,97</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5249404304.png</image>
+    <beer_description>This time, we've teamed up with our friends at Rivington to release a DDH Double NEIPA that's dense, fruity, and super expressive. A big 8% juice, in the same vein as our best-selling Pareto. Citra &amp; Nectaron put on a show with a tropical palette, while Simcoe provides balance and structure. Smooth texture, almost no bitterness, XXL juice—drinkable like a caress, at 8%. Prizm - Kiss The Ring</beer_description>
+    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
+    <beer_abv>8%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>France</brewery_country>
+    <date_best_before>11/2026</date_best_before>
+    <untappd_id>6447706</untappd_id>
+  </item>
+  <item>
+    <id>4478126</id>
+    <ecommerce_id>787747547</ecommerce_id>
+    <title>Fuzz Effect</title>
+    <url>https://hopincraftbier.be/products/trillium-fuzz-effect</url>
+    <brewery_name>Trillium Brewing Company</brewery_name>
+    <price>8.18</price>
+    <regular_price>0</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/787747547/5260631812.webp</image>
+    <beer_description>Pouring a hazy, golden yellow, Fuzz Effect's juicy aroma leaps from the glass. Notes of a lush tropical smoothie, fresh-pressed white grape juice, and lychee sorbet race across the palate. Each sip is silky, coating the tongue with uncut hop delight. With just enough sweetness to complement the waves of fruit aromatics, Fuzz Effect finishes gently bitter and highly satisfying. Trillium - Fuzz Effect</beer_description>
+    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
+    <beer_abv>8%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>United States</brewery_country>
+    <date_canned>2025-11-11</date_canned>
+    <untappd_id>4478126</untappd_id>
+  </item>
+  <item>
     <id>6379068</id>
     <ecommerce_id>787747052</ecommerce_id>
     <title>16th Anniversary – Barrel-Aged Barleywine Ale (2025)</title>
@@ -8658,6 +9123,41 @@
     <beer_package>bottle</beer_package>
     <brewery_country>United States</brewery_country>
     <untappd_id>6379068</untappd_id>
+  </item>
+  <item>
+    <id>4214697</id>
+    <ecommerce_id>787743586</ecommerce_id>
+    <title>Natural Flavors (Tangerine)</title>
+    <url>https://hopincraftbier.be/products/frequentem-natural-flavors-tangerine</url>
+    <brewery_name>Frequentem Brewing Co.</brewery_name>
+    <price>4.96</price>
+    <regular_price>0</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/787743586/5260644589.webp</image>
+    <beer_description>Kettle Soured, Azacca &amp; Idaho 7, Tangerine Frequentem - Natural Flavors (Tangerine)</beer_description>
+    <beer_style>IPA - Sour</beer_style>
+    <beer_abv>6.5%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>United States</brewery_country>
+    <untappd_id>4214697</untappd_id>
+  </item>
+  <item>
+    <id>6393502</id>
+    <ecommerce_id>787743585</ecommerce_id>
+    <title>Willibald - Mania!</title>
+    <url>https://hopincraftbier.be/products/willibald-mania</url>
+    <brewery_name>Willibald Farm Distillery &amp; Brewery</brewery_name>
+    <price>4.96</price>
+    <regular_price>9,92</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/787743585/5260616558.webp</image>
+    <beer_description>Triple IPA with Citra, Mosaic, and Krush Hyperboost. Willibald Farm Distillery &amp; - Mania!</beer_description>
+    <beer_style>IPA - Triple New England / Hazy</beer_style>
+    <beer_abv>10%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Canada</brewery_country>
+    <date_canned>10/2025</date_canned>
+    <untappd_id>6393502</untappd_id>
   </item>
   <item>
     <id>6421716</id>
@@ -8776,6 +9276,24 @@
     <brewery_country>France</brewery_country>
     <date_best_before>2027-06-19</date_best_before>
     <untappd_id>6314891</untappd_id>
+  </item>
+  <item>
+    <id>6059732</id>
+    <ecommerce_id>778813134</ecommerce_id>
+    <title>Les Fleurs Du Mal (collab Xul)</title>
+    <url>https://hopincraftbier.be/products/brasserie-du-bas-canada-les-fleurs-du-mal</url>
+    <brewery_name>Brasserie du Bas-Canada</brewery_name>
+    <price>8.99</price>
+    <regular_price>11,99</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5260881836.webp</image>
+    <beer_description>Collaboration avec Xul Beer Co. - Triple IPA aux houblons Citra, Peacharine, Rakau, Kohia Nelson, Citra Incognito &amp; Citra Hyber Boost Brasserie du Bas-Canada - Les Fleurs Du Mal</beer_description>
+    <beer_style>IPA - Triple</beer_style>
+    <beer_abv>10%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Canada</brewery_country>
+    <date_canned>2025-09-24</date_canned>
+    <untappd_id>6059732</untappd_id>
   </item>
   <item>
     <id>4886997</id>
@@ -8954,6 +9472,24 @@
     <brewery_country>Sweden</brewery_country>
     <date_best_before>2035-02-26</date_best_before>
     <untappd_id>6187809</untappd_id>
+  </item>
+  <item>
+    <id>6250418</id>
+    <ecommerce_id>756989446</ecommerce_id>
+    <title>Bistro Peach Strawberry Rhubarb Cobbler</title>
+    <url>https://hopincraftbier.be/products/energy-city-bistro-peach-strawberry-rhubarb-cobbler</url>
+    <brewery_name>Energy City Brewing</brewery_name>
+    <price>5.61</price>
+    <regular_price>0</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/756989446/4965680245.webp</image>
+    <beer_description>Berliner style weisse beer with peaches, strawberries, rhubarb, cinnamon &amp; vanilla. Energy City - Bistro Peach Strawberry Rhubarb Cobbler</beer_description>
+    <beer_style>Sour - Fruited Berliner Weisse</beer_style>
+    <beer_abv>6.5%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>United States</brewery_country>
+    <date_best_before>2026-10-24</date_best_before>
+    <untappd_id>6250418</untappd_id>
   </item>
   <item>
     <id>6240932</id>
@@ -9164,6 +9700,6 @@
     <date_canned>2025-03-03</date_canned>
     <untappd_id>6180169</untappd_id>
   </item>
-  <timestamp>1794135960</timestamp>
-  <gen_date>08/11/2026 12:06:00</gen_date>
+  <timestamp>1794152707</timestamp>
+  <gen_date>08/11/2026 16:45:07</gen_date>
 </feed>
