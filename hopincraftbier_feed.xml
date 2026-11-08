@@ -37,20 +37,21 @@
     <untappd_id>6874567</untappd_id>
   </item>
   <item>
-    <id>8000000270</id>
+    <id>7665095</id>
     <ecommerce_id>875588005</ecommerce_id>
     <title>Latitude</title>
     <url>https://hopincraftbier.be/products/bracket-latitude</url>
     <brewery_name>Bracket Brewing</brewery_name>
     <price>12.66</price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/875588005/6386089630.png</image>
-    <beer_description>Triple IPA. Hops: Riwaka | Rakau | Southern X Bracket Brewing - Latitude</beer_description>
+    <beer_description>Bracket Brewing - Latitude</beer_description>
     <beer_style>IPA - Triple</beer_style>
-    <beer_abv>?%</beer_abv>
+    <beer_abv>0%</beer_abv>
     <beer_volume>440 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>Australia</brewery_country>
     <date_best_before>2027-04-20</date_best_before>
+    <untappd_id>7665095</untappd_id>
   </item>
   <item>
     <id>6878613</id>
@@ -9692,6 +9693,6 @@
     <date_canned>2025-03-03</date_canned>
     <untappd_id>6180169</untappd_id>
   </item>
-  <timestamp>1794000607</timestamp>
-  <gen_date>06/11/2026 22:30:07</gen_date>
+  <timestamp>1794121207</timestamp>
+  <gen_date>08/11/2026 08:00:07</gen_date>
 </feed>
