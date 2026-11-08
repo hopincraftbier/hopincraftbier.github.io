@@ -9509,7 +9509,8 @@
     <title>BA Sticky Situation (collab Bolero Snort)</title>
     <url>https://hopincraftbier.be/products/imprint-ba-sticky-situation</url>
     <brewery_name>Imprint Beer Co.</brewery_name>
-    <price>33.3</price>
+    <price>28.31</price>
+    <regular_price>33,30</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/4966155193.webp</image>
     <beer_description>We teamed up with our best buds @bolerosnort 18 months ago to make this decadent imperial pastry stout. We then rested it in Heaven Hill barrels for 17 months, then conditioned this in our lil spin bot over hundreds of pounds of Thai bananas and monkey rolls. Bring napkins. Imprint - BA Sticky Situation</beer_description>
     <beer_style>Stout - Pastry</beer_style>
@@ -9693,6 +9694,6 @@
     <date_canned>2025-03-03</date_canned>
     <untappd_id>6180169</untappd_id>
   </item>
-  <timestamp>1794121207</timestamp>
-  <gen_date>08/11/2026 08:00:07</gen_date>
+  <timestamp>1794128407</timestamp>
+  <gen_date>08/11/2026 10:00:07</gen_date>
 </feed>
