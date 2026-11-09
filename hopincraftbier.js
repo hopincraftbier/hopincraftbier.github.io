@@ -1,4 +1,4 @@
-const version = 'v8.11';
+const version = 'v8.12';
 let currentLanguage;
 
 const txtNl1 = '<div class="dtooltip"><p class="hover question">Kortingscoupon</p><p class="dtooltiptext">Afhankelijk van de gekozen betaling en levering, kunt u een kortingscoupon krijgen die te gebruiken is bij een volgende bestelling. Voor dit bier ziet u de bedragen in deze tabel</p></div><table class="discount-table"><thead><tr class="first_header"><th></th><th colspan="2">Manier van levering</th></tr><tr><th>Manier van betaling</th><th>Afhaling</th><th>Levering</th></tr></thead><tbody><tr><td class="header">Betalen bij afhaling</td><td>€ ';
@@ -611,9 +611,9 @@ untappdBadge.innerHTML =
     document.head.appendChild(style);
 })();
 
-function getVerpakking(productId) {
-    if (verpakkingCache.has(productId)) {
-        return Promise.resolve(verpakkingCache.get(productId));
+function getProductInfo(productId) {
+    if (productInfoCache.has(productId)) {
+        return Promise.resolve(productInfoCache.get(productId));
     }
     return Promise.resolve($.ajax({
         type: "GET",
@@ -621,16 +621,29 @@ function getVerpakking(productId) {
             "?responseFields=id,attributes",
         dataType: "json",
         headers: {
-            'Cache-Control': 'no-cache',
-            'Authorization': 'Bearer ' + atob(RANDOMIZER).replace('[','').replace(']', ''),
-        },
+            "Cache-Control": "no-cache",
+            "Authorization": "Bearer YOUR_TOKEN"
+        }
     })).then(function (resp) {
         let verpakking = null;
+        let units = 1;
+
         (resp.attributes || []).forEach(function (attr) {
-            if (attr.name === "Verpakking") verpakking = attr.value;
+            const name = String(attr.name || "").trim().toLowerCase();
+            if (name === "verpakking") {
+                verpakking = String(attr.value || "").trim();
+            } else if (name === "bundle_skus") {
+                const ids = String(attr.value || "")
+                    .split(",")
+                    .map(function (s) { return s.trim(); })
+                    .filter(Boolean);
+                if (ids.length > 0) units = ids.length;
+            }
         });
-        verpakkingCache.set(productId, verpakking);
-        return verpakking;
+
+        const info = { verpakking: verpakking, units: units };
+        productInfoCache.set(productId, info);
+        return info;
     });
 }
 
@@ -1239,6 +1252,9 @@ function getMultiplier(cart) {
     return Math.max(1, Math.floor(cart.total / threshold) - 1);
 }
 
+// productId -> { verpakking, units }
+const productInfoCache = new Map();
+
 function validateCartLimit(cart) {
     if (cart.shippingMethod && (cart.shippingMethod === 'Zelf ophalen' || cart.shippingMethod === 'Pick up yourself'
             || cart.shippingMethod === 'Reservaties'  || cart.shippingMethod === 'Reservations')) {
@@ -1260,12 +1276,12 @@ function validateCartLimit(cart) {
     const multiplier = getMultiplier(cart);
     const MAX = BASE_MAX * multiplier;
 
-    // even if every unit were the heaviest type, the cart couldn't exceed MAX
-    if (cart.productsQuantity * heaviest <= MAX) return;
-
     Promise.all(cart.items.map(function (it) {
-        return getVerpakking(it.product.id).then(function (verpakking) {
-            return { verpakking: verpakking, quantity: it.quantity };
+        return getProductInfo(it.product.id).then(function (info) {
+            return {
+                verpakking: info.verpakking,
+                count: it.quantity * info.units
+            };
         });
     })).then(function (lines) {
         let blik = 0, fles = 0;
