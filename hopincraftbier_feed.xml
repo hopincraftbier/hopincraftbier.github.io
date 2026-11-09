@@ -5,6 +5,27 @@
   <link>https://hopincraftbier.be</link>
   <description>Hop In Craftbier Products feed</description>
   <item>
+    <id>9000000063</id>
+    <ecommerce_id>876714804</ecommerce_id>
+    <title>Verdant Brewing Co - Quartet</title>
+    <url>https://hopincraftbier.be/products/verdant-brewing-co-quartet</url>
+    <brewery_name>Verdant Brewing Co</brewery_name>
+    <price>15.88</price>
+    <regular_price>35.28</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/876714804/6395292196.png</image>
+    <beer_description>The Verdant Brewing Co - Quartet contains: - Verdant - Flux: Phase 5IPA - New England / Hazy | 6,5% | 440 ml - Verdant - The Doorway EffectIPA - Imperial / Double New England / Hazy | 8% | 440 ml - Verdant - Flux: Phase 6IPA - Imperial / Double New England / Hazy | 8% | 440 ml - Verdant - SidewaysIPA - Imperial / Double New England / Hazy | 8% | 440 ml</beer_description>
+    <beer_style>IPA</beer_style>
+    <beer_abv>6 - 8%</beer_abv>
+    <beer_volume>4x440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>England</brewery_country>
+    <date_best_before>2026-10-19</date_best_before>
+    <date_canned>2026-04-27</date_canned>
+    <beer_package_count>4</beer_package_count>
+    <beer_bundle>1</beer_bundle>
+    <bundle_skus>6708375,6690768,6708378,6682878</bundle_skus>
+  </item>
+  <item>
     <id>9000000062</id>
     <ecommerce_id>876711312</ecommerce_id>
     <title>Energy City Brewing - Pair</title>
@@ -9780,6 +9801,6 @@
     <date_canned>2025-03-03</date_canned>
     <untappd_id>6180169</untappd_id>
   </item>
-  <timestamp>1794208506</timestamp>
-  <gen_date>09/11/2026 08:15:06</gen_date>
+  <timestamp>1794211206</timestamp>
+  <gen_date>09/11/2026 09:00:06</gen_date>
 </feed>
