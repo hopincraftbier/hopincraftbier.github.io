@@ -5,6 +5,26 @@
   <link>https://hopincraftbier.be</link>
   <description>Hop In Craftbier Products feed</description>
   <item>
+    <id>9000000062</id>
+    <ecommerce_id>876711312</ecommerce_id>
+    <title>Energy City Brewing - Pair</title>
+    <url>https://hopincraftbier.be/products/energy-city-brewing-pair</url>
+    <brewery_name>Energy City Brewing</brewery_name>
+    <price>10.1</price>
+    <regular_price>22.44</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/876711312/6395263606.png</image>
+    <beer_description>The Energy City Brewing - Pair contains: - Energy City - Bistro Peach Strawberry Rhubarb CobblerSour - Fruited Berliner Weisse | 6,5% | 473 ml - Energy City - Bistro Cabana Watermelon &amp; PomegranateSour - Fruited Berliner Weisse | 6,5% | 473 ml</beer_description>
+    <beer_style>Sour</beer_style>
+    <beer_abv>6%</beer_abv>
+    <beer_volume>2x473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>United States</brewery_country>
+    <date_best_before>2026-10-24</date_best_before>
+    <beer_package_count>2</beer_package_count>
+    <beer_bundle>1</beer_bundle>
+    <bundle_skus>6250418,6253097</bundle_skus>
+  </item>
+  <item>
     <id>9000000060</id>
     <ecommerce_id>876714795</ecommerce_id>
     <title>Prizm Brewing Co. - Quartet 2</title>
@@ -9760,6 +9780,6 @@
     <date_canned>2025-03-03</date_canned>
     <untappd_id>6180169</untappd_id>
   </item>
-  <timestamp>1794207606</timestamp>
-  <gen_date>09/11/2026 08:00:06</gen_date>
+  <timestamp>1794208506</timestamp>
+  <gen_date>09/11/2026 08:15:06</gen_date>
 </feed>
