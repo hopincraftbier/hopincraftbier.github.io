@@ -551,20 +551,20 @@
     <untappd_id>7537090</untappd_id>
   </item>
   <item>
-    <id>6782160</id>
+    <id>7222252</id>
     <ecommerce_id>870502859</ecommerce_id>
-    <title>Nuclear Mysticism (collab TEST)</title>
-    <url>https://hopincraftbier.be/products/test-nuclear-mysticism</url>
+    <title>Nuclear Mysticism (Church Version) (collab TEST)</title>
+    <url>https://hopincraftbier.be/products/omnipollo-nuclear-mysticism-church-version</url>
     <brewery_name>Omnipollo</brewery_name>
     <price>9.96</price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/870502859/6315617207.png</image>
-    <beer_description>Citra, Nelson, Riwaka on barley, wheat and oats; In collaboration with Test TEST - Nuclear Mysticism</beer_description>
-    <beer_style>IPA - Triple New England / Hazy</beer_style>
+    <beer_description>A complete but soft explosion of our favorite hop varieties. We love TEST (Brooklyn) and can taste their spirit in every sip. Cheers and please enjoy. Omnipollo - Nuclear Mysticism (Church Version)</beer_description>
+    <beer_style>IPA - Triple</beer_style>
     <beer_abv>10%</beer_abv>
     <beer_volume>440 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>Sweden</brewery_country>
-    <untappd_id>6782160</untappd_id>
+    <untappd_id>7222252</untappd_id>
   </item>
   <item>
     <id>6918554</id>
@@ -9875,6 +9875,6 @@
     <date_canned>2025-03-03</date_canned>
     <untappd_id>6180169</untappd_id>
   </item>
-  <timestamp>1794302106</timestamp>
-  <gen_date>10/11/2026 10:15:06</gen_date>
+  <timestamp>1794302220</timestamp>
+  <gen_date>10/11/2026 10:17:00</gen_date>
 </feed>
