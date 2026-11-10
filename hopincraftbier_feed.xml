@@ -5,6 +5,27 @@
   <link>https://hopincraftbier.be</link>
   <description>Hop In Craftbier Products feed</description>
   <item>
+    <id>9000000065</id>
+    <ecommerce_id>876952791</ecommerce_id>
+    <title>DosKiwis - Triplet</title>
+    <url>https://hopincraftbier.be/products/doskiwis-triplet</url>
+    <brewery_name>DosKiwis</brewery_name>
+    <price>14.19</price>
+    <regular_price>20.27</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/876952791/6397044141.png</image>
+    <beer_description>The DosKiwis - Triplet contains: - AltitudeIPA - New England / Hazy | 6,7% | 440 ml - SiderealIPA - Other | 7% | 440 ml - SunshakeIPA - English | 8% | 440 ml</beer_description>
+    <beer_style>IPA</beer_style>
+    <beer_abv>6 - 8%</beer_abv>
+    <beer_volume>3x440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Spain</brewery_country>
+    <date_best_before>2026-11-21</date_best_before>
+    <date_canned>2026-05-21</date_canned>
+    <beer_package_count>3</beer_package_count>
+    <beer_bundle>1</beer_bundle>
+    <bundle_skus>6706758,6706759,6725364</bundle_skus>
+  </item>
+  <item>
     <id>9000000064</id>
     <ecommerce_id>876714816</ecommerce_id>
     <title>Verdant Brewing Co - Triplet</title>
@@ -9709,6 +9730,6 @@
     <date_canned>2025-03-03</date_canned>
     <untappd_id>6180169</untappd_id>
   </item>
-  <timestamp>1794229208</timestamp>
-  <gen_date>09/11/2026 14:00:08</gen_date>
+  <timestamp>1794295810</timestamp>
+  <gen_date>10/11/2026 08:30:10</gen_date>
 </feed>
