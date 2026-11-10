@@ -5,6 +5,46 @@
   <link>https://hopincraftbier.be</link>
   <description>Hop In Craftbier Products feed</description>
   <item>
+    <id>9000000069</id>
+    <ecommerce_id>876962509</ecommerce_id>
+    <title>Fauve - DIPA Pair</title>
+    <url>https://hopincraftbier.be/products/fauve-dipa-pair</url>
+    <brewery_name>Fauve</brewery_name>
+    <price>9.94</price>
+    <regular_price>14.2</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/876962509/6397087547.png</image>
+    <beer_description>The Fauve - Pair contains: - Hommage aux Cent PontsIPA - Imperial / Double New England / Hazy | 7,5% | 440 ml - L'Éveil Des GéantsIPA - Imperial / Double | 8% | 440 ml</beer_description>
+    <beer_style>IPA</beer_style>
+    <beer_abv>7 - 8%</beer_abv>
+    <beer_volume>2x440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>France</brewery_country>
+    <date_best_before>2026-11-17</date_best_before>
+    <beer_package_count>2</beer_package_count>
+    <beer_bundle>1</beer_bundle>
+    <bundle_skus>6622277,6591597</bundle_skus>
+  </item>
+  <item>
+    <id>9000000068</id>
+    <ecommerce_id>876957972</ecommerce_id>
+    <title>Fauve - Quartet</title>
+    <url>https://hopincraftbier.be/products/fauve-quartet</url>
+    <brewery_name>Fauve</brewery_name>
+    <price>20.62</price>
+    <regular_price>29.45</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/876957972/6397077134.png</image>
+    <beer_description>The Fauve - Quartet contains: - Hommage aux Cent PontsIPA - Imperial / Double New England / Hazy | 7,5% | 440 ml - Quelque Chose Qui Danse En ToiIPA - Imperial / Double | 7,7% | 440 ml - L'Éveil Des GéantsIPA - Imperial / Double | 8% | 440 ml - Où Chante Une RivièreStout - Imperial / Double Pastry | 12% | 330 ml</beer_description>
+    <beer_style>Stout - IPA</beer_style>
+    <beer_abv>7 - 12%</beer_abv>
+    <beer_volume>Mix</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>France</brewery_country>
+    <date_best_before>2026-11-17</date_best_before>
+    <beer_package_count>4</beer_package_count>
+    <beer_bundle>1</beer_bundle>
+    <bundle_skus>6622277,6622304,6591597,6596594</bundle_skus>
+  </item>
+  <item>
     <id>9000000067</id>
     <ecommerce_id>876962504</ecommerce_id>
     <title>Fauve - Stout Pair</title>
@@ -9718,6 +9758,6 @@
     <date_canned>2025-03-03</date_canned>
     <untappd_id>6180169</untappd_id>
   </item>
-  <timestamp>1794297606</timestamp>
-  <gen_date>10/11/2026 09:00:06</gen_date>
+  <timestamp>1794299406</timestamp>
+  <gen_date>10/11/2026 09:30:06</gen_date>
 </feed>
