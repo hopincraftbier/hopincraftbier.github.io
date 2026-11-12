@@ -5,6 +5,45 @@
   <link>https://hopincraftbier.be</link>
   <description>Hop In Craftbier Products feed</description>
   <item>
+    <id>9000000076</id>
+    <ecommerce_id>877445960</ecommerce_id>
+    <title>Les Intenables - Cosmic Series 2026 Quartet</title>
+    <url>https://hopincraftbier.be/products/les-intenables-cosmic-series-2026-quartet-877445960</url>
+    <brewery_name>Les Intenables - Craft Beer</brewery_name>
+    <price>25.65</price>
+    <regular_price>27</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/877445960/6403416794.png</image>
+    <beer_description>The Les Intenables - Cosmic Series 2026 Quartet contains: - Les Intenables - Cosmic Series 2026 [1/4]IPA - Imperial / Double New England / Hazy | 8% | 440 ml Hop: Dolcita - Les Intenables - Cosmic Series 2026 [2/4]IPA - Imperial / Double New England / Hazy | 8% | 440 ml Hop: Galaxy - Les Intenables - Cosmic Series 2026 [3/4]IPA - Imperial / Double New England / Hazy | 8% | 440 ml Hop: Simcoe - Les Intenables - Cosmic Series 2026 [4/4]IPA - Imperial / Double New England / Hazy | 8% | 440 ml Hop: Sorachi Ace</beer_description>
+    <beer_style>IPA</beer_style>
+    <beer_abv>8%</beer_abv>
+    <beer_volume>4x440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>France</brewery_country>
+    <date_best_before>2027-11-01</date_best_before>
+    <beer_package_count>4</beer_package_count>
+    <beer_bundle>1</beer_bundle>
+    <bundle_skus>7649072,7649065,7649074,7649067</bundle_skus>
+  </item>
+  <item>
+    <id>9000000074</id>
+    <ecommerce_id>877326332</ecommerce_id>
+    <title>Dois Corvos - Quartet</title>
+    <url>https://hopincraftbier.be/products/dois-corvos-quartet</url>
+    <brewery_name>Dois Corvos</brewery_name>
+    <price>27.19</price>
+    <regular_price>28.62</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/877326332/6403416952.png</image>
+    <beer_description>The Dois Corvos - Quartet contains: - Cream of the CropIPA - Oat Cream | 6,5% | 440 ml - Onze Upon a TimeIPA - Imperial / Double New England / Hazy | 8,0% | 440 ml - Still Life With Bolo De BolachaStout - Imperial / Double Pastry | 10% | 440 ml - Night SnackingStout - Imperial / Double Pastry | 10,5% | 440 ml</beer_description>
+    <beer_style>Stout - IPA</beer_style>
+    <beer_abv>6 - 10%</beer_abv>
+    <beer_volume>4x440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Spain</brewery_country>
+    <beer_package_count>4</beer_package_count>
+    <beer_bundle>1</beer_bundle>
+    <bundle_skus>6918978,6918048,7210956,7538751</bundle_skus>
+  </item>
+  <item>
     <id>9000000071</id>
     <ecommerce_id>877001252</ecommerce_id>
     <title>Track Brewing Company - Triplet</title>
@@ -584,7 +623,7 @@
     <brewery_name>Les Intenables - Craft Beer</brewery_name>
     <price>6.75</price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/870518770/6384087029.png</image>
-    <beer_description>Hop: Sorachi Ace 1 recipe, 4 versions to discover the aroma of hops, catch them all! So, are you a hop pro or a hop tourist? Hop varieties: 1/4 - Red: Dolcita 2/4 - Green: Galaxy 3/4 - Purple: Simcoe 4/4 - Blue: Sorachi Ace Les Intenables - Craft Beer - Cosmic Series 2026 [4/4]</beer_description>
+    <beer_description>Hop: Sorachi Ace 1 recipe, 4 versions to discover the aroma of hops, catch them all! So, are you a hop pro or a hop tourist? The scratch-off panels conceale the hop names. Hop varieties: 1/4 - Red: Dolcita 2/4 - Green: Galaxy 3/4 - Purple: Simcoe 4/4 - Blue: Sorachi Ace Les Intenables - Craft Beer - Cosmic Series 2026 [4/4]</beer_description>
     <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
     <beer_abv>8%</beer_abv>
     <beer_volume>440 ml</beer_volume>
@@ -601,7 +640,7 @@
     <brewery_name>Les Intenables - Craft Beer</brewery_name>
     <price>6.75</price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/870518769/6381322034.png</image>
-    <beer_description>Hop: Simcoe 1 recipe, 4 versions to discover the aroma of hops, catch them all! So, are you a hop pro or a hop tourist? Hop varieties: 1/4 - Red: Dolcita 2/4 - Green: Galaxy 3/4 - Purple: Simcoe 4/4 - Blue: Sorachi Ace Les Intenables - Craft Beer - Cosmic Series 2026 [3/4]</beer_description>
+    <beer_description>Hop: Simcoe 1 recipe, 4 versions to discover the aroma of hops, catch them all! So, are you a hop pro or a hop tourist? The scratch-off panels conceale the hop names. Hop varieties: 1/4 - Red: Dolcita 2/4 - Green: Galaxy 3/4 - Purple: Simcoe 4/4 - Blue: Sorachi Ace Les Intenables - Craft Beer - Cosmic Series 2026 [3/4]</beer_description>
     <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
     <beer_abv>8%</beer_abv>
     <beer_volume>440 ml</beer_volume>
@@ -618,7 +657,7 @@
     <brewery_name>Les Intenables - Craft Beer</brewery_name>
     <price>6.75</price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/870518768/6378201819.png</image>
-    <beer_description>Hop: Galaxy 1 recipe, 4 versions to discover the aroma of hops, catch them all! So, are you a hop pro or a hop tourist? Hop varieties: 1/4 - Red: Dolcita 2/4 - Green: Galaxy 3/4 - Purple: Simcoe 4/4 - Blue: Sorachi Ace Les Intenables - Craft Beer - Cosmic Series 2026 [2/4]</beer_description>
+    <beer_description>Hop: Galaxy 1 recipe, 4 versions to discover the aroma of hops, catch them all! So, are you a hop pro or a hop tourist? The scratch-off panels conceale the hop names. Hop varieties: 1/4 - Red: Dolcita 2/4 - Green: Galaxy 3/4 - Purple: Simcoe 4/4 - Blue: Sorachi Ace Les Intenables - Craft Beer - Cosmic Series 2026 [2/4]</beer_description>
     <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
     <beer_abv>8%</beer_abv>
     <beer_volume>440 ml</beer_volume>
@@ -635,7 +674,7 @@
     <brewery_name>Les Intenables - Craft Beer</brewery_name>
     <price>6.75</price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/870518767/6378166198.png</image>
-    <beer_description>Hop: Dolcita 1 recipe, 4 versions to discover the aroma of hops, catch them all! So, are you a hop pro or a hop tourist? Hop varieties: 1/4 - Red: Dolcita 2/4 - Green: Galaxy 3/4 - Purple: Simcoe 4/4 - Blue: Sorachi Ace Les Intenables - Craft Beer - Cosmic Series 2026 [1/4]</beer_description>
+    <beer_description>Hop: Dolcita 1 recipe, 4 versions to discover the aroma of hops, catch them all! So, are you a hop pro or a hop tourist? The scratch-off panels conceale the hop names. Hop varieties: 1/4 - Red: Dolcita 2/4 - Green: Galaxy 3/4 - Purple: Simcoe 4/4 - Blue: Sorachi Ace Les Intenables - Craft Beer - Cosmic Series 2026 [1/4]</beer_description>
     <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
     <beer_abv>8%</beer_abv>
     <beer_volume>440 ml</beer_volume>
@@ -10164,6 +10203,6 @@
     <date_canned>2025-03-03</date_canned>
     <untappd_id>6180169</untappd_id>
   </item>
-  <timestamp>1794470120</timestamp>
-  <gen_date>12/11/2026 08:55:20</gen_date>
+  <timestamp>1794471307</timestamp>
+  <gen_date>12/11/2026 09:15:07</gen_date>
 </feed>
