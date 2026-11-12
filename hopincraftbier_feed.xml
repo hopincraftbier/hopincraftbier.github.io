@@ -1146,6 +1146,7 @@
     <beer_volume>440 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>Spain</brewery_country>
+    <date_best_before>06/2027</date_best_before>
     <untappd_id>6918048</untappd_id>
   </item>
   <item>
@@ -10061,6 +10062,6 @@
     <date_canned>2025-03-03</date_canned>
     <untappd_id>6180169</untappd_id>
   </item>
-  <timestamp>1794468608</timestamp>
-  <gen_date>12/11/2026 08:30:08</gen_date>
+  <timestamp>1794469507</timestamp>
+  <gen_date>12/11/2026 08:45:07</gen_date>
 </feed>
