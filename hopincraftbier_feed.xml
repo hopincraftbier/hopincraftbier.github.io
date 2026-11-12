@@ -606,6 +606,8 @@
     <beer_volume>500 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>Poland</brewery_country>
+    <date_best_before>2027-09-29</date_best_before>
+    <date_canned>2026-09-29</date_canned>
     <untappd_id>6921726</untappd_id>
   </item>
   <item>
@@ -622,6 +624,8 @@
     <beer_volume>500 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>Poland</brewery_country>
+    <date_best_before>2027-10-05</date_best_before>
+    <date_canned>2026-10-05</date_canned>
     <untappd_id>7018933</untappd_id>
   </item>
   <item>
@@ -638,6 +642,8 @@
     <beer_volume>500 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>Poland</brewery_country>
+    <date_best_before>0207-10-05</date_best_before>
+    <date_canned>2026-10-05</date_canned>
     <untappd_id>7018934</untappd_id>
   </item>
   <item>
@@ -654,6 +660,8 @@
     <beer_volume>500 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>Poland</brewery_country>
+    <date_best_before>2027-09-29</date_best_before>
+    <date_canned>2026-09-29</date_canned>
     <untappd_id>6914829</untappd_id>
   </item>
   <item>
@@ -670,6 +678,8 @@
     <beer_volume>500 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>Poland</brewery_country>
+    <date_best_before>2027-03-25</date_best_before>
+    <date_canned>2026-09-25</date_canned>
     <untappd_id>7002494</untappd_id>
   </item>
   <item>
@@ -10064,6 +10074,6 @@
     <date_canned>2025-03-03</date_canned>
     <untappd_id>6180169</untappd_id>
   </item>
-  <timestamp>1794463157</timestamp>
-  <gen_date>12/11/2026 06:59:17</gen_date>
+  <timestamp>1794466806</timestamp>
+  <gen_date>12/11/2026 08:00:06</gen_date>
 </feed>
