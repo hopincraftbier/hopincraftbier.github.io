@@ -4841,25 +4841,6 @@
     <untappd_id>6650380</untappd_id>
   </item>
   <item>
-    <id>6663314</id>
-    <ecommerce_id>837867549</ecommerce_id>
-    <title>Abundance</title>
-    <url>https://hopincraftbier.be/products/track-abundance</url>
-    <brewery_name>Track Brewing Company</brewery_name>
-    <price>4.66</price>
-    <regular_price>9,31</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/837867549/5787587403.png</image>
-    <beer_description>Try all you might against the ineluctable allure of this Gold Top DIPA. Citra, Nectaron, Luminosa and Riwaka weave a tapestry of temptation, embroidered with hop extravagance and the style's signature unctuousness. A tropical punch of papaya, pineapple, passionfruit, mango and guava is followed by some welcome acidity from grapefruit, kumquat and tangy peach fizz. Lactose elevates the sweetness, decorates your palate with creaminess and smoothes out all the edges. Track Brewing Company - Abundance</beer_description>
-    <beer_style>IPA - Imperial / Double Milkshake</beer_style>
-    <beer_abv>8.4%</beer_abv>
-    <beer_volume>440 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>England</brewery_country>
-    <date_best_before>2026-09-14</date_best_before>
-    <date_canned>2026-03-30</date_canned>
-    <untappd_id>6663314</untappd_id>
-  </item>
-  <item>
     <id>6619576</id>
     <ecommerce_id>837867548</ecommerce_id>
     <title>Kaja (Cellar Series)</title>
@@ -10224,6 +10205,6 @@
     <date_canned>2025-03-03</date_canned>
     <untappd_id>6180169</untappd_id>
   </item>
-  <timestamp>1794475811</timestamp>
-  <gen_date>12/11/2026 10:30:11</gen_date>
+  <timestamp>1794501007</timestamp>
+  <gen_date>12/11/2026 17:30:07</gen_date>
 </feed>
