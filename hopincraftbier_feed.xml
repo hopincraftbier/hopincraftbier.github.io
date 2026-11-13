@@ -147,13 +147,13 @@
   <item>
     <id>9000000077</id>
     <ecommerce_id>877458029</ecommerce_id>
-    <title>Ziemia Obiecana - Quintet</title>
-    <url>https://hopincraftbier.be/products/ziemia-obiecana-quintet</url>
+    <title>Ziemia Obiecana - Quintet #1</title>
+    <url>https://hopincraftbier.be/products/ziemia-obiecana-quintet-1</url>
     <brewery_name>Ziemia Obiecana</brewery_name>
     <price>28.65</price>
     <regular_price>30.16</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/877458029/6403457250.png</image>
-    <beer_description>The Ziemia Obiecana - Quintet contains: - 10th Anniversary Collab: StanislawSour - Fruited | 6% | 500 ml - 10th Anniversary Collab: JózsefIPA - New England / Hazy | 6,5% | 500 ml - 10th Anniversary Collab: StanislasIPA - Imperial / Double New England / Hazy | 7,5% | 500 ml - 10th Anniversary Collab: WitoldIPA - Imperial / Double | 8% | 500 ml - 10th Anniversary Collab: No. 303 Squadron RAFIPA - Triple | 9% | 500 ml</beer_description>
+    <beer_description>The Ziemia Obiecana - Quintet #1 contains: - 10th Anniversary Collab: StanislawSour - Fruited | 6% | 500 ml - 10th Anniversary Collab: JózsefIPA - New England / Hazy | 6,5% | 500 ml - 10th Anniversary Collab: StanislasIPA - Imperial / Double New England / Hazy | 7,5% | 500 ml - 10th Anniversary Collab: WitoldIPA - Imperial / Double | 8% | 500 ml - 10th Anniversary Collab: No. 303 Squadron RAFIPA - Triple | 9% | 500 ml</beer_description>
     <beer_style>IPA - Sour</beer_style>
     <beer_abv>6 - 9%</beer_abv>
     <beer_volume>5x500 ml</beer_volume>
@@ -188,13 +188,13 @@
   <item>
     <id>9000000074</id>
     <ecommerce_id>877326332</ecommerce_id>
-    <title>Dois Corvos - Quartet</title>
-    <url>https://hopincraftbier.be/products/dois-corvos-quartet</url>
+    <title>Dois Corvos - Quartet #1</title>
+    <url>https://hopincraftbier.be/products/dois-corvos-quartet-1</url>
     <brewery_name>Dois Corvos</brewery_name>
     <price>27.19</price>
     <regular_price>28.62</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/877326332/6403416952.png</image>
-    <beer_description>The Dois Corvos - Quartet contains: - Cream of the CropIPA - Oat Cream | 6,5% | 440 ml - Onze Upon a TimeIPA - Imperial / Double New England / Hazy | 8,0% | 440 ml - Still Life With Bolo De BolachaStout - Imperial / Double Pastry | 10% | 440 ml - Night SnackingStout - Imperial / Double Pastry | 10,5% | 440 ml</beer_description>
+    <beer_description>The Dois Corvos - Quartet #1 contains: - Cream of the CropIPA - Oat Cream | 6,5% | 440 ml - Onze Upon a TimeIPA - Imperial / Double New England / Hazy | 8,0% | 440 ml - Still Life With Bolo De BolachaStout - Imperial / Double Pastry | 10% | 440 ml - Night SnackingStout - Imperial / Double Pastry | 10,5% | 440 ml</beer_description>
     <beer_style>Stout - IPA</beer_style>
     <beer_abv>6 - 10%</beer_abv>
     <beer_volume>4x440 ml</beer_volume>
@@ -207,13 +207,13 @@
   <item>
     <id>9000000071</id>
     <ecommerce_id>877001252</ecommerce_id>
-    <title>Track Brewing Company - Triplet</title>
-    <url>https://hopincraftbier.be/products/track-brewing-company-triplet</url>
+    <title>Track Brewing Company - Triplet #1</title>
+    <url>https://hopincraftbier.be/products/track-brewing-company-triplet-1</url>
     <brewery_name>Track Brewing Company</brewery_name>
     <price>21.25</price>
     <regular_price>30.35</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/877001252/6397256121.png</image>
-    <beer_description>The Track Brewing Company - Triplet contains: - Track - LuminescenceIPA - Imperial / Double Milkshake | 8,4% | 440 ml - Track - PURE CitraIPA - Imperial / Double Milkshake | 8,4% | 440 ml - Track - InterceptIPA - Triple New England / Hazy | 10% | 440 ml</beer_description>
+    <beer_description>The Track Brewing Company - Triplet #1 contains: - Track - LuminescenceIPA - Imperial / Double Milkshake | 8,4% | 440 ml - Track - PURE CitraIPA - Imperial / Double Milkshake | 8,4% | 440 ml - Track - InterceptIPA - Triple New England / Hazy | 10% | 440 ml</beer_description>
     <beer_style>IPA</beer_style>
     <beer_abv>8 - 10%</beer_abv>
     <beer_volume>3x440 ml</beer_volume>
@@ -234,7 +234,7 @@
     <price>6.44</price>
     <regular_price>12.87</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/876958562/6397125207.png</image>
-    <beer_description>The Fauve - Pair contains: - Rêve CosmiqueIPA - New England / Hazy | 6,5% | 440 ml - Ivoire SombreStout - Imperial / Double Pastry | 12% | 330 ml</beer_description>
+    <beer_description>The Fauve - Mix Pair contains: - Rêve CosmiqueIPA - New England / Hazy | 6,5% | 440 ml - Ivoire SombreStout - Imperial / Double Pastry | 12% | 330 ml</beer_description>
     <beer_style>Stout - IPA</beer_style>
     <beer_abv>6 - 12%</beer_abv>
     <beer_volume>Mix</beer_volume>
@@ -255,7 +255,7 @@
     <price>9.94</price>
     <regular_price>14.2</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/876962509/6397087547.png</image>
-    <beer_description>The Fauve - Pair contains: - Hommage aux Cent PontsIPA - Imperial / Double New England / Hazy | 7,5% | 440 ml - L'Éveil Des GéantsIPA - Imperial / Double | 8% | 440 ml</beer_description>
+    <beer_description>The Fauve - DIPA Pair contains: - Hommage aux Cent PontsIPA - Imperial / Double New England / Hazy | 7,5% | 440 ml - L'Éveil Des GéantsIPA - Imperial / Double | 8% | 440 ml</beer_description>
     <beer_style>IPA</beer_style>
     <beer_abv>7 - 8%</beer_abv>
     <beer_volume>2x440 ml</beer_volume>
@@ -269,13 +269,13 @@
   <item>
     <id>9000000068</id>
     <ecommerce_id>876957972</ecommerce_id>
-    <title>Fauve - Quartet</title>
-    <url>https://hopincraftbier.be/products/fauve-quartet</url>
+    <title>Fauve - Quartet #1</title>
+    <url>https://hopincraftbier.be/products/fauve-quartet-1</url>
     <brewery_name>Fauve</brewery_name>
     <price>20.62</price>
     <regular_price>29.45</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/876957972/6397077134.png</image>
-    <beer_description>The Fauve - Quartet contains: - Hommage aux Cent PontsIPA - Imperial / Double New England / Hazy | 7,5% | 440 ml - Quelque Chose Qui Danse En ToiIPA - Imperial / Double | 7,7% | 440 ml - L'Éveil Des GéantsIPA - Imperial / Double | 8% | 440 ml - Où Chante Une RivièreStout - Imperial / Double Pastry | 12% | 330 ml</beer_description>
+    <beer_description>The Fauve - Quartet #1 contains: - Hommage aux Cent PontsIPA - Imperial / Double New England / Hazy | 7,5% | 440 ml - Quelque Chose Qui Danse En ToiIPA - Imperial / Double | 7,7% | 440 ml - L'Éveil Des GéantsIPA - Imperial / Double | 8% | 440 ml - Où Chante Une RivièreStout - Imperial / Double Pastry | 12% | 330 ml</beer_description>
     <beer_style>Stout - IPA</beer_style>
     <beer_abv>7 - 12%</beer_abv>
     <beer_volume>Mix</beer_volume>
@@ -295,7 +295,7 @@
     <price>16.36</price>
     <regular_price>17.22</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/876962504/6397066340.png</image>
-    <beer_description>The Fauve - Pair contains: - Chambre NoireStout - Imperial / Double | 12% | 330 ml - Révélateur D'OmbresStout - Imperial / Double | 12% | 330 ml</beer_description>
+    <beer_description>The Fauve - Stout Pair contains: - Chambre NoireStout - Imperial / Double | 12% | 330 ml - Révélateur D'OmbresStout - Imperial / Double | 12% | 330 ml</beer_description>
     <beer_style>Stout</beer_style>
     <beer_abv>12%</beer_abv>
     <beer_volume>2x330 ml</beer_volume>
@@ -309,13 +309,13 @@
   <item>
     <id>9000000066</id>
     <ecommerce_id>876963501</ecommerce_id>
-    <title>Hoppy People - Triplet</title>
-    <url>https://hopincraftbier.be/products/hoppy-people-triplet</url>
+    <title>Hoppy People - Triplet #1</title>
+    <url>https://hopincraftbier.be/products/hoppy-people-triplet-1</url>
     <brewery_name>Hoppy People</brewery_name>
     <price>21.99</price>
     <regular_price>23.15</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/876963501/6397066292.png</image>
-    <beer_description>The Hoppy People - Triplet contains: - Extratropical CycloneSour - Smoothie / Pastry | 5,3% | 440 ml - TNTIPA - Imperial / Double New England / Hazy | 8% | 440 ml - Hops With BenefitsIPA - Imperial / Double New England / Hazy | 8% | 440 ml</beer_description>
+    <beer_description>The Hoppy People - Triplet #1 contains: - Extratropical CycloneSour - Smoothie / Pastry | 5,3% | 440 ml - TNTIPA - Imperial / Double New England / Hazy | 8% | 440 ml - Hops With BenefitsIPA - Imperial / Double New England / Hazy | 8% | 440 ml</beer_description>
     <beer_style>IPA - Sour</beer_style>
     <beer_abv>5 - 8%</beer_abv>
     <beer_volume>3x440 ml</beer_volume>
@@ -330,13 +330,13 @@
   <item>
     <id>9000000065</id>
     <ecommerce_id>876952791</ecommerce_id>
-    <title>DosKiwis - Triplet</title>
-    <url>https://hopincraftbier.be/products/doskiwis-triplet</url>
+    <title>DosKiwis - Triplet #1</title>
+    <url>https://hopincraftbier.be/products/doskiwis-triplet-1</url>
     <brewery_name>DosKiwis</brewery_name>
     <price>14.19</price>
     <regular_price>20.27</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/876952791/6397044141.png</image>
-    <beer_description>The DosKiwis - Triplet contains: - AltitudeIPA - New England / Hazy | 6,7% | 440 ml - SiderealIPA - Other | 7% | 440 ml - SunshakeIPA - English | 8% | 440 ml</beer_description>
+    <beer_description>The DosKiwis - Triplet #1 contains: - AltitudeIPA - New England / Hazy | 6,7% | 440 ml - SiderealIPA - Other | 7% | 440 ml - SunshakeIPA - English | 8% | 440 ml</beer_description>
     <beer_style>IPA</beer_style>
     <beer_abv>6 - 8%</beer_abv>
     <beer_volume>3x440 ml</beer_volume>
@@ -351,13 +351,13 @@
   <item>
     <id>9000000064</id>
     <ecommerce_id>876714816</ecommerce_id>
-    <title>Verdant Brewing Co - Triplet</title>
-    <url>https://hopincraftbier.be/products/verdant-brewing-co-triplet</url>
+    <title>Verdant Brewing Co - Triplet #1</title>
+    <url>https://hopincraftbier.be/products/verdant-brewing-co-triplet-1</url>
     <brewery_name>Verdant Brewing Co</brewery_name>
     <price>19.9</price>
     <regular_price>24.87</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/876714816/6395310412.png</image>
-    <beer_description>The Verdant Brewing Co - Triplet contains: - Verdant - Tender ThornsIPA - New England / Hazy | 6,5% | 440 ml - Verdant - Lightness IllusionIPA - Imperial / Double | 8% | 440 ml - Verdant - Whale Sharks 2026IPA - Imperial / Double | 8,4% | 440 ml</beer_description>
+    <beer_description>The Verdant Brewing Co - Triplet #1 contains: - Verdant - Tender ThornsIPA - New England / Hazy | 6,5% | 440 ml - Verdant - Lightness IllusionIPA - Imperial / Double | 8% | 440 ml - Verdant - Whale Sharks 2026IPA - Imperial / Double | 8,4% | 440 ml</beer_description>
     <beer_style>IPA</beer_style>
     <beer_abv>6 - 8%</beer_abv>
     <beer_volume>3x440 ml</beer_volume>
@@ -372,13 +372,13 @@
   <item>
     <id>9000000062</id>
     <ecommerce_id>876711312</ecommerce_id>
-    <title>Energy City Brewing - Pair</title>
-    <url>https://hopincraftbier.be/products/energy-city-brewing-pair</url>
+    <title>Energy City Brewing - Pair #1</title>
+    <url>https://hopincraftbier.be/products/energy-city-brewing-pair-1</url>
     <brewery_name>Energy City Brewing</brewery_name>
     <price>10.1</price>
     <regular_price>22.44</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/876711312/6395263606.png</image>
-    <beer_description>The Energy City Brewing - Pair contains: - Energy City - Bistro Peach Strawberry Rhubarb CobblerSour - Fruited Berliner Weisse | 6,5% | 473 ml - Energy City - Bistro Cabana Watermelon &amp; PomegranateSour - Fruited Berliner Weisse | 6,5% | 473 ml</beer_description>
+    <beer_description>The Energy City Brewing - Pair #1 contains: - Energy City - Bistro Peach Strawberry Rhubarb CobblerSour - Fruited Berliner Weisse | 6,5% | 473 ml - Energy City - Bistro Cabana Watermelon &amp; PomegranateSour - Fruited Berliner Weisse | 6,5% | 473 ml</beer_description>
     <beer_style>Sour</beer_style>
     <beer_abv>6%</beer_abv>
     <beer_volume>2x473 ml</beer_volume>
@@ -392,13 +392,13 @@
   <item>
     <id>9000000060</id>
     <ecommerce_id>876714795</ecommerce_id>
-    <title>Prizm Brewing Co. - Quartet 2</title>
-    <url>https://hopincraftbier.be/products/prizm-brewing-co-quartet</url>
+    <title>Prizm Brewing Co. - Quartet #2</title>
+    <url>https://hopincraftbier.be/products/prizm-brewing-co-quartet-2</url>
     <brewery_name>Prizm Brewing Co.</brewery_name>
     <price>12.99</price>
     <regular_price>28.86</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/876714795/6395263558.png</image>
-    <beer_description>The Prizm Brewing Co. - Quartet 2 contains: - Prizm - LimgraveIPA - Imperial / Double New England / Hazy | 8% | 440 ml - Prizm - Kiss The RingIPA - Imperial / Double New England / Hazy | 8% | 440 ml - Prizm - End of All We KnowIPA - Triple New England / Hazy | 9% | 440 ml - Prizm - The Way Is ShutStout - Imperial / Double Pastry | 12% | 440 ml</beer_description>
+    <beer_description>The Prizm Brewing Co. - Quartet #2 contains: - Prizm - LimgraveIPA - Imperial / Double New England / Hazy | 8% | 440 ml - Prizm - Kiss The RingIPA - Imperial / Double New England / Hazy | 8% | 440 ml - Prizm - End of All We KnowIPA - Triple New England / Hazy | 9% | 440 ml - Prizm - The Way Is ShutStout - Imperial / Double Pastry | 12% | 440 ml</beer_description>
     <beer_style>Stout - IPA</beer_style>
     <beer_abv>8 - 12%</beer_abv>
     <beer_volume>4x440 ml</beer_volume>
@@ -412,13 +412,13 @@
   <item>
     <id>9000000059</id>
     <ecommerce_id>876711551</ecommerce_id>
-    <title>Sparkle ✨ - Quintet</title>
-    <url>https://hopincraftbier.be/products/sparkle-quintet</url>
+    <title>Sparkle ✨ - Quintet #1</title>
+    <url>https://hopincraftbier.be/products/sparkle-quintet-1</url>
     <brewery_name>Sparkle ✨</brewery_name>
     <price>40.35</price>
     <regular_price>42.47</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/876711551/6395235030.png</image>
-    <beer_description>The Sparkle ✨ - Quintet contains: - Birthday #1 Riwaka (2026)IPA - Imperial / Double New England / Hazy | 8% | 440 ml - Birthday #2 Peacharine (2026)IPA - Imperial / Double New England / Hazy | 8% | 440 ml - Birthday #3 Nectaron (2026)IPA - Imperial / Double New England / Hazy | 8% | 440 ml - Life Is A BeachIPA - Imperial / Double New England / Hazy | 8% | 440 ml - Golden HourIPA - Imperial / Double New England / Hazy | 8% | 440 ml</beer_description>
+    <beer_description>The Sparkle ✨ - Quintet #1 contains: - Birthday #1 Riwaka (2026)IPA - Imperial / Double New England / Hazy | 8% | 440 ml - Birthday #2 Peacharine (2026)IPA - Imperial / Double New England / Hazy | 8% | 440 ml - Birthday #3 Nectaron (2026)IPA - Imperial / Double New England / Hazy | 8% | 440 ml - Life Is A BeachIPA - Imperial / Double New England / Hazy | 8% | 440 ml - Golden HourIPA - Imperial / Double New England / Hazy | 8% | 440 ml</beer_description>
     <beer_style>IPA</beer_style>
     <beer_abv>8%</beer_abv>
     <beer_volume>5x440 ml</beer_volume>
@@ -637,13 +637,13 @@
   <item>
     <id>9000000055</id>
     <ecommerce_id>871873258</ecommerce_id>
-    <title>Engorile - Pair</title>
-    <url>https://hopincraftbier.be/products/engorile-pair</url>
+    <title>Engorile - Pair #1</title>
+    <url>https://hopincraftbier.be/products/engorile-pair-1</url>
     <brewery_name>Engorile</brewery_name>
     <price>12.44</price>
     <regular_price>13.09</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/871873258/6328893308.png</image>
-    <beer_description>The Engorile - Pair contains: - 02/07 AnniversaryIPA - Session New England / Hazy | 4,5% | 440 ml - 01/07 AnniversaryIPA - Imperial / Double New England / Hazy | 8% | 440 ml</beer_description>
+    <beer_description>The Engorile - Pair #1 contains: - 02/07 AnniversaryIPA - Session New England / Hazy | 4,5% | 440 ml - 01/07 AnniversaryIPA - Imperial / Double New England / Hazy | 8% | 440 ml</beer_description>
     <beer_style>IPA</beer_style>
     <beer_abv>4 - 8%</beer_abv>
     <beer_volume>2x440 ml</beer_volume>
@@ -2795,13 +2795,13 @@
   <item>
     <id>9000000053</id>
     <ecommerce_id>853756356</ecommerce_id>
-    <title>Noctem Artisans Brasseurs - Pair</title>
-    <url>https://hopincraftbier.be/products/noctem-artisans-brasseurs-pair</url>
+    <title>Noctem Artisans Brasseurs - Pair #1</title>
+    <url>https://hopincraftbier.be/products/noctem-artisans-brasseurs-pair-1</url>
     <brewery_name>Noctem Artisans Brasseurs</brewery_name>
     <price>19.32</price>
     <regular_price>20.34</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/853756356/6041584784.png</image>
-    <beer_description>The Noctem Artisans Brasseurs - Pair contains: - Noctem Artisanss - Tranquillité Rhum JamaiqueBarleywine - American | 11,9% | 355 ml - Noctem Artisanss - Tranquillité Whisky CanadienBarleywine - American | 11,9% | 355 ml</beer_description>
+    <beer_description>The Noctem Artisans Brasseurs - Pair #1 contains: - Noctem Artisanss - Tranquillité Rhum JamaiqueBarleywine - American | 11,9% | 355 ml - Noctem Artisanss - Tranquillité Whisky CanadienBarleywine - American | 11,9% | 355 ml</beer_description>
     <beer_style>Barleywine</beer_style>
     <beer_abv>11%</beer_abv>
     <beer_volume>2x355 ml</beer_volume>
@@ -2814,13 +2814,13 @@
   <item>
     <id>9000000052</id>
     <ecommerce_id>853756288</ecommerce_id>
-    <title>Omnipollo - Pair</title>
-    <url>https://hopincraftbier.be/products/omnipollo-pair</url>
+    <title>Omnipollo - Pair #1</title>
+    <url>https://hopincraftbier.be/products/omnipollo-pair-1</url>
     <brewery_name>Omnipollo</brewery_name>
     <price>19.69</price>
     <regular_price>20.73</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/853756288/6041522112.png</image>
-    <beer_description>The Omnipollo - Pair contains: - Dream Baby DreamIPA - Imperial / Double New England / Hazy | 8% | 440 ml - UNHOLY CHURCHIPA - Triple | 10% | 440 ml</beer_description>
+    <beer_description>The Omnipollo - Pair #1 contains: - Dream Baby DreamIPA - Imperial / Double New England / Hazy | 8% | 440 ml - UNHOLY CHURCHIPA - Triple | 10% | 440 ml</beer_description>
     <beer_style>IPA</beer_style>
     <beer_abv>8 - 10%</beer_abv>
     <beer_volume>2x440 ml</beer_volume>
@@ -4898,13 +4898,13 @@
   <item>
     <id>9000000035</id>
     <ecommerce_id>837871529</ecommerce_id>
-    <title>Rivington Brewing Co - Triplet</title>
-    <url>https://hopincraftbier.be/products/rivington-brewing-co-triplet</url>
+    <title>Rivington Brewing Co - Triplet #1</title>
+    <url>https://hopincraftbier.be/products/rivington-brewing-co-triplet-1</url>
     <brewery_name>Rivington Brewing Co</brewery_name>
     <price>27.7</price>
     <regular_price>29.16</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/837871529/5787631024.png</image>
-    <beer_description>The Rivington Brewing Co - Triplet contains: - Rivington - One By OneIPA - New England / Hazy | 6,5% | 500 ml - Rivington - FacultyIPA - Imperial / Double New England / Hazy | 8% | 500 ml - Rivington - Fear and EgoIPA - Triple | 10% | 500 ml</beer_description>
+    <beer_description>The Rivington Brewing Co - Triplet #1 contains: - Rivington - One By OneIPA - New England / Hazy | 6,5% | 500 ml - Rivington - FacultyIPA - Imperial / Double New England / Hazy | 8% | 500 ml - Rivington - Fear and EgoIPA - Triple | 10% | 500 ml</beer_description>
     <beer_style>IPA</beer_style>
     <beer_abv>6 - 10%</beer_abv>
     <beer_volume>3x500 ml</beer_volume>
@@ -7639,7 +7639,7 @@
     <price>14.02</price>
     <regular_price>14.76</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/820762821/5629332410.png</image>
-    <beer_description>The White Dog Brewery - Pair contains: - Cookie &amp; CreamStout - Imperial / Pastry | 11% | 440 ml - Rocky Road (2026)Stout - Imperial / Pastry | 11% | 440 ml White Dog Brewery - White Dog Pair #2</beer_description>
+    <beer_description>The White Dog Brewery - Pair #2 contains: - Cookie &amp; CreamStout - Imperial / Pastry | 11% | 440 ml - Rocky Road (2026)Stout - Imperial / Pastry | 11% | 440 ml White Dog Brewery - White Dog Pair #2</beer_description>
     <beer_style>Stout</beer_style>
     <beer_abv>11%</beer_abv>
     <beer_volume>2x440 ml</beer_volume>
@@ -8391,13 +8391,13 @@
   <item>
     <id>9000000061</id>
     <ecommerce_id>811899518</ecommerce_id>
-    <title>Prizm Brewing Co. - Quartet 1</title>
+    <title>Prizm Brewing Co. - Quartet #1</title>
     <url>https://hopincraftbier.be/products/prizm-brewing-co-quartet-1</url>
     <brewery_name>Prizm Brewing Co.</brewery_name>
     <price>26.95</price>
     <regular_price>28.37</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/811899518/5551624314.png</image>
-    <beer_description>Prizm Brewing Co. - Quartet 1 contains: - More PressureSour - Smoothie / Pastry | 6% | 440 ml - IUPACIPA - New England / Hazy | 6% | 440 ml - Please The CrowdsIPA - Imperial / Double New England / Hazy | 8% | 440 ml - Sunken ShipIPA - Triple New England / Hazy | 9% | 440 ml Prizm Brewing Co. Pack</beer_description>
+    <beer_description>Prizm Brewing Co. - Quartet #1 contains: - More PressureSour - Smoothie / Pastry | 6% | 440 ml - IUPACIPA - New England / Hazy | 6% | 440 ml - Please The CrowdsIPA - Imperial / Double New England / Hazy | 8% | 440 ml - Sunken ShipIPA - Triple New England / Hazy | 9% | 440 ml Prizm Brewing Co. Pack</beer_description>
     <beer_style>IPA - Sour</beer_style>
     <beer_abv>6 - 9%</beer_abv>
     <beer_volume>4x440 ml</beer_volume>
@@ -10166,6 +10166,6 @@
     <date_canned>2025-03-03</date_canned>
     <untappd_id>6180169</untappd_id>
   </item>
-  <timestamp>1794567825</timestamp>
-  <gen_date>13/11/2026 12:03:45</gen_date>
+  <timestamp>1794568270</timestamp>
+  <gen_date>13/11/2026 12:11:10</gen_date>
 </feed>
