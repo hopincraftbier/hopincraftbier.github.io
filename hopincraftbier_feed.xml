@@ -5,6 +5,26 @@
   <link>https://hopincraftbier.be</link>
   <description>Hop In Craftbier Products feed</description>
   <item>
+    <id>9000000083</id>
+    <ecommerce_id>877718751</ecommerce_id>
+    <title>Fine Balance Brewing - Quartet</title>
+    <url>https://hopincraftbier.be/products/fine-balance-brewing-quartet</url>
+    <brewery_name>Fine Balance Brewing</brewery_name>
+    <price>38.36</price>
+    <regular_price>40.38</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/877718751/6405311184.png</image>
+    <beer_description>The Fine Balance Brewing - Quartet contains: - Fine Balance - QuestIPA - New England / Hazy | 6,5% | 473 ml - Fine Balance - Waypoint (2026)IPA - Imperial / Double New England / Hazy | 8% | 473 ml - Fine Balance - Field Trip TIPA with Superdelic, Nectaron &amp; Southern Cross HopsIPA - Triple New England / Hazy | 10% | 473 ml - Fine Balance - Expedition (2026)IPA - Quadruple | 11,9% | 473 ml</beer_description>
+    <beer_style>IPA</beer_style>
+    <beer_abv>6 - 11%</beer_abv>
+    <beer_volume>4x473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Canada</brewery_country>
+    <date_canned>2026-01-01</date_canned>
+    <beer_package_count>4</beer_package_count>
+    <beer_bundle>1</beer_bundle>
+    <bundle_skus>6578107,6580747,6580745,6580743</bundle_skus>
+  </item>
+  <item>
     <id>9000000081</id>
     <ecommerce_id>877690657</ecommerce_id>
     <title>Finback Brewery - Pair #1</title>
@@ -8283,7 +8303,7 @@
     <url>https://hopincraftbier.be/products/fine-balance-waypoint-2026</url>
     <brewery_name>Fine Balance Brewing</brewery_name>
     <price>9.93</price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/812270061/5553890579.png</image>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/812270061/6405319758.png</image>
     <beer_description>Waypoint DIPA, brewed in collaboration with Badlands Brewing, was treated with a massive dry-hop featuring two of their favourite hops from 2025: New Zealand Cascade and Nectaron, both from Freestyle Hops. Bright and expressive, this beer has notes of juicy berry and tropical citrus, with a touch of dank pine on the finish. Fine Balance - Waypoint (2026)</beer_description>
     <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
     <beer_abv>8%</beer_abv>
@@ -8300,7 +8320,7 @@
     <url>https://hopincraftbier.be/products/fine-balance-expedition-2026</url>
     <brewery_name>Fine Balance Brewing</brewery_name>
     <price>10.59</price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/812270062/5553890549.png</image>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/812270062/6405311220.png</image>
     <beer_description>Brewed with our friends at Counterpart Brewing in Niagara Falls, ON, Expedition Quad IPA is a big beer with bold flavour. Dry-hopped exclusively with Freestyle Hops—Rakau, Motueka, Nelson Sauvin, and Riwaka—it has notes of tropical fruit salad, guava, papaya, and lime zest. Bright and fresh, this beer finishes with a punch. Fine Balance - Expedition (2026)</beer_description>
     <beer_style>IPA - Quadruple</beer_style>
     <beer_abv>11.9%</beer_abv>
@@ -8318,7 +8338,7 @@
     <brewery_name>Fine Balance Brewing</brewery_name>
     <price>9.6</price>
     <regular_price>9.60</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/812273779/5553877745.png</image>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/812273779/6405311214.png</image>
     <beer_description>The first stop on our IPA Tour Vol. 2 brings us to Bloomfield, PEC, home of All My Friends Beer Co. Quest IPA is a bright and sunny hazy IPA, with notes of pithy grapefruit, passionfruit, and white wine grape. At 6.5% ABV, it’s easy-drinking yet packed with flavour. Fine Balance - Quest</beer_description>
     <beer_style>IPA - New England / Hazy</beer_style>
     <beer_abv>6.5%</beer_abv>
@@ -8442,7 +8462,7 @@
     <url>https://hopincraftbier.be/products/fine-balance-field-trip-tipa-with-superdelic-nectaron--southern-cross-hops</url>
     <brewery_name>Fine Balance Brewing</brewery_name>
     <price>10.26</price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/810442517/5532659550.png</image>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/810442517/6405312932.png</image>
     <beer_description>Third in our IPA Tour is Field Trip TIPA, brewed with our pals at Willibald Farm Distillery &amp; Brewery. We're excited to bring this favourite back, this time with a big dry-hop of Superdelic, Nectaron, and Freestyle Southern Cross hops. Field Trip is big, yet extremely drinkable, with a creamy mouthfeel and a quick finish. We get delicious sweet tropical fruit, orange citrus, and candy-like flavours. Fine Balance Brewing - Field Trip TIPA with Superdelic, Nectaron &amp; Southern Cross Hops</beer_description>
     <beer_style>IPA - Triple New England / Hazy</beer_style>
     <beer_abv>10%</beer_abv>
@@ -10106,6 +10126,6 @@
     <date_canned>2025-03-03</date_canned>
     <untappd_id>6180169</untappd_id>
   </item>
-  <timestamp>1794562206</timestamp>
-  <gen_date>13/11/2026 10:30:06</gen_date>
+  <timestamp>1794563106</timestamp>
+  <gen_date>13/11/2026 10:45:06</gen_date>
 </feed>
