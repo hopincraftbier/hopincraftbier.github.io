@@ -5,6 +5,26 @@
   <link>https://hopincraftbier.be</link>
   <description>Hop In Craftbier Products feed</description>
   <item>
+    <id>9000000079</id>
+    <ecommerce_id>877691350</ecommerce_id>
+    <title>Finback Brewery - Triplet #2</title>
+    <url>https://hopincraftbier.be/products/finback-brewery-triplet-2</url>
+    <brewery_name>Finback Brewery</brewery_name>
+    <price>29.45</price>
+    <regular_price>31</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/877691350/6405271630.png</image>
+    <beer_description>The Finback Brewery - Triplet #2 contains: - Finback - Business ClassIPA - Imperial / Double New England / Hazy | 8,4% | 473 ml - Finback - Oscillation GoldIPA - Imperial / Double New England / Hazy | 8,4% | 473 ml - Finback - Twelve YearIPA - Triple | 10% | 473 ml</beer_description>
+    <beer_style>IPA</beer_style>
+    <beer_abv>8 - 10%</beer_abv>
+    <beer_volume>3x473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>United States</brewery_country>
+    <date_canned>2026-05-13</date_canned>
+    <beer_package_count>3</beer_package_count>
+    <beer_bundle>1</beer_bundle>
+    <bundle_skus>6698364,6698351,6698350</bundle_skus>
+  </item>
+  <item>
     <id>9000000078</id>
     <ecommerce_id>877691063</ecommerce_id>
     <title>Finback Brewery - Triplet #1</title>
@@ -5526,7 +5546,7 @@
     <url>https://hopincraftbier.be/products/finback-business-class</url>
     <brewery_name>Finback Brewery</brewery_name>
     <price>10.33</price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/833229445/5752133054.png</image>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/833229445/6405271648.png</image>
     <beer_description>IPA Double New England with Nelson Sauvin, Nectaron, Moutueka &amp; Rakau hops</beer_description>
     <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
     <beer_abv>8.4%</beer_abv>
@@ -5544,7 +5564,7 @@
     <brewery_name>Finback Brewery</brewery_name>
     <price>10</price>
     <regular_price>10.00</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/833229725/5752133101.png</image>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/833229725/6405271811.png</image>
     <beer_description>IPA Double New England with Citra, Mosaic, Krush, Galaxy &amp; Bru-1 Lupomax hops 12th anniversary release</beer_description>
     <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
     <beer_abv>8.4%</beer_abv>
@@ -5561,7 +5581,7 @@
     <url>https://hopincraftbier.be/products/finback-12-year-12th-anniversary-release-833229441</url>
     <brewery_name>Finback Brewery</brewery_name>
     <price>10.67</price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/833229441/5759618983.png</image>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/833229441/6405271654.png</image>
     <beer_description>Triple IPA with Mosaic, Mosaic Cryo, Citra Cryo and Amarillo</beer_description>
     <beer_style>IPA - Triple</beer_style>
     <beer_abv>10%</beer_abv>
@@ -10046,6 +10066,6 @@
     <date_canned>2025-03-03</date_canned>
     <untappd_id>6180169</untappd_id>
   </item>
-  <timestamp>1794558607</timestamp>
-  <gen_date>13/11/2026 09:30:07</gen_date>
+  <timestamp>1794560406</timestamp>
+  <gen_date>13/11/2026 10:00:06</gen_date>
 </feed>
