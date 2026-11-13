@@ -5,6 +5,46 @@
   <link>https://hopincraftbier.be</link>
   <description>Hop In Craftbier Products feed</description>
   <item>
+    <id>9000000085</id>
+    <ecommerce_id>877691220</ecommerce_id>
+    <title>Fine Balance Brewing - Quartet #2</title>
+    <url>https://hopincraftbier.be/products/fine-balance-brewing-quartet-2</url>
+    <brewery_name>Fine Balance Brewing</brewery_name>
+    <price>39.9</price>
+    <regular_price>42</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/877691220/6405404674.png</image>
+    <beer_description>The Fine Balance Brewing - Quartet #2 contains: - Fine Balance - Junction IPA (Bad Bones)IPA - New England / Hazy | 6,5% | 473 ml - Fine Balance - Crossing DIPA (Rock City)IPA - Imperial / Double New England / Hazy | 8% | 473 ml - Fine Balance - Shoreline TIPA (All My Friends)IPA - Triple New England / Hazy | 10% | 473 ml - Fine Balance - Tetra BurstIPA - Quadruple | 11,9% | 473 ml</beer_description>
+    <beer_style>IPA</beer_style>
+    <beer_abv>6 - 11%</beer_abv>
+    <beer_volume>4x473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Canada</brewery_country>
+    <date_canned>2026-06-01</date_canned>
+    <beer_package_count>4</beer_package_count>
+    <beer_bundle>1</beer_bundle>
+    <bundle_skus>6755341,6755347,6755351,6755355</bundle_skus>
+  </item>
+  <item>
+    <id>9000000084</id>
+    <ecommerce_id>877724505</ecommerce_id>
+    <title>Fine Balance Brewing - Triplet #1</title>
+    <url>https://hopincraftbier.be/products/fine-balance-brewing-triplet-1</url>
+    <brewery_name>Fine Balance Brewing</brewery_name>
+    <price>30.4</price>
+    <regular_price>32</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/877724505/6405404554.png</image>
+    <beer_description>The Fine Balance Brewing - Triplet #1 contains: - Fine Balance - CloudlineIPA - Triple New England / Hazy | 10% | 473 ml - Fine Balance - Dark Veil Imperial Stout With Maple &amp; EspressoStout - Imperial / Double Coffee | 11,9% | 473 ml - Fine Balance - Above The CloudlineIPA - Quadruple | 11,9% | 473 ml</beer_description>
+    <beer_style>Stout - IPA</beer_style>
+    <beer_abv>10 - 11%</beer_abv>
+    <beer_volume>3x473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Canada</brewery_country>
+    <date_canned>2026-05-01</date_canned>
+    <beer_package_count>3</beer_package_count>
+    <beer_bundle>1</beer_bundle>
+    <bundle_skus>6710524,6449464,6727939</bundle_skus>
+  </item>
+  <item>
     <id>9000000083</id>
     <ecommerce_id>877718751</ecommerce_id>
     <title>Fine Balance Brewing - Quartet #1</title>
@@ -4191,7 +4231,7 @@
     <brewery_name>Fine Balance Brewing</brewery_name>
     <price>11</price>
     <regular_price>11.00</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/841341727/5816842606.png</image>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/841341727/6405407493.png</image>
     <beer_description>Brewed in collaboration with our pals from Third Moon in Milton, Ontario, this is our first ever quadruple IPA. Tetra Burst was dry-hopped with a massive amount of Cryo Citra, Citra, Cryo Nelson Sauvin, and Nelson Sauvin hops. It's the most heavily dry-hopped beer we've done. It's also ridiculously smooth and drinkable, and packed with big beautiful tropical stone fruit flavours, notes of white wine, and a deep dankness. Fine Balance Brewing - Tetra Burst</beer_description>
     <beer_style>IPA - Quadruple</beer_style>
     <beer_abv>11.9%</beer_abv>
@@ -4226,7 +4266,7 @@
     <brewery_name>Fine Balance Brewing</brewery_name>
     <price>10</price>
     <regular_price>10.00</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/841329443/5816842588.png</image>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/841329443/6405404732.png</image>
     <beer_description>The first stop on our IPA Tour Vol. 3 brings us to Dunham, QC, home of Brasserie Bad Bones. Dry-hopped with Freestyle Riwaka and Amarillo, and Peacharine Hop Kief, Junction IPA is bright with notes of tropical citrus, passionfruit, and pithy grapefruit. Fine Balance - Junction IPA (Bad Bones)</beer_description>
     <beer_style>IPA - New England / Hazy</beer_style>
     <beer_abv>6.5%</beer_abv>
@@ -4243,7 +4283,7 @@
     <url>https://hopincraftbier.be/products/fine-balance-crossing</url>
     <brewery_name>Fine Balance Brewing</brewery_name>
     <price>10.33</price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/841329162/5816842362.png</image>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/841329162/6405404497.png</image>
     <beer_description>Crossing DIPA, brewed in collaboration with our Dutch friends at Rock City, was treated with a massive dry-hop of Motueka, Mosaic, and European Hallertau Blanc hops. Bright and juicy, this beer has balanced notes of lemon-lime citrus, tropical berries, and white wine grape. Fine Balance - Crossing DIPA (Rock City) Fine Balance Brewing - Crossing</beer_description>
     <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
     <beer_abv>8%</beer_abv>
@@ -4260,7 +4300,7 @@
     <url>https://hopincraftbier.be/products/fine-balance-shoreline</url>
     <brewery_name>Fine Balance Brewing</brewery_name>
     <price>10.67</price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/841327238/5816842582.png</image>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/841327238/6405404738.png</image>
     <beer_description>Third in our IPA Tour is Shoreline TIPA, brewed with our pals up lake Ontario at All My Friends Beer Co. Treated with a huge dry-hop of Freestyle NZ Cascade, Southern Cross, and Nectaron hops, expect a hop-saturated hazy IPA, with notes of dank tropical fruit, pine, and pithy citrus. Fine Balance - Shoreline TIPA (All My Friends) Fine Balance Brewing - Shoreline</beer_description>
     <beer_style>IPA - Triple New England / Hazy</beer_style>
     <beer_abv>10%</beer_abv>
@@ -5295,7 +5335,7 @@
     <url>https://hopincraftbier.be/products/fine-balance-dark-veil-imperial-stout-with-maple--espresso</url>
     <brewery_name>Fine Balance Brewing</brewery_name>
     <price>10.33</price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/834996771/5759637599.png</image>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/834996771/6405401937.png</image>
     <beer_description>For this second iteration of our imperial stout with maple and espresso, we upped our dosage of Shady Lane ground espresso beans from Quietly Coffee. Expect a rich, complex beer with big coffee notes and slightly sweet smooth finish.</beer_description>
     <beer_style>Stout - Imperial / Double Coffee</beer_style>
     <beer_abv>11.9%</beer_abv>
@@ -5328,7 +5368,7 @@
     <url>https://hopincraftbier.be/products/fine-balance-cloudline</url>
     <brewery_name>Fine Balance Brewing</brewery_name>
     <price>10.67</price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/834657763/5776635587.png</image>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/834657763/6405411511.png</image>
     <beer_description>Cloudline is a thick and creamy Triple IPA that drinks dangerously easy. We combined some of our favourite New Zealand and American hops — Motueka, Nectaron, and hand-selected Mosaic — for a saturated burst of dank tropical fruit, juicy citrus, and ripe stone fruit character.</beer_description>
     <beer_style>IPA - Triple New England / Hazy</beer_style>
     <beer_abv>10%</beer_abv>
@@ -5346,7 +5386,7 @@
     <brewery_name>Fine Balance Brewing</brewery_name>
     <price>11</price>
     <regular_price>11.00</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/834657762/5759593468.png</image>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/834657762/6405411767.png</image>
     <beer_description>A companion to Cloudline TIPA, this New England-style Quad IPA was treated with a massive dry-hop of Manalita, Nelson Sauvin, and Motueka hops from Freestyle Hops. Dangerously smooth for the ABV, this one packs notes of candied grapefruit, mango, and bright citrus, backed by a dank finish. Fine Balance - Above The Cloudline</beer_description>
     <beer_style>IPA - Quadruple</beer_style>
     <beer_abv>11.9%</beer_abv>
@@ -10126,6 +10166,6 @@
     <date_canned>2025-03-03</date_canned>
     <untappd_id>6180169</untappd_id>
   </item>
-  <timestamp>1794565805</timestamp>
-  <gen_date>13/11/2026 11:30:05</gen_date>
+  <timestamp>1794567607</timestamp>
+  <gen_date>13/11/2026 12:00:07</gen_date>
 </feed>
