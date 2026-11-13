@@ -5,6 +5,25 @@
   <link>https://hopincraftbier.be</link>
   <description>Hop In Craftbier Products feed</description>
   <item>
+    <id>9000000087</id>
+    <ecommerce_id>877737019</ecommerce_id>
+    <title>Nano Cinco - Triplet #2</title>
+    <url>https://hopincraftbier.be/products/nano-cinco-triplet-2</url>
+    <brewery_name>Nano Cinco</brewery_name>
+    <price>31.36</price>
+    <regular_price>33.01</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/877737019/6405512080.png</image>
+    <beer_description>The Nano Cinco - Triplet #2 contains: - Merci BeaucoupIPA - Imperial / Double New England / Hazy | 8,2% | 473 ml - Innovation #8IPA - Triple New England / Hazy | 9,6% | 473 ml - GiganIPA - Quadruple | 11% | 473 ml</beer_description>
+    <beer_style>IPA</beer_style>
+    <beer_abv>8 - 11%</beer_abv>
+    <beer_volume>3x473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Canada</brewery_country>
+    <beer_package_count>3</beer_package_count>
+    <beer_bundle>1</beer_bundle>
+    <bundle_skus>6690879,6685125,6663789</bundle_skus>
+  </item>
+  <item>
     <id>9000000086</id>
     <ecommerce_id>877724550</ecommerce_id>
     <title>Nano Cinco - Triplet #1</title>
@@ -6470,7 +6489,7 @@
     <url>https://hopincraftbier.be/products/nano-cinco-merci-beaucoup-827799863</url>
     <brewery_name>Nano Cinco</brewery_name>
     <price>10.67</price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/827799863/5693335149.png</image>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/827799863/6405514093.png</image>
     <beer_description>Merci beaucoup is a New England Double IPA with Riwaka, Superdelic, and Galaxy hops. A beer distinguished by its smooth texture and ultra-juicy, tropical flavor profile. Nano Cinco - Merci Beaucoup</beer_description>
     <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
     <beer_abv>8.2%</beer_abv>
@@ -6487,7 +6506,7 @@
     <brewery_name>Nano Cinco</brewery_name>
     <price>11</price>
     <regular_price>11.00</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/827799848/5693329728.png</image>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/827799848/6405491951.png</image>
     <beer_description>IPA Triple New England with NZ Rhapzody, CIP 076 &amp; Motueka hops Nano Cinco - Innovation #8</beer_description>
     <beer_style>IPA - Triple New England / Hazy</beer_style>
     <beer_abv>9.6%</beer_abv>
@@ -6503,7 +6522,7 @@
     <url>https://hopincraftbier.be/products/nano-cinco-gigan-827799465</url>
     <brewery_name>Nano Cinco</brewery_name>
     <price>11.34</price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/827799465/5693338008.png</image>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/827799465/6405512074.png</image>
     <beer_description>Gigan is a Quadruple New England IPA that also features Newzilla hops. This is complemented by conventional Citra, Riwaka, and Southern Cross hop pellets, as well as an extra boost of liquid hop by-products: Riwaka Amplifier and Citra Dynaboost. The result is a particularly textured and aromatic beer with explosive notes of citrus zest, mango, and nectarine. Nano Cinco - Gigan</beer_description>
     <beer_style>IPA - Quadruple</beer_style>
     <beer_abv>11%</beer_abv>
@@ -10185,6 +10204,6 @@
     <date_canned>2025-03-03</date_canned>
     <untappd_id>6180169</untappd_id>
   </item>
-  <timestamp>1794571207</timestamp>
-  <gen_date>13/11/2026 13:00:07</gen_date>
+  <timestamp>1794572106</timestamp>
+  <gen_date>13/11/2026 13:15:06</gen_date>
 </feed>
