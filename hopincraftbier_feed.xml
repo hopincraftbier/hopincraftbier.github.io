@@ -8498,7 +8498,7 @@
   <item>
     <id>6580745</id>
     <ecommerce_id>810442517</ecommerce_id>
-    <title>Field Trip TIPA with Superdelic, Nectaron &amp; Southern Cross Hops (collab Willibald Farm Distillery &amp;)</title>
+    <title>Field Trip TIPA with Superdelic, Nectaron &amp; Southern Cross Hops (collab Willibald)</title>
     <url>https://hopincraftbier.be/products/fine-balance-field-trip-tipa-with-superdelic-nectaron--southern-cross-hops</url>
     <brewery_name>Fine Balance Brewing</brewery_name>
     <price>10.26</price>
@@ -8931,7 +8931,7 @@
     <brewery_name>Fine Balance Brewing</brewery_name>
     <price>13.9</price>
     <regular_price>13.90</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5447266771.png</image>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/801936314/6405411893.png</image>
     <beer_description>Encore Maple Barrel Aged Imperial Stout comes roughly one year after the release of Fête, our fourth anniversary barrel aged sweet stout (which was aged in bourbon barrels previously filled with maple syrup). For about 16 months we've had this big, smooth imperial stout ageing in rye whiskey barrels that were previously housed maple syrup. We're delighted with how this beer turned out. It has a creamy mouthfeel, with a hint of sweetness cut by a touch of whiskey. Encore is big at 11.9% ABV, but smooth and easy drinking. It's a great winter treat. Fine Balance - Encore</beer_description>
     <beer_style>Stout - Imperial / Double</beer_style>
     <beer_abv>11.9%</beer_abv>
@@ -9629,7 +9629,7 @@
   <item>
     <id>6393502</id>
     <ecommerce_id>787743585</ecommerce_id>
-    <title>Willibald - Mania!</title>
+    <title>Mania!</title>
     <url>https://hopincraftbier.be/products/willibald-mania</url>
     <brewery_name>Willibald Farm Distillery &amp; Brewery</brewery_name>
     <price>4.96</price>
@@ -10166,6 +10166,6 @@
     <date_canned>2025-03-03</date_canned>
     <untappd_id>6180169</untappd_id>
   </item>
-  <timestamp>1794567607</timestamp>
-  <gen_date>13/11/2026 12:00:07</gen_date>
+  <timestamp>1794567825</timestamp>
+  <gen_date>13/11/2026 12:03:45</gen_date>
 </feed>
