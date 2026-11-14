@@ -4352,25 +4352,6 @@
     <untappd_id>6755351</untappd_id>
   </item>
   <item>
-    <id>6706716</id>
-    <ecommerce_id>840367794</ecommerce_id>
-    <title>Low-Fi</title>
-    <url>https://hopincraftbier.be/products/soma-beer-low-fi</url>
-    <brewery_name>SOMA Beer</brewery_name>
-    <price>3.58</price>
-    <regular_price>7.16</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/840367794/5810034334.png</image>
-    <beer_description>Citra, Nelson &amp; Peacharine SOMA Beer - Low-Fi</beer_description>
-    <beer_style>IPA - New England / Hazy</beer_style>
-    <beer_abv>6.5%</beer_abv>
-    <beer_volume>440 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Spain</brewery_country>
-    <date_best_before>2026-11-11</date_best_before>
-    <date_canned>2026-05-11</date_canned>
-    <untappd_id>6706716</untappd_id>
-  </item>
-  <item>
     <id>6725271</id>
     <ecommerce_id>840369781</ecommerce_id>
     <title>Juice</title>
@@ -8675,24 +8656,6 @@
     <untappd_id>6513873</untappd_id>
   </item>
   <item>
-    <id>6577350</id>
-    <ecommerce_id>807039742</ecommerce_id>
-    <title>8th Birthday - India Pale Ale (collab Beak)</title>
-    <url>https://hopincraftbier.be/products/pollys-8th-birthday-india-pale-ale</url>
-    <brewery_name>Polly's Brew Co.</brewery_name>
-    <price>3.38</price>
-    <regular_price>6.75</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5505408896.png</image>
-    <beer_description>POLLY'S 8th BIRTHDAY We’ve been huge fans of the wonderful Beak pretty much since they first landed on our radars - operating a similar philosophy to ourselves in largely focusing on and perfecting their pale and hoppy output, we’ve been very lucky to share festival spaces with our friends from Lewes over the last twelve months, fostering a working friendship based on mutual approaches to where modern beer is placed in 2026. Coming together to collaborate for our eighth birthday meant there could only be one style we could brew - an IPA at that magical ABV in which the sweet spot lies for both breweries. Wanting to make a conscious effort to embrace the progression of our industry with the recipe on this beer, we’ve brought no less than five hop varieties to the party; showcasing current and progressive technologies in the brewing process. With a dry hop charge of 20g/l, pushing toward DIPA levels of intensity, we’ve utilised Idaho 7 and Nelson Sauvin in their classic T90 pellet form, along with their CGX versions - the latest technology from Crosby Hops using cryogenic processes to concentrate the flavour and intensity brought to the table. With a final flourish of New Zealand Hop’s latest experimental variety NZ-106 and a whisper of Abstrax Hops Skyfarm Pineapple, the result is a pillowy soft IPA, singing with guava, mango, and passionfruit, with bright pine and citrus notes underneath. Taking the artwork on this one is local enigma Jim Jones, who leaned into the German heritage of the bauhaus Polly's - 8th Birthday - India Pale Ale</beer_description>
-    <beer_style>IPA - English</beer_style>
-    <beer_abv>6.5%</beer_abv>
-    <beer_volume>440 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Wales</brewery_country>
-    <date_best_before>2026-10-09</date_best_before>
-    <untappd_id>6577350</untappd_id>
-  </item>
-  <item>
     <id>3039829</id>
     <ecommerce_id>806411460</ecommerce_id>
     <title>Hydra | Raspberry + Strawberry + Pink Guava</title>
@@ -9619,23 +9582,6 @@
     <untappd_id>6379068</untappd_id>
   </item>
   <item>
-    <id>4214697</id>
-    <ecommerce_id>787743586</ecommerce_id>
-    <title>Natural Flavors (Tangerine)</title>
-    <url>https://hopincraftbier.be/products/frequentem-natural-flavors-tangerine</url>
-    <brewery_name>Frequentem Brewing Co.</brewery_name>
-    <price>4.96</price>
-    <regular_price>9.91</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/787743586/5260644589.webp</image>
-    <beer_description>Kettle Soured, Azacca &amp; Idaho 7, Tangerine Frequentem - Natural Flavors (Tangerine)</beer_description>
-    <beer_style>IPA - Sour</beer_style>
-    <beer_abv>6.5%</beer_abv>
-    <beer_volume>473 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>United States</brewery_country>
-    <untappd_id>4214697</untappd_id>
-  </item>
-  <item>
     <id>6393502</id>
     <ecommerce_id>787743585</ecommerce_id>
     <title>Mania!</title>
@@ -10175,6 +10121,6 @@
     <date_canned>2025-03-03</date_canned>
     <untappd_id>6180169</untappd_id>
   </item>
-  <timestamp>1794670206</timestamp>
-  <gen_date>14/11/2026 16:30:06</gen_date>
+  <timestamp>1794686406</timestamp>
+  <gen_date>14/11/2026 21:00:06</gen_date>
 </feed>
