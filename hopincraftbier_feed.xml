@@ -971,7 +971,7 @@
     <beer_volume>500 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>Poland</brewery_country>
-    <date_best_before>0207-10-05</date_best_before>
+    <date_best_before>2027-07-07</date_best_before>
     <date_canned>2026-10-05</date_canned>
     <untappd_id>7018934</untappd_id>
   </item>
@@ -10121,6 +10121,6 @@
     <date_canned>2025-03-03</date_canned>
     <untappd_id>6180169</untappd_id>
   </item>
-  <timestamp>1794686406</timestamp>
-  <gen_date>14/11/2026 21:00:06</gen_date>
+  <timestamp>1794726006</timestamp>
+  <gen_date>15/11/2026 08:00:06</gen_date>
 </feed>
