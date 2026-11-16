@@ -5,6 +5,23 @@
   <link>https://hopincraftbier.be</link>
   <description>Hop In Craftbier Products feed</description>
   <item>
+    <id>6384423</id>
+    <ecommerce_id>878308688</ecommerce_id>
+    <title>Ninth Birthday Impy</title>
+    <url>https://hopincraftbier.be/products/neon-raptor-ninth-birthday-impy</url>
+    <brewery_name>Neon Raptor Brewing Co.</brewery_name>
+    <price>8.02</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/878308688/6412252546.png</image>
+    <beer_description>Imperial 9th Birthday stout dressed up to the nines with hazelnut, chocolate, and caramel biscuits (you know which ones). We're partying like it's 9! Water, Barley (Gluten), Oats, Lactose (Milk), Hops, Yeast Neon Raptor - Ninth Birthday Impy</beer_description>
+    <beer_style>Stout - Imperial / Double Pastry</beer_style>
+    <beer_abv>10%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>England</brewery_country>
+    <date_best_before>2027-08-21</date_best_before>
+    <untappd_id>6384423</untappd_id>
+  </item>
+  <item>
     <id>9000000089</id>
     <ecommerce_id>877741026</ecommerce_id>
     <title>Nano Cinco - Pair #2</title>
@@ -10095,6 +10112,6 @@
     <date_canned>2025-03-03</date_canned>
     <untappd_id>6180169</untappd_id>
   </item>
-  <timestamp>1794834906</timestamp>
-  <gen_date>16/11/2026 14:15:06</gen_date>
+  <timestamp>1794838506</timestamp>
+  <gen_date>16/11/2026 15:15:06</gen_date>
 </feed>
