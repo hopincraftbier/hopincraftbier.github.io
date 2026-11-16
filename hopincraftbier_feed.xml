@@ -2402,6 +2402,8 @@
     <beer_volume>440 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>Finland</brewery_country>
+    <date_best_before>2027-06-18</date_best_before>
+    <date_canned>2026-08-18</date_canned>
     <untappd_id>6826122</untappd_id>
   </item>
   <item>
@@ -2418,6 +2420,8 @@
     <beer_volume>440 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>Finland</brewery_country>
+    <date_best_before>2027-05-28</date_best_before>
+    <date_canned>2026-07-28</date_canned>
     <untappd_id>6808140</untappd_id>
   </item>
   <item>
@@ -2434,6 +2438,7 @@
     <beer_volume>440 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>Finland</brewery_country>
+    <date_best_before>2027-05-28</date_best_before>
     <untappd_id>6808143</untappd_id>
   </item>
   <item>
@@ -2450,6 +2455,8 @@
     <beer_volume>440 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>Finland</brewery_country>
+    <date_best_before>2027-06-18</date_best_before>
+    <date_canned>2026-08-18</date_canned>
     <untappd_id>6826117</untappd_id>
   </item>
   <item>
@@ -2466,6 +2473,8 @@
     <beer_volume>440 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>Finland</brewery_country>
+    <date_best_before>2028-09-01</date_best_before>
+    <date_canned>2026-09-01</date_canned>
     <untappd_id>6826127</untappd_id>
   </item>
   <item>
@@ -2482,6 +2491,8 @@
     <beer_volume>440 ml</beer_volume>
     <beer_package>can</beer_package>
     <brewery_country>Finland</brewery_country>
+    <date_best_before>2027-06-11</date_best_before>
+    <date_canned>2026-08-11</date_canned>
     <untappd_id>6826095</untappd_id>
   </item>
   <item>
@@ -10083,6 +10094,6 @@
     <date_canned>2025-03-03</date_canned>
     <untappd_id>6180169</untappd_id>
   </item>
-  <timestamp>1794811506</timestamp>
-  <gen_date>16/11/2026 07:45:06</gen_date>
+  <timestamp>1794821406</timestamp>
+  <gen_date>16/11/2026 10:30:06</gen_date>
 </feed>
