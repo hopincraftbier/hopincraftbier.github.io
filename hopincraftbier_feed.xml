@@ -5,6 +5,26 @@
   <link>https://hopincraftbier.be</link>
   <description>Hop In Craftbier Products feed</description>
   <item>
+    <id>9000000096</id>
+    <ecommerce_id>878549502</ecommerce_id>
+    <title>Vault City Brewing - Quartet</title>
+    <url>https://hopincraftbier.be/products/vault-city-brewing-quartet</url>
+    <brewery_name>Vault City Brewing</brewery_name>
+    <price>37.64</price>
+    <regular_price>39.62</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/878549502/6417188874.png</image>
+    <beer_description>The Vault City Brewing - Quartet contains: - Vault City - Bake-Off: CranachanSour - Smoothie / Pastry | 5% | 440 ml - Vault City - Bake-Off: NY CheesecakeSour - Smoothie / Pastry | 5,3% | 440 ml - Vault City - Stoopid SpaceshakeSour - Smoothie / Pastry | 5,5% | 440 ml - Vault City - Year 6 - Mango Banana Coconut Crumble CakeSour - Smoothie / Pastry | 6% | 440 ml</beer_description>
+    <beer_style>Sour - Smoothie / Pastry</beer_style>
+    <beer_abv>5 - 6%</beer_abv>
+    <beer_volume>4x440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Scotland</brewery_country>
+    <date_best_before>2027-04-14</date_best_before>
+    <beer_package_count>4</beer_package_count>
+    <beer_bundle>1</beer_bundle>
+    <bundle_skus>6834656,6834661,6817152,6798399</bundle_skus>
+  </item>
+  <item>
     <id>9000000095</id>
     <ecommerce_id>878551251</ecommerce_id>
     <title>Cloudwater Brew Co. - IPA Triplet</title>
@@ -10175,6 +10195,6 @@
     <date_canned>2025-03-03</date_canned>
     <untappd_id>6180169</untappd_id>
   </item>
-  <timestamp>1794900607</timestamp>
-  <gen_date>17/11/2026 08:30:07</gen_date>
+  <timestamp>1794901506</timestamp>
+  <gen_date>17/11/2026 08:45:06</gen_date>
 </feed>
