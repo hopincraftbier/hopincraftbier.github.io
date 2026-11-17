@@ -5,6 +5,46 @@
   <link>https://hopincraftbier.be</link>
   <description>Hop In Craftbier Products feed</description>
   <item>
+    <id>9000000098</id>
+    <ecommerce_id>878549504</ecommerce_id>
+    <title>Oso Brew Co - Pair</title>
+    <url>https://hopincraftbier.be/products/oso-brew-co-pair</url>
+    <brewery_name>Oso Brew Co</brewery_name>
+    <price>13.3</price>
+    <regular_price>14</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/878549504/6417389004.png</image>
+    <beer_description>The Oso Brew Co - Pair contains: - Oso - BellezaIPA - New England / Hazy | 7% | 440 ml - Oso - La Leche DIPA: Idaho-7, Citra, Kiwi BlendIPA - Double / Oat Cream | 8,4% | 440 ml</beer_description>
+    <beer_style>IPA</beer_style>
+    <beer_abv>7 - 8%</beer_abv>
+    <beer_volume>2x440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Spain</brewery_country>
+    <date_canned>2026-08-04</date_canned>
+    <beer_package_count>2</beer_package_count>
+    <beer_bundle>1</beer_bundle>
+    <bundle_skus>6819962,6819959</bundle_skus>
+  </item>
+  <item>
+    <id>9000000097</id>
+    <ecommerce_id>878549503</ecommerce_id>
+    <title>Oso Brew Co - Triplet</title>
+    <url>https://hopincraftbier.be/products/oso-brew-co-triplet</url>
+    <brewery_name>Oso Brew Co</brewery_name>
+    <price>19.07</price>
+    <regular_price>20.07</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/878549503/6417396754.png</image>
+    <beer_description>The Oso Brew Co - Triplet contains: - Oso - AuraIPA - New England / Hazy | 7% | 440 ml - Oso - MainlineIPA - West Coast | 7% | 440 ml - Oso - DominionIPA - Imperial / Double | 8,4% | 440 ml</beer_description>
+    <beer_style>IPA</beer_style>
+    <beer_abv>7 - 8%</beer_abv>
+    <beer_volume>3x440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Spain</brewery_country>
+    <date_canned>2026-06-10</date_canned>
+    <beer_package_count>3</beer_package_count>
+    <beer_bundle>1</beer_bundle>
+    <bundle_skus>6745201,6740758,6745199</bundle_skus>
+  </item>
+  <item>
     <id>9000000096</id>
     <ecommerce_id>878549502</ecommerce_id>
     <title>Vault City Brewing - Quartet</title>
@@ -10195,6 +10235,6 @@
     <date_canned>2025-03-03</date_canned>
     <untappd_id>6180169</untappd_id>
   </item>
-  <timestamp>1794901506</timestamp>
-  <gen_date>17/11/2026 08:45:06</gen_date>
+  <timestamp>1794902406</timestamp>
+  <gen_date>17/11/2026 09:00:06</gen_date>
 </feed>
