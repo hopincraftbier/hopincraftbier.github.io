@@ -5,6 +5,69 @@
   <link>https://hopincraftbier.be</link>
   <description>Hop In Craftbier Products feed</description>
   <item>
+    <id>9000000095</id>
+    <ecommerce_id>878551251</ecommerce_id>
+    <title>Cloudwater Brew Co. - IPA Triplet</title>
+    <url>https://hopincraftbier.be/products/cloudwater-brew-co-ipa-triplet</url>
+    <brewery_name>Cloudwater Brew Co.</brewery_name>
+    <price>12.48</price>
+    <regular_price>27.73</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/878551251/6417188562.png</image>
+    <beer_description>The Cloudwater Brew Co. - IPA Triplet contains: - Cloudwater - EssenceIPA - New England / Hazy | 6,5% | 440 ml - Cloudwater - NexusIPA - New England / Hazy | 6,5% | 440 ml - Cloudwater - Hooked On AotearoaIPA - New Zealand | 7% | 440 ml</beer_description>
+    <beer_style>IPA</beer_style>
+    <beer_abv>6 - 7%</beer_abv>
+    <beer_volume>3x440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>England</brewery_country>
+    <date_best_before>2026-11-11</date_best_before>
+    <date_canned>2026-05-11</date_canned>
+    <beer_package_count>3</beer_package_count>
+    <beer_bundle>1</beer_bundle>
+    <bundle_skus>6681759,6681760,6681757</bundle_skus>
+  </item>
+  <item>
+    <id>9000000094</id>
+    <ecommerce_id>878549501</ecommerce_id>
+    <title>Cloudwater Brew Co. - DIPA Triplet</title>
+    <url>https://hopincraftbier.be/products/cloudwater-brew-co-dipa-triplet</url>
+    <brewery_name>Cloudwater Brew Co.</brewery_name>
+    <price>24.29</price>
+    <regular_price>30.36</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/878549501/6417188574.png</image>
+    <beer_description>The Cloudwater Brew Co. - DIPA Triplet contains: - Cloudwater - VolandoIPA - Imperial / Double New England / Hazy | 8% | 440 ml - Cloudwater - InnocenceIPA - Imperial / Double | 8% | 440 ml - Cloudwater - HauntedIPA - Imperial / Double | 8% | 440 ml</beer_description>
+    <beer_style>IPA - Imperial / Double</beer_style>
+    <beer_abv>8%</beer_abv>
+    <beer_volume>3x440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>England</brewery_country>
+    <date_best_before>2026-12-17</date_best_before>
+    <date_canned>2026-06-17</date_canned>
+    <beer_package_count>3</beer_package_count>
+    <beer_bundle>1</beer_bundle>
+    <bundle_skus>6729656,6729664,6729660</bundle_skus>
+  </item>
+  <item>
+    <id>9000000093</id>
+    <ecommerce_id>878531871</ecommerce_id>
+    <title>Cloudwater Brew Co. - Sextet</title>
+    <url>https://hopincraftbier.be/products/cloudwater-brew-co-sextet</url>
+    <brewery_name>Cloudwater Brew Co.</brewery_name>
+    <price>36.6</price>
+    <regular_price>58.09</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/878531871/6417188604.png</image>
+    <beer_description>The Cloudwater Brew Co. - Sextet contains: - Cloudwater - EssenceIPA - New England / Hazy | 6,5% | 440 ml - Cloudwater - NexusIPA - New England / Hazy | 6,5% | 440 ml - Cloudwater - Hooked On AotearoaIPA - New Zealand | 7% | 440 ml - Cloudwater - VolandoIPA - Imperial / Double New England / Hazy | 8% | 440 ml - Cloudwater - InnocenceIPA - Imperial / Double | 8% | 440 ml - Cloudwater - HauntedIPA - Imperial / Double | 8% | 440 ml</beer_description>
+    <beer_style>IPA</beer_style>
+    <beer_abv>6 - 8%</beer_abv>
+    <beer_volume>6x440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>England</brewery_country>
+    <date_best_before>2026-11-11</date_best_before>
+    <date_canned>2026-05-11</date_canned>
+    <beer_package_count>6</beer_package_count>
+    <beer_bundle>1</beer_bundle>
+    <bundle_skus>6681759,6681760,6681757,6729656,6729664,6729660</bundle_skus>
+  </item>
+  <item>
     <id>6384423</id>
     <ecommerce_id>878308688</ecommerce_id>
     <title>Ninth Birthday Impy</title>
@@ -4138,7 +4201,7 @@
     <brewery_name>Cloudwater Brew Co.</brewery_name>
     <price>9.1</price>
     <regular_price>10.7</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/841647951/5819620954.png</image>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/841647951/6417188316.png</image>
     <beer_description>We welcomed our friends Tripping Animals all the way from Miami into the brewery to collaborate on a style we both know and love, a big fruit-forward DIPA. The inspiration? To capture the sun-drenched spirit of Miami’s white beaches and tropical landscape. We’ve selected a blend of Motueka Cryo, Nelson Cryo and Strata T90 for luscious flavours of ripe guava, fresh strawberries, all complemented by refined hints of lychee and green grapes. Cloudwater Brew Co. - Volando</beer_description>
     <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
     <beer_abv>8%</beer_abv>
@@ -4157,7 +4220,7 @@
     <brewery_name>Cloudwater Brew Co.</brewery_name>
     <price>4.52</price>
     <regular_price>9.04</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/841647946/5819630012.png</image>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/841647946/6417188820.png</image>
     <beer_description>A deep dive into the impact of cryogenically frozen hops, focusing on differences between Cyro and Cyro Fresh hops Simcoe and Krush. Cyro hops are dried and processed before being frozen creating more concentrated hop oils for maximum efficiency in dry-hopping. Cyro Fresh hops are flash frozen ‘wet’ , locking in bright and fresh characteristics and allowing wet-hop style beers to be brewed all year round. We’ve crafted two IPA’s, one using Cyro hops and the other Cyro Fresh so we invite you to lean into this exploration, form your own opinion and help us continue to develop modern hopping processes. Cloudwater Brew Co. - Nexus</beer_description>
     <beer_style>IPA - New England / Hazy</beer_style>
     <beer_abv>6.5%</beer_abv>
@@ -4176,7 +4239,7 @@
     <brewery_name>Cloudwater Brew Co.</brewery_name>
     <price>8.35</price>
     <regular_price>9.82</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/841645950/5819613219.png</image>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/841645950/6417188556.png</image>
     <beer_description>An exploration in elevated classics &amp; refined dankness. For this split batch West Coast DIPA, we’ve gone down a fruitier route, introducing luscious peach and tropical notes. By using Nectaron, a New Zealand hop that delivers vibrant, fruit-forward flavours, we have paired these sweeter notes with the traditional resinous and crisp characteristics of the style. A touch of Centennial is also added for a floral and earthy balance, creating a unique fusion of classic and modern. Cloudwater Brew Co. - Innocence</beer_description>
     <beer_style>IPA - Imperial / Double</beer_style>
     <beer_abv>8%</beer_abv>
@@ -4195,7 +4258,7 @@
     <brewery_name>Cloudwater Brew Co.</brewery_name>
     <price>4.83</price>
     <regular_price>9.65</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/841645949/5819613249.png</image>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/841645949/6417188328.png</image>
     <beer_description>Pronounced ‘ow-tear-roh-ah’, this Hooked On DDH IPA takes us on an exploration into New Zealand hops. Riwaka and the Riwaka variety, Eggers, create a dank and heavy tropical base while Nelson elevates this with a light white grape touch, reminiscent of refreshing glasses of crisp Sauvignon Blanc, all while Motueka ties everything together with a fresh, zesty punch. A beautiful balance of herbal dankness and refined sophistication Cloudwater Brew Co. - Hooked On Aotearoa</beer_description>
     <beer_style>IPA - New Zealand</beer_style>
     <beer_abv>7%</beer_abv>
@@ -4214,7 +4277,7 @@
     <brewery_name>Cloudwater Brew Co.</brewery_name>
     <price>8.36</price>
     <regular_price>9.84</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/841644679/5819621733.png</image>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/841644679/6417188310.png</image>
     <beer_description>An exploration in elevated classics &amp; refined dankness. Taking cues from one of our favourite hop pairings, we’ve explored how dank, resinous varieties can be elevated within pine-forward profiles. In this split batch West Coast DIPA, we've leaned into a different fruit-forward expression, highlighting the delicate white wine and crushed gooseberry characteristics of Nelson Sauvin. These are then perfectly complemented by the soft mango, blueberry, and earthy pine notes of Mosaic Cloudwater Brew Co. - Haunted</beer_description>
     <beer_style>IPA - Imperial / Double</beer_style>
     <beer_abv>8%</beer_abv>
@@ -4233,7 +4296,7 @@
     <brewery_name>Cloudwater Brew Co.</brewery_name>
     <price>4.52</price>
     <regular_price>9.04</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/841647945/5819631273.png</image>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/841647945/6417188322.png</image>
     <beer_description>A deep dive into the impact of cryogenically frozen hops, focusing on differences between Cyro and Cyro Fresh hops Simcoe and Krush. Cyro hops are dried and processed before being frozen creating more concentrated hop oils for maximum efficiency in dry-hopping. Cyro Fresh hops are flash frozen ‘wet’ , locking in bright and fresh characteristics and allowing wet-hop style beers to be brewed all year round. We’ve crafted two IPA’s, one using Cyro hops and the other Cyro Fresh so we invite you to lean into this exploration, form your own opinion and help us continue to develop modern hopping processes. Cloudwater Brew Co. - Essence</beer_description>
     <beer_style>IPA - New England / Hazy</beer_style>
     <beer_abv>6.5%</beer_abv>
@@ -10112,6 +10175,6 @@
     <date_canned>2025-03-03</date_canned>
     <untappd_id>6180169</untappd_id>
   </item>
-  <timestamp>1794838506</timestamp>
-  <gen_date>16/11/2026 15:15:06</gen_date>
+  <timestamp>1794900607</timestamp>
+  <gen_date>17/11/2026 08:30:07</gen_date>
 </feed>
