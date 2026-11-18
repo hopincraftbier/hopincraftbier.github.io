@@ -5,6 +5,108 @@
   <link>https://hopincraftbier.be</link>
   <description>Hop In Craftbier Products feed</description>
   <item>
+    <id>7615420</id>
+    <ecommerce_id>878727004</ecommerce_id>
+    <title>Ārpus X Transient Artisan Ales Vanilla X Coffee Imperial Stout (collab Transient Artisan Ales)</title>
+    <url>https://hopincraftbier.be/products/arpus-arpus-x-transient-artisan-ales-vanilla-x-coffee-imperial-stout</url>
+    <brewery_name>Ārpus Brewing Co.</brewery_name>
+    <price>7.73</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/878727004/6422617952.png</image>
+    <beer_description>Arpus Brewing Co. - Arpus X Transient Artisan Ales Vanilla X Coffee Imperial Stout</beer_description>
+    <beer_style>Stout - Imperial / Double Coffee</beer_style>
+    <beer_abv>13%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Latvia</brewery_country>
+    <date_best_before>2027-10-31</date_best_before>
+    <untappd_id>7615420</untappd_id>
+  </item>
+  <item>
+    <id>5952969</id>
+    <ecommerce_id>878727003</ecommerce_id>
+    <title>Yolk</title>
+    <url>https://hopincraftbier.be/products/track-yolk</url>
+    <brewery_name>Track Brewing Company</brewery_name>
+    <price>9.83</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/878727003/6422650521.png</image>
+    <beer_description>If it wasn't already obvious, we're a massive fan of everything Eggers Hops do. From their farm in the Moutere Valley in New Zealand, they grow some of the finest hops we've found anywhere, and some of the most unique expressions of the tricky-to-grow Riwaka variety. Their Eggers Special is an epigenetic variant of Riwaka, harvested late in the season when it's super ripe. When paired with our hand selected lot of Riwaka from this year's harvest, it unlocks a whole new level of tropical complexity, with plenty of citrus freshness, herbal dankness and the hop's signature light frazzle of smoke. Track Brewing Company - Yolk</beer_description>
+    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
+    <beer_abv>8%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>England</brewery_country>
+    <date_best_before>2027-04-21</date_best_before>
+    <untappd_id>5952969</untappd_id>
+  </item>
+  <item>
+    <id>7067751</id>
+    <ecommerce_id>878675884</ecommerce_id>
+    <title>Romanticised</title>
+    <url>https://hopincraftbier.be/products/track-romanticised</url>
+    <brewery_name>Track Brewing Company</brewery_name>
+    <price>9.31</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/878675884/6422648783.png</image>
+    <beer_description>Let your tastebuds be transfixed by the captivating allure of this Gold Top DIPA. Citra, Rakau, Motueka, Nelson Sauvin and Limequat walk your palate through a beachside market filled with lemons, limes, mangoes and guava, before a stroll through an orchard, picking plums, figs, and cherries as you go. This assault on your senses is cushioned by the hallmark fleck of lactose. Track Brewing Company - Romanticised</beer_description>
+    <beer_style>IPA - Imperial / Double Milkshake</beer_style>
+    <beer_abv>8.4%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>England</brewery_country>
+    <date_best_before>2027-03-17</date_best_before>
+    <untappd_id>7067751</untappd_id>
+  </item>
+  <item>
+    <id>7067883</id>
+    <ecommerce_id>878668936</ecommerce_id>
+    <title>Notice</title>
+    <url>https://hopincraftbier.be/products/track-notice</url>
+    <brewery_name>Track Brewing Company</brewery_name>
+    <price>9.83</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/878668936/6422648795.png</image>
+    <beer_description>A dynamic and supremely expressive DIPA teaming Citra with Peacharine, Nelson Sauvin and Fresh Cold Pressed Nelson. Pink Grapefruit, fresh nectarine and lime mellow into mango, guava and ripe peach, leading to sharp, bright grape and gooseberry tang, with a dank herbal finish. Track Brewing Company - Notice</beer_description>
+    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
+    <beer_abv>8%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>England</brewery_country>
+    <date_best_before>2027-03-17</date_best_before>
+    <untappd_id>7067883</untappd_id>
+  </item>
+  <item>
+    <id>7615531</id>
+    <ecommerce_id>878727002</ecommerce_id>
+    <title>Moonless Night</title>
+    <url>https://hopincraftbier.be/products/track-moonless-night</url>
+    <brewery_name>Track Brewing Company</brewery_name>
+    <price>8.91</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/878727002/6422648819.png</image>
+    <beer_description>We have been lucky to again be selected as part of a select group of breweries to take part in Eggers Hops' Terranean Project, an international collaborative celebration of unique lots harvested in unique conditions. This year we have brewed an IPA using their New Moon Harvest hops, a micro-lot of Nelson Sauvin grown in Eggers’ Olive Garden and picked under the invisible new moon. The hops have imparted bright grapefruit leading into layered tropical fruit, with a fresh green character and dank, resinous edges underneath. Track Brewing Company - Moonless Night</beer_description>
+    <beer_style>IPA - New England / Hazy</beer_style>
+    <beer_abv>6.5%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>England</brewery_country>
+    <date_best_before>2027-04-05</date_best_before>
+    <untappd_id>7615531</untappd_id>
+  </item>
+  <item>
+    <id>6828710</id>
+    <ecommerce_id>878727001</ecommerce_id>
+    <title>ROaR (collab RaR)</title>
+    <url>https://hopincraftbier.be/products/omnipollo-roar</url>
+    <brewery_name>Omnipollo</brewery_name>
+    <price>9.87</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/878727001/6422648825.png</image>
+    <beer_description>A collaboration with Justin from RaR Brewing, this Double IPA is a deep dive into modern technique. Inspired by RaR’s Out of Order series, we’ve combined their process with ours to achieve maximum hop saturation. We’ve utilized flowables—ultra-high-quality natural hop extracts—to boost the aroma and intensity to new heights without the harshness of excess plant material. Expect a hazy, super hop-saturated yet soft experience, featuring a blend of our favorite US and Southern Hemisphere varieties. Omnipollo - ROaR</beer_description>
+    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
+    <beer_abv>8%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Sweden</brewery_country>
+    <date_best_before>2027-08-04</date_best_before>
+    <untappd_id>6828710</untappd_id>
+  </item>
+  <item>
     <id>9000000098</id>
     <ecommerce_id>878549504</ecommerce_id>
     <title>Oso Brew Co - Pair</title>
@@ -10180,6 +10282,6 @@
     <date_canned>2025-03-03</date_canned>
     <untappd_id>6180169</untappd_id>
   </item>
-  <timestamp>1794918606</timestamp>
-  <gen_date>17/11/2026 13:30:06</gen_date>
+  <timestamp>1794992860</timestamp>
+  <gen_date>18/11/2026 10:07:40</gen_date>
 </feed>
