@@ -4305,6 +4305,21 @@
     <untappd_id>6727242</untappd_id>
   </item>
   <item>
+    <id>9000000056</id>
+    <ecommerce_id>843702780</ecommerce_id>
+    <title>Adventskalender 2026</title>
+    <url>https://hopincraftbier.be/products/moersleutel-adventskalender-2026</url>
+    <brewery_name>Moersleutel Craft Brewery</brewery_name>
+    <price>160.61</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/843702780/5836808461.png</image>
+    <beer_description>The legendary Moersleutel Advent Calendar has been completely sold out for three years in a row and returns as the ultimate premium gift product for the holidays. This year, this exact luxury edition – normally reserved exclusively for loyal 'Guild' members – is available to retail in a very limited run. It is an absolute eye-catcher in the store and the perfect December gift for the serious beer connoisseur to count down the day with a new liquid masterpiece. What’s inside? The calendar is filled with 24 unique beers, with an emphasis on brand-new brews, exclusive releases, and beloved Moersleutel favorites: 8 Advent Exclusives: Gems brewed especially for the calendar that consistently score astronomically high on Untappd. 4 Barrel Aged Specials: Thick, complex powerhouses that have matured in wooden barrels for months. 1 Indulgence: The absolute flagship of the Moersleutel brewing art; an extremely rare release reserved exclusively for the Guild and this advent calendar. Wide selection of styles: From thick, syrupy Imperial Stouts to crystal-clear, Juicy IPAs and bold, alternative beer styles. Wrench Craft Brewery - Advent Calendar 2026</beer_description>
+    <beer_style>Mix - Mix</beer_style>
+    <beer_abv>?%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>The Netherlands</brewery_country>
+  </item>
+  <item>
     <id>6725274</id>
     <ecommerce_id>843047136</ecommerce_id>
     <title>DBA Mega</title>
@@ -10283,6 +10298,6 @@
     <date_canned>2025-03-03</date_canned>
     <untappd_id>6180169</untappd_id>
   </item>
-  <timestamp>1795077907</timestamp>
-  <gen_date>19/11/2026 09:45:07</gen_date>
+  <timestamp>1795078320</timestamp>
+  <gen_date>19/11/2026 09:52:00</gen_date>
 </feed>
