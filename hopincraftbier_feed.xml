@@ -5067,22 +5067,6 @@
     <untappd_id>6775287</untappd_id>
   </item>
   <item>
-    <id>6764793</id>
-    <ecommerce_id>838634149</ecommerce_id>
-    <title>Eight Matches</title>
-    <url>https://hopincraftbier.be/products/wax-wings-eight-matches</url>
-    <brewery_name>Wax Wings Brewing Company</brewery_name>
-    <price>39.53</price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/838634149/5816892667.png</image>
-    <beer_description>A special release for our 8th anniversary party! English Barleywine, blended from barrels aged between 14 and 17 months. Showcasing layers of toffee, caramel, fig, and dark fruit, elevated by notes of vanilla, oak, and bourbon from an extended stay in a blend of Four Roses, Weller Special Reserve, and Buffalo Trace barrels. Full-bodied, warming, and exceptionally smooth. Wax Wings - 8 Matches (8th Anniversary)</beer_description>
-    <beer_style>Barleywine - English</beer_style>
-    <beer_abv>14%</beer_abv>
-    <beer_volume>500 ml</beer_volume>
-    <beer_package>bottle</beer_package>
-    <brewery_country>United States</brewery_country>
-    <untappd_id>6764793</untappd_id>
-  </item>
-  <item>
     <id>6787519</id>
     <ecommerce_id>838634922</ecommerce_id>
     <title>Eight Streamers</title>
@@ -10283,6 +10267,6 @@
     <date_canned>2025-03-03</date_canned>
     <untappd_id>6180169</untappd_id>
   </item>
-  <timestamp>1795172406</timestamp>
-  <gen_date>20/11/2026 12:00:06</gen_date>
+  <timestamp>1795202106</timestamp>
+  <gen_date>20/11/2026 20:15:06</gen_date>
 </feed>
