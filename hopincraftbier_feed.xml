@@ -5,6 +5,43 @@
   <link>https://hopincraftbier.be</link>
   <description>Hop In Craftbier Products feed</description>
   <item>
+    <id>5063519</id>
+    <ecommerce_id>879177445</ecommerce_id>
+    <title>Nebulous Sky</title>
+    <url>https://hopincraftbier.be/products/verdant-nebulous-sky</url>
+    <brewery_name>Verdant Brewing Co</brewery_name>
+    <price>8.91</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/879177445/6436341627.png</image>
+    <beer_description>Wow...this is a big beauty! Three of our favourite hops getting the TDHNDDIPA (Triple Dry Hop No Dextrose Double IPA) treatment, Verdant style. Big belter of a beer that's fully loaded! HOPS: Mosaic, Galaxy, Nelson Sauvin Verdant Brewing Co - Nebulous Sky</beer_description>
+    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
+    <beer_abv>8.4%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>England</brewery_country>
+    <date_best_before>2027-03-25</date_best_before>
+    <date_canned>2026-09-24</date_canned>
+    <untappd_id>5063519</untappd_id>
+  </item>
+  <item>
+    <id>7182160</id>
+    <ecommerce_id>879188697</ecommerce_id>
+    <title>Blurred</title>
+    <url>https://hopincraftbier.be/products/soma-blurred</url>
+    <brewery_name>SOMA Beer</brewery_name>
+    <price>8</price>
+    <regular_price>8.00</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/879188697/6436342652.png</image>
+    <beer_description>Motueka, NZ Cascade, Krush &amp; Motueka HopKief SOMA Beer - Blurred</beer_description>
+    <beer_style>IPA - Triple New England / Hazy</beer_style>
+    <beer_abv>10%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Spain</brewery_country>
+    <date_best_before>2027-04-08</date_best_before>
+    <date_canned>2026-10-08</date_canned>
+    <untappd_id>7182160</untappd_id>
+  </item>
+  <item>
     <id>7520973</id>
     <ecommerce_id>878727015</ecommerce_id>
     <title>Talira Bourbon BA (Silver Series) (collab Seven Island)</title>
@@ -1895,6 +1932,22 @@
     <untappd_id>6820587</untappd_id>
   </item>
   <item>
+    <id>6843925</id>
+    <ecommerce_id>862405779</ecommerce_id>
+    <title>Grain Finished Two (collab Fidens)</title>
+    <url>https://hopincraftbier.be/products/finback-grain-finished-two</url>
+    <brewery_name>Finback Brewery</brewery_name>
+    <price>10.33</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/862405779/6228655103.png</image>
+    <beer_description>Double IPA with Citra, Azacca, Riwaka Hop Kief and Nectaron Hop Kief Finback Brewery - Grain Finished Two</beer_description>
+    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
+    <beer_abv>8.8%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>United States</brewery_country>
+    <untappd_id>6843925</untappd_id>
+  </item>
+  <item>
     <id>6912486</id>
     <ecommerce_id>862400875</ecommerce_id>
     <title>Xulander (collab Xül)</title>
@@ -2221,6 +2274,22 @@
     <beer_package>can</beer_package>
     <brewery_country>Canada</brewery_country>
     <untappd_id>5111641</untappd_id>
+  </item>
+  <item>
+    <id>6714057</id>
+    <ecommerce_id>862186073</ecommerce_id>
+    <title>Ba Grazing On the Ordinary (2026)</title>
+    <url>https://hopincraftbier.be/products/finback-ba-grazing-on-the-ordinary-2026</url>
+    <brewery_name>Finback Brewery</brewery_name>
+    <price>28.74</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/862186073/6436334347.png</image>
+    <beer_description>with Coconut, Hazelnut, and Milk Sugar. Finback Brewery - Ba Grazing On the Ordinary (2026)</beer_description>
+    <beer_style>Stout - Imperial / Double Pastry</beer_style>
+    <beer_abv>11.3%</beer_abv>
+    <beer_volume>500 ml</beer_volume>
+    <beer_package>bottle</beer_package>
+    <brewery_country>United States</brewery_country>
+    <untappd_id>6714057</untappd_id>
   </item>
   <item>
     <id>6829850</id>
@@ -2724,6 +2793,57 @@
     <date_best_before>2027-06-11</date_best_before>
     <date_canned>2026-08-11</date_canned>
     <untappd_id>6826095</untappd_id>
+  </item>
+  <item>
+    <id>7626996</id>
+    <ecommerce_id>855726554</ecommerce_id>
+    <title>Bourbon County Brand Apple Crisp Stout 2026</title>
+    <url>https://hopincraftbier.be/products/goose-island-bourbon-county-brand-apple-crisp-stout-2026</url>
+    <brewery_name>Goose Island Beer Co.</brewery_name>
+    <price>19.45</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/855726554/6089246785.png</image>
+    <beer_description>Imperial stout aged in bourbon barrels with apple, cinnamon, nutmeg, clove, oats and panela This beer is not allowed to be sold before 27/11; so will be shipped at the earliest on 27/11 Goose Island Beer Co. - Bourbon County Brand Apple Crisp Stout 2026</beer_description>
+    <beer_style>Stout - Imperial / Double</beer_style>
+    <beer_abv>13.9%</beer_abv>
+    <beer_volume>500 ml</beer_volume>
+    <beer_package>bottle</beer_package>
+    <brewery_country>United States</brewery_country>
+    <date_canned>2026-07-07</date_canned>
+    <untappd_id>7626996</untappd_id>
+  </item>
+  <item>
+    <id>7657431</id>
+    <ecommerce_id>855723426</ecommerce_id>
+    <title>2026 Bourbon County Brand Tiramisu Cask Finish Stout</title>
+    <url>https://hopincraftbier.be/products/goose-island-2026-bourbon-county-brand-tiramisu-cask-finish-stout</url>
+    <brewery_name>Goose Island Beer Co.</brewery_name>
+    <price>19.45</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/855723426/6089245276.png</image>
+    <beer_description>Bourbon County Brand Tiramisu Cask Finish Stout begins where every Bourbon County story does: inside the finest bourbon barrels, where time and oak do their quiet work. But its journey didn't end there. For the first time, Goose Island finished its Original bourbon barrel-aged stout in rum casks — barrels that carry their own storied past — layering a warm sugarcane richness over the cocoa nibs, espresso and vanilla woven into the beer. This beer is not allowed to be sold before 27/11; so will be shipped at the earliest on 27/11 Goose Island Beer Co. - Goose Island Bourbon County Brand Tiramisu Cask Finish Stout</beer_description>
+    <beer_style>Stout - Imperial / Double</beer_style>
+    <beer_abv>15.1%</beer_abv>
+    <beer_volume>500 ml</beer_volume>
+    <beer_package>bottle</beer_package>
+    <brewery_country>United States</brewery_country>
+    <date_canned>2026-07-31</date_canned>
+    <untappd_id>7657431</untappd_id>
+  </item>
+  <item>
+    <id>7629083</id>
+    <ecommerce_id>855729513</ecommerce_id>
+    <title>Bourbon County Brand Stout (2026)</title>
+    <url>https://hopincraftbier.be/products/goose-island-goose-island-bourbon-county-brand-stout-2026</url>
+    <brewery_name>Goose Island Beer Co.</brewery_name>
+    <price>11.02</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/855729513/6089245282.png</image>
+    <beer_description>For years one of the most sought-after barrel-aged stouts in the world, the 2026 edition lives up to that reputation as well. This imperial stout from Goose Island matured for an average of 13 months in bourbon barrels from four legendary distilleries: Buffalo Trace, Heaven Hill, Four Roses, and Wild Turkey. The result is a pitch-black, syrupy beer with deep notes of dark chocolate, vanilla, caramel, and oak, featuring a warm bourbon finish that lingers. A beer to enjoy quietly, or to cellar for a few years and see how it develops. This beer is not allowed to be sold before 27/11; so will be shipped at the earliest on 27/11 Goose Island Beer Co. - Goose Island Bourbon County Brand Stout (2026)</beer_description>
+    <beer_style>Stout - Imperial / Double</beer_style>
+    <beer_abv>14.2%</beer_abv>
+    <beer_volume>295 ml</beer_volume>
+    <beer_package>bottle</beer_package>
+    <brewery_country>United States</brewery_country>
+    <date_canned>2026-08-18</date_canned>
+    <untappd_id>7629083</untappd_id>
   </item>
   <item>
     <id>6837753</id>
@@ -10205,6 +10325,6 @@
     <date_canned>2025-03-03</date_canned>
     <untappd_id>6180169</untappd_id>
   </item>
-  <timestamp>1795269457</timestamp>
-  <gen_date>21/11/2026 14:57:37</gen_date>
+  <timestamp>1795269998</timestamp>
+  <gen_date>21/11/2026 15:06:38</gen_date>
 </feed>
