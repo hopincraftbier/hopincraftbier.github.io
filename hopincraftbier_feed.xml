@@ -772,6 +772,38 @@
     <bundle_skus>6609515,6609534,6609544,6256677,6743254</bundle_skus>
   </item>
   <item>
+    <id>6918819</id>
+    <ecommerce_id>875854007</ecommerce_id>
+    <title>Orca</title>
+    <url>https://hopincraftbier.be/products/lolev-orca</url>
+    <brewery_name>Lolev Beer</brewery_name>
+    <price>12.34</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/875854007/6380076614.png</image>
+    <beer_description>Hops: Eggers Riwaka, Riwaka SubZero Hop Kief Lolev Beer - Orca</beer_description>
+    <beer_style>IPA - Triple New England / Hazy</beer_style>
+    <beer_abv>10.1%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>United States</brewery_country>
+    <untappd_id>6918819</untappd_id>
+  </item>
+  <item>
+    <id>6874567</id>
+    <ecommerce_id>875861506</ecommerce_id>
+    <title>Kamo V</title>
+    <url>https://hopincraftbier.be/products/lolev-kamo-v</url>
+    <brewery_name>Lolev Beer</brewery_name>
+    <price>10.67</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/875861506/6380068197.png</image>
+    <beer_description>Eggers Riwaka, Eggers Motueka, Eggers ESHcapade, Freestyle Waimea, Freestyle Southern Cross, Hollingbery Citra Liquid Lupulin Hops Lolev Beer - Kamo V</beer_description>
+    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
+    <beer_abv>8%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>United States</brewery_country>
+    <untappd_id>6874567</untappd_id>
+  </item>
+  <item>
     <id>7665095</id>
     <ecommerce_id>875588005</ecommerce_id>
     <title>Latitude</title>
@@ -1746,6 +1778,38 @@
     <untappd_id>6918978</untappd_id>
   </item>
   <item>
+    <id>6903707</id>
+    <ecommerce_id>863464837</ecommerce_id>
+    <title>Serpents Of Time</title>
+    <url>https://hopincraftbier.be/products/ever-grain-serpents-of-time</url>
+    <brewery_name>Ever Grain Brewing Co.</brewery_name>
+    <price>9.67</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/863464837/6317265144.png</image>
+    <beer_description>A massive Hazy Triple IPA saturated with huge amounts of Freestyle Super Sauvin, hand-selected Citra and Celeste, along with Waimea and Nelson Hop Kief. An intense rush of dank, juicy hop character coils through a thick, pillowy haze, delivering layer after layer of saturated tropical fruit and bright citrus with an impossibly smooth finish for a beer this big. Massive. Juicy. Oh so dank. Ever Grain - Serpents Of Time</beer_description>
+    <beer_style>IPA - Triple New England / Hazy</beer_style>
+    <beer_abv>10.5%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>United States</brewery_country>
+    <untappd_id>6903707</untappd_id>
+  </item>
+  <item>
+    <id>6921248</id>
+    <ecommerce_id>863462598</ecommerce_id>
+    <title>Government Drone 3.0 (Ghost 1772)</title>
+    <url>https://hopincraftbier.be/products/adroit-theory-government-drone-3-0-ghost-1772</url>
+    <brewery_name>Adroit Theory</brewery_name>
+    <price>11.34</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/863462598/6228726064.png</image>
+    <beer_description>Well, version 2.0 was an even BIGGER hit! So, you know we had to do it again. Introducing the third iteration of GOVERNMENT DRONE. A Hazy Triple that we jammed an even more obscene amount of hops into it than our normal releases. It will be absolutely saturated with hop-flavor. This time with Motueka as the primary hop. This was a collaboration with Earlybird’s Bottle Shop in Poquoson, VA. Opaque golden yellow, semi-sweet malt body with pillowy texture and minimal bitterness enveloped in notes of fresh 'mojito lime' aroma, lively lemon zest, and tropical fruit undertones. ALC. BY VOL. 10% Adroit Theory - Government Drone 3.0 (Ghost 1772)</beer_description>
+    <beer_style>IPA - Triple New England / Hazy</beer_style>
+    <beer_abv>10%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>United States</brewery_country>
+    <untappd_id>6921248</untappd_id>
+  </item>
+  <item>
     <id>6817152</id>
     <ecommerce_id>863085064</ecommerce_id>
     <title>Stoopid Spaceshake (collab Makemake)</title>
@@ -1866,6 +1930,55 @@
     <date_best_before>2027-02-07</date_best_before>
     <date_canned>2026-08-07</date_canned>
     <untappd_id>6820587</untappd_id>
+  </item>
+  <item>
+    <id>6843925</id>
+    <ecommerce_id>862405779</ecommerce_id>
+    <title>Grain Finished Two (collab Fidens)</title>
+    <url>https://hopincraftbier.be/products/finback-grain-finished-two</url>
+    <brewery_name>Finback Brewery</brewery_name>
+    <price>10.33</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/862405779/6228655103.png</image>
+    <beer_description>Double IPA with Citra, Azacca, Riwaka Hop Kief and Nectaron Hop Kief Finback Brewery - Grain Finished Two</beer_description>
+    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
+    <beer_abv>8.8%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>United States</brewery_country>
+    <untappd_id>6843925</untappd_id>
+  </item>
+  <item>
+    <id>6912486</id>
+    <ecommerce_id>862400875</ecommerce_id>
+    <title>Xulander (collab Xül)</title>
+    <url>https://hopincraftbier.be/products/equilibrium-xulander</url>
+    <brewery_name>Equilibrium Brewery</brewery_name>
+    <price>9.67</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/862400875/6317265220.png</image>
+    <beer_description>A collaboration not for ants, we teamed up with XUL Brewing to bring you a ridiculously good-looking beer: Xulander. Citra and Mosaic Incognito and T-90s build the whirlpool foundation, while a heavy dry hop of Citra, Enigma, Krush, and Galaxy intensifies citrus and tropical fruit character. Malted barley, flaked oats, torrefied wheat, chit malt, and malted oats support a full, smooth body with a lingering hop finish. Equilibrium - Xulander</beer_description>
+    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
+    <beer_abv>8.5%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>United States</brewery_country>
+    <untappd_id>6912486</untappd_id>
+  </item>
+  <item>
+    <id>6862045</id>
+    <ecommerce_id>862403810</ecommerce_id>
+    <title>Images Fragmentées Volume 2 (collab RaR)</title>
+    <url>https://hopincraftbier.be/products/brasserie-du-bas-canada-images-fragmentees-v-2</url>
+    <brewery_name>Brasserie du Bas-Canada</brewery_name>
+    <price>11.34</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/862403810/6228744331.png</image>
+    <beer_description>Collaboration with RaR Brewing - Double IPA with Citra, Nelson Sauvin, Motueka, Nectaron, Galaxy, Citra Hyperboost &amp; Motueka Hop Kief We are particularly excited to present this new release from a superb collaboration with our friends at RAR Brewing, who make extraordinary hoppy beers! This is Volume 2 of Fragmented Images, a hop-saturated Double IPA featuring Nelson Sauvin, Motueka, Nectaron, Citra, and Galaxy hops, with the addition of Motueka Hop Kief and Citra Hyperboost. Brasserie du Bas-Canada - Images Fragmentees Volume 2</beer_description>
+    <beer_style>IPA - Imperial / Double</beer_style>
+    <beer_abv>9.1%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Canada</brewery_country>
+    <date_canned>2026-09-10</date_canned>
+    <untappd_id>6862045</untappd_id>
   </item>
   <item>
     <id>7171550</id>
@@ -2044,6 +2157,171 @@
     <date_best_before>2027-09-22</date_best_before>
     <date_canned>2026-09-22</date_canned>
     <untappd_id>6920057</untappd_id>
+  </item>
+  <item>
+    <id>6855706</id>
+    <ecommerce_id>862402253</ecommerce_id>
+    <title>Iguana</title>
+    <url>https://hopincraftbier.be/products/lolev-iguana</url>
+    <brewery_name>Lolev Beer</brewery_name>
+    <price>10</price>
+    <regular_price>10.00</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/862402253/6215940871.png</image>
+    <beer_description>Hops: Freestyle Riwaka, Freestyle Waimea, Freestyle Tropical Fusion, Motueka SubZero Hop Kief, Nelson Cold-Pressed Hop Juice Lolev Beer - Iguana</beer_description>
+    <beer_style>IPA - New England / Hazy</beer_style>
+    <beer_abv>7%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>United States</brewery_country>
+    <untappd_id>6855706</untappd_id>
+  </item>
+  <item>
+    <id>6923926</id>
+    <ecommerce_id>862398491</ecommerce_id>
+    <title>Deth's Tar (2026)</title>
+    <url>https://hopincraftbier.be/products/revolution-deths-tar-2026</url>
+    <brewery_name>Revolution Brewing</brewery_name>
+    <price>12.6</price>
+    <regular_price>12.60</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/862398491/6215874913.png</image>
+    <beer_description>A prolonged repose in bourbon-soaked American oak barrels adorns a dark chocolate profile with notes of toasted coconut and vanilla. A rich, supple texture belies the unholy power of our Imperial Oatmeal Stout. Revolution - Deth's Tar (2026)</beer_description>
+    <beer_style>Stout - Imperial / Double Oatmeal</beer_style>
+    <beer_abv>?%</beer_abv>
+    <beer_volume>355 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>United States</brewery_country>
+    <date_canned>2026-09-16</date_canned>
+    <untappd_id>6923926</untappd_id>
+  </item>
+  <item>
+    <id>6860815</id>
+    <ecommerce_id>862385112</ecommerce_id>
+    <title>Kong</title>
+    <url>https://hopincraftbier.be/products/all-my-friends-kong</url>
+    <brewery_name>All My Friends Beer Co.</brewery_name>
+    <price>10</price>
+    <regular_price>10.00</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/862385112/6215861885.png</image>
+    <beer_description>IPA New England with Citra, Krush &amp; Freestyle Waimea hops All My Friends - Kong</beer_description>
+    <beer_style>IPA - New England / Hazy</beer_style>
+    <beer_abv>6.8%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Canada</brewery_country>
+    <untappd_id>6860815</untappd_id>
+  </item>
+  <item>
+    <id>6860817</id>
+    <ecommerce_id>862385111</ecommerce_id>
+    <title>Keeper</title>
+    <url>https://hopincraftbier.be/products/all-my-friends-keeper</url>
+    <brewery_name>All My Friends Beer Co.</brewery_name>
+    <price>11</price>
+    <regular_price>11.00</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/862385111/6215874795.png</image>
+    <beer_description>IPA Double New England with Citra, Superdelic &amp; Nelson Sauvin hops All My Friends - Keeper</beer_description>
+    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
+    <beer_abv>8.2%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Canada</brewery_country>
+    <untappd_id>6860817</untappd_id>
+  </item>
+  <item>
+    <id>5254999</id>
+    <ecommerce_id>862186075</ecommerce_id>
+    <title>Echidna</title>
+    <url>https://hopincraftbier.be/products/mortalis-echidna</url>
+    <brewery_name>Mortalis Brewing Company</brewery_name>
+    <price>13.01</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/862186075/6215964862.png</image>
+    <beer_description>The vibrant flavors in this Fruited Smoothie Sour create a tropical symphony on the palate. The creamy coconut harmonizes with the mango, kiwi, banana, and pineapple, transporting your taste buds to a sun-soaked paradise. It's a burst of tropical bliss! Mortalis Brewing Company - Echidna</beer_description>
+    <beer_style>Sour - Smoothie / Pastry</beer_style>
+    <beer_abv>7%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>United States</brewery_country>
+    <untappd_id>5254999</untappd_id>
+  </item>
+  <item>
+    <id>3713986</id>
+    <ecommerce_id>862186074</ecommerce_id>
+    <title>Onomatopoeia</title>
+    <url>https://hopincraftbier.be/products/lost-tavern-onomatopoeia</url>
+    <brewery_name>Lost Tavern Brewing</brewery_name>
+    <price>13.68</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/862186074/6228638893.png</image>
+    <beer_description>Heavily fruited, sour ale with mango, pineapple, peach, vanilla and dairy free mango &amp; pineapple soft serve. *Non-Dairy* Lost Tavern Brewing - Onomatopoeia</beer_description>
+    <beer_style>Sour - Fruited</beer_style>
+    <beer_abv>7.5%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>United States</brewery_country>
+    <untappd_id>3713986</untappd_id>
+  </item>
+  <item>
+    <id>5111641</id>
+    <ecommerce_id>862187033</ecommerce_id>
+    <title>Dock 28 - Peacharine</title>
+    <url>https://hopincraftbier.be/products/le-ketch-dock-28-peacharine</url>
+    <brewery_name>Le Ketch</brewery_name>
+    <price>11.34</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/862187033/6215809752.png</image>
+    <beer_description>Double New England IPA hopped exclusively with the Peacharine variety from Freestyle Hops in New Zealand. With a touch of honey from Vieux Moulin de Sainte-Flavie. Le Ketch - Dock 28 - Peacharine</beer_description>
+    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
+    <beer_abv>8%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Canada</brewery_country>
+    <untappd_id>5111641</untappd_id>
+  </item>
+  <item>
+    <id>6714057</id>
+    <ecommerce_id>862186073</ecommerce_id>
+    <title>Ba Grazing On the Ordinary (2026)</title>
+    <url>https://hopincraftbier.be/products/finback-ba-grazing-on-the-ordinary-2026</url>
+    <brewery_name>Finback Brewery</brewery_name>
+    <price>28.74</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/862186073/6436334347.png</image>
+    <beer_description>with Coconut, Hazelnut, and Milk Sugar. Finback Brewery - Ba Grazing On the Ordinary (2026)</beer_description>
+    <beer_style>Stout - Imperial / Double Pastry</beer_style>
+    <beer_abv>11.3%</beer_abv>
+    <beer_volume>500 ml</beer_volume>
+    <beer_package>bottle</beer_package>
+    <brewery_country>United States</brewery_country>
+    <untappd_id>6714057</untappd_id>
+  </item>
+  <item>
+    <id>6829850</id>
+    <ecommerce_id>862186072</ecommerce_id>
+    <title>Double DopeSurge</title>
+    <url>https://hopincraftbier.be/products/3-sons-double-dopesurge</url>
+    <brewery_name>3 Sons Brewing Co.</brewery_name>
+    <price>12.68</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/862186072/6215917707.png</image>
+    <beer_description>QDH HopSurged hazy DIPA with lot selected citra and mosaic 3 Sons Brewing Co. - Double DopeSurge</beer_description>
+    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
+    <beer_abv>9%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>United States</brewery_country>
+    <untappd_id>6829850</untappd_id>
+  </item>
+  <item>
+    <id>6853678</id>
+    <ecommerce_id>862187031</ecommerce_id>
+    <title>Built Different</title>
+    <url>https://hopincraftbier.be/products/3-sons-built-different</url>
+    <brewery_name>3 Sons Brewing Co.</brewery_name>
+    <price>13.01</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/862187031/6215917701.png</image>
+    <beer_description>QDH HopSurged hazy triple IPA in collaboration with our friends from Orchestrated Brewing. Our biggest hopsurge IPA in the series yet. 3 Sons Brewing Co. - Built Different</beer_description>
+    <beer_style>IPA - Triple New England / Hazy</beer_style>
+    <beer_abv>10.5%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>United States</brewery_country>
+    <untappd_id>6853678</untappd_id>
   </item>
   <item>
     <id>6726422</id>
@@ -2515,6 +2793,57 @@
     <date_best_before>2027-06-11</date_best_before>
     <date_canned>2026-08-11</date_canned>
     <untappd_id>6826095</untappd_id>
+  </item>
+  <item>
+    <id>7626996</id>
+    <ecommerce_id>855726554</ecommerce_id>
+    <title>Bourbon County Brand Apple Crisp Stout 2026</title>
+    <url>https://hopincraftbier.be/products/goose-island-bourbon-county-brand-apple-crisp-stout-2026</url>
+    <brewery_name>Goose Island Beer Co.</brewery_name>
+    <price>19.45</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/855726554/6089246785.png</image>
+    <beer_description>Imperial stout aged in bourbon barrels with apple, cinnamon, nutmeg, clove, oats and panela This beer is not allowed to be sold before 27/11; so will be shipped at the earliest on 27/11 Goose Island Beer Co. - Bourbon County Brand Apple Crisp Stout 2026</beer_description>
+    <beer_style>Stout - Imperial / Double</beer_style>
+    <beer_abv>13.9%</beer_abv>
+    <beer_volume>500 ml</beer_volume>
+    <beer_package>bottle</beer_package>
+    <brewery_country>United States</brewery_country>
+    <date_canned>2026-07-07</date_canned>
+    <untappd_id>7626996</untappd_id>
+  </item>
+  <item>
+    <id>7657431</id>
+    <ecommerce_id>855723426</ecommerce_id>
+    <title>2026 Bourbon County Brand Tiramisu Cask Finish Stout</title>
+    <url>https://hopincraftbier.be/products/goose-island-2026-bourbon-county-brand-tiramisu-cask-finish-stout</url>
+    <brewery_name>Goose Island Beer Co.</brewery_name>
+    <price>19.45</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/855723426/6089245276.png</image>
+    <beer_description>Bourbon County Brand Tiramisu Cask Finish Stout begins where every Bourbon County story does: inside the finest bourbon barrels, where time and oak do their quiet work. But its journey didn't end there. For the first time, Goose Island finished its Original bourbon barrel-aged stout in rum casks — barrels that carry their own storied past — layering a warm sugarcane richness over the cocoa nibs, espresso and vanilla woven into the beer. This beer is not allowed to be sold before 27/11; so will be shipped at the earliest on 27/11 Goose Island Beer Co. - Goose Island Bourbon County Brand Tiramisu Cask Finish Stout</beer_description>
+    <beer_style>Stout - Imperial / Double</beer_style>
+    <beer_abv>15.1%</beer_abv>
+    <beer_volume>500 ml</beer_volume>
+    <beer_package>bottle</beer_package>
+    <brewery_country>United States</brewery_country>
+    <date_canned>2026-07-31</date_canned>
+    <untappd_id>7657431</untappd_id>
+  </item>
+  <item>
+    <id>7629083</id>
+    <ecommerce_id>855729513</ecommerce_id>
+    <title>Bourbon County Brand Stout (2026)</title>
+    <url>https://hopincraftbier.be/products/goose-island-goose-island-bourbon-county-brand-stout-2026</url>
+    <brewery_name>Goose Island Beer Co.</brewery_name>
+    <price>11.02</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/855729513/6089245282.png</image>
+    <beer_description>For years one of the most sought-after barrel-aged stouts in the world, the 2026 edition lives up to that reputation as well. This imperial stout from Goose Island matured for an average of 13 months in bourbon barrels from four legendary distilleries: Buffalo Trace, Heaven Hill, Four Roses, and Wild Turkey. The result is a pitch-black, syrupy beer with deep notes of dark chocolate, vanilla, caramel, and oak, featuring a warm bourbon finish that lingers. A beer to enjoy quietly, or to cellar for a few years and see how it develops. This beer is not allowed to be sold before 27/11; so will be shipped at the earliest on 27/11 Goose Island Beer Co. - Goose Island Bourbon County Brand Stout (2026)</beer_description>
+    <beer_style>Stout - Imperial / Double</beer_style>
+    <beer_abv>14.2%</beer_abv>
+    <beer_volume>295 ml</beer_volume>
+    <beer_package>bottle</beer_package>
+    <brewery_country>United States</brewery_country>
+    <date_canned>2026-08-18</date_canned>
+    <untappd_id>7629083</untappd_id>
   </item>
   <item>
     <id>6837753</id>
@@ -8270,58 +8599,6 @@
     <untappd_id>6611133</untappd_id>
   </item>
   <item>
-    <id>6580747</id>
-    <ecommerce_id>812270061</ecommerce_id>
-    <title>Waypoint (2026) (collab Badlands)</title>
-    <url>https://hopincraftbier.be/products/fine-balance-waypoint-2026</url>
-    <brewery_name>Fine Balance Brewing</brewery_name>
-    <price>9.93</price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/812270061/6405319758.png</image>
-    <beer_description>Waypoint DIPA, brewed in collaboration with Badlands Brewing, was treated with a massive dry-hop featuring two of their favourite hops from 2025: New Zealand Cascade and Nectaron, both from Freestyle Hops. Bright and expressive, this beer has notes of juicy berry and tropical citrus, with a touch of dank pine on the finish. Fine Balance - Waypoint (2026)</beer_description>
-    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
-    <beer_abv>8%</beer_abv>
-    <beer_volume>473 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Canada</brewery_country>
-    <date_canned>01/2026</date_canned>
-    <untappd_id>6580747</untappd_id>
-  </item>
-  <item>
-    <id>6580743</id>
-    <ecommerce_id>812270062</ecommerce_id>
-    <title>Expedition (2026) (collab Counterpart)</title>
-    <url>https://hopincraftbier.be/products/fine-balance-expedition-2026</url>
-    <brewery_name>Fine Balance Brewing</brewery_name>
-    <price>10.59</price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/812270062/6405311220.png</image>
-    <beer_description>Brewed with our friends at Counterpart Brewing in Niagara Falls, ON, Expedition Quad IPA is a big beer with bold flavour. Dry-hopped exclusively with Freestyle Hops—Rakau, Motueka, Nelson Sauvin, and Riwaka—it has notes of tropical fruit salad, guava, papaya, and lime zest. Bright and fresh, this beer finishes with a punch. Fine Balance - Expedition (2026)</beer_description>
-    <beer_style>IPA - Quadruple</beer_style>
-    <beer_abv>11.9%</beer_abv>
-    <beer_volume>473 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Canada</brewery_country>
-    <date_canned>01/2026</date_canned>
-    <untappd_id>6580743</untappd_id>
-  </item>
-  <item>
-    <id>6578107</id>
-    <ecommerce_id>812273779</ecommerce_id>
-    <title>Quest (collab All My Friends)</title>
-    <url>https://hopincraftbier.be/products/fine-balance-quest</url>
-    <brewery_name>Fine Balance Brewing</brewery_name>
-    <price>9.6</price>
-    <regular_price>9.60</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/812273779/6405311214.png</image>
-    <beer_description>The first stop on our IPA Tour Vol. 2 brings us to Bloomfield, PEC, home of All My Friends Beer Co. Quest IPA is a bright and sunny hazy IPA, with notes of pithy grapefruit, passionfruit, and white wine grape. At 6.5% ABV, it’s easy-drinking yet packed with flavour. Fine Balance - Quest</beer_description>
-    <beer_style>IPA - New England / Hazy</beer_style>
-    <beer_abv>6.5%</beer_abv>
-    <beer_volume>473 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Canada</brewery_country>
-    <date_canned>01/2026</date_canned>
-    <untappd_id>6578107</untappd_id>
-  </item>
-  <item>
     <id>9000000061</id>
     <ecommerce_id>811899518</ecommerce_id>
     <title>Prizm Brewing Co. - Quartet #1</title>
@@ -8410,23 +8687,6 @@
     <brewery_country>France</brewery_country>
     <date_best_before>01/2027</date_best_before>
     <untappd_id>6569059</untappd_id>
-  </item>
-  <item>
-    <id>6580745</id>
-    <ecommerce_id>810442517</ecommerce_id>
-    <title>Field Trip TIPA with Superdelic, Nectaron &amp; Southern Cross Hops (collab Willibald)</title>
-    <url>https://hopincraftbier.be/products/fine-balance-field-trip-tipa-with-superdelic-nectaron--southern-cross-hops</url>
-    <brewery_name>Fine Balance Brewing</brewery_name>
-    <price>10.26</price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/810442517/6405312932.png</image>
-    <beer_description>Third in our IPA Tour is Field Trip TIPA, brewed with our pals at Willibald Farm Distillery &amp; Brewery. We're excited to bring this favourite back, this time with a big dry-hop of Superdelic, Nectaron, and Freestyle Southern Cross hops. Field Trip is big, yet extremely drinkable, with a creamy mouthfeel and a quick finish. We get delicious sweet tropical fruit, orange citrus, and candy-like flavours. Fine Balance Brewing - Field Trip TIPA with Superdelic, Nectaron &amp; Southern Cross Hops</beer_description>
-    <beer_style>IPA - Triple New England / Hazy</beer_style>
-    <beer_abv>10%</beer_abv>
-    <beer_volume>473 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Canada</brewery_country>
-    <date_canned>01/2026</date_canned>
-    <untappd_id>6580745</untappd_id>
   </item>
   <item>
     <id>6315867</id>
@@ -8722,23 +8982,6 @@
     <untappd_id>6479597</untappd_id>
   </item>
   <item>
-    <id>6523930</id>
-    <ecommerce_id>801936388</ecommerce_id>
-    <title>Robert Le Chat (collab Bad Bones)</title>
-    <url>https://hopincraftbier.be/products/nano-cinco-robert-le-chat</url>
-    <brewery_name>Nano Cinco</brewery_name>
-    <price>8.71</price>
-    <regular_price>10.25</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/801936388/6405460032.png</image>
-    <beer_description>Robert Le Chat (Robert the Cat) is a New England Double IPA brewed with Southern Cross and Riwaka hops (T90 and SubZero Hop Kief) from Freestyle Hops in New Zealand. An ultra-silky and ultra-aromatic beer with pronounced notes of lemon zest, lime, and kumquat. An extra hoppy ale...? Nano Cinco - Robert Le Chat</beer_description>
-    <beer_style>IPA - Imperial / Double</beer_style>
-    <beer_abv>8.5%</beer_abv>
-    <beer_volume>473 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Canada</brewery_country>
-    <untappd_id>6523930</untappd_id>
-  </item>
-  <item>
     <id>5609464</id>
     <ecommerce_id>801936386</ecommerce_id>
     <title>Origin of Darkness Imperial Stout with Maple Syrup, Pistachio, Vanilla (collab Southern Grist)</title>
@@ -8789,23 +9032,6 @@
     <untappd_id>6250105</untappd_id>
   </item>
   <item>
-    <id>6516548</id>
-    <ecommerce_id>801936315</ecommerce_id>
-    <title>Gasping Dust</title>
-    <url>https://hopincraftbier.be/products/autodidact-beer-gasping-dust</url>
-    <brewery_name>Autodidact Beer</brewery_name>
-    <price>8.71</price>
-    <regular_price>10.25</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5447266765.png</image>
-    <beer_description>A bed of white wheat and oats lay a lush foundation for two of our favorite hops to coalesce and intensify. Motueka and Nelson deliver waves of lime zest, tropical fruit mélange, and ambrosial orange sorbet. Autodidact Beer - Gasping Dust</beer_description>
-    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
-    <beer_abv>8.5%</beer_abv>
-    <beer_volume>473 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>United States</brewery_country>
-    <untappd_id>6516548</untappd_id>
-  </item>
-  <item>
     <id>6501889</id>
     <ecommerce_id>801936314</ecommerce_id>
     <title>Encore</title>
@@ -8839,24 +9065,6 @@
     <brewery_country>Canada</brewery_country>
     <date_canned>2026-01-07</date_canned>
     <untappd_id>6558377</untappd_id>
-  </item>
-  <item>
-    <id>6497918</id>
-    <ecommerce_id>798975560</ecommerce_id>
-    <title>Capitaine AMF - Le Ketch X All My Friends (collab All My Friends)</title>
-    <url>https://hopincraftbier.be/products/le-ketch-capitaine-amf-le-ketch-x-all-my-friends</url>
-    <brewery_name>Le Ketch</brewery_name>
-    <price>9.27</price>
-    <regular_price>10.91</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5409421832.png</image>
-    <beer_description>We didn't have to do much persuading to convince our new friends in Prince Edward County to brew this double NEIPA with us. We hopped this beer in equal parts with Citra and Eggers Special, an extra-strong Riwaka. And of course, a generous amount of local honey. Le Ketch - Capitaine AMF - Le Ketch X All My Friends</beer_description>
-    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
-    <beer_abv>8%</beer_abv>
-    <beer_volume>473 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Canada</brewery_country>
-    <date_canned>2025-12-09</date_canned>
-    <untappd_id>6497918</untappd_id>
   </item>
   <item>
     <id>6480717</id>
@@ -9996,6 +10204,6 @@
     <date_canned>2025-03-03</date_canned>
     <untappd_id>6180169</untappd_id>
   </item>
-  <timestamp>1795275293</timestamp>
-  <gen_date>21/11/2026 16:34:53</gen_date>
+  <timestamp>1795338211</timestamp>
+  <gen_date>22/11/2026 10:03:31</gen_date>
 </feed>
