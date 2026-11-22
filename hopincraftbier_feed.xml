@@ -391,7 +391,7 @@
     <title>Fine Balance Brewing - Quartet #1</title>
     <url>https://hopincraftbier.be/products/fine-balance-brewing-quartet-1</url>
     <brewery_name>Fine Balance Brewing</brewery_name>
-    <price>38.36</price>
+    <price>32.3</price>
     <regular_price>40.38</regular_price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/877718751/6405311184.png</image>
     <beer_description>The Fine Balance Brewing - Quartet #1 contains: - Fine Balance - QuestIPA - New England / Hazy | 6,5% | 473 ml - Fine Balance - Waypoint (2026)IPA - Imperial / Double New England / Hazy | 8% | 473 ml - Fine Balance - Field Trip TIPA with Superdelic, Nectaron &amp; Southern Cross HopsIPA - Triple New England / Hazy | 10% | 473 ml - Fine Balance - Expedition (2026)IPA - Quadruple | 11,9% | 473 ml</beer_description>
@@ -8599,6 +8599,60 @@
     <untappd_id>6611133</untappd_id>
   </item>
   <item>
+    <id>6580747</id>
+    <ecommerce_id>812270061</ecommerce_id>
+    <title>Waypoint (2026) (collab Badlands)</title>
+    <url>https://hopincraftbier.be/products/fine-balance-waypoint-2026</url>
+    <brewery_name>Fine Balance Brewing</brewery_name>
+    <price>8.44</price>
+    <regular_price>9.93</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/812270061/6405319758.png</image>
+    <beer_description>Waypoint DIPA, brewed in collaboration with Badlands Brewing, was treated with a massive dry-hop featuring two of their favourite hops from 2025: New Zealand Cascade and Nectaron, both from Freestyle Hops. Bright and expressive, this beer has notes of juicy berry and tropical citrus, with a touch of dank pine on the finish. Fine Balance - Waypoint (2026)</beer_description>
+    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
+    <beer_abv>8%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Canada</brewery_country>
+    <date_canned>01/2026</date_canned>
+    <untappd_id>6580747</untappd_id>
+  </item>
+  <item>
+    <id>6580743</id>
+    <ecommerce_id>812270062</ecommerce_id>
+    <title>Expedition (2026) (collab Counterpart)</title>
+    <url>https://hopincraftbier.be/products/fine-balance-expedition-2026</url>
+    <brewery_name>Fine Balance Brewing</brewery_name>
+    <price>9</price>
+    <regular_price>10.59</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/812270062/6405311220.png</image>
+    <beer_description>Brewed with our friends at Counterpart Brewing in Niagara Falls, ON, Expedition Quad IPA is a big beer with bold flavour. Dry-hopped exclusively with Freestyle Hops—Rakau, Motueka, Nelson Sauvin, and Riwaka—it has notes of tropical fruit salad, guava, papaya, and lime zest. Bright and fresh, this beer finishes with a punch. Fine Balance - Expedition (2026)</beer_description>
+    <beer_style>IPA - Quadruple</beer_style>
+    <beer_abv>11.9%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Canada</brewery_country>
+    <date_canned>01/2026</date_canned>
+    <untappd_id>6580743</untappd_id>
+  </item>
+  <item>
+    <id>6578107</id>
+    <ecommerce_id>812273779</ecommerce_id>
+    <title>Quest (collab All My Friends)</title>
+    <url>https://hopincraftbier.be/products/fine-balance-quest</url>
+    <brewery_name>Fine Balance Brewing</brewery_name>
+    <price>8.16</price>
+    <regular_price>9.6</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/812273779/6405311214.png</image>
+    <beer_description>The first stop on our IPA Tour Vol. 2 brings us to Bloomfield, PEC, home of All My Friends Beer Co. Quest IPA is a bright and sunny hazy IPA, with notes of pithy grapefruit, passionfruit, and white wine grape. At 6.5% ABV, it’s easy-drinking yet packed with flavour. Fine Balance - Quest</beer_description>
+    <beer_style>IPA - New England / Hazy</beer_style>
+    <beer_abv>6.5%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Canada</brewery_country>
+    <date_canned>01/2026</date_canned>
+    <untappd_id>6578107</untappd_id>
+  </item>
+  <item>
     <id>9000000061</id>
     <ecommerce_id>811899518</ecommerce_id>
     <title>Prizm Brewing Co. - Quartet #1</title>
@@ -8687,6 +8741,24 @@
     <brewery_country>France</brewery_country>
     <date_best_before>01/2027</date_best_before>
     <untappd_id>6569059</untappd_id>
+  </item>
+  <item>
+    <id>6580745</id>
+    <ecommerce_id>810442517</ecommerce_id>
+    <title>Field Trip TIPA with Superdelic, Nectaron &amp; Southern Cross Hops (collab Willibald)</title>
+    <url>https://hopincraftbier.be/products/fine-balance-field-trip-tipa-with-superdelic-nectaron--southern-cross-hops</url>
+    <brewery_name>Fine Balance Brewing</brewery_name>
+    <price>8.72</price>
+    <regular_price>10.26</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/810442517/6405312932.png</image>
+    <beer_description>Third in our IPA Tour is Field Trip TIPA, brewed with our pals at Willibald Farm Distillery &amp; Brewery. We're excited to bring this favourite back, this time with a big dry-hop of Superdelic, Nectaron, and Freestyle Southern Cross hops. Field Trip is big, yet extremely drinkable, with a creamy mouthfeel and a quick finish. We get delicious sweet tropical fruit, orange citrus, and candy-like flavours. Fine Balance Brewing - Field Trip TIPA with Superdelic, Nectaron &amp; Southern Cross Hops</beer_description>
+    <beer_style>IPA - Triple New England / Hazy</beer_style>
+    <beer_abv>10%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Canada</brewery_country>
+    <date_canned>01/2026</date_canned>
+    <untappd_id>6580745</untappd_id>
   </item>
   <item>
     <id>6315867</id>
@@ -8982,6 +9054,23 @@
     <untappd_id>6479597</untappd_id>
   </item>
   <item>
+    <id>6523930</id>
+    <ecommerce_id>801936388</ecommerce_id>
+    <title>Robert Le Chat (collab Bad Bones)</title>
+    <url>https://hopincraftbier.be/products/nano-cinco-robert-le-chat</url>
+    <brewery_name>Nano Cinco</brewery_name>
+    <price>7.69</price>
+    <regular_price>10.25</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/801936388/6405460032.png</image>
+    <beer_description>Robert Le Chat (Robert the Cat) is a New England Double IPA brewed with Southern Cross and Riwaka hops (T90 and SubZero Hop Kief) from Freestyle Hops in New Zealand. An ultra-silky and ultra-aromatic beer with pronounced notes of lemon zest, lime, and kumquat. An extra hoppy ale...? Nano Cinco - Robert Le Chat</beer_description>
+    <beer_style>IPA - Imperial / Double</beer_style>
+    <beer_abv>8.5%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Canada</brewery_country>
+    <untappd_id>6523930</untappd_id>
+  </item>
+  <item>
     <id>5609464</id>
     <ecommerce_id>801936386</ecommerce_id>
     <title>Origin of Darkness Imperial Stout with Maple Syrup, Pistachio, Vanilla (collab Southern Grist)</title>
@@ -9032,6 +9121,23 @@
     <untappd_id>6250105</untappd_id>
   </item>
   <item>
+    <id>6516548</id>
+    <ecommerce_id>801936315</ecommerce_id>
+    <title>Gasping Dust</title>
+    <url>https://hopincraftbier.be/products/autodidact-beer-gasping-dust</url>
+    <brewery_name>Autodidact Beer</brewery_name>
+    <price>7.69</price>
+    <regular_price>10.25</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5447266765.png</image>
+    <beer_description>A bed of white wheat and oats lay a lush foundation for two of our favorite hops to coalesce and intensify. Motueka and Nelson deliver waves of lime zest, tropical fruit mélange, and ambrosial orange sorbet. Autodidact Beer - Gasping Dust</beer_description>
+    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
+    <beer_abv>8.5%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>United States</brewery_country>
+    <untappd_id>6516548</untappd_id>
+  </item>
+  <item>
     <id>6501889</id>
     <ecommerce_id>801936314</ecommerce_id>
     <title>Encore</title>
@@ -9065,6 +9171,24 @@
     <brewery_country>Canada</brewery_country>
     <date_canned>2026-01-07</date_canned>
     <untappd_id>6558377</untappd_id>
+  </item>
+  <item>
+    <id>6497918</id>
+    <ecommerce_id>798975560</ecommerce_id>
+    <title>Capitaine AMF - Le Ketch X All My Friends (collab All My Friends)</title>
+    <url>https://hopincraftbier.be/products/le-ketch-capitaine-amf-le-ketch-x-all-my-friends</url>
+    <brewery_name>Le Ketch</brewery_name>
+    <price>8.18</price>
+    <regular_price>10.91</regular_price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5409421832.png</image>
+    <beer_description>We didn't have to do much persuading to convince our new friends in Prince Edward County to brew this double NEIPA with us. We hopped this beer in equal parts with Citra and Eggers Special, an extra-strong Riwaka. And of course, a generous amount of local honey. Le Ketch - Capitaine AMF - Le Ketch X All My Friends</beer_description>
+    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
+    <beer_abv>8%</beer_abv>
+    <beer_volume>473 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Canada</brewery_country>
+    <date_canned>2025-12-09</date_canned>
+    <untappd_id>6497918</untappd_id>
   </item>
   <item>
     <id>6480717</id>
@@ -10204,6 +10328,6 @@
     <date_canned>2025-03-03</date_canned>
     <untappd_id>6180169</untappd_id>
   </item>
-  <timestamp>1795338211</timestamp>
-  <gen_date>22/11/2026 10:03:31</gen_date>
+  <timestamp>1795346108</timestamp>
+  <gen_date>22/11/2026 12:15:08</gen_date>
 </feed>
