@@ -9225,24 +9225,6 @@
     <untappd_id>6421473</untappd_id>
   </item>
   <item>
-    <id>6473817</id>
-    <ecommerce_id>797998005</ecommerce_id>
-    <title>Don't Fear the Reaper (collab Messorem)</title>
-    <url>https://hopincraftbier.be/products/counterpart-dont-fear-the-reaper</url>
-    <brewery_name>Counterpart Brewing</brewery_name>
-    <price>5.96</price>
-    <regular_price>11.91</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5409082110.png</image>
-    <beer_description>Hazy Triple IPA w/ Nelson Sauvin, Motueka &amp; Motueka Hop Kief brewed in collaboration w/ Messorem Big, juice laden flavours of sauv blanc, gooseberry, apricot, lime zest and pineapple with a balanced, candy-like sweetness. Counterpart - Don't Fear the Reaper</beer_description>
-    <beer_style>IPA - Triple New England / Hazy</beer_style>
-    <beer_abv>10%</beer_abv>
-    <beer_volume>473 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Canada</brewery_country>
-    <date_canned>2025-10-29</date_canned>
-    <untappd_id>6473817</untappd_id>
-  </item>
-  <item>
     <id>5734470</id>
     <ecommerce_id>797998004</ecommerce_id>
     <title>IMPERIAL P-NUT BUSTER - AMANDE</title>
@@ -10328,6 +10310,6 @@
     <date_canned>2025-03-03</date_canned>
     <untappd_id>6180169</untappd_id>
   </item>
-  <timestamp>1795346108</timestamp>
-  <gen_date>22/11/2026 12:15:08</gen_date>
+  <timestamp>1795468506</timestamp>
+  <gen_date>23/11/2026 22:15:06</gen_date>
 </feed>
