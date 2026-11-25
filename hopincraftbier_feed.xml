@@ -1017,6 +1017,54 @@
     <bundle_skus>6414860,6757124,6856227,6164819</bundle_skus>
   </item>
   <item>
+    <id>6921877</id>
+    <ecommerce_id>870924021</ecommerce_id>
+    <title>Hulk Hogan</title>
+    <url>https://hopincraftbier.be/products/caleya-hulk-hogan</url>
+    <brewery_name>Caleya</brewery_name>
+    <price>7.45</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/870924021/6318660350.png</image>
+    <beer_description>A potent and exotic Hazy Triple IPA! The fruitiness and tropical flavors produced by Citra and Nelson Sauvin are complemented by the subtle umami note contributed by Dolcita. Caleya - Hulk Hogan</beer_description>
+    <beer_style>IPA - Triple New England / Hazy</beer_style>
+    <beer_abv>9.5%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Spain</brewery_country>
+    <untappd_id>6921877</untappd_id>
+  </item>
+  <item>
+    <id>6921879</id>
+    <ecommerce_id>870924020</ecommerce_id>
+    <title>Hoppy Horror Picture Show</title>
+    <url>https://hopincraftbier.be/products/caleya-hoppy-horror-picture-show</url>
+    <brewery_name>Caleya</brewery_name>
+    <price>5.53</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/870924020/6318659964.png</image>
+    <beer_description>West Coast IPA elaborada con adiciones multiples de Centennial, Columbus y Simcoe durante la cocción y rematada con un dry hopping de Columbus y Citra. Clasica pero moderna! A West Coast IPA brewed with multiple additions of Centennial, Columbus, and Simcoe during the boil, and finished with a dry-hop of Columbus and Citra. Classic yet modern! Caleya - Hoppy Horror Picture Show</beer_description>
+    <beer_style>IPA - American</beer_style>
+    <beer_abv>6.2%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Spain</brewery_country>
+    <untappd_id>6921879</untappd_id>
+  </item>
+  <item>
+    <id>6921896</id>
+    <ecommerce_id>870922011</ecommerce_id>
+    <title>Hopi</title>
+    <url>https://hopincraftbier.be/products/caleya-hopi</url>
+    <brewery_name>Caleya</brewery_name>
+    <price>6.31</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/870922011/6318660383.png</image>
+    <beer_description>Hazy IPA, creamy and fruity, with Mosaic whirlpooled and dry-hopped by Nelson Sauvin and Mosaic. Caleya - Hopi</beer_description>
+    <beer_style>IPA - New England / Hazy</beer_style>
+    <beer_abv>n/a</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Spain</brewery_country>
+    <untappd_id>6921896</untappd_id>
+  </item>
+  <item>
     <id>7218609</id>
     <ecommerce_id>870852013</ecommerce_id>
     <title>Recurring</title>
@@ -2685,6 +2733,22 @@
     <beer_volume>473 ml</beer_volume>
     <beer_package>can</beer_package>
     <untappd_id>6585168</untappd_id>
+  </item>
+  <item>
+    <id>7662031</id>
+    <ecommerce_id>856169759</ecommerce_id>
+    <title>Chola</title>
+    <url>https://hopincraftbier.be/products/indiano-chola</url>
+    <brewery_name>INDIANO</brewery_name>
+    <price>6.58</price>
+    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/856169759/6097584695.png</image>
+    <beer_description>Hazy DIPA dry hopped with Nelson Sauvin, Riwaka, Nelson Sauvin and Mosaic Prysma INDIANO - Chola</beer_description>
+    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
+    <beer_abv>8%</beer_abv>
+    <beer_volume>440 ml</beer_volume>
+    <beer_package>can</beer_package>
+    <brewery_country>Spain</brewery_country>
+    <untappd_id>7662031</untappd_id>
   </item>
   <item>
     <id>6826122</id>
@@ -10310,6 +10374,6 @@
     <date_canned>2025-03-03</date_canned>
     <untappd_id>6180169</untappd_id>
   </item>
-  <timestamp>1795545969</timestamp>
-  <gen_date>24/11/24 18:46:09</gen_date>
+  <timestamp>1795596319</timestamp>
+  <gen_date>25/11/25 08:45:19</gen_date>
 </feed>
