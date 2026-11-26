@@ -1516,7 +1516,7 @@
     <brewery_name>Fierce Beer</brewery_name>
     <price>7.69</price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/868992262/6299563978.png</image>
-    <beer_description>Fierce Beer - Very Big Moose Black Forest Bourbon Edition</beer_description>
+    <beer_description>A monumental 13.5% Black Forest gateau-inspired Imperial Stout collaboration with Tartarus Beers! Very Big Moose 2026 : Black Forest Edition conditions VBM on cacao, rich dark sour cherries, and sweet vanilla. Pouring motor-oil thick and pitch-black, the bouquet unleashes decadent chocolate ganache, tart cherry glaze, velvety vanilla cream, and warming wood complexity over an ultra-viscous palate. Fierce Beer - Very Big Moose Black Forest Bourbon Edition</beer_description>
     <beer_style>Stout - Imperial / Double</beer_style>
     <beer_abv>13.5%</beer_abv>
     <beer_volume>330 ml</beer_volume>
@@ -1532,7 +1532,7 @@
     <brewery_name>Fierce Beer</brewery_name>
     <price>7.33</price>
     <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/868987703/6299599602.png</image>
-    <beer_description>Fierce Beer - Very Big Moose Bourbon Edition 2026</beer_description>
+    <beer_description>The legendary signature VBM recipe matured in American Bourbon oak! Very Big Moose 2026 : Bourbon Edition is a massive 12.5% Imperial Stout conditioned on cacao and vanilla before undergoing extended aging in bourbon casks. Pouring motor-oil thick and pitch-black, it unloads rich chocolate ganache, dark espresso, toasted oak, burnt caramel sugar, and smooth bourbon warmth. Fierce Beer - Very Big Moose Bourbon Edition 2026</beer_description>
     <beer_style>Stout - Imperial / Double</beer_style>
     <beer_abv>12.5%</beer_abv>
     <beer_volume>330 ml</beer_volume>
@@ -10452,6 +10452,6 @@
     <date_canned>2025-03-03</date_canned>
     <untappd_id>6180169</untappd_id>
   </item>
-  <timestamp>1795678219</timestamp>
-  <gen_date>26/11/26 07:30:19</gen_date>
+  <timestamp>1795679118</timestamp>
+  <gen_date>26/11/26 07:45:18</gen_date>
 </feed>
