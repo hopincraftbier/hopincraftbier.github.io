@@ -1603,25 +1603,6 @@
     <untappd_id>6999246</untappd_id>
   </item>
   <item>
-    <id>6920683</id>
-    <ecommerce_id>865997676</ecommerce_id>
-    <title>Roots (collab Galway Bay)</title>
-    <url>https://hopincraftbier.be/products/hoppy-people-roots</url>
-    <brewery_name>Hoppy People</brewery_name>
-    <price>6.68</price>
-    <regular_price>7.42</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/865997676/6268493442.png</image>
-    <beer_description>DDH DIPA, collab with Galway Bay Citra and Nelson Sauvin. Hoppy People - Roots</beer_description>
-    <beer_style>IPA - Imperial / Double</beer_style>
-    <beer_abv>8%</beer_abv>
-    <beer_volume>440 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Switzerland</brewery_country>
-    <date_best_before>2027-07-07</date_best_before>
-    <date_canned>2026-10-07</date_canned>
-    <untappd_id>6920683</untappd_id>
-  </item>
-  <item>
     <id>6920687</id>
     <ecommerce_id>866027273</ecommerce_id>
     <title>Blind (collab Stepping Stone)</title>
@@ -10683,6 +10664,6 @@
     <date_canned>2025-03-03</date_canned>
     <untappd_id>6180169</untappd_id>
   </item>
-  <timestamp>1795757419</timestamp>
-  <gen_date>27/11/27 05:30:19</gen_date>
+  <timestamp>1795768216</timestamp>
+  <gen_date>27/11/27 08:30:16</gen_date>
 </feed>
