@@ -680,26 +680,6 @@
     <bundle_skus>6250418,6253097</bundle_skus>
   </item>
   <item>
-    <id>9000000060</id>
-    <ecommerce_id>876714795</ecommerce_id>
-    <title>Prizm Brewing Co. - Quartet #2</title>
-    <url>https://hopincraftbier.be/products/prizm-brewing-co-quartet-2</url>
-    <brewery_name>Prizm Brewing Co.</brewery_name>
-    <price>11.69</price>
-    <regular_price>28.86</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/876714795/6395263558.png</image>
-    <beer_description>The Prizm Brewing Co. - Quartet #2 contains: - Prizm - LimgraveIPA - Imperial / Double New England / Hazy | 8% | 440 ml - Prizm - Kiss The RingIPA - Imperial / Double New England / Hazy | 8% | 440 ml - Prizm - End of All We KnowIPA - Triple New England / Hazy | 9% | 440 ml - Prizm - The Way Is ShutStout - Imperial / Double Pastry | 12% | 440 ml</beer_description>
-    <beer_style>Stout - IPA</beer_style>
-    <beer_abv>8 - 12%</beer_abv>
-    <beer_volume>4x440 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>France</brewery_country>
-    <date_best_before>2026-11-01</date_best_before>
-    <beer_package_count>4</beer_package_count>
-    <beer_bundle>1</beer_bundle>
-    <bundle_skus>6589941,6447706,6611923,6448002</bundle_skus>
-  </item>
-  <item>
     <id>9000000059</id>
     <ecommerce_id>876711551</ecommerce_id>
     <title>Sparkle ✨ - Quintet #1</title>
@@ -2737,24 +2717,6 @@
     <brewery_country>Romania</brewery_country>
     <date_best_before>2027-04-25</date_best_before>
     <untappd_id>6793624</untappd_id>
-  </item>
-  <item>
-    <id>6793615</id>
-    <ecommerce_id>857207753</ecommerce_id>
-    <title>Farm Fraiche</title>
-    <url>https://hopincraftbier.be/products/bereta-farm-fraiche</url>
-    <brewery_name>Bereta Brewing Co.</brewery_name>
-    <price>6.11</price>
-    <regular_price>6.79</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/857207753/6128923294.png</image>
-    <beer_description>Heavily Hopped Triple IPA with Citra, Krush &amp; Rakau. Bereta Brewing Co. - Farm Fraiche</beer_description>
-    <beer_style>IPA - Triple New England / Hazy</beer_style>
-    <beer_abv>9.7%</beer_abv>
-    <beer_volume>440 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Romania</brewery_country>
-    <date_best_before>2027-04-25</date_best_before>
-    <untappd_id>6793615</untappd_id>
   </item>
   <item>
     <id>6745151</id>
@@ -10107,24 +10069,6 @@
     <untappd_id>6448002</untappd_id>
   </item>
   <item>
-    <id>4478126</id>
-    <ecommerce_id>787747547</ecommerce_id>
-    <title>Fuzz Effect</title>
-    <url>https://hopincraftbier.be/products/trillium-fuzz-effect</url>
-    <brewery_name>Trillium Brewing Company</brewery_name>
-    <price>4.91</price>
-    <regular_price>10.91</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/787747547/5260631812.webp</image>
-    <beer_description>Pouring a hazy, golden yellow, Fuzz Effect's juicy aroma leaps from the glass. Notes of a lush tropical smoothie, fresh-pressed white grape juice, and lychee sorbet race across the palate. Each sip is silky, coating the tongue with uncut hop delight. With just enough sweetness to complement the waves of fruit aromatics, Fuzz Effect finishes gently bitter and highly satisfying. Trillium - Fuzz Effect</beer_description>
-    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
-    <beer_abv>8%</beer_abv>
-    <beer_volume>473 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>United States</brewery_country>
-    <date_canned>2025-11-11</date_canned>
-    <untappd_id>4478126</untappd_id>
-  </item>
-  <item>
     <id>6379068</id>
     <ecommerce_id>787747052</ecommerce_id>
     <title>16th Anniversary – Barrel-Aged Barleywine Ale (2025)</title>
@@ -10664,6 +10608,6 @@
     <date_canned>2025-03-03</date_canned>
     <untappd_id>6180169</untappd_id>
   </item>
-  <timestamp>1795768216</timestamp>
-  <gen_date>27/11/27 08:30:16</gen_date>
+  <timestamp>1795770019</timestamp>
+  <gen_date>27/11/27 09:00:19</gen_date>
 </feed>
