@@ -3403,23 +3403,6 @@
     <untappd_id>6844744</untappd_id>
   </item>
   <item>
-    <id>6838597</id>
-    <ecommerce_id>852259745</ecommerce_id>
-    <title>Blue Azureus</title>
-    <url>https://hopincraftbier.be/products/lolev-blue-azureus</url>
-    <brewery_name>Lolev Beer</brewery_name>
-    <price>9.6</price>
-    <regular_price>10.67</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/852259745/6177882122.png</image>
-    <beer_description>Hops: Freestyle Rakau, Freestyle Riwaka, Freestyle Waimea, Freestyle Nelson Bliss, Waimea SubZero Hop Kief, Nelson Sauvin SubZero Hop Kief Lolev Beer - Blue Azureus</beer_description>
-    <beer_style>IPA - Imperial / Double</beer_style>
-    <beer_abv>9%</beer_abv>
-    <beer_volume>473 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>United States</brewery_country>
-    <untappd_id>6838597</untappd_id>
-  </item>
-  <item>
     <id>6833327</id>
     <ecommerce_id>852282337</ecommerce_id>
     <title>Sapphire</title>
@@ -3627,23 +3610,6 @@
     <untappd_id>5712522</untappd_id>
   </item>
   <item>
-    <id>6776439</id>
-    <ecommerce_id>847941279</ecommerce_id>
-    <title>Snow Leopard</title>
-    <url>https://hopincraftbier.be/products/lolev-animal-12-snow-leopard</url>
-    <brewery_name>Lolev</brewery_name>
-    <price>9.6</price>
-    <regular_price>10.67</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/847941279/5994384267.png</image>
-    <beer_description>Hops: Freestyle Nelson Sauvin, Freestyle Riwaka, Estate Grown Comet, Freestyle Nelson Bliss Subzero Hop Kief, Citra Liquid Lupulin. Lolev - Snow Leopard</beer_description>
-    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
-    <beer_abv>8.7%</beer_abv>
-    <beer_volume>473 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>United States</brewery_country>
-    <untappd_id>6776439</untappd_id>
-  </item>
-  <item>
     <id>6783891</id>
     <ecommerce_id>847946514</ecommerce_id>
     <title>White Tiger</title>
@@ -3661,23 +3627,6 @@
     <untappd_id>6783891</untappd_id>
   </item>
   <item>
-    <id>6803302</id>
-    <ecommerce_id>847950253</ecommerce_id>
-    <title>Ocelot</title>
-    <url>https://hopincraftbier.be/products/lolev-animal-15-ocelot</url>
-    <brewery_name>Lolev</brewery_name>
-    <price>9.6</price>
-    <regular_price>10.67</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/847950253/5994384275.png</image>
-    <beer_description>Heavily hopped with a blend of Freestyle Riwaka, Freestyle Waimea, Freestyle NZ Cascade, Freestyle Nelson Sauvin, NZ Cascade SubZero Hop Kief, and Wai-iti Cold-Pressed Hop Juice. Lolev - Ocelot</beer_description>
-    <beer_style>IPA - New England / Hazy</beer_style>
-    <beer_abv>8.4%</beer_abv>
-    <beer_volume>473 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>United States</brewery_country>
-    <untappd_id>6803302</untappd_id>
-  </item>
-  <item>
     <id>6811746</id>
     <ecommerce_id>847946513</ecommerce_id>
     <title>Dalmatian</title>
@@ -3693,23 +3642,6 @@
     <beer_package>can</beer_package>
     <brewery_country>United States</brewery_country>
     <untappd_id>6811746</untappd_id>
-  </item>
-  <item>
-    <id>6794017</id>
-    <ecommerce_id>847952501</ecommerce_id>
-    <title>Appaloosa</title>
-    <url>https://hopincraftbier.be/products/lolev-appaloosa</url>
-    <brewery_name>Lolev</brewery_name>
-    <price>9.6</price>
-    <regular_price>10.67</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/847952501/6039782755.png</image>
-    <beer_description>Freestyle Motueka, Freestyle Waimea, Freestyle Nelson Sauvin, Roy Farms Citra Liquid Lupulin, Fresh Wai-iti Cold-Pressed Hop Juice Lolev - Appaloosa</beer_description>
-    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
-    <beer_abv>8.6%</beer_abv>
-    <beer_volume>473 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>United States</brewery_country>
-    <untappd_id>6794017</untappd_id>
   </item>
   <item>
     <id>6790560</id>
@@ -5782,23 +5714,6 @@
     <beer_package>can</beer_package>
     <brewery_country>United States</brewery_country>
     <untappd_id>6707674</untappd_id>
-  </item>
-  <item>
-    <id>6729888</id>
-    <ecommerce_id>833229740</ecommerce_id>
-    <title>Leopard</title>
-    <url>https://hopincraftbier.be/products/lolev-beer-susa</url>
-    <brewery_name>Lolev Beer</brewery_name>
-    <price>9.6</price>
-    <regular_price>10.67</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/833229740/5876675551.png</image>
-    <beer_description>Hops: Citra, Freestyle Nelson Bliss, Eggers Nelson Sauvin, Freestyle Super Sauvin, Freestyle Nelson Bliss Subzero Hop Kief Lolev Beer - Leopard</beer_description>
-    <beer_style>IPA - Imperial / Double New England / Hazy</beer_style>
-    <beer_abv>8.7%</beer_abv>
-    <beer_volume>473 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>United States</brewery_country>
-    <untappd_id>6729888</untappd_id>
   </item>
   <item>
     <id>6712242</id>
@@ -9285,23 +9200,6 @@
     <untappd_id>5734470</untappd_id>
   </item>
   <item>
-    <id>6491708</id>
-    <ecommerce_id>797997506</ecommerce_id>
-    <title>YQB-N5</title>
-    <url>https://hopincraftbier.be/products/nano-cinco-yqb-n5</url>
-    <brewery_name>Nano Cinco</brewery_name>
-    <price>7.59</price>
-    <regular_price>11.24</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/5409098263.png</image>
-    <beer_description>YQB-N5 is a New England Quadruple IPA brewed with Riwaka, Rakau, and Motueka hops (used in three forms: T90, Hop Kief, and Amplifire). Its name and design are a nod to the Beluga, the colossal aircraft designed to transport other aircraft. It boasts intense aromas of Sauvignon Blanc and citrus, carried by a silky, enveloping texture. A beer whose sweetness skillfully masks its alcoholic strength. Nano Cinco - YQB-N5</beer_description>
-    <beer_style>IPA - Quadruple</beer_style>
-    <beer_abv>11%</beer_abv>
-    <beer_volume>473 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Canada</brewery_country>
-    <untappd_id>6491708</untappd_id>
-  </item>
-  <item>
     <id>6222183</id>
     <ecommerce_id>797997504</ecommerce_id>
     <title>Swirlee - Raspberry Creamsicle</title>
@@ -10318,6 +10216,6 @@
     <date_canned>2025-03-03</date_canned>
     <untappd_id>6180169</untappd_id>
   </item>
-  <timestamp>1795788923</timestamp>
-  <gen_date>27/11/27 14:15:23</gen_date>
+  <timestamp>1795793419</timestamp>
+  <gen_date>27/11/27 15:30:19</gen_date>
 </feed>
