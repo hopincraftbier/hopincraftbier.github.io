@@ -554,47 +554,6 @@
     <bundle_skus>6734225,6762527,6789847</bundle_skus>
   </item>
   <item>
-    <id>9000000070</id>
-    <ecommerce_id>876958562</ecommerce_id>
-    <title>Fauve - Mix Pair</title>
-    <url>https://hopincraftbier.be/products/fauve-mix-pair</url>
-    <brewery_name>Fauve</brewery_name>
-    <price>5.8</price>
-    <regular_price>12.87</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/876958562/6397125207.png</image>
-    <beer_description>The Fauve - Mix Pair contains: - Rêve CosmiqueIPA - New England / Hazy | 6,5% | 440 ml - Ivoire SombreStout - Imperial / Double Pastry | 12% | 330 ml</beer_description>
-    <beer_style>Stout - IPA</beer_style>
-    <beer_abv>6 - 12%</beer_abv>
-    <beer_volume>Mix</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>France</brewery_country>
-    <date_best_before>2026-10-21</date_best_before>
-    <date_canned>2026-02-16</date_canned>
-    <beer_package_count>2</beer_package_count>
-    <beer_bundle>1</beer_bundle>
-    <bundle_skus>6576351,6577278</bundle_skus>
-  </item>
-  <item>
-    <id>9000000069</id>
-    <ecommerce_id>876962509</ecommerce_id>
-    <title>Fauve - DIPA Pair</title>
-    <url>https://hopincraftbier.be/products/fauve-dipa-pair</url>
-    <brewery_name>Fauve</brewery_name>
-    <price>8.95</price>
-    <regular_price>14.2</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/876962509/6397087547.png</image>
-    <beer_description>The Fauve - DIPA Pair contains: - Hommage aux Cent PontsIPA - Imperial / Double New England / Hazy | 7,5% | 440 ml - L'Éveil Des GéantsIPA - Imperial / Double | 8% | 440 ml</beer_description>
-    <beer_style>IPA</beer_style>
-    <beer_abv>7 - 8%</beer_abv>
-    <beer_volume>2x440 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>France</brewery_country>
-    <date_best_before>2026-11-17</date_best_before>
-    <beer_package_count>2</beer_package_count>
-    <beer_bundle>1</beer_bundle>
-    <bundle_skus>6622277,6591597</bundle_skus>
-  </item>
-  <item>
     <id>9000000068</id>
     <ecommerce_id>876957972</ecommerce_id>
     <title>Fauve - Quartet #1</title>
@@ -3211,25 +3170,6 @@
     <untappd_id>6714351</untappd_id>
   </item>
   <item>
-    <id>6762527</id>
-    <ecommerce_id>854141278</ecommerce_id>
-    <title>PURE Citra</title>
-    <url>https://hopincraftbier.be/products/track-pure-citra</url>
-    <brewery_name>Track Brewing Company</brewery_name>
-    <price>6.39</price>
-    <regular_price>9.47</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/854141278/6051703517.png</image>
-    <beer_description>Our truest expression of a hop we hold dear to our hearts, tempered and coated in satin-smooth luxuriousness by a lick of lactose. Grapefruit, orange pith and passionfruit, draped in pure gold and resting on a soft bed of barley, oats and wheat. Track Brewing Company - PURE Citra</beer_description>
-    <beer_style>IPA - Imperial / Double Milkshake</beer_style>
-    <beer_abv>8.4%</beer_abv>
-    <beer_volume>440 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>England</brewery_country>
-    <date_best_before>2026-12-03</date_best_before>
-    <date_canned>2026-06-18</date_canned>
-    <untappd_id>6762527</untappd_id>
-  </item>
-  <item>
     <id>6734225</id>
     <ecommerce_id>854141277</ecommerce_id>
     <title>Luminescence</title>
@@ -5084,24 +5024,6 @@
     <untappd_id>6745199</untappd_id>
   </item>
   <item>
-    <id>6743370</id>
-    <ecommerce_id>839043417</ecommerce_id>
-    <title>Perfect Piece (15th Anniversary Other Half Collab) (collab Other Half)</title>
-    <url>https://hopincraftbier.be/products/pinta-perfect-piece</url>
-    <brewery_name>PINTA</brewery_name>
-    <price>5.64</price>
-    <regular_price>6.27</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/839043417/5817179992.png</image>
-    <beer_description>For their 15th anniversary, PINTA wanted to give themselves and the beer world the ultimate birthday gift. And they succeeded! They have joined forces with Other Half Brewing from New York, undisputed masters of Hazy IPAs. Perfect Piece is an absolute world-class brewing marvel, in which the best modern hops come together in one extremely thick and cloudy beer. PINTA - Perfect Piece (15th Anniversary Other Half Collab) PINTA - Perfect Piece</beer_description>
-    <beer_style>IPA - New England / Hazy</beer_style>
-    <beer_abv>6.5%</beer_abv>
-    <beer_volume>500 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Poland</brewery_country>
-    <date_best_before>2027-09-03</date_best_before>
-    <untappd_id>6743370</untappd_id>
-  </item>
-  <item>
     <id>6726499</id>
     <ecommerce_id>838634186</ecommerce_id>
     <title>Capitaine Val-Morin - Le Ketch X BreWskey (collab BreWskey)</title>
@@ -5558,25 +5480,6 @@
     <date_best_before>2026-12-01</date_best_before>
     <date_canned>2026-06-01</date_canned>
     <untappd_id>6706759</untappd_id>
-  </item>
-  <item>
-    <id>6706758</id>
-    <ecommerce_id>836670311</ecommerce_id>
-    <title>Altitude</title>
-    <url>https://hopincraftbier.be/products/doskiwis-altitude</url>
-    <brewery_name>DosKiwis</brewery_name>
-    <price>4.69</price>
-    <regular_price>6.94</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/836670311/5776054625.png</image>
-    <beer_description>A SMOOTH HAZY IPA FEATURING NECTARON, WOOD, MOSAIC CRYO &amp; WAIMEA FRESH HOP JUICE. DosKiwis - Altitude</beer_description>
-    <beer_style>IPA - New England / Hazy</beer_style>
-    <beer_abv>6.7%</beer_abv>
-    <beer_volume>440 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Spain</brewery_country>
-    <date_best_before>2026-11-21</date_best_before>
-    <date_canned>2026-05-21</date_canned>
-    <untappd_id>6706758</untappd_id>
   </item>
   <item>
     <id>6744274</id>
@@ -9309,25 +9212,6 @@
     <untappd_id>6574780</untappd_id>
   </item>
   <item>
-    <id>6574797</id>
-    <ecommerce_id>804684039</ecommerce_id>
-    <title>Distant Closeness (collab Beak)</title>
-    <url>https://hopincraftbier.be/products/factory-distant-closeness</url>
-    <brewery_name>Factory Brewing</brewery_name>
-    <price>3.2</price>
-    <regular_price>7.1</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/804684039/5532862016.png</image>
-    <beer_description>A Hazy IPA with Citra, NZ Cascade, and Southern Cross. "With BEAK from the UK we selected a beautiful hop combination of Citra, NZ Cascade, and Southern Cross to showcase the strong citrus aromas of each hop. Alongside the citrus, you can expect notes of dankness, mango, and other stone fruits, rounded out by a pleasant grassiness." Head Brewer Jirka Ordén Factory - Distant Closeness</beer_description>
-    <beer_style>IPA - New England / Hazy</beer_style>
-    <beer_abv>7.3%</beer_abv>
-    <beer_volume>440 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>Finland</brewery_country>
-    <date_best_before>11/2026</date_best_before>
-    <date_canned>2026-01-22</date_canned>
-    <untappd_id>6574797</untappd_id>
-  </item>
-  <item>
     <id>6526650</id>
     <ecommerce_id>803521751</ecommerce_id>
     <title>George Le Crapaud (collab BreWskey)</title>
@@ -10625,6 +10509,6 @@
     <date_canned>2025-03-03</date_canned>
     <untappd_id>6180169</untappd_id>
   </item>
-  <timestamp>1795775360</timestamp>
-  <gen_date>27/11/27 11:29:20</gen_date>
+  <timestamp>1795778119</timestamp>
+  <gen_date>27/11/27 11:15:19</gen_date>
 </feed>
