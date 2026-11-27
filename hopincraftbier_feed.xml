@@ -176,27 +176,6 @@
     <bundle_skus>6834656,6834661,6817152,6798399</bundle_skus>
   </item>
   <item>
-    <id>9000000095</id>
-    <ecommerce_id>878551251</ecommerce_id>
-    <title>Cloudwater Brew Co. - IPA Triplet</title>
-    <url>https://hopincraftbier.be/products/cloudwater-brew-co-ipa-triplet</url>
-    <brewery_name>Cloudwater Brew Co.</brewery_name>
-    <price>11.23</price>
-    <regular_price>27.73</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/878551251/6417188562.png</image>
-    <beer_description>The Cloudwater Brew Co. - IPA Triplet contains: - Cloudwater - EssenceIPA - New England / Hazy | 6,5% | 440 ml - Cloudwater - NexusIPA - New England / Hazy | 6,5% | 440 ml - Cloudwater - Hooked On AotearoaIPA - New Zealand | 7% | 440 ml</beer_description>
-    <beer_style>IPA</beer_style>
-    <beer_abv>6 - 7%</beer_abv>
-    <beer_volume>3x440 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>England</brewery_country>
-    <date_best_before>2026-11-11</date_best_before>
-    <date_canned>2026-05-11</date_canned>
-    <beer_package_count>3</beer_package_count>
-    <beer_bundle>1</beer_bundle>
-    <bundle_skus>6681759,6681760,6681757</bundle_skus>
-  </item>
-  <item>
     <id>9000000094</id>
     <ecommerce_id>878549501</ecommerce_id>
     <title>Cloudwater Brew Co. - DIPA Triplet</title>
@@ -531,27 +510,6 @@
     <beer_package_count>4</beer_package_count>
     <beer_bundle>1</beer_bundle>
     <bundle_skus>6918978,6918048,7210956,7538751</bundle_skus>
-  </item>
-  <item>
-    <id>9000000071</id>
-    <ecommerce_id>877001252</ecommerce_id>
-    <title>Track Brewing Company - Triplet #1</title>
-    <url>https://hopincraftbier.be/products/track-brewing-company-triplet-1</url>
-    <brewery_name>Track Brewing Company</brewery_name>
-    <price>17.76</price>
-    <regular_price>30.35</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/877001252/6397256121.png</image>
-    <beer_description>The Track Brewing Company - Triplet #1 contains: - Track - LuminescenceIPA - Imperial / Double Milkshake | 8,4% | 440 ml - Track - PURE CitraIPA - Imperial / Double Milkshake | 8,4% | 440 ml - Track - InterceptIPA - Triple New England / Hazy | 10% | 440 ml</beer_description>
-    <beer_style>IPA</beer_style>
-    <beer_abv>8 - 10%</beer_abv>
-    <beer_volume>3x440 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>England</brewery_country>
-    <date_best_before>2026-11-12</date_best_before>
-    <date_canned>2026-05-28</date_canned>
-    <beer_package_count>3</beer_package_count>
-    <beer_bundle>1</beer_bundle>
-    <bundle_skus>6734225,6762527,6789847</bundle_skus>
   </item>
   <item>
     <id>9000000068</id>
@@ -3170,25 +3128,6 @@
     <untappd_id>6714351</untappd_id>
   </item>
   <item>
-    <id>6734225</id>
-    <ecommerce_id>854141277</ecommerce_id>
-    <title>Luminescence</title>
-    <url>https://hopincraftbier.be/products/track-luminescence</url>
-    <brewery_name>Track Brewing Company</brewery_name>
-    <price>4.27</price>
-    <regular_price>9.47</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/854141277/6051703133.png</image>
-    <beer_description>Wade into the welcoming, glowing waters of this Gold Top DIPA, blooming with light from Citra, NZ Cascade, Motueka and Peacharine. Let your palate be sun-kissed by papaya, mango and passionfruit, fizz with lemon-lime ice lolly shots and grapefruit punch, and be sugared by peach pie, nectarines in syrup and sweet berry compote. An underlying florality conjures memories of botanical gardens and lawn tennis courts, whilst a dollop of lactose cools everything down like a scoop of sorbet on a scorching hot summer day. Track Brewing Company - Luminescence</beer_description>
-    <beer_style>IPA - Imperial / Double Milkshake</beer_style>
-    <beer_abv>8.4%</beer_abv>
-    <beer_volume>440 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>England</brewery_country>
-    <date_best_before>2026-11-12</date_best_before>
-    <date_canned>2026-05-28</date_canned>
-    <untappd_id>6734225</untappd_id>
-  </item>
-  <item>
     <id>6793741</id>
     <ecommerce_id>854141017</ecommerce_id>
     <title>Under the Thunder</title>
@@ -5273,25 +5212,6 @@
     <beer_package_count>3</beer_package_count>
     <beer_bundle>1</beer_bundle>
     <bundle_skus>6689037,5721027,6655592</bundle_skus>
-  </item>
-  <item>
-    <id>6650380</id>
-    <ecommerce_id>837860495</ecommerce_id>
-    <title>Overturn</title>
-    <url>https://hopincraftbier.be/products/track-overturn</url>
-    <brewery_name>Track Brewing Company</brewery_name>
-    <price>4.19</price>
-    <regular_price>9.31</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/837860495/5787587391.png</image>
-    <beer_description>Collapse into the comforting embrace of this Gold Top DIPA. Citra, Motueka, Eggers Special and Galaxy are the conductors of the orchestra of indulgence, which sings in a symphony of luxurious flavour. Sharp and zippy pomelo spritz meets pineapple tepache and ice cold limoncello, sliding into passionfruit liqueur and slithers of dried mango, before slice after slice of key lime pie and peach crumble. Lactose blankets the palate with satin smoothness and ramps up the decadence even further. Track Brewing Company - Overturn</beer_description>
-    <beer_style>IPA - Imperial / Double Milkshake</beer_style>
-    <beer_abv>8.4%</beer_abv>
-    <beer_volume>440 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>England</brewery_country>
-    <date_best_before>2026-09-09</date_best_before>
-    <date_canned>2026-03-25</date_canned>
-    <untappd_id>6650380</untappd_id>
   </item>
   <item>
     <id>6619576</id>
@@ -9735,24 +9655,6 @@
     <untappd_id>6531336</untappd_id>
   </item>
   <item>
-    <id>6172299</id>
-    <ecommerce_id>793373327</ecommerce_id>
-    <title>Slø Turbo (2025)</title>
-    <url>https://hopincraftbier.be/products/hoof-hearted-slo-turbo-2025</url>
-    <brewery_name>Hoof Hearted Brewing</brewery_name>
-    <price>4.62</price>
-    <regular_price>10.25</regular_price>
-    <image>https://d2j6dbq0eux0bg.cloudfront.net/images/112251271/products/793373327/5330978558.png</image>
-    <beer_description>Unleaded super diesel icon 'Heavy Nelson' slides off from the stage and into the crowd. He's locked eyes on Gary and needs to strike while the lights stay low.'Pizza Pizza Pizza', he croons as a conga line grows behind him. Looking back, two thoughts occur in quick succession. The first: DIPA's hopped exclusively w/ New Zealand varietals and a laser-focus on Nelson Sauvin make all the girls want to get to know you. The second: he's only got one chance to make this right for everybody.'Heyyyy Gary from back the office who likes to order broccoli on the casual Friday staff pizza and only takes one piece for himself..' Dipa with whole cone Southern Hemisphere Hops. Hoof Hearted - Sl Turbo (2025)</beer_description>
-    <beer_style>IPA - New England / Hazy</beer_style>
-    <beer_abv>8.5%</beer_abv>
-    <beer_volume>473 ml</beer_volume>
-    <beer_package>can</beer_package>
-    <brewery_country>United States</brewery_country>
-    <date_canned>2025-11-04</date_canned>
-    <untappd_id>6172299</untappd_id>
-  </item>
-  <item>
     <id>5641114</id>
     <ecommerce_id>793373328</ecommerce_id>
     <title>Les Angles Morts</title>
@@ -10453,6 +10355,6 @@
     <date_canned>2025-03-03</date_canned>
     <untappd_id>6180169</untappd_id>
   </item>
-  <timestamp>1795781719</timestamp>
-  <gen_date>27/11/27 12:15:19</gen_date>
+  <timestamp>1795787118</timestamp>
+  <gen_date>27/11/27 13:45:18</gen_date>
 </feed>
